@@ -1,0 +1,224 @@
+{
+  "name": "Industrial Design",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/industrialdesign/",
+  "courses": [
+    {
+      "code": "IDES 1000",
+      "name": "Theory and History of Design",
+      "credit": "0.5",
+      "description": "The theoretical and historical background of industrial design and design; disciplinary foundations and interdisciplinary connections; methodological aspects and economic and social contexts; contemporary scenarios in design; technological innovation and manufacturing processes."
+    },
+    {
+      "code": "IDES 1001",
+      "name": "Industrial Design Analysis",
+      "credit": "0.5",
+      "description": "Principles of comparative product design analysis covering marketing and sales, manufacturing techniques and materials, ambiance and qualities of the object/context relationship, and design analysis from the perspective of the designer, the end-user and the environment."
+    },
+    {
+      "code": "IDES 1300",
+      "name": "Projects IA",
+      "credit": "0.5",
+      "description": "An introduction to the skills and processes of industrial design including drawing and sketching as an aid to design, basics of line, shape, ideation, and visualization, product drawing, presentation techniques, basic model making, studio equipment and practices, introduction to the design process."
+    },
+    {
+      "code": "IDES 1301",
+      "name": "Projects IB",
+      "credit": "0.5",
+      "description": "Aspects of industrial design theory and practice, specifically those dealing with principles of product development, fundamentals of form and colour and case studies. Students will explore the design process with emphasis on creative problem-solving techniques and visual communication in design."
+    },
+    {
+      "code": "IDES 2101",
+      "name": "Design for Manufacturing A",
+      "credit": "0.5",
+      "description": "Transformation techniques applied to manufacturing materials. Part-design requirements and cost factors for manufacturing processes. Influences and role of assembly, finishing, production tooling, and costing."
+    },
+    {
+      "code": "IDES 2102",
+      "name": "Design for Manufacturing B",
+      "credit": "0.5",
+      "description": "Continuation of . Transformation techniques applied to manufacturing materials. Part-design requirements and cost factors for manufacturing processes. The influences and role of assembly, finishing, production tooling, costing are addressed."
+    },
+    {
+      "code": "IDES 2104",
+      "name": "Computer Applications A",
+      "credit": "0.5",
+      "description": "Provides industrial design students with working knowledge of design related 2D computer applications, such as graphic manipulation, illustration software, and 2D Computer-Aided Design (CAD). Labs and projects are oriented towards building a foundation in software and group work skills for studio courses."
+    },
+    {
+      "code": "IDES 2105",
+      "name": "Computer Applications B",
+      "credit": "0.5",
+      "description": "Provides industrial design students with working knowledge of design related three-dimensional (3D) computer applications, such as solid and surface modelling computer-aided design (CAD) software. Labs and projects are oriented towards building a foundation in software and group work skills for studio courses."
+    },
+    {
+      "code": "IDES 2205",
+      "name": "Sensory Aspects of Design for User Experience",
+      "credit": "0.5",
+      "description": "An exploration of multi-sensory qualities derived from and designed into products to optimize product-interaction experiences. Visual, tactile, auditory, and other related sensory aspects of design and design principles that contribute to the product multi-sensory characteristics while adding meaning and emotional value."
+    },
+    {
+      "code": "IDES 2300",
+      "name": "Projects IIA",
+      "credit": "0.5",
+      "description": "Principles of design sketching used in the industrial design process. Topics include: sketching as a tool for problem definition; idea exploration and form development; rendering techniques and the communication of design concepts; basic physical prototyping and modeling-making techniques."
+    },
+    {
+      "code": "IDES 2302",
+      "name": "Projects IIB",
+      "credit": "0.5",
+      "description": "Introduction to the design principles associated with adapting products to an existing product semantic. Topics covered: principles of design, product semantics, design analysis, design synthesis, design evaluation, and modeling techniques. The design project(s) explore some or all of the design principles covered in the lectures."
+    },
+    {
+      "code": "IDES 2600",
+      "name": "Human Factors/Ergonomics in Design",
+      "credit": "0.5",
+      "description": "Foundation course in human factors/ergonomics providing an overview of physical and cognitive considerations in product design and related design fields. Anthropometrics, biomechanical considerations, cognition, social interaction, and emotional interaction are introduced in relation to supporting user experience, health and safety, performance and productivity."
+    },
+    {
+      "code": "IDES 3104",
+      "name": "Exhibition Design",
+      "credit": "0.5",
+      "description": "Exhibition design is explored through lectures, case studies, field trips and guest lectures. Students participate in exercises and apply design skills to a variety of exhibition design realms. Introduces students to the potential of the built environment for exploring a range of diverse exhibit applications."
+    },
+    {
+      "code": "IDES 3105",
+      "name": "Visual Communication and Package Design",
+      "credit": "0.5",
+      "description": "A survey of visual communication and package design principles relevant to industrial designers. Product/brand definition and corporate identity through package design."
+    },
+    {
+      "code": "IDES 3106",
+      "name": "Advanced Computer Applications",
+      "credit": "0.5",
+      "description": "Examination of complex product geometry utilizing 3D computer applications. Topics include spline, surface and solids construction, surface verification tools, and rendering tools and techniques. Workflow, robust design, reverse design techniques and 3D printing will be explored through exercises."
+    },
+    {
+      "code": "IDES 3107",
+      "name": "Design and Sustainability",
+      "credit": "0.5",
+      "description": "Explores the industrial designer's role in creating more environmentally and socially responsible products.  Addresses imperatives and drivers for integrating sustainability into products. Includes: sustainable design strategies, strategies and tools, sustainable design business case, circular economy model for designed products, and case studies."
+    },
+    {
+      "code": "IDES 3202",
+      "name": "Advanced Studies in Form and Colour",
+      "credit": "0.5",
+      "description": "Students may continue the research and study encountered in , and by doing advanced research in the phenomena of form and/or colour and their communicative functions in products. Directed Study."
+    },
+    {
+      "code": "IDES 3302",
+      "name": "Projects IIIB",
+      "credit": "0.5",
+      "description": "Introduction to the principles of innovation as found in industrial design. Invention, innovation, entrepreneurship, basic mechanisms. The design project(s) explore some or all of the design principles covered in the lectures."
+    },
+    {
+      "code": "IDES 3305",
+      "name": "Special Studies",
+      "credit": "0.5",
+      "description": "Special Industrial Design Studies deal with specific projects, which may differ from year to year depending on the availability of specialists in a particular field or study opportunities as they present themselves."
+    },
+    {
+      "code": "IDES 3306",
+      "name": "Special Studies",
+      "credit": "0.5",
+      "description": "Special Industrial Design Studies deal with specific projects, which may differ from year to year depending on the availability of specialists in a particular field or study opportunities as they present themselves."
+    },
+    {
+      "code": "IDES 3310",
+      "name": "Projects IIIA",
+      "credit": "0.5",
+      "description": "Introduction to the design principles associated with the evaluation and re-design of an existing product. Topics include: user/machine relationship, component packaging, and manufacturability. The design project(s) explore some or all of the design principles covered in the lectures."
+    },
+    {
+      "code": "IDES 3502",
+      "name": "Contextual Nature of Products",
+      "credit": "0.5",
+      "description": "Cultural subjects which have an influence on contemporary industrial design. The perspective of the course is anthropological: the context and cultural relevance of industrial design."
+    },
+    {
+      "code": "IDES 3601",
+      "name": "Research for Design",
+      "credit": "0.5",
+      "description": "Basic design research techniques to foster design exploration. Methods focus on understanding context and user experience to produce meaningful, actionable insights and design opportunities. Processes include qualitative and quantitative research, as well as creative and evaluative research with people. Teamwork and collaboration are explored."
+    },
+    {
+      "code": "IDES 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "IDES 4001",
+      "name": "Industrial Design Seminar",
+      "credit": "0.5",
+      "description": "Topics vary yearly and address key contemporary industrial design issues. There is a focus on writing, discussion, and debate. Students organize a seminar with design professionals and other community experts including student and professional presentations, interaction, and discussion."
+    },
+    {
+      "code": "IDES 4002",
+      "name": "Professional Practice",
+      "credit": "0.5",
+      "description": "The organizational aspects of consultancies and client responsibilities within the framework of corporate management.  Topics include: the form of contracts for consultancy, determination of fees, legal implications, patents and copyrights.  Guest lecturers."
+    },
+    {
+      "code": "IDES 4101",
+      "name": "Adv. Studies in Manufacturing",
+      "credit": "0.5",
+      "description": "Advanced manufacturing concepts and workflows are examined through a series of workshops and minor projects utilizing state-of-the-art equipment."
+    },
+    {
+      "code": "IDES 4200",
+      "name": "Form Organization",
+      "credit": "0.5",
+      "description": "Using form organization as a tool to design, the definition and prescription of monolithic solids by means of an abstract system; making and verifying materialized approximations of such solids."
+    },
+    {
+      "code": "IDES 4301",
+      "name": "Minor Projects",
+      "credit": "0.5",
+      "description": "Advanced skills-based course that enhances student experience in novel, experimental processes and techniques in design. Workshop-style activities and short projects focus on increasing skill competence and versatility in a variety of fields. Emphasis on time management and the ability to work independently."
+    },
+    {
+      "code": "IDES 4305",
+      "name": "Special Studies",
+      "credit": "0.5",
+      "description": "Like the third-year Special Industrial Design Studies, those of fourth year deal with specific projects, which may differ each year depending on the availability of specialists among the faculty of the School of Industrial Design or on particular opportunities as they present themselves."
+    },
+    {
+      "code": "IDES 4306",
+      "name": "Special Studies",
+      "credit": "0.5",
+      "description": "Like the third-year Special Industrial Design Studies, those of fourth year deal with specific projects, which may differ each year depending on the availability of specialists among the faculty of the School of Industrial Design or on particular opportunities as they present themselves."
+    },
+    {
+      "code": "IDES 4310",
+      "name": "Capstone Project",
+      "credit": "1.5",
+      "description": "Application of design principles in a comprehensive design project. Problem area should be product-oriented and of sufficient complexity. Normally undertaken in consultation with off-campus organizations and/or industry. Supervised by faculty and/or sessional members."
+    },
+    {
+      "code": "IDES 4400",
+      "name": "Internship Field Report",
+      "credit": "0.5",
+      "description": "Work experience related to industrial design. Following the internship period, normally 12 weeks, a comprehensive report describing observations and insights will be submitted. Graded Sat or Uns."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Industrial Design B.I.D. (20.0 credits)",
+      "credits": "1.0",
+      "text": "3.  1.0 credit in free electives 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Industrial Design B.I.D. (20.0 credits)",
+      "credits": "1.0",
+      "text": "6.  1.0 credit in free electives at the 2000-level or above 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Industrial Design B.I.D. (20.0 credits)",
+      "credits": "1.5",
+      "text": "9.  1.5 credits in free electives at the 3000-level or above 1.5"
+    }
+  ]
+}

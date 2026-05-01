@@ -1,0 +1,284 @@
+{
+  "name": "Nursing",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/nursing/",
+  "courses": [
+    {
+      "code": "NURS 1000",
+      "name": "Indigenous Health",
+      "credit": "0.5",
+      "description": "Learners will review the Calls to Action of the Truth and Reconciliation Commission of Canada and begin to understand their role in transforming health systems and addressing Indigenous specific racism through theory and practice."
+    },
+    {
+      "code": "NURS 1001",
+      "name": "Professional Nursing I",
+      "credit": "0.5",
+      "description": "Introduction to professional nursing practice. Develops understanding and application of key principles essential for professional identity as a Registered Nurse, including self-regulation, accountability, ethical conduct, and professional integrity."
+    },
+    {
+      "code": "NURS 1002",
+      "name": "Human Anatomy and Physiology I",
+      "credit": "0.5",
+      "description": "Comprehensive understanding of human body structure and function, emphasizing nursing and health assessment focus from cells to systems."
+    },
+    {
+      "code": "NURS 1003",
+      "name": "Adult Health and Illness I",
+      "credit": "0.5",
+      "description": "Foundational skills in patient management and human physical assessment for effective nursing care, focusing on patient-centered approaches, ethical decision-making, and interprofessional teamwork."
+    },
+    {
+      "code": "NURS 1004",
+      "name": "Pharmacology and Medication Management I",
+      "credit": "0.25",
+      "description": "In-depth exploration of pharmacology for nursing. Covers drug effects, patient care roles, and practical application, guided by the CNO Foundational Standard, Medication."
+    },
+    {
+      "code": "NURS 1100",
+      "name": "Experiential Learning - Simulation I",
+      "credit": "0.25",
+      "description": "Connects theory with augmented reality, virtual reality, and simulation applications. Topics include patient management, protective equipment, and assessment techniques."
+    },
+    {
+      "code": "NURS 1200",
+      "name": "Clinical Practicum \u2013 Long-Term Care",
+      "credit": "0.5",
+      "description": "Clinical practicum introducing healthcare environment, focusing on applying theoretical nursing knowledge, policy understanding, and practice in an interdisciplinary context. Graded SAT/UNS."
+    },
+    {
+      "code": "NURS 1201",
+      "name": "Clinical Practicum - Chronic Care",
+      "credit": "0.5",
+      "description": "Clinical practicum on chronic illness care, integrating theoretical knowledge with practical skills in assessment, documentation, and medication administration. Graded SAT/UNS."
+    },
+    {
+      "code": "NURS 2000",
+      "name": "Community Health",
+      "credit": "0.25",
+      "description": "Introduction to nursing community support systems, focusing on Ontario-based community care delivery models, harm reduction, epidemiology and navigating healthcare systems. Covers well child promotion and immunization."
+    },
+    {
+      "code": "NURS 2001",
+      "name": "Professional Nursing II",
+      "credit": "0.5",
+      "description": "Builds on , moves from understanding general role of a Registered Nurse to personal identity as a Registered Nurse. Incorporates Quality Assurance, Safety and Harm mitigation principals."
+    },
+    {
+      "code": "NURS 2002",
+      "name": "Human Anatomy and Physiology II",
+      "credit": "0.25",
+      "description": "Advanced course on human anatomy and physiology, focusing on complex body system interactions and pathophysiology."
+    },
+    {
+      "code": "NURS 2003",
+      "name": "Adult Health and Illness II",
+      "credit": "0.5",
+      "description": "Advances from , integrates complex patient care management and systems focus, pharmacology, and consolidated nursing practice knowledge."
+    },
+    {
+      "code": "NURS 2004",
+      "name": "Pharmacology and Medication Management II",
+      "credit": "0.25",
+      "description": "Deepens pharmacological knowledge and skills, focusing on complex aspects of pharmacology and its application in nursing practice. Introduces RN Prescribing."
+    },
+    {
+      "code": "NURS 2011",
+      "name": "Health Equity and Social Justice",
+      "credit": "0.25",
+      "description": "Develops understanding of social determinants of health and their impact on health outcomes. Reviews specific populations to understand health beyond physiology."
+    },
+    {
+      "code": "NURS 2012",
+      "name": "Resilience Training",
+      "credit": "0.25",
+      "description": "Explores resilience, grit, and psychological safety in nursing, focusing on thriving under stress, reflecting on the COVID-19 pandemic's impact, and developing personal resilience strategies."
+    },
+    {
+      "code": "NURS 2013",
+      "name": "Interpersonal Communication",
+      "credit": "0.25",
+      "description": "Focuses on introduction and development of effective communication strategies in healthcare, including therapeutic, inter-professional, closed loop, conflict resolution and feedback skills."
+    },
+    {
+      "code": "NURS 2014",
+      "name": "Mental Health",
+      "credit": "0.25",
+      "description": "Introduces Mental Health Nursing in Ontario, covering disease, diagnosis, care plans, pharmacological management, DSM-IV, and The Mental Health Act."
+    },
+    {
+      "code": "NURS 2016",
+      "name": "Introduction to Health IT",
+      "credit": "0.25",
+      "description": "Introduces clinical informatics and health IT, covering coding, data management, electronic health records (EHRs), telehealth, wearables, and the impact of social determinants on technology access and usability."
+    },
+    {
+      "code": "NURS 2026",
+      "name": "Data Management and Advanced Data Analytics in Healthcare",
+      "credit": "0.5",
+      "description": "Advanced data analytics and management in healthcare, including predictive modelling, statistical analysis, and constructing data mining workflows."
+    },
+    {
+      "code": "NURS 2036",
+      "name": "Designing and Deploying Technology Enabled Clinical Workflows",
+      "credit": "0.5",
+      "description": "Techniques for integrating technology into clinical workflows, focusing on wearables, AI tools, and technology deployment challenges."
+    },
+    {
+      "code": "NURS 2046",
+      "name": "Healthcare Technology Evaluation, Procurement and Project Management",
+      "credit": "0.5",
+      "description": "Evaluation, procurement, and project management of healthcare technologies, focusing on AI-specific metrics and implementation strategies."
+    },
+    {
+      "code": "NURS 2056",
+      "name": "Ethics, Legalities and Regulation in Healthcare Data Science",
+      "credit": "0.5",
+      "description": "Ethical, legal, and regulatory frameworks around AI and data security in healthcare, examining technology's impact on access and ethical deployment."
+    },
+    {
+      "code": "NURS 2100",
+      "name": "Experiential Learning - Simulation II",
+      "credit": "0.25",
+      "description": "Expands on with more complex patient management scenarios, using augmented reality, virtual reality, and simulation."
+    },
+    {
+      "code": "NURS 2108",
+      "name": "Experiential Learning - Simulation III",
+      "credit": "0.25",
+      "description": "Advanced simulation lab, focusing on complex patient management and health assessment in various clinical scenarios."
+    },
+    {
+      "code": "NURS 2200",
+      "name": "Clinical Practicum - Mental Health & Obstetrics",
+      "credit": "0.5",
+      "description": "Clinical practicum in mental health and maternal/child care, integrating complex assessments, documentation, and medication administration. Graded SAT/UNS."
+    },
+    {
+      "code": "NURS 2201",
+      "name": "Clinical Practicum - Acute Care",
+      "credit": "0.5",
+      "description": "Clinical practicum in acute illness care, applying advanced theoretical knowledge and practice in rapidly changing clinical scenarios. Graded SAT/UNS."
+    },
+    {
+      "code": "NURS 3000",
+      "name": "Research Methods for Nurses",
+      "credit": "0.25",
+      "description": "Explores research methodologies essential for evidence-based nursing practice, aiming to equip students with critical analysis, research ethics, and independent research skills."
+    },
+    {
+      "code": "NURS 3001",
+      "name": "Professional Nursing III",
+      "credit": "0.5",
+      "description": "Continued understanding of professional identity in a regulated profession. Incorporates role of leadership, advocacy and educator."
+    },
+    {
+      "code": "NURS 3002",
+      "name": "Directed Studies - NCLEX",
+      "credit": "0.25",
+      "description": "Directed studies integrating material from throughout the program in preparation for NCLEX exam writing."
+    },
+    {
+      "code": "NURS 3005",
+      "name": "Pediatrics and Youth",
+      "credit": "0.5",
+      "description": "Pediatrics and youth healthcare, covering physical, psychological, and social assessment, and family healthcare."
+    },
+    {
+      "code": "NURS 3006",
+      "name": "Palliative and End of Life Care",
+      "credit": "0.5",
+      "description": "Comprehensive course on palliative and end-of-life care, covering symptom management, advanced care planning, MAiD and ethical considerations."
+    },
+    {
+      "code": "NURS 3010",
+      "name": "Maternal Care",
+      "credit": "0.25",
+      "description": "Care for maternal and newborn health, including lactation support, childbirth practices, and family healthcare assessment."
+    },
+    {
+      "code": "NURS 3016",
+      "name": "Introduction to AI and ML in Healthcare",
+      "credit": "0.25",
+      "description": "Fundamentals of AI and ML in healthcare, covering data classification, mining, ethical data use, and exploring AI/ML architectures."
+    },
+    {
+      "code": "NURS 3066",
+      "name": "Seminar - Nursing Data Science",
+      "credit": "0.5",
+      "description": "Seminars and discussions on current Nursing Data Science topics."
+    },
+    {
+      "code": "NURS 3100",
+      "name": "Experiential Learning - Consolidation Simulation IV",
+      "credit": "0.5",
+      "description": "Consolidated simulation lab for complex clinical scenario practice, supporting final clinical practicum preparation."
+    },
+    {
+      "code": "NURS 3101",
+      "name": "Experiential Learning - Consolidation Simulation V",
+      "credit": "0.5",
+      "description": "Consolidated simulation lab for complex clinical scenario practice, supporting final clinical practicum preparation."
+    },
+    {
+      "code": "NURS 3200",
+      "name": "Clinical Practicum - Pediatrics",
+      "credit": "0.5",
+      "description": "Clinical practicum in pediatrics, focusing on complex care, assessments, and integrating pediatric healthcare principles. Graded SAT/UNS."
+    },
+    {
+      "code": "NURS 3201",
+      "name": "Clinical Practicum - Consolidated Practicum I",
+      "credit": "1.0",
+      "description": "Students complete clinical placement to consolidate theory and application to advance toward graduation. Graded SAT/UNS."
+    },
+    {
+      "code": "NURS 4000",
+      "name": "Topics in Nursing I",
+      "credit": "0.25",
+      "description": "Specific topics of current interest. Topics may vary from year to year."
+    },
+    {
+      "code": "NURS 4001",
+      "name": "Topics in Nursing II",
+      "credit": "0.5",
+      "description": "Specific topics of current interest. Topics may vary from year to year."
+    },
+    {
+      "code": "NURS 4011",
+      "name": "Nursing Research Project",
+      "credit": "0.5",
+      "description": "An independent research project undertaken in the field and/or the laboratory, under the direct supervision of a faculty adviser. Evaluation is based on a written thesis."
+    },
+    {
+      "code": "NURS 4012",
+      "name": "Nursing Research Proposal",
+      "credit": "0.25",
+      "description": "An independent critical review and research proposal, using library resources, under the direct  supervision of a Faculty advisor. Evaluation is based on a written report."
+    },
+    {
+      "code": "NURS 4112",
+      "name": "Experiential Learning - Improving Nursing",
+      "credit": "0.25",
+      "description": "Seminars on current issues in Nursing."
+    },
+    {
+      "code": "NURS 4200",
+      "name": "Clinical Practicum - Consolidated Practicum II",
+      "credit": "1.0",
+      "description": "Students complete clinical placement to consolidate theory and application to advance toward graduation. Graded SAT/UNS."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Nursing B.Sc.N. Honours with RN Prescribing (20.0 credits)",
+      "credits": "3.0",
+      "text": "6.  3.0 credits in free electives. 3.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Nursing B.Sc.N. Major with RN Prescribing\u00a0(20.0 credits)",
+      "credits": "3.5",
+      "text": "5.  3.5 credits in free electives (may include NURS 4012 & NURS 4112 ) 3.5"
+    }
+  ]
+}

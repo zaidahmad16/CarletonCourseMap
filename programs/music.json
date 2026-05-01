@@ -1,0 +1,638 @@
+{
+  "name": "Music",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/music/",
+  "courses": [
+    {
+      "code": "MUSI 1003",
+      "name": "Understanding Music",
+      "credit": "0.5",
+      "description": "Through musical examples drawn from diverse cultures and historical periods, students develop the ability to describe and analyze different aspects of music and deepen their appreciation of music as a cultural experience. No credit for students in B.Mus, B.A. Honours Music or B.A. Music."
+    },
+    {
+      "code": "MUSI 1020",
+      "name": "Thinking About Music",
+      "credit": "1.0",
+      "description": "Introduction to issues and methods in the study of music, explored through case studies drawing from a wide range of musics (including Western art music, global music traditions, popular music, and jazz). Includes an introduction to writing and research about music."
+    },
+    {
+      "code": "MUSI 1107",
+      "name": "Elementary Materials of Music",
+      "credit": "0.5",
+      "description": "An introduction to the rudiments of music and aural training. Successful completion of this course will fulfill the prerequisite for entry into ."
+    },
+    {
+      "code": "MUSI 1700",
+      "name": "Foundations of Music Theory",
+      "credit": "0.5",
+      "description": "An introduction to the organizational principles underlying tonal music including intervals, scales, rhythm, metre, chords, counterpoint, form, cadences, and harmonic progressions."
+    },
+    {
+      "code": "MUSI 1701",
+      "name": "Tonal Music Literacy",
+      "credit": "0.5",
+      "description": "A study of the harmonic, melodic, rhythmic and formal structures of music of the common-practice period, with emphasis on the development of analytical and written skills of diatonic music."
+    },
+    {
+      "code": "MUSI 1711",
+      "name": "Applied Rhythmic Training I",
+      "credit": "0.5",
+      "description": "A study of the rhythm of selected classical, popular, and world musics, with emphasis on applied performance, movement, and dictation."
+    },
+    {
+      "code": "MUSI 1720",
+      "name": "Vocal Musicianship",
+      "credit": "0.5",
+      "description": "A study of aural training and musicianship through group and individual singing of selected classical, popular, and world musics."
+    },
+    {
+      "code": "MUSI 1900",
+      "name": "Performance I",
+      "credit": "0.5",
+      "description": "Individual vocal or instrumental instruction in classical, traditional or popular idioms, in addition to individual performances and group class instruction."
+    },
+    {
+      "code": "MUSI 1901",
+      "name": "Performance II",
+      "credit": "0.5",
+      "description": "Individual vocal or instrumental instruction in classical, traditional or popular idioms, in addition to individual performances and group class instruction."
+    },
+    {
+      "code": "MUSI 1914",
+      "name": "Ensemble I",
+      "credit": "0.0",
+      "description": "Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 1915",
+      "name": "Ensemble II",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 2005",
+      "name": "Jazz History",
+      "credit": "0.5",
+      "description": "A survey of jazz styles from their roots in pre-twentieth-century music to contemporary jazz idioms. Among others, areas may include New Orleans jazz, swing, bebop, cool jazz, free jazz, Latin jazz, and fusion."
+    },
+    {
+      "code": "MUSI 2007",
+      "name": "Popular Music 1945-1980",
+      "credit": "0.5",
+      "description": "History and style of popular musics (primarily in North America and the UK) from the mid-1940s to the 1980s. Among others, areas may include early rock `n' roll, British blues, soul, country, psychedelia, punk, heavy metal, disco, and hip hop."
+    },
+    {
+      "code": "MUSI 2008",
+      "name": "Music of the World's Peoples",
+      "credit": "0.5",
+      "description": "A survey of musical practices from various regions of the world, with an emphasis on the sociocultural contexts in which those musics are created and performed."
+    },
+    {
+      "code": "MUSI 2009",
+      "name": "Music of Asia",
+      "credit": "0.5",
+      "description": "A comparative and analytical study of music in Asia, including India, China, Korea, Indonesia, Japan, and the Arabic world, through an examination of the music, musical instruments and theoretical systems."
+    },
+    {
+      "code": "MUSI 2102",
+      "name": "Music in an Age of Spectacle, Commerce, and Colonization",
+      "credit": "0.5",
+      "description": "The Baroque (1600-1750) was simultaneously shaped by absolutist regimes, competing religions, and an emerging public sphere. Music and culture from Monteverdi to Bach and Handel are investigated in the contexts of power, (geo)politics, religion, aesthetics, gender, socio-economics, dissemination, genre, and compositional practices."
+    },
+    {
+      "code": "MUSI 2103",
+      "name": "Music in an Age of Order, Invention, and Revolution",
+      "credit": "0.5",
+      "description": "Peace and revolution, faith and secularism, noble privilege and bourgeois commerce: fundamental contradictions underlying the creative work of Mozart, Haydn, and Beethoven. This course studies their compositions\u2014operas, sacred works, symphonies, chamber music\u2014within the political, social and cultural institutions of their times (ca. 1730-1815)."
+    },
+    {
+      "code": "MUSI 2108",
+      "name": "Western Art Music 1750-1900",
+      "credit": "0.5",
+      "description": "Introduction to Western art music of the Classical and Romantic periods. Major musical genres, compositional practices, and cultural contexts are investigated through examinations of representative works."
+    },
+    {
+      "code": "MUSI 2203",
+      "name": "Music in Canada",
+      "credit": "0.5",
+      "description": "Through an examination of selected genres, practices and creators, this course explores the ways that music participates in shaping complex and often conflicting ideas about nation, place, and identity in Canada."
+    },
+    {
+      "code": "MUSI 2601",
+      "name": "Orchestration and Instrumentation",
+      "credit": "0.5",
+      "description": "Introduction to the fundamentals of effective and professional arranging. All aspects of the various instruments of the orchestra and matters having to do with the practicalities of orchestration for both small and large ensembles, and accepted professional standards of score presentation."
+    },
+    {
+      "code": "MUSI 2602",
+      "name": "Composition I",
+      "credit": "0.5",
+      "description": "Introduction to theories and technicalities involved in original creative writing through the preparation of individual assignments; based in the practice of recent music in the Western Classical tradition while allowing for the music of other Western styles and traditions to be addressed."
+    },
+    {
+      "code": "MUSI 2605",
+      "name": "Choral Conducting",
+      "credit": "0.5",
+      "description": "Introduction to the special stylistic features of choral music from the Renaissance to the present as well as to a variety of practical techniques (vocal production, gesture, conducting patterns, diction, etc.)."
+    },
+    {
+      "code": "MUSI 2607",
+      "name": "Digital Music Literacy",
+      "credit": "0.5",
+      "description": "Introduction to music theories and approaches with a focus on knowledge of digital music practices. This course embraces a variety of musical styles and traditions, and introduces students to Digital Audio Workstations, sound synthesis, analytical techniques of sound, and related concepts."
+    },
+    {
+      "code": "MUSI 2608",
+      "name": "Fundamentals of Electronic Music Production",
+      "credit": "0.5",
+      "description": "Theory and practice of electronic music creation, focusing on audio editing, synthesis, sampling, beat-making, signal processing, and sound design, using a variety of professional-grade software packages."
+    },
+    {
+      "code": "MUSI 2700",
+      "name": "Western Art Music Theory",
+      "credit": "0.5",
+      "description": "A continuation of the study of the harmonic, melodic, rhythmic and formal structures of music of the common-practice period and early twentieth century, with emphasis on chromaticism and the development of analytical and written skills."
+    },
+    {
+      "code": "MUSI 2701",
+      "name": "Popular Music Practice",
+      "credit": "0.5",
+      "description": "A study of the rhythmic, melodic, harmonic and formal structures of popular musics."
+    },
+    {
+      "code": "MUSI 2703",
+      "name": "Practical Keyboard Skills",
+      "credit": "0.5",
+      "description": "A practical study of rhythm, harmony and melody on the keyboard, with an emphasis on vocal and instrumental accompaniment and the development of improvisation skills in a variety of styles."
+    },
+    {
+      "code": "MUSI 2710",
+      "name": "Aural Training",
+      "credit": "0.5",
+      "description": "A continuation of the study of ear training, sight singing, and basic keyboard skills in relation to classical and popular musics, with emphasis on melodic, harmonic, and formal structures."
+    },
+    {
+      "code": "MUSI 2711",
+      "name": "Applied Rhythmic Training II",
+      "credit": "0.5",
+      "description": "A continuation of the study of the rhythm of common-practice and world musics, with emphasis on applied performance, movement, and dictation."
+    },
+    {
+      "code": "MUSI 2900",
+      "name": "Performance III",
+      "credit": "0.5",
+      "description": "A continuation of ."
+    },
+    {
+      "code": "MUSI 2901",
+      "name": "Performance IV",
+      "credit": "0.5",
+      "description": "A continuation of ."
+    },
+    {
+      "code": "MUSI 2914",
+      "name": "Ensemble III",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 2915",
+      "name": "Ensemble IV",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 3000",
+      "name": "Careers in Music",
+      "credit": "0.5",
+      "description": "An introduction to building a career in music and music-adjacent disciplines. Topics include finances; issues in freelance work and private teaching; overview of recording arts; collaboration with other disciplines; and graduate school and other specialized study. Culminates in the creation of an individualized professional portfolio."
+    },
+    {
+      "code": "MUSI 3006",
+      "name": "Popular Music Before 1945",
+      "credit": "0.5",
+      "description": "Selected aspects of the development of popular musics (primarily in North American and the UK) from their roots in the nineteenth century until the mid-1940s. Among others, areas may include blues, country, ragtime and other early commercial dance musics, Tin Pan Alley, and musical theatre."
+    },
+    {
+      "code": "MUSI 3104",
+      "name": "Popular Musics of Canada",
+      "credit": "0.5",
+      "description": "A survey of popular musics in Canada from early colonial times to the present.  The course will consider a wide range of musical styles and genres, along with related cultural and historical issues."
+    },
+    {
+      "code": "MUSI 3106",
+      "name": "Popular Musics of the World",
+      "credit": "0.5",
+      "description": "Through a series of case studies, this course examines the impacts of various socio-historical phenomena, including globalization, colonialism and technology on popular music practice and consumption in global contexts."
+    },
+    {
+      "code": "MUSI 3107",
+      "name": "Classical Indian Music",
+      "credit": "0.5",
+      "description": "An introduction to the history and theory of classical Indian music including ragas, instruments, rhythm and improvisation."
+    },
+    {
+      "code": "MUSI 3108",
+      "name": "Musics of the Middle East and North Africa",
+      "credit": "0.5",
+      "description": "An examination of various musics, devotional traditions, and shifting cultural and art movements in the region, resulting from processes of globalization, political change, and technological innovation. Course sessions will include close and critical discussion of selected texts, audio-visual examples, and ethnomusicological documentary films."
+    },
+    {
+      "code": "MUSI 3200",
+      "name": "Special Topics",
+      "credit": "0.5",
+      "description": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year."
+    },
+    {
+      "code": "MUSI 3201",
+      "name": "Special Topics",
+      "credit": "0.5",
+      "description": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year."
+    },
+    {
+      "code": "MUSI 3205",
+      "name": "Specialized Academic Studies",
+      "credit": "0.5",
+      "description": "Course designed for BMus or BA Music Honours students who have acquired an extensive background through courses in theory, musicology, or composition. Course content is planned with a Faculty Supervisor, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 3206",
+      "name": "Specialized Performance Studies",
+      "credit": "0.5",
+      "description": "Course designed for BMus Honours students who have acquired an extensive background through performance. Course content is planned with the Supervisor of Performance Studies, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 3301",
+      "name": "Music, Religion, and Spiritual Practices",
+      "credit": "0.5",
+      "description": "Through various case studies, this course considers the role music plays in selected religions and spiritual practices."
+    },
+    {
+      "code": "MUSI 3302",
+      "name": "Music and Gender I",
+      "credit": "0.5",
+      "description": "The role of gender in the theory and practice of music in western and non-western cultures."
+    },
+    {
+      "code": "MUSI 3303",
+      "name": "Principles and Practices of Music Therapy",
+      "credit": "0.5",
+      "description": "Literature, practice and theory of music therapy. The use of music (improvisation, the voice, and reception) with various populations, including children and adults with special needs, people in long term care, people with neurological disorders, and in palliative care."
+    },
+    {
+      "code": "MUSI 3400",
+      "name": "A History of Opera before 1800",
+      "credit": "0.5",
+      "description": "A survey of the development of opera from the beginnings to about 1800. The major monuments of Italian, French, German and English opera, by such composers as Monteverdi, Cavalli, Scarlatti, Purcell, Lully, Gluck, Rameau, Mozart and Haydn."
+    },
+    {
+      "code": "MUSI 3401",
+      "name": "A History of Opera from 1800 to 1945",
+      "credit": "0.5",
+      "description": "A study of romantic and contemporary opera through an examination of selected works from Weber's Der Freisch\u00fctz to Britten's Peter Grimes, including an investigation of national styles from Wagnerian music drama and Italian verismo to Russian realism and German expressionism."
+    },
+    {
+      "code": "MUSI 3402",
+      "name": "Film Music",
+      "credit": "0.5",
+      "description": "The use of music in film, from the silent era to the present day, studying the techniques, styles and theory of film music through the examination of selected scenes."
+    },
+    {
+      "code": "MUSI 3403",
+      "name": "Music Industries",
+      "credit": "0.5",
+      "description": "An introduction to the structure and history of the music industries."
+    },
+    {
+      "code": "MUSI 3405",
+      "name": "Musical Theatre",
+      "credit": "0.5",
+      "description": "A survey of the styles, works, and artists of the musical theatre genre as well as the artistic elements that comprise musical theatre."
+    },
+    {
+      "code": "MUSI 3406",
+      "name": "Instrumental Music: Music for Orchestra",
+      "credit": "0.5",
+      "description": "Origins and development of orchestral music from its beginnings as an independent form in the 18th century to the present. Major symphonies and symphonic poems by composers like Haydn, Beethoven, Liszt, Brahms, Strauss, and Shostakovich. Brief examination of concerto and ballet music."
+    },
+    {
+      "code": "MUSI 3407",
+      "name": "Instrumental Music: Chamber Music",
+      "credit": "0.5",
+      "description": "History of chamber music and the cultural contexts within which it rose to prominence in Europe and North America in the 18th, 19th and 20th centuries. Genres by representative composers including the sonata, duos, trios, quartets, quintets, sextets, divertimenti, and works for small chamber orchestra."
+    },
+    {
+      "code": "MUSI 3408",
+      "name": "Music in an Age of Passion, Imagination, and Iconoclasm",
+      "credit": "0.5",
+      "description": "This course examines European art music of the nineteenth century, a revolutionary period of socio-political change when inspiration, subjectivity, radical idealism, expressive intensity, cultural nationalism, and the primacy of the individual creative voice were held up as primary aesthetic ideals."
+    },
+    {
+      "code": "MUSI 3409",
+      "name": "Music in an Age of Tumult, Innovation, and Pluralism",
+      "credit": "0.5",
+      "description": "A study of western art music of the 20th century. Musical works, compositional techniques and performance practices are examined in the context of musical innovation, social change, political upheaval, and stylistic pluralism in a rapidly changing \u201cmodern\u201d world."
+    },
+    {
+      "code": "MUSI 3602",
+      "name": "Composition II",
+      "credit": "0.5",
+      "description": "Designed to enable students to develop abilities in the writing of original music. The study and appreciation of modern and contemporary styles and techniques are encouraged."
+    },
+    {
+      "code": "MUSI 3603",
+      "name": "Computer Music Techniques",
+      "credit": "0.5",
+      "description": "An introduction to the techniques of sound synthesis primarily through practical experience at the digital synthesizer and computer. The basics of machine operations, software and computer applications to composition and synthesis. Enrolment is limited."
+    },
+    {
+      "code": "MUSI 3604",
+      "name": "Computer Music Projects",
+      "credit": "0.5",
+      "description": "Examination of the various applications of digital equipment through the realization of original projects. Students may focus on studio composition, software development or analytic research. Appropriate compositional techniques and problem solving strategies are also discussed. Enrolment is limited."
+    },
+    {
+      "code": "MUSI 3605",
+      "name": "Instrumental Conducting",
+      "credit": "0.5",
+      "description": "Introduction to the practice of conducting Instrumental music from the Classical era to the present as well as to a variety of practical techniques (rehearsal techniques, gesture, conducting patterns, score study, etc.)."
+    },
+    {
+      "code": "MUSI 3606",
+      "name": "Live Sound",
+      "credit": "0.5",
+      "description": "Theoretical, practical and technical requirements of audio production in live settings are explored through lectures, demonstrations and workshops. Students develop skills in critical listening, pre-production planning, microphone selection and placement, signal routing, audio processing, monitoring and mixing for live event venues. Prior experience not required."
+    },
+    {
+      "code": "MUSI 3700",
+      "name": "Seminar in Theory and Analysis",
+      "credit": "0.5",
+      "description": "Selected topic in music theory. Topics will change yearly and may include: methods of music analysis, analysis of selected works, styles and structures of common practice or post common practice period, music,  modal, tonal, or post-tonal counterpoint, history of music theory."
+    },
+    {
+      "code": "MUSI 3701",
+      "name": "Jazz Styles and Structures",
+      "credit": "0.5",
+      "description": "Techniques of arranging and composition for small and large ensembles will be studied through the examination of selected works drawn from the jazz repertoire. Works will be selected for stylistic and theoretical analysis, for exercises in aural recognition, and for arranging purposes."
+    },
+    {
+      "code": "MUSI 3702",
+      "name": "Introduction to Physics and Psychoacoustics of Music",
+      "credit": "0.5",
+      "description": "Basic topics in physics and psychoacoustics, with an emphasis on those concepts that are most useful for music performance, analysis, composition, and musicology."
+    },
+    {
+      "code": "MUSI 3703",
+      "name": "Improvisation in Theory and Practice",
+      "credit": "0.5",
+      "description": "Selected forms of improvisation from diverse musical and cultural traditions.  In addition to weekly seminar meetings, the class will engage in experiential forms of learning by actively improvising in a weekly performance-oriented seminar."
+    },
+    {
+      "code": "MUSI 3710",
+      "name": "Global Music Theories",
+      "credit": "0.5",
+      "description": "A continuation of the study of aural skills, theory and analysis that focuses on global traditions in musicianship and musical practices."
+    },
+    {
+      "code": "MUSI 3900",
+      "name": "Performance V",
+      "credit": "0.5",
+      "description": "A continuation of ."
+    },
+    {
+      "code": "MUSI 3901",
+      "name": "Performance VI",
+      "credit": "0.5",
+      "description": "A continuation of ."
+    },
+    {
+      "code": "MUSI 3914",
+      "name": "Ensemble V",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 3915",
+      "name": "Ensemble VI",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 4000",
+      "name": "Performance VII",
+      "credit": "0.5",
+      "description": "This is an optional performance course for B.Mus. students with high academic standing."
+    },
+    {
+      "code": "MUSI 4001",
+      "name": "Performance VIII",
+      "credit": "0.5",
+      "description": "This is an optional performance course for B.Mus. students with high academic standing."
+    },
+    {
+      "code": "MUSI 4002",
+      "name": "Graduating Demo Recording",
+      "credit": "0.5",
+      "description": "A graduation recording of substantial duration arranged in consultation with the discipline. A proposal must be submitted one week before the last day for course changes. All recording costs must be borne by the student."
+    },
+    {
+      "code": "MUSI 4003",
+      "name": "Graduating Recital",
+      "credit": "0.5",
+      "description": "Public recital arranged in consultation with the Supervisor of Performance and Practical Studies. An outline of the program must be submitted one week before the last day for course changes."
+    },
+    {
+      "code": "MUSI 4005",
+      "name": "Issues in Jazz Studies",
+      "credit": "0.5",
+      "description": "An examination of key issues in the study of jazz including history/historiography, gender, genre, race, politics, identity and performance."
+    },
+    {
+      "code": "MUSI 4006",
+      "name": "Issues in the Study of Popular Music",
+      "credit": "0.5",
+      "description": "An introduction to current issues in the study of popular music. The course will be organized around a series of case studies."
+    },
+    {
+      "code": "MUSI 4007",
+      "name": "The Composer in Context",
+      "credit": "0.5",
+      "description": "Examination of the life and music of a selected composer, and the historical, social, cultural, and political factors that shaped the context within which they worked. Focus on history, biography, musical style and analysis."
+    },
+    {
+      "code": "MUSI 4102",
+      "name": "Ethnomusicology in Theory and Practice",
+      "credit": "0.5",
+      "description": "In this course students learn and apply research methods common to ethnomusicological research, developing an individual ethnographic project that draws on critical contemporary theories in ethnomusicology."
+    },
+    {
+      "code": "MUSI 4103",
+      "name": "Music, Migration and Diaspora in Canada",
+      "credit": "0.5",
+      "description": "Critical analyses of diversity and multiculturalism narratives in Canada and the ways that settler-colonialism influenced and continues to inform music creation and expression. Various case studies examine the diversity of musics found in Canada and the ways that music facilitates belonging and/or exclusion to community."
+    },
+    {
+      "code": "MUSI 4104",
+      "name": "First Peoples Music in Canada",
+      "credit": "0.5",
+      "description": "This course examines the role of Indigenous music and musicians in various contemporary issues and priorities for First Peoples in Canada, including political activism, language and cultural maintenance and revitalization, environmental justice and the land, reconciliation and decolonization."
+    },
+    {
+      "code": "MUSI 4105",
+      "name": "Study of Musics in Africa",
+      "credit": "0.5",
+      "description": "This course explores musics in Africa, engaging with issues of colonialism, ownership and copyright, politics and protest, social change, and global relationships."
+    },
+    {
+      "code": "MUSI 4200",
+      "name": "Special Topics",
+      "credit": "0.5",
+      "description": "Courses focusing on one selected aspect of music, in the area of either musicology, theory or composition. The course offerings change from year to year."
+    },
+    {
+      "code": "MUSI 4201",
+      "name": "Special Topics",
+      "credit": "0.5",
+      "description": "Courses focusing on one selected aspect of music, in the area of either musicology, theory or composition. Course offerings change from year to year."
+    },
+    {
+      "code": "MUSI 4205",
+      "name": "Specialized Academic Studies",
+      "credit": "0.5",
+      "description": "Course designed for BMus or BA Music Honours students who have acquired an extensive background through courses in theory, musicology, or composition. Course content is planned with a Faculty Supervisor, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 4206",
+      "name": "Specialized Performance Studies",
+      "credit": "0.5",
+      "description": "Course designed for BMus Honours students who have acquired an extensive background through performance. Course content is planned with the Supervisor of Performance Studies, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 4209",
+      "name": "Specialized Academic Studies",
+      "credit": "1.0",
+      "description": "A course designed for BMus or BA Music Honours students who have acquired an extensive background through courses in theory, musicology or composition. Course content is planned with a Faculty Supervisor, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 4304",
+      "name": "Music and Globalization",
+      "credit": "0.5",
+      "description": "Examining music\u2019s role in the multifaceted and complex processes of globalization. Drawing on case studies of \u201cworld musics\u201d, this course explores how sound and music negotiate histories of post/colonialism, cultural and economic imperialism, and constructions of sameness and difference in \u201cworld music\u201d contexts."
+    },
+    {
+      "code": "MUSI 4306",
+      "name": "Music and Wellbeing in a Global Context",
+      "credit": "0.5",
+      "description": "An examination of the ways in which music contributes to mental, social and physical wellbeing throughout the world, drawing from the fields of neuroscience, medical ethnomusicology, community music and cross-cultural studies."
+    },
+    {
+      "code": "MUSI 4307",
+      "name": "Music in an Age of Power, Plague, and Courtly Love",
+      "credit": "0.5",
+      "description": "The music of the \u201cdark ages\u201d is illuminated in the context of politics, spectacle, devotion, celebration, compositional process, manuscript culture, dissemination, musical notation, plague, and courtly love. \u201cMedievalism\u201d is examined as an aesthetic of the era (ca. 400-1400) and as reinterpreted in our modern world."
+    },
+    {
+      "code": "MUSI 4308",
+      "name": "Music in an Age of Devotion, Seduction, and Rebirth",
+      "credit": "0.5",
+      "description": "This course brings to life the Renaissance (1400-1600), when music played a vital role in lavish courts, grand cathedrals, and vibrant cities. Madrigals, masses, and motets are examined in the context of politics, religion, gender, manuscript and print culture, rhetoric, art, and architecture."
+    },
+    {
+      "code": "MUSI 4602",
+      "name": "Composition III",
+      "credit": "0.5",
+      "description": "A continuation of , focusing on the development of creative individual approaches to music composition."
+    },
+    {
+      "code": "MUSI 4700",
+      "name": "Advanced Seminar in Theory and Analysis",
+      "credit": "0.5",
+      "description": "A study of a selected topic in music theory. Topics will change yearly and may include: methods of music analysis; analysis of selected works; styles and structures of common practice or post common practice period music; modal, tonal, or post-tonal counterpoint; history of music theory."
+    },
+    {
+      "code": "MUSI 4701",
+      "name": "Introduction to Jazz Arranging",
+      "credit": "0.5",
+      "description": "The art of arranging for small and large jazz ensembles is introduced through analysis of recordings by artists such as Duke Ellington, Fletcher Henderson, Count Basie, Rob McConnell, and Maria Schneider. Topics may include 2-, 3-, and 4-voice writing in a jazz idiom."
+    },
+    {
+      "code": "MUSI 4702",
+      "name": "Topics in Music Perception and Cognition",
+      "credit": "0.5",
+      "description": "Selected advanced topics in the perception and cognition of music.  Where appropriate, emphasis will be placed upon areas of overlap between psychological research and issues in aesthetics and cultural theory."
+    },
+    {
+      "code": "MUSI 4704",
+      "name": "Tonal Counterpoint",
+      "credit": "0.5",
+      "description": "This course deals with the development of writing skills and knowledge of counterpoint as manifest in the Baroque era. Topics may include invention, canon, fugue, dance forms, the compositional language of J. S. Bach, and contrapuntal techniques in the late 18th century and beyond."
+    },
+    {
+      "code": "MUSI 4705",
+      "name": "Post-Tonal Theory and Analysis",
+      "credit": "0.5",
+      "description": "Fundamentals of post-tonal music theory and analysis. Neo-tonal, atonal, twelve-tone and third-stream jazz.  Students will develop the critical skills to understand these theoretical tools and be conversant with some of the aesthetic precepts associated with them."
+    },
+    {
+      "code": "MUSI 4800",
+      "name": "Practicum in Music",
+      "credit": "0.5",
+      "description": "Practical experience in music-specific projects such as recording studios, librarianship, research, multimedia, etc. at local institutions. Placements are planned with the Practica Supervisor and a proposal is required. A maximum of one credit of practicum may be offered in fulfillment of Music requirements."
+    },
+    {
+      "code": "MUSI 4906",
+      "name": "Honours Portfolio in Composition",
+      "credit": "1.0",
+      "description": "The course requires the composition of an original work of substantial proportions, with an accompanying analytical paper. Course content is planned with a Faculty Supervisor, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 4908",
+      "name": "Honours Essay in Musicology",
+      "credit": "1.0",
+      "description": "An Honours research essay of approximately 50 pages. Course content is planned with a Faculty Supervisor, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 4909",
+      "name": "Portfolio in New Media",
+      "credit": "1.0",
+      "description": "The course requires the creation of an original work (or works) of substantial proportions using applications in the electronic studios. A high level of independence and originality will be required. Course content is planned with a Faculty Supervisor, and instruction is one-on-one."
+    },
+    {
+      "code": "MUSI 4914",
+      "name": "Ensemble VII",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    },
+    {
+      "code": "MUSI 4915",
+      "name": "Ensemble VIII",
+      "credit": "0.0",
+      "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Music B.Mus. Honours (20.0 credits)",
+      "credits": "2.5",
+      "text": "6.  2.5 credits in free electives 2.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Music B.A. Honours (20.0 credits)",
+      "credits": "2.0",
+      "text": "9.  2.0 credits in free electives 2.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Music B.A. Combined Honours (20.0 credits)",
+      "credits": "",
+      "text": "7. Sufficient free electives to make 20.0 credits total for the program"
+    },
+    {
+      "type": "requirement",
+      "degree": "Music B.A. (15.0 credits)",
+      "credits": "1.0",
+      "text": "7.  2.0 credits in free electives 1.0"
+    }
+  ]
+}

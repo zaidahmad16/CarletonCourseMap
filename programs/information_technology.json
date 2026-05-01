@@ -1,0 +1,751 @@
+{
+  "name": "Information Technology",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/informationtechnology/",
+  "courses": [
+    {
+      "code": "IRM 1002",
+      "name": "Reference and Information Services",
+      "credit": "0.5",
+      "description": "Introduction to the theory and techniques needed to conduct reference interviews and interpret reference queries. Students learn to select and use general reference sources such as dictionaries, encyclopedias, directories, bibliographies, periodical indexes, almanacs, and handbooks in print, and electronic formats."
+    },
+    {
+      "code": "IRM 1003",
+      "name": "Collections management",
+      "credit": "0.5",
+      "description": "Introduction to the principals of collections management including techniques and procedures for selecting, ordering and receiving library materials, accounting, collection development and automated acquisitions. Students also learn policies and procedures required for circulation, document delivery and interlibrary loans."
+    },
+    {
+      "code": "IRM 1004",
+      "name": "Reader\u2019s Advisory Services",
+      "credit": "0.5",
+      "description": "Students become familiar with fiction and non-fiction materials available to various categories of clients and learn how to market them. In addition, students further develop through various assignments their researching, writing, speaking, listening and communication skills."
+    },
+    {
+      "code": "IRM 1005",
+      "name": "Web Interface Development",
+      "credit": "0.5",
+      "description": "Combining graphics, text, audio and video to develop websites on an individual basis and in groups, using latest versions of HyperText Markup Language(HTML), Cascading Style Sheets (CSS), JavaScript and data interchange formats such as Extensible Markup Language(XML) and JavaScript Object Notation(JSON)."
+    },
+    {
+      "code": "IRM 1006",
+      "name": "Subject Analysis and Indexing",
+      "credit": "0.5",
+      "description": "Students learn the basic theory of subject analysis and indexing methods used to provide access to library materials and literature. Practical instruction makes use of thesauri, as well as standard subject heading lists, such as Sears and Library of Congress."
+    },
+    {
+      "code": "IRM 1007",
+      "name": "Cataloguing",
+      "credit": "0.5",
+      "description": "The catalogue is the main finding aid to the collection of the library. Students learn the basic principles and concepts of international standards used to describe library materials. In-class exercises, lectures and practical experience help students apply these cataloguing standards."
+    },
+    {
+      "code": "IRM 1008",
+      "name": "Introduction to Information Resource Management",
+      "credit": "0.5",
+      "description": "Students develop understanding of the concepts of information retrieval, creation, evaluation,organization and client service. Knowledge of legal and ethical implications of information and current trends in the field is studied. Through in-class lectures and hands-on activities, students gain an overview of the field."
+    },
+    {
+      "code": "IRM 2002",
+      "name": "Legal and Business Information",
+      "credit": "0.5",
+      "description": "Students develop skills in planning and executing information searches and evaluating print and electronic resources. Students learn to locate information on selected topics, compile subject-specific annotated bibliographies and instruct library clients in the use of specialized materials and databases."
+    },
+    {
+      "code": "IRM 2003",
+      "name": "Classification",
+      "credit": "0.5",
+      "description": "How to interpret and apply Dewey Decimal and Library of Congress Classification systems. Also includes analysis of the subject content of materials, building notation, using tables, shelf-listing techniques and creating unique book numbers."
+    },
+    {
+      "code": "IRM 2004",
+      "name": "Information Management and Digital Preservation",
+      "credit": "0.5",
+      "description": "Essentials of information management in an organization including the life cycle management of files in paper and the electronic environment. This course will also cover contemporary issues in information management and digital preservation."
+    },
+    {
+      "code": "IRM 2005",
+      "name": "Advanced Cataloguing",
+      "credit": "0.5",
+      "description": "Libraries purchase and provide access to a wide variety of print and electronic resources. Building on work done in , students learn to interpret international cataloguing standards to describe more complex materials. In-class exercises, lectures and practical experience help students apply these cataloguing standards."
+    },
+    {
+      "code": "IRM 2006",
+      "name": "Data Visualization",
+      "credit": "0.5",
+      "description": "Web-based data visualization techniques and systems. Good design practices for visualization, tools for visualization of data from a variety of fields, and programming of interactive web-based visualizations focusing on JavaScript, CSS, and related libraries."
+    },
+    {
+      "code": "IRM 3001",
+      "name": "Scientific and Medical Information",
+      "credit": "0.5",
+      "description": "Students enhance their knowledge of print and electronic reference sources in science and technology. Students learn to compile specialized subject-specific bibliographies and assignments provide training in the use of science and technology reference sources."
+    },
+    {
+      "code": "IRM 3003",
+      "name": "Legal Issues in Information Resource Management",
+      "credit": "0.5",
+      "description": "In-depth analysis and assessment of copyright and other forms of intellectual property. Legal issues related to information technology. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, Charter and human rights issues, and security."
+    },
+    {
+      "code": "IRM 3004",
+      "name": "Project management",
+      "credit": "0.5",
+      "description": "Identification, selection, initiation, and organization of projects. Risk assessment, budget issues, communication, project scheduling, performance monitoring and control. Emphasis on practical techniques related to the field of information management using case studies."
+    },
+    {
+      "code": "IRM 3006",
+      "name": "Data Analysis and Research Methodology",
+      "credit": "0.5",
+      "description": "Introduction to the logic and design of research. Qualitative and quantitative research methodology with emphasis on the application and interpretation of statistical techniques for data analysis. May include, but are not limited to, bivariate and multivariate analysis, distribution analysis, visual data analysis, market basket analysis."
+    },
+    {
+      "code": "IRM 3007",
+      "name": "Practicum for IRM",
+      "credit": "0.5",
+      "description": "Students will design and complete a project related to information management under the supervision of a faculty member or librarian. This course provides the opportunity to apply knowledge gained in previous courses."
+    },
+    {
+      "code": "IRM 3008",
+      "name": "Metadata for IRM",
+      "credit": "0.5",
+      "description": "Students develop an understanding of key metadata schema and apply standards to describe range of digital resources. The metadata schemes include focus on Dublin Core (DC) and MODS with select coverage of specialist schema. Through in-class lectures and hands-on activities, students apply metadata schemes."
+    },
+    {
+      "code": "IRM 4000",
+      "name": "Library Software",
+      "credit": "0.5",
+      "description": "Using skills and knowledge of automated systems already developed in introductory courses, students learn the theory and receive the hands-on practice needed to use library databases. A component on choosing and comparing library software is included."
+    },
+    {
+      "code": "IRM 4001",
+      "name": "Archives and Special Collections",
+      "credit": "0.5",
+      "description": "Principles and methods used by archivists and record managers in organizing their collections for better access and retrieval. Students also learn aspects of physical bibliography, the book trade, preservation and conservation of books and how to exhibit such material."
+    },
+    {
+      "code": "IRM 4002",
+      "name": "Network  Technology",
+      "credit": "0.5",
+      "description": "Foundation knowledge for computer networks and communications. Topics include basic network design, layered communications models, IP addressing and subnets, and industry standards for networking media and protocols, with an emphasis on TCP/IP protocol suite and Ethernet environments."
+    },
+    {
+      "code": "IRM 4004",
+      "name": "Applied Machine Learning and Big Data Analytics",
+      "credit": "0.5",
+      "description": "Introduction to Machine Learning and Big Data Analytics. Topics include: Association Rule Mining, Classification, Clustering, Linear and Logistic Regression, Distributed File System, Batch and Stream Data Processing, and other related. Applications on other domains such as multimedia, networks, finance, and/or business."
+    },
+    {
+      "code": "IRM 4005",
+      "name": "Introduction to Deep Learning",
+      "credit": "0.5",
+      "description": "Introduction to classification and regression. Optimization, vectorization, gradient descent, cost, loss and activation functions. Introduction and basics to AI, Artificial Neural Networks, forward and backward propagation, Multi Layer Perceptron, and other types of Deep Neural Network models, their applications in multimedia, networks, finance, etc."
+    },
+    {
+      "code": "IRM 4900",
+      "name": "IRM Capstone Project",
+      "credit": "1.0",
+      "description": "Student-initiated project developed in association with a project supervisor and external information resource management advisor. Project is supported by a written report, seminar discussions and final presentation. All proposals must be approved by the IRM Program Project Committee."
+    },
+    {
+      "code": "BIT 1000",
+      "name": "Mathematics I for NET",
+      "credit": "0.5",
+      "description": "Tailored for students in the Network Technology program, this course covers basic concepts in functions (polynomials, exponential, logarithmic) and introduces concepts of limits, derivatives and rules of differentiation, applications of differentiation (max-min problems, curve sketching) and integration."
+    },
+    {
+      "code": "BIT 1001",
+      "name": "Mathematics II for NET",
+      "credit": "0.5",
+      "description": "Tailored for students in the Network Technology program, this course covers systems of linear equations, vector space of n-tuples, subspaces and bases, matrix transformations, kernel, range, matrix algebra and determinants, inner products and orthogonality, eigenvalues, diagonalization and applications."
+    },
+    {
+      "code": "BIT 1002",
+      "name": "Physics for Information Technology I",
+      "credit": "0.5",
+      "description": "An introductory course on energy, thermodynamics, sound and electromagnetic waves, optics, and modern physics. Practical skills are learned in the laboratory, which is a required part of the course."
+    },
+    {
+      "code": "BIT 1006",
+      "name": "Achieving Success in Changing Environments",
+      "credit": "0.5",
+      "description": "Students explore the possibilities ahead, assess their own aptitudes and strengths, and apply critical thinking and decision-making tools to help resolve some of the important issues in our complex society with its competing interests."
+    },
+    {
+      "code": "BIT 1007",
+      "name": "Physics for NET",
+      "credit": "0.5",
+      "description": "An introductory course on energy, electrical networks (AC and DC circuits, resistance, impedance, capacitance), electrostatics (electric fields, static electricity), electromagnetism, electromagnetic waves, optics, and other topics in modern physics. Practical skills are learned in the laboratory, which is a required part of the course."
+    },
+    {
+      "code": "BIT 1100",
+      "name": "Mathematics I for IMD",
+      "credit": "0.5",
+      "description": "Tailored for students in the Interactive Multimedia Design program, this course covers basic concepts in functions (polynomials, exponential, logarithmic) and introduces concepts of limits, derivatives and rules of differentiation, applications of differentiation (max-min problems, curve sketching) and integration."
+    },
+    {
+      "code": "BIT 1101",
+      "name": "Mathematics II for IMD",
+      "credit": "0.5",
+      "description": "Tailored for students in the Interactive MultiMedia Design program, this course covers systems of linear equations, vector space of n-tuples, subspaces and bases, matrix transformations, kernel, range, matrix algebra and determinants, inner products and orthogonality, eigenvalues, diagonalization and applications."
+    },
+    {
+      "code": "BIT 1200",
+      "name": "Calculus",
+      "credit": "0.5",
+      "description": "Limits. Differentiation of the elementary functions, including trigonometric functions. Rules of differentiation. Applications of differentiation: max-min problems, curve sketching, approximations. Introduction to integration: definite and indefinite integrals, areas under curves, fundamental theorem of calculus."
+    },
+    {
+      "code": "BIT 1201",
+      "name": "Linear Algebra",
+      "credit": "0.5",
+      "description": "Systems of linear equations; vector space of n-tuples, subspaces and bases; matrix transformations, kernel, range; matrix algebra and determinants. Dot product. Complex numbers (including de Moivre's Theorem, and n-th roots). Eigenvalues, diagonalization and applications. Note: is not an acceptable substitute for ."
+    },
+    {
+      "code": "BIT 1203",
+      "name": "Newtonian Physics",
+      "credit": "0.5",
+      "description": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences."
+    },
+    {
+      "code": "BIT 1204",
+      "name": "Electromagnetism & Modern Physics",
+      "credit": "0.5",
+      "description": "Electricity and magnetism, DC and AC circuits, wave motion and light. Elements of modern physics. Applications chosen in part from the life sciences."
+    },
+    {
+      "code": "BIT 1400",
+      "name": "Introduction to Programming and Problem Solving",
+      "credit": "0.5",
+      "description": "Introduction to basic concepts of procedural programming and algorithm design in C. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, structures, arrays, pointers, debugging, algorithmic thinking and pseudocode, computer architecture, operating systems, and libraries."
+    },
+    {
+      "code": "BIT 2000",
+      "name": "Probability for Technology",
+      "credit": "0.5",
+      "description": "This course covers data analysis, introduction to probability theory, some standard discrete and continuous distributions and their application to interval estimation and significance testing, computational aspects of statistics."
+    },
+    {
+      "code": "BIT 2001",
+      "name": "Introduction to Business",
+      "credit": "0.5",
+      "description": "An overview of the most fundamental business functions. The management of people, human resources, marketing, accounting and finances, business law and operations."
+    },
+    {
+      "code": "BIT 2002",
+      "name": "Marketing in the IT sector",
+      "credit": "0.5",
+      "description": "Basic problems and practices in marketing. Marketing strategies, planning, packaging, branding and promotion at the level of the individual firm; distribution channels."
+    },
+    {
+      "code": "BIT 2006",
+      "name": "Elective",
+      "credit": "0.5",
+      "description": "Students must choose from among a list of approved Electives at Algonquin College."
+    },
+    {
+      "code": "BIT 2008",
+      "name": "Multimedia Data Management",
+      "credit": "0.5",
+      "description": "Concepts and fundamentals of database systems. Design of relational databases, normalisation, referential integrity, structured query language (SQL), server-side scripting, organisation of multimedia content, dynamic page loading, storage and compression of media, media network considerations, digital watermarking and rights management."
+    },
+    {
+      "code": "BIT 2009",
+      "name": "Statistics for Technology",
+      "credit": "0.5",
+      "description": "This course covers statistical data analysis with an emphasis on hypothesis testing including parametric tests (e.g., t-tests, ANOVA) and non-parametric tests (e.g., Kruskal-Wallis, Friedman, chi-square), correlation and linear regression. Provides an introduction to probability theory and distributions (e.g. binomial, normal)."
+    },
+    {
+      "code": "BIT 2010",
+      "name": "Differential Equations & Multivariate Calculus",
+      "credit": "0.5",
+      "description": "Curves and surfaces. Polar, cylindrical and spherical coordinates. Partial derivatives, gradients, extrema and Lagrange multipliers. Exact differentials. Multiple integrals over rectangular and general regions. Integrals over surfaces. Line integrals. Vector differential operators. Green\u2019s Theorem, Stokes\u2019 theorem, Divergence Theorem. Applications."
+    },
+    {
+      "code": "BIT 2400",
+      "name": "Intermediate Programming",
+      "credit": "0.5",
+      "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching."
+    },
+    {
+      "code": "BIT 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "BIT 4000",
+      "name": "Directed Studies",
+      "credit": "0.5",
+      "description": "Independent study under the supervision of a member of the School of Information Technology, open only to students in the B.I.T. program. Students are required to obtain their supervisor's written approval prior to registration and are limited to one such course in their program."
+    },
+    {
+      "code": "BIT 4001",
+      "name": "Special Topics in Information Technology",
+      "credit": "0.5",
+      "description": "Topics not ordinarily treated in the regular course program due to their contemporary subject matter. The choice of topics varies from year to year."
+    },
+    {
+      "code": "IMD 1000",
+      "name": "Introduction to Interactive Multimedia Design",
+      "credit": "0.5",
+      "description": "Introduction to interactive multimedia and design, focused on the production and processes of animation, visual fx, game design and development, web design and development, and user experience/interfaces. Topics include: mark-up languages, design process/problem-solving tools, human-centered design, product development, ethics, and copyright and intellectual property."
+    },
+    {
+      "code": "IMD 1001",
+      "name": "Visual Communication",
+      "credit": "0.5",
+      "description": "Visual communication techniques commonly used to draft concepts and ideas to support scripts for film, animation, HCI, and/or game development. Topics include: storyboarding, composition, vanishing point, line quality, visual timing, perspective, depth of field, body language and life drawing. A digital drawing tablet is required."
+    },
+    {
+      "code": "IMD 1002",
+      "name": "Visual Dynamics",
+      "credit": "0.5",
+      "description": "Fundamentals of composition with emphasis on realistic rendering. Students learn how to execute thumbnails and design comprehensives. Topics include illustration, type, colour, texture, proximity and unity, alignment, repetition and continuity, contrast, size relationships, balance, rhythm, negative space, cropping and view selection."
+    },
+    {
+      "code": "IMD 1004",
+      "name": "Design Processes",
+      "credit": "0.5",
+      "description": "Design fundamentals using industry standard software techniques and workflow are explored. Topics include: gestalt principles, grids systems, colour, texture, raster and vector image production, and typography.  Students design for publication to output such as Web, print, and electronic book formats. Required digital drawing tablet."
+    },
+    {
+      "code": "IMD 1005",
+      "name": "Web Development",
+      "credit": "0.5",
+      "description": "Introduction to Web development. Combining graphics, text, audio, and video to create Web sites; developing different, major working Web sites on an individual basis and in groups, using valid xHTML, cascading style sheets (CSS), JavaScript and XML structures."
+    },
+    {
+      "code": "IMD 2003",
+      "name": "Audio and Video",
+      "credit": "0.5",
+      "description": "The creation, production and editing of audio and video for multimedia applications. Topics include single camera recording and capture techniques through to post-production editing. Emphasis is placed on production and operation skills while adhering to industry standard costs and deadlines."
+    },
+    {
+      "code": "IMD 2006",
+      "name": "Introduction to Game Design and Development",
+      "credit": "0.5",
+      "description": "Basic concepts in the design and development of computer games, including: fundamentals of production cycle, genres, gameplay and game mechanics, story and character development, level design, artificial intelligence for games, game user interface, and common development tools."
+    },
+    {
+      "code": "IMD 2007",
+      "name": "Intro to 3D Animation",
+      "credit": "0.5",
+      "description": "Introduction to the basics of 3D computer animation. Topics include: introduction of 3D animation packages, 12 Principles of Animation, character design, character animation (walking/locomotion, motion, and poses), soft-body animation (shape interpolation and facial animation), and acting for animators."
+    },
+    {
+      "code": "IMD 2900",
+      "name": "Design Studio 1",
+      "credit": "1.0",
+      "description": "Advanced practical studio-based sessions focused on project management. Topics include: project management styles, team collaboration techniques, prototyping, project and content management, marketing, and testing/validation. The studio emphasizes the management of web design and development projects."
+    },
+    {
+      "code": "IMD 3002",
+      "name": "3D Computer Graphics",
+      "credit": "0.5",
+      "description": "Technical aspects of 3D computer graphics. Homogeneous transformations, viewing pipeline, cinematography, modeling techniques (explicit and implicit), scene composition, level of detail methods, advanced lighting techniques (BRDF, IBL, subsurface-scattering), 2D/3D texturing, local/global illumination, rendering methods, and shaders."
+    },
+    {
+      "code": "IMD 3004",
+      "name": "Human Computer Interaction and Design",
+      "credit": "0.5",
+      "description": "Introduction to  concepts centered on Human-Computer Interaction from hardware and software perspectives. Topics include design principles, usability principles and engineering, solving user-centred problems, device interaction, and graphical user interface design (2D and 3D interfaces)."
+    },
+    {
+      "code": "IMD 3005",
+      "name": "Sensor-Based Interaction",
+      "credit": "0.5",
+      "description": "Development of interactive applications that connect the physical and virtual space. Topics include using external devices and sensor hardware, sensing objects and people, gestural input, computer vision, processing of live audio input, and networked software and devices."
+    },
+    {
+      "code": "IMD 3006",
+      "name": "Software Design for Multimedia Applications",
+      "credit": "0.5",
+      "description": "Provides students with knowledge and expertise to design and develop complex software systems and programs for common multimedia applications. Topics include: data structures, system and requirement analysis, component identification, common design patterns, and working with reusable components."
+    },
+    {
+      "code": "IMD 3900",
+      "name": "Design Studio 2",
+      "credit": "1.0",
+      "description": "Intermediate practical studio sessions covering the creative aspects of 3D graphics and animation. Topics include: environment and character modeling, texturing, using bump/displacement maps, advanced materials, 3D cameras, various lighting, keyframe animation, and rendering methods."
+    },
+    {
+      "code": "IMD 3901",
+      "name": "Design Studio 3",
+      "credit": "1.0",
+      "description": "Studio-based course focuses on interdisciplinary group work, and the use of reality-based/ natural-based interfaces for multiuser interaction, understanding social and environmental context in physical design, basic networking, advanced sound design, and haptic feedback."
+    },
+    {
+      "code": "IMD 4002",
+      "name": "Technology and Culture",
+      "credit": "0.5",
+      "description": "An examination of the relationship between communication technology and society. The course examines the factors that contribute to changes in the collection, storage and distribution of information and the cultural implications of these changes."
+    },
+    {
+      "code": "IMD 4005",
+      "name": "Advanced Topics in Multimedia",
+      "credit": "0.5",
+      "description": "Advanced topics in multimedia industry not ordinarily treated in the regular course program due to their contemporary subject matter. The choice of topics varies from year to year."
+    },
+    {
+      "code": "IMD 4006",
+      "name": "Advanced Game Design and Development",
+      "credit": "0.5",
+      "description": "Provides students with knowledge and expertise to design and develop professional computer games with advanced and novel features. Topics include: game feel, game analysis techniques, prototyping & playtesting, inclusive/accessible design, interaction design, simulations in games, procedural content generation, and game research."
+    },
+    {
+      "code": "IMD 4008",
+      "name": "Mobile User Interface Design and Development",
+      "credit": "0.5",
+      "description": "Design, development, and evaluation of user interfaces for mobile applications. Topics include: user-centered design methods and develop mobile applications employing the various input and output capabilities available on mobiles, e.g., multi-touch, device motion/rotation, video/audio capture, vibration."
+    },
+    {
+      "code": "IMD 4901",
+      "name": "IMD Capstone Project",
+      "credit": "1.5",
+      "description": "Student-initiated digital media project, under the supervision of a project advisor, consisting of complete end-to-end production, from design to final product. Development will be assessed via design documents, project plans, progress presentations, culminating in a final exposition in front of a panel of industry experts."
+    },
+    {
+      "code": "NET 1001",
+      "name": "Computer Technology Basics",
+      "credit": "0.5",
+      "description": "Construction and function of PCs. Introduces technical concepts and terminology relating to system boards, system busses, input/output devices, memory, microprocessors and peripherals. Interaction of software and hardware; data storage; performance issues."
+    },
+    {
+      "code": "NET 1002",
+      "name": "Networking Fundamentals",
+      "credit": "0.5",
+      "description": "Foundation knowledge for computer networks and communications. Topics include basic network design, layered communications models, IP addressing and subnets, and industry standards for networking media and protocols, with an emphasis on TCP/IP protocol suite and Ethernet environments."
+    },
+    {
+      "code": "NET 1006",
+      "name": "Routing and Switching",
+      "credit": "0.5",
+      "description": "Introduction to routing and switching concepts including, static and dynamic routing, trunking and VLANs. Topics include configuring routers and switches and resolving common configuration and reachability issues."
+    },
+    {
+      "code": "NET 2000",
+      "name": "Intermediate Networking",
+      "credit": "0.5",
+      "description": "Architecture, components and operations of routers and switches in Enterprise networks. Topics include configuration and troubleshooting of OSPF, including Multi-area, redundancy, NAT and troubleshooting techniques."
+    },
+    {
+      "code": "NET 2007",
+      "name": "Basics of Transmission Systems",
+      "credit": "0.5",
+      "description": "Introduction to the fundamentals of information transmissions systems used in physical layer of the Internet. Covers time- and frequency-domain concepts, digital and analog transmission, signal encoding, sampling, modulation, demodulation, error detection and correction. Examples: DSL, Cable modem, and wireless LAN. Includes: Experiential Learning Activity."
+    },
+    {
+      "code": "NET 2008",
+      "name": "DevOps",
+      "credit": "0.5",
+      "description": "Exposure to unifying software development (Dev) and software operation (Ops). Use of Python to monitor and automate network management tasks."
+    },
+    {
+      "code": "NET 2010",
+      "name": "Desktop and Server Environments I",
+      "credit": "0.5",
+      "description": "Using Linux and Windows Server, study of the basic features such as file system, system utilities, memory management, boot process troubleshooting and UI customizations. Client-Server architecture is examined with a focus on basic Server configuration and administration. Includes: Experiential Learning Activity."
+    },
+    {
+      "code": "NET 2011",
+      "name": "Desktop and Server Environments II",
+      "credit": "0.5",
+      "description": "Using Unix and Linux Operating systems, study of the command line and network Server operating environments.  Configuring Services and Protocols such as DNS, NTP, SSH, SMB, SMTP, POP3, IMAP, HTTP, and DHCP. Basic Server security using firewalls is also introduced. Includes: Experiential Learning Activity."
+    },
+    {
+      "code": "NET 2012",
+      "name": "Networking Technologies and Automation",
+      "credit": "0.5",
+      "description": "Enterprise technologies and QoS mechanisms used for networks access. Topics include virtualization, and automation concepts. Software-defined networking, controller-based architectures and how application programming interfaces (APIs) enable network automation."
+    },
+    {
+      "code": "NET 2013",
+      "name": "Computer Systems Foundations",
+      "credit": "0.5",
+      "description": "Introduction to the design and implementation of digital circuits and microprocessors. Topics include: binary numbers and arithmetic, fundamentals of boolean algebra, combinational circuits, sequential circuits, computer architecture and organization: CPU, cache, memory, input/output, bus structures, interrupts, computer arithmetic, CPU assembly instruction sets."
+    },
+    {
+      "code": "NET 3000",
+      "name": "Database Concepts and SQL",
+      "credit": "0.5",
+      "description": "Concepts and fundamentals of relational database systems. Students learn how to design relational databases starting from a conceptual data model, following accepted logical and physical design principles. Topics include normalisation, referential integrity, SQL, DDL and SQL DML &amp; ODBC and data extraction/filtering techniques."
+    },
+    {
+      "code": "NET 3001",
+      "name": "Real-time Systems",
+      "credit": "0.5",
+      "description": "Principles of event-driven systems, review of computer organization; parallel and serial interfaces; programmable timer; I/O methods; polling and interrupts. Real-time kernels. Critical design consideration: concurrency, dead lock, synchronization. Maintaining and improving system performance. Programming exercises in low and high level languages."
+    },
+    {
+      "code": "NET 3004",
+      "name": "Data Structures",
+      "credit": "0.5",
+      "description": "Specification and design of abstract data types and their implementation as stacks, queues, trees, tables and graphs. Common and useful examples. Parsing and finite state machines. Analysis of algorithms, recursion, re-entrance. Special focus: abstraction, interface specification and hierarchical design using object-oriented programming."
+    },
+    {
+      "code": "NET 3006",
+      "name": "Network Management and Machine Learning",
+      "credit": "0.5",
+      "description": "Key network management models, protocols, and standards (such as SNMP, NETCONF, NetFlow). Introduction to machine learning (topics may include decision trees, numerical computations for learning, deep feedforward networks, etc.) and its application in network management. Security issues in networking management."
+    },
+    {
+      "code": "NET 3007",
+      "name": "Network Security",
+      "credit": "0.5",
+      "description": "Basics of network security. Students are introduced to the goals of IT security, common threats and countermeasures including firewalls, intrusion detection and prevention systems (IDPS) and virtual private networks. Several operating environments will be studied as examples. Also includes a section on computer ethics."
+    },
+    {
+      "code": "NET 3008",
+      "name": "Advanced Network Routing",
+      "credit": "0.5",
+      "description": "Routing IP at the enterprise level, within and between, autonomous systems. Advanced control and optimization of routing protocols and manipulation of traffic paths with multiple routing protocols. Working knowledge of Internet reachability via BGP."
+    },
+    {
+      "code": "NET 3010",
+      "name": "Web Programming",
+      "credit": "0.5",
+      "description": "Architectures, protocols, and languages used to develop dynamic Web content, including Hypertext Markup and Hypertext Formatting Languages (HTML, XML, CSS), Universal Resource Identifiers (URI), and the Hypertext Transport Protocol (HTTP). JavaScript and PHP are used to model cross-platform web programming."
+    },
+    {
+      "code": "NET 3011",
+      "name": "Advanced Network Switching",
+      "credit": "0.5",
+      "description": "VLANs and inter-VLAN routing in a multilayer switched environment. Variants of STP and the use of related enhancements. Techniques for network redundancy and load balancing. Securing a switched infrastructure. Architectures and techniques for delivering converged traffic in an enterprise environment."
+    },
+    {
+      "code": "NET 3012",
+      "name": "IP Architectures and Solutions",
+      "credit": "0.5",
+      "description": "An exploration of various deployment options that can be implemented atop an IP network core. The focus is on technologies including MPLS and Segment Routing that serve to enhance IP service delivery and connectivity leveraging the IP infrastructure. Includes Layer 2 and 3 tunneling techniques."
+    },
+    {
+      "code": "NET 3900",
+      "name": "Wireless Networks",
+      "credit": "0.5",
+      "description": "Design and configuration of Wi-Fi networks as used in commercial and enterprise venues. Topics include 802.11 family of protocols, wireless transmission, RF design, security methods and protocols, and system design. Topologies include campus, bridge and remote access."
+    },
+    {
+      "code": "NET 4000",
+      "name": "Emerging Network Technologies",
+      "credit": "0.5",
+      "description": "Overview of technologies, protocols and techniques related to Information Technology networking that are either in their early stage of adoption or are not yet mainstream (i.e. beta or prototype stage). Focus will vary from year to year to reflect the evolutionary nature of this domain."
+    },
+    {
+      "code": "NET 4001",
+      "name": "Network Simulation",
+      "credit": "0.5",
+      "description": "Introduction to discrete event simulation and network modeling; fundamental stochastic models for networking; introduction to queueing theory; random numbers; analysis of simulation data; confidence intervals. Use of different software tools to plan and perform simulations."
+    },
+    {
+      "code": "NET 4005",
+      "name": "Networked Applications",
+      "credit": "0.5",
+      "description": "Architectures for computing in modern data networks that adopt the Internet architecture. Topics covered include socket programming, RPC and RMI. Client-server and peer-to-peer models. Emerging application architectures."
+    },
+    {
+      "code": "NET 4007",
+      "name": "Multimedia Networking",
+      "credit": "0.5",
+      "description": "Audio and video compression. H.261, JPEG, MPEG and DVI. Accessing audio and video from a web server. Real Time Streaming Protocol (RTSP). Multimedia operating systems. Multimedia database. Network support for multimedia applications. Multimedia synchronization."
+    },
+    {
+      "code": "NET 4009",
+      "name": "Troubleshooting IP Networks",
+      "credit": "0.5",
+      "description": "Integrates planned maintenance and troubleshooting techniques, including, tools, applications and formalized methodologies. Study of issues in focused areas (such as routed vs. switched environments, addressing services, performance, security, VPN), culminating in problem resolution throughout a complex enterprise network."
+    },
+    {
+      "code": "NET 4010",
+      "name": "Secure Mobile Networking",
+      "credit": "0.5",
+      "description": "The concept, principle and rationale of mobile networking. Mobile network architecture, protocols, mobility management, routing and mobile TCP/IP; Security challenges, vulnerabilities and threats in mobile networks; Security defense techniques and countermeasures in mobile networks."
+    },
+    {
+      "code": "NET 4011",
+      "name": "Advanced Topics in Network Security",
+      "credit": "0.5",
+      "description": "Understanding classes of advanced attacks. Building secure networks. Adversarial Machine Learning. Security in clouds, virtualized networks, and IoT. Understanding impact of OS and software security issues. Security in next generation networks such as 5G."
+    },
+    {
+      "code": "NET 4012",
+      "name": "Cloud Computing and Virtualization",
+      "credit": "0.5",
+      "description": "The basics of cloud computing and its driving technology behind: virtualization. Topics include how virtual machines and containers are deployed and orchestrated; how various resources and networks are virtualized and managed; hypervisor technology; virtual network management and micro-segmentation; cloud service provisioning; cloud security."
+    },
+    {
+      "code": "NET 4901",
+      "name": "NET Capstone Project",
+      "credit": "1.0",
+      "description": "This course provides the opportunity to apply knowledge gained in previous courses towards the design and implementation of a major Networking related project. Working in teams or as individuals under the direction of faculty members, students undertake projects internally or in collaboration with industry."
+    },
+    {
+      "code": "OSS 1002",
+      "name": "Photonics and Optoelectronics Applications",
+      "credit": "0.5",
+      "description": "Survey of the history and future of photonics. Photonics benefits and impact on technology and society. Emerging applications of photonics in industry and commercial products. The forces (business, social, political, economic, technical, and educational) that influence the development, adoption and success or failure of technologies."
+    },
+    {
+      "code": "OSS 1003",
+      "name": "Optics/Optical Fibers (Principles)",
+      "credit": "0.5",
+      "description": "Principles of optics, optical fiber, waveguides and hands-on experience with optical components. Optical fiber manufacturing and variety of industrial applications. Topics covered include: optical sources, detectors, fiber modes and mode-coupling, couplers, multiplexers, optical amplifiers, physical layer of optical networks, dispersion and nonlinear effects management."
+    },
+    {
+      "code": "OSS 1005",
+      "name": "Introduction to Optics",
+      "credit": "0.5",
+      "description": "Physics of waves, optics and light propagation through lectures and lab experiments. Geometrical optics, refraction and reflection, interference, diffraction and polarization, thin lens equation, laser beams, Michelson interferometer, birefringence, and Abbe theory of imaging. Electromagnetic spectrum, quantum nature of light, photons, and photoelectric effect."
+    },
+    {
+      "code": "OSS 1006",
+      "name": "Introduction to Automation and Simulation",
+      "credit": "0.5",
+      "description": "Introduction to basic programming in both the Matlab and Labview environments. Program development, basic structures (loops, control structures), I/O, data visualization and graphing will be covered. Students will learn to use Labview to develop basic applications and model simple physical systems with Matlab."
+    },
+    {
+      "code": "OSS 2001",
+      "name": "Fundamentals of Light Sources",
+      "credit": "0.5",
+      "description": "Introduction to incoherent light sources and lasers. Lasers operation, energy levels, quantum mechanics basics. Pumping/excitation, population inversion, laser cavity design, gain and loss, and characteristics of laser emission. An extensive lab manual of relevant experiments, variety of lasers, spectrometers, and detection equipment will be used."
+    },
+    {
+      "code": "OSS 2002",
+      "name": "Optical Communication Networks I",
+      "credit": "0.5",
+      "description": "Adaptive Optical Communication Networks with 10Gb/s-200Gb/s Packet-Optical Platforms and WaveServers, OTN, flexible WaveLogic Photonics, ROADM, SONET/SDH, programmable network, optimized mapping techniques, optical carriers (OC-n/STM-m). Extensive hands-on experience using state-of-the-art Optophotonics Lab to work on OAM&P, facility/equipment, synchronization, bandwidth management, performance monitoring and other functionalities."
+    },
+    {
+      "code": "OSS 2003",
+      "name": "Laser Systems",
+      "credit": "0.5",
+      "description": "Laser theory, devices and systems. Safety procedures, laser power supplies, and laser system applications. Solid state, gas, and other types of lasers. Basic material processing, micro machining, bio/medical, and military applications will be covered. Hands-on experience with advanced laser equipment in lab."
+    },
+    {
+      "code": "OSS 2005",
+      "name": "Circuits and Signals",
+      "credit": "0.5",
+      "description": "Students learn properties of electricity and measurement techniques. Topics covered include RMS, average, applied, peak-to-peak and instantaneous values. Lab experiments deal with RC and RL circuits and LC filters. RLC circuits, and series and parallel resonance are also covered."
+    },
+    {
+      "code": "OSS 2006",
+      "name": "Integrated Circuits",
+      "credit": "0.5",
+      "description": "Fundamentals of logic circuitry in digital systems are studied including basic logic gates, Boolean algebra, signal decoding, logic circuit design, flip-flop circuits, timers and counters. The proper use of semi-conductor components is demonstrated through the use of laboratory experiments."
+    },
+    {
+      "code": "OSS 2008",
+      "name": "Manufacturing Photonics Components",
+      "credit": "0.5",
+      "description": "Manufacturing techniques and methods used to produce photonics components and devices/systems. Micro assembly, adhesives, optical tests and measurement, lean manufacturing and quality control standards (Telcordia). Laboratory exposure to optical component production processes: grinding, polishing, coating, mounting, tolerance and accuracy."
+    },
+    {
+      "code": "OSS 2009",
+      "name": "Microcontrollers for Sensing Applications",
+      "credit": "0.5",
+      "description": "Microcontrollers study, emphasizing on their applications in sensing systems. Topics include microcontroller architecture, instruction sets, sensor interfacing, and programming techniques-Python for embedded programming; brief introduction to assembly and machine language. Students gain practical experience for real-world applications in automation and embedded systems development."
+    },
+    {
+      "code": "OSS 2010",
+      "name": "Signals and Systems",
+      "credit": "0.5",
+      "description": "This course provides a solid theoretical foundation for the analysis and processing of experimental data, and real-time experimental control methods. Topics include various properties of signals and systems, convolution, the Fourier transform, sampling theorem, z-transform, spectral analysis, filter design, and system identification."
+    },
+    {
+      "code": "OSS 3000",
+      "name": "Optical Communication Networks II",
+      "credit": "0.5",
+      "description": "Operation, management and maintenance of metro/long-haul optical network elements and systems. Hands-on skills using GUI, Transaction Language One (TL1), optical network management to perform: alarm provisioning, line and path protection switching, security, data communications management, optical network backup and restore, load upgrade and installation management."
+    },
+    {
+      "code": "OSS 3001",
+      "name": "Real-time Systems",
+      "credit": "0.5",
+      "description": "Principles of event-driven systems, review of computer organization; parallel and serial interfaces; programmable timer; I/O methods; polling and interrupts. Real-time kernels. Critical design consideration: concurrency, dead lock, synchronization. Maintaining and improving system performance. Programming exercises in low and high level languages."
+    },
+    {
+      "code": "OSS 3002",
+      "name": "Design of Optical Components and Systems",
+      "credit": "0.5",
+      "description": "Optical ray-tracing for analysing systems of sources, lenses, mirrors, prisms, fibers, diffractive elements, MEMS. Zemax\u00ae fundamentals, pupils, aspherics, non-sequential tracing, aberrations, image metrics, optimization/merit functions. Applications: imaging, illumination, lasers. Trade-offs, mechanical constraints, tolerances and cost. Physical optics modeling of bean propagation. Near-field diffraction and waveguides."
+    },
+    {
+      "code": "OSS 3003",
+      "name": "Fundamentals of Electromagnetics",
+      "credit": "0.5",
+      "description": "Review of basic vector calculus followed by an introduction to electrostatics and magnetostatics. Maxwell's equations and EM wave solutions. EM waves in dielectrics media, reflection, refraction, Fresnel relations and Brewster angle. Introduction to guided waves emphasizing slab waveguides."
+    },
+    {
+      "code": "OSS 3004",
+      "name": "Data Structures",
+      "credit": "0.5",
+      "description": "Specification and design of abstract data types and their implementation as stacks, queues, trees, tables and graphs. Common and useful examples. Parsing and finite state machines. Analysis of algorithms, recursion, re-entrance. Special focus: abstraction, interface specification and hierarchical design using object-oriented programming."
+    },
+    {
+      "code": "OSS 3009",
+      "name": "Project Management",
+      "credit": "0.5",
+      "description": "Identification, selection, initiation, and organization of projects. Risk assessment, budget issues, communication, project scheduling, performance monitoring and control. Emphasis on practical techniques related to the field of photonics using case studies."
+    },
+    {
+      "code": "OSS 3012",
+      "name": "Digital Signal Processing",
+      "credit": "0.5",
+      "description": "Operations-related topics including: sampling/reconstruction of continuous time signals, Fourier and Z-transforms, Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT). Examination of other time and frequency domain techniques for designing and applying infinite impulse response (IIR) and finite impulse response (FIR) digital filters."
+    },
+    {
+      "code": "OSS 3013",
+      "name": "Software Design for Optical Systems and Sensors",
+      "credit": "0.5",
+      "description": "Provides students with knowledge and expertise to design and develop complex software systems and programs for common optical systems and sensors using Python. Topics include: system and requirement analysis, algorithms, component identification, common design patterns, and working with reusable components."
+    },
+    {
+      "code": "OSS 3014",
+      "name": "Optical Waves, Waveguides, and Sensors",
+      "credit": "0.5",
+      "description": "Analysis of guided-wave propagation and sensors. Topics include Maxwell\u2019s time-dependent wave equations, dielectric waveguides (slab, planar, segmented, rib, strip), optical fibres (modes, dispersion relations, propagation in dispersive media, nonlinear fibres), beam propagation methods, free space beam propagation, waveguide devices, and study of sensors technology."
+    },
+    {
+      "code": "OSS 4001",
+      "name": "Optoelectronic Devices and Smart Sensor Systems",
+      "credit": "0.5",
+      "description": "This course delves deep into advanced opto-electronics devices, sensing systems, emphasizing emerging technologies. Topics: semiconductors, semiconductor lasers, detectors, photovoltaics, fiber sensors, amplifiers, and modulation. It integrates smart sensor systems and optical sensors with algorithms for analysis in various applications. Students participate in hands-on laboratory experiences."
+    },
+    {
+      "code": "OSS 4004",
+      "name": "Medical Imaging and Biosensors",
+      "credit": "0.5",
+      "description": "Biological and medical photonics. Effect of light on biological systems, medical imaging, medical treatments, biological research and bio/medical applications. Laser manipulation of cells, laser surgery, and photo-therapy. Biophotonic lab experiments with scanning confocal microscopes, endoscopes , DNA scanners."
+    },
+    {
+      "code": "OSS 4005",
+      "name": "Introduction to Deep Learning",
+      "credit": "0.5",
+      "description": "Introduction to classification and regression. Optimization, vectorization, gradient descent, cost, loss and activation functions. Introduction and basics to AI, Artificial Neural Networks, forward and backward propagation, Multi Layer Perceptron, and other types of Deep Neural Network models, their applications in multimedia, networks, finance, etc."
+    },
+    {
+      "code": "OSS 4006",
+      "name": "Image Processing",
+      "credit": "0.5",
+      "description": "Developing and evaluating algorithms for extracting the necessary information signals. Topics include filter design, fast transforms, adaptive filters, spectrum estimation and modeling, sensor array processing, image processing, motion estimation from images, applications in biomed, computer-aided tomography, image restoration, robotic vision, and pattern recognition."
+    },
+    {
+      "code": "OSS 4008",
+      "name": "Remote Sensing",
+      "credit": "0.5",
+      "description": "Introduction to the basics of remote sensing, characteristics of remote sensors, and applications. Topics include: image acquisition and data collection, LIDAR sensors and platforms and derived digital products, imagery analysis, topographic mapping, and 3D modeling of urban infrastructure for autonomous vehicles."
+    },
+    {
+      "code": "OSS 4009",
+      "name": "Computer Vision",
+      "credit": "0.5",
+      "description": "Introduction to topics in computer vision, including: fundamentals of image formation, camera imaging geometry, f camera models, camera calibration, structure from motion, feature detection and matching, depth and stereo, image stabilization, image classification, automated alignment, scene understanding, recognition, and image searching."
+    },
+    {
+      "code": "OSS 4900",
+      "name": "OSS Capstone Project",
+      "credit": "1.0",
+      "description": "Research project develops students' ability to direct own learning and pursue advanced study in variety of subjects. Select topic, perform literature search, theoretical background, preliminary measurements, calculations, and design. Present findings in a preliminary thesis. Encourage writing technical papers. Research opportunities with industry and academia."
+    }
+  ],
+  "free_electives": []
+}

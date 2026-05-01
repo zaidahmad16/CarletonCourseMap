@@ -1,0 +1,176 @@
+{
+  "name": "Geomatics",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/geomatics/",
+  "courses": [
+    {
+      "code": "GEOM 1004",
+      "name": "Maps, Satellites and the Geospatial Revolution",
+      "credit": "0.5",
+      "description": "Introduction to the creation and use of maps using a variety of geospatial tools to better understand and resolve physical, social and environmental problems. Overview of geomatics (cartography and map design, geographic information systems, GPS, remote sensing)."
+    },
+    {
+      "code": "GEOM 2005",
+      "name": "Introduction to Geospatial Programming",
+      "credit": "0.5",
+      "description": "Computer programming for geomatics students focusing on storage, manipulation, management, visualization and analysis of geospatial data; Essential coding concepts and best practices including variables, loops, and conditional statements; programmatic handling of raster and vector data structures; batch geoprocessing and map production; GIS tool customization."
+    },
+    {
+      "code": "GEOM 2007",
+      "name": "Vector GIS: Points, Lines and Polygons",
+      "credit": "0.5",
+      "description": "Storage, visualization, manipulation and analysis of vector geospatial data. Vector geoprocessing including buffering, overlays and topological analysis; feature classification and cartographic representation; managing coordinate reference systems for vector layers; selected applications of vector GIS such as urban planning, environmental and resource management and socio-economic mapping."
+    },
+    {
+      "code": "GEOM 2008",
+      "name": "Raster GIS: Pixels and Grids",
+      "credit": "0.5",
+      "description": "Storage, visualization, manipulation, and analysis of gridded geospatial data; 3D visualization; digital terrain analysis; interpolation and filtering; raster geoprocessing and projections; selected topics and applications in raster GIS such as least-cost path analysis, natural hazard assessment, pollution mapping and hotspot analysis for population geography."
+    },
+    {
+      "code": "GEOM 3002",
+      "name": "Introduction to Remote Sensing",
+      "credit": "0.5",
+      "description": "Principles and methods of remote sensing; visual interpretation of air photos and satellite imagery; digital image processing, analysis and classification for thematic mapping; introduction to various active and passive remote sensing imagery types such as optical, hyperspectral, RADAR and LiDAR."
+    },
+    {
+      "code": "GEOM 3005",
+      "name": "Geospatial Analysis",
+      "credit": "0.5",
+      "description": "An advanced course in geospatial analysis theory and practice; geoprocessing; geo-visualization; geostatistics; spatial modelling; working with spatio-temporal data structures; advanced site-suitability and network analysis; intermediate GIS tool customization."
+    },
+    {
+      "code": "GEOM 3007",
+      "name": "Cartographic Theory and Design",
+      "credit": "0.5",
+      "description": "Principles of and issues in cartography, cartographic communication and map design; practical aspects of cartographic representation using multimedia and online/interactive mapping."
+    },
+    {
+      "code": "GEOM 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "GEOM 4001",
+      "name": "Special Topics in Geomatics",
+      "credit": "0.5",
+      "description": "A seminar focusing on selected topics in geomatics including advanced theory and/or application."
+    },
+    {
+      "code": "GEOM 4003",
+      "name": "Remote Sensing of the Environment",
+      "credit": "0.5",
+      "description": "Advanced image enhancement; land cover classification for thematic mapping; biophysical modeling; applications in resources, environment, and urban mapping."
+    },
+    {
+      "code": "GEOM 4005",
+      "name": "Directed Studies in Geomatics",
+      "credit": "0.5",
+      "description": "Students pursue their interest in a selected theme in Geomatics on a tutorial basis with a member of the Department."
+    },
+    {
+      "code": "GEOM 4008",
+      "name": "Advanced Topics in Geographic Information Systems",
+      "credit": "0.5",
+      "description": "Advanced methods and techniques in GIS applications including: positional and attribute error analysis, multiple criteria decision making, interpolation, elevation modeling and ortho-imaging, and spatial pattern measurement."
+    },
+    {
+      "code": "GEOM 4009",
+      "name": "Custom Geomatics Applications",
+      "credit": "0.5",
+      "description": "Development and implementation of custom geomatics applications and workflows using programming and various geoprocessing tools. Project design, application development, GIS automation and documentation."
+    },
+    {
+      "code": "GEOM 4406",
+      "name": "Practicum I",
+      "credit": "0.5",
+      "description": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field."
+    },
+    {
+      "code": "GEOM 4408",
+      "name": "Practicum II",
+      "credit": "0.5",
+      "description": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field."
+    },
+    {
+      "code": "GEOM 4906",
+      "name": "Honours Research Project",
+      "credit": "1.0",
+      "description": "Candidates for B.Sc. with Concentration in Geomatics undertake a research project within their area of specialization. The project is supervised by a member of the department and a written report must be submitted. The candidate may be examined orally on the report."
+    },
+    {
+      "code": "GEOM 4909",
+      "name": "Honours Research Thesis",
+      "credit": "1.0",
+      "description": "Independent design and implementation of a research project leading to the submission of a research thesis. Students work with an individual faculty adviser. The subject for research is decided upon in consultation with the supervisor."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Geomatics B.A. Honours (20.0 credits)",
+      "credits": "2.5",
+      "text": "8.  2.5 credits in free electives. 2.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Geomatics B.Sc. Honours (20.0 credits)",
+      "credits": "2.0",
+      "text": "14.  2.0 credits in free electives 2.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Free Electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Courses Allowable Only as Free Electives in any B.Sc. Program"
+    }
+  ]
+}

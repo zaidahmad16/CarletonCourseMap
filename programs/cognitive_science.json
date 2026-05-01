@@ -1,0 +1,164 @@
+{
+  "name": "Cognitive Science",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/cognitivescience/",
+  "courses": [
+    {
+      "code": "CGSC 1001",
+      "name": "Mysteries of the Mind",
+      "credit": "0.5",
+      "description": "Challenges faced in understanding the mind, and some of the approaches cognitive science has brought to bear on them. Topics may include the nature of knowledge, how we learn, the extent to which human thinking is rational, biases in thinking, and evolutionary influences on cognition."
+    },
+    {
+      "code": "CGSC 1005",
+      "name": "Computational Methods in Cognitive Science",
+      "credit": "0.5",
+      "description": "Introduction to computational methods, with an emphasis on programming. Topics and assignments will focus on applications in cognitive science. No prior computing experience required."
+    },
+    {
+      "code": "CGSC 2001",
+      "name": "Theories in Cognitive Science",
+      "credit": "0.5",
+      "description": "An integrated background of the discipline of Cognitive Science, with an historical overview (1940's onward) and  examination of the extent to which the discipline has assimilated the collective knowledge of contributing disciplines (e.g., psychology, philosophy, linguistics, artificial intelligence and neuroscience)."
+    },
+    {
+      "code": "CGSC 2002",
+      "name": "Methods in Cognitive Science",
+      "credit": "0.5",
+      "description": "Selected topics in cognitive science covered from the perspectives of psychology, computer science, linguistics, philosophy, and other related disciplines. Students may be required to complete independent research projects."
+    },
+    {
+      "code": "CGSC 3004",
+      "name": "Philosophy and Cognitive Science",
+      "credit": "0.5",
+      "description": "An examination of the significance and role of philosophy in cognitive science. Topics may include: philosophical methods for studying the mind, prospects for naturalizing consciousness and intentionality, assessing competing models of the mind."
+    },
+    {
+      "code": "CGSC 3201",
+      "name": "Cognitive Processes",
+      "credit": "0.5",
+      "description": "An examination of research findings on cognitive processes. Topics may include attention, speech perception, memory, intelligence, reasoning, learning, working memory, reading, and mathematics."
+    },
+    {
+      "code": "CGSC 3301",
+      "name": "Language and Cognitive Science",
+      "credit": "0.5",
+      "description": "Issues related to language and cognitive science are examined through a detailed consideration of selected topics."
+    },
+    {
+      "code": "CGSC 3501",
+      "name": "Cognitive Neuroscience",
+      "credit": "0.5",
+      "description": "Issues related to the role of cognitive neuroscience research in cognitive science are examined through a detailed consideration of selected topics."
+    },
+    {
+      "code": "CGSC 3601",
+      "name": "Artificial Intelligence and Cognitive Science",
+      "credit": "0.5",
+      "description": "An introduction to the contribution of artificial intelligence and computer modeling of cognitive processes to cognitive science."
+    },
+    {
+      "code": "CGSC 3603",
+      "name": "Artificial Intelligence: Philosophical and Ethical Issues",
+      "credit": "0.5",
+      "description": "Topics examined through the lens of philosophy and cognitive science may include humans\u2019 obligations towards AI, sentient AI, implications of AI for models of cognition, designing ethical AI systems, implications of using AI in healthcare, and social inequality and job displacement related to AI."
+    },
+    {
+      "code": "CGSC 3704",
+      "name": "Cognitive Science and the Digital Humanities",
+      "credit": "0.5",
+      "description": "Exploration of the roles of human and artificial cognition in the digital humanities. Topics may include virtual and augmented reality as applied to the humanities, cognitive issues in hypertext and hypermedia; linguistic and philosophical considerations in digital media, cognitive narratology, and artificial intelligence."
+    },
+    {
+      "code": "CGSC 3908",
+      "name": "Honours Seminar in Cognitive Science",
+      "credit": "0.5",
+      "description": "Major theories and empirical approaches within Cognitive Science are examined through a detailed consideration of selected topics. Students are required to complete independent research projects to prepare for their fourth-year honours theses."
+    },
+    {
+      "code": "CGSC 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "CGSC 4601",
+      "name": "Cognitive Architectures",
+      "credit": "0.5",
+      "description": "Cognitive architectures and how to evaluate them against human data; how to create cognitive models using cognitive architectures such as ACT-R."
+    },
+    {
+      "code": "CGSC 4605",
+      "name": "Hyperdimensional Cognitive Models",
+      "credit": "0.5",
+      "description": "Modelling cognition using artificial intelligence techniques such as reinforcement learning, vector-symbolic models, neural networks, and/or machine learning."
+    },
+    {
+      "code": "CGSC 4801",
+      "name": "Independent Study",
+      "credit": "0.5",
+      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program (including independent study credits taken through other departments)."
+    },
+    {
+      "code": "CGSC 4802",
+      "name": "Independent Study",
+      "credit": "0.5",
+      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program (including independent study credits taken through other departments)."
+    },
+    {
+      "code": "CGSC 4900",
+      "name": "Special Topics in Cognitive Science",
+      "credit": "0.5",
+      "description": "The topic of this course will vary from year to year. Students may register in more than one section of but may register in each section only once."
+    },
+    {
+      "code": "CGSC 4908",
+      "name": "Honours Thesis",
+      "credit": "1.0",
+      "description": "Interdisciplinary thesis.  In developing a thesis, students must consult the Undergraduate Supervisor. Only the Undergraduate Supervisor can assign a supervisor or grant approval to register in this course. Faculty regulations governing Honours Research Essays and Honours Theses apply."
+    },
+    {
+      "code": "CGSC 4909",
+      "name": "Honours Project",
+      "credit": "1.0",
+      "description": "Interdisciplinary project. Students engage in one or more group research  projects."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Program Requirements",
+      "credits": "4.5",
+      "text": "14.  4.5 credits in free electives. 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Cognitive Science with Concentration in Language and Linguistics Bachelor of Cognitive Science Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "14.  4.5 credits in free electives 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Cognitive Science with Concentration in the Biological Foundations of Cognition Bachelor of Cognitive Science Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "14.  4.5 credits in free electives. 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Cognitive Science with Concentration in Cognition and Psychology Bachelor of Cognitive Science Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "14.  4.5 credits in free electives. 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Cognitive Science with Concentration in Cognition and Computation Bachelor of Cognitive Science Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "14.  4.5 credits in free electives 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Cognitive Science Bachelor of Cognitive Science (15.0 credits)",
+      "credits": "6.0",
+      "text": "10.  6.0 credits in free electives 6.0"
+    }
+  ]
+}

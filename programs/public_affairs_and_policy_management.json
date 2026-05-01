@@ -1,0 +1,86 @@
+{
+  "name": "Public Affairs and Policy Management",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/publicaffairsandpolicymanagement/",
+  "courses": [
+    {
+      "code": "PAPM 1001",
+      "name": "Policy: Analysis, Implementation, and Evaluation",
+      "credit": "0.5",
+      "description": "The processes of policy-making, implementation and evaluation. Forces that shape policy deliberations and alternative tools for managing policy action and policy evaluation. Theoretical approaches to understanding the origins of policy, and methods by which programs are designed and assessed."
+    },
+    {
+      "code": "PAPM 2001",
+      "name": "Foundations of Public Policy: Political Thought",
+      "credit": "0.5",
+      "description": "Theoretical, philosophical and ethical foundations for the study of public affairs and policy management. Drawing from classic and contemporary texts in political philosophy and theory, students consider issues relating to the nature of democracy, civic society and social organizations, the public, public affairs, public interest."
+    },
+    {
+      "code": "PAPM 2002",
+      "name": "Foundations of Public Policy: Economic Thought",
+      "credit": "0.5",
+      "description": "An examination of the history of economic thought, the context in which it developed, and its influence on public policy, from ancient to classical, neoclassical, and Keynesian approaches. Will also include a discussion of critical approaches such as Marxist, feminist, racial capitalist thought."
+    },
+    {
+      "code": "PAPM 3000",
+      "name": "Policy Research",
+      "credit": "0.5",
+      "description": "An examination of the research strategies and techniques relevant to policy analysis and evaluation. Using the case study method, the role of research and research organizations in the policy process is discussed. The issue of ethical dilemmas in policy research is also considered."
+    },
+    {
+      "code": "PAPM 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "PAPM 4000",
+      "name": "Capstone Seminar in Public Affairs and Policy Management",
+      "credit": "0.5",
+      "description": "Policy workshop focusing on the application of public affairs analysis to develop problem solving and research skills. Seminar is policy-focused and organized by area of Specialization in the program. Students, working in small groups, examine concrete policy problems, actual or simulated, in specific institutional contexts."
+    },
+    {
+      "code": "PAPM 4099",
+      "name": "Policy Seminar",
+      "credit": "0.5",
+      "description": "Students address a specific policy problem or problems, in interaction with local, national or international policy experts or practitioners. Emphasis on policy analysis, research, and communication skills."
+    },
+    {
+      "code": "PAPM 4100",
+      "name": "Special Topics in Public Affairs and Policy Management",
+      "credit": "0.5",
+      "description": "Analysis of selected issues in public affairs and policy management not ordinarily treated in the regular course program. The choice of topics will vary from year to year. Students should consult with the College regarding the topic offered."
+    },
+    {
+      "code": "PAPM 4908",
+      "name": "Honours Research Essay",
+      "credit": "1.0",
+      "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader. Students are responsible for locating a faculty member willing to supervise the essay. Departmental regulations apply."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Specialization in Communication and Policy Studies (Strategic Public Opinion) B.P.A.P.M. Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "14.  4.5 credits in free electives 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Specialization in Development Policy Studies (Indigenous Policy) B.P.A.P.M Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "13.  4.5 credits in free electives 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Specialization in International Policy Studies (Security and Intelligence) B.P.A.P.M. Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "15.  4.5 credits in free electives 4.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Specialization in Public Policy and Administration (Indigenous Policy) B.P.A.P.M Honours (20.0 credits)",
+      "credits": "4.5",
+      "text": "13.  4.5 credits in free electives 4.5"
+    }
+  ]
+}

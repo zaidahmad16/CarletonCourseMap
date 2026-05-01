@@ -1,0 +1,500 @@
+{
+  "name": "Communication and Media Studies",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/communicationstudies/",
+  "courses": [
+    {
+      "code": "COMS 1001",
+      "name": "Foundations: Media History",
+      "credit": "0.5",
+      "description": "An exploration of media history, patterns of change, and key approaches to their study."
+    },
+    {
+      "code": "COMS 1002",
+      "name": "Foundations: Contemporary Communication and Media",
+      "credit": "0.5",
+      "description": "An exploration of communication and media in relation to contemporary political, technological and cultural issues, with a focus on Canada."
+    },
+    {
+      "code": "COMS 1003",
+      "name": "Digital Skills for Media Studies",
+      "credit": "0.5",
+      "description": "This course is intended to build on and reinforce digital skills and strengthen students' capacity to navigate and adapt to different digital skills requirements in courses across our B.CoMS program."
+    },
+    {
+      "code": "COMS 1004",
+      "name": "Writing and Reading Skills for Media Studies",
+      "credit": "0.5",
+      "description": "Workshop to strengthen writing skills in communication and media studies and prepare students for coursework across the B.CoMS program."
+    },
+    {
+      "code": "COMS 2003",
+      "name": "Theoretical Foundations in Communication and Media Studies",
+      "credit": "0.5",
+      "description": "The development of communication theory in the context of major social, economic and cultural periods and events. Emphasis on the central debates and traditions that have shaped and defined the field."
+    },
+    {
+      "code": "COMS 2004",
+      "name": "Introduction to Communication Research",
+      "credit": "0.5",
+      "description": "Introduction to the scientific method as interpreted through major traditions in Communication and Media Studies. The course addresses the relationship between theory and evidence, research design, ethics and data management."
+    },
+    {
+      "code": "COMS 2005",
+      "name": "Introduction to Communication Practice",
+      "credit": "0.5",
+      "description": "Learn to communicate ideas and arguments using different media forms and platforms. Topics may include photography, graphic design, audio, video, information design, and generative artifical intelligence tools."
+    },
+    {
+      "code": "COMS 2200",
+      "name": "Big Data and Society",
+      "credit": "0.5",
+      "description": "How big data and small data shape society. Databases as a form of media. Topics may include: data policy and regulation, the politics and ethics of big data, data and decision-making, and data as discourse."
+    },
+    {
+      "code": "COMS 2300",
+      "name": "Communication as Propaganda",
+      "credit": "0.5",
+      "description": "How business, government, and civil society actors have used media messages to persuade, influence, and manipulate the public. The impacts of propaganda on individuals and society, the roles of different media technologies in facilitating propaganda, and public resistance to propaganda."
+    },
+    {
+      "code": "COMS 2400",
+      "name": "Climate Change and Communication",
+      "credit": "0.5",
+      "description": "The class examines the role of communication in shaping the relationship of climate change, science, politics, popular culture, social movements, technology, and societal transformation."
+    },
+    {
+      "code": "COMS 2500",
+      "name": "Communication and Science",
+      "credit": "0.5",
+      "description": "How expert knowledge (particularly scientific, medical, and technical) is communicated in the public realm. Topics may include scientific advances and new technologies, health risks, environmental/ climate change, and cultural/ideological positioning of science."
+    },
+    {
+      "code": "COMS 2501",
+      "name": "Media Law",
+      "credit": "0.5",
+      "description": "A survey of laws that affect the Canadian media including the development of freedom of expression, the Charter of Rights and Freedoms, and statutory and common-law limitations on freedoms of the press, including publication bans, libel and contempt of court."
+    },
+    {
+      "code": "COMS 2504",
+      "name": "Language and Communication",
+      "credit": "0.5",
+      "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers, including the nature of meaning, the connections between language, communication and cognition, and language as a social activity."
+    },
+    {
+      "code": "COMS 2600",
+      "name": "Communication and Culture",
+      "credit": "0.5",
+      "description": "An introduction to the major industries, institutions, regulatory frameworks and key organizations responsible for cultural production in Canada."
+    },
+    {
+      "code": "COMS 2700",
+      "name": "Global Media and Communication",
+      "credit": "0.5",
+      "description": "An introduction to global media and communication, with an emphasis on debates about media power and expansion, digitalization, technology transfer, and societal implications/changes. Students will investigate historical and contemporary contexts of global and transnational communication through a variety of approaches and perspectives."
+    },
+    {
+      "code": "COMS 3001",
+      "name": "Quantitative Research in Communication",
+      "credit": "0.5",
+      "description": "An introduction to basic statistical methods in media and communication studies."
+    },
+    {
+      "code": "COMS 3002",
+      "name": "Qualitative Research in Communication",
+      "credit": "0.5",
+      "description": "An introduction to interpretive methods in media and communication studies."
+    },
+    {
+      "code": "COMS 3003",
+      "name": "Media and Crime",
+      "credit": "0.5",
+      "description": "A critical exploration of the mediation of crime and violence in historical and contemporary contexts.  Topics may include celebrity criminals, true crime media, news, photography, courtroom TV, victimhood, and vigilante justice."
+    },
+    {
+      "code": "COMS 3100",
+      "name": "Introduction to Political Management",
+      "credit": "0.5",
+      "description": "Introduction to the field of political management. The institutional, legislative and ethical context in which party strategists, campaign managers, pollsters, lobbyists and civil society operate. Related administrative and communications skills."
+    },
+    {
+      "code": "COMS 3108",
+      "name": "Media Industries and the Network Society",
+      "credit": "0.5",
+      "description": "Examines the theoretical frameworks and major issues and debates relating to media industries and institutions in Canada and internationally."
+    },
+    {
+      "code": "COMS 3109",
+      "name": "Communication, Culture and Identity",
+      "credit": "0.5",
+      "description": "Examines the relationship between media, communication, and identity categories. The course explores identity formation as a cultural phenomenon including questions of race, ethnicity, gender, class, and sexuality."
+    },
+    {
+      "code": "COMS 3110",
+      "name": "Comic Books and Graphic Novels",
+      "credit": "0.5",
+      "description": "The history, political economy, and culture of comics as a distinct medium of communication, and the relationship between comic book publishing and other cultural industries."
+    },
+    {
+      "code": "COMS 3111",
+      "name": "Racism and Digital Media",
+      "credit": "0.5",
+      "description": "Explores the historical, social, and systemic underpinnings of racism in relation to digital media. The course considers the emergence of digital media and its impact on racism. Students will learn about several relations, from World War II computers, to Web 2.0, to activism, and more."
+    },
+    {
+      "code": "COMS 3302",
+      "name": "Political Communication",
+      "credit": "0.5",
+      "description": "Examines the relationship between various kinds of communication and political activity in a variety of contexts. Case studies will be drawn from speeches, political campaigns, and debates, using a variety of media forms, from photographs to web sites."
+    },
+    {
+      "code": "COMS 3308",
+      "name": "Critical Studies in Advertising and Consumer Culture",
+      "credit": "0.5",
+      "description": "A critical analysis of major constructs and basic mechanisms of advertising, social marketing and other aspects of consumer culture. The course examines the social, political-economic and cultural implications of consumer culture."
+    },
+    {
+      "code": "COMS 3310",
+      "name": "Critical Perspectives of Public Relations",
+      "credit": "0.5",
+      "description": "A critical examination of key aspects of public relations, including histories of PR, media representations of PR, gender and public relations, and the role of PR in business, politics and civil society."
+    },
+    {
+      "code": "COMS 3311",
+      "name": "Media and Communication in Regional Contexts",
+      "credit": "0.5",
+      "description": "Provides a historical overview of the development of media technologies, and an understanding of the place of media within the political, regulatory, and legal activities of different international regions (e.g., Europe, Asia, Africa, Latin America, etc.)."
+    },
+    {
+      "code": "COMS 3400",
+      "name": "Ethical Controversies in Media and Communication",
+      "credit": "0.5",
+      "description": "Explores ethical problems and controversies relating to research in media and communication. Focuses on rights and responsibilities of researchers and practitioners as  relates to media consumers, producers, and professional communicators in an age when communication circulates quickly within and across borders and other boundaries."
+    },
+    {
+      "code": "COMS 3401",
+      "name": "Communications Regulation in Canada",
+      "credit": "0.5",
+      "description": "Examines historical and contemporary issues in the regulation of communication practices and institutions in Canada."
+    },
+    {
+      "code": "COMS 3403",
+      "name": "Communication, Technology and Culture",
+      "credit": "0.5",
+      "description": "Examines the relationship between communication technology and society, including factors that contribute to changes in the collection, storage and distribution of information and their cultural implications."
+    },
+    {
+      "code": "COMS 3404",
+      "name": "Music Industries",
+      "credit": "0.5",
+      "description": "An introduction to the structure and history of the music industries."
+    },
+    {
+      "code": "COMS 3406",
+      "name": "Media Audiences and Users",
+      "credit": "0.5",
+      "description": "Examines the role of audiences in contemporary media industries.  Topics include history of audience studies, ratings and the audience commodity, active audience theory, and media fandom."
+    },
+    {
+      "code": "COMS 3407",
+      "name": "Comparative Media Studies",
+      "credit": "0.5",
+      "description": "The comparative study of one or more media organizations and/or types of media content with reference to their operation, audiences, and impacts."
+    },
+    {
+      "code": "COMS 3410",
+      "name": "Visual Media and Communication",
+      "credit": "0.5",
+      "description": "Examines the central importance of visual imagery in contemporary media, culture and everyday life. Draws connections between historical/contemporary explanations of \u2018the visual,\u2019 and how texts and technologies reflect the context and cultural values of the environments that produce them, and the challenges for regulation."
+    },
+    {
+      "code": "COMS 3411",
+      "name": "Media and Social Activism",
+      "credit": "0.5",
+      "description": "Examines links between media and activism through the lens of past and present social movements and protest events. Addresses leading theories that help conceptualize various types of activist movements, with a focus on the role of media in shaping activist identity and political opportunity."
+    },
+    {
+      "code": "COMS 3412",
+      "name": "Communication and Health",
+      "credit": "0.5",
+      "description": "The concept of health as a sociocultural phenomenon; the many ways that health issues are communicated, defined, represented, and framed."
+    },
+    {
+      "code": "COMS 3500",
+      "name": "Current Issues in Communication and Media Theory",
+      "credit": "0.5",
+      "description": "Examines theoretical debates and issues facing the field of Communication and Media Studies today."
+    },
+    {
+      "code": "COMS 3600",
+      "name": "Communication and Community Service Learning",
+      "credit": "0.5",
+      "description": "An experiential learning course that provides students with opportunities to engage in communication strategies and community service learning. Focuses on how methodological approaches drawn from communication and media studies scholarship can be applied to the work of community organizations."
+    },
+    {
+      "code": "COMS 3601",
+      "name": "Communication Strategies",
+      "credit": "0.5",
+      "description": "A hands-on introduction to developing, designing, and executing strategic communications campaigns. Emphasis on understanding how effective communications strategies can be designed to help organizations achieve goals by making appeals to different audiences."
+    },
+    {
+      "code": "COMS 3800",
+      "name": "Special Topic in Communication and Media Studies",
+      "credit": "0.5",
+      "description": "A selected topic not ordinarily treated in the regular course program.  The choice of topic varies from year to year.  Check with the Communication and Media Studies program regarding the topic offered."
+    },
+    {
+      "code": "COMS 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "COMS 4001",
+      "name": "Sport and/as Media",
+      "credit": "0.5",
+      "description": "A critical exploration of the culture and political economy of sport including cultural norms and questions of representation in and around sports across an array of media."
+    },
+    {
+      "code": "COMS 4002",
+      "name": "Media Fandom",
+      "credit": "0.5",
+      "description": "Examines media fans as audiences. Topics may include fan cultures, digital fandom, identity, and audience labour."
+    },
+    {
+      "code": "COMS 4004",
+      "name": "Communication and Discourse",
+      "credit": "0.5",
+      "description": "Examines the development of theory and methods related to discourse and its use in the analysis of images and texts."
+    },
+    {
+      "code": "COMS 4305",
+      "name": "Media and Religion",
+      "credit": "0.5",
+      "description": "Critical examination of the ways religion mediates communicative practices, engages with media technologies, and is mediated in mainstream or popular culture. Topics may include: secularization and post-secularization; the politics of representation; religious organizations as communicative actors; fundamentalism."
+    },
+    {
+      "code": "COMS 4306",
+      "name": "Media and Conflict",
+      "credit": "0.5",
+      "description": "Media representations of conflict such as war and terrorism, and how they influence the collective imagination."
+    },
+    {
+      "code": "COMS 4311",
+      "name": "Environmental Communication",
+      "credit": "0.5",
+      "description": "Examines environmental, animal, and earth observing media and pays special attention to the production of visual materials. The course explores the influence of media systems on the production, dissemination, and meaning of environmental observations and looks at sites of contemporary environmental contention."
+    },
+    {
+      "code": "COMS 4312",
+      "name": "Crisis and Risk Communication",
+      "credit": "0.5",
+      "description": "Examines crises and risks from the perspective of communication. The course explores the role of various media in shaping risk perceptions and constructions of crisis, the politics of crisis and risk management, symbolic dimensions in crisis construction, and ethical dilemmas."
+    },
+    {
+      "code": "COMS 4313",
+      "name": "Screen Studies",
+      "credit": "0.5",
+      "description": "Issues in the past, present and future of film, television and related media. Screens are examined as media that represent and shape values and culture, as technologies that are produced and purchased, and as objects that are regulated through policy."
+    },
+    {
+      "code": "COMS 4315",
+      "name": "Communication and the Built Environment",
+      "credit": "0.5",
+      "description": "How communication occurs in conjunction with the built environment, with special attention to cultural artefacts such as houses, schools, factories, prisons, office buildings, roads, parks, and the urban (and suburban) environment. Various models, theories, and philosophies of the built environment are considered."
+    },
+    {
+      "code": "COMS 4316",
+      "name": "Indigenous Media in Global Contexts",
+      "credit": "0.5",
+      "description": "Overview of Indigenous global media exploring film and film festivals, television networks, media arts, and the Internet. We will discuss struggles over mediated self-representation as well as debates over what constitutes Indigenous media relating to aesthetics, community affiliation, and identity."
+    },
+    {
+      "code": "COMS 4317",
+      "name": "Digital Media and Global Network Society",
+      "credit": "0.5",
+      "description": "A critical and analytical understanding of the way digital media are reshaping society and are shaped by societal structures and forces; on the implications of digital media on various aspects of social life globally, including culture, politics, law, privacy, journalism, and collective organizing/social movements."
+    },
+    {
+      "code": "COMS 4401",
+      "name": "Global Internet Policy and Governance",
+      "credit": "0.5",
+      "description": "Public interest and policy battles over critical internet resources and implications for development of the internet, citizens\u2019 rights and freedoms, the economy, and democratic culture; common carriage, privacy, security and surveillance, access, speech rights, and diversity of information sources."
+    },
+    {
+      "code": "COMS 4403",
+      "name": "Digital Media Industries",
+      "credit": "0.5",
+      "description": "Key approaches to the study of media as industries and how economics, markets and technologies intersect with social choices, politics and power to shape how decisions are made about the design, ownership, organization and control of media."
+    },
+    {
+      "code": "COMS 4405",
+      "name": "The Networked Self",
+      "credit": "0.5",
+      "description": "How notions of identity are changing as we conduct our lives through networked media and communication such as social media, online search, the Internet of Things, and wearable devices. Subjectivity, personhood, posthumanism, algorithmic control, and privacy."
+    },
+    {
+      "code": "COMS 4406",
+      "name": "Open Government and Communication",
+      "credit": "0.5",
+      "description": "The contemporary open government movement; how communication can be used to improve governance and to foster a more collaborative relationship between governments and citizens. Access to information, the challenges of open data, expectations of transparency, and models of citizen engagement/consultation."
+    },
+    {
+      "code": "COMS 4407",
+      "name": "Communication and Critical Data Studies",
+      "credit": "0.5",
+      "description": "Theoretical perspectives, ethical problems, and contemporary issues relevant to communication and data studies. Students will critically examine the rise of \u2018big data\u2019 and \u2018datafication\u2019 as socio-technical phenomena that have become a crucial part of our communication landscape."
+    },
+    {
+      "code": "COMS 4408",
+      "name": "Creative Work",
+      "credit": "0.5",
+      "description": "Contemporary trends affecting creative work in cultural industries. How careers in the arts, culture and media are increasingly desirable as a way for individual workers to find personal fulfillment and as a means of reinvigorating post-industrial economies."
+    },
+    {
+      "code": "COMS 4410",
+      "name": "Mobile Media",
+      "credit": "0.5",
+      "description": "Critical examination of the history, development, and expansion of mobile media and its impact on culture, connectivity, and practice; locative media practices, geo-coding, wireless communication, mobile technologies, and user experience in everyday life."
+    },
+    {
+      "code": "COMS 4411",
+      "name": "Algorithmic Culture",
+      "credit": "0.5",
+      "description": "The ways in which computerized algorithms engage in the traditional work of culture: the sorting, classifying, and hierarchizing of people, places, objects, and ideas to produce new habits of thought, conduct, expression, and material outcomes."
+    },
+    {
+      "code": "COMS 4412",
+      "name": "Game Studies",
+      "credit": "0.5",
+      "description": "Games as media. The history of gaming and mediated play in terms of technology and form, industry, labour, gender and subcultural practice."
+    },
+    {
+      "code": "COMS 4501",
+      "name": "Digital Media Production",
+      "credit": "0.5",
+      "description": "This workshop introduces practice-based tools and techniques relevant in contemporary professional communication, such as basic web development, podcasting, and digital photography."
+    },
+    {
+      "code": "COMS 4502",
+      "name": "Storytelling in the Digital Age",
+      "credit": "0.5",
+      "description": "In this workshop students learn to write compelling stories for the digital age. They engage with examples of great storytelling across print and online platforms, from magazines and newspapers to blogs and podcasts, to gain a deeper understanding of what makes some stories stand out."
+    },
+    {
+      "code": "COMS 4503",
+      "name": "Visualizing Social Media: Hashtags, keywords, & conversations",
+      "credit": "0.5",
+      "description": "This workshop introduces a range of methods and practices in data mining and analytics. Techniques include data and text mining, data analysis (including sentiment and social network analysis), data visualization and modeling. Opportunity to work with analytics and mapping software on students' own projects."
+    },
+    {
+      "code": "COMS 4504",
+      "name": "Engaging the Public: Stakeholders, participation & consultation",
+      "credit": "0.5",
+      "description": "This workshop introduces the challenges of conceptualizing and conducting public consultations. This includes audience or participant selection, a range of consultation techniques and formats, marketing and communication, analysis, as well as an awareness of policies and regulations governing consultations."
+    },
+    {
+      "code": "COMS 4505",
+      "name": "Professional Writing and Speaking",
+      "credit": "0.5",
+      "description": "In this workshop students develop skills in professional written communication, such as press releases, blogs, op-eds, policy briefs, and speeches. Students will also hone their public speaking skills presenting their written work in different formats."
+    },
+    {
+      "code": "COMS 4506",
+      "name": "Event Management and Community Partnerships",
+      "credit": "0.5",
+      "description": "This workshop introduces the stages of event management for potential community partners. This includes conceptualization, marketing and sponsorships, production and financing, to risk management."
+    },
+    {
+      "code": "COMS 4507",
+      "name": "Professional Communication Research",
+      "credit": "0.5",
+      "description": "Students will work in a team-based environment to carry out empirical research in support of current faculty-led projects. In addition to learning advanced research techniques, students will develop project management and collaborative research skills."
+    },
+    {
+      "code": "COMS 4602",
+      "name": "Children, Youth and Media",
+      "credit": "0.5",
+      "description": "Historical and contemporary ways in which children and youth relate to the media and popular culture."
+    },
+    {
+      "code": "COMS 4603",
+      "name": "Diaspora and Communication",
+      "credit": "0.5",
+      "description": "The impact of various forms of diasporic communication on the shaping of contemporary national and international society."
+    },
+    {
+      "code": "COMS 4604",
+      "name": "Media, Gender and Sexuality",
+      "credit": "0.5",
+      "description": "Critical examination of the intersection of media and gender, including constructions of femininity, masculinity, and other issues of sexuality."
+    },
+    {
+      "code": "COMS 4605",
+      "name": "Media, Race and Ethnicity",
+      "credit": "0.5",
+      "description": "Critical examination of how issues of race and ethnicity intersect with contemporary media."
+    },
+    {
+      "code": "COMS 4606",
+      "name": "Global Media and Popular Culture",
+      "credit": "0.5",
+      "description": "Key theories and concepts that have shaped the study of global media and its impact on popular cultures around the world."
+    },
+    {
+      "code": "COMS 4607",
+      "name": "Communication and Food",
+      "credit": "0.5",
+      "description": "Food in and as communication. Food and identity, food and culture, food environments, food systems, food politics, and food and community development."
+    },
+    {
+      "code": "COMS 4608",
+      "name": "Sound Studies",
+      "credit": "0.5",
+      "description": "How hearing and listening practices have changed over time, and the role of sound technology in shaping our understanding of each other, our world, and ourselves."
+    },
+    {
+      "code": "COMS 4800",
+      "name": "Special Topic in Communication and Media Studies",
+      "credit": "0.5",
+      "description": "A selected topic not ordinarily treated in the regular course program.  The choice of topic varies from year to year.  Check with the Communication and Media Studies program regarding the topic offered."
+    },
+    {
+      "code": "COMS 4908",
+      "name": "Honours Research Essay",
+      "credit": "1.0",
+      "description": "The Honours Research Essay (HRE) provides eligible students with an opportunity to complete an independent research essay under the supervision of a faculty member. The HRE must be completed over two consecutive academic terms, beginning in the fall term."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Communication and Media Studies B.Co.M.S. Honours (20.0 credits)",
+      "credits": "3.0",
+      "text": "8.  3.0 credits in free electives 3.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Communication and Media Studies B.Co.M.S. Combined Honours (20.0 credits)",
+      "credits": "",
+      "text": "8.  Sufficient credits in free electives to total 20.0 credits for the program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Communication and Media Studies B.Co.M.S. (15.0 credits)",
+      "credits": "2.0",
+      "text": "6.  2.0 credits in free electives. 2.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Specialization in Global Media and Communication B.G.In.S. Honours (20.0 credits)",
+      "credits": "8.0",
+      "text": "4.  8.0 credits in: free electives 8.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Stream in Global Media and Communication B.G.In.S. (15.0 credits)",
+      "credits": "7.0",
+      "text": "3.  7.0 credits in: free electives 7.0"
+    }
+  ]
+}

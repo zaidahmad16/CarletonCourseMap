@@ -1,0 +1,60 @@
+{
+  "name": "Data Science",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/datascience/",
+  "courses": [
+    {
+      "code": "DATA 1517",
+      "name": "Data Modelling I",
+      "credit": "0.5",
+      "description": "Introduction to formulating statistical problems and analyzing data using open-source software. Graphical and numerical descriptives. combinatorial formulae, Bayes' Theorem, probability, Discrete and continuous distributions, means and variances. Point and interval estimates, and hypothesis tests for one- and two-samples using Central Limit Theorem, and permutation tests."
+    },
+    {
+      "code": "DATA 1519",
+      "name": "Data Modelling II",
+      "credit": "0.5",
+      "description": "Introduction to modelling real phenomena from planning data collection or gathering observational data to analyzing and providing insights. Topics include experimental design from first principles and simulating the data generating process, linear regression and correlation, one- and two-way Analysis of Variance using open-source statistical software."
+    },
+    {
+      "code": "DATA 2200",
+      "name": "Communication Skills for Data Scientists",
+      "credit": "0.5",
+      "description": "Technical communication and data visualization skills for data science majors, concentrating on writing and orally presenting scientific papers and technical reports. Principles of clarity and precision in writing and oral communication. Practical exercises and readings from recent technical publications will be used."
+    },
+    {
+      "code": "DATA 2500",
+      "name": "Data Wrangling in R",
+      "credit": "0.5",
+      "description": "Reproducible workflows from acquisition, to cleaning, manipulation, and visualization. Data are acquired from databases, APIs, and web scraping. Cleaning and manipulating Numeric, categorical, date, and text data are introduced including regular expressions. Data visualization and report generation using dynamic tools are emphasized."
+    },
+    {
+      "code": "DATA 3500",
+      "name": "Statistical Programming in R",
+      "credit": "0.5",
+      "description": "Modern coding practices in R including running simulations, workflows for common statistical models, retrieving diagnostics and model estimates, and presenting and visualizing results. Emphasis on modern, reproducible workflows and version control."
+    },
+    {
+      "code": "DATA 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": "On completion of each work term, the student must submit to the Institute for Data Science a written report on the work performed. Graded SAT or UNS."
+    },
+    {
+      "code": "DATA 4848",
+      "name": "Consulting Project",
+      "credit": "1.0",
+      "description": "This course is designed to give students some practical experience as a data science consultant through classroom discussion of issues in consulting and participation in real consulting projects."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "definition",
+      "text": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, the Sprott School of Business and the Faculty of Science except for courses in the Prohibited Courses category. Free electives can include COMP, CSEC, DATA, MATH and STAT courses."
+    },
+    {
+      "type": "requirement",
+      "degree": "Data Science B.D.S. Honours (20.0 credits)",
+      "credits": "7.0",
+      "text": "8.  7.0 credits in free electives 7.0"
+    }
+  ]
+}

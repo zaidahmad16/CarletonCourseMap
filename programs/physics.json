@@ -1,0 +1,458 @@
+{
+  "name": "Physics",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/physics/",
+  "courses": [
+    {
+      "code": "PHYS 1001",
+      "name": "Foundations of Physics I",
+      "credit": "0.5",
+      "description": "This calculus-based course on classical mechanics covers  kinematics, dynamics, gravitation, and oscillatory motion. This is a specialist course for students intending to take further courses in physics."
+    },
+    {
+      "code": "PHYS 1002",
+      "name": "Foundations of Physics II",
+      "credit": "0.5",
+      "description": "An introduction to electricity, magnetism, electromagnetic fields, and wave motion. This is a specialist course for students intending to take further courses in physics."
+    },
+    {
+      "code": "PHYS 1003",
+      "name": "Introductory Mechanics and Thermodynamics",
+      "credit": "0.5",
+      "description": "Mechanics, gravitation, oscillations, and thermodynamics. The application of calculus to solve problems in these areas of physics is introduced. This course is intended for students in the physical sciences and engineering."
+    },
+    {
+      "code": "PHYS 1004",
+      "name": "Introductory Electromagnetism and Wave Motion",
+      "credit": "0.5",
+      "description": "This calculus-based course introduces potential energy, work, electricity, magnetism, oscillations and waves."
+    },
+    {
+      "code": "PHYS 1007",
+      "name": "Elementary University Physics I",
+      "credit": "0.5",
+      "description": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences. For students who lack the prerequisites for or , or who do not intend to take upper-year courses in physics."
+    },
+    {
+      "code": "PHYS 1008",
+      "name": "Elementary University Physics II",
+      "credit": "0.5",
+      "description": "Electricity and magnetism, DC and AC circuits, wave motion and light. Elements of modern physics. Applications chosen in part from the life sciences."
+    },
+    {
+      "code": "PHYS 1107",
+      "name": "Introductory University Physics I",
+      "credit": "0.5",
+      "description": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences. For students who lack the prerequisites for or , or who do not intend to take upper-year courses in physics."
+    },
+    {
+      "code": "PHYS 1108",
+      "name": "Introductory University Physics II",
+      "credit": "0.5",
+      "description": "Electricity and magnetism, DC and AC circuits, wave motion and light. Elements of modern physics. Applications chosen in part from the life sciences."
+    },
+    {
+      "code": "PHYS 1901",
+      "name": "Planetary Astronomy",
+      "credit": "0.5",
+      "description": "Description of the known stellar, galactic and extra-galactic systems together with the instruments used to study them. Modern ideas concerning the structure, origin and evolution of our own planet. Formation of the Moon - Earth system. Study of the planets in our solar system."
+    },
+    {
+      "code": "PHYS 1902",
+      "name": "From our Star to the Cosmos",
+      "credit": "0.5",
+      "description": "Starting with the Sun, the course studies its composition and source of power, then compares our Sun with the other stars in the galaxy and beyond. Modern ideas concerning the structure, origin and evolution of the universe, pulsars and supernovae are examined."
+    },
+    {
+      "code": "PHYS 1905",
+      "name": "Physics Behind Everyday Life",
+      "credit": "0.5",
+      "description": "Examination of the physics behind everyday life. Topics may include transportation, sports, weather and climate, electricity, and sustainable energy. No science background is required. Faculty of Science students may only take this course as a free elective."
+    },
+    {
+      "code": "PHYS 2004",
+      "name": "Modern Physics for Engineers",
+      "credit": "0.5",
+      "description": "Introduction to aspects of modern physics relevant to engineering. Thermal radiation. Concepts of relativistic kinematics. Wave-particle duality. Photoelectric effect, Compton scattering. Bohr theory of the hydrogen atom.   Optical and x-ray spectra, lasers. Nuclear physics and applications."
+    },
+    {
+      "code": "PHYS 2007",
+      "name": "Second Year Physics Laboratory: Selected Experiments and Seminars",
+      "credit": "0.5",
+      "description": "Students complete a number of experiments selected from classical physics and geometric optics, modern physics, etc. Seminars on relevant experimental topics will be included. Includes: Experiential Learning Activity."
+    },
+    {
+      "code": "PHYS 2101",
+      "name": "Mechanics and Properties of Matter",
+      "credit": "0.5",
+      "description": "Equations of motion for a single particle. Harmonic oscillation. Noninertial reference frames. Orbits in a central force field. Motion of systems of particles and of rigid bodies. Introduction to special relativity. Laboratory experiments in classical mechanics and properties of matter."
+    },
+    {
+      "code": "PHYS 2202",
+      "name": "Wave Motion and Optics",
+      "credit": "0.5",
+      "description": "Geometrical optics. Types of waves, vibrating string and the classical wave equation. General solutions for traveling waves. Superposition and interference, coherence, wave packets, waves in 2 and 3 dimensions. Propagation of electromagnetic waves. Light and physical optics, oscillator model for dispersion, diffraction, polarization, and refraction."
+    },
+    {
+      "code": "PHYS 2203",
+      "name": "Astronomy",
+      "credit": "0.5",
+      "description": "The observational basis of astronomy. The history of astronomy, properties of light, solar system observations and stellar astronomy."
+    },
+    {
+      "code": "PHYS 2212",
+      "name": "Wave Mechanics and Thermodynamics",
+      "credit": "0.5",
+      "description": "Types of waves and the classical wave equation, wave functions in 2 and 3 dimensions, reflection and refraction, superposition of waves, polarization, interference, diffraction, coherence, wave packets. Temperature and thermodynamic equilibrium, heat, work and first law of thermodynamics, entropy and second law of thermodynamics."
+    },
+    {
+      "code": "PHYS 2305",
+      "name": "Electricity and Magnetism",
+      "credit": "0.5",
+      "description": "Electrostatic field and potential, Gauss\u2019 law. Properties of conductors. Magnetic effects from currents. Motion of charges in electric and magnetic fields. Energy in electric and magnetic fields. Electromagnetic induction. Maxwell\u2019s equations in vacuum using vector differential and integral calculus."
+    },
+    {
+      "code": "PHYS 2306",
+      "name": "Physics of Electrical and Electronic Measurements I",
+      "credit": "0.5",
+      "description": "D.C. and A.C. circuit theory. Resonant circuits. Basic measuring devices, the oscilloscope; impedances, bandwidth, noise; vacuum tubes, transistors, useful approximations for circuit design; feedback, amplifiers, oscillators; operational circuits; digital circuits. Lectures emphasize the physical basis of instrument design. Laboratory emphasizes modern digital instrumentation."
+    },
+    {
+      "code": "PHYS 2401",
+      "name": "Thermal Physics",
+      "credit": "0.5",
+      "description": "Introduction to thermodynamics and statistical mechanics. Temperature and thermodynamic equilibrium. Work, internal energy and heat; first law. Kinetic  theory of gases.  Basic probability theory. Microscopic states and entropy.  Absolute temperature, reversibility and the second law of thermodynamics. Thermodynamic processes and applications."
+    },
+    {
+      "code": "PHYS 2604",
+      "name": "Modern Physics I",
+      "credit": "0.5",
+      "description": "The course is designed to provide a logical transition from classical to modern physics. Special relativity. Rutherford scattering, atomic models. Thermal radiation. Photoelectric effect, Compton scattering. Bohr theory of the hydrogen atom. Atomic energy states, optical spectra, lasers. X-rays. Radioactivity. Quantum Mechanics."
+    },
+    {
+      "code": "PHYS 2605",
+      "name": "Modern Physics I",
+      "credit": "0.5",
+      "description": "The course is designed to provide a logical transition from classical to modern physics. Special relativity. Rutherford scattering, atomic models. Thermal radiation. Photoelectric effect, Compton scattering. Bohr theory of the hydrogen atom. Atomic energy states, optical spectra, lasers. X-rays. Radioactivity."
+    },
+    {
+      "code": "PHYS 2801",
+      "name": "Computational Methods in Physics",
+      "credit": "0.5",
+      "description": "Introduction to computational methods in physics. Software platforms and programming languages. Data formats and structures, histograms, and data visualization.  Probability distributions, fitting/parameter estimation, function minimization.  Interpretation and treatment of uncertainties.  Introduction to machine learning and classification."
+    },
+    {
+      "code": "PHYS 2903",
+      "name": "Physics Towards the Future",
+      "credit": "0.5",
+      "description": "From classical phenomena to aspects of modern physics and recent advances. Topics may include light and colour, music and sound, cell phones, the galaxy and beyond. No science background is required. Faculty of Science students may only take this course as a free elective."
+    },
+    {
+      "code": "PHYS 3007",
+      "name": "Third Year Physics Laboratory: Selected Experiments and Seminars",
+      "credit": "0.5",
+      "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. An exercise on literature searches and student seminars on experimental and numerical methods are included."
+    },
+    {
+      "code": "PHYS 3008",
+      "name": "Third Year Physics Laboratory: Selected Experiments and Workshop",
+      "credit": "0.5",
+      "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. Instruction on instrumentation building techniques will be given."
+    },
+    {
+      "code": "PHYS 3009",
+      "name": "Third Year Physics Laboratory: Selected Experiments and Seminars with Observational Astronomy",
+      "credit": "0.5",
+      "description": "Students complete a small number of experiments selected from astronomy, astrophysics, modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. At least one astronomy/astrophysics related experiment is required. An exercise on literature searches and student seminars on experimental and numerical methods are included."
+    },
+    {
+      "code": "PHYS 3207",
+      "name": "Topics in Biophysics",
+      "credit": "0.5",
+      "description": "Introduction to biophysics. Random motion of molecules and diffusion; viscosity and the circulatory system; laws of thermodynamics and physical forces responsible for chemical reactions, molecular self-assembly and recognition; enzyme kinetics and molecular machines; nerve impulse and its propagation."
+    },
+    {
+      "code": "PHYS 3308",
+      "name": "Electromagnetism",
+      "credit": "0.5",
+      "description": "Electrostatics feld and magnetostatics in the presence of matter. Solving Laplace's and Poisson's equations. Multipole expansions. Vector potential. Faraday's laws of induction; Maxwell's equations in matter. Waves in vacuum and dielectric media, guided waves."
+    },
+    {
+      "code": "PHYS 3402",
+      "name": "Heat and Thermodynamics",
+      "credit": "0.5",
+      "description": "Zeroth, First, Second and Third Laws of Thermodynamics; enthalpy, Helmholtz and Gibbs functions and the Maxwell relations; phase transitions; thermodynamics of magnetism; cryogenics cooling by Joule-Thompson effect, adiabatic expansion of a gas, adiabatic demagnetization, helium dilution refrigeration; black body radiation; negative temperatures."
+    },
+    {
+      "code": "PHYS 3606",
+      "name": "Modern Physics II",
+      "credit": "0.5",
+      "description": "Elements of condensed matter physics, semiconductors, superconductivity. Elements of nuclear physics, fission, fusion, power generation. Introduction to particle physics. Ionizing radiation: production, interactions, detection. Medical physics: radiation biophysics, cancer therapy, imaging."
+    },
+    {
+      "code": "PHYS 3608",
+      "name": "Modern Applied Physics",
+      "credit": "0.5",
+      "description": "Elements of condensed matter physics, semiconductors, superconductivity. Modern optics. Elements of nuclear physics, fission, fusion, power generation. Ionizing radiation: production, interactions, detection. Medical physics: radiation biophysics, cancer therapy, imaging."
+    },
+    {
+      "code": "PHYS 3701",
+      "name": "Elements of Quantum Mechanics",
+      "credit": "0.5",
+      "description": "Analysis of interference experiments with waves and particles; fundamental concepts of quantum mechanics, Schr\u00f6dinger equation; angular momentum, atomic beams; hydrogen atom; atomic and molecular spectroscopy; Pauli principle; simple applications in the physics of elementary particles."
+    },
+    {
+      "code": "PHYS 3705",
+      "name": "Introduction to Quantum Systems",
+      "credit": "0.5",
+      "description": "This course is aimed at Computer Science and other students interested in developing a foundational understanding of quantum systems.  Topics include: postulates of quantum mechanics, Hilbert space and observables, qubits, 2 state systems, entanglement, Schrodinger equation, 1D potentials,  tunnelling, EPR paradox."
+    },
+    {
+      "code": "PHYS 3801",
+      "name": "Classical Mechanics",
+      "credit": "0.5",
+      "description": "Introduction to Lagrangian and Hamiltonian mechanics: Poisson brackets, tensors and dyadics; rigid body rotations: introductory fluid mechanics coupled systems and normal coordinates; relativistic dynamics."
+    },
+    {
+      "code": "PHYS 3802",
+      "name": "Advanced Dynamics",
+      "credit": "0.5",
+      "description": "Equations of motion for a single particle. Oscillatory Motion. Lagrangian and Hamiltonian formulations of mechanics. Central force motion. Motion of systems of particles and of rigid bodies."
+    },
+    {
+      "code": "PHYS 3807",
+      "name": "Mathematical Physics I",
+      "credit": "0.5",
+      "description": "Boundary Value problems involving curvilinear coordinates; spherical harmonics, Bessel functions, Green's functions. Functions of a complex variable: analytic functions, contour integration, residue calculus."
+    },
+    {
+      "code": "PHYS 3808",
+      "name": "Mathematical Physics II",
+      "credit": "0.5",
+      "description": "Solution of second-order total differential equations by Frobenius' method. Sturm-Liouville theory. Special functions: Legendre, Bessel. Hermite, Laguerre and associated functions. Partial differential equations: method of separation of variables, eigenfunctions and eigenvalues and eigenfunction expansions. Green's function techniques for solving inhomogeneous partial differential equations."
+    },
+    {
+      "code": "PHYS 3999",
+      "name": "Co-operative Work Term Report",
+      "credit": "0.0",
+      "description": "Provides practical experience for students enrolled in the Co-operative option. Students must receive satisfactory evaluations from their work term employer. Written and oral reports will be required. Graded as Sat or Uns."
+    },
+    {
+      "code": "PHYS 4007",
+      "name": "Fourth-Year Physics Laboratory: Selected Experiments and Seminars",
+      "credit": "0.5",
+      "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. An exercise on literature searches and student seminars on experimental and numerical methods are included."
+    },
+    {
+      "code": "PHYS 4008",
+      "name": "Fourth-Year Physics Laboratory: Selected Experiments and Workshop",
+      "credit": "0.5",
+      "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. Instruction on instrumentation building techniques will be given."
+    },
+    {
+      "code": "PHYS 4201",
+      "name": "Astrophysics",
+      "credit": "0.5",
+      "description": "Stellar evolution, including stellar modeling, main sequence stars, red giants and the end states of stars such as neutron stars and black holes. Galactic structure and dynamics. Neutrino astrophysics."
+    },
+    {
+      "code": "PHYS 4202",
+      "name": "Cosmology",
+      "credit": "0.5",
+      "description": "Observational evidence for the Big Bang. Cosmological space-time, expansion dynamics and contents of the universe. Physical processes in the expanding universe, inflation, nucleosynthesis, the cosmic microwave background, dark matter, and dark energy."
+    },
+    {
+      "code": "PHYS 4203",
+      "name": "Physical Applications of Fourier Analysis",
+      "credit": "0.5",
+      "description": "Fourier transform, convolution. Sampling theorem. Applications to imaging: descriptors of spatial resolution, filtering. Correlation, noise power. Discrete Fourier transform, FFT. Filtering of noisy signals. Image reconstruction in computed tomography and magnetic resonance. Laplace transform. Integral transforms, application to boundary value problems."
+    },
+    {
+      "code": "PHYS 4208",
+      "name": "Modern Optics",
+      "credit": "0.5",
+      "description": "Electromagnetic wave propagation; reflection, refraction; Gaussian beams, guided waves. Laser theory: stimulated emission, cavity optics, modes, gain and bandwidth; atomic and molecular lasers. Mode locking, Q switching. Diffraction theory, coherence, Fourier optics, holography, laser applications. Optical communication systems, nonlinear effects: devices, fibre sensors, integrated optics."
+    },
+    {
+      "code": "PHYS 4307",
+      "name": "Electromagnetic Radiation",
+      "credit": "0.5",
+      "description": "Electromagnetic wave propagation in a vacuum, dielectrics, conductors, and ionized gases, reflection, refraction, polarization at the plane boundary between two media; waveguide and transmission line propagation; dipole and quadrupole radiation fields; antenna systems. Electromagnetic mass, radiation pressure. Tensor notation, transformation of the electromagnetic fields."
+    },
+    {
+      "code": "PHYS 4407",
+      "name": "Statistical Physics",
+      "credit": "0.5",
+      "description": "Equilibrium statistical mechanics and its relation to thermodynamics. Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics are derived, and applied in appropriate physical situations. Fluctuations. Kinetics and transport processes, including the Boltzmann transport equation and some of its applications."
+    },
+    {
+      "code": "PHYS 4409",
+      "name": "Thermodynamics and Statistical Physics",
+      "credit": "0.5",
+      "description": "The three Laws of Thermodynamics, enthalpy, Helmholtz and Gibbs functions. Equilibrium statistical mechanics and its relation to thermodynamics. Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics."
+    },
+    {
+      "code": "PHYS 4508",
+      "name": "Solid State Physics",
+      "credit": "0.5",
+      "description": "An introduction to solid state physics. Topics include crystal structure, phonons and lattice vibrations, conductors, semiconductors, insulators and superconductivity."
+    },
+    {
+      "code": "PHYS 4602",
+      "name": "Physics of Elementary Particles",
+      "credit": "0.5",
+      "description": "Standard Model. Properties of leptons, quarks, hadrons. Fundamental interactions: photon, gluons, W/Z bosons. Higgs boson. Conservation laws, invariance principles, quantum numbers. Decay rates and scattering cross-sections. Quantum electrodynamics and chromodynamics. Resonances. Weak interactions, CKM matrix, parity and CP violation. Neutrino masses and oscillations. Future directions."
+    },
+    {
+      "code": "PHYS 4608",
+      "name": "Nuclear Physics",
+      "credit": "0.5",
+      "description": "Ground state properties of nuclei. Nuclear models, binding energy, properties of excited nuclei.  Alpha, beta and gamma decay. Passage of radiation through matter, detectors. Nuclear reactions, cross sections, fission, fusion. Elements of neutron physics."
+    },
+    {
+      "code": "PHYS 4707",
+      "name": "Introduction to Quantum Mechanics I",
+      "credit": "0.5",
+      "description": "The basic interpretative postulates of quantum mechanics; applications of wave mechanics and operator methods to various quantum mechanical systems; quantum mechanical treatment of angular momentum."
+    },
+    {
+      "code": "PHYS 4708",
+      "name": "Introduction to Quantum Mechanics II",
+      "credit": "0.5",
+      "description": "Scattering theory and application; bound state problems; approximation methods."
+    },
+    {
+      "code": "PHYS 4804",
+      "name": "Introduction to General Relativity",
+      "credit": "0.5",
+      "description": "Special relativity using tensor analysis. Curved spacetime with physics applications which may include the solar system, stars, black holes and gravitational waves. Introduction to differential geometry and Einstein's field equations."
+    },
+    {
+      "code": "PHYS 4807",
+      "name": "Statistical Data Analysis Techniques for Physics",
+      "credit": "0.5",
+      "description": "Computational methods used in analysis of experimental data. Introduction to probability and random variables. Monte Carlo methods for simulation of random processes. Statistical methods for parameter estimation and hypothesis tests. Confidence intervals. Multivariate data classification. Unfolding methods. Examples primarily from particle and medical physics."
+    },
+    {
+      "code": "PHYS 4901",
+      "name": "Special Topics in Physics",
+      "credit": "0.5",
+      "description": "Each year, at the direction of the Department, a course on a special topic may be offered."
+    },
+    {
+      "code": "PHYS 4907",
+      "name": "Fourth-Year Project",
+      "credit": "0.5",
+      "description": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project."
+    },
+    {
+      "code": "PHYS 4908",
+      "name": "Fourth-Year Project",
+      "credit": "0.5",
+      "description": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project."
+    },
+    {
+      "code": "PHYS 4909",
+      "name": "Fourth-Year Project",
+      "credit": "1.0",
+      "description": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Program Requirements",
+      "credits": "1.0",
+      "text": "13.  1.0 credit in free electives 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Program Requirements",
+      "credits": "1.0",
+      "text": "14.  1.0 credit in free electives 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Physics B.Sc. (15.0 credits)",
+      "credits": "1.0",
+      "text": "10.  1.0 credit in free electives 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Physics B.Sc. (15.0 credits)",
+      "credits": "",
+      "text": "c. 1.0 credit in free electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Mathematics and Physics B.Sc. Double Honours (21.5 credits)",
+      "credits": "1.0",
+      "text": "13.  1.0 credit in free electives 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Mathematics and Physics B.Sc. Double Honours (21.5 credits)",
+      "credits": "0.5",
+      "text": "13.  0.5 credit in free electives 0.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Mathematics and Physics B.Sc. Double Honours (21.5 credits)",
+      "credits": "1.0",
+      "text": "13.  1.0 credit in free electives. 1.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Free Electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Courses Allowable Only as Free Electives in any B.Sc. Program"
+    }
+  ]
+}

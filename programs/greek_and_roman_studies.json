@@ -1,0 +1,368 @@
+{
+  "name": "Greek and Roman Studies",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/greekandromanstudies/",
+  "courses": [
+    {
+      "code": "CLCV 1002",
+      "name": "Survey of Greek Civilization",
+      "credit": "0.5",
+      "description": "Introduction to the study of Greek antiquity and the discipline of Classics and its methodologies. Greek culture and society are set in their historical contexts and studied through readings from representative ancient authors (in English translation) and through the art and architecture of the period."
+    },
+    {
+      "code": "CLCV 1003",
+      "name": "Survey of Roman Civilization",
+      "credit": "0.5",
+      "description": "Introduction to the study of Roman antiquity and the discipline of Classics and its methodologies. The culture and society are set in their historical context and studied through readings from representative ancient authors (in English translation) and through the art and architecture of the period."
+    },
+    {
+      "code": "CLCV 1004",
+      "name": "Elementary Language Tutorial I",
+      "credit": "0.5",
+      "description": "Elementary study of an ancient language."
+    },
+    {
+      "code": "CLCV 1005",
+      "name": "Elementary Language Tutorial II",
+      "credit": "0.5",
+      "description": "Elementary study of an ancient language."
+    },
+    {
+      "code": "CLCV 1008",
+      "name": "Introduction to Archaeology I",
+      "credit": "0.5",
+      "description": "Introduction to the history, theory and practice of field archaeology.  Excavations from all time periods and global regions will be discussed.  Focus will be placed on excavation methods and technology, including dating, that enhance understanding of sites both on land and underwater."
+    },
+    {
+      "code": "CLCV 1009",
+      "name": "Introduction to Archaeology II",
+      "credit": "0.5",
+      "description": "Continues the examination of various aspects of field archaeology begun in .  This course places greater focus on recent approaches to the interpretation of remains.  These include environmental, cognitive and bioarchaeological approaches."
+    },
+    {
+      "code": "CLCV 2004",
+      "name": "Intermediate Language Tutorial I",
+      "credit": "0.5",
+      "description": "Intermediate study of an ancient language."
+    },
+    {
+      "code": "CLCV 2005",
+      "name": "Intermediate Language Tutorial II",
+      "credit": "0.5",
+      "description": "Intermediate study of an ancient language."
+    },
+    {
+      "code": "CLCV 2008",
+      "name": "Greek and Roman Epic",
+      "credit": "0.5",
+      "description": "An examination of the genre of epic in Greco-Roman antiquity, including a close reading of translations of Homer and Vergil."
+    },
+    {
+      "code": "CLCV 2010",
+      "name": "Greek and Roman Drama",
+      "credit": "0.5",
+      "description": "An examination of the genres of tragedy and comedy in Greco-Roman antiquity."
+    },
+    {
+      "code": "CLCV 2100",
+      "name": "Scientific and Medical Terminology",
+      "credit": "0.5",
+      "description": "Examination of Ancient Greek and Latin roots of technical terms found in the sciences, engineering, and medicine."
+    },
+    {
+      "code": "CLCV 2103",
+      "name": "Greek Religion",
+      "credit": "0.5",
+      "description": "A study of religion in ancient Greece."
+    },
+    {
+      "code": "CLCV 2104",
+      "name": "Roman Religion",
+      "credit": "0.5",
+      "description": "A study of religion in ancient Rome."
+    },
+    {
+      "code": "CLCV 2105",
+      "name": "Ancient Philosophy: The Search for Wisdom",
+      "credit": "1.0",
+      "description": "An exploration of ancient philosophy as a search for wisdom and happiness from its Presocratic beginnings in Greece to its development in the Hellenistic world and Imperial Rome. Emphasis on philosophy as a contemplative activity and as a way of life."
+    },
+    {
+      "code": "CLCV 2303",
+      "name": "Greek Art and Archaeology",
+      "credit": "0.5",
+      "description": "The art, architecture and archaeology of ancient Greece.  Vase painting, sculpture, architecture, town planning and analogous arts."
+    },
+    {
+      "code": "CLCV 2304",
+      "name": "Roman Art and Archaeology",
+      "credit": "0.5",
+      "description": "The art, architecture and archaeology of the ancient Romans.  Vase painting, sculpture, architecture, town planning and analogous arts are studied."
+    },
+    {
+      "code": "CLCV 2305",
+      "name": "Ancient Science and Technology",
+      "credit": "1.0",
+      "description": "The development and application of ancient science and technology in the fields of ancient engineering, machinery, metallurgy, transport, building, agriculture and Hippocratic medicine; the social position of craftsmen and artisans, the attitude of intellectuals to science and manual labour, the effects of slavery."
+    },
+    {
+      "code": "CLCV 2500",
+      "name": "Classical Mythology",
+      "credit": "0.5",
+      "description": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth."
+    },
+    {
+      "code": "CLCV 2902",
+      "name": "Origins of the Greeks",
+      "credit": "0.5",
+      "description": "The history of ancient Greece from the Bronze Age through the Archaic period."
+    },
+    {
+      "code": "CLCV 2903",
+      "name": "Democracy to Alexander",
+      "credit": "0.5",
+      "description": "The history of ancient Greece from the classical period to Alexander."
+    },
+    {
+      "code": "CLCV 2904",
+      "name": "Rise of the Roman Empire",
+      "credit": "0.5",
+      "description": "The history of ancient Rome from early Rome to the end of the Republic."
+    },
+    {
+      "code": "CLCV 2905",
+      "name": "Rome of the Caesars",
+      "credit": "0.5",
+      "description": "The history of ancient Rome from the end of the Republic to the coming of Islam."
+    },
+    {
+      "code": "CLCV 2906",
+      "name": "Studies in Classical Civilization",
+      "credit": "0.5",
+      "description": "A study of a selected topic in ancient history, literature, languages, culture, archaeology and/or technology."
+    },
+    {
+      "code": "CLCV 3000",
+      "name": "Topics in Ancient History",
+      "credit": "0.5",
+      "description": "A study of a selected topic in ancient history."
+    },
+    {
+      "code": "CLCV 3001",
+      "name": "Early Greek Philosophy",
+      "credit": "0.5",
+      "description": "A study of the pre-Socratic philosophers and of the Sophists and Socrates."
+    },
+    {
+      "code": "CLCV 3003",
+      "name": "Topics in Classical Civilization",
+      "credit": "0.5",
+      "description": "A study of a selected topic in classical civilization."
+    },
+    {
+      "code": "CLCV 3010",
+      "name": "The Later Roman Empire",
+      "credit": "0.5",
+      "description": "The study of major developments - administrative, ecclesiastical, cultural and societal - of the later Roman Empire."
+    },
+    {
+      "code": "CLCV 3011",
+      "name": "Topics in Ancient Philosophy",
+      "credit": "0.5",
+      "description": "A study of philosophers, texts, problems and issues in ancient philosophy, generally with a focus on Plato and Aristotle."
+    },
+    {
+      "code": "CLCV 3201",
+      "name": "Studies in Greek History",
+      "credit": "0.5",
+      "description": "Study of a period or theme in Greek History."
+    },
+    {
+      "code": "CLCV 3202",
+      "name": "Studies in Roman History",
+      "credit": "0.5",
+      "description": "Study of a period or theme in Roman History."
+    },
+    {
+      "code": "CLCV 3301",
+      "name": "Field Work I: Greek and Roman World",
+      "credit": "0.5",
+      "description": "Students will participate for a minimum of three weeks on an archaeological field project (i.e., excavation or survey) relevant to the Greek and Roman world.  They will learn archaeological documentation and the analysis, recording, and processing of finds."
+    },
+    {
+      "code": "CLCV 3306",
+      "name": "Studies in Greek Art",
+      "credit": "0.5",
+      "description": "A study of period or theme in the art and archaeology of Ancient Greece. Topics may vary from year to year."
+    },
+    {
+      "code": "CLCV 3307",
+      "name": "Studies in Roman Art",
+      "credit": "0.5",
+      "description": "A study of a period or theme in the art and archaeology of the ancient Romans.  Topics may vary from year to year."
+    },
+    {
+      "code": "CLCV 3400",
+      "name": "Greek and Roman Studies Abroad",
+      "credit": "0.5",
+      "description": "This course combines academic study in Canada with first hand examination of museum collections and sites of the ancient world, normally in Greece and Italy.  Course content varies from year to year."
+    },
+    {
+      "code": "CLCV 3701",
+      "name": "Studies in Greek Literature",
+      "credit": "0.5",
+      "description": "A study of an author or topic in Greek literature. Contents of this course vary from year to year."
+    },
+    {
+      "code": "CLCV 3702",
+      "name": "Studies in Roman Literature",
+      "credit": "0.5",
+      "description": "A study of an author or topic in Roman literature."
+    },
+    {
+      "code": "CLCV 4000",
+      "name": "Field Work II: Greek and Roman World",
+      "credit": "0.5",
+      "description": "Students participate for a minimum of three weeks in a position of responsibility (for example, as a trench supervisor or lab assistant) on an archaeological field project relevant to the Greek and Roman world."
+    },
+    {
+      "code": "CLCV 4210",
+      "name": "Topics in Ancient History",
+      "credit": "0.5",
+      "description": "Intended for Honours students in History and Classics who should normally be in the third and fourth-years."
+    },
+    {
+      "code": "CLCV 4800",
+      "name": "Seminar in Greek and Roman Studies",
+      "credit": "0.5",
+      "description": ""
+    },
+    {
+      "code": "CLCV 4801",
+      "name": "Seminar in Greek and Roman Studies",
+      "credit": "0.5",
+      "description": ""
+    },
+    {
+      "code": "CLCV 4900",
+      "name": "Directed Readings and Research",
+      "credit": "0.5",
+      "description": "These courses consist of supervised readings and research projects in a specific area of Classical Civilization to be chosen in consultation with  a faculty Supervisor who agrees to oversee a student's proposed research."
+    },
+    {
+      "code": "GREK 1005",
+      "name": "Introduction to Greek I",
+      "credit": "0.5",
+      "description": "A course for beginners in ancient Greek, designed to give students a grasp of basic grammatical forms and vocabulary (with reference to English derivatives) through the reading of continuous Greek."
+    },
+    {
+      "code": "GREK 1006",
+      "name": "Introduction to Greek II",
+      "credit": "0.5",
+      "description": "A course for students with some previous knowledge of the language: study of grammatical forms and constructions; acquisition of reading skills."
+    },
+    {
+      "code": "GREK 2200",
+      "name": "Intermediate Greek I",
+      "credit": "0.5",
+      "description": "Further study of the language; introduction to the reading of ancient Greek authors."
+    },
+    {
+      "code": "GREK 2201",
+      "name": "Intermediate Greek II",
+      "credit": "0.5",
+      "description": "Continued study of the language; reading of selected prose and poetry by ancient Greek authors; development of translation skills."
+    },
+    {
+      "code": "GREK 3900",
+      "name": "Advanced Greek I",
+      "credit": "0.5",
+      "description": "Reading and critical discussion of selections from ancient Greek."
+    },
+    {
+      "code": "GREK 3901",
+      "name": "Advanced Greek II",
+      "credit": "0.5",
+      "description": "Reading and critical discussion of selections from ancient Greek."
+    },
+    {
+      "code": "GREK 4900",
+      "name": "Directed Study",
+      "credit": "0.5",
+      "description": ""
+    },
+    {
+      "code": "GREK 4901",
+      "name": "Directed Study",
+      "credit": "0.5",
+      "description": ""
+    },
+    {
+      "code": "LATN 1005",
+      "name": "Introduction to Latin I",
+      "credit": "0.5",
+      "description": "A course for beginners in Latin, designed to give students a grasp of basic grammatical forms and vocabulary (with reference to English derivatives) through the reading of continuous Latin."
+    },
+    {
+      "code": "LATN 1006",
+      "name": "Introduction to Latin II",
+      "credit": "0.5",
+      "description": "A course for students with some previous knowledge of the language: study of grammatical forms and constructions; acquisition of reading skills."
+    },
+    {
+      "code": "LATN 2200",
+      "name": "Intermediate Latin I",
+      "credit": "0.5",
+      "description": "Further study of the language; introduction to the reading of Latin authors."
+    },
+    {
+      "code": "LATN 2201",
+      "name": "Intermediate Latin II",
+      "credit": "0.5",
+      "description": "Continued study of the language; reading of selected prose and poetry by Latin authors; development of translation skills."
+    },
+    {
+      "code": "LATN 3900",
+      "name": "Advanced Latin I",
+      "credit": "0.5",
+      "description": "Reading and critical discussion of selections from Latin poetry."
+    },
+    {
+      "code": "LATN 3901",
+      "name": "Advanced Latin II",
+      "credit": "0.5",
+      "description": "Reading and critical discussion of selections from Latin prose."
+    },
+    {
+      "code": "LATN 4900",
+      "name": "Directed Study",
+      "credit": "0.5",
+      "description": ""
+    },
+    {
+      "code": "LATN 4901",
+      "name": "Directed Study",
+      "credit": "0.5",
+      "description": ""
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Greek and Roman Studies B.A. Honours (20.0 credits)",
+      "credits": "2.0",
+      "text": "7.  2.0 credits in free electives. 2.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Greek and Roman Studies B.A. Combined Honours (20.0 credits)",
+      "credits": "",
+      "text": "7.  Sufficient free electives to make 20.0 credits total for the degree."
+    },
+    {
+      "type": "requirement",
+      "degree": "Greek and Roman Studies B.A. (15.0 credits)",
+      "credits": "2.0",
+      "text": "5.  3.0 credits in free electives 2.0"
+    }
+  ]
+}

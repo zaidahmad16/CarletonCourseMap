@@ -1,0 +1,140 @@
+{
+  "name": "Integrated Science",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/integratedscience/",
+  "courses": [
+    {
+      "code": "ISAP 1000",
+      "name": "Seminar in Science",
+      "credit": "0.5",
+      "description": "Interdisciplinary survey of current issues in science. Students will develop knowledge and skills in scientific inquiry, critical thinking, and communication. Structured around seminars, oral, and written presentations. Lectures and workshop three hours a week."
+    },
+    {
+      "code": "ISAP 1001",
+      "name": "Introduction to Interdisciplinary Science",
+      "credit": "0.5",
+      "description": "Interdisciplinary survey of current issues in science, focusing on the challenges and opportunities for collaboration across scientific disciplines and beyond. Students will develop knowledge and skills in scientific inquiry, critical thinking, and communication, including an introduction to applied data science."
+    },
+    {
+      "code": "ISAP 1002",
+      "name": "Seminar in Interdisciplinary Science",
+      "credit": "0.5",
+      "description": "Exploring the role of interdisciplinarity in discovery and innovation, and discussion of selected issues facing society and the role of science. Topics include finding information, collaboration and science communication tools."
+    },
+    {
+      "code": "ISAP 2000",
+      "name": "Seminar in Science II",
+      "credit": "0.5",
+      "description": "Survey of current issues in science, with a focus on applying interdisciplinary approaches to solving scientific problems. Structured around seminars, oral and written presentations. Focus on Equity, diversity and inclusion, community outreach, and experiential learning."
+    },
+    {
+      "code": "ISAP 2001",
+      "name": "Foundations in Critical Inquiry",
+      "credit": "0.5",
+      "description": "What is science and the scientific method? Topics include the scientific method, credible sources of information, knowledge gaps, the impact of scientific discoveries, and discussion of their local and global implications."
+    },
+    {
+      "code": "ISAP 2002",
+      "name": "Research Principles for Interdisciplinary Science",
+      "credit": "0.5",
+      "description": "Exploring how research is conducted. Topics include publicly available databases, the role of communication in research, stakeholders and participants, and the process of identifying knowledge gaps and developing research questions."
+    },
+    {
+      "code": "ISAP 3001",
+      "name": "Applied Data Analysis",
+      "credit": "0.5",
+      "description": "Data analysis strategies to tackle real-world, wicked problems. Includes a hands-on applied environmental data science project with a variety of partners. Topics include: obtaining and working with data, exploring causal relationships, data ethics, communicating data, and moving from data to information to action."
+    },
+    {
+      "code": "ISAP 3002",
+      "name": "Applications in Interdisciplinary Research",
+      "credit": "0.5",
+      "description": "Application of skills from Interdisciplinary Science and Practice (ISAP) courses to develop a research proposal. Topics include: research ethics; identification of stakeholders; inclusive consultation, collaboration and dissemination strategies."
+    },
+    {
+      "code": "ISAP 3003",
+      "name": "Science Communication",
+      "credit": "0.5",
+      "description": "How is science perceived and how has science been communicated? Students will use case studies to assess examples of science communication with varying outcomes. Topics include the principles of effective science communication, the range of tools available, and knowing the audience."
+    },
+    {
+      "code": "ISAP 3004",
+      "name": "Science Policy",
+      "credit": "0.5",
+      "description": "Exploration of how science-related policy is developed and the impact of policy on science. Topics include policy frameworks, stakeholder roles, power relationships, commercialization and the funding of science."
+    },
+    {
+      "code": "ISAP 3700",
+      "name": "Topics in Interdisciplinary Science",
+      "credit": "0.5",
+      "description": "Specific topics of current interest. Topics may vary from year to year."
+    },
+    {
+      "code": "ISAP 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "ISAP 4004",
+      "name": "Museum Science",
+      "credit": "0.5",
+      "description": "The integral role of science in museums will be explored. Topics include: science is communicated in museums, scientific research taking place at museums, and the science behind preservation and conservation. Students will engage with museum experts."
+    },
+    {
+      "code": "ISAP 4700",
+      "name": "Topics in Interdisciplinary Science",
+      "credit": "0.5",
+      "description": "Specific topics of current interest. Topics may vary from year to year."
+    },
+    {
+      "code": "ISAP 4901",
+      "name": "Directed Studies",
+      "credit": "0.5",
+      "description": "Independent or group study, open to third- and fourth-year students to explore a particular topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work."
+    },
+    {
+      "code": "ISAP 4906",
+      "name": "Capstone Course - Group Research Project",
+      "credit": "1.0",
+      "description": "Students will collaborate on a project that addresses a real-world issue in a team environment. Focus includes: design and completion of a research project; development of communication, critical inquiry, data analysis and research skills; and the opportunity to develop initiative, creativity and self-reliance."
+    },
+    {
+      "code": "ISAP 4907",
+      "name": "Capstone Course - Research Essay",
+      "credit": "1.0",
+      "description": "A substantial, independent essay or research proposal-based critical review and research proposal, using library, database and/or bioinformatic resources, under the direct supervision of the instructor. Topics include identification and critical review of resources, development of writing skills and formulation of research question and strategy."
+    },
+    {
+      "code": "ISAP 4908",
+      "name": "Capstone Course - Individual Research Project",
+      "credit": "1.0",
+      "description": "An independent research project under the direct supervision of a faculty adviser. Evaluation is based on a written thesis and a poster presentation."
+    },
+    {
+      "code": "ISAP 4909",
+      "name": "Translational Approach to Indigenous Community Wellness",
+      "credit": "1.0",
+      "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner."
+    },
+    {
+      "code": "ISAP 4999",
+      "name": "Science Communication Certificate Professional Development Workshop",
+      "credit": "0.0",
+      "description": "A one-day workshop providing practical skills development for becoming an effective science communicator. Topics for discussion will include defining the audience and framing of information, reviews of effective science communication, career opportunities for science communicators, and one-to-one analysis of participants writing skills. Graded SAT/UNS."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Integrated Science B.Sc. Honours (20.0 credits)",
+      "credits": "3.0",
+      "text": "11.  3.0 credits in free electives 3.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Integrated Science B.Sc. (15.0 credits)",
+      "credits": "2.0",
+      "text": "10.  2.0 credits in free electives 2.0"
+    }
+  ]
+}

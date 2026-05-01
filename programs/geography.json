@@ -1,0 +1,476 @@
+{
+  "name": "Geography",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/geography/",
+  "courses": [
+    {
+      "code": "GEOG 1010",
+      "name": "Global Environmental Systems",
+      "credit": "0.5",
+      "description": "Principles, processes and interactions in the Earth's environment emphasizing the flow of energy and matter within global systems. Atmospheric and oceanic processes, earth surface processes and biogeochemical cycling. Case studies on the interaction between human activity and the natural environment."
+    },
+    {
+      "code": "GEOG 1020",
+      "name": "People, Places and Environments",
+      "credit": "0.5",
+      "description": "Introduction to human geography. Examination of relationships between people, communities, society and the natural environment at local to global scales. Population change, cultural patterns, and historical, economic, political and environmental forces, including climate change, that shape human activity and experiences from place to place."
+    },
+    {
+      "code": "GEOG 1023",
+      "name": "Introduction to Cities and Urbanization",
+      "credit": "0.5",
+      "description": "Geographies of urban experience, development, and change across an urbanizing planet. Historical and contemporary urbanization processes, patterns, and issues in and between cities and regions. The role of urbanization in producing and responding to climate change."
+    },
+    {
+      "code": "GEOG 2005",
+      "name": "Introduction to Qualitative Research",
+      "credit": "0.5",
+      "description": "Introduction to the research process, from generating questions to reporting results. Topics include intensive and extensive research approaches; the use of surveys, interviews and other data collection methods; the analysis of qualitative information; and the ethical dimensions of doing research with people and communities."
+    },
+    {
+      "code": "GEOG 2006",
+      "name": "Introduction to Quantitative Research",
+      "credit": "0.5",
+      "description": "Introduction to solving problems using descriptive and inferential statistical methods. Graphical and numerical tools to describe distributions. Probability, sampling and estimates, and hypothesis testing. Fundamentals of spatial statistics and analysis."
+    },
+    {
+      "code": "GEOG 2013",
+      "name": "Weather and Water",
+      "credit": "0.5",
+      "description": "Introduction to climate, weather and the hydrological cycle. Physical properties of the atmosphere, radiation and energy balances, global circulation, atmospheric moisture and precipitation, weather systems and forecasting, mechanisms of anthropogenic climate change."
+    },
+    {
+      "code": "GEOG 2014",
+      "name": "The Earth's Surface",
+      "credit": "0.5",
+      "description": "Introduction to geomorphology. Weathering, slope and fluvial processes within drainage basins, and glacial and periglacial processes."
+    },
+    {
+      "code": "GEOG 2020",
+      "name": "Ecosystems of Canada",
+      "credit": "0.5",
+      "description": "Introduction to world biomes and in-depth analysis of the characteristics and distribution of Canada\u2019s major ecosystems including the boreal forest, temperate forest, tundra, grasslands, wetlands, and aquatic environments; Current issues in ecosystem science and conservation such as climate change, agricultural management, forestry and urban ecology."
+    },
+    {
+      "code": "GEOG 2023",
+      "name": "Cities, Inequality and Urban Change",
+      "credit": "0.5",
+      "description": "Geographical perspectives on the uneven power relationships and politics that shape urban lives and urban space.  Key topics may include housing and segregation, planning for sustainable cities, urban social movements, urban inequality and changing livelihoods."
+    },
+    {
+      "code": "GEOG 2200",
+      "name": "Global Connections",
+      "credit": "0.5",
+      "description": "Globalization and global environmental change as linked processes. Geographical analysis of economic, cultural, political, and climate change transformations acting at global, national and local scales. Choices and constraints underlying economic, social and environmental sustainability."
+    },
+    {
+      "code": "GEOG 2300",
+      "name": "Space, Place and Culture",
+      "credit": "0.5",
+      "description": "Introduction to social and cultural geography, including how theories of space, place, landscape, power, and knowledge can be used to understand the geographic dimensions of social and cultural life. Topics include culture and identity, migration and transnationalism, nature, gender, sexuality, race, colonialism, consumption, and work."
+    },
+    {
+      "code": "GEOG 2500",
+      "name": "Climate Change: Social Science Perspectives",
+      "credit": "0.5",
+      "description": "An introduction to climate change as a political, economic and socio-cultural phenomenon, including the political-economic and world-historical causes of anthropogenic greenhouse gas emissions; variations in impact and vulnerability; climate justice and other political movements; global mitigation and adaptation strategies; and proposals for radical systemic change."
+    },
+    {
+      "code": "GEOG 2600",
+      "name": "Geography Behind the Headlines",
+      "credit": "0.5",
+      "description": "Exploration of the geographical backgrounds to selected issues of current public interest, through geography's perspective of integrating human and physical environments. Issues selected will be structured from the global through the national/regional to the local, identifying the interdependencies among the scales."
+    },
+    {
+      "code": "GEOG 3000",
+      "name": "Honours Field Course",
+      "credit": "0.5",
+      "description": "Field research, with a focus on data collection methods, analysis and presentation of findings. Design and conduct research that links the human and biophysical environment. Topics may change from year to year."
+    },
+    {
+      "code": "GEOG 3001",
+      "name": "Doing Qualitative Research",
+      "credit": "0.5",
+      "description": "Theory and methods used in qualitative approaches to research in human geography; hands-on experience and discussion of beliefs and claims underlying scholarly work. Ethical and practical dilemmas confronting researchers. Gathering and interpreting qualitative information; representing knowledge."
+    },
+    {
+      "code": "GEOG 3003",
+      "name": "Quantitative Geography",
+      "credit": "0.5",
+      "description": "Quantitative methods used in geographical research: multiple correlation and regression, principal component/factor analysis, spatial statistics, cluster analysis, and a review of other selected techniques. Computer-based analysis."
+    },
+    {
+      "code": "GEOG 3009",
+      "name": "Special Topics in Human Geography",
+      "credit": "0.5",
+      "description": "Selected topics concerning human geography not usually included in regular course offerings. Topic varies from year to year. Students should check with the Department for more information."
+    },
+    {
+      "code": "GEOG 3010",
+      "name": "Field Methods in Physical Geography",
+      "credit": "0.5",
+      "description": "Field and laboratory approaches, methodologies and techniques in physical geography. Field projects will be undertaken to collect data for analysis, evaluation and presentation."
+    },
+    {
+      "code": "GEOG 3021",
+      "name": "Geographies of Culture and Identity",
+      "credit": "0.5",
+      "description": "Examination of culture, identity and place over time in different contexts; how colonialism, globalization and other processes have shaped societies; geographies of identity, including gender, ethnicity, race and nationality; relationships between cultural groups and their natural surroundings and impacts of climate change."
+    },
+    {
+      "code": "GEOG 3022",
+      "name": "Environmental and Natural Resources",
+      "credit": "0.5",
+      "description": "Exploration of complexity, dynamics, uncertainty and equity issues underpinning environmental and resource issues; review and appraisal of selected contemporary methods to assess and manage environmental and natural resources."
+    },
+    {
+      "code": "GEOG 3023",
+      "name": "Cities in a Global World",
+      "credit": "0.5",
+      "description": "Introduces the study of cities as \"systems of cities\", the political economy of linkages between urban places located unevenly in space, and \"cities as systems\". Case studies of socio-cultural, political and economic relations within biophysical and built environments."
+    },
+    {
+      "code": "GEOG 3024",
+      "name": "Understanding Globalization",
+      "credit": "0.5",
+      "description": "Geographical analysis of processes of globalization: theoretical frameworks, historical context and contemporary challenges."
+    },
+    {
+      "code": "GEOG 3025",
+      "name": "Geographies of Selected Regions",
+      "credit": "0.5",
+      "description": "Geographical analysis of key questions facing a selected region of the world.  Attention will focus on selected topics within one or more regions and their related global context."
+    },
+    {
+      "code": "GEOG 3026",
+      "name": "Topics in the Geography of Canada",
+      "credit": "0.5",
+      "description": "Selected topic concerning the geography of Canada. Topic varies from year to year."
+    },
+    {
+      "code": "GEOG 3030",
+      "name": "Regional Field Excursion",
+      "credit": "0.5",
+      "description": "Guided and independent geographic field research, with a focus on data collection methods, and analysis and presentation of findings.  Consists of an excursion outside of the Ottawa region.  A supplementary charge may apply."
+    },
+    {
+      "code": "GEOG 3102",
+      "name": "Geomorphology",
+      "credit": "0.5",
+      "description": "Geomorphological agents of landscape change at the Earth's surface, emphasizing the role of water, ice and wind in erosion and deposition; use of geomorphic indicators in studies of environmental and climate change. A supplementary charge may apply."
+    },
+    {
+      "code": "GEOG 3103",
+      "name": "Watershed Hydrology",
+      "credit": "0.5",
+      "description": "Principles of watershed hydrology and climate change impacts on renewable freshwater resources, emphasizing the physical mechanisms of runoff generation, groundwater flow, soil water movement, evapotranspiration and snowmelt."
+    },
+    {
+      "code": "GEOG 3104",
+      "name": "Principles of Biogeography",
+      "credit": "0.5",
+      "description": "Contemporary and past controls on distribution of plants and animals at global, regional and local scales; significance of these distributions."
+    },
+    {
+      "code": "GEOG 3105",
+      "name": "Climate and Atmospheric Change",
+      "credit": "0.5",
+      "description": "The global climate system, with emphasis on global change variability over the historical and modern periods; the changing composition of the atmosphere and its impact on climate; analysis and interpretation of climatic and atmospheric data; modeling of climate systems."
+    },
+    {
+      "code": "GEOG 3106",
+      "name": "Aquatic Science and Management",
+      "credit": "0.5",
+      "description": "Fundamentals of aquatic science. The physical, chemical, and biotic aspects of lake, river, and estuary ecosystems in different geographic contexts. The impacts of climate and environmental changes on aquatic ecosystems and management and conservation actions to conserve and restore these ecosystems."
+    },
+    {
+      "code": "GEOG 3108",
+      "name": "Soil Properties",
+      "credit": "0.5",
+      "description": "The physical, chemical and biological properties of soils and how these impact soil-water relationships, soil quality, soil fertility, soil biology and soil classification, among other topics. Examines the role of soils in food production and climate change."
+    },
+    {
+      "code": "GEOG 3206",
+      "name": "Health, Environment, and Society",
+      "credit": "0.5",
+      "description": "Explores the nexus between geography and human health, including climate change impacts on disease, mental and physical health, and inequity; relationships between colonization, modernization, identity, ideologies, and the environment; population health and health behaviour; social determinants of global health inequality and possibilities for change."
+    },
+    {
+      "code": "GEOG 3209",
+      "name": "Sustainability and Environment in the South",
+      "credit": "0.5",
+      "description": "Analysis of the relationships between people and environment in selected regions in the South (Africa, Asia, Latin America). Emphasis on sustainable livelihoods and local action in relation to climate change and broader socioeconomic and political processes. Regions selected vary from year to year."
+    },
+    {
+      "code": "GEOG 3404",
+      "name": "Geographies of Economic Development",
+      "credit": "0.5",
+      "description": "Geographical approaches to economic development and difference at local, regional, and global scales. Critical historical, cultural, social, political, economic, and environmental perspectives on 'development', including theories of the state, colonial power, development institutions, and climate change. Spatial dynamics and environmental impacts of economic activity."
+    },
+    {
+      "code": "GEOG 3501",
+      "name": "Geographies of the Canadian North",
+      "credit": "0.5",
+      "description": "Key issues in contemporary northern Canada, including land and jurisdiction, wildlife, resource extraction, economic development, culture, geopolitics, health, and climate change. Historical geography and physical characteristics of the region."
+    },
+    {
+      "code": "GEOG 3700",
+      "name": "Population Geography",
+      "credit": "0.5",
+      "description": "The distributional aspects of population attributes; areal patterns of population characteristics and their spatial variations associated with differences in the nature of places; migratory movements within the framework of spatial models of interactions between locations."
+    },
+    {
+      "code": "GEOG 3999",
+      "name": "Co-operative Work Term",
+      "credit": "0.0",
+      "description": ""
+    },
+    {
+      "code": "GEOG 4000",
+      "name": "Field Studies",
+      "credit": "0.5",
+      "description": "Field observation and methodology in a selected region; individual or group basis."
+    },
+    {
+      "code": "GEOG 4004",
+      "name": "Environmental Impact Assessment",
+      "credit": "0.5",
+      "description": "Principles, scope and purpose of environmental impact assessment, from conceptual and methodological points of view; range of environmental issues, with  emphasis on Canadian case studies."
+    },
+    {
+      "code": "GEOG 4005",
+      "name": "Directed Studies in Geography",
+      "credit": "0.5",
+      "description": "Students pursue their interest in a selected theme in geography on a tutorial basis with a member of the Department."
+    },
+    {
+      "code": "GEOG 4007",
+      "name": "Special Topics in Geography and Environmental Studies",
+      "credit": "0.5",
+      "description": "Selected topics in geography and/or environmental studies."
+    },
+    {
+      "code": "GEOG 4013",
+      "name": "Cold Region Hydrology",
+      "credit": "0.5",
+      "description": "An examination of cold region hydrologic processes via experimental and observational studies emphasizing arctic, sub-arctic and northern boreal landscapes experiencing rapid climate change."
+    },
+    {
+      "code": "GEOG 4017",
+      "name": "Global Biogeochemical Cycles",
+      "credit": "0.5",
+      "description": "Processes that control the fluxes and reservoirs of biologically active chemical constituents on land, in the atmosphere, and in the oceans. Climate change impacts on global carbon and nitrogen cycles and their feedbacks on the climate system."
+    },
+    {
+      "code": "GEOG 4021",
+      "name": "Seminar in Culture, Identity and Place",
+      "credit": "0.5",
+      "description": "Selected topic or field of inquiry concerning the geographic dimensions of culture, identity and place."
+    },
+    {
+      "code": "GEOG 4022",
+      "name": "Seminar in People, Resources and Environmental Change",
+      "credit": "0.5",
+      "description": "A selected topic or field of inquiry concerning natural resource use and environmental change."
+    },
+    {
+      "code": "GEOG 4023",
+      "name": "Seminar in Special Topics on the City",
+      "credit": "0.5",
+      "description": "A selected topic or field of inquiry concerning urban geography."
+    },
+    {
+      "code": "GEOG 4024",
+      "name": "Seminar in Globalization",
+      "credit": "0.5",
+      "description": "A selected issue or topic related to globalization."
+    },
+    {
+      "code": "GEOG 4040",
+      "name": "Geographic Thought",
+      "credit": "0.5",
+      "description": "Major intellectual issues and debates in the development of contemporary human geography, including history of geographic thought, geographic responses to social and political movements and debates, and geographic engagement with contemporary critical theory."
+    },
+    {
+      "code": "GEOG 4050",
+      "name": "Environmental and Geographic Education",
+      "credit": "0.5",
+      "description": "Selected theoretical and applied issues concerning environmental and geographic education."
+    },
+    {
+      "code": "GEOG 4101",
+      "name": "Two Million Years of\u00a0Environmental Change",
+      "credit": "0.5",
+      "description": "Multidisciplinary scientific study of the changes in the physical environment of the Earth during the last two million years and methods of studying recent Earth history, with focus on current research."
+    },
+    {
+      "code": "GEOG 4103",
+      "name": "Water Resources Engineering",
+      "credit": "0.5",
+      "description": "A quantitative analysis of natural water systems and the development of these systems as a resource. Components of the hydrologic cycle. Quantitative analysis of stream flow. Probability concepts in water resources. Reservoir design and operation. Availability of groundwater. Storm water management."
+    },
+    {
+      "code": "GEOG 4104",
+      "name": "Microclimatology",
+      "credit": "0.5",
+      "description": "The formation of microclimates near the Earth's surface. Discussion and demonstration of techniques used to measure and monitor microclimates. Microclimate impacts on forest, crop and animal production, hydrology, urban heat islands, and the impacts of climate change."
+    },
+    {
+      "code": "GEOG 4108",
+      "name": "Permafrost",
+      "credit": "0.5",
+      "description": "Understanding permafrost processes and phenomena and how they respond to climate change. Topics include the distribution, development, and degradation of permafrost; interactions between atmosphere, snow, and ground; the thermal and hydrologic regime of permafrost terrain; landforms in permafrost regions; geotechnical consideration in northern construction."
+    },
+    {
+      "code": "GEOG 4304",
+      "name": "Transportation Engineering and Planning",
+      "credit": "0.5",
+      "description": "Transportation and the socio-economic environment; modal and intermodal systems and components; vehicle motion; human factors, system and facility design; traffic flow; capacity analysis; planning methodology; environmental impacts; evaluation methods."
+    },
+    {
+      "code": "GEOG 4323",
+      "name": "Urban and Regional Planning",
+      "credit": "0.5",
+      "description": "History, theories, and practice of urban planning, as well as the policies, plans, and programs developed and implemented in diverse communities.  Course topics may include the integration of community development and social planning, urban design, transportation and infrastructure, and environmental management."
+    },
+    {
+      "code": "GEOG 4406",
+      "name": "Practicum I",
+      "credit": "0.5",
+      "description": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field."
+    },
+    {
+      "code": "GEOG 4408",
+      "name": "Practicum II",
+      "credit": "0.5",
+      "description": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field."
+    },
+    {
+      "code": "GEOG 4450",
+      "name": "Community-Engaged Research",
+      "credit": "0.5",
+      "description": "Working in partnership with local organizations, students apply their geographical knowledge to conduct community-engaged research. Student projects will generate outputs for community partners. Research topics vary year to year."
+    },
+    {
+      "code": "GEOG 4906",
+      "name": "Honours Research Project",
+      "credit": "1.0",
+      "description": "A research project based on a modeling, laboratory or field problem. The project is supervised by a member of the department and a written thesis and poster must be submitted."
+    },
+    {
+      "code": "GEOG 4909",
+      "name": "Honours Research Thesis",
+      "credit": "1.0",
+      "description": "Independent design and implementation of a research project leading to the submission of a research thesis. Students work with an individual faculty adviser. The subject for research is decided upon in consultation with the supervisor."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Geography B.A. Honours (20.0 credits)",
+      "credits": "2.0",
+      "text": "11.  2.0 credits in free electives 2.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Geography with Concentration in Physical Geography B.A. Honours (20.0 credits)",
+      "credits": "2.5",
+      "text": "8.  2.5 credits in free electives. 2.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Geography with Concentration in Urban Geography B.A. Honours (20.0 credits)",
+      "credits": "1.5",
+      "text": "16.  1.5 credits in free electives 1.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Geography B.A. Combined Honours (20.0 credits)",
+      "credits": "",
+      "text": "9.  Sufficient free electives to total 20.0 credits for the program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Geography B.A. (15.0 credits)",
+      "credits": "2.0",
+      "text": "8.  2.0 credit in free electives. 2.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Earth Sciences and Physical Geography B.Sc. Combined Honours (20.0 credits)",
+      "credits": "0.5",
+      "text": "21.  0.5 credit in free elective 0.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Physical Geography B.Sc. Honours (20.0 credits)",
+      "credits": "3.0",
+      "text": "17.  3.0 credits in free electives. 3.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Specialization in Globalization and the Environment B.G.In.S. Honours (20.0 credits)",
+      "credits": "8.0",
+      "text": "4.  8.0 credits in: free electives 8.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Stream in Globalization and the Environment B.G.In.S. (15.0 credits)",
+      "credits": "7.0",
+      "text": "3.  7.0 credits in: Free Electives 7.0"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Free Electives"
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "Courses Allowable Only as Free Electives in any B.Sc. Program"
+    }
+  ]
+}

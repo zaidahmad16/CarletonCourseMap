@@ -1,0 +1,152 @@
+{
+  "name": "Humanities",
+  "url": "https://calendar.carleton.ca/undergrad/undergradprograms/humanities/",
+  "courses": [
+    {
+      "code": "HUMS 1000",
+      "name": "Foundational Myths and Histories",
+      "credit": "1.0",
+      "description": "Recurring symbols in myth, epic and ritual representing the relation between the sacred and the profane, the origin of the cosmos, the basis of community, and formative human experiences. Primary sources drawn from ancient India and China, Mesopotamia, the Hebrew Bible, and Indigenous cultures."
+    },
+    {
+      "code": "HUMS 1200",
+      "name": "Humanities and Classical Civilization",
+      "credit": "0.5",
+      "description": "The ideas which animated ancient Greek and Roman civilization and which influenced later western cultural movements through a reading of literary, historical, and philosophical works. Authors include Homer, Herodotus, Thucydides, the Greek Tragedians, Plato, Vergil, and Cicero."
+    },
+    {
+      "code": "HUMS 1300",
+      "name": "Classical Literature and Its Reception",
+      "credit": "0.5",
+      "description": "The study of different types of ancient literature and the reception of Classical works in later periods. A focus on writing a research essay."
+    },
+    {
+      "code": "HUMS 1500",
+      "name": "Introduction to the Humanities: Five Books that Changed the World",
+      "credit": "0.5",
+      "description": "A reading-intensive course on five influential books from Antiquity to the present day. Works may include the Bible, the Bhagavad Gita, Homer\u2019s Odyssey, Plato\u2019s Republic, Dante\u2019s Inferno, Machiavelli\u2019s The Prince, Shakespeare\u2019s Hamlet, Mary Shelley\u2019s Frankenstein, Nietzsche\u2019s Beyond Good and Evil, Marx\u2019s Communist Manifesto."
+    },
+    {
+      "code": "HUMS 2000",
+      "name": "Reason and Revelation",
+      "credit": "1.0",
+      "description": "The origins of philosophy in ancient Greece and its pursuit in the medieval West, with special attention to knowledge, happiness, and love. Readings include works by Plato, Aristotle, Plotinus, Augustine, Boethius, Aquinas, and Dante."
+    },
+    {
+      "code": "HUMS 2101",
+      "name": "Art from Antiquity to the Medieval World",
+      "credit": "0.5",
+      "description": "A chronological and thematic survey of the Arts from the earliest times to ca. 1400."
+    },
+    {
+      "code": "HUMS 2102",
+      "name": "Modern European Art 1527-2000",
+      "credit": "0.5",
+      "description": "A chronological and thematic survey of the Arts from the sixteenth to the twenty-first century."
+    },
+    {
+      "code": "HUMS 3000",
+      "name": "Culture and Imagination",
+      "credit": "1.0",
+      "description": "Major forms of literary, artistic, and philosophical expression from 1500-1800. Sources drawn from renaissance humanism, reformation theology, enlightenment and romantic philosophy."
+    },
+    {
+      "code": "HUMS 3102",
+      "name": "Western Music 1000-1850",
+      "credit": "0.5",
+      "description": "Introduction to basic theory, harmony, history and interpretation of Western music including the Medieval, Renaissance, Baroque, Classical and early Romantic periods."
+    },
+    {
+      "code": "HUMS 3103",
+      "name": "Western Music 1850-2000",
+      "credit": "0.5",
+      "description": "Western music from the mid-nineteenth century to the present with emphasis on the seminal contributions of Liszt, Wagner, Mahler, Debussy, Stravinsky, Sch\u00f6nberg and others."
+    },
+    {
+      "code": "HUMS 3200",
+      "name": "European Literature",
+      "credit": "1.0",
+      "description": "Major movements and works from Dante's Divine Comedy through Voltaire's Candide. Themes include the New Humanism vs. old Chivalry in the Renaissance and Baroque periods; the rise of the modern novel and drama; reason, nature, and the Enlightenment project."
+    },
+    {
+      "code": "HUMS 3500",
+      "name": "Ancient and Medieval Intellectual History",
+      "credit": "0.5",
+      "description": "Examination of some of the major philosophical, religious, political, artistic, and/or literary ideas, works, and movements from Archaic Greece to the High Middle Ages."
+    },
+    {
+      "code": "HUMS 3550",
+      "name": "Renaissance and Early Modern Intellectual History",
+      "credit": "0.5",
+      "description": "Examination of some of the major philosophical, religious, political, artistic, and/or literary ideas, works, and movements from the Early Renaissance to 1800."
+    },
+    {
+      "code": "HUMS 3800",
+      "name": "Humanities in Context",
+      "credit": "0.5",
+      "description": "Designed for students studying humanities, this travel course explores art, literature, politics, philosophy, architecture, religions, and cultures in their historical and contemporary contexts in a particular geographic locale. Travel destinations and themes vary from year to year."
+    },
+    {
+      "code": "HUMS 4000",
+      "name": "Politics, Modernity and the Common Good",
+      "credit": "1.0",
+      "description": "Modern and post-modern ways of thinking and doing, including revolutionary new ideas in politics, philosophy, culture, economics, and international relations. Thinkers considered include Arendt, Foucault, Hegel, Heidegger, Hobbes, Kant, Marx, Nietzsche, Polanyi, Rousseau, Said, and Taylor."
+    },
+    {
+      "code": "HUMS 4001",
+      "name": "Directed Studies in the Humanities",
+      "credit": "0.5",
+      "description": "A course for independent study and writing, under the supervision of a College designated faculty member. This course involves supervised readings and written essays."
+    },
+    {
+      "code": "HUMS 4002",
+      "name": "Directed Studies in the Humanities",
+      "credit": "0.5",
+      "description": "A course for independent study and writing, under the supervision of a College designated faculty member. This course involves supervised readings and written essays."
+    },
+    {
+      "code": "HUMS 4103",
+      "name": "Science in the Modern World",
+      "credit": "0.5",
+      "description": "An introduction to the major scientific ideas of our time (such as Big Bang theory, molecular genetics, evolution, atomic structure), and the impact of technology on society (e.g. global warming, pollution, genetically modified foods, viral infections)."
+    },
+    {
+      "code": "HUMS 4500",
+      "name": "Modern Intellectual History",
+      "credit": "0.5",
+      "description": "Examination of some of the major ideas and ideologies from 1800 to the present, including romanticism, liberalism, nationalism, symbolism, socialism, Freudianism, communism, feminism, and postmodernism."
+    },
+    {
+      "code": "HUMS 4901",
+      "name": "Research Seminar: Antiquity to the Middle Ages",
+      "credit": "0.5",
+      "description": "An interdisciplinary seminar on a selected topic in the humanities from Antiquity to the Middle Ages. The topic will vary from year to year."
+    },
+    {
+      "code": "HUMS 4902",
+      "name": "Research Seminar: Renaissance to Enlightenment",
+      "credit": "0.5",
+      "description": "An interdisciplinary seminar on a selected topic in the humanities from the Renaissance to the Enlightenment. The topic will vary from year to year."
+    },
+    {
+      "code": "HUMS 4903",
+      "name": "Research Seminar: Romanticism to the Present",
+      "credit": "0.5",
+      "description": "An interdisciplinary seminar on a selected topic in the humanities from Romanticism to the present. The topic will vary from year to year."
+    },
+    {
+      "code": "HUMS 4904",
+      "name": "Research Seminar: Non-Western Traditions",
+      "credit": "0.5",
+      "description": "An interdisciplinary seminar on a selected topic in the humanities as expressed in aboriginal and Non-Western cultures. The topic will vary from year to year."
+    }
+  ],
+  "free_electives": [
+    {
+      "type": "requirement",
+      "degree": "Humanities B.Hum. Honours (20.0 credits)",
+      "credits": "3.5",
+      "text": "7.  3.5 credits in free electives. 3.5"
+    }
+  ]
+}

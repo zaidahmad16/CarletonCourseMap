@@ -4,267 +4,311 @@
   "courses": [
     {
       "code": "NEUR 1202",
-      "name": "Neuroscience of Mental Health and Psychiatric Disease",
+      "name": "Neuroscience of Mental Health and Psychiatric Conditions",
       "credit": "0.5",
-      "description": "Clinical symptoms of psychiatric disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include depressive and anxiety disorders, schizophrenia, autism, ADHD, anorexia, narcolepsy, and substance use disorders."
+      "description": "An overview of mental health conditions, exploring biological, developmental, experiential and environmental factors that contribute to their onset and expression. Topics may include depressive and anxiety disorders, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, and substance use disorders.",
+      "prerequisites": ""
     },
     {
       "code": "NEUR 1203",
-      "name": "Neuroscience of Mental Health and Neurological Disease",
+      "name": "Neuroscience of Mental Health and Neurological Conditions",
       "credit": "0.5",
-      "description": "Clinical symptoms of neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion."
+      "description": "An overview of neurological conditions, examining biological, developmental, experiential and environmental contributions. Topics may include stroke, multiple sclerosis, seizure conditions, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
+      "prerequisites": ""
     },
     {
       "code": "NEUR 2001",
       "name": "Introduction to Research Methods in Neuroscience",
       "credit": "0.5",
-      "description": "A general introduction to research process within neuroscience. Topics covered include research strategies, methods, and techniques; basic descriptive statistics; research communication; and responsible scientific conduct."
+      "description": "A general introduction to research process within neuroscience. Topics covered include research strategies, methods, and techniques; basic descriptive statistics; research communication; and responsible scientific conduct.",
+      "prerequisites": "second-year standing."
     },
     {
       "code": "NEUR 2002",
       "name": "Introduction to Statistics in Neuroscience",
       "credit": "0.5",
-      "description": "A general introduction to statistical techniques employed within contemporary neuroscience. Topics covered include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square)."
+      "description": "A general introduction to statistical techniques employed within contemporary neuroscience. Topics covered include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
+      "prerequisites": "PSYC 2001 or NEUR 2001 ."
     },
     {
       "code": "NEUR 2003",
       "name": "Introduction to Techniques in Neuroscience",
       "credit": "0.5",
-      "description": "Introduction to common techniques used in neuroscience research. Brain imaging, animal behaviour, electrophysiology, immunohistochemistry and microscopy, genomics, transgenics, cell culture, and DSM-IV-based clinical assessment."
+      "description": "Introduction to common techniques used in neuroscience research. Brain imaging, animal behaviour, electrophysiology, immunohistochemistry and microscopy, genomics, transgenics, cell culture, and DSM-IV-based clinical assessment.",
+      "prerequisites": "one of PSYC 1001 , NEUR 1201, NEUR 1202 or NEUR 1203 ."
     },
     {
       "code": "NEUR 2004",
       "name": "Fundamentals of Scientific Writing in Neuroscience",
       "credit": "0.5",
-      "description": "Introduction to various forms of scientific writing appropriate to neuroscience, with a focus in fundamental skills in scientific writing."
+      "description": "Introduction to various forms of scientific writing appropriate to neuroscience, with a focus in fundamental skills in scientific writing.",
+      "prerequisites": "second-year standing in a Neuroscience program and one of NEUR 1201, NEUR 1202 or NEUR 1203 ."
     },
     {
       "code": "NEUR 2201",
       "name": "Cellular and Molecular Neuroscience",
       "credit": "0.5",
-      "description": "Core principles in cellular and molecular neuroscience, including signal transmission along and between neurons, ion channels and transporters, intracellular signaling pathways, and regulation of gene expression."
+      "description": "Core principles in cellular and molecular neuroscience, including signal transmission along and between neurons, ion channels and transporters, intracellular signaling pathways, and regulation of gene expression.",
+      "prerequisites": "Either NEUR 1201 and NEUR 1203 , or NEUR 1202 and NEUR 1203 , or both BIOL 1103 and BIOL 1104 ."
     },
     {
       "code": "NEUR 2202",
       "name": "Neurodevelopment and Plasticity",
       "credit": "0.5",
-      "description": "Core principles in nervous system development from embryogenesis to plasticity in the adult brain. Topics include neural induction, neurogenesis, apoptosis, neuronal migration and axon growth, synaptogenesis and synaptic pruning both under normal conditions and in psychopathology."
+      "description": "Core principles in nervous system development from embryogenesis to plasticity in the adult brain. Topics include neural induction, neurogenesis, apoptosis, neuronal migration and axon growth, synaptogenesis and synaptic pruning both under normal conditions and in psychopathology.",
+      "prerequisites": "NEUR 1202 and NEUR 1203 ."
     },
     {
       "code": "NEUR 2801",
       "name": "Neuroscience and Creativity",
       "credit": "0.5",
-      "description": "Abnormal brain function associated with mental illness or substance abuse has been commonly depicted in or been the inspiration for important cultural works including movies, music, paintings and literature. The neurobiological basis of creativity in individuals with and without mental illness."
+      "description": "Altered brain function related to mental health or substance use has often inspired cultural works including films, music, visual art and literature. This course explores the neurobiological basis of creativity in individuals with and without mental health conditions.",
+      "prerequisites": "one of PSYC 1001 , NEUR 1201, NEUR 1202 or NEUR 1203 ."
     },
     {
       "code": "NEUR 3001",
       "name": "Data Analysis in Neuroscience I",
       "credit": "0.5",
-      "description": "Introducing various software for analyzing neuroscience data. Dealing with real data, drawing graphs, application of descriptive and inferential statistics through the general linear model, assumptions of parametric tests, robust statistics, confidence intervals, correlations, use of appropriate statistical methods and interpretation of results."
+      "description": "Introducing various software for analyzing neuroscience data. Dealing with real data, drawing graphs, application of descriptive and inferential statistics through the general linear model, assumptions of parametric tests, robust statistics, confidence intervals, correlations, use of appropriate statistical methods and interpretation of results.",
+      "prerequisites": "PSYC 2001 and PSYC 2002 , or NEUR 2001 and NEUR 2002 ."
     },
     {
       "code": "NEUR 3002",
       "name": "Data Analysis in Neuroscience II",
       "credit": "0.5",
-      "description": "Use of software for analyzing neuroscience data. Statistical techniques typically include nonparametric tests, t tests, and various forms of both ANOVA and regression including robust statistical tests, with a focus on the practical application of appropriate statistical methods and interpretation of results."
+      "description": "Use of software for analyzing neuroscience data. Statistical techniques typically include nonparametric tests, t tests, and various forms of both ANOVA and regression including robust statistical tests, with a focus on the practical application of appropriate statistical methods and interpretation of results.",
+      "prerequisites": "NEUR 3001 ."
     },
     {
       "code": "NEUR 3003",
       "name": "Epidemiology in Neuroscience",
       "credit": "0.5",
-      "description": "Introduction to the principles and methods of epidemiology, study designs, measures of effect, sources of error, confounding, bias, internal and external validity, and causality. The course also will provide an overview of the epidemiological features, and risk factors for common neurological disorders."
+      "description": "Introduction to the principles and methods of epidemiology, study designs, measures of effect, sources of error, confounding, bias, internal and external validity, and causality. The course also will provide an overview of the epidemiological features, and risk factors for common neurological disorders.",
+      "prerequisites": "NEUR 2002 ."
     },
     {
       "code": "NEUR 3203",
       "name": "Field Course in Animal Behaviour",
       "credit": "0.5",
-      "description": "Offered in the Department of Biology as . Only those modules dealing with animal behaviour topics may be offered for Neuroscience credit."
+      "description": "Offered in the Department of Biology as . Only those modules dealing with animal behaviour topics may be offered for Neuroscience credit.",
+      "prerequisites": "permission of the department."
     },
     {
       "code": "NEUR 3204",
       "name": "Neuropharmacology",
       "credit": "0.5",
-      "description": "Overview of chemical neurotransmission and key neurotransmitter systems.  A description of licit and illicit drugs covering topics that range from historical perspectives to pharmacology to mechanisms of action in the brain.  Discussion of neurochemical basis of psychiatric diseases including anxiety, depression and schizophrenia."
+      "description": "Overview of chemical neurotransmission and key neurotransmitter systems.  A description of licit and illicit drugs covering topics that range from historical perspectives to pharmacology to mechanisms of action in the brain.  Discussion of neurochemical basis of psychiatric diseases including anxiety, depression and schizophrenia.",
+      "prerequisites": "NEUR 2200 or NEUR 2201 ."
     },
     {
       "code": "NEUR 3206",
       "name": "Sensory and Motor Neuroscience",
       "credit": "0.5",
-      "description": "Exploration of major topics in sensory processing and motor control, with a focus on underlying mechanisms and neurobiological principles. Topics include all sensory systems (such as vision, somatosensation and audition) plus motor system components including lower and upper motor neurons, basal ganglia, and cerebellum."
+      "description": "Exploration of major topics in sensory processing and motor control, with a focus on underlying mechanisms and neurobiological principles. Topics include all sensory systems (such as vision, somatosensation and audition) plus motor system components including lower and upper motor neurons, basal ganglia, and cerebellum.",
+      "prerequisites": "NEUR 1201 or both NEUR 1202 and NEUR 1203 , and either NEUR 2200 or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3207",
       "name": "Systems Neuroscience",
       "credit": "0.5",
-      "description": "Neural systems underlying complex behaviours including emotion, motivation, and sleep, and the role of association cortices in brain function."
+      "description": "Neural systems underlying complex behaviours including emotion, motivation, and sleep, and the role of association cortices in brain function.",
+      "prerequisites": "NEUR 3206 ."
     },
     {
       "code": "NEUR 3301",
       "name": "Genetics of Mental Health",
       "credit": "0.5",
-      "description": "Most common mental health diseases have a genetic component. By focusing on specific diseases, this course will discuss how disease susceptibility genes are identified, and describe the genetic, genomic and epigenetic mechanisms through which DNA alterations can predispose to disease."
+      "description": "Many common mental health conditions have a genetic component. This course explores how genetic susceptibility is identified and examines the genetic, genomic and epigenetic mechanisms that may influence vulnerability to these conditions.",
+      "prerequisites": "BIOL 2104 or BIOL 2107 , and NEUR 2200 or NEUR 2201 ."
     },
     {
       "code": "NEUR 3303",
       "name": "The Neuroscience of Consciousness",
       "credit": "0.5",
-      "description": "Consciousness remains one of the least understood aspects of the nervous system. This course explores neural mechanisms underlying consciousness, changes in consciousness associated with sleep, coma, vegetative states, drugs, and other stimuli, and considers the evolutionary basis of consciousness, and its relationship with awareness."
+      "description": "Consciousness remains one of the least understood aspects of the nervous system. This course explores neural mechanisms underlying consciousness, changes in consciousness associated with sleep, coma, vegetative states, drugs, and other stimuli, and considers the evolutionary basis of consciousness, and its relationship with awareness.",
+      "prerequisites": "NEUR 2200 or NEUR 2202 ."
     },
     {
       "code": "NEUR 3304",
       "name": "Hormones and Behaviour",
       "credit": "0.5",
-      "description": "The effects of hormones throughout life at all levels of the nervous system. The role of hormones in mediating behaviours that are both basic (feeding, reproduction and social interactions) and complex (motivation, emotion, learning and memory)."
+      "description": "The effects of hormones throughout life at all levels of the nervous system. The role of hormones in mediating behaviours that are both basic (feeding, reproduction and social interactions) and complex (motivation, emotion, learning and memory).",
+      "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3401",
       "name": "Environmental Toxins and Mental Health",
       "credit": "0.5",
-      "description": "Exposure to environmental toxins from the air, water or food can interfere with neuronal function, alter neurodevelopment, and damage the brain. This course will explore associations between toxins and diseases such as Parkinson\u2019s disease, multiple sclerosis and depression, focusing on mechanisms underlying development of pathology."
+      "description": "Exposure to environmental toxins from the air, water or food can interfere with neuronal function, alter neurodevelopment, and damage the brain. This course will explore associations between toxins and diseases such as Parkinson\u2019s disease, multiple sclerosis and depression, focusing on mechanisms underlying development of pathology.",
+      "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3402",
       "name": "Impact of Lifestyle and Social Interactions on Mental Health",
       "credit": "0.5",
-      "description": "Healthy lifestyle choices and positive social interactions can reduce the incidence of pathological conditions such as depression, obesity, cardiovascular disease and impaired immunity. This course focuses on psychosocial and neurobiological mechanisms that underlie the relationship between lifestyle, social interactions and health."
+      "description": "Healthy lifestyle choices and positive social interactions can reduce the incidence of pathological conditions such as depression, obesity, cardiovascular disease and impaired immunity. This course focuses on psychosocial and neurobiological mechanisms that underlie the relationship between lifestyle, social interactions and health.",
+      "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3403",
       "name": "Stress and Mental Health",
       "credit": "0.5",
-      "description": "Stressful events can have profound repercussions on physical and psychological well-being. This course examines the psychosocial and biological processes by which stressors predispose to both physical (immune-related disorders, diabetes, heart disease) and psychological (acute stress disorder, posttraumatic stress disorder, depression, anxiety) pathologies."
+      "description": "Stressful events can have profound repercussions on physical and psychological well-being. This course examines the psychosocial and biological processes by which stressors predispose to both physical (immune-related disorders, diabetes, heart disease) and psychological (acute stress disorder, posttraumatic stress disorder, depression, anxiety) pathologies.",
+      "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3501",
       "name": "Neurodegeneration and Aging",
       "credit": "0.5",
-      "description": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases."
+      "description": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases.",
+      "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3502",
       "name": "Neurodevelopmental Determinants of Mental Health",
       "credit": "0.5",
-      "description": "Development of the human brain, the generation and differentiation of the various cell types, and the formation of the vast network of neural connections. How neurodevelopmental dysregulation can result in pathologies including dyslexia, ADHD, schizophrenia and autism."
+      "description": "Exploration of human brain development, from cell differentiation to complex neural networks. This course considers how variations in neurodevelopment may be associated with conditions such as dyslexia, ADHD, schizophrenia and autism.",
+      "prerequisites": "NEUR 2200, or both NEUR 2201 and NEUR 2202 ."
     },
     {
       "code": "NEUR 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": ""
+      "description": "",
+      "prerequisites": ""
     },
     {
       "code": "NEUR 4001",
       "name": "Special Topics in Neuroscience",
       "credit": "0.5",
-      "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once."
+      "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
+      "prerequisites": "NEUR 3200, or NEUR 3204 and NEUR 3206 and NEUR 3207 , or permission of the Department."
     },
     {
       "code": "NEUR 4002",
       "name": "Systematic Reviews and Meta-Analyses",
       "credit": "0.5",
-      "description": "Introduction to the methods used in conducting systematic reviews and meta-analyses. Topics include: conducting literature searches, extracting relevant literature, assessing quality of studies, synthesizing findings across studies, and the statistical methods used to carry out a meta-analysis."
+      "description": "Introduction to the methods used in conducting systematic reviews and meta-analyses. Topics include: conducting literature searches, extracting relevant literature, assessing quality of studies, synthesizing findings across studies, and the statistical methods used to carry out a meta-analysis.",
+      "prerequisites": "NEUR 3003 or both NEUR 3001 and NEUR 3002 ."
     },
     {
       "code": "NEUR 4003",
       "name": "Knowledge Mobilization",
       "credit": "0.5",
-      "description": "Knowledge mobilization concepts, tools, and frameworks, the challenges and value of translational research, and processes involved in integrated knowledge mobilization. Skills to maximize research impacts will be developed."
+      "description": "Knowledge mobilization concepts, tools, and frameworks, the challenges and value of translational research, and processes involved in integrated knowledge mobilization. Skills to maximize research impacts will be developed.",
+      "prerequisites": "fourth year standing in a Neuroscience program OR permission of the department."
     },
     {
       "code": "NEUR 4200",
       "name": "Seminar on Current Advances in Neuroscience",
       "credit": "0.5",
-      "description": "Headline research in neuroscience. Topics may include technical and conceptual advances, ethical issues, medical improvement, and social impacts of neuroscience research."
+      "description": "Headline research in neuroscience. Topics may include technical and conceptual advances, ethical issues, medical improvement, and social impacts of neuroscience research.",
+      "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 ."
     },
     {
       "code": "NEUR 4202",
-      "name": "Seminar on Current Research in Neuroscience and Psychiatric Disease",
+      "name": "Seminar on Current Research in Neuroscience and Psychiatric Conditions",
       "credit": "0.5",
-      "description": "Recent research in clinical neuroscience including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include depressive disorders, schizophrenia, autism, ADHD, anorexia, narcolepsy, substance abuse, and personality disorders."
+      "description": "Recent research in clinical neuroscience including biological, developmental, experiential and environmental factors that contribute to mental health conditions. Topics may include depression, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, substance use disorders, and personality-related conditions.",
+      "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 ."
     },
     {
       "code": "NEUR 4203",
       "name": "Seminar on Current Research in Neuroscience and Clinical Neurology",
       "credit": "0.5",
-      "description": "Recent research in neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion."
+      "description": "Recent research in neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
+      "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 ."
     },
     {
       "code": "NEUR 4301",
       "name": "Neurobiology of Energy Homeostasis",
       "credit": "0.5",
-      "description": "Focus on neuroanatomical and molecular mechanisms underlying how mammals adapt to changes and challenges in the environment. Topics include regulation of feeding, energy expenditure, water balance, and temperature regulation."
+      "description": "Focus on neuroanatomical and molecular mechanisms underlying how mammals adapt to changes and challenges in the environment. Topics include regulation of feeding, energy expenditure, water balance, and temperature regulation.",
+      "prerequisites": "NEUR 3304 ."
     },
     {
       "code": "NEUR 4302",
       "name": "Sex and the Brain",
       "credit": "0.5",
-      "description": "Neurobiological processes behind reproductive behaviours in various animal species including humans. Evaluation of data concerning neurobiological differences between sexes, biological determinants of sexual orientation, and relating to neurobiology of sex disorders."
+      "description": "Neurobiological processes behind reproductive behaviours in various animal species including humans. Evaluation of data concerning neurobiological differences between sexes, biological determinants of sexual orientation, and relating to neurobiology of sex disorders.",
+      "prerequisites": "NEUR 3304 ."
     },
     {
       "code": "NEUR 4303",
       "name": "Indigenous Health & Mental Health",
       "credit": "0.5",
-      "description": "The physical and mental health issues of Indigenous people in the context of the cultural, environmental, developmental and biological factors that contribute to comorbid conditions and greater risk and resilience."
+      "description": "Explores physical and mental health issues in Indigenous communities through cultural, environmental, developmental and biological perspectives, with attention to the impacts of colonialism, intergenerational trauma, and community resilience.",
+      "prerequisites": "Third year standing or above."
     },
     {
       "code": "NEUR 4305",
       "name": "Immune-Brain Interactions",
       "credit": "0.5",
-      "description": "Communication between the brain and the immune system; messengers mediating the interaction. How disturbances of immune-brain signaling can lead to disease (multiple sclerosis, Parkinson\u2019s) and to changes in mood and cognition."
+      "description": "Communication between the brain and the immune system; messengers mediating the interaction. How disturbances of immune-brain signaling can lead to disease (multiple sclerosis, Parkinson\u2019s) and to changes in mood and cognition.",
+      "prerequisites": "NEUR 3200 or NEUR 3207 ."
     },
     {
       "code": "NEUR 4306",
       "name": "The Neural Basis of Addiction",
       "credit": "0.5",
-      "description": "How substance and behavioural addictions impact neural function to ultimately lead to the neuropathology of addiction in vulnerable populations. Contemporary neurobiological theories of addiction will also be addressed."
+      "description": "Explores how substance use and behavioural addictions impact neural function, contributing to changes in the brain system involved in addiction. Contemporary neurobiological theories of addiction will also be addressed.",
+      "prerequisites": "NEUR 3204 ."
     },
     {
       "code": "NEUR 4600",
       "name": "Advanced Lab in Neuroanatomy",
       "credit": "0.5",
-      "description": "Advanced experiential learning in neuroanatomy, histology and microscopy."
+      "description": "Advanced experiential learning in neuroanatomy, histology and microscopy.",
+      "prerequisites": "NEUR 3200 or both NEUR 3206 and NEUR 3207 , fourth-year standing in a Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department."
     },
     {
       "code": "NEUR 4801",
       "name": "Neuroethics",
       "credit": "0.5",
-      "description": "Ethical issues of key importance to current neurobiological research. Topics may include the use of animals in research, stem cell research, genetic diagnosis and gene therapy, neuroimaging, and the effect on identity and autonomy of manipulations such as psychopharmaceuticals and psychosurgery."
+      "description": "Ethical issues of key importance to current neurobiological research. Topics may include the use of animals in research, stem cell research, genetic diagnosis and gene therapy, neuroimaging, and the effect on identity and autonomy of manipulations such as psychopharmaceuticals and psychosurgery.",
+      "prerequisites": "NEUR 3200 or both NEUR 3206 and NEUR 3207 ."
     },
     {
       "code": "NEUR 4900",
       "name": "Independent Study",
       "credit": "0.5",
-      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program."
+      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program.",
+      "prerequisites": "third- or fourth- year standing and permission of the Department."
     },
     {
       "code": "NEUR 4904",
       "name": "Honours Research Thesis in Systematic Reviews or Meta-Analyses",
       "credit": "1.0",
-      "description": "An independent systematic review or meta-analyses undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience."
+      "description": "An independent systematic review or meta-analyses undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience.",
+      "prerequisites": "NEUR 3003 or both NEUR 3001 and NEUR 3002 and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department."
     },
     {
       "code": "NEUR 4905",
       "name": "Honours Workshop",
       "credit": "1.0",
-      "description": "The course will focus on active learning in areas that include written and oral communication, evaluation and interpretation of results, statistics and data management, emphasizing transferable skills that will be most appropriate for non-research career paths."
+      "description": "The course will focus on active learning in areas that include written and oral communication, evaluation and interpretation of results, statistics and data management, emphasizing transferable skills that will be most appropriate for non-research career paths.",
+      "prerequisites": "fourth-year standing in an Honours Neuroscience program and permission of the Department."
     },
     {
       "code": "NEUR 4906",
       "name": "Translational Approach to Indigenous Community Wellness",
       "credit": "1.0",
-      "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner."
+      "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner.",
+      "prerequisites": "Fourth-year standing with a minimum Major CGPA of 10.0 and a grade of A- or higher in one of NEUR 3401 , NEUR 3402 or NEUR 3403 and permission of instructor. Prior completion of NEUR 4303 recommended."
     },
     {
       "code": "NEUR 4907",
-      "name": "Honours Essay and Research Proposal",
+      "name": "Honours Essay",
       "credit": "1.0",
-      "description": "An independent essay based critical review and research proposal on a topic in neuroscience, using library resources, under the direct supervision of a Faculty advisor. Evaluation is based on a written report."
+      "description": "An independent essay based critical review on a topic in neuroscience, using library resources, under the direct supervision of a Faculty advisor, typically from the Department of Neuroscience. Evaluation is based on a written report.",
+      "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department."
     },
     {
       "code": "NEUR 4908",
       "name": "Honours Research Thesis",
       "credit": "1.0",
-      "description": "An independent research project undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience. Evaluation is based on a written report and poster."
+      "description": "An independent research project undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience. Evaluation is based on a written report and poster.",
+      "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 10.0 and permission of the Department."
     }
   ],
   "free_electives": [
@@ -290,7 +334,7 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
     },
     {
       "type": "requirement",
@@ -308,7 +352,13 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
     },
     {
       "type": "requirement",

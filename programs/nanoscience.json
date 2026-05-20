@@ -13,7 +13,7 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
     },
     {
       "type": "requirement",
@@ -31,7 +31,13 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
     },
     {
       "type": "requirement",

@@ -1,13 +1,105 @@
 {
   "name": "Biotechnology",
   "url": "https://calendar.carleton.ca/undergrad/undergradprograms/biotechnology/",
-  "courses": [],
+  "courses": [
+    {
+      "code": "BTEC 2301",
+      "name": "Biotechnology I",
+      "credit": "0.5",
+      "description": "An introductory course on the science, technology, entrepreneurial skills and business considerations related to biotechnology. The course will survey broadly across the disciplines of Biology, including applications in agriculture, health, environment and industry.",
+      "prerequisites": "BIOL 1103 and BIOL 1104 ."
+    },
+    {
+      "code": "BTEC 3301",
+      "name": "Biotechnology II",
+      "credit": "0.5",
+      "description": "An interdisciplinary course on interactions between science, invention and innovation in biotechnology. Case studies related to regional biotechnology opportunities; social and ethical issues impacting biotechnology.",
+      "prerequisites": "BIOL 2301 , BIOL 2104 , or BIOL 2107 , and BIOL 2200 / BIOC 2200 or BIOL 2201 , or permission of the Institute."
+    },
+    {
+      "code": "BTEC 3302",
+      "name": "Regulations and Intellectual Property",
+      "credit": "0.5",
+      "description": "Regulatory frameworks and intellectual property processes in biotechnology industries. Case studies and discussions of regulatory approval, compliance requirements, patentability criteria, IP protection, and ethical consideration in biotechnology innovation and commercialization.",
+      "prerequisites": "BIOC 2200 or permission of the Institute."
+    },
+    {
+      "code": "BTEC 3303",
+      "name": "Quality Control and Quality Assurance",
+      "credit": "0.5",
+      "description": "Quality control (QC) and quality assurance (QA) in biotechnology. Case studies and discussions of Quality Management Systems (QMS) and methodologies, risk assessment and mitigation strategies, data integrity, and trends to ensure high-quality standards in biotechnological products and processes.",
+      "prerequisites": "BIOC 2200 or CHEM 2303 ."
+    },
+    {
+      "code": "BTEC 3501",
+      "name": "Agrifood Technologies",
+      "credit": "0.5",
+      "description": "Role of biotechnology in agriculture. Includes crop and animal biotechnology concepts for enhanced crop yield, pest resistance, nutritional quality, and livestock health. Principles of sustainable agriculture to promote environmentally friendly farming practices, ensuring a balance between productivity and ecological integrity.",
+      "prerequisites": "BIOC 2200 or BIOL 2104 ."
+    },
+    {
+      "code": "BTEC 4501",
+      "name": "Food Bio-Innovation",
+      "credit": "0.5",
+      "description": "Biotechnological advancements transforming the food industry with emphasis on new food sources, new ingredients, and new production and processing methods.",
+      "prerequisites": "BIOC 2200 ."
+    },
+    {
+      "code": "BTEC 4601",
+      "name": "Regenerative Medicine",
+      "credit": "0.5",
+      "description": "In-depth exploration of regeneration medicine, focusing on the mechanisms, techniques, and applications involved in repairing or replacing damaged tissues and organs. Students engage with cutting-edge research and innovative approaches in the field.",
+      "prerequisites": "BIOL 3201 or HLTH 3303 ."
+    },
+    {
+      "code": "BTEC 4602",
+      "name": "Biotherapeutics and Vaccines",
+      "credit": "0.5",
+      "description": "In-depth exploration of protein and mRNA-based biotherapeutics and vaccines in biotechnology. Emphasizes modern technologies, focusing on design principles, production challenges, and commercial scaling, equipping students with essential knowledge about scientific and technological aspects critical for effective biotherapeutic and vaccine development.",
+      "prerequisites": "BIOL 2104 or HLTH 2004 ."
+    },
+    {
+      "code": "BTEC 4701",
+      "name": "Environmental Bioremediation",
+      "credit": "0.5",
+      "description": "The use of living organisms to remediate contaminated soils and waters. Case studies and discussions of bioremediation processes from a chemical and biological perspective, environmental factors that influence the selection of bioremediation technologies, limits of bioremediation strategies and techniques, and current advances in the field.",
+      "prerequisites": "BIOL 2303 or HLTH 2004 or CHEM 2800 or FOOD 3005 ."
+    },
+    {
+      "code": "BTEC 4702",
+      "name": "Industrial Microbiology",
+      "credit": "0.5",
+      "description": "Industrial use of native and engineered microorganisms for generating products like traditional beverages, biopharmaceuticals, hormones, organic acids, biofuels, biopesticides, food additives and more. Critical reasoning skills applied to case studies and project development.",
+      "prerequisites": "BIOL 2303 or HLTH 2004 or FOOD 3005 ."
+    },
+    {
+      "code": "BTEC 4908",
+      "name": "Research Thesis",
+      "credit": "1.0",
+      "description": "Students carry out a research project approved by the Director, under the supervision of a faculty member of the Institute, in either the Biology or Chemistry departments. Evaluation based on a written thesis and presentation.",
+      "prerequisites": "Fourth-year standing in Honours Biotechnology program."
+    },
+    {
+      "code": "BTEC 4909",
+      "name": "Practicum",
+      "credit": "1.0",
+      "description": "Field placement in private sector providing practical experience in a biotechnology-related field. Sites may vary each year. Evaluation based on a written report and presentation.",
+      "prerequisites": "Fourth-year standing in Honours Biotechnology program."
+    },
+    {
+      "code": "BTEC 4910",
+      "name": "Consulting Project",
+      "credit": "1.0",
+      "description": "This course is designed to give students practical experience as a biotechnology consultant by working on a concrete issue brought forward by a biotechnology partner. Evaluation based on a written report and presentation.",
+      "prerequisites": "Fourth-year standing in Honours Biotechnology program."
+    }
+  ],
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Biochemistry and Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biotechnology B.Sc. Honours (20.0 credits)",
       "credits": "0.5",
-      "text": "13.  0.5 credit in free elective. 0.5"
+      "text": "14.  0.5 credit in free electives 0.5"
     },
     {
       "type": "requirement",
@@ -19,7 +111,7 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
     },
     {
       "type": "requirement",
@@ -37,7 +129,13 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
     },
     {
       "type": "requirement",

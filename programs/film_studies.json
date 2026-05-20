@@ -6,265 +6,323 @@
       "code": "FILM 1101",
       "name": "Introduction to Film Studies",
       "credit": "0.5",
-      "description": "Introduction to the study of film that emphasizes problems and methods of film analysis through the study of various types of films. Topics relating to the filmmaker, film genre, and film history are covered through a focus on questions of style and technique."
+      "description": "Introduction to the study of film that emphasizes problems and methods of film analysis through the study of various types of films. Topics relating to the filmmaker, film genre, and film history are covered through a focus on questions of style and technique.",
+      "prerequisites": ""
     },
     {
       "code": "FILM 1120",
       "name": "Seminar in Film Studies",
       "credit": "0.5",
-      "description": "A seminar in the study of film that emphasizes problems and methods of film analysis through the study of a variety of types of films."
+      "description": "A seminar in the study of film that emphasizes problems and methods of film analysis through the study of a variety of types of films.",
+      "prerequisites": "enrolment in a Film Studies major."
+    },
+    {
+      "code": "FILM 1130",
+      "name": "Film Studies Research and Methods",
+      "credit": "0.5",
+      "description": "This seminar course builds on the knowledge and skills acquired in FILM 1120A or . It expands on concepts, issues, theories and research methods in the field of Film Studies, and places a particular focus on arguing, using sources and writing skills.",
+      "prerequisites": "FILM 1101 or FILM 1120 or permission of the discipline."
     },
     {
       "code": "FILM 2001",
       "name": "Film Theory and Analysis I",
       "credit": "0.5",
-      "description": "Introduction to major film theories and analytical practices. The objective of this course is to familiarize students with the main theories and methods of analysis that have been developed for the study of film."
+      "description": "Introduction to major film theories and analytical practices. The objective of this course is to familiarize students with the main theories and methods of analysis that have been developed for the study of film.",
+      "prerequisites": "FILM 1101 or FILM 1120 and second-year standing; or permission of the Discipline."
     },
     {
       "code": "FILM 2002",
       "name": "Film Theory and Analysis II",
       "credit": "0.5",
-      "description": "Building on the skills acquired in , this course considers specific debates in film theory, and provides students with advanced methods for film analysis."
+      "description": "Building on the skills acquired in , this course considers specific debates in film theory, and provides students with advanced methods for film analysis.",
+      "prerequisites": "FILM 1101 or FILM 1120 , and FILM 2001 , and second-year standing; or permission of the Discipline."
     },
     {
       "code": "FILM 2101",
       "name": "The Film Industry",
       "credit": "0.5",
-      "description": "The organization of the production, distribution and exhibition practices of various film industries. May include an examination of the relationship between a national film industry and its television industry."
+      "description": "The organization of the production, distribution and exhibition practices of various film industries. May include an examination of the relationship between a national film industry and its television industry.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2106",
       "name": "The Documentary",
       "credit": "0.5",
-      "description": "An examination of the work of individual filmmakers, of documentary styles and of organizations and institutions in the context of the history of documentary film making, including documentaries made for television. Non-fiction films other than documentaries may be considered."
+      "description": "An examination of the work of individual filmmakers, of documentary styles and of organizations and institutions in the context of the history of documentary film making, including documentaries made for television. Non-fiction films other than documentaries may be considered.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2201",
       "name": "National Cinema",
       "credit": "0.5",
-      "description": "This course examines the film production of specific countries in order to determine the themes, the styles, and the character of a national cinema."
+      "description": "This course examines the film production of specific countries in order to determine the themes, the styles, and the character of a national cinema.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2202",
       "name": "Japanese Cinema",
       "credit": "0.5",
-      "description": "Various practices and movements in the history of Japanese cinema, ranging from the silent era to the current digital age."
+      "description": "Various practices and movements in the history of Japanese cinema, ranging from the silent era to the current digital age.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2203",
       "name": "Scandinavian Cinema",
       "credit": "0.5",
-      "description": "The development of cinema culture and film production in the Scandinavian countries, from the golden age of Scandinavian silent cinema to contemporary Nordic noir."
+      "description": "The development of cinema culture and film production in the Scandinavian countries, from the golden age of Scandinavian silent cinema to contemporary Nordic noir.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2204",
       "name": "Indigenous Cinema and Media",
       "credit": "0.5",
-      "description": "A critical examination of films and other audiovisual media created by Indigenous artists, such as independent films, genre films, documentaries, web series, installations, and video games."
+      "description": "A critical examination of films and other audiovisual media created by Indigenous artists, such as independent films, genre films, documentaries, web series, installations, and video games.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Department."
     },
     {
       "code": "FILM 2206",
       "name": "Canadian Cinema",
       "credit": "0.5",
-      "description": "A critical examination of Canadian cinema and media and how it relates to other aspects of Canadian culture."
+      "description": "A critical examination of Canadian cinema and media and how it relates to other aspects of Canadian culture.",
+      "prerequisites": "FILM 1101 or FILM 1120 or second-year standing; or permission of the Discipline."
     },
     {
       "code": "FILM 2401",
       "name": "Authorship in Film and Media",
       "credit": "0.5",
-      "description": "A detailed study of the themes, the characteristic style, development and influence of one or more directors."
+      "description": "A detailed study of the themes, the characteristic style, development and influence of one or more directors.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2601",
       "name": "Film Genres",
       "credit": "0.5",
-      "description": "This course examines questions of generic form, drawing examples from world cinema."
+      "description": "This course examines questions of generic form, drawing examples from world cinema.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 2606",
       "name": "History of World Cinema I",
       "credit": "0.5",
-      "description": "Historical survey of world cinema primarily from 1895 to 1945, examining the forms, structures and stylistic conventions of various periods and nations."
+      "description": "Historical survey of world cinema primarily from 1895 to 1945, examining the forms, structures and stylistic conventions of various periods and nations.",
+      "prerequisites": "FILM 1101 or FILM 1120 , and second-year standing, or permission of the discipline."
     },
     {
       "code": "FILM 2607",
       "name": "History of World Cinema II",
       "credit": "0.5",
-      "description": "Historical survey of world cinema primarily since 1945, examining the forms, structures and stylistic conventions of various periods and nations."
+      "description": "Historical survey of world cinema primarily since 1945, examining the forms, structures and stylistic conventions of various periods and nations.",
+      "prerequisites": "FILM 2606 or ENGL 2600 or permission of the discipline."
     },
     {
       "code": "FILM 2801",
       "name": "Film and Media Practice I",
       "credit": "0.5",
-      "description": "Introduction to the basic principles of film and media practice. Emphasis may change from year to year, focusing alternately on narrative, experimental, animation or documentary techniques. This course is intended for Film Studies majors only."
+      "description": "Introductory workshop on the basic principles of filmmaking. Culminates in a short film or other media project, screened in class.  Emphasis may change from year to year, focusing alternately on narrative, experimental, animation, documentary, or interactive techniques.",
+      "prerequisites": "FILM 1101 or FILM 1120 ."
     },
     {
       "code": "FILM 2809",
       "name": "The Video Game",
       "credit": "0.5",
-      "description": "Introduction to the video game as a popular media form, an emerging aesthetic, and a social and cultural practice. Topics include: history of video games; game form; game industry; narrative; art and design; interactivity; theories of play."
+      "description": "Introduction to the video game as a popular media form, an emerging aesthetic, and a social and cultural practice. Topics include: history of video games; game form; game industry; narrative; art and design; interactivity; theories of play.",
+      "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3105",
       "name": "Questions of Documentary Practice",
       "credit": "0.5",
-      "description": "Theoretical implications of documentary film and documentary television practice."
+      "description": "Theoretical implications of documentary film and documentary television practice.",
+      "prerequisites": "1.0 credit in FILM at the 2000-level and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3206",
       "name": "Special Topics in American Cinema",
       "credit": "0.5",
-      "description": "Studies in various aspects of American cinema with emphasis on historical and critical issues. The course offerings may change from year to year."
+      "description": "Studies in various aspects of American cinema with emphasis on historical and critical issues. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3209",
       "name": "Special Topics in Canadian Cinema",
       "credit": "0.5",
-      "description": "Studies in various aspects of Canadian cinema. The course offerings may change from year to year."
+      "description": "Studies in various aspects of Canadian cinema. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3301",
       "name": "Special Topics in Cinema, Gender, and Sexuality",
       "credit": "0.5",
-      "description": "A study of special topics in gender and cinema with emphasis on critical and historical questions. The course offerings may change from year to year."
+      "description": "A study of special topics in gender and cinema with emphasis on critical and historical questions. The course offerings may change from year to year.",
+      "prerequisites": "1.0 credit in FILM at the 2000-level and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3402",
       "name": "Film Music",
       "credit": "0.5",
-      "description": "The use of music in film, from the silent era to the present day. Techniques, styles and theory of film music through the examination of selected scenes."
+      "description": "The use of music in film, from the silent era to the present day. Techniques, styles and theory of film music through the examination of selected scenes.",
+      "prerequisites": ""
+    },
+    {
+      "code": "FILM 3404",
+      "name": "Ecocinema",
+      "credit": "0.5",
+      "description": "A survey of key ethical and aesthetic questions that have shaped the subfield of ecocinema, including debates on the ecological footprint of filmmaking, and approaches that apply a critical ecological lens to films across genres and in various geopolitical contexts.",
+      "prerequisites": "1.0 credit in FILM and third-year standing or permission of the Discipline."
     },
     {
       "code": "FILM 3506",
       "name": "Special Topics in Film Theory",
       "credit": "0.5",
-      "description": "Building on the skills acquired in FILM 2000, this course provides a critical study of advanced film theories. The course offerings may change from year to year. Topics may include aesthetics, ideological criticism, film and philosophy, and theories of technology and historiography."
+      "description": "This course provides a critical study of advanced film theories. The course offerings may change from year to year. Topics may include aesthetics, ideological criticism, film and philosophy, and theories of technology and historiography.",
+      "prerequisites": "FILM 2001 and FILM 2002 and third-year standing; or permission of the Discipline."
     },
     {
       "code": "FILM 3601",
       "name": "Contemporary Qu\u00e9bec Cinema",
       "credit": "0.5",
-      "description": "Critical reflection on notable filmmakers, formal and thematic trends, dominant social and political issues, and diverse cultural perspectives in Qu\u00e9bec cinema during the 21stcentury, including the film movement known as the Qu\u00e9bec New Wave (Renouveau du cin\u00e9ma qu\u00e9b\u00e9cois). French language ability not required."
+      "description": "Critical reflection on notable filmmakers, formal and thematic trends, dominant social and political issues, and diverse cultural perspectives in Qu\u00e9bec cinema during the 21stcentury, including the film movement known as the Qu\u00e9bec New Wave (Renouveau du cin\u00e9ma qu\u00e9b\u00e9cois). French language ability not required.",
+      "prerequisites": "1.0 credit in FILM and third-year standing or permission of the Discipline."
     },
     {
       "code": "FILM 3608",
       "name": "Special Topics in Film History",
       "credit": "0.5",
-      "description": "Special studies of aspects of the history of world cinema.  The course offerings may change from year to year. Topics may include the examination of film movements, styles and genres, and/or comparative study of national, regional and/or world-wide trends."
+      "description": "Special studies of aspects of the history of world cinema.  The course offerings may change from year to year. Topics may include the examination of film movements, styles and genres, and/or comparative study of national, regional and/or world-wide trends.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3609",
       "name": "African Cinema",
       "credit": "0.5",
-      "description": "Major figures and movements in African cinema around such categories as the colonial, the anti-colonial, the postcolonial, the diasporic, the continental, race, Afro-futurism, and world cinema, interrogating in the process the very category of \u201cAfrican cinema\u201d."
+      "description": "Major figures and movements in African cinema around such categories as the colonial, the anti-colonial, the postcolonial, the diasporic, the continental, race, Afro-futurism, and world cinema, interrogating in the process the very category of \u201cAfrican cinema\u201d.",
+      "prerequisites": "1.0 credit in FILM and third year standing or permission of instructor."
     },
     {
       "code": "FILM 3701",
       "name": "Special Topics in Animation, Video, and Experimental Film",
       "credit": "0.5",
-      "description": "A study of special topics in animation, video or experimental film. The course offerings may change from year to year."
+      "description": "A study of special topics in animation, video or experimental film. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3800",
       "name": "Film/Video Archival or Curatorial Practice",
       "credit": "0.5",
-      "description": "Consideration of topics in film/video archival or curatorial practice, including questions related to cultural policy, exhibition, conservation, and interrelationship of media. Students are expected to bear all travel and other costs arising from required visits to local facilities."
+      "description": "Consideration of topics in film/video archival or curatorial practice, including questions related to cultural policy, exhibition, conservation, and interrelationship of media. Students are expected to bear all travel and other costs arising from required visits to local facilities.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3801",
       "name": "Film and Media Practice II",
       "credit": "0.5",
-      "description": "Practical and conceptual approaches to film studies from the point of view of film and media practice.  Emphasis may change from year to year, focusing alternately on narrative, experimental, animation or documentary techniques."
+      "description": "Advanced workshop on filmmaking. Expands on skills learned in 2801, students refine their knowledge of filmmaking principles and techniques. Culminates in a short film or other media project. Emphasis may change from year to year, focusing alternately on narrative, experimental, animation, documentary, or interactive techniques.",
+      "prerequisites": "FILM 2001 and FILM 2801 ."
     },
     {
       "code": "FILM 3808",
       "name": "Cinema and Technology",
       "credit": "0.5",
-      "description": "The technological development of cinema. Topics may include advances in sound and colour processes, digital effects, exhibition technologies and new media."
+      "description": "The technological development of cinema. Topics may include advances in sound and colour processes, digital effects, exhibition technologies and new media.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3809",
       "name": "Analyzing Digital Media",
       "credit": "0.5",
-      "description": "History, aesthetics, and theories of digital media and culture. Key concepts in digital media studies, including: digital cinema, interactive documentaries, viral videos, web series, emerging immersive platforms."
+      "description": "History, aesthetics, and theories of digital media and culture. Key concepts in digital media studies, including: digital cinema, interactive documentaries, viral videos, web series, emerging immersive platforms.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3810",
       "name": "Sound in Film and Media",
       "credit": "0.5",
-      "description": "Questions related to sound in film and media such as: how is sound used to create narratives and emotions? How does sound affect our experience of actual and fictional worlds?."
+      "description": "Questions related to sound in film and media such as: how is sound used to create narratives and emotions? How does sound affect our experience of actual and fictional worlds?.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3901",
       "name": "Special Topics in Film Studies",
       "credit": "0.5",
-      "description": "Special topics and issues not ordinarily treated in the third-year course program. The course offerings may change from year to year."
+      "description": "Special topics and issues not ordinarily treated in the third-year course program. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 3902",
       "name": "Screenwriting Workshop",
       "credit": "0.5",
-      "description": "An intermediate workshop involving regular assignments in writing for film."
+      "description": "An intermediate workshop involving regular assignments in writing for film.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2915 ; or departmental permission."
     },
     {
       "code": "FILM 4001",
       "name": "Research and Critical Methodologies",
       "credit": "0.5",
-      "description": "Study of various methodologies for critical, theoretical and historical research in film studies."
+      "description": "Study of various methodologies for critical, theoretical and historical research in film studies.",
+      "prerequisites": "FILM 2002 , 1.0 credit in FILM at the 3000-level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4002",
       "name": "Special Topics in Moving Image Culture",
       "credit": "0.5",
-      "description": "Special aspects of the audio-visual cultures of the late nineteenth and twentieth centuries. The course offerings may change from year to year."
+      "description": "Special aspects of the audio-visual cultures of the late nineteenth and twentieth centuries. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4201",
       "name": "Special Topics in National Cinemas",
       "credit": "0.5",
-      "description": "A study of a special topic in national cinema. The course offerings may change from year to year."
+      "description": "A study of a special topic in national cinema. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4203",
       "name": "Film Festivals and World Cinema",
       "credit": "0.5",
-      "description": "Theoretical and critical study of the film festival as a phenomenon shaping our understanding of film culture, institutions, history and forms. Issues examined may include festivals as sites of cultural legitimation; as spectacle; their political economy; curation/programming; case studies of film festivals around the world."
+      "description": "Theoretical and critical study of the film festival as a phenomenon shaping our understanding of film culture, institutions, history and forms. Issues examined may include festivals as sites of cultural legitimation; as spectacle; their political economy; curation/programming; case studies of film festivals around the world.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4301",
       "name": "Special Topics in Film and Philosophy",
       "credit": "0.5",
-      "description": "Special topics in philosophical approaches to the study of film, and an examination of the relations between film theory and philosophical aesthetics. The course offerings may change from year to year."
+      "description": "Special topics in philosophical approaches to the study of film, and an examination of the relations between film theory and philosophical aesthetics. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4401",
       "name": "Special Topics in Film Authorship",
       "credit": "0.5",
-      "description": "A study of questions of authorship in the cinema, concentrating on one or more filmmakers. The course offerings may change from year to year."
+      "description": "A study of questions of authorship in the cinema, concentrating on one or more filmmakers. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4501",
       "name": "Special Topics in Film Theory",
       "credit": "0.5",
-      "description": "A study of a special topics in film theory. The course offerings may change from year to year."
+      "description": "A study of a special topics in film theory. The course offerings may change from year to year.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4805",
       "name": "Practicum in Film and Film Studies",
       "credit": "0.5",
-      "description": "Practical experience through working on specific projects under the supervision of staff at a museum, gallery, archive, or production company in the Ottawa area. A maximum of 0.5 credit Film Studies practica courses may be offered in fulfilment of Film Studies requirements. Graded SAT/UNS."
+      "description": "Practical experience through working on specific projects under the supervision of staff at a museum, gallery, archive, or production company in the Ottawa area. A maximum of 0.5 credit Film Studies practica courses may be offered in fulfilment of Film Studies requirements. Graded SAT/UNS.",
+      "prerequisites": "fourth-year Honours standing in Film Studies, a CGPA of 9.00 or higher in Film Studies, and permission of the Discipline."
     },
     {
       "code": "FILM 4901",
       "name": "Special Topic",
       "credit": "0.5",
-      "description": "Selected topics in film studies not ordinarily available in the regular course program. The choice of topic or topics will vary at least every two years and will be announced well in advance of the registration period."
+      "description": "Selected topics in film studies not ordinarily available in the regular course program. The choice of topic or topics will vary at least every two years and will be announced well in advance of the registration period.",
+      "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline."
     },
     {
       "code": "FILM 4904",
       "name": "Independent Study",
       "credit": "0.5",
-      "description": "For students who wish to study a specific topic. Proposed projects must be approved by the Program Committee. Written request outlining the project must be submitted by the first day of the term. An essay is the usual assignment."
+      "description": "For students who wish to study a specific topic. Proposed projects must be approved by the Program Committee. Written request outlining the project must be submitted by the first day of the term. An essay is the usual assignment.",
+      "prerequisites": "fourth-year Honours standing in Film Studies and a CGPA of 10.00 or higher in Film Studies."
     }
   ],
   "free_electives": [
@@ -272,7 +330,7 @@
       "type": "requirement",
       "degree": "Film Studies B.A. Honours (20.0 credits)",
       "credits": "3.0",
-      "text": "8.  3.0 credits in free electives. 3.0"
+      "text": "7.  3.0 credits in free electives. 3.0"
     },
     {
       "type": "requirement",

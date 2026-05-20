@@ -6,559 +6,645 @@
       "code": "LAWS 1001",
       "name": "Introduction to Legal Studies 1",
       "credit": "0.5",
-      "description": "Introduction to legal studies: concepts, sources, nature and functions of law; historical, cultural and constitutional foundations of Canadian legal system; common and civil law traditions; statutory interpretation; precedent; legal institutions; frameworks for analyzing formal and informal conceptions of law and its role in society."
+      "description": "Introduction to legal studies: concepts, sources, nature and functions of law; historical, cultural and constitutional foundations of Canadian legal system; common and civil law traditions; statutory interpretation; precedent; legal institutions; frameworks for analyzing formal and informal conceptions of law and its role in society.",
+      "prerequisites": ""
     },
     {
       "code": "LAWS 1002",
       "name": "Introduction to Legal Studies 2",
       "credit": "0.5",
-      "description": "Introduction to legal rules and theoretical approaches for critically understanding the creation, interpretation and enforcement of those rules; the role of judges, juries, lawyers, and lay persons; adjudication and alternative dispute resolution; relationship of law with social change and justice; challenges of access to justice."
+      "description": "Introduction to legal rules and theoretical approaches for critically understanding the creation, interpretation and enforcement of those rules; the role of judges, juries, lawyers, and lay persons; adjudication and alternative dispute resolution; relationship of law with social change and justice; challenges of access to justice.",
+      "prerequisites": ""
     },
     {
       "code": "LAWS 2105",
       "name": "Social Justice and Human Rights",
       "credit": "0.5",
-      "description": "Theories and practices of law and social justice. Issues examined may include: civil democracy and repression; global governance and the rule of law; democratic movements and social power; human rights instruments, regimes and remedies; armed conflict; and humanitarian intervention."
+      "description": "Theories and practices of law and social justice. Issues examined may include: civil democracy and repression; global governance and the rule of law; democratic movements and social power; human rights instruments, regimes and remedies; armed conflict; and humanitarian intervention.",
+      "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 , or HRSJ 1101 and HRSJ 1102 , or PAPM 1001 and PSCI 2003 ."
     },
     {
       "code": "LAWS 2201",
       "name": "Persons and Property",
       "credit": "0.5",
-      "description": "Origins and scope of the concept of person in law and how concepts of legal personality change over time.  Origins and scope of the concept of property and how concepts of property change over time."
+      "description": "Origins and scope of the concept of person in law and how concepts of legal personality change over time.  Origins and scope of the concept of property and how concepts of property change over time.",
+      "prerequisites": "LAWS 1001 and LAWS 1002 ."
     },
     {
       "code": "LAWS 2202",
       "name": "Obligations",
       "credit": "0.5",
-      "description": "The concepts employed by the law for creating and enforcing legal obligations between persons within society, including contract, tort, fiduciary obligation and restitution.  Consideration is given to the role of persons and the role of the state in ordering private legal obligations."
+      "description": "The concepts employed by the law for creating and enforcing legal obligations between persons within society, including contract, tort, fiduciary obligation and restitution.  Consideration is given to the role of persons and the role of the state in ordering private legal obligations.",
+      "prerequisites": "LAWS 1001 and LAWS 1002 ."
     },
     {
       "code": "LAWS 2301",
       "name": "Criminal Justice System",
       "credit": "0.5",
-      "description": "The institutional and social production of criminal law in Canada. Processes, personnel, and agencies. The role of discretion. The accused and the place of the victim. Issues in sentencing and punishment. Particular attention to racialization, Indigenous experiences, and discrimination in the operations of criminal law."
+      "description": "The institutional and social production of criminal law in Canada. Processes, personnel, and agencies. The role of discretion. The accused and the place of the victim. Issues in sentencing and punishment. Particular attention to racialization, Indigenous experiences, and discrimination in the operations of criminal law.",
+      "prerequisites": "LAWS 1001 and LAWS 1002 ."
     },
     {
       "code": "LAWS 2302",
       "name": "Criminal Law",
       "credit": "0.5",
-      "description": "The legal and social dimensions of criminal liability and responsibility in Canada, including issues and problems surrounding mens rea, actus reus, and the attachment of liability. Excuses and justifications, the Canadian Criminal Code and the role of the Charter in the criminal legal system."
+      "description": "The legal and social dimensions of criminal liability and responsibility in Canada, including issues and problems surrounding mens rea, actus reus, and the attachment of liability. Excuses and justifications, the Canadian Criminal Code and the role of the Charter in the criminal legal system.",
+      "prerequisites": "LAWS 1001 and LAWS 1002 ."
     },
     {
       "code": "LAWS 2501",
       "name": "Law, State and Constitution",
       "credit": "0.5",
-      "description": "Law relating to the state, society and the constitution, with a focus on the historical framework, federalism, and constitutional reform in Canada."
+      "description": "Law relating to the state, society and the constitution, with a focus on the historical framework, federalism, and constitutional reform in Canada.",
+      "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 ."
     },
     {
       "code": "LAWS 2502",
       "name": "Law, State and Citizen",
       "credit": "0.5",
-      "description": "Law relating to the state and its relationship to individuals and groups in society, with a focus on the administrative process, basic values and the Charter."
+      "description": "Law relating to the state and its relationship to individuals and groups in society, with a focus on the administrative process, basic values and the Charter.",
+      "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 ."
     },
     {
       "code": "LAWS 2601",
       "name": "Public International Law",
       "credit": "0.5",
-      "description": "Examination of the role of law in contemporary international relations.  Nature, history and sources of international law; international personality of states; status of international organizations and individuals; creation and effect of international obligations; importance and functions of law in the settlement of international disputes."
+      "description": "Examination of the role of law in contemporary international relations.  Nature, history and sources of international law; international personality of states; status of international organizations and individuals; creation and effect of international obligations; importance and functions of law in the settlement of international disputes.",
+      "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 ."
     },
     {
       "code": "LAWS 2908",
       "name": "Methodological Approaches in Legal Studies 1",
       "credit": "0.5",
-      "description": "Introduction to the legal research process and analysis of legal methodology; finding and analyzing primary and secondary legal sources. Students are strongly encouraged to take this course in the second year of their program."
+      "description": "Introduction to the legal research process and analysis of legal methodology; finding and analyzing primary and secondary legal sources. Students are strongly encouraged to take this course in the second year of their program.",
+      "prerequisites": "LAWS 1001 and LAWS 1002 ."
     },
     {
       "code": "LAWS 3001",
       "name": "Women and the Legal Process",
       "credit": "0.5",
-      "description": "How the legal process has affected the status of women. Areas of concentration within the Canadian context include the criminal law, citizenship and immigration, education, employment, and welfare and social services."
+      "description": "How the legal process has affected the status of women. Areas of concentration within the Canadian context include the criminal law, citizenship and immigration, education, employment, and welfare and social services.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3003",
       "name": "Contracts",
       "credit": "0.5",
-      "description": "The enforcement of promises and agreements; basic doctrines and underlying principles of the law of contract are studied from formation of the contract to remedies for breach of contract; role of contract for economic and social purposes is also considered."
+      "description": "The enforcement of promises and agreements; basic doctrines and underlying principles of the law of contract are studied from formation of the contract to remedies for breach of contract; role of contract for economic and social purposes is also considered.",
+      "prerequisites": "LAWS 2202 and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3005",
       "name": "Law and Regulation",
       "credit": "0.5",
-      "description": "Definitions and goals of regulation; contemporary theories and debates about legal and non-legal approaches to regulation. Approaches studied may include market mechanisms, public agency regulation, self-regulation and governance in co-operation with associations in civil society."
+      "description": "Definitions and goals of regulation; contemporary theories and debates about legal and non-legal approaches to regulation. Approaches studied may include market mechanisms, public agency regulation, self-regulation and governance in co-operation with associations in civil society.",
+      "prerequisites": "1.0 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 ."
     },
     {
       "code": "LAWS 3006",
       "name": "Alternative Dispute Resolution",
       "credit": "0.5",
-      "description": "Introduction to theories and practices of alternative dispute resolution, including, negotiation, mediation, arbitration, and restorative justice; contrasts with formal litigation; issues of social and legal control; critiques grounded in critical theories; application to contemporary issues and disputes."
+      "description": "Introduction to theories and practices of alternative dispute resolution, including, negotiation, mediation, arbitration, and restorative justice; contrasts with formal litigation; issues of social and legal control; critiques grounded in critical theories; application to contemporary issues and disputes.",
+      "prerequisites": "( LAWS 1001 and LAWS 1002 ) and (1.0 credit in LAWS at the 2000 level or 0.5 credit in LAWS at the 2000 level and BUSI 2601 )."
     },
     {
       "code": "LAWS 3101",
       "name": "Philosophy of Law: The Nature of Law",
       "credit": "0.5",
-      "description": "The concept of law, leading theories of law and related concepts such as rules and obligations, power and authority, coercion, and justice."
+      "description": "The concept of law, leading theories of law and related concepts such as rules and obligations, power and authority, coercion, and justice.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3103",
       "name": "Law, Culture, and the Humanities:  A Foundation",
       "credit": "0.5",
-      "description": "Themes, approaches and debates in the field of law, culture and the humanities. Primary materials considered may include theoretical writings/cultural criticism/literary texts/films/video/photography and music. These texts present different modes and means of inquiring into the assumptions and aspirations that we ascribe to law."
+      "description": "Themes, approaches and debates in the field of law, culture and the humanities. Primary materials considered may include theoretical writings/cultural criticism/literary texts/films/video/photography and music. These texts present different modes and means of inquiring into the assumptions and aspirations that we ascribe to law.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3104",
       "name": "Critical Theory for Legal Studies: An Introduction",
       "credit": "0.5",
-      "description": "Introduction to the general contours of critical theory as it pertains to law and legal studies. The course will introduce key concepts and controversies in the field, identify specific theoretical debates, and consider what conceptual consequences follow from the elaboration of specific positions or arguments."
+      "description": "Introduction to the general contours of critical theory as it pertains to law and legal studies. The course will introduce key concepts and controversies in the field, identify specific theoretical debates, and consider what conceptual consequences follow from the elaboration of specific positions or arguments.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3201",
       "name": "Business Enterprise Frameworks",
       "credit": "0.5",
-      "description": "Forms of carrying on business activity: proprietorships, partnerships, corporations and Crown entities. The rights and obligations of such business enterprises both internally and in relation with other persons. The relationship between legal form and economic function. The role of state intervention."
+      "description": "Forms of carrying on business activity: proprietorships, partnerships, corporations and Crown entities. The rights and obligations of such business enterprises both internally and in relation with other persons. The relationship between legal form and economic function. The role of state intervention.",
+      "prerequisites": "LAWS 2201 and LAWS 2202 ."
     },
     {
       "code": "LAWS 3202",
       "name": "Intellectual Property",
       "credit": "0.5",
-      "description": "Critical assessment of copyright, patents, trademarks, trade secrets and other forms of intellectual property; regulation and governance of information technology including self-regulation, standard setting, licensing, competition policy and international dimensions."
+      "description": "Critical assessment of copyright, patents, trademarks, trade secrets and other forms of intellectual property; regulation and governance of information technology including self-regulation, standard setting, licensing, competition policy and international dimensions.",
+      "prerequisites": "1.0 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 ."
     },
     {
       "code": "LAWS 3205",
       "name": "Consumer Law",
       "credit": "0.5",
-      "description": "Need for consumer protection in the provision of goods and services; traditional legal protection by statute and common law; legislative responses to consumer pressures; judicial response in recent Canadian, English and American law; reform of consumer law."
-    },
-    {
-      "code": "LAWS 3206",
-      "name": "Banking Law",
-      "credit": "0.5",
-      "description": "The law relating to banks and banking; the nature of the legal relationship created; legal rights and duties of the parties involved. Consumer and corporate aspects of banking (including computerization and electronic funds transfers); regulations of banking."
+      "description": "Need for consumer protection in the provision of goods and services; traditional legal protection by statute and common law; legislative responses to consumer pressures; judicial response in recent Canadian, English and American law; reform of consumer law.",
+      "prerequisites": "( LAWS 2202 or BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3207",
       "name": "International Transactions",
       "credit": "0.5",
-      "description": "Topics may include: the international sale of goods, finance of transnational transactions, international carriage of goods, insurance, agency and trading houses; other forms of trade, e.g., counter-trade, foreign investment; settlement of international disputes by litigation and arbitration."
+      "description": "Topics may include: the international sale of goods, finance of transnational transactions, international carriage of goods, insurance, agency and trading houses; other forms of trade, e.g., counter-trade, foreign investment; settlement of international disputes by litigation and arbitration.",
+      "prerequisites": "( LAWS 2202 or BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3208",
       "name": "International Trade Regulation",
       "credit": "0.5",
-      "description": "International regulation of trade and investment through bilateral, regional and multilateral treaties and agreements. Topics may include: WTO, NAFTA, the EU, UNCTAD, intergovernmental commodity agreements, dispute settlement."
+      "description": "International regulation of trade and investment through bilateral, regional and multilateral treaties and agreements. Topics may include: WTO, NAFTA, the EU, UNCTAD, intergovernmental commodity agreements, dispute settlement.",
+      "prerequisites": "(0.5 credit from LAWS 2202 , LAWS 2501 , LAWS 2601 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3305",
       "name": "Crime and State in History",
       "credit": "0.5",
-      "description": "The history of the relationship between the criminal law system and society. Changing issues in the criminal law and the nature of institutional responses, covering medieval to early nineteenth-century England and nineteenth to early twentieth-century Canada."
+      "description": "The history of the relationship between the criminal law system and society. Changing issues in the criminal law and the nature of institutional responses, covering medieval to early nineteenth-century England and nineteenth to early twentieth-century Canada.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level, or 0.5 credit in LAWS at the 2000 level and 0.5 credit in HIST at the 2000 level."
     },
     {
       "code": "LAWS 3306",
       "name": "Crime, Law, Process and Politics",
       "credit": "0.5",
-      "description": "Criminal law process in Canada; structure and use of the process examined for fairness, defects, and possible reform initiatives. Issues concerning Indigeneity, gender, race and class bias in the implementation and application of the criminal law."
+      "description": "Criminal law process in Canada; structure and use of the process examined for fairness, defects, and possible reform initiatives. Issues concerning Indigeneity, gender, race and class bias in the implementation and application of the criminal law.",
+      "prerequisites": "LAWS 2301 and LAWS 2302 ."
     },
     {
       "code": "LAWS 3307",
       "name": "Youth and Criminal Law",
       "credit": "0.5",
-      "description": "A review of the Youth Criminal Justice Act within the framework of the Canadian justice system, with particular emphasis on historical and philosophical developments and objectives. Current topics include: constitutional issues, procedure, confessions, transfers, sentencing options, alternative measures, reviews, and possible amendments."
+      "description": "A review of the Youth Criminal Justice Act within the framework of the Canadian justice system, with particular emphasis on historical and philosophical developments and objectives. Current topics include: constitutional issues, procedure, confessions, transfers, sentencing options, alternative measures, reviews, and possible amendments.",
+      "prerequisites": "LAWS 2301 and LAWS 2302 ."
     },
     {
       "code": "LAWS 3308",
       "name": "Punishment and the Law",
       "credit": "0.5",
-      "description": "This course explores justifications and practices of punishment and social control from a socio-legal perspective. Rationalizations and justifications for punishment are considered. Different forms of punishment and control within the law will be examined as well as different theoretical perspectives of punishment."
+      "description": "This course explores justifications and practices of punishment and social control from a socio-legal perspective. Rationalizations and justifications for punishment are considered. Different forms of punishment and control within the law will be examined as well as different theoretical perspectives of punishment.",
+      "prerequisites": "LAWS 2301 and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3309",
       "name": "Public and Private Policing",
       "credit": "0.5",
-      "description": "An examination of the foundations, politics, deployments and legal context of public and private policing.  Theoretical and strategic themes related to corporate and state surveillance and security provision are analyzed in the context of class, race, and gender in contemporary and historical context."
+      "description": "An examination of the foundations, politics, deployments and legal context of public and private policing.  Theoretical and strategic themes related to corporate and state surveillance and security provision are analyzed in the context of class, race, and gender in contemporary and historical context.",
+      "prerequisites": "LAWS 2301 and LAWS 2302 ."
     },
     {
       "code": "LAWS 3310",
       "name": "Race and Law",
       "credit": "0.5",
-      "description": "This course explores theorizations and intersections of race and law in legal studies. Particular attention to case studies, institutional, structural, and systemic racism, the currency of \u201crace\u201d in legal categories and in the work of legal actors in multiple areas of law."
+      "description": "This course explores theorizations and intersections of race and law in legal studies. Particular attention to case studies, institutional, structural, and systemic racism, the currency of \u201crace\u201d in legal categories and in the work of legal actors in multiple areas of law.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3401",
       "name": "Employment Law",
       "credit": "0.5",
-      "description": "Legal regulation of the employment relationship; its contractual basis; defining employment; rights and duties of employees and employers; termination of employment; statutory regulation through employment standards legislation, human rights codes, workers' compensation acts, occupational health and safety and related statutes."
+      "description": "Legal regulation of the employment relationship; its contractual basis; defining employment; rights and duties of employees and employers; termination of employment; statutory regulation through employment standards legislation, human rights codes, workers' compensation acts, occupational health and safety and related statutes.",
+      "prerequisites": "(0.5 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3405",
       "name": "Labour Law",
       "credit": "0.5",
-      "description": "Role of law in industrial relations; effect of law on collective bargaining relationships; recognition of bargaining agent; regulation of bargaining; administration of the collective agreement; methods of conflict resolution."
+      "description": "Role of law in industrial relations; effect of law on collective bargaining relationships; recognition of bargaining agent; regulation of bargaining; administration of the collective agreement; methods of conflict resolution.",
+      "prerequisites": "(0.5 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3500",
       "name": "Constitutional Law",
       "credit": "0.5",
-      "description": "An investigation of the Canadian constitution. Sovereignty, the nature and units of executive, legislative, and judicial power in Canada as interpreted by the courts. The distribution of powers under the Canadian constitution, including an investigation of contemporary problems of federalism. Problems of judicial review."
+      "description": "An investigation of the Canadian constitution. Sovereignty, the nature and units of executive, legislative, and judicial power in Canada as interpreted by the courts. The distribution of powers under the Canadian constitution, including an investigation of contemporary problems of federalism. Problems of judicial review.",
+      "prerequisites": "( LAWS 2501 or PSCI 2003 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3501",
       "name": "Law in the Information Society",
       "credit": "0.5",
-      "description": "Legal responses to challenges of the information society. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, control of objectionable content, Charter and human rights issues, and security."
+      "description": "Legal responses to challenges of the information society. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, control of objectionable content, Charter and human rights issues, and security.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3502",
       "name": "Regulating Freedom of Expression in Canada",
       "credit": "0.5",
-      "description": "The claimed relationship between freedom of expression and Canadian democracy, including the historical development of the right and various limits on it, and the regulatory structures governing contemporary media, criminalized and commercial expression, and use of media in the courtroom."
+      "description": "The claimed relationship between freedom of expression and Canadian democracy, including the historical development of the right and various limits on it, and the regulatory structures governing contemporary media, criminalized and commercial expression, and use of media in the courtroom.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3503",
       "name": "Equality and Discrimination",
       "credit": "0.5",
-      "description": "Human rights issues and law in Canada; history and present day experiences of discrimination; critical exploration of laws effectiveness in responding to discrimination; meaning(s) of equality and discrimination; focus on Human Rights Codes - interpretation, administration, enforcement with some reference to s.15 of the Charter."
+      "description": "Human rights issues and law in Canada; history and present day experiences of discrimination; critical exploration of laws effectiveness in responding to discrimination; meaning(s) of equality and discrimination; focus on Human Rights Codes - interpretation, administration, enforcement with some reference to s.15 of the Charter.",
+      "prerequisites": "(0.5 credit from LAWS 2105 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3504",
-      "name": "Law and Aboriginal Peoples",
+      "name": "Law and Indigenous Peoples",
       "credit": "0.5",
-      "description": "The legal situation of aboriginal peoples in Canada. Topics include status, aboriginal rights, treaties, legislative jurisdiction and the constitutional framework, aboriginal claims, and self-government. Comparative references to aboriginal policy in other countries."
+      "description": "The relationship between settler colonialist law and Indigenous people in Canada, including the legal, constitutional and legislative framework shaping the relationship between the Crown and Indigenous people, Indigenous rights and claims, Indigenous identities, treaties and self-determination, among others.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3506",
       "name": "Administrative Law",
       "credit": "0.5",
-      "description": "Structure and procedure of Canadian administrative authorities; policy, statutory and judicial environments in which they operate. Topics include techniques for implementing public policy and structuring public authorities; statutory interpretation; procedural safeguards; exercise of statutory discretion; reconciling efficiency and fairness."
+      "description": "Structure and procedure of Canadian administrative authorities; policy, statutory and judicial environments in which they operate. Topics include techniques for implementing public policy and structuring public authorities; statutory interpretation; procedural safeguards; exercise of statutory discretion; reconciling efficiency and fairness.",
+      "prerequisites": "LAWS 2502 and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3508",
       "name": "Health Law",
       "credit": "0.5",
-      "description": "Legal/ethical issues in health care regulation. Topics may include: regulation of health professions; economics of health care; informed consent/choice; regulation of drugs, devices and research; medical malpractice and other liability; mental health issues; patient/client records."
+      "description": "Legal/ethical issues in health care regulation. Topics may include: regulation of health professions; economics of health care; informed consent/choice; regulation of drugs, devices and research; medical malpractice and other liability; mental health issues; patient/client records.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3509",
       "name": "Selected Topics in The Charter of Rights",
       "credit": "0.5",
-      "description": "Selected issues in the Canadian Charter of Rights and Freedoms. The topics of this course may vary from year to year, and are announced in advance of registration."
+      "description": "Selected issues in the Canadian Charter of Rights and Freedoms. The topics of this course may vary from year to year, and are announced in advance of registration.",
+      "prerequisites": "(0.5 Credit from LAWS 2105 , LAWS 2201 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3602",
       "name": "International Human Rights",
       "credit": "0.5",
-      "description": "An introduction to the law, theory, and historical context of international human rights. The course examines key doctrinal, theoretical, political, and institutional elements of international human rights law, past and present debates about human rights practices and politics."
+      "description": "An introduction to the law, theory, and historical context of international human rights. The course examines key doctrinal, theoretical, political, and institutional elements of international human rights law, past and present debates about human rights practices and politics.",
+      "prerequisites": "(0.5 credit from LAWS 2105 , LAWS 2502 , LAWS 2601 or HRSJ 2001 ) and 0.5 credit in LAWS at the 2000 level or PAPM 1001 and PSCI 2003 ."
     },
     {
       "code": "LAWS 3604",
       "name": "International Organizations",
       "credit": "0.5",
-      "description": "Nature, character, legal status and jurisdiction of intergovernmental international organizations. Rights and duties of states arising from membership in international organizations. Distinction between international and supra-national institutions. United Nations system, selected subsidiary organs, and specialized agencies; non-governmental organizations at times of crisis."
+      "description": "Nature, character, legal status and jurisdiction of intergovernmental international organizations. Rights and duties of states arising from membership in international organizations. Distinction between international and supra-national institutions. United Nations system, selected subsidiary organs, and specialized agencies; non-governmental organizations at times of crisis.",
+      "prerequisites": "LAWS 2601 and 0.5 credit in LAWS at the 2000 level or PAPM 1001 and PSCI 2003 ."
     },
     {
       "code": "LAWS 3800",
       "name": "Environmental Law",
       "credit": "0.5",
-      "description": "Introduction to theories and practices of environment law, including, international, administrative, civil, criminal, constitutional, and Indigenous aspects; enforcement, compliance, litigation, and law reform; political and socio-economic aspects; market-based and rights-based approaches; environmental justice; critiques grounded in critical theories."
+      "description": "Introduction to theories and practices of environment law, including, international, administrative, civil, criminal, constitutional, and Indigenous aspects; enforcement, compliance, litigation, and law reform; political and socio-economic aspects; market-based and rights-based approaches; environmental justice; critiques grounded in critical theories.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3804",
       "name": "Law of the Family",
       "credit": "0.5",
-      "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes."
+      "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
+      "prerequisites": "LAWS 2201 and LAWS 2202 ."
     },
     {
       "code": "LAWS 3903",
       "name": "Special Topics in Legal Studies",
       "credit": "0.5",
-      "description": "The topics of this course may vary from year to year, and are announced in advance of registration."
+      "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level."
     },
     {
       "code": "LAWS 3904",
       "name": "Special Topics in Legal Studies",
       "credit": "0.5",
-      "description": "The topics of this course may vary from year to year, and are announced in advance of registration."
+      "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
+      "prerequisites": "1.0 credit in LAWS at the 2000-level."
     },
     {
       "code": "LAWS 3908",
       "name": "Methodological Approaches in Legal Studies 2",
       "credit": "0.5",
-      "description": "Advanced approaches to interdisciplinary research and analysis in law and legal studies. Methodological approaches considered will vary by section, and may include theoretical, quantitative, qualitative, literary, or historical approaches."
+      "description": "Advanced approaches to interdisciplinary research and analysis in law and legal studies. Methodological approaches considered will vary by section, and may include theoretical, quantitative, qualitative, literary, or historical approaches.",
+      "prerequisites": "LAWS 2908 and third-year Honours standing. Honours students are strongly encouraged to take this course in the third year of their program."
     },
     {
       "code": "LAWS 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": ""
+      "description": "",
+      "prerequisites": "registration in the B.A. Honours (concentration in Business Law or concentration in Law, Policy and Government) Cooperative Program, completion of Co-op preparation classes offered by the Co-op office and permission of the Department."
     },
     {
       "code": "LAWS 4001",
       "name": "Law, Family and Gender",
       "credit": "0.5",
-      "description": "Relationship between family law and ideology of the family, gender roles and the reproduction of family structures. Social ramifications of family law; potential for family law reform as an agency of social change."
+      "description": "Relationship between family law and ideology of the family, gender roles and the reproduction of family structures. Social ramifications of family law; potential for family law reform as an agency of social change.",
+      "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3001 or LAWS 3804 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4002",
       "name": "Feminist Theories of Law",
       "credit": "0.5",
-      "description": "The literature comprising feminist perspectives on law; theoretical bases of these perspectives; place of feminist theories within other critiques of law; significance of different feminist theories for equality theory and law reform strategies; unique contributions of the various perspectives."
+      "description": "The literature comprising feminist perspectives on law; theoretical bases of these perspectives; place of feminist theories within other critiques of law; significance of different feminist theories for equality theory and law reform strategies; unique contributions of the various perspectives.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4006",
       "name": "Religion and State in Canada",
       "credit": "0.5",
-      "description": "Legal nature of the interaction of religion and state within an historical framework. Emphasis on Canada after the Charter of Rights and Freedoms and on religious pluralism and resistance to state intervention in religion. Interdisciplinary readings drawn from legal, historical and theological sources."
+      "description": "Legal nature of the interaction of religion and state within an historical framework. Emphasis on Canada after the Charter of Rights and Freedoms and on religious pluralism and resistance to state intervention in religion. Interdisciplinary readings drawn from legal, historical and theological sources.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4100",
       "name": "Modern Legal Theory",
       "credit": "0.5",
-      "description": "Realist and post-realist legal scholarship; emphasis on Canadian, American and British approaches. Topics include the Canadian treatise tradition, American legal realism, empirical approaches to legal problems, the sociological movement in law, critical and Canadian feminist legal scholarship, Marxian theories of law, normative economic theory."
+      "description": "Realist and post-realist legal scholarship; emphasis on Canadian, American and British approaches. Topics include the Canadian treatise tradition, American legal realism, empirical approaches to legal problems, the sociological movement in law, critical and Canadian feminist legal scholarship, Marxian theories of law, normative economic theory.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4101",
       "name": "Contemporary Justice Theories",
       "credit": "0.5",
-      "description": "Selected major contemporary theories of justice such as those associated with Rawls, Walzer, and Habermas, with emphasis on both their procedural and substantive elements and their concrete ramifications for law, policy and political practice."
+      "description": "Selected major contemporary theories of justice such as those associated with Rawls, Walzer, and Habermas, with emphasis on both their procedural and substantive elements and their concrete ramifications for law, policy and political practice.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4102",
       "name": "Controversies in Rights Theory",
       "credit": "0.5",
-      "description": "This course examines selected controversies in rights theories, practices, and/or historiography. Illustrative questions may include: Are rights universal or culturally relative? Can rights be justified after the demise of natural rights philosophy? Do rights undermine difference? Do communities benefit from a rights-based culture?."
+      "description": "This course examines selected controversies in rights theories, practices, and/or historiography. Illustrative questions may include: Are rights universal or culturally relative? Can rights be justified after the demise of natural rights philosophy? Do rights undermine difference? Do communities benefit from a rights-based culture?.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4105",
       "name": "Global Justice Theory",
       "credit": "0.5",
-      "description": "Selected theories of global justice as they pertain to legality, which may include questions such as the justice of military force and just war theory, global social justice and global inequality, sovereignty and cosmopolitan conceptions of justice, demands for global democracy and human rights."
+      "description": "Selected theories of global justice as they pertain to legality, which may include questions such as the justice of military force and just war theory, global social justice and global inequality, sovereignty and cosmopolitan conceptions of justice, demands for global democracy and human rights.",
+      "prerequisites": "LAWS 2105 , LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4106",
       "name": "Law and Violence",
       "credit": "0.5",
-      "description": "Examination of how law defines,  justifies,  and addresses individual,  collective and state violence: contemporary and historical case studies; theoretical inquiries into the relationship between law, legality and different forms of violence."
+      "description": "Examination of how law defines,  justifies,  and addresses individual,  collective and state violence: contemporary and historical case studies; theoretical inquiries into the relationship between law, legality and different forms of violence.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4107",
       "name": "Law in Modern Society",
       "credit": "0.5",
-      "description": "Sociological and legal theory accounts of the changing role and function of law in modern society with particular reference to advanced capitalist societies. Topics include: the welfare state and the use of regulatory law; juridification and legalization; counter-trends, deregulation, informalism, legal pluralism."
+      "description": "Sociological and legal theory accounts of the changing role and function of law in modern society with particular reference to advanced capitalist societies. Topics include: the welfare state and the use of regulatory law; juridification and legalization; counter-trends, deregulation, informalism, legal pluralism.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4200",
       "name": "Selected Topics in International Economic Law",
       "credit": "0.5",
-      "description": "Selected topics in international economic law. May include: the legal regulation of international economic activity; methods of dispute settlement; standardization and development of an autonomous international trade law; and selected conventions and institutions governing international economic law."
+      "description": "Selected topics in international economic law. May include: the legal regulation of international economic activity; methods of dispute settlement; standardization and development of an autonomous international trade law; and selected conventions and institutions governing international economic law.",
+      "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3207 or LAWS 3208 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4202",
       "name": "Accountability of Management",
       "credit": "0.5",
-      "description": "Role, function, and legal regulation of persons managing business enterprises. Status, social responsibility, fiduciary obligations and rights. Control and accountability of managers, obligations owed to the enterprise unit itself, constitutional rights of members, standards imposed by statutory regulation."
+      "description": "Role, function, and legal regulation of persons managing business enterprises. Status, social responsibility, fiduciary obligations and rights. Control and accountability of managers, obligations owed to the enterprise unit itself, constitutional rights of members, standards imposed by statutory regulation.",
+      "prerequisites": "LAWS 2908 , LAWS 3201 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4204",
       "name": "Legal Issues in eCommerce",
       "credit": "0.5",
-      "description": "An examination of selected legal topics relevant to the conduct of electronic commerce. Topics include types of regulation, government support, jurisdiction challenges, contract disputes and consumer protection. Court and alternative dispute resolution policy of Domain Names challenges are also included."
+      "description": "An examination of selected legal topics relevant to the conduct of electronic commerce. Topics include types of regulation, government support, jurisdiction challenges, contract disputes and consumer protection. Court and alternative dispute resolution policy of Domain Names challenges are also included.",
+      "prerequisites": "LAWS 2908 , LAWS 2201 , LAWS 2202 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4209",
       "name": "Selected Topics in Business Law",
       "credit": "0.5",
-      "description": "Examination of a selected advanced topic in business law. The topics of this course may vary from year to year and are announced in advance of registration."
+      "description": "Examination of a selected advanced topic in business law. The topics of this course may vary from year to year and are announced in advance of registration.",
+      "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 2201 or LAWS 2202 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4302",
-      "name": "Regulation of Corporate Crime",
+      "name": "Regulation of Corporate Crime and Misconduct",
       "credit": "0.5",
-      "description": "Legal, policy and theoretical perspectives on the regulation of corporate crime. Nature and causes of corporate crime. Selected case studies on the role of the state in regulating corporate behaviour. Failure of the criminal justice system to respond to corporate crime."
+      "description": "Legal, policy and theoretical perspectives on the regulation of corporate crime. Nature and causes of corporate crime and corporate misconduct. Selected case studies on the role of the state in regulating corporate behaviour and the criminal justice system\u2019s response to corporate crime.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4303",
       "name": "Drugs, The User and The State",
       "credit": "0.5",
-      "description": "This course explores the state's attempts to control drugs and drug users by exploring different aspects of national and international drug control. The Canadian experience of drug control, viewed from different perspectives, will be explored within a broader socio-legal context."
+      "description": "This course explores the state's attempts to control drugs and drug users by exploring different aspects of national and international drug control. The Canadian experience of drug control, viewed from different perspectives, will be explored within a broader socio-legal context.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 , and 0.5 credit from LAWS 2301 or LAWS 2302 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4304",
       "name": "Policing and Social Surveillance",
       "credit": "0.5",
-      "description": "Theoretical consideration of the emergence and transformation of \u201cpolicing\u201d activities through an examination of law and changes in social relations, with  special attention to the myriad agencies involved in contemporary security provision. Evolving notions of risk, surveillance, the state, and the private-public dichotomy."
+      "description": "Theoretical consideration of the emergence and transformation of \u201cpolicing\u201d activities through an examination of law and changes in social relations, with  special attention to the myriad agencies involved in contemporary security provision. Evolving notions of risk, surveillance, the state, and the private-public dichotomy.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 , and 0.5 credit from LAWS 2301 or LAWS 2302 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4305",
       "name": "Criminal Justice Reform",
       "credit": "0.5",
-      "description": "Social transformation and criminal justice reform. Theoretical and practical reasons for the use of criminal law as an instrument of social control. Specific reform initiatives and processes. Alternate responses to social problems."
+      "description": "Social transformation and criminal justice reform. Theoretical and practical reasons for the use of criminal law as an instrument of social control. Specific reform initiatives and processes. Alternate responses to social problems.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4306",
       "name": "Selected Topics in Criminal Law Issues",
       "credit": "0.5",
-      "description": "Selected issues and problems in the area of criminal law. The topics may vary from year to year depending on demand and interest and are announced in advance of registration."
+      "description": "Selected issues and problems in the area of criminal law. The topics may vary from year to year depending on demand and interest and are announced in advance of registration.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4307",
       "name": "Medical Criminal Law Issues",
       "credit": "0.5",
-      "description": "Legal-medical issues, conflicts and relationships in the field of social control. Topics include mental disorder and criminal liability, diversion of offenders to civil commitment in hospital, insanity, automatism, fitness to stand trial, prediction of dangerousness, regulation of psychoactive drugs."
+      "description": "Legal-medical issues, conflicts and relationships in the field of social control. Topics include mental disorder and criminal liability, diversion of offenders to civil commitment in hospital, insanity, automatism, fitness to stand trial, prediction of dangerousness, regulation of psychoactive drugs.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4308",
       "name": "Sentencing",
       "credit": "0.5",
-      "description": "Theories of sentencing, current sentencing laws and practices, perceptions of sentencing. Data on sentencing practice across Canada. Reforms in other jurisdictions. Critical review of the Canadian Sentencing Commission. Multidisciplinary approach using research and theory in law, criminology, social psychology and sociology."
+      "description": "Theories of sentencing, current sentencing laws and practices, perceptions of sentencing. Data on sentencing practice across Canada. Reforms in other jurisdictions. Critical review of the Canadian Sentencing Commission. Multidisciplinary approach using research and theory in law, criminology, social psychology and sociology.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4309",
       "name": "State Security and Dissent",
       "credit": "0.5",
-      "description": "Historical and contemporary analysis of legal responses of Canadian governments to dissent, political opposition, insurrection, etc. Includes trial of political offences (treason, sedition, riot), national security measures (War Measures/Emergencies Act, Official Secrets Act), and other special powers (police, labour, immigration, parliamentary privilege, etc.)."
+      "description": "Historical and contemporary analysis of legal responses of Canadian governments to dissent, political opposition, insurrection, etc. Includes trial of political offences (treason, sedition, riot), national security measures (War Measures/Emergencies Act, Official Secrets Act), and other special powers (police, labour, immigration, parliamentary privilege, etc.).",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and 0.5 credit from LAWS 3305 , LAWS 3503 , LAWS 3509 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4311",
       "name": "Human Rights in Canadian Prisons",
       "credit": "0.5",
-      "description": "Correctional law in the Canadian criminal justice system; competing objectives of punishment and rehabilitation in the context of respect for the rule of law and human rights; protection of human rights of prisoners in Canada and in in international and comparative contexts."
+      "description": "Correctional law in the Canadian criminal justice system; competing objectives of punishment and rehabilitation in the context of respect for the rule of law and human rights; protection of human rights of prisoners in Canada and in in international and comparative contexts.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4402",
       "name": "Employment Dispute Resolution",
       "credit": "0.5",
-      "description": "Theory and practice of dispute resolution in employment relations; analysis of such techniques as negotiation, grievance and interest arbitration, mediation, investigation and litigation applied to a range of employment disputes such as collective agreements, termination of employment, discrimination, harassment, occupational health and safety,."
+      "description": "Theory and practice of dispute resolution in employment relations; analysis of such techniques as negotiation, grievance and interest arbitration, mediation, investigation and litigation applied to a range of employment disputes such as collective agreements, termination of employment, discrimination, harassment, occupational health and safety.",
+      "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3006 , LAWS 3401 , LAWS 3405 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4503",
       "name": "Law, Disability and Society",
       "credit": "0.5",
-      "description": "Exploration of the ways in which law promotes or hinders the inclusion of disabled persons in society.  Consideration of different theories of 'disability' and the creation of barriers faced by disabled persons. Topics may include barriers affecting education, employment, transportation, benefits, and life/death decisions."
+      "description": "Exploration of the ways in which law promotes or hinders the inclusion of disabled persons in society.  Consideration of different theories of 'disability' and the creation of barriers faced by disabled persons. Topics may include barriers affecting education, employment, transportation, benefits, and life/death decisions.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4504",
       "name": "Indigenous Criminal Justice",
       "credit": "0.5",
-      "description": "Indigenous peoples and the administration of Canadian criminal justice including policing, courts, corrections and aftercare. Content and effects of past and present policies, processes and laws. Alternatives such as self-government and self-determination; potential approaches to an appropriate justice system for Indigenous peoples."
+      "description": "Indigenous peoples and the administration of Canadian criminal justice including policing, courts, corrections and aftercare. Content and effects of past and present policies, processes and laws. Alternatives such as self-government and self-determination; potential approaches to an appropriate justice system for Indigenous peoples.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4510",
       "name": "Selected Topics in Law, Policy and Government",
       "credit": "0.5",
-      "description": "Examination of a selected advanced topic in the area of law, policy and government. The topics of this course may vary from year to year and are announced in advance of registration."
+      "description": "Examination of a selected advanced topic in the area of law, policy and government. The topics of this course may vary from year to year and are announced in advance of registration.",
+      "prerequisites": "LAWS 2501 , LAWS 2502 , LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4601",
       "name": "Transnational Law and Human Rights",
       "credit": "0.5",
-      "description": "Examination of the role of law in addressing human rights issues that transcend traditional categories of domestic and international law; the potential and limits of law in addressing human rights issues; the growth of transnational approaches to law and human rights."
+      "description": "Examination of the role of law in addressing human rights issues that transcend traditional categories of domestic and international law; the potential and limits of law in addressing human rights issues; the growth of transnational approaches to law and human rights.",
+      "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3503 or LAWS 3602 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4602",
       "name": "Is Religious Freedom a Human Right?",
       "credit": "0.5",
-      "description": "Legal, theoretical, and theological interconnections between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommodation and neutrality. Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies."
+      "description": "Legal, theoretical, and theological interconnections between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommodation and neutrality. Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
+      "prerequisites": "LAWS 2908 , LAWS 3602 , and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4603",
       "name": "Transitional Justice",
       "credit": "0.5",
-      "description": "Legal and ethical responses to human rights violations in the transition to democracy. Dilemmas of the rule of law; truth and reconciliation; prosecution and punishment; amnesty; retribution and revenge; restorative justice; administrative remedy; reparations; International case studies. Theoretical arguments about justice in context of country."
+      "description": "Legal and ethical responses to human rights violations in the transition to democracy. Dilemmas of the rule of law; truth and reconciliation; prosecution and punishment; amnesty; retribution and revenge; restorative justice; administrative remedy; reparations; International case studies. Theoretical arguments about justice in context of country.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4605",
       "name": "Selected Topics in International Law",
       "credit": "0.5",
-      "description": "Topics vary from year to year and are announced in advance. May include transnational environmental issues; the international law of armed conflict, peacekeeping and neutrality; the law of international treaties and transnational agreements; state responsibility under international law."
+      "description": "Topics vary from year to year and are announced in advance. May include transnational environmental issues; the international law of armed conflict, peacekeeping and neutrality; the law of international treaties and transnational agreements; state responsibility under international law.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4606",
       "name": "International Law of Armed Conflict",
       "credit": "0.5",
-      "description": "UN Charter prohibition of the use of force. Exceptional, permissible uses of armed force. Role of Security Council in determining legality of armed intervention. Collective security, peacemaking, peacekeeping, neutrality, prohibited means of warfare. Humanitarian International Law, Geneva Red Cross Conventions, war crimes, International Criminal Court."
+      "description": "UN Charter prohibition of the use of force. Exceptional, permissible uses of armed force. Role of Security Council in determining legality of armed intervention. Collective security, peacemaking, peacekeeping, neutrality, prohibited means of warfare. Humanitarian International Law, Geneva Red Cross Conventions, war crimes, International Criminal Court.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4607",
       "name": "Immigration and Refugee Law",
       "credit": "0.5",
-      "description": "Immigrants and refugees; demographics; Canadian, international and human rights law and policy. The Canadian Immigration Act. Legal and social problems including entry and removal, family reunion, citizenship, remedies, the rights of clandestine migrants; settlement rights; non-discrimination; asylum; a nation's right to determine membership."
+      "description": "Immigrants and refugees; demographics; Canadian, international and human rights law and policy. The Canadian Immigration Act. Legal and social problems including entry and removal, family reunion, citizenship, remedies, the rights of clandestine migrants; settlement rights; non-discrimination; asylum; a nation's right to determine membership.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2502 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4610",
       "name": "Selected Topics in Transnational Law and Human Rights",
       "credit": "0.5",
-      "description": "Examination of a selected advanced topic in the area of transnational law and human rights. The topics of this course may vary from year to year and are announced in advance of registration."
+      "description": "Examination of a selected advanced topic in the area of transnational law and human rights. The topics of this course may vary from year to year and are announced in advance of registration.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4702",
       "name": "Special Topic in Criminal Justice and Social Policy",
       "credit": "0.5",
-      "description": "Examination of a selected topic in criminal justice and social policy. Topics to be announced."
+      "description": "Examination of a selected topic in criminal justice and social policy. Topics to be announced.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4800",
       "name": "Environment and Social Justice",
       "credit": "0.5",
-      "description": "The potential of environmental law to protect the environment and people while promoting opportunities for informed participation in environmental decision making by groups traditionally excluded from these processes; contemporary issues of social justice raised by legal regulation of the environment."
+      "description": "The potential of environmental law to protect the environment and people while promoting opportunities for informed participation in environmental decision making by groups traditionally excluded from these processes; contemporary issues of social justice raised by legal regulation of the environment.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4801",
       "name": "Risk and the Legal Process",
       "credit": "0.5",
-      "description": "Application of risk assessment and management in various legal arenas including insurance, liability and tort, litigation management, environmental protection, and sentencing and parole."
+      "description": "Application of risk assessment and management in various legal arenas including insurance, liability and tort, litigation management, environmental protection, and sentencing and parole.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4802",
       "name": "Criminal Jury Trials",
       "credit": "0.5",
-      "description": "Critical analysis of the criminal jury system including its history and context, the role of the judge, jury dynamics and jury composition. Perspectives and roles of the accused, victims, police, defence counsel, Crown attorney, judges, juries, media, politicians and the public."
+      "description": "Critical analysis of the criminal jury system including its history and context, the role of the judge, jury dynamics and jury composition. Perspectives and roles of the accused, victims, police, defence counsel, Crown attorney, judges, juries, media, politicians and the public.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4901",
       "name": "Tutorial in Law",
       "credit": "0.5",
-      "description": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department)."
+      "description": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department).",
+      "prerequisites": "LAWS 3908 , fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor."
     },
     {
       "code": "LAWS 4902",
       "name": "Tutorial in Law",
       "credit": "0.5",
-      "description": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department)."
+      "description": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department).",
+      "prerequisites": "LAWS 3908 , fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor."
     },
     {
       "code": "LAWS 4903",
       "name": "Advanced Special Topics in Legal Studies",
       "credit": "0.5",
-      "description": "The topics of this course vary from year to year and are announced in advance of registration."
+      "description": "The topics of this course vary from year to year and are announced in advance of registration.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4904",
       "name": "Advanced Special Topics in Legal Studies",
       "credit": "0.5",
-      "description": "The topics of this course vary from year to year and are announced in advance of registration."
+      "description": "The topics of this course vary from year to year and are announced in advance of registration.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing."
     },
     {
       "code": "LAWS 4905",
       "name": "Full-Year Service Learning Placement",
       "credit": "1.0",
-      "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department)."
+      "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
+      "prerequisites": "LAWS 2908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization."
     },
     {
       "code": "LAWS 4906",
       "name": "Service Learning Placement",
       "credit": "0.5",
-      "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department)."
+      "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
+      "prerequisites": "LAWS 2908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization."
     },
     {
       "code": "LAWS 4907",
       "name": "Service Learning Placement",
       "credit": "0.5",
-      "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department)."
+      "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
+      "prerequisites": "LAWS 2908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization."
     },
     {
       "code": "LAWS 4908",
       "name": "Honours Paper",
       "credit": "1.0",
-      "description": "Students in the BA Honours Law program may write an Honours paper under the supervision of a faculty member of the Department of Law (guidelines are posted by the Department). Students intending to undertake graduate studies are encouraged to complete an Honours paper."
+      "description": "Students in the BA Honours Law program may write an Honours paper under the supervision of a faculty member of the Department of Law (guidelines are posted by the Department). Students intending to undertake graduate studies are encouraged to complete an Honours paper.",
+      "prerequisites": "LAWS 3908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher and written acceptance by a faculty member."
     }
   ],
   "free_electives": [
@@ -590,13 +676,13 @@
       "type": "requirement",
       "degree": "Law with Concentration in Business Law B.A. Honours (20.0 credits)",
       "credits": "2.5",
-      "text": "12.  2.5 credits in free electives 2.5"
+      "text": "13.  2.5 credits in free electives 2.5"
     },
     {
       "type": "requirement",
       "degree": "Law with Concentration in Business Law B.A. Combined Honours (20.0 credits)",
       "credits": "",
-      "text": "10.  Sufficient free electives to make up 20.0 credits total for the program"
+      "text": "12.  Sufficient free electives to make up 20.0 credits total for the program"
     },
     {
       "type": "requirement",

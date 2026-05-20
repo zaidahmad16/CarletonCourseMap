@@ -6,865 +6,1002 @@
       "code": "ENGL 1002",
       "name": "Writing and Language I",
       "credit": "0.5",
-      "description": "The first half of an introduction to the principles, styles, and structures of effective writing, including essay writing. Course offered only in Nunavut as part of Certificate in Nunavut Public Service Studies Program."
+      "description": "The first half of an introduction to the principles, styles, and structures of effective writing, including essay writing. Course offered only in Nunavut as part of Certificate in Nunavut Public Service Studies Program.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1003",
       "name": "Writing and Language II",
       "credit": "0.5",
-      "description": "The second half of an introduction to the principles, styles, and structures of effective writing, including essay writing. Course offered only in Nunavut as part of Certificate in Nunavut Public Service Studies Program."
+      "description": "The second half of an introduction to the principles, styles, and structures of effective writing, including essay writing. Course offered only in Nunavut as part of Certificate in Nunavut Public Service Studies Program.",
+      "prerequisites": "ENGL 1002 ."
     },
     {
       "code": "ENGL 1008",
       "name": "English Grammar: Fundamentals",
       "credit": "0.5",
-      "description": "A practical and intensive overview of English grammar designed for students who want to improve their understanding of grammar for their own writing and reading. This is not an ESL course."
+      "description": "A practical and intensive overview of English grammar designed for students who want to improve their understanding of grammar for their own writing and reading. This is not an ESL course.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1009",
       "name": "Literature in Global Context",
       "credit": "0.5",
-      "description": "Introduction to the study of literature from a global perspective. Students will be exposed to writers from various locations and to methods for studying literature across national boundaries."
+      "description": "Introduction to the study of literature from a global perspective. Students will be exposed to writers from various locations and to methods for studying literature across national boundaries.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1010",
       "name": "Writing Essays about Literature",
       "credit": "0.5",
-      "description": "An intensive writing course focusing on the formulation and construction of a literary essay."
+      "description": "An intensive writing course focusing on the formulation and construction of a literary essay.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1020",
       "name": "Effective Writing",
       "credit": "0.5",
-      "description": "The rhetorical principles, skills, and structures necessary for the kind of writing done at the university level. Clear and effective composition as a mode of research, discovery, analysis, and persuasion. Students pursuing the English major or minor should take instead of ."
+      "description": "The rhetorical principles, skills, and structures necessary for the kind of writing done at the university level. Clear and effective composition as a mode of research, discovery, analysis, and persuasion. Students pursuing the English major or minor should take instead of .",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1100",
       "name": "Literature, Law, and Criminality",
       "credit": "0.5",
-      "description": "An introductory course whose readings focus on the intersections between literature, law, and criminality.  Topics will vary.  Consult the English Department website for the current topic."
+      "description": "An introductory course whose readings focus on the intersections between literature, law, and criminality.  Topics will vary.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1200",
       "name": "Literature, Science, and Technology",
       "credit": "0.5",
-      "description": "An introductory course whose readings focus on the intersections between literature, science, and technology.  Topics will vary.  Consult the English Department website for the current topic."
+      "description": "An introductory course whose readings focus on the intersections between literature, science, and technology.  Topics will vary.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1300",
       "name": "Literature, Psychology, and the Mind",
       "credit": "0.5",
-      "description": "An introductory course whose readings focus on the intersections between literature, psychology, and the mind.  Topics will vary.  Consult the English Department website for the current topic."
+      "description": "An introductory course whose readings focus on the intersections between literature, psychology, and the mind.  Topics will vary.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1400",
       "name": "Literature, Art, and Culture",
       "credit": "0.5",
-      "description": "An introductory course whose readings focus on the intersections between literature, art, and culture. Topics will vary. Consult the English Department website for the current topic."
+      "description": "An introductory course whose readings focus on the intersections between literature, art, and culture. Topics will vary.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1500",
       "name": "Introduction to Creative Writing",
       "credit": "0.5",
-      "description": "An introduction to the practice of creative writing, focusing on poetry, the short story, creative non-fiction, and drama. Emphasis is also placed on contextualizing creative writing as an academic discipline, a mode of self-expression, and a professional industry."
+      "description": "An introduction to the practice of creative writing, focusing on poetry, the short story, creative non-fiction, and drama. Emphasis is also placed on contextualizing creative writing as an academic discipline, a mode of self-expression, and a professional industry.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1600",
       "name": "Literature and Magic",
       "credit": "0.5",
-      "description": "An introductory course whose readings focus on the intersections between literature and magic.  Topics will vary.  Consult the English Department website for the current topic."
+      "description": "An introductory course whose readings focus on the intersections between literature and magic.  Topics will vary.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1609",
       "name": "Introduction to Drama Studies",
       "credit": "0.5",
-      "description": "An introduction to drama studies, combining attention to theatre history, conventions, and devices, with attention to theatrical practice, and interpretation of selected dramatic texts. Students will develop a vocabulary for speaking and writing with confidence about theatrical productions, theatre practice, and dramatic texts."
+      "description": "An introduction to drama studies, combining attention to theatre history, conventions, and devices, with attention to theatrical practice, and interpretation of selected dramatic texts. Students will develop a vocabulary for speaking and writing with confidence about theatrical productions, theatre practice, and dramatic texts.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 1700",
       "name": "Climate Change and the Humanities",
       "credit": "0.5",
-      "description": "An introduction to literature and culture in the context of the environmental humanities and climate change."
+      "description": "An introduction to literature and culture in the context of the environmental humanities and climate change.  Topics will vary.",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 2005",
       "name": "Theory and Criticism",
       "credit": "0.5",
-      "description": "An introduction to theories and methods of literary analysis. Through the study of literature, theory, and criticism, students will explore disciplinary history, critical terms, textual analysis, and research methods."
+      "description": "An introduction to theories and methods of literary analysis. Through the study of literature, theory, and criticism, students will explore disciplinary history, critical terms, textual analysis, and research methods.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2008",
       "name": "Myth and Symbol",
       "credit": "1.0",
-      "description": "A literary study of myths and symbols from oral traditions to contemporary forms through selected interdisciplinary and  theoretical approaches."
+      "description": "A literary study of myths and symbols from oral traditions to contemporary forms through selected interdisciplinary and  theoretical approaches.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2011",
       "name": "Children's Literature",
       "credit": "0.5",
-      "description": "An introduction of the critical study of children\u2019s literature."
+      "description": "An introduction of the critical study of children\u2019s literature.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2012",
       "name": "Greek and Roman Epic",
       "credit": "0.5",
-      "description": "An examination of the genre of epic in Greco-Roman antiquity, including a close reading of translations of Homer and Vergil."
+      "description": "An examination of the genre of epic in Greco-Roman antiquity, including a close reading of translations of Homer and Vergil.",
+      "prerequisites": "second year standing or permission of the unit."
     },
     {
       "code": "ENGL 2100",
       "name": "Topics in Popular Culture",
       "credit": "0.5",
-      "description": "Study of a selected topic related to popular culture."
+      "description": "Study of a selected topic related to popular culture.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2103",
       "name": "Introduction to the Novel",
       "credit": "0.5",
-      "description": "A historical and critical study of the novel."
+      "description": "A historical and critical study of the novel.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2104",
       "name": "Drama Workshop",
       "credit": "0.5",
-      "description": "A course dealing with the rudiments of theatrical performance: voice, movement, improvisation, interpretation. Exercises are based upon examples drawn from classical and contemporary repertoires."
+      "description": "A course dealing with the rudiments of theatrical performance: voice, movement, improvisation, interpretation. Exercises are based upon examples drawn from classical and contemporary repertoires.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2105",
       "name": "History of the English Language",
       "credit": "0.5",
-      "description": "A historical study of the English language, its structure, variety, and cultural contexts, with an introduction to grammatical terminology and constructions."
+      "description": "A historical study of the English language, its structure, variety, and cultural contexts, with an introduction to grammatical terminology and constructions.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2106",
       "name": "Topics in Popular Fiction",
       "credit": "0.5",
-      "description": "An introduction to the critical study of popular fiction. Topics will vary but may include popular narrative forms such as fantasy, horror, mystery, romance, Young Adult (YA) fiction, etc."
+      "description": "An introduction to the critical study of popular fiction. Topics will vary but may include popular narrative forms such as fantasy, horror, mystery, romance, Young Adult (YA) fiction, etc.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2107",
       "name": "Science Fiction",
       "credit": "0.5",
-      "description": "A study of the history and traditions of science fiction, speculative fiction, fantasy, and utopia, covering various periods, nationalities, genres, and/or media."
+      "description": "A study of the history and traditions of science fiction, speculative fiction, fantasy, and utopia, covering various periods, nationalities, genres, and/or media.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2108",
       "name": "Women and Literature",
       "credit": "0.5",
-      "description": "Representations of women and the construction of femininity in selected literary texts, the position of women as readers and authors, and the impact of feminist criticism on literary analysis."
+      "description": "Representations of women and the construction of femininity in selected literary texts, the position of women as readers and authors, and the impact of feminist criticism on literary analysis.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2109",
       "name": "Gender, Sexuality and Literature",
       "credit": "0.5",
-      "description": "How literature represents, reproduces, and resists cultural notions of gender and sexuality. Topics may include: gender and sexuality in relation to literary history, production, and reception; literature by/about \u201cdeviant\u201d or subcultural sexualities and genders."
+      "description": "How literature represents, reproduces, and resists cultural notions of gender and sexuality. Topics may include: gender and sexuality in relation to literary history, production, and reception; literature by/about \u201cdeviant\u201d or subcultural sexualities and genders.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2200",
       "name": "Creativity, Imagination, and Writing",
       "credit": "0.5",
-      "description": "This course not only surveys theories about the imagination and creativity but also teaches various rhetorical exercises and strategies for sparking inventive thinking and new ideas to fire the writing process.  Consult the English Department's website for detailed information."
+      "description": "This course not only surveys theories about the imagination and creativity but also teaches various rhetorical exercises and strategies for sparking inventive thinking and new ideas to fire the writing process.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2201",
       "name": "The Pleasures of Reading",
       "credit": "0.5",
-      "description": "This course introduces majors and non-majors to a selection of known and unknown \"masterpieces.\"  Texts may be grouped to explore specific themes.  Requirements include a variety of assignments but no formal essay.  Consult the English Department's website for detailed information."
+      "description": "This course introduces majors and non-majors to a selection of known and unknown \"masterpieces.\"  Texts may be grouped to explore specific themes.  Requirements include a variety of assignments but no formal essay.",
+      "prerequisites": "second-year standing or permission of the department. Students in English may take this course only as a free elective."
     },
     {
       "code": "ENGL 2202",
       "name": "Weird Fiction",
       "credit": "0.5",
-      "description": "Introduction to a sub-category of speculative fiction that spans from traditional ghost stories and tales of the macabre to the \u201cNew Weird\u201d: contemporary writing that overthrows the clich\u00e9s, conventions, and expectations of fantasy, horror, and science fiction."
+      "description": "Introduction to a sub-category of speculative fiction that spans from traditional ghost stories and tales of the macabre to the \u201cNew Weird\u201d: contemporary writing that overthrows the clich\u00e9s, conventions, and expectations of fantasy, horror, and science fiction.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2301",
       "name": "Literatures and Cultures 500-1500",
       "credit": "0.5",
-      "description": "A study of the period between 500 and 1500, with attention to cultural, historical, geographical, and literary contexts."
+      "description": "A study of the period between 500 and 1500, with attention to cultural, historical, geographical, and literary contexts.",
+      "prerequisites": "Second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2302",
       "name": "Literatures and Cultures 1500-1700",
       "credit": "0.5",
-      "description": "A study of the period between 1500 and 1700, with attention to cultural, historical, geographical, and literary contexts."
+      "description": "A study of the period between 1500 and 1700, with attention to cultural, historical, geographical, and literary contexts.",
+      "prerequisites": "Second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2400",
       "name": "Introduction to Digital Humanities",
       "credit": "0.5",
-      "description": "An introduction to the principal debates in and approaches to the Digital Humanities."
+      "description": "An introduction to the principal debates in and approaches to the Digital Humanities.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2401",
       "name": "Digital Humanities:  Theory and Method",
       "credit": "0.5",
-      "description": "A multidisciplinary survey of core theories, methodologies and tools within the Digital Humanities. Assignments will include collaborative work and applied projects."
+      "description": "A multidisciplinary survey of core theories, methodologies and tools within the Digital Humanities. Assignments will include collaborative work and applied projects.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2500",
       "name": "Classical Mythology",
       "credit": "0.5",
-      "description": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth."
+      "description": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth.",
+      "prerequisites": "second-year standing or permission of the unit."
     },
     {
       "code": "ENGL 2600",
       "name": "History of World Cinema I",
       "credit": "0.5",
-      "description": "Historical survey of world cinema primarily from 1895 to 1945, examining the forms, structures and stylistic conventions of various periods and nations."
+      "description": "Historical survey of world cinema primarily from 1895 to 1945, examining the forms, structures and stylistic conventions of various periods and nations.",
+      "prerequisites": "FILM 1101 or FILM 1120 or a 1000-level English course, and second-year standing, or permission of the discipline."
     },
     {
       "code": "ENGL 2601",
       "name": "History of World Cinema II",
       "credit": "0.5",
-      "description": "Historical survey of world cinema primarily since 1945, examining the forms, structures and stylistic conventions of various periods and nations."
+      "description": "Historical survey of world cinema primarily since 1945, examining the forms, structures and stylistic conventions of various periods and nations.",
+      "prerequisites": "ENGL 2600 or FILM 2606 or permission of the department."
     },
     {
       "code": "ENGL 2605",
       "name": "Greek and Roman Drama",
       "credit": "0.5",
-      "description": "An examination of the genres of tragedy and comedy in Greco-Roman antiquity."
+      "description": "An examination of the genres of tragedy and comedy in Greco-Roman antiquity.",
+      "prerequisites": "second year standing or permission of the unit."
     },
     {
       "code": "ENGL 2609",
       "name": "Drama: Modes and Movements",
       "credit": "0.5",
-      "description": "A study of dramatic texts and traditions, offering attention to major dramatic modes and movements such as Ritual, Dance, Naturalism, Expressionism, Absurdism, Political Theatre, Feminist Theatre, and Global/Intercultural Theatre. Each will be investigated in the context of performance videos, live performances, and/or written text."
+      "description": "A study of dramatic texts and traditions, offering attention to major dramatic modes and movements such as Ritual, Dance, Naturalism, Expressionism, Absurdism, Political Theatre, Feminist Theatre, and Global/Intercultural Theatre. Each will be investigated in the context of performance videos, live performances, and/or written text.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2700",
       "name": "American Literatures I",
       "credit": "0.5",
-      "description": "Introduction to the traditions of American literature through 1865."
+      "description": "Introduction to the traditions of American literature through 1865.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2701",
       "name": "American Literatures II",
       "credit": "0.5",
-      "description": "Introduction to the traditions of American literature after 1865."
+      "description": "Introduction to the traditions of American literature after 1865.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2709",
       "name": "Indigenous Drama",
       "credit": "0.5",
-      "description": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors, and other practitioners."
+      "description": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors, and other practitioners.",
+      "prerequisites": "second-year standing, or permission of the Department."
     },
     {
       "code": "ENGL 2730",
       "name": "Culture and Climate Change",
       "credit": "0.5",
-      "description": "Selected topics related to climate change and cultural studies."
+      "description": "Selected topics related to climate change and cultural studies.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2802",
       "name": "Indigenous and Canadian Literatures",
       "credit": "1.0",
-      "description": "A survey of  Canadian literary cultures in English from their beginnings to the present that frames them in the wider context of Indigenous writing and storytelling. This course is writing-attentive."
+      "description": "A survey of  Canadian literary cultures in English from their beginnings to the present that frames them in the wider context of Indigenous writing and storytelling. This course is writing-attentive.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2900",
       "name": "Literature of the Self",
       "credit": "0.5",
-      "description": "A study of developments in the literary representation of the self. The course considers a wide range of major texts from the Middle Ages to the present."
+      "description": "A study of developments in the literary representation of the self. The course considers a wide range of major texts from the Middle Ages to the present.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2901",
       "name": "Writing Poetry",
       "credit": "0.5",
-      "description": "A workshop involving regular assignments in writing poetry and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english."
+      "description": "A workshop involving regular assignments in writing poetry and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english.",
+      "prerequisites": "permission of the department."
     },
     {
       "code": "ENGL 2903",
       "name": "Writing Fiction",
       "credit": "0.5",
-      "description": "A workshop involving regular assignments in writing prose fiction and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english."
+      "description": "A workshop involving regular assignments in writing prose fiction and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english.",
+      "prerequisites": "permission of the department."
     },
     {
       "code": "ENGL 2906",
       "name": "Culture and Society",
       "credit": "0.5",
-      "description": "A study of literature in relation to its social and political contexts. Topics and periods vary."
+      "description": "A study of literature in relation to its social and political contexts. Topics and periods vary.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2908",
       "name": "Celtic Literatures",
       "credit": "0.5",
-      "description": "The literatures of Ireland, Scotland, and/or Wales. Topics will vary in national and historical scope and may be organized by theme, author, and/or genre."
+      "description": "The literatures of Ireland, Scotland, and/or Wales. Topics will vary in national and historical scope and may be organized by theme, author, and/or genre.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2910",
       "name": "Book Arts Workshop",
       "credit": "0.5",
-      "description": "This experiential learning course immerses students in the practical arts and histories of book production."
+      "description": "This experiential learning course immerses students in the practical arts and histories of book production.",
+      "prerequisites": "second-year standing or permission of the department."
+    },
+    {
+      "code": "ENGL 2914",
+      "name": "Special Topics in Writing",
+      "credit": "0.5",
+      "description": "A workshop involving regular creative writing assignments and practical criticism based on this work. May include a lecture component. Topics will vary. Permission to register requires students to submit a writing sample. Includes: Experiential Learning Activity.",
+      "prerequisites": "permission of the department."
     },
     {
       "code": "ENGL 2915",
       "name": "Writing Creative Nonfiction",
       "credit": "0.5",
-      "description": "A workshop involving regular assignments in reading and writing creative nonfiction and practical criticism based on this work.  Permission to register in this course requires the student to submit a writing sample.  Instructions can be found at carleton.ca/english."
+      "description": "A workshop involving regular assignments in reading and writing creative nonfiction and practical criticism based on this work.  Permission to register in this course requires the student to submit a writing sample.  Instructions can be found at carleton.ca/english.",
+      "prerequisites": "permission of the department."
     },
     {
       "code": "ENGL 2920",
       "name": "Topics in Decolonization and Migration I",
       "credit": "0.5",
-      "description": "An introduction to the study of literature and culture in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary."
+      "description": "An introduction to the study of literature and culture in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary.",
+      "prerequisites": "Second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2926",
       "name": "African Literatures I",
       "credit": "0.5",
-      "description": "An introductory survey of modern African literatures, discourses, and cultural production in the first half of the 20th century."
+      "description": "An introductory survey of modern African literatures, discourses, and cultural production in the first half of the 20th century.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2927",
       "name": "African Literatures II",
       "credit": "0.5",
-      "description": "A survey of modern African literatures, discourses, and cultural production from the era of political independence from colonialism (the 1960s) to the present."
+      "description": "A survey of modern African literatures, discourses, and cultural production from the era of political independence from colonialism (the 1960s) to the present.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2936",
       "name": "South Asian Literatures I",
       "credit": "0.5",
-      "description": "An introductory historical survey of the literatures of South Asia to the early colonial era, starting with the Indian epics and concluding with literary traditions of 18th-century India."
+      "description": "An introductory historical survey of the literatures of South Asia to the early colonial era, starting with the Indian epics and concluding with literary traditions of 18th-century India.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2937",
       "name": "South Asian Literatures II",
       "credit": "0.5",
-      "description": "An introductory survey of literatures of South Asia from the colonial and postcolonial eras.  Topics include the nationalist movement, neo-colonialism, and post-colonialism."
+      "description": "An introductory survey of literatures of South Asia from the colonial and postcolonial eras.  Topics include the nationalist movement, neo-colonialism, and post-colonialism.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2956",
       "name": "Literatures of the Americas I",
       "credit": "0.5",
-      "description": "Introduction to comparative and transnational approaches to the literatures and oratures of the Caribbean, and North and South America, with emphasis on the pre-colonial and colonial eras."
+      "description": "Introduction to comparative and transnational approaches to the literatures and oratures of the Caribbean, and North and South America, with emphasis on the pre-colonial and colonial eras.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 2957",
       "name": "Literatures of the Americas II",
       "credit": "0.5",
-      "description": "Introduction to comparative and transnational approaches to 20th- and 21st-century writing from the Caribbean, and North and South America."
+      "description": "Introduction to comparative and transnational approaches to 20th- and 21st-century writing from the Caribbean, and North and South America.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "ENGL 3003",
       "name": "Literatures in Translation",
       "credit": "0.5",
-      "description": "A study of non-English literatures in translation with a special focus on cultural and historical contexts."
+      "description": "A study of non-English literatures in translation with a special focus on cultural and historical contexts.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3007",
       "name": "Reading Poetry",
       "credit": "0.5",
-      "description": "This course is designed to enable students to develop skills in reading and writing about poetry. Readings will be chosen from a variety of authors, periods, and/or genres."
+      "description": "This course is designed to enable students to develop skills in reading and writing about poetry. Readings will be chosen from a variety of authors, periods, and/or genres.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3008",
       "name": "Studies in Greek Literature",
       "credit": "0.5",
-      "description": "A study of an author or topic in Greek literature. Contents of this course vary from year to year."
+      "description": "A study of an author or topic in Greek literature. Contents of this course vary from year to year.",
+      "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course."
     },
     {
       "code": "ENGL 3009",
       "name": "Studies in Roman Literature",
       "credit": "0.5",
-      "description": "A study of an author or topic in Roman literature."
+      "description": "A study of an author or topic in Roman literature.",
+      "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit.  Permission of the unit is required to repeat this course."
     },
     {
       "code": "ENGL 3010",
       "name": "The Secret Lives of Poems",
       "credit": "0.5",
-      "description": "This course is designed to enable students to develop skills in reading and writing about great works of poetry. Course requirements will feature a combination of creative and critical exercises, but no formal essay."
+      "description": "This course is designed to enable students to develop skills in reading and writing about great works of poetry. Course requirements will feature a combination of creative and critical exercises, but no formal essay.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3011",
       "name": "Comics and Graphic Novels",
       "credit": "0.5",
-      "description": "An introduction to the critical study of comic books and graphic narrative."
+      "description": "An introduction to the critical study of comic books and graphic narrative.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3020",
       "name": "Europe, Russia, and Eurasia Beyond Borders: Literature and Culture",
       "credit": "0.5",
-      "description": "An exploration of the cultural borders and boundaries of contemporary Europe, Russia, and Eurasia. Using literary and visual texts, the course explores issues such as migration, cultural and political borders and their transcendence, cultural responses to authoritarianism, the Cold War and its afterlives, and memory."
+      "description": "An exploration of the cultural borders and boundaries of contemporary Europe, Russia, and Eurasia. Using literary and visual texts, the course explores issues such as migration, cultural and political borders and their transcendence, cultural responses to authoritarianism, the Cold War and its afterlives, and memory.",
+      "prerequisites": "Second year standing."
     },
     {
       "code": "ENGL 3105",
       "name": "History of Literary Theory",
       "credit": "0.5",
-      "description": "Introduction to ideas about literature, aesthetics, authorship, and readership as these have circulated in periods before the twentieth century."
+      "description": "Introduction to ideas about literature, aesthetics, authorship, and readership as these have circulated in periods before the twentieth century.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3106",
       "name": "Theories and Critical Practices",
       "credit": "1.0",
-      "description": "This course offers students an interdisciplinary foundation in cultural, critical, and literary theories and practices.  This course is writing attentive."
+      "description": "This course offers students an interdisciplinary foundation in cultural, critical, and literary theories and practices.  This course is writing attentive.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3200",
       "name": "Topics in Medieval Literature",
       "credit": "0.5",
-      "description": "A study of selected topics and texts from medieval literature."
+      "description": "A study of selected topics and texts from medieval literature.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3201",
       "name": "European Literature",
       "credit": "1.0",
-      "description": "Major movements and works from Dante's Divine Comedy through Voltaire's Candide. Themes include the New Humanism vs. old Chivalry in the Renaissance and Baroque periods; the rise of the modern novel and drama; reason, nature, and the Enlightenment project."
+      "description": "Major movements and works from Dante's Divine Comedy through Voltaire's Candide. Themes include the New Humanism vs. old Chivalry in the Renaissance and Baroque periods; the rise of the modern novel and drama; reason, nature, and the Enlightenment project.",
+      "prerequisites": "Restricted to students in the English program with third year standing and above."
     },
     {
       "code": "ENGL 3202",
       "name": "Chaucer",
       "credit": "0.5",
-      "description": "A study of Chaucer's works including some attention to the Middle English language in which he wrote."
+      "description": "A study of Chaucer's works including some attention to the Middle English language in which he wrote.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3204",
       "name": "Literary Representations of Childhood and Youth",
       "credit": "0.5",
-      "description": "An examination of the ways in which childhood, children, and youth have been represented in creative literature (fiction, poetry, drama, and/or creative nonfiction)."
+      "description": "An examination of the ways in which childhood, children, and youth have been represented in creative literature (fiction, poetry, drama, and/or creative nonfiction).",
+      "prerequisites": "third-year standing."
     },
     {
-      "code": "ENGL 3305",
-      "name": "Shakespeare and the Stage",
+      "code": "ENGL 3307",
+      "name": "Shakespeare Studies",
       "credit": "0.5",
-      "description": "Introduction to the study of early modern play-texts written by Shakespeare and/or his contemporaries."
-    },
-    {
-      "code": "ENGL 3306",
-      "name": "Shakespeare and Film",
-      "credit": "0.5",
-      "description": "A study of film adaptations of selected plays by Shakespeare."
+      "description": "A study of Shakespeare\u2019s works and/or their adaptations which may include play texts, films, poems, contemporary productions, or digital media.  Topics vary from year to year.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3401",
       "name": "The Book in the Digital Age",
       "credit": "0.5",
-      "description": "A multidisciplinary course focused on the social, economic and political dimensions of the book in its manuscript, print and digital forms."
+      "description": "A multidisciplinary course focused on the social, economic and political dimensions of the book in its manuscript, print and digital forms.",
+      "prerequisites": "third-year standing, or permission of the English Department."
     },
     {
       "code": "ENGL 3402",
       "name": "18th-Century Literature",
       "credit": "0.5",
-      "description": "A detailed study of authors and movements of the period 1660 to 1780."
+      "description": "A detailed study of authors and movements of the period 1660 to 1780.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3414",
       "name": "Introduction to Professional Writing and Editing",
       "credit": "0.5",
-      "description": "The fundamental skills of professional writing and editing, including writing for specific audiences, document design, revision strategies, copyediting."
-    },
-    {
-      "code": "ENGL 3420",
-      "name": "Professional Writing Practicum",
-      "credit": "0.5",
-      "description": "Experiential learning in Professional Writing via field placement. Students pursue personalized learning outcomes in a workplace practicum. The submission of an application is required."
+      "description": "The fundamental skills of professional writing and editing, including writing for specific audiences, document design, revision strategies, copyediting.",
+      "prerequisites": "third-year standing or permission of the instructor."
     },
     {
       "code": "ENGL 3500",
       "name": "Literatures and Cultures 1700-1900",
       "credit": "0.5",
-      "description": "A study of the period between 1700 and 1900, with attention to cultural, historical, geographical, and literary contexts."
+      "description": "A study of the period between 1700 and 1900, with attention to cultural, historical, geographical, and literary contexts.",
+      "prerequisites": "Third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3501",
       "name": "Literatures and Cultures 1900-Now",
       "credit": "0.5",
-      "description": "A study of the period between 1900 and the present, with attention to cultural, historical, geographical, and literary contexts."
+      "description": "A study of the period between 1900 and the present, with attention to cultural, historical, geographical, and literary contexts.",
+      "prerequisites": "Third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3553",
       "name": "The 19th-Century Novel",
       "credit": "0.5",
-      "description": "A study of the English novel in the 19 th  century."
+      "description": "A study of the English novel in the 19 th  century.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3601",
       "name": "20th- and 21st-Century Poetry",
       "credit": "0.5",
-      "description": "A study of 20th and 21st-century poetry in English. Topics and authors may vary."
+      "description": "A study of 20th and 21st-century poetry in English. Topics and authors may vary.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3603",
       "name": "20th- and 21st-century Fiction",
       "credit": "0.5",
-      "description": "A study of 20th- and 21st-century fiction in English. Topics and authors may vary."
+      "description": "A study of 20th- and 21st-century fiction in English. Topics and authors may vary.",
+      "prerequisites": "Third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3605",
       "name": "Modern and Contemporary Literary Theory",
       "credit": "0.5",
-      "description": "Introduction to contemporary approaches to literary texts, such as formalist, structuralist, deconstructive, psychoanalytic, Marxist, historicist, and feminist. Topics may include: the nature and role of literature, of author and reader, of canons, ideology, gender, sexuality, and race."
+      "description": "Introduction to contemporary approaches to literary texts, such as formalist, structuralist, deconstructive, psychoanalytic, Marxist, historicist, and feminist. Topics may include: the nature and role of literature, of author and reader, of canons, ideology, gender, sexuality, and race.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3608",
       "name": "Topics in Theatre Management",
       "credit": "0.5",
-      "description": "A workshop taught by practitioners in the community that provides students with the knowledge and skills necessary to create, manage, and sustain theatre projects. Topics will vary but may include the development of children\u2019s theatre or the operation of a festival or touring company."
+      "description": "A workshop taught by practitioners in the community that provides students with the knowledge and skills necessary to create, manage, and sustain theatre projects. Topics will vary but may include the development of children\u2019s theatre or the operation of a festival or touring company.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3609",
       "name": "Drama:  Contemporary Performance",
       "credit": "0.5",
-      "description": "A study of dramatic texts and performance practices in contemporary professional theatre.  Topics vary according to the season programs of professional theatre in Ottawa.  Students will attend a number of productions, determined by the instructor.  Field trip fees will apply."
+      "description": "A study of dramatic texts and performance practices in contemporary professional theatre.  Topics vary according to the season programs of professional theatre in Ottawa.  Students will attend a number of productions, determined by the instructor.  Field trip fees will apply.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3702",
       "name": "American Culture",
       "credit": "0.5",
-      "description": "A study of American writing in its cultural and historical contexts."
+      "description": "A study of American writing in its cultural and historical contexts.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3801",
       "name": "Canadian Poetry",
       "credit": "0.5",
-      "description": "A study of Canadian poetry in its social and political contexts."
+      "description": "A study of Canadian poetry in its social and political contexts.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3803",
       "name": "Canadian Fiction",
       "credit": "0.5",
-      "description": "A study of Canadian fiction in its social and political contexts."
+      "description": "A study of Canadian fiction in its social and political contexts.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3902",
       "name": "Writing Screenplays",
       "credit": "0.5",
-      "description": "An intermediate workshop involving regular assignments in writing for film."
+      "description": "An intermediate workshop involving regular assignments in writing for film.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english."
     },
     {
       "code": "ENGL 3903",
       "name": "Writing Fiction (Intermediate)",
       "credit": "0.5",
-      "description": "An intermediate workshop involving regular assignments in writing prose fiction and practical criticism."
+      "description": "An intermediate workshop involving regular assignments in writing prose fiction and practical criticism.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english."
     },
     {
       "code": "ENGL 3904",
       "name": "Intermediate Drama Workshop",
       "credit": "0.5",
-      "description": "A course dealing with techniques of characterization, principles of ensemble performance, scene analysis for actors and directors, styles of performance."
+      "description": "A course dealing with techniques of characterization, principles of ensemble performance, scene analysis for actors and directors, styles of performance.",
+      "prerequisites": "ENGL 2104 or permission of the Department."
     },
     {
       "code": "ENGL 3905",
       "name": "Topics in Performance",
       "credit": "0.5",
-      "description": "A study of selected elements of performance. Topics will vary but may include such areas as the theory and practice of comic timing on stage or movement on stage space."
+      "description": "A study of selected elements of performance. Topics will vary but may include such areas as the theory and practice of comic timing on stage or movement on stage space.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3906",
       "name": "Writing Popular Fiction",
       "credit": "0.5",
-      "description": "An intermediate workshop in creative writing that focuses on the development of writing skills specific to the crafting of narratives in such genres as Speculative Fiction, Young Adult Fiction, and Historical Fiction."
+      "description": "An intermediate workshop in creative writing that focuses on the development of writing skills specific to the crafting of narratives in such genres as Speculative Fiction, Young Adult Fiction, and Historical Fiction.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english."
     },
     {
       "code": "ENGL 3908",
       "name": "Research and Theory in Academic Writing",
       "credit": "0.5",
-      "description": "Study of contemporary research and theory (1970s to present) on academic writing in elementary, secondary and post-secondary school, with emphasis on writing in university. Consideration of what academic writing entails, how writing fosters learning, and how instruction can help students develop their writing abilities."
+      "description": "Study of contemporary research and theory (1970s to present) on academic writing in elementary, secondary and post-secondary school, with emphasis on writing in university. Consideration of what academic writing entails, how writing fosters learning, and how instruction can help students develop their writing abilities.",
+      "prerequisites": "third-year standing or permission of the instructor."
     },
     {
       "code": "ENGL 3909",
       "name": "Research and Theory in Workplace Writing",
       "credit": "0.5",
-      "description": "Study of contemporary research and theory (1980s to present) in writing in workplace settings. Consideration of how writing is used in accomplishing work, how novices learn to write effectively, and what the implications are for pedagogy."
+      "description": "Study of contemporary research and theory (1980s to present) in writing in workplace settings. Consideration of how writing is used in accomplishing work, how novices learn to write effectively, and what the implications are for pedagogy.",
+      "prerequisites": "third-year standing or permission of the instructor."
     },
     {
       "code": "ENGL 3910",
       "name": "From English Degree to Career",
       "credit": "0.5",
-      "description": "This experiential-learning course prepares students in English for their transition into the workplace. Project-based activities (including readings and research) and guest speakers will teach students to identify, develop, and apply the skills and knowledge gained from a degree in English studies."
+      "description": "This experiential-learning course prepares students in English for their transition into the workplace. Project-based activities (including readings and research) and guest speakers will teach students to identify, develop, and apply the skills and knowledge gained from a degree in English studies.",
+      "prerequisites": "third-year standing in an English Major program or permission of the department."
     },
     {
       "code": "ENGL 3911",
       "name": "Cultural Studies",
       "credit": "0.5",
-      "description": "This course explores cultural expression across diverse media, theorizing culture as a form of struggle that shapes material conditions, fuels knowledge production, and informs lived experience."
+      "description": "This course explores cultural expression across diverse media, theorizing culture as a form of struggle that shapes material conditions, fuels knowledge production, and informs lived experience.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3915",
       "name": "Special Topics in Writing",
       "credit": "0.5",
-      "description": "An intermediate workshop that involves regular creative writing assignments and practical criticism based on this work. Topics will vary. Yearly special topics can be found at carleton.ca/english/."
+      "description": "An intermediate workshop that involves regular creative writing assignments and practical criticism based on this work. Topics will vary. Yearly special topics can be found at carleton.ca/english/.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english."
     },
     {
       "code": "ENGL 3916",
       "name": "Spoken Word Poetry Workshop",
       "credit": "0.5",
-      "description": "This intermediate-level workshop-based course explores traditions of spoken word poetry while requiring students to create and perform their own spoken word poems."
+      "description": "This intermediate-level workshop-based course explores traditions of spoken word poetry while requiring students to create and perform their own spoken word poems.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english."
     },
     {
       "code": "ENGL 3920",
       "name": "Literary Ecological Fieldwork",
       "credit": "0.5",
-      "description": "This interdisciplinary, experiential fieldwork course brings together literature, culture, and ecology studies. At least 50% of class periods will be devoted to short field work excursions in the Ottawa region. These excursions will be complemented by classroom discussion time. Field trip fees will apply."
+      "description": "This interdisciplinary, experiential fieldwork course brings together literature, culture, and ecology studies. At least 50% of class periods will be devoted to short field work excursions in the Ottawa region. These excursions will be complemented by classroom discussion time. Field trip fees will apply.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3930",
       "name": "Topics in Decolonization and Migration II",
       "credit": "0.5",
-      "description": "An intermediate study of literature, culture, and research in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary."
+      "description": "An intermediate study of literature, culture, and research in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary.",
+      "prerequisites": "Third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3940",
       "name": "Studies in Diaspora Lit.",
       "credit": "0.5",
-      "description": "A study of diaspora literatures and cultures."
+      "description": "A study of diaspora literatures and cultures.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3960",
       "name": "Studies in Indigenous Literature",
       "credit": "0.5",
-      "description": "A study of Indigenous literatures and cultures."
+      "description": "A study of Indigenous literatures and cultures.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3965",
       "name": "Intro to Postcolonial Theory",
       "credit": "0.5",
-      "description": "A survey of major concepts and key figures in postcolonial theory."
+      "description": "A survey of major concepts and key figures in postcolonial theory.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3972",
       "name": "Studies in Postcolonial Literature",
       "credit": "0.5",
-      "description": "A study of postcolonial literatures and cultures. Topics may vary from year to year."
+      "description": "A study of postcolonial literatures and cultures. Topics may vary from year to year.",
+      "prerequisites": "third-year standing or permission of the department."
     },
     {
       "code": "ENGL 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": ""
+      "description": "",
+      "prerequisites": ""
     },
     {
       "code": "ENGL 4001",
       "name": "Studies in Poetry",
       "credit": "0.5",
-      "description": "A study of a selected topic in poetry."
+      "description": "A study of a selected topic in poetry.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4003",
       "name": "Studies in the Novel",
       "credit": "0.5",
-      "description": "A study of a selected topic in the novel."
+      "description": "A study of a selected topic in the novel.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4004",
       "name": "Writing and Knowledge-Making in the Professions",
       "credit": "0.5",
-      "description": "The role of writing in constructing knowledge in the professions, as viewed from contemporary socio-cultural perspectives.  Consideration of how the goals, values, and assumptions of different professions shape their writing in distinctive ways and what implications this holds for theory, research, and practice."
+      "description": "The role of writing in constructing knowledge in the professions, as viewed from contemporary socio-cultural perspectives.  Consideration of how the goals, values, and assumptions of different professions shape their writing in distinctive ways and what implications this holds for theory, research, and practice.",
+      "prerequisites": "third-year standing or permission of the instructor."
     },
     {
       "code": "ENGL 4005",
       "name": "Studies in Literary Theory",
       "credit": "0.5",
-      "description": "Study of a selected topic in literary theory and criticism."
+      "description": "Study of a selected topic in literary theory and criticism.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4105",
       "name": "Old English",
       "credit": "0.5",
-      "description": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language."
+      "description": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4115",
       "name": "Culture and the Text",
       "credit": "0.5",
-      "description": "Topics will vary from year to year."
+      "description": "Topics will vary from year to year.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4125",
       "name": "Digital Culture and the Text I",
       "credit": "0.5",
-      "description": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies.  Topics will vary from year to year."
+      "description": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies.  Topics will vary from year to year.",
+      "prerequisites": "ENGL 2401 and fourth-year standing, or permission of the Department."
     },
     {
       "code": "ENGL 4135",
       "name": "Studies in Publishing",
       "credit": "0.5",
-      "description": "Topics will vary from year to year."
+      "description": "Topics will vary from year to year.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4139",
       "name": "Editing a Literary Magazine",
       "credit": "0.5",
-      "description": "In this experiential learning course students will work collaboratively to design, edit, produce, and publicize issues of a Carleton University literary magazine in digital and/or print formats."
+      "description": "In this experiential learning course students will work collaboratively to design, edit, produce, and publicize issues of a Carleton University literary magazine in digital and/or print formats.",
+      "prerequisites": "Fourth-year standing or permission of the Department."
     },
     {
       "code": "ENGL 4145",
       "name": "Digital Culture and the Text II",
       "credit": "0.5",
-      "description": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies.  Topics will vary from year to year."
+      "description": "A study of new developments in digital media and culture, and how they affect our understanding of literary modes, genres and textuality, including notions of authorship and reading strategies.  Topics will vary from year to year.",
+      "prerequisites": "ENGL 2401 and fourth-year standing, or permission of the Department."
     },
     {
       "code": "ENGL 4155",
       "name": "Studies in Digital Humanities",
       "credit": "0.5",
-      "description": "A study of current issues and debates in the Digital Humanities."
+      "description": "A study of current issues and debates in the Digital Humanities.",
+      "prerequisites": "ENGL 2401 and fourth-year standing, or permission of the English Department."
     },
     {
       "code": "ENGL 4208",
       "name": "Studies in Medieval Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in Medieval literature; requires previous experience reading medieval English."
+      "description": "A study of a selected topic in Medieval literature; requires previous experience reading medieval English.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4301",
       "name": "Studies in Renaissance Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in Renaissance literature."
+      "description": "A study of a selected topic in Renaissance literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4401",
       "name": "Studies in 18th-Century Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in Restoration or 18th-century literature."
+      "description": "A study of a selected topic in Restoration or 18th-century literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4404",
       "name": "Digital Humanities Workshop",
       "credit": "0.5",
-      "description": "This workshop will provide students with the opportunity to complete an individual or collaborative capstone project in the Digital Humanities."
+      "description": "This workshop will provide students with the opportunity to complete an individual or collaborative capstone project in the Digital Humanities.",
+      "prerequisites": "ENGL 2401 and fourth-year standing, or permission of the English Department."
     },
     {
       "code": "ENGL 4405",
       "name": "Digital Humanities Practicum",
       "credit": "0.5",
-      "description": "Practical experience gained by working on projects under the supervision of the staff of a participating public- or private-sector institution or organization, including a final written assignment or equivalent project. A maximum of 1.0 practicum credit may be applied towards degree requirements."
+      "description": "Practical experience gained by working on projects under the supervision of the staff of a participating public- or private-sector institution or organization, including a final written assignment or equivalent project. A maximum of 1.0 practicum credit may be applied towards degree requirements.",
+      "prerequisites": "ENGL 2401 and fourth-year standing, or permission of the English Department."
     },
     {
       "code": "ENGL 4500",
       "name": "Studies in Romanticism",
       "credit": "0.5",
-      "description": "A study of a selected topic, 1770-1830."
+      "description": "A study of a selected topic, 1770-1830.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4515",
       "name": "Teaching Writing in School and the Workplace",
       "credit": "0.5",
-      "description": "Introduction to approaches for teaching writing in elementary and secondary school, in university, and in the workplace, with a focus on socio-cultural theories of language and learning. Discussion of applications of these approaches to classroom and workplace teaching."
+      "description": "Introduction to approaches for teaching writing in elementary and secondary school, in university, and in the workplace, with a focus on socio-cultural theories of language and learning. Discussion of applications of these approaches to classroom and workplace teaching.",
+      "prerequisites": "third-year standing, or permission of the instructor."
     },
     {
       "code": "ENGL 4550",
       "name": "Studies in Victorian Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in 19th-century British literature, 1830-1900."
+      "description": "A study of a selected topic in 19th-century British literature, 1830-1900.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4600",
       "name": "The Great Russian Novel",
       "credit": "0.5",
-      "description": "A study of masterpieces of the Russian tradition, to be selected from among works by writers such as Tolstoy, Dostoevsky, Gogol, Turgenev, Bely, Bulgakov, and Nabokov. All novels will be read in English translation."
+      "description": "A study of masterpieces of the Russian tradition, to be selected from among works by writers such as Tolstoy, Dostoevsky, Gogol, Turgenev, Bely, Bulgakov, and Nabokov. All novels will be read in English translation.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4601",
       "name": "Studies in Contemporary Poetry",
       "credit": "0.5",
-      "description": "A comparative and transnational approach to 20th- and 21st -century poetry."
+      "description": "A comparative and transnational approach to 20th- and 21st -century poetry.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4605",
       "name": "Theatre Production Seminar",
       "credit": "0.5",
-      "description": "This course offers students advanced engagement with the theory and application of theatrical crafts and includes participation in a writing, acting, or technical capacity on a class production."
+      "description": "This course offers students advanced engagement with the theory and application of theatrical crafts and includes participation in a writing, acting, or technical capacity on a class production.",
+      "prerequisites": "ENGL 3904 or permission of the department."
     },
     {
       "code": "ENGL 4607",
       "name": "Studies in 20th- and 21st-century Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in literature of the 20th and 21st century."
+      "description": "A study of a selected topic in literature of the 20th and 21st century.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4609",
       "name": "Global Stages and Theories",
       "credit": "0.5",
-      "description": "An advanced study of dramatic texts from transnational, postcolonial, or European contexts. This course will offer sustained attention to specific theatre traditions, theatrical practice, and interpretation of texts. Topics and points of emphasis vary from year to year."
+      "description": "An advanced study of dramatic texts from transnational, postcolonial, or European contexts. This course will offer sustained attention to specific theatre traditions, theatrical practice, and interpretation of texts. Topics and points of emphasis vary from year to year.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4708",
       "name": "Studies in American Literature I",
       "credit": "0.5",
-      "description": "A study of a selected topic in American literature."
+      "description": "A study of a selected topic in American literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4709",
       "name": "Studies in American Literature II",
       "credit": "0.5",
-      "description": "A study of a selected topic in American literature."
+      "description": "A study of a selected topic in American literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4802",
       "name": "Race, Ethnicity and Canadian Lit.",
       "credit": "0.5",
-      "description": "A study of Canadian literature that engages with notions of race and ethnicity."
+      "description": "A study of Canadian literature that engages with notions of race and ethnicity.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4806",
       "name": "Studies in Canadian Literature I",
       "credit": "0.5",
-      "description": "A study of a selected topic in Canadian literature."
+      "description": "A study of a selected topic in Canadian literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4807",
       "name": "Studies in Canadian Literature II",
       "credit": "0.5",
-      "description": "A study of a selected topic in Canadian literature."
+      "description": "A study of a selected topic in Canadian literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4908",
       "name": "Independent Study",
       "credit": "1.0",
-      "description": "Independent research and writing, under the supervision of English faculty, requiring an essay of approximately 10,000 words. A written proposal outlining the project must be submitted to the undergraduate supervisor by July 31."
+      "description": "Independent research and writing, under the supervision of English faculty, requiring an essay of approximately 10,000 words. A written proposal outlining the project must be submitted to the undergraduate supervisor by July 31.",
+      "prerequisites": "fourth-year Honours standing in English with a CGPA of 10.0 in English courses, and permission of the undergraduate supervisor."
     },
     {
       "code": "ENGL 4909",
       "name": "Writing and Knowledge-Making in the Disciplines",
       "credit": "0.5",
-      "description": "The role of writing in constructing knowledge in academic disciplines, as viewed from contemporary socio-cultural perspectives. Consideration of how the goals, values, and assumptions of different disciplines shape their writing in distinctive ways and what implications this holds for pedagogy."
+      "description": "The role of writing in constructing knowledge in academic disciplines, as viewed from contemporary socio-cultural perspectives. Consideration of how the goals, values, and assumptions of different disciplines shape their writing in distinctive ways and what implications this holds for pedagogy.",
+      "prerequisites": "third-year standing or permission of the instructor."
     },
     {
       "code": "ENGL 4910",
       "name": "Independent Creative Writing Project",
       "credit": "0.5",
-      "description": "Independent creative writing, supervised by a Departmental faculty member, resulting in a poetry manuscript (10-15 poems), a one-act play, a 10,000-word novella, or two short stories.  A proposal, coordinated with the faculty supervisor, must be submitted to the Undergraduate Supervisor by July 31."
+      "description": "Independent creative writing, supervised by a Departmental faculty member, resulting in a poetry manuscript (10-15 poems), a one-act play, a 10,000-word novella, or two short stories.  A proposal, coordinated with the faculty supervisor, must be submitted to the Undergraduate Supervisor by July 31.",
+      "prerequisites": "completion of required credits for the Creative Writing Concentration, fourth-year Honours standing in English with a CGPA of 10.00 in English courses, and permission of the Undergraduate Supervisor in conjunction with the faculty supervisor."
     },
     {
       "code": "ENGL 4915",
       "name": "Advanced Writing Workshop",
       "credit": "0.5",
-      "description": "An advanced workshop involving regular assignments in creative writing and practical criticism based on this work.  Topics will vary."
+      "description": "An advanced workshop involving regular assignments in creative writing and practical criticism based on this work.  Topics will vary.",
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 3902 , ENGL 3903 , ENGL 3906 , ENGL 3915 , ENGL 3916 . Students who lack the prerequisite must submit a writing sample. Instructions can be found at carleton.ca/english."
     },
     {
       "code": "ENGL 4947",
       "name": "Issues in Diaspora Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in diaspora literature and culture."
+      "description": "A study of a selected topic in diaspora literature and culture.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4950",
       "name": "Topics in Postcolonial and Diaspora Lit. and Theory",
       "credit": "0.5",
-      "description": "A study of a selected topic in postcolonial and/or diaspora literatures and theories. Themes, authors, and geographical and temporal focus will vary."
+      "description": "A study of a selected topic in postcolonial and/or diaspora literatures and theories. Themes, authors, and geographical and temporal focus will vary.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4960",
       "name": "Indigenous Literatures I",
       "credit": "0.5",
-      "description": "A study of the literatures produced by Indigenous storytellers and writers, with a focus on the oral tradition and life writing."
+      "description": "A study of the literatures produced by Indigenous storytellers and writers, with a focus on the oral tradition and life writing.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4961",
       "name": "Indigenous Literatures II",
       "credit": "0.5",
-      "description": "A study of the contemporary period of Indigenous literature, examining the historical and mythic influences on the literature."
+      "description": "A study of the contemporary period of Indigenous literature, examining the historical and mythic influences on the literature.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4975",
       "name": "Issues in Postcolonial Theory",
       "credit": "0.5",
-      "description": "A study of a selected issue in postcolonial and/or diaspora theory."
+      "description": "A study of a selected issue in postcolonial and/or diaspora theory.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "ENGL 4976",
       "name": "Issues in Postcolonial Literature",
       "credit": "0.5",
-      "description": "A study of a selected topic in postcolonial literature and culture."
+      "description": "A study of a selected topic in postcolonial literature and culture.",
+      "prerequisites": "fourth-year standing or permission of the department."
     }
   ],
   "free_electives": [
@@ -882,33 +1019,15 @@
     },
     {
       "type": "requirement",
-      "degree": "English with Concentration in Drama Studies B.A. Honours (20.0 credits)",
-      "credits": "1.0",
-      "text": "13.  1.0 credit in free electives 1.0"
-    },
-    {
-      "type": "requirement",
       "degree": "English B.A. Combined Honours (20.0 credits)",
       "credits": "",
-      "text": "9.  Sufficient free elective credits to make up 20.0 credits total for the program."
+      "text": "10.  Sufficient free elective credits to make up 20.0 credits total for the program."
     },
     {
       "type": "requirement",
       "degree": "English B.A. (15.0 credits)",
       "credits": "3.0",
-      "text": "7.  3.0 credits in free electives 3.0"
-    },
-    {
-      "type": "requirement",
-      "degree": "Specialization in Global Literatures B. G. In. S. Honours (20.0 credits)",
-      "credits": "8.0",
-      "text": "4.  8.0 credits in: Free Electives 8.0"
-    },
-    {
-      "type": "requirement",
-      "degree": "Stream in Global Literatures B.G.In.S. (15.0 credits)",
-      "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "8.  3.0 credits in free electives 3.0"
     }
   ]
 }

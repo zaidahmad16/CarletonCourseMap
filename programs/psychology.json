@@ -6,421 +6,484 @@
       "code": "PSYC 1001",
       "name": "Introduction to Psychology I",
       "credit": "0.5",
-      "description": "A survey of topics associated with psychology's role as a natural science, including neuroscience, cognition, and learning."
+      "description": "A survey of topics associated with psychology's role as a natural science, including neuroscience, cognition, and learning.",
+      "prerequisites": ""
     },
     {
       "code": "PSYC 1002",
       "name": "Introduction to Psychology II",
       "credit": "0.5",
-      "description": "A survey of topics associated with psychology's role as a social science, including social psychology, personality, clinical psychology, and mental health."
+      "description": "A survey of topics associated with psychology's role as a social science, including social psychology, personality, clinical psychology, and mental health.",
+      "prerequisites": "PSYC 1001 ."
     },
     {
       "code": "PSYC 2001",
       "name": "Introduction to Research Methods in Psychology",
       "credit": "0.5",
-      "description": "A general introduction to research methodologies employed within contemporary psychology. Topics covered include research designs (experimental, quasi-experimental) and techniques (observations, surveys), basic descriptive statistics, and how to interpret and report research findings."
+      "description": "A general introduction to research methodologies employed within contemporary psychology. Topics covered include research designs (experimental, quasi-experimental) and techniques (observations, surveys), basic descriptive statistics, and how to interpret and report research findings.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2002",
       "name": "Introduction to Statistics in Psychology",
       "credit": "0.5",
-      "description": "A general introduction to statistical techniques employed within contemporary psychology. Topics include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square)."
+      "description": "A general introduction to statistical techniques employed within contemporary psychology. Topics include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
+      "prerequisites": "PSYC 2001 ."
     },
     {
       "code": "PSYC 2100",
       "name": "Introduction to Social Psychology",
       "credit": "0.5",
-      "description": "Introduction to social psychology, including a survey of theories, issues, methods, and findings. This course will explore how social situations may influence people's thoughts, feelings, and behaviours. Topics may include social cognition, self-knowledge, persuasion, interpersonal attraction, aggression, and prosocial behaviour."
+      "description": "Introduction to social psychology, including a survey of theories, issues, methods, and findings. This course will explore how social situations may influence people's thoughts, feelings, and behaviours. Topics may include social cognition, self-knowledge, persuasion, interpersonal attraction, aggression, and prosocial behaviour.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2301",
       "name": "Introduction to Health Psychology",
       "credit": "0.5",
-      "description": "Introduction to health psychology, including a survey of theories, issues, methods, and findings. Using a multidisciplinary approach, topics may include the reciprocal interactions among physical health and illness, and psychological factors, including emotional well-being, coping and appraisal processes."
+      "description": "Introduction to health psychology, including a survey of theories, issues, methods, and findings. Using a multidisciplinary approach, topics may include the reciprocal interactions among physical health and illness, and psychological factors, including emotional well-being, coping and appraisal processes.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2307",
       "name": "Human Neuropsychology I",
       "credit": "0.5",
-      "description": "Introduction to study of brain-behaviour relationships, including a survey of theories, issues, methods, and findings. Topics may include basic anatomy and physiology of the human nervous system, including sensory and motor functions. Neural basis of language, perception, emotion, learning, memory, decision making and social cognition."
+      "description": "Introduction to study of brain-behaviour relationships, including a survey of theories, issues, methods, and findings. Topics may include basic anatomy and physiology of the human nervous system, including sensory and motor functions. Neural basis of language, perception, emotion, learning, memory, decision making and social cognition.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2400",
       "name": "Introduction to Forensic Psychology",
       "credit": "0.5",
-      "description": "Introduction to forensic psychology, including a survey of theories, issues, methods, and findings. Topics covered may include development of offending, eyewitness testimony, victim studies, risk assessment, offender rehabilitation, offender classification, and police studies."
+      "description": "Introduction to forensic psychology, including a survey of theories, issues, methods, and findings. Topics covered may include development of offending, eyewitness testimony, victim studies, risk assessment, offender rehabilitation, offender classification, and police studies.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2500",
       "name": "Foundations of Developmental Psychology",
       "credit": "0.5",
-      "description": "Introduction to developmental psychology, including a survey of theories, issues, methods, and findings. Topics may include biological underpinnings and genetics, as well as selected aspects of language, cognitive, moral, emotional, and social development."
+      "description": "Introduction to developmental psychology, including a survey of theories, issues, methods, and findings. Topics may include biological underpinnings and genetics, as well as selected aspects of language, cognitive, moral, emotional, and social development.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2600",
       "name": "Introduction to the Study of Personality",
       "credit": "0.5",
-      "description": "Introduction to the study of personality, including a survey of theories, issues, methods, and findings. Explores the factors that contribute to people\u2019s personality and influence how they interact with others. Topics may include traits, motives, the self, physiology, the unconscious, relationships, stress and coping."
+      "description": "Introduction to the study of personality, including a survey of theories, issues, methods, and findings. Explores the factors that contribute to people\u2019s personality and influence how they interact with others. Topics may include traits, motives, the self, physiology, the unconscious, relationships, stress and coping.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2700",
       "name": "Introduction to Cognitive Psychology",
       "credit": "0.5",
-      "description": "Introduction to cognitive processes, including a survey of theories, issues, methods and findings. Topics covered may include pattern recognition, attention, imagery, learning (animal and human), memory, language, and thinking."
+      "description": "Introduction to cognitive processes, including a survey of theories, issues, methods and findings. Topics covered may include pattern recognition, attention, imagery, learning (animal and human), memory, language, and thinking.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 2801",
       "name": "Organizational Psychology I",
       "credit": "0.5",
-      "description": "Introduction to the study of organizational psychology, including a survey of theories, issues, methods, and findings. Examines individual and group behaviour in organizational settings. Topics may include understanding work-related attitudes, behaviour, motivation, and stress, personnel selection, personality in the workplace, organizational justice, and leadership."
+      "description": "Introduction to the study of organizational psychology, including a survey of theories, issues, methods, and findings. Examines individual and group behaviour in organizational settings. Topics may include understanding work-related attitudes, behaviour, motivation, and stress, personnel selection, personality in the workplace, organizational justice, and leadership.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 3000",
       "name": "Design and Analysis in Psychological Research",
       "credit": "1.0",
-      "description": "Techniques in data analysis, probability, sampling distributions, and procedures of estimation. Topics include classical, Bayesian, and distribution free approaches to hypothesis testing, linear regression and curve fitting, and analysis of variance methods in experimental design. Techniques are applied with appropriate statistical software (e.g., SPSS, Excel)."
+      "description": "Techniques in data analysis, probability, sampling distributions, and procedures of estimation. Topics include classical, Bayesian, and distribution free approaches to hypothesis testing, linear regression and curve fitting, and analysis of variance methods in experimental design. Techniques are applied with appropriate statistical software (e.g., SPSS, Excel).",
+      "prerequisites": "third-year standing, PSYC 2001 , and PSYC 2002 ."
     },
     {
       "code": "PSYC 3001",
       "name": "Psychological Testing",
       "credit": "0.5",
-      "description": "An introduction to theory and issues pertaining to psychological tests. Topics include the creation, assessment, scoring, and interpretation of results across different testing formats (questionnaires, surveys, structured interviews, performance-based measurements). Classical and modern techniques will be incorporated. Students will apply psychological testing theory through assignments."
+      "description": "An introduction to theory and issues pertaining to psychological tests. Topics include the creation, assessment, scoring, and interpretation of results across different testing formats (questionnaires, surveys, structured interviews, performance-based measurements). Classical and modern techniques will be incorporated. Students will apply psychological testing theory through assignments.",
+      "prerequisites": "PSYC 2001 and PSYC 2002 ."
     },
     {
       "code": "PSYC 3100",
       "name": "Social Psychology (Honours Seminar)",
       "credit": "1.0",
-      "description": "An introduction to theory and research in social psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis."
+      "description": "An introduction to theory and research in social psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+      "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2100 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3104",
       "name": "Intergroup Relations: The Psychology of Conflict and Violence",
       "credit": "0.5",
-      "description": "In-depth coverage of the social psychology of relations within and between large societal groups. Topics may include social identity, stereotyping, prejudice, and intergroup emotions, with emphasis on their role in promoting conflict and paths to pro-social intergroup relations."
+      "description": "In-depth coverage of the social psychology of relations within and between large societal groups. Topics may include social identity, stereotyping, prejudice, and intergroup emotions, with emphasis on their role in promoting conflict and paths to pro-social intergroup relations.",
+      "prerequisites": "PSYC 2100 ."
     },
     {
       "code": "PSYC 3106",
       "name": "Close Relationships",
       "credit": "0.5",
-      "description": "A consideration of relationship science, with a focus on social psychological theory and empirical approaches to the study of close relationships such as dating and marital relationships, and friendships. Topics may include relationship initiation, relationship maintenance, and coping with the dissolution of relationships."
+      "description": "A consideration of relationship science, with a focus on social psychological theory and empirical approaches to the study of close relationships such as dating and marital relationships, and friendships. Topics may include relationship initiation, relationship maintenance, and coping with the dissolution of relationships.",
+      "prerequisites": "PSYC 2100 ."
     },
     {
       "code": "PSYC 3300",
       "name": "Health (Honours Seminar)",
       "credit": "1.0",
-      "description": "An applied introduction to theory and research in health psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis."
+      "description": "An applied introduction to theory and research in health psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+      "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2301 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3301",
       "name": "Sport and Performance Psychology",
       "credit": "0.5",
-      "description": "How psychological processes influence outcomes across sport and performance environments. Topics may include self-confidence, goal-setting, arousal regulation, imagery, group dynamics, burnout, injury recovery, and how person and situational factors affect the pursuit of excellence."
+      "description": "How psychological processes influence outcomes across sport and performance environments. Topics may include self-confidence, goal-setting, arousal regulation, imagery, group dynamics, burnout, injury recovery, and how person and situational factors affect the pursuit of excellence.",
+      "prerequisites": "one of PSYC 2100 , PSYC 2301 , PSYC 2500 , PSYC 2600 ."
     },
     {
       "code": "PSYC 3302",
       "name": "Positive Psychology",
       "credit": "0.5",
-      "description": "A review of theoretical, historical, and empirical scholarship in positive psychology. Drawing widely across traditional sub-disciplines, content focuses on human strengths, well-being, resilience, and virtue to understand internal, external, and developmental contributors to health and happiness."
+      "description": "A review of theoretical, historical, and empirical scholarship in positive psychology. Drawing widely across traditional sub-disciplines, content focuses on human strengths, well-being, resilience, and virtue to understand internal, external, and developmental contributors to health and happiness.",
+      "prerequisites": "one of PSYC 2100 , PSYC 2301 , PSYC 2500 , PSYC 2600 ."
     },
     {
       "code": "PSYC 3305",
       "name": "Psychology of Climate Change",
       "credit": "0.5",
-      "description": "An examination of the role that psychological research plays in understanding people\u2019s feelings, thoughts, and behaviour in relation to climate change and its associated problems. Strategies and interventions that help people cope with climate change and promote eco-friendly behaviour will also be discussed."
+      "description": "An examination of the role that psychological research plays in understanding people\u2019s feelings, thoughts, and behaviour in relation to climate change and its associated problems. Strategies and interventions that help people cope with climate change and promote eco-friendly behaviour will also be discussed.",
+      "prerequisites": "one of PSYC 2100 , PSYC 2301 , PSYC 2307 , PSYC 2400 , PSYC 2500 , PSYC 2600 , PSYC 2700 , PSYC 2801 ."
     },
     {
       "code": "PSYC 3307",
       "name": "Human Neuropsychology II",
       "credit": "0.5",
-      "description": "Cortical metabolism and research methods for assessment of cortical function, neuropsychological testing in the context of neurological, psychiatric and cognitive disorders caused by nervous system damage or genetic anomaly."
+      "description": "Cortical metabolism and research methods for assessment of cortical function, neuropsychological testing in the context of neurological, psychiatric and cognitive disorders caused by nervous system damage or genetic anomaly.",
+      "prerequisites": "PSYC 2307 ."
     },
     {
       "code": "PSYC 3400",
       "name": "Forensic Psychology (Honours Seminar)",
       "credit": "1.0",
-      "description": "An applied introduction to theory and research in forensic psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis."
+      "description": "An applied introduction to theory and research in forensic psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+      "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2400 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3402",
       "name": "Criminal Behaviour",
       "credit": "0.5",
-      "description": "A review of theoretical and empirical research in the study of criminal behaviour. Examination of offender assessment and classification, prevalence and types of offenders, and effectiveness of offender treatment including understanding specific populations of offenders such as Indigenous offenders, women offenders and violent offenders."
+      "description": "A review of theoretical and empirical research in the study of criminal behaviour. Examination of offender assessment and classification, prevalence and types of offenders, and effectiveness of offender treatment including understanding specific populations of offenders such as Indigenous offenders, women offenders and violent offenders.",
+      "prerequisites": "PSYC 2400 ."
     },
     {
       "code": "PSYC 3403",
       "name": "Addiction",
       "credit": "0.5",
-      "description": "Neurobiological and social bases of drug and behavioural addictions. Contemporary theoretical approaches to addiction; approaches to current prevention and treatment."
+      "description": "Neurobiological and social bases of drug and behavioural addictions. Contemporary theoretical approaches to addiction; approaches to current prevention and treatment.",
+      "prerequisites": "one of PSYC 2301 , PSYC 2307 , PSYC 2400 ."
     },
     {
       "code": "PSYC 3404",
       "name": "Police Psychology",
       "credit": "0.5",
-      "description": "Critical examination of theory and empirical research in the area of police psychology. Topics covered may include police culture, police selection, police suicide, police personality, stress debriefing, fitness evaluations, police training, crisis negotiations, and investigative techniques."
+      "description": "Critical examination of theory and empirical research in the area of police psychology. Topics covered may include police culture, police selection, police suicide, police personality, stress debriefing, fitness evaluations, police training, crisis negotiations, and investigative techniques.",
+      "prerequisites": "PSYC 2400 ."
     },
     {
       "code": "PSYC 3405",
       "name": "Psychology of Motivation and Emotion",
       "credit": "0.5",
-      "description": "This course will explore motivational and emotional factors involved in human behaviour emphasizing various perspectives, theories, and research pertaining to physiological, cognitive, and social needs. Topics may include what factors motivates people, how motivation changes over time, and how one person can motivate another individual."
+      "description": "This course will explore motivational and emotional factors involved in human behaviour emphasizing various perspectives, theories, and research pertaining to physiological, cognitive, and social needs. Topics may include what factors motivates people, how motivation changes over time, and how one person can motivate another individual.",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 3500",
       "name": "Developmental Psychology (Honours Seminar)",
       "credit": "1.0",
-      "description": "An introduction to theory and research in developmental psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis."
+      "description": "An introduction to theory and research in developmental psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+      "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2500 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3505",
       "name": "Exceptional Children",
       "credit": "0.5",
-      "description": "An overview of childhood exceptionalities including intellectual differences, communication disorders, sensory and physical impairments, developmental and behavioural problems."
+      "description": "An overview of childhood exceptionalities including intellectual differences, communication disorders, sensory and physical impairments, developmental and behavioural problems.",
+      "prerequisites": "PSYC 2500 ."
     },
     {
       "code": "PSYC 3506",
       "name": "Cognitive Development",
       "credit": "0.5",
-      "description": "Human cognitive development is examined with a focus on memory, thinking and language through the life span. Topics may include perceptual and language development, emergent literacy, development of strategies and development of reading and arithmetic skills."
+      "description": "Human cognitive development is examined with a focus on memory, thinking and language through the life span. Topics may include perceptual and language development, emergent literacy, development of strategies and development of reading and arithmetic skills.",
+      "prerequisites": "PSYC 2500 or PSYC 2700 ."
     },
     {
       "code": "PSYC 3507",
       "name": "Social Development",
       "credit": "0.5",
-      "description": "Development of the individual with a focus on social cognition and social behaviour. Topics may include the role of temperament in development, parental roles, siblings and peers in social/emotional development, development of prosocial and aggressive behaviour, moral development and development of self and other understanding."
+      "description": "Development of the individual with a focus on social cognition and social behaviour. Topics may include the role of temperament in development, parental roles, siblings and peers in social/emotional development, development of prosocial and aggressive behaviour, moral development and development of self and other understanding.",
+      "prerequisites": "PSYC 2500 ."
     },
     {
       "code": "PSYC 3508",
       "name": "Child Language",
       "credit": "0.5",
-      "description": "Milestones associated with the development of grammatical,pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development."
+      "description": "Milestones associated with the development of grammatical,pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
+      "prerequisites": "LING 1001 and second-year standing, or permission of the instructor."
     },
     {
       "code": "PSYC 3509",
       "name": "Adolescence and Emerging Adulthood",
       "credit": "0.5",
-      "description": "The physical, cognitive, social and moral development of adolescents and emerging adults in multiple contexts including family, peers, media and culture.  Major theories and contemporary issues and concerns."
+      "description": "The physical, cognitive, social and moral development of adolescents and emerging adults in multiple contexts including family, peers, media and culture.  Major theories and contemporary issues and concerns.",
+      "prerequisites": "PSYC 2500 ."
     },
     {
       "code": "PSYC 3511",
       "name": "Psychology of Aging",
       "credit": "0.5",
-      "description": "An introduction to the psychology of aging, including applying the lifespan approach to theories, issues, and methods used to study the aging process. Behavioral and neurobiological aspects of healthy aging and dementia. Other topics may include sensory processes, personality, interpersonal relationships, bereavement, and mental health."
+      "description": "An introduction to the psychology of aging, including applying the lifespan approach to theories, issues, and methods used to study the aging process. Behavioral and neurobiological aspects of healthy aging and dementia. Other topics may include sensory processes, personality, interpersonal relationships, bereavement, and mental health.",
+      "prerequisites": "One of PSYC 2500 , PSYC 2307 , or PSYC 2700 ."
     },
     {
       "code": "PSYC 3600",
       "name": "Personality (Honours Seminar)",
       "credit": "1.0",
-      "description": "An introduction to theory and research in personality psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis."
+      "description": "An introduction to theory and research in personality psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+      "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2600 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3603",
       "name": "Psychology of Women",
       "credit": "0.5",
-      "description": "An examination of theories and research regarding the similarities and differences in women's and men's psychological processes. Psychological issues relevant to women (e.g., women's health concerns, women's sexuality, violence toward women and children) will be examined as well as feminist and traditional research methods."
+      "description": "An examination of theories and research regarding the similarities and differences in women's and men's psychological processes. Psychological issues relevant to women (e.g., women's health concerns, women's sexuality, violence toward women and children) will be examined as well as feminist and traditional research methods.",
+      "prerequisites": "one of PSYC 2100 , PSYC 2500 , PSYC 2600 ."
     },
     {
       "code": "PSYC 3604",
       "name": "Clinical Psychology and Mental Illness",
       "credit": "0.5",
-      "description": "History of the concept of mental illness. Theory and selected research dealing with the nature and etiology of mental illness."
+      "description": "History of the concept of mental illness. Theory and selected research dealing with the nature and etiology of mental illness.",
+      "prerequisites": "PSYC 2301 , PSYC 2500 or PSYC 2600 ."
     },
     {
       "code": "PSYC 3700",
       "name": "Cognition (Honours Seminar)",
       "credit": "1.0",
-      "description": "An introduction to theory and research in cognitive psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis."
+      "description": "An introduction to theory and research in cognitive psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
+      "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2700 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3702",
       "name": "Perception",
       "credit": "0.5",
-      "description": "Introduction to theory, research methods and principles associated with the study of perceptual processes. Examples of how perceptual principles can be applied to solve problems in communications, transportation, medicine, industrial design, manufacturing, marketing, food and beverage industries (flavoring, blending, and scenting, etc.)."
+      "description": "Introduction to theory, research methods and principles associated with the study of perceptual processes. Examples of how perceptual principles can be applied to solve problems in communications, transportation, medicine, industrial design, manufacturing, marketing, food and beverage industries (flavoring, blending, and scenting, etc.).",
+      "prerequisites": "PSYC 1001 and PSYC 1002 ."
     },
     {
       "code": "PSYC 3709",
       "name": "Language Processing and the Brain",
       "credit": "0.5",
-      "description": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies."
+      "description": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies.",
+      "prerequisites": "LALS 1000 or LALS 1001 or LING 1001 or PSYC 2700 and second-year standing, or permission of the instructor."
     },
     {
       "code": "PSYC 3710",
       "name": "Introduction to Human Factors",
       "credit": "0.5",
-      "description": "Theoretical foundation, philosophy and practical application of techniques for analyzing from a psychological perspective how people interact with designed environments. A major goal is to determine how these environments should be designed to suit human capabilities."
+      "description": "Theoretical foundation, philosophy and practical application of techniques for analyzing from a psychological perspective how people interact with designed environments. A major goal is to determine how these environments should be designed to suit human capabilities.",
+      "prerequisites": "PSYC 2001 and PSYC 2002 ."
     },
     {
       "code": "PSYC 3801",
       "name": "Organizational Psychology II",
       "credit": "0.5",
-      "description": "Advanced coverage of the current theory and practices in Organizational Psychology. Selected topics may include workplace socialization, job attitudes, deviant work behaviours, leadership, teams and group dynamics, work-related stress and health, and organizational change and development."
+      "description": "Advanced coverage of the current theory and practices in Organizational Psychology. Selected topics may include workplace socialization, job attitudes, deviant work behaviours, leadership, teams and group dynamics, work-related stress and health, and organizational change and development.",
+      "prerequisites": "PSYC 2801 ."
     },
     {
       "code": "PSYC 3802",
       "name": "Transition to Career",
       "credit": "0.5",
-      "description": "Within the context of an active learning environment, examines traditional and current models in career psychology. Topics may include the concepts of change and transitions, self-assessments, vocational psychology, and workplace onboarding. Students will examine their personal and professional transition from university to the work world."
+      "description": "Within the context of an active learning environment, examines traditional and current models in career psychology. Topics may include the concepts of change and transitions, self-assessments, vocational psychology, and workplace onboarding. Students will examine their personal and professional transition from university to the work world.",
+      "prerequisites": "third or fourth year standing in Psychology."
     },
     {
       "code": "PSYC 3901",
       "name": "Practicum in Psychology",
       "credit": "0.5",
-      "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues."
+      "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
+      "prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3902",
       "name": "Practicum in Psychology",
       "credit": "0.5",
-      "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues."
+      "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
+      "prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3905",
       "name": "Practicum in Psychology",
       "credit": "1.0",
-      "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues."
+      "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
+      "prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department."
     },
     {
       "code": "PSYC 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": "Co-operative Work Term."
+      "description": "Co-operative Work Term.",
+      "prerequisites": ""
     },
     {
       "code": "PSYC 4001",
       "name": "Special Topics in Psychology",
       "credit": "0.5",
-      "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once."
+      "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
+      "prerequisites": "each section will have its own."
     },
     {
       "code": "PSYC 4003",
       "name": "Origins of Modern Psychology",
       "credit": "0.5",
-      "description": "An overview of the evolution of psychology, with an emphasis on psychology as a specialized area of knowledge and practice in the late-nineteenth and twentieth centuries. Topics covered may include the history of a particular period, content area, or cultural context."
+      "description": "An overview of the evolution of psychology, with an emphasis on psychology as a specialized area of knowledge and practice in the late-nineteenth and twentieth centuries. Topics covered may include the history of a particular period, content area, or cultural context.",
+      "prerequisites": "third or fourth-year standing in a Psychology Honours program."
     },
     {
       "code": "PSYC 4100",
       "name": "Advanced Topics in Social Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Social psychology. The specific content for this course will vary from year to year."
-    },
-    {
-      "code": "PSYC 4235",
-      "name": "Psychology of Climate Change",
-      "credit": "0.5",
-      "description": "An examination of the role that psychological research plays in understanding people\u2019s feelings, thoughts, and behaviour in relation to climate change and its associated problems. Strategies and interventions that help people cope with climate change and promote eco-friendly behaviour will also be discussed."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Social psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing and PSYC 2100 ."
     },
     {
       "code": "PSYC 4301",
       "name": "Advanced Topics in Health Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in health psychology. The specific content for this course will vary from year to year."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in health psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing and PSYC 2301 ."
     },
     {
       "code": "PSYC 4330",
       "name": "Community Mental Health and Well-Being",
       "credit": "1.0",
-      "description": "An examination of theory, research, and the practice of approaches to support peers and their well-being. Students will apply the concepts learned during the seminars in field placements."
+      "description": "An examination of theory, research, and the practice of approaches to support peers and their well-being. Students will apply the concepts learned during the seminars in field placements.",
+      "prerequisites": "fourth-year Honours standing in Psychology, Mental Health and Well-Being Stream."
     },
     {
       "code": "PSYC 4333",
       "name": "Clinical Psychology: Assessment and Intervention",
       "credit": "0.5",
-      "description": "An advanced seminar on clinical psychology and mental health. Students will learn about frequently used treatment modalities and common factors across treatments. Research methodology and recent advances dealing with a variety of common mental disorders will also be reviewed and discussed."
+      "description": "An advanced seminar on clinical psychology and mental health. Students will learn about frequently used treatment modalities and common factors across treatments. Research methodology and recent advances dealing with a variety of common mental disorders will also be reviewed and discussed.",
+      "prerequisites": "fourth-year Honours standing in Psychology and PSYC 3604 ."
     },
     {
       "code": "PSYC 4400",
       "name": "Advanced Topics in Forensic Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Forensic psychology. The specific content for this course will vary from year to year."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Forensic psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing and PSYC 2400 ."
     },
     {
       "code": "PSYC 4403",
       "name": "Gender and Crime",
       "credit": "0.5",
-      "description": "This course explores the role of gender in understanding, preventing, and treating adult and youthful criminal conduct. The course operates from a psychological and developmental perspective seeking to examine individual differences in female perpetrated criminal conduct across the life span."
+      "description": "This course explores the role of gender in understanding, preventing, and treating adult and youthful criminal conduct. The course operates from a psychological and developmental perspective seeking to examine individual differences in female perpetrated criminal conduct across the life span.",
+      "prerequisites": "fourth-year standing and PSYC 3402 ."
     },
     {
       "code": "PSYC 4404",
       "name": "Sex Offenders",
       "credit": "0.5",
-      "description": "Theory and research concerning the etiology and maintenance of sexual offending; assessment, treatment, and management of sex offenders. Introduction to fundamental issues and controversies in the area."
+      "description": "Theory and research concerning the etiology and maintenance of sexual offending; assessment, treatment, and management of sex offenders. Introduction to fundamental issues and controversies in the area.",
+      "prerequisites": "third- or fourth-year standing, PSYC 2400 , and PSYC 3402 ."
     },
     {
       "code": "PSYC 4410",
       "name": "Children and the Law",
       "credit": "0.5",
-      "description": "This course will explore psychological factors affecting child witnesses and victims as they interact within the criminal justice system. The course will survey the intersection of psychology and law within the areas of eyewitness memory, police procedures, and the criminal justice system."
+      "description": "This course will explore psychological factors affecting child witnesses and victims as they interact within the criminal justice system. The course will survey the intersection of psychology and law within the areas of eyewitness memory, police procedures, and the criminal justice system.",
+      "prerequisites": "fourth-year standing, and PSYC 2400 or PSYC 2500 ."
     },
     {
       "code": "PSYC 4411",
       "name": "Cold Case Investigations",
       "credit": "1.0",
-      "description": "Forensic science, criminal justice, psychology, and investigative techniques equip students with knowledge and practical skills required to tackle unsolved crimes. Expert academics and practitioners will present in the first semester, and in the second semester students actively participate in solving an unsolved cold case."
+      "description": "Forensic science, criminal justice, psychology, and investigative techniques equip students with knowledge and practical skills required to tackle unsolved crimes. Expert academics and practitioners will present in the first semester, and in the second semester students actively participate in solving an unsolved cold case.",
+      "prerequisites": "Major CGPA of 10.0 ( A- ) in Psychology; Fourth-Year Standing; and PSYC 3404 (formerly PSYC 4402, no longer offered)."
     },
     {
       "code": "PSYC 4500",
       "name": "Advanced Topics in Developmental Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in developmental psychology. The specific content for this course will vary from year to year."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in developmental psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing and PSYC 2500 ."
     },
     {
       "code": "PSYC 4600",
       "name": "Advanced Topics in Personality Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in personality psychology. The specific content for this course will vary from year to year."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in personality psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing and PSYC 2600 ."
     },
     {
       "code": "PSYC 4700",
       "name": "Advanced Topics in Cognitive Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in cognitive psychology. The specific content for this course will vary from year to year."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in cognitive psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing, and PSYC 2700 ."
     },
     {
       "code": "PSYC 4801",
       "name": "Occupational Health Psychology",
       "credit": "0.5",
-      "description": "The application of psychological knowledge to enhance employee physical and mental health, safety and well-being, and more broadly, to enrich organizational life. Students will be able to learn and analyze critically the relevant methodological, theoretical, and empirical Occupational Health Psychology literature."
+      "description": "The application of psychological knowledge to enhance employee physical and mental health, safety and well-being, and more broadly, to enrich organizational life. Students will be able to learn and analyze critically the relevant methodological, theoretical, and empirical Occupational Health Psychology literature.",
+      "prerequisites": "third or fourth-year standing and one of PSYC 2100 , PSYC 2301 , PSYC 2801 ."
     },
     {
       "code": "PSYC 4802",
       "name": "Advanced Topics in Organizational Psychology",
       "credit": "0.5",
-      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in organizational psychology. The specific content for this course will vary from year to year."
+      "description": "In-depth exploration of theoretical and empirical issues related to selected topics in organizational psychology. The specific content for this course will vary from year to year.",
+      "prerequisites": "fourth-year standing and PSYC 2801 ."
     },
     {
       "code": "PSYC 4900",
       "name": "Independent Study",
       "credit": "0.5",
-      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program."
+      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program.",
+      "prerequisites": "third- or fourth-year standing in Psychology and permission of the Department."
     },
     {
       "code": "PSYC 4902",
       "name": "Independent Study",
       "credit": "0.5",
-      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program."
+      "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program.",
+      "prerequisites": "third- or fourth-year standing in Psychology and permission of the Department."
     },
     {
       "code": "PSYC 4907",
       "name": "Thesis for B.Sc. with Honours in Psychology",
       "credit": "1.0",
-      "description": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event."
+      "description": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event.",
+      "prerequisites": "fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC 3000 ; one of PSYC 3100 , PSYC 3300 , PSYC 3400 , PSYC 3500 , PSYC 3600 , PSYC 3700 or PSYC 3805; and permission of the Department."
     },
     {
       "code": "PSYC 4908",
       "name": "Thesis for B.A. with Honours in Psychology",
       "credit": "1.0",
-      "description": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event."
+      "description": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event.",
+      "prerequisites": "fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC 3000 ; one of PSYC 3100 , PSYC 3300 , PSYC 3400 , PSYC 3500 , PSYC 3600 , PSYC 3700 , PSYC 3805; and permission of the Department."
     },
     {
       "code": "PSYC 4909",
       "name": "Project for B.Sc. with Honours in Psychology",
       "credit": "1.0",
-      "description": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them."
+      "description": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them.",
+      "prerequisites": "fourth-year standing in B.Sc. (Honours) in Psychology, and PSYC 3000 ."
     },
     {
       "code": "PSYC 4910",
       "name": "Project for B.A. with Honours in Psychology",
       "credit": "1.0",
-      "description": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them."
+      "description": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them.",
+      "prerequisites": "fourth-year standing in B.A (Honours) in Psychology, and PSYC 3000 ."
     }
   ],
   "free_electives": [
@@ -452,7 +515,7 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
     },
     {
       "type": "requirement",
@@ -470,7 +533,13 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
     },
     {
       "type": "requirement",

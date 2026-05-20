@@ -72,6 +72,31 @@ PROGRAMS = {
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CarletonCourseMapBot/1.0)"}
 
 
+def _br_lines(tag):
+    """Split a tag's content into text lines using <br/> as the delimiter."""
+    lines = []
+    current = []
+    for child in tag.children:
+        if child.name == "br":
+            text = " ".join(current).replace("\xa0", " ").strip()
+            if text:
+                lines.append(text)
+            current = []
+        elif hasattr(child, "get_text"):
+            t = child.get_text(" ", strip=True).replace("\xa0", " ")
+            if t:
+                current.append(t)
+        elif isinstance(child, NavigableString):
+            t = child.strip().replace("\xa0", " ")
+            if t:
+                current.append(t)
+    if current:
+        text = " ".join(current).replace("\xa0", " ").strip()
+        if text:
+            lines.append(text)
+    return lines
+
+
 def scrape_program(name, url):
     base_url = url.split("#")[0]
     try:
@@ -125,11 +150,21 @@ def scrape_program(name, url):
                         desc_parts.append(text)
         description = " ".join(desc_parts)
 
+        # prerequisites are in .coursedescadditional, on the "Prerequisite(s):" line
+        prerequisites = ""
+        additional = block.select_one(".coursedescadditional")
+        if additional:
+            for line in _br_lines(additional):
+                if line.lower().startswith("prerequisite"):
+                    prerequisites = re.sub(r"^prerequisite\(s\):\s*", "", line, flags=re.IGNORECASE).strip()
+                    break
+
         courses.append({
             "code": code,
             "name": course_name,
             "credit": credit,
             "description": description,
+            "prerequisites": prerequisites,
         })
 
     free_electives = scrape_free_electives(soup)

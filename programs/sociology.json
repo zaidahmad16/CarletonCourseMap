@@ -6,523 +6,596 @@
       "code": "SOCI 1001",
       "name": "Introduction to Sociology I",
       "credit": "0.5",
-      "description": "Introduction to the discipline of sociology; theory, methods, history; key thinkers, concepts and disciplinary subfields in sociology; issues and problems in contemporary society. Emphasis on the everyday world of lived experience and social relations. Topics may include class, gender, sexuality, racialization, culture, social interaction."
+      "description": "Introduction to the discipline of sociology; theory, methods, history; key thinkers, concepts and disciplinary subfields in sociology; issues and problems in contemporary society. Emphasis on the everyday world of lived experience and social relations. Topics may include class, gender, sexuality, racialization, culture, social interaction.",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 1002",
       "name": "Introduction to Sociology II",
       "credit": "0.5",
-      "description": "This course will further explore and expand upon the key thinkers, concepts and disciplinary subfields in sociology. The focus of analysis will shift from the everyday world to social institutions and structural processes. Topics may include globalization, education, media, health, social movements, colonialism, urbanization."
+      "description": "This course will further explore and expand upon the key thinkers, concepts and disciplinary subfields in sociology. The focus of analysis will shift from the everyday world to social institutions and structural processes. Topics may include globalization, education, media, health, social movements, colonialism, urbanization.",
+      "prerequisites": "SOCI 1001 ."
     },
     {
       "code": "SOCI 1003",
       "name": "Introduction to Sociological Perspectives",
       "credit": "1.0",
-      "description": "Introduction to the discipline of sociology; theory, methods and history; key thinkers, concepts and disciplinary subfields in sociology; issues and problems in contemporary society."
+      "description": "Introduction to the discipline of sociology; theory, methods and history; key thinkers, concepts and disciplinary subfields in sociology; issues and problems in contemporary society.",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 1005",
       "name": "Sociology for Bachelor of Commerce Students",
       "credit": "0.5",
-      "description": "The origins of sociology, why sociology matters, and how it is practiced. Concepts such as class, race, ethnicity, gender, sexual orientation, work, organization, and social movements help students develop their sociological 'eye' for thinking critically about society and their place within it."
+      "description": "The origins of sociology, why sociology matters, and how it is practiced. Concepts such as class, race, ethnicity, gender, sexual orientation, work, organization, and social movements help students develop their sociological 'eye' for thinking critically about society and their place within it.",
+      "prerequisites": "restricted to B.Com. students."
     },
     {
       "code": "SOCI 2000",
       "name": "Foundations of Sociological Inquiry",
       "credit": "0.5",
-      "description": "Introduction to sociological inquiry through the study of sociological approaches to knowledge, the relationship of theory to methods, introduction to different methodological traditions including their epistemological foundations, value and limitations. Students will acquire foundational academic skills."
+      "description": "Introduction to sociological inquiry through the study of sociological approaches to knowledge, the relationship of theory to methods, introduction to different methodological traditions including their epistemological foundations, value and limitations. Students will acquire foundational academic skills.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 ."
     },
     {
       "code": "SOCI 2001",
       "name": "Introduction to Qualitative Research Methods",
       "credit": "0.5",
-      "description": "Introduction to theory and practice of qualitative research methods involving human participants: research design; ethics; data analysis; data generation methods. Methods may include: qualitative interviewing, ethnography, oral history, focus groups, observation. Additional topics may include: historical development/debates in qualitative research/key historical studies."
+      "description": "Introduction to theory and practice of qualitative research methods involving human participants: research design; ethics; data analysis; data generation methods. Methods may include: qualitative interviewing, ethnography, oral history, focus groups, observation. Additional topics may include: historical development/debates in qualitative research/key historical studies.",
+      "prerequisites": "SOCI 2000 ."
+    },
+    {
+      "code": "SOCI 2004",
+      "name": "Data Literacy for Social Sciences",
+      "credit": "0.5",
+      "description": "This course equips students with essential skills in data literacy and visualization. Students will learn to understand and interpret various statistical measures, use Excel and statistical software to analyze and transform data into engaging figures and understand the applications and misapplications of statistical techniques.",
+      "prerequisites": "SOCI 2000 or equivalent."
     },
     {
       "code": "SOCI 2005",
       "name": "Histories of Sociological Thought",
       "credit": "1.0",
-      "description": "Traces theoretical traditions in sociological thought, situating traditions within historical, social and intellectual contexts. At least four of the following will be covered: orientalism, imperialism, colonialism; capitalism, social organization, rationalization; subject formation, identity; self and the everyday; work and leisure; and, social change and revolution."
+      "description": "Traces theoretical traditions in sociological thought, situating traditions within historical, social and intellectual contexts. At least four of the following will be covered: orientalism, imperialism, colonialism; capitalism, social organization, rationalization; subject formation, identity; self and the everyday; work and leisure; and, social change and revolution.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 ."
     },
     {
       "code": "SOCI 2010",
       "name": "Critical Approaches to Economic Inequality",
       "credit": "0.5",
-      "description": "Theoretical and empirical examination of economic inequalities in Canada.  Topics may include the experience of economic marginalization, how economic inequality is reproduced, how economic inequalities intersect with other forces, such as gender and racialized inequality, and struggles to transform the economic organisation of society."
+      "description": "Theoretical and empirical examination of economic inequalities in Canada.  Topics may include the experience of economic marginalization, how economic inequality is reproduced, how economic inequalities intersect with other forces, such as gender and racialized inequality, and struggles to transform the economic organisation of society.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2020",
       "name": "Race and Ethnicity",
       "credit": "0.5",
-      "description": "Introduction to some of the recent theoretical literature and research on the issues of race, racism and ethnicity. Concepts, controversies and definitions dealing with race and ethnicity from the Canadian context and internationally."
-    },
-    {
-      "code": "SOCI 2030",
-      "name": "Work, Industry and Occupations",
-      "credit": "0.5",
-      "description": "An analysis of work practices and settings in societies. Topics of interest include the development of industrial and postindustrial societies; the experience of work, the structuring of work in organizations and in the society; conflict, resistance and labour relations, and the impact of new technologies."
+      "description": "Introduction to some of the recent theoretical literature and research on the issues of race, racism and ethnicity. Concepts, controversies and definitions dealing with race and ethnicity from the Canadian context and internationally.",
+      "prerequisites": "second year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2035",
       "name": "Technology, Culture and Society",
       "credit": "0.5",
-      "description": "Introduction to the principal theories and methods used by Science and Technology Studies (STS) scholars to examine the social and cultural shaping of technology. The substantive focus of the course is on the design, development, production, diffusion, consumption and use of technology."
+      "description": "Introduction to the principal theories and methods used by Science and Technology Studies (STS) scholars to examine the social and cultural shaping of technology. The substantive focus of the course is on the design, development, production, diffusion, consumption and use of technology.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2040",
       "name": "Food, Culture and Society",
       "credit": "0.5",
-      "description": "The sociological analysis of food and eating. The relationship between food and identity; the development of social movements organized around food; and more generally, on practices relating to the production, preparation, and consumption of food."
+      "description": "The sociological analysis of food and eating. The relationship between food and identity; the development of social movements organized around food; and more generally, on practices relating to the production, preparation, and consumption of food.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2043",
       "name": "Sociology of the Family",
       "credit": "0.5",
-      "description": "How do we conceptualize the family? How has family changed over history? What are the diverse realities of families today? This course examines different family forms, relations and dynamics, emphasizing the relationship between family and larger social forces, such as gender, immigration or class."
+      "description": "How do we conceptualize the family? How has family changed over history? What are the diverse realities of families today? This course examines different family forms, relations and dynamics, emphasizing the relationship between family and larger social forces, such as gender, immigration or class.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2045",
       "name": "Gender and Society",
       "credit": "0.5",
-      "description": "How gender and gender relations play out in everyday lives, and how people resist, reproduce, or reinforce gender norms. Considers how gender shapes experiences of family, school, work, media, relationships, bodies, violence, etc. Canadian and global cases are examined."
+      "description": "How gender and gender relations play out in everyday lives, and how people resist, reproduce, or reinforce gender norms. Considers how gender shapes experiences of family, school, work, media, relationships, bodies, violence, etc. Canadian and global cases are examined.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2050",
       "name": "Sociology of Health",
       "credit": "0.5",
-      "description": "Critical approaches to understanding health, illness and healthcare and how social, cultural, political and economic factors affect our health, our experiences with illness, and our encounters with healthcare systems."
+      "description": "Critical approaches to understanding health, illness and healthcare and how social, cultural, political and economic factors affect our health, our experiences with illness, and our encounters with healthcare systems.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2060",
       "name": "Girlhood in Contemporary Contexts: Anthropological and Sociological Perspectives",
       "credit": "0.5",
-      "description": "Drawing on anthropological and sociological approaches, students will explore girls\u2019 lives in diverse cultural, political, economic, and social contexts. Topics may include: movement and migration, education, media, imaging and humanitarianism, consumerism, agency and activism, health, and violence."
+      "description": "Drawing on anthropological and sociological approaches, students will explore girls\u2019 lives in diverse cultural, political, economic, and social contexts. Topics may include: movement and migration, education, media, imaging and humanitarianism, consumerism, agency and activism, health, and violence.",
+      "prerequisites": "second year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2080",
       "name": "Humans/Animals: the More-than-Human in Social Research",
       "credit": "0.5",
-      "description": "Examination of relationships between humans and animals in the sociological and broader social studies canon, including: multispecies ethnography, the role of the \u2018more than human\u2019 in Indigenous legal orders, posthumanist and STS theory, relationships between humans and animals and other non-human entities in the Anthropocene."
+      "description": "Examination of relationships between humans and animals in the sociological and broader social studies canon, including: multispecies ethnography, the role of the \u2018more than human\u2019 in Indigenous legal orders, posthumanist and STS theory, relationships between humans and animals and other non-human entities in the Anthropocene.",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 2150",
       "name": "Social Psychology",
       "credit": "0.5",
-      "description": "Theoretical and empirical consideration of society and the individual. Topics include the public realm, situations, roles and interpersonal relations. Beliefs, attitudes, interests and opinions, leadership and decision making, conformity, coercion and compromise may be also examined."
+      "description": "Theoretical and empirical consideration of society and the individual. Topics include the public realm, situations, roles and interpersonal relations. Beliefs, attitudes, interests and opinions, leadership and decision making, conformity, coercion and compromise may be also examined.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2160",
       "name": "War and Society",
       "credit": "0.5",
-      "description": "Sociological theory and research on large-scale conflict. How society and culture shape warfare through processes of socialization, bureaucratization, and ideological representation. Social impacts of war in terms of gender, race and ethnicity, class relations, and cultural values."
+      "description": "Sociological theory and research on large-scale conflict. How society and culture shape warfare through processes of socialization, bureaucratization, and ideological representation. Social impacts of war in terms of gender, race and ethnicity, class relations, and cultural values.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2170",
       "name": "Foundations in Social Justice",
       "credit": "0.5",
-      "description": "Introduction to the study of social justice and the theorization of social justice sociology.  Critical examination of resistance to oppression, social movements and solidarity both in Canada and transnationally.  Exploration of the relationship between the university and community-based action."
+      "description": "Introduction to the study of social justice and the theorization of social justice sociology.  Critical examination of resistance to oppression, social movements and solidarity both in Canada and transnationally.  Exploration of the relationship between the university and community-based action.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2180",
       "name": "Foundations in Community Engagement",
       "credit": "0.5",
-      "description": "Study of theoretical debates and practical applications relating to community engagement with a focus on Canadian examples. Exploration of the contested and complex meanings of community engagement in and between diverse communities, public institutions, non-profit sector and private enterprise with an emphasis on social justice."
+      "description": "Study of theoretical debates and practical applications relating to community engagement with a focus on Canadian examples. Exploration of the contested and complex meanings of community engagement in and between diverse communities, public institutions, non-profit sector and private enterprise with an emphasis on social justice.",
+      "prerequisites": "Second year standing or permission of instructor."
     },
     {
       "code": "SOCI 2445",
       "name": "Sociology of Deviance",
       "credit": "0.5",
-      "description": "The construction of deviant behaviour and the consequences of such construction for both deviant and conforming persons. Emphasis upon deviance as a normal and necessary result of the socio-cultural processes resulting from, and affecting the activities of a viable society."
+      "description": "The construction of deviant behaviour and the consequences of such construction for both deviant and conforming persons. Emphasis upon deviance as a normal and necessary result of the socio-cultural processes resulting from, and affecting the activities of a viable society.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2450",
       "name": "Crime and Society",
       "credit": "0.5",
-      "description": "Social reactions to crime, criminalization processes, and the criminal justice system, and their intersection with power relations and social inequalities."
+      "description": "Social reactions to crime, criminalization processes, and the criminal justice system, and their intersection with power relations and social inequalities.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2702",
       "name": "Power and Social Change",
       "credit": "0.5",
-      "description": "An investigation of power and culture, with a focus on how ordinary people contribute to social change. Topics may include activism, leisure, consumption, identity, fashion, sexuality, tourism, health, pollution and work."
+      "description": "An investigation of power and culture, with a focus on how ordinary people contribute to social change. Topics may include activism, leisure, consumption, identity, fashion, sexuality, tourism, health, pollution and work.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2705",
       "name": "Popular Culture in the Digital Age",
       "credit": "0.5",
-      "description": "An examination of various approaches to analyzing digital media and their role in the production and consumption of contemporary cultural forms and practices. Students will reflect upon their use of digital media and the influence they have on their lives and popular culture, more generally."
+      "description": "An examination of various approaches to analyzing digital media and their role in the production and consumption of contemporary cultural forms and practices. Students will reflect upon their use of digital media and the influence they have on their lives and popular culture, more generally.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2810",
       "name": "Special Topics in Sociology",
       "credit": "0.5",
-      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered."
+      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2820",
       "name": "Special Topics in Sociology",
       "credit": "0.5",
-      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered."
+      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2910",
       "name": "Course-Related Tutorials in Sociology",
       "credit": "0.5",
-      "description": "Consult the Department for information."
+      "description": "Consult the Department for information.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 2920",
       "name": "Course-Related Tutorials in Sociology",
       "credit": "0.5",
-      "description": "Consult the Department for information."
-    },
-    {
-      "code": "SOCI 3000",
-      "name": "Descriptive Statistics in Social Research",
-      "credit": "0.5",
-      "description": "The conceptual foundations of descriptive statistics and applications of these statistics using software (SPSS or Stata) to analyze and interpret social science data. Topics include frequency distributions, graphs, measures of central tendency and dispersion, measures of association, bivariate regression, and introduction to multivariate statistics."
-    },
-    {
-      "code": "SOCI 3002",
-      "name": "Inferential Statistics in Social Research",
-      "credit": "0.5",
-      "description": "Inferential statistics and hypotheses testing used in social science research. Topics may include relationship between samples and population, methods of sample selection, central limit theorem, confidence levels and confidence intervals, overview of selected hypothesis tests, multivariate data analysis and multiple regression analysis."
+      "description": "Consult the Department for information.",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 3004",
       "name": "Qualitative Research: Approaches and Strategies",
       "credit": "0.5",
-      "description": "Specialized examination of select strategies or approaches to qualitative research.  Topics may include: advanced application of research design involving human participants; historical research methods; textual/document-based research; visual sociologies; critical methodologies (such as feminist or decolonizing methods)."
+      "description": "Specialized examination of select strategies or approaches to qualitative research.  Topics may include: advanced application of research design involving human participants; historical research methods; textual/document-based research; visual sociologies; critical methodologies (such as feminist or decolonizing methods).",
+      "prerequisites": "SOCI 2001 and third-year standing."
     },
     {
       "code": "SOCI 3006",
       "name": "Thinking the Social: Theories and Approaches",
       "credit": "0.5",
-      "description": "Examination of a select sociological tradition or thinker, or theoretically intensive study of a sociological area. Consult the department for topics offered."
+      "description": "Examination of a select sociological tradition or thinker, or theoretically intensive study of a sociological area. Consult the department for topics offered.",
+      "prerequisites": "SOCI 2005 and third-year standing."
+    },
+    {
+      "code": "SOCI 3008",
+      "name": "Data Analysis for Social Sciences",
+      "credit": "0.5",
+      "description": "This course provides students with in-depth knowledge of descriptive and inferential statistics, including measures of central tendency and dispersion, central limit theorem, hypothesis testing, measures of association, correlation and regression analysis.  Students will use statistical software to analyze social science data.",
+      "prerequisites": "SOCI 2004 ."
     },
     {
       "code": "SOCI 3010",
       "name": "Power, Oppression and Resistance",
       "credit": "0.5",
-      "description": "What makes inequalities so persistent?  Theoretical and empirical examination of the intersection of social inequalities in Canada and globally, including class, gender, race and ethnicity and age; study of resistance to structures and cultures of inequalities."
+      "description": "What makes inequalities so persistent?  Theoretical and empirical examination of the intersection of social inequalities in Canada and globally, including class, gender, race and ethnicity and age; study of resistance to structures and cultures of inequalities.",
+      "prerequisites": "second-year standing or permission from the instructor."
+    },
+    {
+      "code": "SOCI 3015",
+      "name": "Palestine: History, Culture and Anti-Colonial Struggle",
+      "credit": "0.5",
+      "description": "This course aims to introduce students to the history and culture of the Palestinians. It discusses the socio-economic and political conditions of Palestinians under Israel\u2019s occupation and settler colonialism. Palestinian cultural and political forms of resistance will also be considered.",
+      "prerequisites": "second-year standing."
     },
     {
       "code": "SOCI 3019",
       "name": "Sociology of International Migration",
       "credit": "0.5",
-      "description": "This course draws from global and interdisciplinary theoretical perspectives to examine primarily though not exclusively Canadian immigration policy and the socio-historical forces shaping policy, migration patterns, permanent, temporary and circular migration, the experiences of immigrants, refugees and migrants; and diasporic and transnational communities and identities."
+      "description": "This course draws from global and interdisciplinary theoretical perspectives to examine primarily though not exclusively Canadian immigration policy and the socio-historical forces shaping policy, migration patterns, permanent, temporary and circular migration, the experiences of immigrants, refugees and migrants; and diasporic and transnational communities and identities.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 3020",
       "name": "Studies in Race and Ethnicity",
       "credit": "0.5",
-      "description": "Race, racism and ethnicity in Canada and internationally. Critical perspectives on race and ethnicity, which intersect with other social relations. Racism, Eurocentrism, Orientalism, nationalism, colonialism, international migration, citizenship, and diasporic cultures."
+      "description": "Race, racism and ethnicity in Canada and internationally. Critical perspectives on race and ethnicity, which intersect with other social relations. Racism, Eurocentrism, Orientalism, nationalism, colonialism, international migration, citizenship, and diasporic cultures.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 3027",
       "name": "Globalization and Human Rights",
       "credit": "0.5",
-      "description": "Examination of the various dimensions and meanings of globalization and its relationship with human rights, with emphasis on the implications of the emerging global economy for economic, social, political and cultural rights."
+      "description": "Examination of the various dimensions and meanings of globalization and its relationship with human rights, with emphasis on the implications of the emerging global economy for economic, social, political and cultural rights.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 3030",
-      "name": "Studies in Work, Industry and Occupations: Authority and Expertise",
+      "name": "Work, Industry, and Occupations",
       "credit": "0.5",
-      "description": "The nature and place of expert knowledge in societies. The development of the practices and organization of the professions and their relation to social stratification, the state, patriarchy and gender; the systematic development of knowledge in societies."
+      "description": "Work as central human activity and social problem. Theories, concepts, and trends in sociology of work and occupations. Topics include labour market inequality; precarious, gig, and service work; occupational segregation; professionalization; organizations; impact of technology; work as a source of identity; worker rights and resistance.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 3035",
       "name": "Science, Culture and Society: Social Studies of Science",
       "credit": "0.5",
-      "description": "Principal theories and methods used by Science and Technology Studies scholars to examine the social construction of scientific knowledge. Topics may include the demarcation of science from non-science, the relationship between experts and laypersons, and the study of scientific controversies."
+      "description": "Principal theories and methods used by Science and Technology Studies scholars to examine the social construction of scientific knowledge. Topics may include the demarcation of science from non-science, the relationship between experts and laypersons, and the study of scientific controversies.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 3038",
       "name": "Studies in Urban Sociology",
       "credit": "0.5",
-      "description": "Issues related to people and the urban environment, including the historical process of urbanization, rural-urban transition, the diffusion of urban values and life styles, contemporary urban problems such as urban renewal, pollution and the pressures of the urban environment on social institutions."
+      "description": "Issues related to people and the urban environment, including the historical process of urbanization, rural-urban transition, the diffusion of urban values and life styles, contemporary urban problems such as urban renewal, pollution and the pressures of the urban environment on social institutions.",
+      "prerequisites": "second-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 3040",
       "name": "Studies in the Sociology of Gender",
       "credit": "0.5",
-      "description": "Sociological and feminist perspectives; applied understandings of gender, gender relations; women's and men's lives in contemporary Canadian society and in historical and cross-cultural terms. Multiple intersections between gender, race, ethnicity, class and sexuality."
+      "description": "Sociological and feminist perspectives; applied understandings of gender, gender relations; women's and men's lives in contemporary Canadian society and in historical and cross-cultural terms. Multiple intersections between gender, race, ethnicity, class and sexuality.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3044",
       "name": "Sociology of Sex and Sexuality",
       "credit": "0.5",
-      "description": "Key concepts of sex, sexuality, gender, eroticism and pleasure. The history of sex and sexuality. The regulation of sexual relations and practices. Social movements relating to sexuality, gender identities and sexual equality."
+      "description": "Key concepts of sex, sexuality, gender, eroticism and pleasure. The history of sex and sexuality. The regulation of sexual relations and practices. Social movements relating to sexuality, gender identities and sexual equality.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3045",
       "name": "Children and Childhood in a Globalized World",
       "credit": "0.5",
-      "description": "A socio-historical and cross-cultural exploration of constructions, deconstructions, and the experience of childhood in Canada and internationally. Compulsory schooling, child labour, protection and regulation in law, the commodification and equalization of childhood, children's social movements, and the emergence of children's rights discourses."
+      "description": "A socio-historical and cross-cultural exploration of constructions, deconstructions, and the experience of childhood in Canada and internationally. Compulsory schooling, child labour, protection and regulation in law, the commodification and equalization of childhood, children's social movements, and the emergence of children's rights discourses.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3050",
       "name": "Studies in the Sociology of Health",
       "credit": "0.5",
-      "description": "Current theory and research on health, disease and social responses to health issues. Topics include population differences incidence and prevalence of morbidity and mortality, access to care and government health policy. Focus upon cultural definitions of health and their consequences for health promotion practices."
+      "description": "Current theory and research on health, disease and social responses to health issues. Topics include population differences incidence and prevalence of morbidity and mortality, access to care and government health policy. Focus upon cultural definitions of health and their consequences for health promotion practices.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3055",
       "name": "Studies in Addictions",
       "credit": "0.5",
-      "description": "Survey of alcohol and other drug use in cross-cultural and sub-group perspectives. Relationships between culture, social structure and patterns of use of psychoactive substances. Topics may include: substance use and the life cycle; gender and psychoactive substances; problem and non-problem use."
+      "description": "Survey of alcohol and other drug use in cross-cultural and sub-group perspectives. Relationships between culture, social structure and patterns of use of psychoactive substances. Topics may include: substance use and the life cycle; gender and psychoactive substances; problem and non-problem use.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3056",
       "name": "Women and Health",
       "credit": "0.5",
-      "description": "Women's health issues and how they relate to social, political and economic factors. The intersection of gender, ethnicity, class, sexual orientation and able-bodiedness with women's health."
+      "description": "Women's health issues and how they relate to social, political and economic factors. The intersection of gender, ethnicity, class, sexual orientation and able-bodiedness with women's health.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3060",
       "name": "Critical Disability Studies",
       "credit": "0.5",
-      "description": "Course engages contemporary disability theory, culture, and activism to consider bodily difference and its relation to the workings of power and social control, accessibility, normalization, ableism, and medicalization. Students will gain an understanding of the contemporary debates, theories, and methodologies of critical disability studies."
+      "description": "Course engages contemporary disability theory, culture, and activism to consider bodily difference and its relation to the workings of power and social control, accessibility, normalization, ableism, and medicalization. Students will gain an understanding of the contemporary debates, theories, and methodologies of critical disability studies.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3150",
       "name": "Sociology of Rightwing Populism",
       "credit": "0.5",
-      "description": "This course will make sense of Trumpism and other rightwing populisms by interrogating their sociological backgrounds and histories. Students will learn to recognize the systems and structures that make populist leaders possible, and how trends in North America relate to far-right movements elsewhere."
+      "description": "This course will make sense of Trumpism and other rightwing populisms by interrogating their sociological backgrounds and histories. Students will learn to recognize the systems and structures that make populist leaders possible, and how trends in North America relate to far-right movements elsewhere.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3160",
       "name": "Political Violence",
       "credit": "0.5",
-      "description": "Sociological examination of political violence. Theoretical analysis of violence as social action that is historically situated and shaped by cultural and economic forces; the relationship between political violence and identity, nation/nationalism, modernity and globalisation."
+      "description": "Sociological examination of political violence. Theoretical analysis of violence as social action that is historically situated and shaped by cultural and economic forces; the relationship between political violence and identity, nation/nationalism, modernity and globalisation.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third year standing."
     },
     {
       "code": "SOCI 3170",
       "name": "Social Justice in Action",
       "credit": "0.5",
-      "description": "Current debates in social justice theory and practice.  The course includes substantial engagement with community actors, including activists and advocates as guest speakers.  Students will be exposed to social justice principles applied in the community through a variety of approaches."
+      "description": "Current debates in social justice theory and practice.  The course includes substantial engagement with community actors, including activists and advocates as guest speakers.  Students will be exposed to social justice principles applied in the community through a variety of approaches.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3210",
       "name": "Special Topics in Sociology",
       "credit": "0.5",
-      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered."
+      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3220",
       "name": "Special Topics in Sociology",
       "credit": "0.5",
-      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered."
+      "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3300",
       "name": "Studies in the Sociology of Education",
       "credit": "0.5",
-      "description": "Critical analysis of selected work in educational sociology. Topics may include sociological theories of education, school ethnography, contemporary educational policy and practice. Note: Topic will vary in keeping with the interests of students and instructor."
+      "description": "Critical analysis of selected work in educational sociology. Topics may include sociological theories of education, school ethnography, contemporary educational policy and practice. Note: Topic will vary in keeping with the interests of students and instructor.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3410",
       "name": "Studies in Criminal Justice",
       "credit": "0.5",
-      "description": "Developments in criminal justice are examined in the context of broader social issues. Particular emphasis will be placed on contemporary developments in criminal justice institutions, programs and practices."
-    },
-    {
-      "code": "SOCI 3420",
-      "name": "Studies in Gender and Criminal Justice",
-      "credit": "0.5",
-      "description": "An overview of current issues related to women as both perpetrators and victims of crime and the Canadian criminal justice system's response to them. Topics may include woman abuse, sexual assault, and federally sentenced women."
+      "description": "Developments in criminal justice are examined in the context of broader social issues. Particular emphasis will be placed on contemporary developments in criminal justice institutions, programs and practices.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3430",
       "name": "Studies in Collective Action and Social Movements",
       "credit": "0.5",
-      "description": "What is a social movement?  How do sociologists distinguish between social movements and revolutions?  What factors influence social movement development?  What do they look like?  Theoretical and empirical study of the relationship between social movements and social change."
+      "description": "What is a social movement?  How do sociologists distinguish between social movements and revolutions?  What factors influence social movement development?  What do they look like?  Theoretical and empirical study of the relationship between social movements and social change.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3480",
       "name": "Law and Social Regulation",
       "credit": "0.5",
-      "description": "A study of sociological theories of law as well as the nature of legal institutions. Impacts of legal regulation on various social institutions and on processes of social debate and conflict."
+      "description": "A study of sociological theories of law as well as the nature of legal institutions. Impacts of legal regulation on various social institutions and on processes of social debate and conflict.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3570",
       "name": "Studies in Art, Culture and Society",
       "credit": "0.5",
-      "description": "Aesthetic practices and institutions. Production and reception of diverse art forms (visual, musical, corporeal, etc.) in various sociocultural contexts. Institutions dedicated to supporting such practices (e.g., museums, theatres, festivals, rituals) are examined through a range of theoretical perspectives."
+      "description": "Aesthetic practices and institutions. Production and reception of diverse art forms (visual, musical, corporeal, etc.) in various sociocultural contexts. Institutions dedicated to supporting such practices (e.g., museums, theatres, festivals, rituals) are examined through a range of theoretical perspectives.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0]; or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3710",
       "name": "Introduction to Cultural Studies",
       "credit": "0.5",
-      "description": "Research and theory in the interdisciplinary area of Cultural Studies. Contemporary cultural change in the advanced industrialized societies and its impact on everyday life."
+      "description": "Research and theory in the interdisciplinary area of Cultural Studies. Contemporary cultural change in the advanced industrialized societies and its impact on everyday life.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0]; or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3805",
       "name": "Studies in Population",
       "credit": "0.5",
-      "description": "Historical and current debates on population growth. Historical declines in fertility and mortality from an international perspective. Contemporary demographic issues such as low fertility, longevity revolution, population aging, inequalities in health, migration and refugees."
+      "description": "Historical and current debates on population growth. Historical declines in fertility and mortality from an international perspective. Contemporary demographic issues such as low fertility, longevity revolution, population aging, inequalities in health, migration and refugees.",
+      "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0]; or ANTH 1001 , or ANTH 1002 , and third-year standing."
     },
     {
       "code": "SOCI 3910",
       "name": "Course-Related Tutorials in Sociology",
       "credit": "0.5",
-      "description": "Consult the Department for information, as departmental permission is required."
+      "description": "Consult the Department for information, as departmental permission is required.",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 3920",
       "name": "Course-Related Tutorials in Sociology",
       "credit": "0.5",
-      "description": "Consult the Department for information, as departmental permission is required."
+      "description": "Consult the Department for information, as departmental permission is required.",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 3950",
       "name": "Practicum Placement in Sociology",
       "credit": "0.5",
-      "description": "This course provides students with the opportunity to apply academic skills and knowledge while working within a sociology-related organization. Placements are organized with support from a co-ordinator."
+      "description": "This course provides students with the opportunity to apply academic skills and knowledge while working within a sociology-related organization. Placements are organized with support from a co-ordinator.",
+      "prerequisites": "third-year standing in Sociology with a GPA of 9.00 or higher and permission of the course instructor. [Students who do not meet the GPA requirement will be considered on a case-by-case basis.]."
     },
     {
       "code": "SOCI 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": ""
+      "description": "",
+      "prerequisites": ""
     },
     {
       "code": "SOCI 4002",
       "name": "Advanced Studies in Sociological Theory",
       "credit": "0.5",
-      "description": "Close study of the works of an author, tendency, or school of thought in theoretical sociology. Topic will vary in keeping with interests of the students and instructor."
+      "description": "Close study of the works of an author, tendency, or school of thought in theoretical sociology. Topic will vary in keeping with interests of the students and instructor.",
+      "prerequisites": "SOCI 3006 and fourth-year standing."
     },
     {
       "code": "SOCI 4003",
       "name": "Advanced Studies in Qualitative Research",
       "credit": "0.5",
-      "description": "In-depth study into selected issues in qualitative research design, implementation and data analysis. Topics covered may include participant observation, ethnomethodology, ethnography, grounded theory, discourse analysis, narrative analysis, textual analysis, and document analysis. Intersections between epistemologies and methodologies."
-    },
-    {
-      "code": "SOCI 4009",
-      "name": "Advanced Studies in Quantitative Research",
-      "credit": "0.5",
-      "description": "Study of specific quantitative methodological issues. Focus may be on one or two of the following topics: quantitative research design, sampling techniques, survey research methods and various statistical research methods including OLS and logistic regression."
+      "description": "In-depth study into selected issues in qualitative research design, implementation and data analysis. Topics covered may include participant observation, ethnomethodology, ethnography, grounded theory, discourse analysis, narrative analysis, textual analysis, and document analysis. Intersections between epistemologies and methodologies.",
+      "prerequisites": "SOCI 3004 and fourth-year standing."
     },
     {
       "code": "SOCI 4020",
       "name": "Advanced Studies in Race and Ethnicity",
       "credit": "0.5",
-      "description": "Selected topics in race and ethnicity in an international context. Specific topics will vary according to instructors' research interests."
+      "description": "Selected topics in race and ethnicity in an international context. Specific topics will vary according to instructors' research interests.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4039",
       "name": "Women in Contemporary Middle East Societies",
       "credit": "0.5",
-      "description": "Socio-economic, political and cultural realities of Middle Eastern women with focus on their lived experiences, voices and stories. Focus on women in Palestine/Israel with consideration of other Middle Eastern women."
+      "description": "Socio-economic, political and cultural realities of Middle Eastern women with focus on their lived experiences, voices and stories. Focus on women in Palestine/Israel with consideration of other Middle Eastern women.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4040",
       "name": "Feminist Sociology of Intersectionality",
       "credit": "0.5",
-      "description": "Theoretical and empirical examination of  gender relations and gendered inequality with emphasis on the complex intersection of gender with race, ethnicity, religion, class, sexuality, (dis)ability and other relations of power in feminist scholarship, social justice movements, law and policy."
+      "description": "Theoretical and empirical examination of  gender relations and gendered inequality with emphasis on the complex intersection of gender with race, ethnicity, religion, class, sexuality, (dis)ability and other relations of power in feminist scholarship, social justice movements, law and policy.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4043",
       "name": "Families in the 21st Century",
       "credit": "0.5",
-      "description": "Examination of contemporary family forms including single-parent-, blended/step-, LGBTQ- and common-law families. Topics may include theoretical perspectives; reproductive technologies; globalization; migration; interracial families; cohabitation; separation/divorce; motherhood/fatherhood; childcare/domestic labour; children/youth; intergenerational relations; social class/poverty; family policies and family law."
+      "description": "Examination of contemporary family forms including single-parent-, blended/step-, LGBTQ- and common-law families. Topics may include theoretical perspectives; reproductive technologies; globalization; migration; interracial families; cohabitation; separation/divorce; motherhood/fatherhood; childcare/domestic labour; children/youth; intergenerational relations; social class/poverty; family policies and family law.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4050",
       "name": "Ethical Issues in Health and Healthcare",
       "credit": "0.5",
-      "description": "A study of the diverse ethical frameworks that inform and interrogate health, healthcare, and biomedicine. Potential topics include: history of bioethics; critical bioethics; ethics of care; health inequities; Indigenous healthcare; human enhancement; novel genetic technologies; ageing; vaccine politics."
+      "description": "A study of the diverse ethical frameworks that inform and interrogate health, healthcare, and biomedicine. Potential topics include: history of bioethics; critical bioethics; ethics of care; health inequities; Indigenous healthcare; human enhancement; novel genetic technologies; ageing; vaccine politics.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
+    },
+    {
+      "code": "SOCI 4102",
+      "name": "Multiple Regression Analysis",
+      "credit": "0.5",
+      "description": "An in-depth study of multiple regression analysis and its application in social science research. Interpretation and communication of the results are emphasized. The course provides an overview of descriptive and inferential statistics. Students learn how to use STATA/SAS to analyze social survey data.",
+      "prerequisites": "SOCI 3008 or equivalent and fourth-year standing."
     },
     {
       "code": "SOCI 4160",
       "name": "War, Terrorism and State Terrorism",
       "credit": "0.5",
-      "description": "Critical theoretical and empirical analysis of violent political conflict.  Examination of transformations and continuities of war, terrorism and state terrorism; modalities of political violence, such as torture or disappearance; responses to violent conflict; and the representation and construction of political violence."
+      "description": "Critical theoretical and empirical analysis of violent political conflict.  Examination of transformations and continuities of war, terrorism and state terrorism; modalities of political violence, such as torture or disappearance; responses to violent conflict; and the representation and construction of political violence.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4170",
       "name": "Community-Engaged Sociology",
       "credit": "0.5",
-      "description": "Students will apply their sociological education working with community organizations in small teams to research issues and advocate for positive social change. Each team\u2019s project will include public education, sociological analysis and creating a tangible product for the partner organization."
+      "description": "Students will apply their sociological education working with community organizations in small teams to research issues and advocate for positive social change. Each team\u2019s project will include public education, sociological analysis and creating a tangible product for the partner organization.",
+      "prerequisites": "third-year or fourth-year standing, or permission from the instructor of SOCI 4170 ."
     },
     {
       "code": "SOCI 4171",
       "name": "Community Engagement Capstone",
       "credit": "0.5",
-      "description": "Students in the capstone will reflect on their engagement experiences and advance their critical understanding of community through a series of in-class activities and readings. Students will produce a public-facing artifact (e.g., blog, podcast, video) related to their experiences, potentially in collaboration with community partners."
-    },
-    {
-      "code": "SOCI 4200",
-      "name": "War, Security and Citizenship",
-      "credit": "0.5",
-      "description": "Critical theoretical and multidisciplinary examination of violent conflict, security and citizenship. How wars produce a variety of abject and new subjects, create and reproduce citizenship hierarchies, and expand and contract citizenship entitlements."
+      "description": "Students in the capstone will reflect on their engagement experiences and advance their critical understanding of community through a series of in-class activities and readings. Students will produce a public-facing artifact (e.g., blog, podcast, video) related to their experiences, potentially in collaboration with community partners.",
+      "prerequisites": "SOCI 2180 and fourth year standing or permission of the instructor."
     },
     {
       "code": "SOCI 4410",
       "name": "Advanced Studies in Criminology",
       "credit": "0.5",
-      "description": "Crime, criminal justice, social processes relating to the implementation of criminal justice policy, or other aspects of criminality and deviance."
+      "description": "Crime, criminal justice, social processes relating to the implementation of criminal justice policy, or other aspects of criminality and deviance.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4480",
       "name": "Advanced Studies in the Sociology of Law",
       "credit": "0.5",
-      "description": "Contemporary debates about the role of law in society focusing on the potential and limits of law as a vehicle of social transformation."
+      "description": "Contemporary debates about the role of law in society focusing on the potential and limits of law as a vehicle of social transformation.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4700",
       "name": "Honours Capstone Seminar",
       "credit": "0.5",
-      "description": "Students carry out a small-scale research project to hone transferable skills acquired over the course of the degree programme."
+      "description": "Students carry out a small-scale research project to hone transferable skills acquired over the course of the degree programme.",
+      "prerequisites": "fourth-year standing."
     },
     {
       "code": "SOCI 4702",
       "name": "Special Topic in Criminal Justice and Social Policy",
       "credit": "0.5",
-      "description": "Examination of a selected topic in criminal justice and social policy. Topics to be announced."
+      "description": "Examination of a special topic in criminal justice and social policy. Topics to be announced.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4730",
       "name": "Colonialism and Post-Colonialism",
       "credit": "0.5",
-      "description": "Comparative ethnographic and historical approaches to colonialism including topics such as the formation of colonial regimes, colonial governmentality, servile labour systems, missionization, anti-colonial resistance, cultural hybridization and post-colonial memory. Exploration of debates over the relation between colonialism and the production of social scientific knowledge."
+      "description": "Comparative ethnographic and historical approaches to colonialism including topics such as the formation of colonial regimes, colonial governmentality, servile labour systems, missionization, anti-colonial resistance, cultural hybridization and post-colonial memory. Exploration of debates over the relation between colonialism and the production of social scientific knowledge.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4810",
       "name": "Advanced Studies in Social Policy",
       "credit": "0.5",
-      "description": "An examination of sociological research and social intervention."
+      "description": "An examination of sociological research and social intervention.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4850",
       "name": "Contemporary Problems in Sociology",
       "credit": "0.5",
-      "description": "Selected problems in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered."
+      "description": "Selected problems in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4860",
       "name": "Contemporary Problems in Sociology",
       "credit": "0.5",
-      "description": "Selected problems in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered."
+      "description": "Selected problems in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4900",
       "name": "Honours Thesis",
       "credit": "1.0",
-      "description": "An independent research project under the supervision of a faculty member.  Seminar supports students through each stage of the research process: development of a research question, designing the project, crafting a proposal, carrying out data generation and analysis, and writing the final thesis."
+      "description": "An independent research project under the supervision of a faculty member.  Seminar supports students through each stage of the research process: development of a research question, designing the project, crafting a proposal, carrying out data generation and analysis, and writing the final thesis.",
+      "prerequisites": "fourth-year standing in the Sociology B.A. Honours with a CGPA of 9.00 or higher in the Major or by permission of the instructor. Students are strongly encouraged to locate a faculty member to supervise their Honours Thesis prior to the start of this course."
     },
     {
       "code": "SOCI 4910",
       "name": "Tutorial in Sociology",
       "credit": "0.5",
-      "description": "Consult the Department for information."
+      "description": "Consult the Department for information.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     },
     {
       "code": "SOCI 4920",
       "name": "Tutorial in Sociology",
       "credit": "0.5",
-      "description": "Consult the Department for information."
+      "description": "Consult the Department for information.",
+      "prerequisites": "fourth-year standing or permission from the instructor."
     }
   ],
   "free_electives": [

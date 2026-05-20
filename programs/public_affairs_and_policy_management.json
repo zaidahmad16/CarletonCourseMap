@@ -6,55 +6,64 @@
       "code": "PAPM 1001",
       "name": "Policy: Analysis, Implementation, and Evaluation",
       "credit": "0.5",
-      "description": "The processes of policy-making, implementation and evaluation. Forces that shape policy deliberations and alternative tools for managing policy action and policy evaluation. Theoretical approaches to understanding the origins of policy, and methods by which programs are designed and assessed."
+      "description": "The processes of policy-making, implementation and evaluation. Forces that shape policy deliberations and alternative tools for managing policy action and policy evaluation. Theoretical approaches to understanding the origins of policy, and methods by which programs are designed and assessed.",
+      "prerequisites": ""
     },
     {
       "code": "PAPM 2001",
       "name": "Foundations of Public Policy: Political Thought",
       "credit": "0.5",
-      "description": "Theoretical, philosophical and ethical foundations for the study of public affairs and policy management. Drawing from classic and contemporary texts in political philosophy and theory, students consider issues relating to the nature of democracy, civic society and social organizations, the public, public affairs, public interest."
+      "description": "Theoretical, philosophical and ethical foundations for the study of public affairs and policy management. Drawing from classic and contemporary texts in political philosophy and theory, students consider issues relating to the nature of democracy, civic society and social organizations, the public, public affairs, public interest.",
+      "prerequisites": "PAPM 1001 , PSCI 2003 , and second-year standing."
     },
     {
       "code": "PAPM 2002",
       "name": "Foundations of Public Policy: Economic Thought",
       "credit": "0.5",
-      "description": "An examination of the history of economic thought, the context in which it developed, and its influence on public policy, from ancient to classical, neoclassical, and Keynesian approaches. Will also include a discussion of critical approaches such as Marxist, feminist, racial capitalist thought."
+      "description": "An examination of the history of economic thought, the context in which it developed, and its influence on public policy, from ancient to classical, neoclassical, and Keynesian approaches. Will also include a discussion of critical approaches such as Marxist, feminist, racial capitalist thought.",
+      "prerequisites": "PAPM 1001 , PSCI 2003 , and second-year standing."
     },
     {
       "code": "PAPM 3000",
       "name": "Policy Research",
       "credit": "0.5",
-      "description": "An examination of the research strategies and techniques relevant to policy analysis and evaluation. Using the case study method, the role of research and research organizations in the policy process is discussed. The issue of ethical dilemmas in policy research is also considered."
+      "description": "An examination of the research strategies and techniques relevant to policy analysis and evaluation. Using the case study method, the role of research and research organizations in the policy process is discussed. The issue of ethical dilemmas in policy research is also considered.",
+      "prerequisites": "PSCI 2701 and PSCI 2702 , or COMM 2001, or ECON 2201 and ECON 2202 and Good Standing in the Bachelor of Public Affairs and Policy Management program."
     },
     {
       "code": "PAPM 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": ""
+      "description": "",
+      "prerequisites": ""
     },
     {
       "code": "PAPM 4000",
       "name": "Capstone Seminar in Public Affairs and Policy Management",
       "credit": "0.5",
-      "description": "Policy workshop focusing on the application of public affairs analysis to develop problem solving and research skills. Seminar is policy-focused and organized by area of Specialization in the program. Students, working in small groups, examine concrete policy problems, actual or simulated, in specific institutional contexts."
+      "description": "Policy workshop focusing on the application of public affairs analysis to develop problem solving and research skills. Seminar is policy-focused and organized by area of Specialization in the program. Students, working in small groups, examine concrete policy problems, actual or simulated, in specific institutional contexts.",
+      "prerequisites": "PAPM 3000 and Good Standing in the Bachelor of Public Affairs and Policy Management program."
     },
     {
       "code": "PAPM 4099",
       "name": "Policy Seminar",
       "credit": "0.5",
-      "description": "Students address a specific policy problem or problems, in interaction with local, national or international policy experts or practitioners. Emphasis on policy analysis, research, and communication skills."
+      "description": "Students address a specific policy problem or problems, in interaction with local, national or international policy experts or practitioners. Emphasis on policy analysis, research, and communication skills.",
+      "prerequisites": "PAPM 3000 ."
     },
     {
       "code": "PAPM 4100",
       "name": "Special Topics in Public Affairs and Policy Management",
       "credit": "0.5",
-      "description": "Analysis of selected issues in public affairs and policy management not ordinarily treated in the regular course program. The choice of topics will vary from year to year. Students should consult with the College regarding the topic offered."
+      "description": "Analysis of selected issues in public affairs and policy management not ordinarily treated in the regular course program. The choice of topics will vary from year to year. Students should consult with the College regarding the topic offered.",
+      "prerequisites": "fourth-year standing in the B.P.A.P.M. program or permission of the Kroeger College."
     },
     {
       "code": "PAPM 4908",
       "name": "Honours Research Essay",
       "credit": "1.0",
-      "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader. Students are responsible for locating a faculty member willing to supervise the essay. Departmental regulations apply."
+      "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader. Students are responsible for locating a faculty member willing to supervise the essay. Departmental regulations apply.",
+      "prerequisites": "PAPM 3000 and fourth-year standing in the Bachelor of Public Affairs and Policy Management program with a Major CGPA or 9.0 or better, or permission of the Director of the Public Affairs and Policy Management program."
     }
   ],
   "free_electives": [

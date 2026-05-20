@@ -6,303 +6,352 @@
       "code": "ITEC 1005",
       "name": "Web Development",
       "credit": "0.5",
-      "description": "Introduction to Web development. Combining graphics, text, audio, and video to create Web sites; developing different, major working Web sites on an individual basis and in groups, using valid HTML5, cascading style sheets (CSS3), JavaScript and XML structures."
+      "description": "Introduction to Web development. Combining graphics, text, audio, and video to create Web sites; developing different, major working Web sites on an individual basis and in groups, using valid HTML5, cascading style sheets (CSS3), JavaScript and XML structures.",
+      "prerequisites": ""
     },
     {
       "code": "ITEC 1100",
       "name": "Introduction to Interactive Media Design",
       "credit": "0.5",
-      "description": "Introduction to interactive multimedia and design, focused on the production and processes of animation, visual fx, game design and development, web design and development, and user experience/interfaces. Topics include: mark-up languages, design process/problem-solving tools, human-centered design, product development, ethics, and copyright and intellectual property."
+      "description": "Introduction to interactive multimedia and design, focused on the production and processes of animation, visual fx, game design and development, web design and development, and user experience/interfaces. Topics include: mark-up languages, design process/problem-solving tools, human-centered design, product development, ethics, and copyright and intellectual property.",
+      "prerequisites": "For students not enrolled in CSIT programs."
     },
     {
       "code": "ITEC 1400",
       "name": "Introduction to Programming and Problem Solving",
       "credit": "0.5",
-      "description": "Introduction to basic concepts of procedural programming and algorithm design in C. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, structures, arrays, pointers, debugging, algorithmic thinking and pseudocode, computer architecture, operating systems, and libraries."
+      "description": "Introduction to basic concepts of procedural programming and algorithm design in C. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, structures, arrays, pointers, debugging, algorithmic thinking and pseudocode, computer architecture, operating systems, and libraries.",
+      "prerequisites": ""
     },
     {
       "code": "ITEC 1401",
       "name": "Introduction to Scripting and Problem Solving",
       "credit": "0.5",
-      "description": "Introduction to basic concepts of object-oriented scripting and algorithm design in Python. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, arrays, tuples, lists, debugging, algorithms and pseudocode, computer architecture, operating systems, and libraries."
+      "description": "Introduction to basic concepts of object-oriented scripting and algorithm design in Python. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, arrays, tuples, lists, debugging, algorithms and pseudocode, computer architecture, operating systems, and libraries.",
+      "prerequisites": ""
     },
     {
       "code": "ITEC 2000",
       "name": "Multimedia Data Management",
       "credit": "0.5",
-      "description": "Issues involving the back-end organization of information focusing on databases and database design, server-side scripting, the structured query language (SQL), digital rights management, and watermarking."
+      "description": "Issues involving the back-end organization of information focusing on databases and database design, server-side scripting, the structured query language (SQL), digital rights management, and watermarking.",
+      "prerequisites": "BIT 1400 or ITEC 1400 or ITEC 1401 and IMD 1005 or IRM 1005 or ITEC 1005 ."
     },
     {
       "code": "ITEC 2100",
       "name": "Data Visualization",
       "credit": "0.5",
-      "description": "Web-based data visualization techniques and systems. Good design practices for visualization, tools for visualization of data from a variety of fields, and programming of interactive web-based visualizations focusing on JavaScript, CSS, and related libraries."
+      "description": "Web-based data visualization techniques and systems. Good design practices for visualization, tools for visualization of data from a variety of fields, and programming of interactive web-based visualizations focusing on JavaScript, CSS, and related libraries.",
+      "prerequisites": "ITEC 1005 and ITEC 1400 or ITEC 1401 ."
     },
     {
       "code": "ITEC 2400",
       "name": "Intermediate Programming",
       "credit": "0.5",
-      "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching."
+      "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching.",
+      "prerequisites": "ITEC 1400 ."
     },
     {
       "code": "ITEC 2401",
       "name": "Intermediate Scripting",
       "credit": "0.5",
-      "description": "Introduction to advanced object-oriented scripting and algorithm design in Python. Topics include class design and encapsulation, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists, sorting, and searching."
+      "description": "Introduction to advanced object-oriented scripting and algorithm design in Python. Topics include class design and encapsulation, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists, sorting, and searching.",
+      "prerequisites": "ITEC 1401 ."
     },
     {
       "code": "ITEC 3100",
       "name": "Immersive Storytelling",
       "credit": "0.5",
-      "description": "The craft of digital storytelling, creating compelling online and game-engine packages. Using a variety of narrative formats, interactive tools, and digital content, including blogs and RSS feeds, developing an in-depth story using leading edge technologies and techniques."
+      "description": "The craft of digital storytelling, creating compelling online and game-engine packages. Using a variety of narrative formats, interactive tools, and digital content, including blogs and RSS feeds, developing an in-depth story using leading edge technologies and techniques.",
+      "prerequisites": "MPAD 2004 or CCDP 3003 ."
     },
     {
       "code": "ITEC 4007",
       "name": "Dynamics and Physics-Based Animation",
       "credit": "0.5",
-      "description": "This course deals with the essentials of physics-based animations and dynamics; topics include basics of animation mechanics, collision detection, particle systems, and dynamic systems (cloth, fluid, and hair)."
+      "description": "This course deals with the essentials of physics-based animations and dynamics; topics include basics of animation mechanics, collision detection, particle systems, and dynamic systems (cloth, fluid, and hair).",
+      "prerequisites": "BIT 1100 and IMD 3002 or equivalent."
     },
     {
       "code": "ITEC 4009",
       "name": "Rigging and Advanced Character Animation",
       "credit": "0.5",
-      "description": "This course covers the elements of rigging and advanced character animation; topics include the basics of forwards/inverse kinematics, controls, and weighting, essentials of human and creature rigging, retargeting, face and body motion capture, and motion studies for advanced keyframe animation."
+      "description": "This course covers the elements of rigging and advanced character animation; topics include the basics of forwards/inverse kinematics, controls, and weighting, essentials of human and creature rigging, retargeting, face and body motion capture, and motion studies for advanced keyframe animation.",
+      "prerequisites": "IMD 3002 and IMD 3900 or equivalent."
     },
     {
       "code": "ITEC 4010",
       "name": "Visual Effects and Compositing",
       "credit": "0.5",
-      "description": "This course covers the essentials of Visual FX and compositing, topics include camera setups (motion control systems), set issues, match-moving, image-based lighting, chroma-keying and object extraction, colour correction, 2D tracking, and rotoscoping."
+      "description": "This course covers the essentials of Visual FX and compositing, topics include camera setups (motion control systems), set issues, match-moving, image-based lighting, chroma-keying and object extraction, colour correction, 2D tracking, and rotoscoping.",
+      "prerequisites": "IMD 3002 or equivalent."
     },
     {
       "code": "ITEC 4011",
       "name": "Artificial Intelligence for Digital Media",
       "credit": "0.5",
-      "description": "This course covers the basics of artificial intelligence in games and animation, including behaviour and crowd systems (e.g. boids, reciprocal velocity obstacles, social forces, agent-based modelling, cellular automata), path finding and route planning, as well as procedural animation systems."
+      "description": "This course covers the basics of artificial intelligence in games and animation, including behaviour and crowd systems (e.g. boids, reciprocal velocity obstacles, social forces, agent-based modelling, cellular automata), path finding and route planning, as well as procedural animation systems.",
+      "prerequisites": "BIT 2400 or ITEC 2400 or ITEC 2401 or equivalent."
     },
     {
       "code": "ITEC 4012",
       "name": "Web Application Frameworks",
       "credit": "0.5",
-      "description": "A detailed look at web application frameworks, focusing client and server-side frameworks that enable more advanced user interactions, including configuration, understanding functionality, and develop with them effectively."
+      "description": "A detailed look at web application frameworks, focusing client and server-side frameworks that enable more advanced user interactions, including configuration, understanding functionality, and develop with them effectively.",
+      "prerequisites": "IMD 1005 or ITEC 1005 ."
     },
     {
       "code": "ITEC 4014",
       "name": "User Experience Design and Accessibility",
       "credit": "0.5",
-      "description": "User experience (UX) of interactive systems, including product and service design, usability and UX research. Emphasis on accessibility, with topics including creating accessible systems for users with a range of abilities, accessibility standards, and validation of designs in a practical context."
+      "description": "User experience (UX) of interactive systems, including product and service design, usability and UX research. Emphasis on accessibility, with topics including creating accessible systems for users with a range of abilities, accessibility standards, and validation of designs in a practical context.",
+      "prerequisites": "IMD 3004 or MPAD 1002 ."
     },
     {
       "code": "ITEC 4015",
       "name": "Designing and Producing Sound",
       "credit": "0.5",
-      "description": "Introduces the concepts of digital audio & music specifically how it relates to digital media (games, film, mobile, etc). Topics include, digital audio recording, multitrack production and mixing, foley effects, signal processing for effect, time & spatial variations, and studio recording."
+      "description": "Introduces the concepts of digital audio & music specifically how it relates to digital media (games, film, mobile, etc). Topics include, digital audio recording, multitrack production and mixing, foley effects, signal processing for effect, time & spatial variations, and studio recording.",
+      "prerequisites": "Third-year standing in any degree program."
     },
     {
       "code": "ITEC 4016",
       "name": "Virtual and Augmented Reality",
       "credit": "0.5",
-      "description": "Design, development, and evaluation of virtual and augmented reality systems. Topics include VR/AR history, applications, hardware (display and input devices), software, interaction techniques for navigation, selection, manipulation, human factors, and empirical validation. Projects will use modern 3D game engines and VR/AR devices."
+      "description": "Design, development, and evaluation of virtual and augmented reality systems. Topics include VR/AR history, applications, hardware (display and input devices), software, interaction techniques for navigation, selection, manipulation, human factors, and empirical validation. Projects will use modern 3D game engines and VR/AR devices.",
+      "prerequisites": "IMD 2006 or ITEC 3100 ."
     },
     {
       "code": "ITEC 4017",
       "name": "Photo and Non-Photo-Realistic Rendering",
       "credit": "0.5",
-      "description": "This course deals with physically-based rendering methods and techniques in the global illumination field; topics include the rendering equation, ray and path tracing, radiosity rendering, photon mapping, final gather methods, materials and shaders, as well taking a look at non-photo-realistic rendering."
+      "description": "This course deals with physically-based rendering methods and techniques in the global illumination field; topics include the rendering equation, ray and path tracing, radiosity rendering, photon mapping, final gather methods, materials and shaders, as well taking a look at non-photo-realistic rendering.",
+      "prerequisites": "Third-year standing in any degree program."
     },
     {
       "code": "ITEC 4018",
       "name": "GPU Programming and Real-Time Rendering",
       "credit": "0.5",
-      "description": "This course deals with the programming of the Graphics Processing Unit (GPU); topics include real-time rendering, shaders, and other advanced programming techniques that utilise single-instruction / multiple thread parallel processing units."
+      "description": "This course deals with the programming of the Graphics Processing Unit (GPU); topics include real-time rendering, shaders, and other advanced programming techniques that utilise single-instruction / multiple thread parallel processing units.",
+      "prerequisites": "BIT 2400 or equivalent."
     },
     {
       "code": "ITEC 4019",
       "name": "Directing and Cinematography for Digital Storytelling",
       "credit": "0.5",
-      "description": "This course covers the basics of being a director in a digital storytelling environment, including the basics of direction, dealing with actors, following scripts, and dealing with elements of cinematography; including lighting, cameras, shade, and shadow."
+      "description": "This course covers the basics of being a director in a digital storytelling environment, including the basics of direction, dealing with actors, following scripts, and dealing with elements of cinematography; including lighting, cameras, shade, and shadow.",
+      "prerequisites": "Third-year standing in any degree program."
     },
     {
       "code": "ITEC 4020",
       "name": "Environment and Architectural Modelling",
       "credit": "0.5",
-      "description": "The course deals with the creation, development, and use of assets for digital environments; with specific focus on the workflows associated with scene construction and architectural modelling for a variety of real-time and non-real-time systems."
+      "description": "The course deals with the creation, development, and use of assets for digital environments; with specific focus on the workflows associated with scene construction and architectural modelling for a variety of real-time and non-real-time systems.",
+      "prerequisites": "Third-year standing in any degree program."
     },
     {
       "code": "ITEC 4021",
       "name": "Empirical Research Methods in HCI",
       "credit": "0.5",
-      "description": "Advanced quantitative methods and conducting controlled user studies, statistically analyzing and reporting results in a research paper. Topics include history of empirical HCI, experiment design, hypothesis testing, interaction models, and scientific writing. Students complete a term-long research project."
+      "description": "Advanced quantitative methods and conducting controlled user studies, statistically analyzing and reporting results in a research paper. Topics include history of empirical HCI, experiment design, hypothesis testing, interaction models, and scientific writing. Students complete a term-long research project.",
+      "prerequisites": "IMD 3004 or 4th year standing in the BMPD program."
     },
     {
       "code": "MPAD 1001",
       "name": "Introduction to Storytelling: The Context",
       "credit": "0.5",
-      "description": "Theories, origins and evolution of story within society as the digital age shapes the way we construct and consume narratives. How stories are conceived through words, sound and images, and how they resonate with and influence audiences."
+      "description": "Theories, origins and evolution of story within society as the digital age shapes the way we construct and consume narratives. How stories are conceived through words, sound and images, and how they resonate with and influence audiences.",
+      "prerequisites": ""
     },
     {
       "code": "MPAD 1002",
       "name": "Introduction to Storytelling: The Practice",
       "credit": "0.5",
-      "description": "Finding and telling stories in engaging ways using interactive digital mediums.  Assignments build basic skills that may include research, interviewing, writing, storytelling, prototyping, editing, and ethics while focussing on how to structure and develop a fact-based digital media project for dissemination."
+      "description": "Finding and telling stories in engaging ways using interactive digital mediums.  Assignments build basic skills that may include research, interviewing, writing, storytelling, prototyping, editing, and ethics while focusing on how to structure and develop a fact-based digital media project for dissemination.",
+      "prerequisites": "MPAD 1001 ."
     },
     {
       "code": "MPAD 2001",
       "name": "Basics of Visual Communication I",
       "credit": "0.5",
-      "description": "Introducing visual storytelling through an array of print, digital, and /or interactive media.  Students will explore concepts such as visual literacy, rules of composition, and iconography while learning industry-standard software and tools."
+      "description": "Introducing visual storytelling through an array of print, digital, and /or interactive media.  Students will explore concepts such as visual literacy, rules of composition, and iconography while learning industry-standard software and tools.",
+      "prerequisites": "MPAD 1002 ."
     },
     {
       "code": "MPAD 2002",
       "name": "Basics of Visual Communication II",
       "credit": "0.5",
-      "description": "This course expands on the concepts introduced in while introducing additional visual storytelling theories and skills.  Students will explore how visual storytelling is incorporated within multimedia projects using a wide range of techniques and tools."
+      "description": "This course expands on the concepts introduced in while introducing additional visual storytelling theories and skills.  Students will explore how visual storytelling is incorporated within multimedia projects using a wide range of techniques and tools.",
+      "prerequisites": "MPAD 2001 ."
     },
     {
       "code": "MPAD 2003",
       "name": "Introductory Data Storytelling",
       "credit": "0.5",
-      "description": "Governments use data for tracking. Numbers guide public policy and can become powerful and important stories. Students will gain a theoretical understanding of the promise and pitfalls of data availability alongside the practical skills needed for powerful data-based storytelling."
+      "description": "Governments use data for tracking. Numbers guide public policy and can become powerful and important stories. Students will gain a theoretical understanding of the promise and pitfalls of data availability alongside the practical skills needed for powerful data-based storytelling.",
+      "prerequisites": "MPAD 1002 ."
     },
     {
       "code": "MPAD 2004",
       "name": "Writing for Media",
       "credit": "0.5",
-      "description": "Honing of essential writing skills while building on students' baseline capabilities.  Coursework is based on the principle that the best way to improve technique is through regular writing and editing, supported by constructive critiques."
+      "description": "Honing of essential writing skills while building on students' baseline capabilities.  Coursework is based on the principle that the best way to improve technique is through regular writing and editing, supported by constructive critiques.",
+      "prerequisites": "MPAD 1002 ."
     },
     {
-      "code": "MPAD 2501",
-      "name": "Media Law",
+      "code": "MPAD 2400",
+      "name": "Media Law and Ethics in a Digital World",
       "credit": "0.5",
-      "description": "A survey of laws that affect the Canadian media. Specific areas include the development of freedom of expression, the Charter of Rights and Freedoms, and statutory and common law limitations on freedoms of the press, including publication bans, libel and contempt of court."
+      "description": "Survey of Canadian laws and ethical issues that affect production and dissemination of digital media, including Charter of Rights and Freedoms, limitations on freedom of the press, including publication bans, libel and contempt of court. Different approaches to ethical decision-making and their applications.",
+      "prerequisites": "JOUR 1001 , JOUR 1002 , COMS 1001 , COMS 1002 , or enrollment in the Bachelor of Media Production and Design, or enrollment in the  Minor in News Media and Information, or enrollment in the Communications and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication."
     },
     {
       "code": "MPAD 3000",
       "name": "Directed Studies",
       "credit": "0.5",
-      "description": "Directed Studies on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study."
+      "description": "Directed Studies on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
+      "prerequisites": "Third year standing in Media Production and Design or permission from the School of Journalism and Communication."
     },
     {
       "code": "MPAD 3001",
       "name": "Storytelling and Social Media",
       "credit": "0.5",
-      "description": "Exploring the different ways social media platforms can be used to tell stories.  Through production and/or critiquing of social media content and trends students will learn about social media's impact and how they can be responsible digital citizens."
+      "description": "Exploring the different ways social media platforms can be used to tell stories.  Through production and/or critiquing of social media content and trends students will learn about social media's impact and how they can be responsible digital citizens.",
+      "prerequisites": "MPAD 2004 ."
     },
     {
       "code": "MPAD 3002",
       "name": "Civics for Journalists",
       "credit": "0.5",
-      "description": "This course offers an overview of key public institutions and civil society organizations in Canada to prepare aspiring journalists to effectively and critically engage with these actors in generating important and illuminating coverage of public affairs."
+      "description": "This course offers an overview of key public institutions and civil society organizations in Canada to prepare aspiring journalists to effectively and critically engage with these actors in generating important and illuminating coverage of public affairs.",
+      "prerequisites": "third-year standing in the Bachelor of Media Production and Design or the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information."
     },
     {
       "code": "MPAD 3003",
       "name": "Minor Design Project",
       "credit": "0.5",
-      "description": "Drawing on the theory and case studies presented in the fall, students will create a multimedia project involving the various development stages that will be employed in the final-year capstone project, including research, project management and/or community engagement."
+      "description": "Drawing on the theory and case studies presented in the fall, students will create a multimedia project involving the various development stages that will be employed in the final-year capstone project, including research, project management and/or community engagement.",
+      "prerequisites": "MPAD 2004 and MPAD 3002 ."
     },
     {
       "code": "MPAD 3300",
       "name": "Media Ethics in a Digital World",
       "credit": "0.5",
-      "description": "An examination of ethical issues relating to production of news and other forms of information content, particularly as they relate to digital environments. Discussion of various approaches to ethical decision-making, application in contemporary settings."
+      "description": "An examination of ethical issues relating to production of news and other forms of information content, particularly as they relate to digital environments. Discussion of various approaches to ethical decision-making, application in contemporary settings.",
+      "prerequisites": "MPAD 2400 ."
     },
     {
       "code": "MPAD 3501",
       "name": "Internet and Big Data Law",
       "credit": "0.5",
-      "description": "The legal use of big data to create content and analyze information. Who owns data; privacy and security implications within a legal landscape fraught with legal concerns and policy challenges."
+      "description": "The legal use of big data to create content and analyze information. Who owns data; privacy and security implications within a legal landscape fraught with legal concerns and policy challenges.",
+      "prerequisites": "JOUR 2400 or MPAD 2400 and third-year standing in the Bachelor of Media Production and Design or in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information."
     },
     {
       "code": "MPAD 3600",
       "name": "Special Topic",
       "credit": "0.5",
-      "description": "Examination of a topic in storytelling and media not covered in depth in other courses."
+      "description": "Examination of a topic in storytelling and media not covered in depth in other courses.",
+      "prerequisites": "third-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
-      "description": ""
+      "description": "",
+      "prerequisites": "MPAD 2002 ."
     },
     {
       "code": "MPAD 4000",
       "name": "Capstone Project",
       "credit": "1.0",
-      "description": "Student groups work in collaboration with partner organizations from the community to develop capstone projects beginning with story development and planning, completion of a story design document including project description, research, key vistas and sketches/storyboards. Group presentations lead to final media project in second term."
+      "description": "Student groups work in collaboration with partner organizations from the community to develop capstone projects beginning with story development and planning, completion of a story design document including project description, research, key vistas and sketches/storyboards. Group presentations lead to final media project in second term.",
+      "prerequisites": "MPAD 2002 , MPAD 3003 , ITEC 2100 , ITEC 2400 and fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4001",
       "name": "Media Industries Now and Next",
       "credit": "0.5",
-      "description": "Changes in the media, the public\u2019s relationship with the media and how journalists, news organizations and other media players respond. Practical issues and challenges in the professional life of an information producer."
+      "description": "Changes in the media, the public\u2019s relationship with the media and how journalists, news organizations and other media players respond. Practical issues and challenges in the professional life of an information producer.",
+      "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4200",
       "name": "Freelance Media Survival Skills",
       "credit": "0.5",
-      "description": "Preparation for freelancing to publications and production houses. Resumes, finding potential buyers, interviews, establishing and marketing an individual as a business. Pitching stories, ideas and services."
+      "description": "Preparation for freelancing to publications and production houses. Resumes, finding potential buyers, interviews, establishing and marketing an individual as a business. Pitching stories, ideas and services.",
+      "prerequisites": "MPAD 2004 and fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4300",
       "name": "Special Topic",
       "credit": "0.5",
-      "description": "Students will choose a topic from a list of journalism options, to be announced each year."
+      "description": "Students will choose a topic from a list of journalism options, to be announced each year.",
+      "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4400",
       "name": "Directed Studies",
       "credit": "0.5",
-      "description": "Directed study on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study."
+      "description": "Directed study on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
+      "prerequisites": "Third year standing in Media Production and Design or permission from the School of Journalism and Communication."
     },
     {
       "code": "MPAD 4403",
       "name": "Professional Skills: Strategic Communication",
       "credit": "0.5",
-      "description": "Workshop pairing student teams with non-profit groups that are in need of strategic communication advice.  Instruction in planning and implementation."
+      "description": "Workshop pairing student teams with non-profit groups that are in need of strategic communication advice.  Instruction in planning and implementation.",
+      "prerequisites": "MPAD 2004 and fourth year standing."
     },
     {
       "code": "MPAD 4500",
       "name": "Special Topic",
       "credit": "0.5",
-      "description": "Examination of a topic in storytelling and media not covered in depth in other courses."
+      "description": "Examination of a topic in storytelling and media not covered in depth in other courses.",
+      "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4501",
       "name": "Gender, Identity and Inequality",
       "credit": "0.5",
-      "description": "How social concepts of gender, identity and inequality influence journalism.  Theoretical and textual analysis.  Historical and contemporary case studies from mainstream and alternative media exploring journalistic expression, professional practices, status and expectations, and cultural representations."
+      "description": "How social concepts of gender, identity and inequality influence journalism.  Theoretical and textual analysis.  Historical and contemporary case studies from mainstream and alternative media exploring journalistic expression, professional practices, status and expectations, and cultural representations.",
+      "prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4502",
       "name": "Journalism and Conflict",
       "credit": "0.5",
-      "description": "For as long as there has been conflict between peoples, there have been those who bear witness and recount their observations.  This course examines journalism and conflict with an emphasis on journalistic perspectives but also through discussion of interdisciplinary literature and academic research."
+      "description": "For as long as there has been conflict between peoples, there have been those who bear witness and recount their observations.  This course examines journalism and conflict with an emphasis on journalistic perspectives but also through discussion of interdisciplinary literature and academic research.",
+      "prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4503",
       "name": "Journalism, Indigenous Peoples and Canada",
       "credit": "0.5",
-      "description": "Students will explore how journalism in Canada has been associated with colonialism, be challenged to confront misrepresentation in the news media, and learn to consider new strategies and ethical frameworks for covering Indigenous people in the era of reconciliation."
+      "description": "Students will explore how journalism in Canada has been associated with colonialism, be challenged to confront misrepresentation in the news media, and learn to consider new strategies and ethical frameworks for covering Indigenous people in the era of reconciliation.",
+      "prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4504",
       "name": "The Media and International Development",
       "credit": "0.5",
-      "description": "A critical examination of the use of journalism as an instrument of international development, historically and currently.  To what extent have these efforts been successful?  On what grounds are they justified? In what regard have they been instruments of propaganda."
+      "description": "A critical examination of the use of journalism as an instrument of international development, historically and currently.  To what extent have these efforts been successful?  On what grounds are they justified? In what regard have they been instruments of propaganda.",
+      "prerequisites": "fourth-year standing in the Bachelor of Media Production and Design program."
     },
     {
       "code": "MPAD 4906",
       "name": "Capstone Projects: Translational Approach to Indigenous Community Wellness",
       "credit": "1.0",
-      "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue with students from other departments at Carleton University. Involves working in interdisciplinary groups with a community partner. This course may be taken instead of ."
+      "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue with students from other departments at Carleton University. Involves working in interdisciplinary groups with a community partner. This course may be taken instead of .",
+      "prerequisites": "MPAD 2002 , MPAD 3003 , ITEC 2100 , ITEC 2400 and fourth-year standing in the Bachelor of Media production and Design program."
     }
   ],
   "free_electives": [
     {
       "type": "requirement",
       "degree": "Media Production and Design B.M.P.D. Honours (20.0 credits)",
-      "credits": "9.0",
-      "text": "9.  9.0 credits in free electives 9.0"
+      "credits": "9.5",
+      "text": "9.  9.5 credits in free electives 9.5"
     }
   ]
 }

@@ -6,313 +6,378 @@
       "code": "LING 1001",
       "name": "Introduction to Linguistics I",
       "credit": "0.5",
-      "description": "Nature of language and linguistic knowledge. Formal description and analysis of language: phonetics, phonology, morphology, syntax and semantics."
+      "description": "Nature of language and linguistic knowledge. Formal description and analysis of language: phonetics, phonology, morphology, syntax and semantics.",
+      "prerequisites": ""
     },
     {
       "code": "LING 1002",
       "name": "Introduction to Linguistics II",
       "credit": "0.5",
-      "description": "Survey of topics in linguistics: language change, sociolinguistics, language acquisition and processing. May include language typology, language contact and writing systems."
+      "description": "Survey of topics in linguistics: language change, sociolinguistics, language acquisition and processing. May include language typology, language contact and writing systems.",
+      "prerequisites": "LING 1001 (may be taken concurrently)."
     },
     {
       "code": "LING 1100",
       "name": "The Mysteries of Language",
       "credit": "0.5",
-      "description": "This course explores some intriguing mysteries of language  - whether it is unique to humans, how children master its complexities so easily, how the brain handles language, how languages are born and die. These questions lead us to interesting discoveries about the human mind."
+      "description": "This course explores some intriguing mysteries of language  - whether it is unique to humans, how children master its complexities so easily, how the brain handles language, how languages are born and die. These questions lead us to interesting discoveries about the human mind.",
+      "prerequisites": ""
     },
     {
       "code": "LING 2005",
       "name": "Linguistic Analysis",
       "credit": "0.5",
-      "description": "Phonological, morphological and syntactic analysis of linguistic data. Coursework consists primarily of practical exercises in data analysis."
+      "description": "Phonological, morphological and syntactic analysis of linguistic data. Coursework consists primarily of practical exercises in data analysis.",
+      "prerequisites": "LING 1001 ."
     },
     {
       "code": "LING 2007",
       "name": "Phonetics",
       "credit": "0.5",
-      "description": "Description of speech sounds; transcription systems; articulation; acoustics of speech sounds; perception of speech sounds; cross-linguistic diversity and phonetic universals; the role of phonetics in grammar."
+      "description": "Description of speech sounds; transcription systems; articulation; acoustics of speech sounds; perception of speech sounds; cross-linguistic diversity and phonetic universals; the role of phonetics in grammar.",
+      "prerequisites": "LING 1001 ."
     },
     {
       "code": "LING 2504",
       "name": "Language and Communication",
       "credit": "0.5",
-      "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. Topics include: the nature of meaning; the connections between language, communication and cognition; language as a social activity."
+      "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. Topics include: the nature of meaning; the connections between language, communication and cognition; language as a social activity.",
+      "prerequisites": "second-year standing."
     },
     {
       "code": "LING 2604",
       "name": "Communication Differences and Disabilities I",
       "credit": "0.5",
-      "description": "A survey course highlighting a variety of communication differences and disabilities. Specific topics vary from year to year but typically will include speech, language, fluency and hearing differences and disabilities."
+      "description": "A survey course highlighting a variety of communication differences and disabilities. Specific topics vary from year to year but typically will include speech, language, fluency and hearing differences and disabilities.",
+      "prerequisites": "LING 1001 and second year standing, or permission of the instructor."
     },
     {
       "code": "LING 2802",
       "name": "History of the English Language",
       "credit": "0.5",
-      "description": "A historical study of the English language, its structure, variety, and cultural contexts,with an introduction to grammatical terminology and constructions."
+      "description": "A historical study of the English language, its structure, variety, and cultural contexts,with an introduction to grammatical terminology and constructions.",
+      "prerequisites": "second-year standing or permission of the department."
     },
     {
       "code": "LING 3004",
       "name": "Syntax I",
       "credit": "0.5",
-      "description": "Introduction to syntactic theory. Representation and analysis of sentence structure, syntactic relations and syntactic dependencies. Testing of grammatical hypotheses."
+      "description": "Introduction to syntactic theory. Representation and analysis of sentence structure, syntactic relations and syntactic dependencies. Testing of grammatical hypotheses.",
+      "prerequisites": "LING 2005 ."
     },
     {
       "code": "LING 3005",
       "name": "Morphology I",
       "credit": "0.5",
-      "description": "Introduction to word structure and morphological theory. Topics include inflectional and derivational morphology, morphological processes, and interaction of morphology with phonology and syntax."
+      "description": "Introduction to word structure and morphological theory. Topics include inflectional and derivational morphology, morphological processes, and interaction of morphology with phonology and syntax.",
+      "prerequisites": "LING 2005 and LING 2007 ."
     },
     {
       "code": "LING 3007",
       "name": "Phonology I",
       "credit": "0.5",
-      "description": "The sound-systems of languages, analysis of phonological structure; generative phonology; phonological rules and derivations; cross-linguistic diversity and universals; segmental phonology; stress; tone."
+      "description": "The sound-systems of languages, analysis of phonological structure; generative phonology; phonological rules and derivations; cross-linguistic diversity and universals; segmental phonology; stress; tone.",
+      "prerequisites": "LING 2001 (no longer offered) or LING 2007 ."
     },
     {
       "code": "LING 3009",
       "name": "Special Topic in Linguistics",
       "credit": "0.5",
-      "description": "Selected topics in general linguistics not ordinarily treated in the regular course program. Contents of the course vary from year to year."
+      "description": "Selected topics in general linguistics not ordinarily treated in the regular course program. Contents of the course vary from year to year.",
+      "prerequisites": ""
     },
     {
       "code": "LING 3504",
       "name": "Pragmatics",
       "credit": "0.5",
-      "description": "The study of language in its conversational and cultural contexts. Topics include: conversational implicature; deixis; the semantics-pragmatics boundary; speaker's reference; speech acts. May include cross-cultural pragmatics."
+      "description": "The study of language in its conversational and cultural contexts. Topics include: conversational implicature; deixis; the semantics-pragmatics boundary; speaker's reference; speech acts. May include cross-cultural pragmatics.",
+      "prerequisites": "third-year standing, and one of LING 1001 , PHIL 2001 , PHIL 2504 / COMS 2504 / LING 2504 or PHIL 3506 , or LING 3505 or permission of the Department of Philosophy or School of Linguistics and Language Studies."
     },
     {
       "code": "LING 3505",
       "name": "Semantics",
       "credit": "0.5",
-      "description": "Study of language meaning. Lexical meaning and meanings of larger linguistic expressions, including nominal units, verbal units, and sentences. Meaning relationships between utterances. Relationship between linguistic meaning (semantics) and contextual meaning (pragmatics). Basic formal treatments of semantics."
+      "description": "Study of language meaning. Lexical meaning and meanings of larger linguistic expressions, including nominal units, verbal units, and sentences. Meaning relationships between utterances. Relationship between linguistic meaning (semantics) and contextual meaning (pragmatics). Basic formal treatments of semantics.",
+      "prerequisites": "third-year standing, and one of LING 1001 , PHIL 2001 , PHIL 2504 / LING 2504 / COMS 2504 or PHIL 3504 / LING 3504 , or permission of the Department of Philosophy or School of Linguistics and Language Studies."
     },
     {
       "code": "LING 3601",
       "name": "Language Processing and the Brain",
       "credit": "0.5",
-      "description": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies."
+      "description": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies.",
+      "prerequisites": "LING 1001 or PSYC 2700 and second-year standing, or permission of the instructor."
     },
     {
       "code": "LING 3603",
       "name": "Child Language",
       "credit": "0.5",
-      "description": "Milestones associated with the development of grammatical, pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development."
+      "description": "Milestones associated with the development of grammatical, pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
+      "prerequisites": "LING 1001 and second-year standing, or permission of the instructor."
     },
     {
       "code": "LING 3604",
       "name": "Communication Differences and Disabilities II",
       "credit": "0.5",
-      "description": "An in-depth examination of select topics in the field of communication differences and disabilities. An emphasis is placed on theoretical accounts of specific differences and disabilities and the cross-linguistic evidence for these accounts. Specific topics may vary from year to year."
+      "description": "An in-depth examination of select topics in the field of communication differences and disabilities. An emphasis is placed on theoretical accounts of specific differences and disabilities and the cross-linguistic evidence for these accounts. Specific topics may vary from year to year.",
+      "prerequisites": "LING 1001 and one of ALDS 2604 or LING 2604 ."
     },
     {
       "code": "LING 3701",
       "name": "Corpus Linguistics",
       "credit": "0.5",
-      "description": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language."
+      "description": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
+      "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor."
     },
     {
       "code": "LING 3702",
       "name": "Sociolinguistics",
       "credit": "0.5",
-      "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change."
+      "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
+      "prerequisites": "ALDS 1001 and third-year standing."
     },
     {
       "code": "LING 3801",
       "name": "Structure of a Specific Language",
       "credit": "0.5",
-      "description": "Description and analysis of the structure of a specific language applying phonology, morphology, syntax, and semantics. Language to be studied will be announced in advance by the School."
+      "description": "Description and analysis of the structure of a specific language applying phonology, morphology, syntax, and semantics. Language to be studied will be announced in advance by the School.",
+      "prerequisites": "LING 2001 (no longer offered) or LING 2005 or LING 2007 ."
+    },
+    {
+      "code": "LING 3802",
+      "name": "Beyond the BA",
+      "credit": "0.5",
+      "description": "Students explore personal and professional transitions from undergraduate to entering the workforce or graduate school. Topics may include self-assessments, career management skills, and networking. Both academic and practical work, featuring interaction from career specialists, graduate schools, professionals, and employed LING graduates.",
+      "prerequisites": "third-year standing in ALDS or LING or permission of the School."
     },
     {
       "code": "LING 3810",
       "name": "Historical Linguistics I",
       "credit": "0.5",
-      "description": "Language change; sound change; analogy; the comparative method; internal reconstruction; the philological method; historical linguistics and pre-history; language change and theories of grammar."
+      "description": "Language change; sound change; analogy; the comparative method; internal reconstruction; the philological method; historical linguistics and pre-history; language change and theories of grammar.",
+      "prerequisites": "LING 2007 ."
     },
     {
       "code": "LING 3811",
       "name": "Language Typology and Universals",
       "credit": "0.5",
-      "description": "Cross-linguistic survey of syntactic and morphological patterns found in the languages of the world. Typological classification and identification of language universals."
+      "description": "Cross-linguistic survey of syntactic and morphological patterns found in the languages of the world. Typological classification and identification of language universals.",
+      "prerequisites": "LING 2005 ."
     },
     {
       "code": "LING 3900",
       "name": "Independent Study",
       "credit": "1.0",
-      "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics."
+      "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
+      "prerequisites": "permission of the instructor."
     },
     {
       "code": "LING 3901",
       "name": "Independent Study",
       "credit": "0.5",
-      "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics."
+      "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
+      "prerequisites": "permission of the instructor."
     },
     {
       "code": "LING 4004",
       "name": "Syntax II",
       "credit": "0.5",
-      "description": "Advanced topics in syntax."
+      "description": "Advanced topics in syntax.",
+      "prerequisites": "LING 3004 and third-year standing."
     },
     {
       "code": "LING 4005",
       "name": "Morphology II",
       "credit": "0.5",
-      "description": "Advanced topics in morphology."
+      "description": "Advanced topics in morphology.",
+      "prerequisites": "LING 3005 and third-year standing."
     },
     {
       "code": "LING 4007",
       "name": "Phonology II",
       "credit": "0.5",
-      "description": "Advanced topics in phonology."
+      "description": "Advanced topics in phonology.",
+      "prerequisites": "LING 3007 , and third-year standing."
     },
     {
       "code": "LING 4009",
       "name": "Special Topic in Linguistics",
       "credit": "0.5",
-      "description": "Examination of a topic or more specialized area in linguistics or language study. Topic to be announced. Repeatable for credit when the topic changes."
+      "description": "Examination of a topic or more specialized area in linguistics or language study. Topic to be announced. Repeatable for credit when the topic changes.",
+      "prerequisites": "third- or fourth-year standing in Linguistics or permission of the instructor."
     },
     {
       "code": "LING 4412",
       "name": "Diversit\u00e9 du fran\u00e7ais",
       "credit": "0.5",
-      "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English."
+      "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
     },
     {
       "code": "LING 4413",
       "name": "Diachronie du fran\u00e7ais",
       "credit": "0.5",
-      "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions historiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English."
+      "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions historiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
     },
     {
       "code": "LING 4414",
       "name": "Analyse du fran\u00e7ais",
       "credit": "0.5",
-      "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions morphologiques, syntaxiques ou phonologiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students will submit written assignments in English."
+      "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions morphologiques, syntaxiques ou phonologiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students will submit written assignments in English.",
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
     },
     {
       "code": "LING 4415",
       "name": "Variation du fran\u00e7ais",
       "credit": "0.5",
-      "description": "\u00c9tude des variations internes de la langue, dans des dimensions orales/\u00e9crites. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students submit assignments in English."
+      "description": "\u00c9tude des variations internes de la langue, dans des dimensions orales/\u00e9crites. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students submit assignments in English.",
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
     },
     {
       "code": "LING 4505",
       "name": "Formal Semantics",
       "credit": "0.5",
-      "description": "Advanced topics in compositional semantics and its interfaces. Topics may include: logic, semantic types, lambda calculus, intentional contexts, possible world semantics, interfaces with syntax and pragmatics quantification, anaphora, presupposition, implicatures, scope and binding, and model theory."
+      "description": "Advanced topics in compositional semantics and its interfaces. Topics may include: logic, semantic types, lambda calculus, intentional contexts, possible world semantics, interfaces with syntax and pragmatics quantification, anaphora, presupposition, implicatures, scope and binding, and model theory.",
+      "prerequisites": "LING 3505 or PHIL 3506 , and third-year standing, or permission of the Department of Philosophy or School of Linguistics and Language Studies."
     },
     {
       "code": "LING 4510",
       "name": "Lexical Semantics",
       "credit": "0.5",
-      "description": "Study of the meaning of words. Topics may include lexical decomposition, meaning variation, lexical relations, and lexical aspect."
+      "description": "Study of the meaning of words. Topics may include lexical decomposition, meaning variation, lexical relations, and lexical aspect.",
+      "prerequisites": "LING 3505 or PHIL 3506 , and third-year standing."
     },
     {
       "code": "LING 4601",
       "name": "Cognitive Neuroscience of Language",
       "credit": "0.5",
-      "description": "Further study of psychological and neurolinguistic mechanisms of adult language processing. May include topics from first language acquisition."
+      "description": "Further study of psychological and neurolinguistic mechanisms of adult language processing. May include topics from first language acquisition.",
+      "prerequisites": "LING 3601 or permission of the instructor."
     },
     {
       "code": "LING 4603",
       "name": "First Language Acquisition",
       "credit": "0.5",
-      "description": "Advanced topics in language acquisition and development and the relative contributions of the environment, cognitive development, and inborn knowledge."
+      "description": "Advanced topics in language acquisition and development and the relative contributions of the environment, cognitive development, and inborn knowledge.",
+      "prerequisites": "LING 1001 and LING 3603 ."
     },
     {
       "code": "LING 4604",
       "name": "Practicum in Speech Language Pathology",
       "credit": "0.5",
-      "description": "Through field placements, students pursue personal learning objectives related to speech-language pathology, with a focus on the clinical application of knowledge gained in the Psycholinguistics and Communication Differences concentration."
+      "description": "Through field placements, students pursue personal learning objectives related to speech-language pathology, with a focus on the clinical application of knowledge gained in the Psycholinguistics and Communication Differences concentration.",
+      "prerequisites": "LING 3604 , fourth-year Honours standing in B.A. or B.Sc. in Linguistics with a Concentration in Psycholinguistics and Communication Disorders with a CGPA of 10.0 in the major, and permission from the School of Linguistics and Language Studies."
     },
     {
       "code": "LING 4605",
       "name": "Psycholinguistic Research Methods",
       "credit": "0.5",
-      "description": "Experimental methodologies used in current psycholinguistic studies. Topics include experimental design and techniques, descriptive statistics, and interpreting and reporting research findings."
+      "description": "Experimental methodologies used in current psycholinguistic studies. Topics include experimental design and techniques, descriptive statistics, and interpreting and reporting research findings.",
+      "prerequisites": "third- or fourth-year standing and LING 3601 , or permission of the instructor."
     },
     {
       "code": "LING 4606",
       "name": "Statistics for Language Research",
       "credit": "0.5",
-      "description": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields."
+      "description": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
+      "prerequisites": "Third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor."
     },
     {
       "code": "LING 4801",
       "name": "Linguistic Field Methods",
       "credit": "0.5",
-      "description": "With a language consultant, students discover the phonological, morphological, and syntactic structures of the target language using linguistic elicitation. Language will vary from year to year, but will normally be a non-European language.  Language documentation, data management, ethical issues surrounding research in Indigenous communities."
+      "description": "With a language consultant, students discover the phonological, morphological, and syntactic structures of the target language using linguistic elicitation. Language will vary from year to year, but will normally be a non-European language.  Language documentation, data management, ethical issues surrounding research in Indigenous communities.",
+      "prerequisites": "LING 2005 and LING 2007 ."
     },
     {
       "code": "LING 4802",
       "name": "Historical Linguistics: English",
       "credit": "0.5",
-      "description": "A theory-intensive course that will study the development of English starting with Proto-Indo-European progressing through Common Germanic to the stages of English itself. Topics include phonological sound changes, phonemic inventories, and morphological and syntactic typology."
+      "description": "A theory-intensive course that will study the development of English starting with Proto-Indo-European progressing through Common Germanic to the stages of English itself. Topics include phonological sound changes, phonemic inventories, and morphological and syntactic typology.",
+      "prerequisites": "LING 2005 and LING 2007 , and one of LING 3005 , LING 3810 or LING 3811 ."
     },
     {
       "code": "LING 4805",
       "name": "Old English",
       "credit": "0.5",
-      "description": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language."
+      "description": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language.",
+      "prerequisites": "fourth-year standing or permission of the department."
     },
     {
       "code": "LING 4900",
       "name": "Independent Study in Linguistics",
       "credit": "1.0",
-      "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics."
+      "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
+      "prerequisites": "permission of the instructor."
     },
     {
       "code": "LING 4901",
       "name": "Independent Study in Linguistics",
       "credit": "0.5",
-      "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics."
+      "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
+      "prerequisites": "permission of the instructor."
     },
     {
       "code": "LING 4905",
       "name": "Honours Project in Experimental Linguistics",
       "credit": "1.0",
-      "description": "Students choose existing study in linguistic literature, replicate the study, present findings, compare to original study. Practical experience gathering and preparing materials, running experiments, analyzing data, interpreting findings; real, important contributions to the field of linguistics via replication studies (as mandated by the scientific method)."
+      "description": "Students choose existing study in linguistic literature, replicate the study, present findings, compare to original study. Practical experience gathering and preparing materials, running experiments, analyzing data, interpreting findings; real, important contributions to the field of linguistics via replication studies (as mandated by the scientific method).",
+      "prerequisites": "fourth-year Honours standing in Linguistics, with a Major CGPA of 9.0, and permission of the instructor."
     },
     {
       "code": "LING 4910",
       "name": "Honours Thesis in Linguistics",
       "credit": "1.0",
-      "description": "A thesis project selected in consultation with the School and carried out under the direction of a faculty supervisor."
+      "description": "A thesis project selected in consultation with the School and carried out under the direction of a faculty supervisor.",
+      "prerequisites": "fourth-year Honours standing in Linguistics with a CGPA of 10.0 in the major; one of LING 3004 , LING 3007 , LING 3505 , or LING 3601 ; and permission of the instructor."
     }
   ],
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Linguistics Computer Science Stream B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics B.Sc. Honours (20.0 credits)",
       "credits": "6.0",
-      "text": "8.  6.0 credits in free electives 6.0"
+      "text": "10.  6.0 credits in free electives 6.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics Neuroscience Stream B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics with Concentration in Computer Science B.Sc. Honours (20.0 credits)",
+      "credits": "3.5",
+      "text": "10.  3.5 credits in free electives 3.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Linguistics with Concentration in Neuroscience B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
       "text": "10.  4.0 credits in free electives 4.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics Psychology Stream B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics with Concentration in Psychology B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
       "text": "10.  4.0 credits in free electives 4.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics with a Concentration in Psycholinguistics and Communication Differences Computer Science Stream B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences B.Sc. Honours (20.0 credits)",
       "credits": "6.0",
-      "text": "9.  6.0 credits in free electives 6.0"
+      "text": "11.  6.0 credits in free electives 6.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics with a Concentration in Psycholinguistics and Communication Differences Neuroscience Stream B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences with Concentration in Computer Science B.Sc. Honours (20.0 credits)",
+      "credits": "3.5",
+      "text": "11.  3.5 credits in free electives 3.5"
+    },
+    {
+      "type": "requirement",
+      "degree": "Psycholinguistics and Communication Differences with Concentration in Neuroscience B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
       "text": "11.  4.0 credits in free electives 4.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics with a Concentration in Psycholinguistics and Communication Differences Psychology Stream B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences with Concentration in Psychology B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
       "text": "11.  4.0 credits in free electives 4.0"
     },
@@ -320,7 +385,7 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
     },
     {
       "type": "requirement",
@@ -338,7 +403,13 @@
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives"
+      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+    },
+    {
+      "type": "requirement",
+      "degree": "Course Categories for B.Sc. Programs",
+      "credits": "",
+      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
     },
     {
       "type": "requirement",

@@ -9,16 +9,19 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tailwindcss/oxide-linux-x64-gnu": "^4.3.0",
+    "autoprefixer": "^10.5.0",
     "dagre": "^0.8.5",
     "next": "16.2.6",
+    "postcss": "^8.5.15",
     "react": "19.2.4",
     "react-dom": "19.2.4",
-    "reactflow": "^11.11.4"
+    "reactflow": "^11.11.4",
+    "tailwindcss": "^3.4.19"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
-    "eslint-config-next": "16.2.6",
-    "tailwindcss": "^4"
+    "eslint-config-next": "16.2.6"
   }
 }

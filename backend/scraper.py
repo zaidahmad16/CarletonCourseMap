@@ -1,8 +1,11 @@
 import json
+import os
 import re
 import time
 import requests
 from bs4 import BeautifulSoup, NavigableString
+
+_DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
 PROGRAMS = {
     "African Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/africanstudies/",
@@ -378,8 +381,7 @@ def scrape_free_electives(soup):
 
 
 def main():
-    import os
-    os.makedirs("data", exist_ok=True)
+    os.makedirs(_DATA_DIR, exist_ok=True)
 
     results = []
     for name, url in PROGRAMS.items():
@@ -388,16 +390,16 @@ def main():
         results.append(data)
 
         slug = re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
-        with open(os.path.join("data", f"{slug}.json"), "w") as f:
+        with open(os.path.join(_DATA_DIR, f"{slug}.json"), "w") as f:
             json.dump(data, f, indent=2)
 
         time.sleep(0.5)
 
-    with open("courses.json", "w") as f:
+    with open(os.path.join(_DATA_DIR, "courses.json"), "w") as f:
         json.dump(results, f, indent=2)
 
     total = sum(len(p["courses"]) for p in results)
-    print(f"\nDone. {total} courses across {len(results)} programs saved to data/ and courses.json")
+    print(f"\nDone. {total} courses across {len(results)} programs saved to data/")
 
 
 if __name__ == "__main__":

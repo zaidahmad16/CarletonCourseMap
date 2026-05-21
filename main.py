@@ -71,3 +71,62 @@ def get_course(code: str):
         "prerequisites": row[4],
         "department": row[5]
     }
+    
+@app.get("/programs")
+
+def get_programs(dept:int=None):
+    conn=get_connection()
+    cur=conn.cursor()
+    
+    query="SELECT program_id, dept_id, degree FROM programs WHERE 1=1"
+    params=[]
+    
+    if dept:
+        query+=" AND dept_id = %s"
+        params.append(dept)
+        
+    query+=" ORDER BY degree"
+    
+    cur.execute(query,params)
+    rows=cur.fetchall()
+    cur.close()
+    conn.close()
+    return [{"program_id": r[0], "dept_id": r[1], "degree": r[2]} for r in rows]
+
+@app.get("/programs/{program_id}")
+
+def get_programs(program_id: int):
+    
+    conn=get_connection()
+    cur=conn.cursor()
+    
+    cur.execute("SELECT program_id, dept_id, degree FROM programs WHERE program_id = %s", (program_id,))
+    row = cur.fetchone()
+
+    if not row:
+        from fastapi import HTTPException
+        raise HTTPException(status_code=404,detail="Program not found")
+    
+    cur.execute("""
+        SELECT type, courses, credits, description
+        FROM program_requirements
+        WHERE program_id = %s
+        ORDER BY req_id
+    """, (program_id,))
+    reqs = cur.fetchall()
+    cur.close()
+    conn.close()
+    
+    return {
+        "program_id": row[0],
+        "dept_id": row[1],
+        "degree": row[2],
+        "requirements": [
+            {
+                "type": r[0],
+                "courses": r[1],
+                "credits": float(r[2]) if r[2] else None,
+                "description": r[3]
+            } for r in reqs
+        ]
+    }

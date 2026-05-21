@@ -191,5 +191,639 @@
       "credits": "8.0",
       "text": "9.  8.0 credits in free electives. 8.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Environmental and Climate Change Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ENST 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental and Climate Change Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 1020"
+          ],
+          "credits": 0.5,
+          "description": "People, Places and Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2000"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Sustainable Futures: Environmental Challenges and Solutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2500"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change: Social Science Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Weather and Water"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2014"
+          ],
+          "credits": 0.5,
+          "description": "The Earth's Surface"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Ecosystems of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Qualitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3000"
+          ],
+          "credits": 0.5,
+          "description": "Nature, Environment and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3022"
+          ],
+          "credits": 0.5,
+          "description": "Environmental and Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2380"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3804"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3209"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability and Environment in the South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3501"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of the Canadian North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3503"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3380"
+          ],
+          "credits": 0.5,
+          "description": "Environments, Technology and Values"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 3002"
+          ],
+          "credits": 0.5,
+          "description": "Energy and Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3900"
+          ],
+          "credits": 0.5,
+          "description": "Honours Field Course"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3030"
+          ],
+          "credits": 0.5,
+          "description": "Regional Field Excursion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4000"
+          ],
+          "credits": 0.5,
+          "description": "Environmental and Climate Change Studies Seminar"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4006"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4022"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in People, Resources and Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4023"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Special Topics on the City"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4004"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Impact Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4050"
+          ],
+          "credits": 0.5,
+          "description": "Environmental and Geographic Education"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4906"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4907"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Approved Environmental Studies Electives at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ENST 4001",
+            "ENST 4002"
+          ],
+          "credits": null,
+          "description": "Approved Environmental Studies elective at 4000-level, excluding ENST 4001 and ENST 4002"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in Approved Environmental Studies Electives at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Approved Environmental Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 9.0,
+          "description": "9.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Environmental Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ENST 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental and Climate Change Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 1020"
+          ],
+          "credits": 0.5,
+          "description": "People, Places and Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2000"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Sustainable Futures: Environmental Challenges and Solutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Weather and Water"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2014"
+          ],
+          "credits": 0.5,
+          "description": "The Earth's Surface"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Ecosystems of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Qualitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Maps, Satellites and the Geospatial Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3000"
+          ],
+          "credits": 0.5,
+          "description": "Nature, Environment and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3022"
+          ],
+          "credits": 0.5,
+          "description": "Environmental and Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2380"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental Ethics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Approved Environmental Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Approved Environmental Studies Electives at the 3000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Environmental Studies",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1101"
+          ],
+          "credits": 1.0,
+          "description": "Location is Everything"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1107"
+          ],
+          "credits": 1.0,
+          "description": "Social Justice and the City"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental and Climate Change Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1108"
+          ],
+          "credits": 0.5,
+          "description": "Sustainable Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 1020"
+          ],
+          "credits": 0.5,
+          "description": "People, Places and Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Maps, Satellites and the Geospatial Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2000"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Sustainable Futures: Environmental Challenges and Solutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2500"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change: Social Science Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3000"
+          ],
+          "credits": 0.5,
+          "description": "Nature, Environment and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 3022"
+          ],
+          "credits": 0.5,
+          "description": "Environmental and Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3501"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of the Canadian North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4006"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4050"
+          ],
+          "credits": 0.5,
+          "description": "Environmental and Geographic Education"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3209"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability and Environment in the South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4004"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Impact Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4022"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in People, Resources and Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        }
+      ]
+    }
   ]
 }

@@ -63,5 +63,835 @@
       "credits": "6.5",
       "text": "8.  6.5 credits in free electives 6.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Course Categories",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3604"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Biologists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Data Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2402"
+          ],
+          "credits": 0.5,
+          "description": "Business Applications Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3400"
+          ],
+          "credits": 0.5,
+          "description": "Database Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computational Thinking for Arts and Social Science Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1401",
+            "MATH 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1402",
+            "MATH 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3001"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods of Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4001"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Analysis in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4002"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Analysis in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4004"
+          ],
+          "credits": 0.5,
+          "description": "Operations Research: Linear Programming Models"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4706"
+          ],
+          "credits": 0.5,
+          "description": "Econometrics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4707"
+          ],
+          "credits": 0.5,
+          "description": "Econometrics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4713"
+          ],
+          "credits": 0.5,
+          "description": "Time-Series Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECOR 2606"
+          ],
+          "credits": 0.5,
+          "description": "Numerical Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3003"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1119"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra: with Applications to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3001"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis in Neuroscience I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3002"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis in Neuroscience II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2004"
+          ],
+          "credits": 0.5,
+          "description": "Data Literacy for Social Sciences"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3008"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis for Social Sciences"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4102"
+          ],
+          "credits": 0.5,
+          "description": "Multiple Regression Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SYSC 2510"
+          ],
+          "credits": 0.5,
+          "description": "Probability, Statistics and Random Processes for Engineers"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "all 0000-level courses"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIT 1000",
+            "BIT 1001",
+            "BIT 1100",
+            "BIT 1101",
+            "BIT 1200",
+            "BIT 1201",
+            "BIT 2000",
+            "BIT 2004",
+            "BIT 2005",
+            "BIT 2007",
+            "BIT 2100",
+            "BIT 2300",
+            "MPAD 2400",
+            "MPAD 2501",
+            "MPAD 3300",
+            "MPAD 3501",
+            "MPAD 4001",
+            "MPAD 4501",
+            "MPAD 4502",
+            "MPAD 4503",
+            "MPAD 4504"
+          ],
+          "credits": null,
+          "description": "and all courses in BIT, IMD, IRM, MPAD, NET, OSS, PLT and ITEC except for the following: BIT 1000 , BIT 1001 , BIT 1100 , BIT 1101 , BIT 1200 , BIT 1201 , BIT 2000 , BIT 2004 (no longer offered), BIT 2005 (no longer offered), BIT 2007 (no longer offered), BIT 2100 (no longer offered), BIT 2300 (no longer offered), MPAD 2400 , MPAD 2501 (no longer offered), MPAD 3300 , MPAD 3501 , MPAD 4001 , MPAD 4501 , MPAD 4502 , MPAD 4503 , MPAD 4504 ."
+        }
+      ]
+    },
+    {
+      "degree": "Data Science B.D.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DATA 3200"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for Data Scientists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2106"
+          ],
+          "credits": 0.5,
+          "description": "Information Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2109"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Security and Privacy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3105"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Machine Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4107"
+          ],
+          "credits": 0.5,
+          "description": "Neural Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DATA 1517"
+          ],
+          "credits": 0.5,
+          "description": "Data Modelling I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DATA 1519"
+          ],
+          "credits": 0.5,
+          "description": "Data Modelling II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DATA 2500"
+          ],
+          "credits": 0.5,
+          "description": "Data Wrangling in R"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DATA 3500"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Programming in R"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 1500"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Computing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2210"
+          ],
+          "credits": 0.5,
+          "description": "Inferential Data Science Foundations I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3553"
+          ],
+          "credits": 0.5,
+          "description": "Regression Modeling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4601"
+          ],
+          "credits": 0.5,
+          "description": "Data Mining I (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4010"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Reinforcement Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4102"
+          ],
+          "credits": 0.5,
+          "description": "Computer Vision"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4115"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Natural Language Processing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4116"
+          ],
+          "credits": 0.5,
+          "description": "Multiagent Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3504"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of Variance and Experimental Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3507"
+          ],
+          "credits": 0.5,
+          "description": "Sampling Methodology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4502"
+          ],
+          "credits": 0.5,
+          "description": "Survey Sampling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4503"
+          ],
+          "credits": 0.5,
+          "description": "Applied Multivariate Analysis (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4504"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Design and Analysis of Experiments (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4604"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Computing (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4607"
+          ],
+          "credits": 0.5,
+          "description": "Bayesian Statistical Analysis (Honours)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP or STAT at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.5,
+          "description": "6.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Artificial Intelligence (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3106"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Artificial Intelligence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4010"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Reinforcement Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4102"
+          ],
+          "credits": 0.5,
+          "description": "Computer Vision"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4115"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Natural Language Processing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4116"
+          ],
+          "credits": 0.5,
+          "description": "Multiagent Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4801"
+          ],
+          "credits": 0.5,
+          "description": "Algorithms for Data Mining, Web, and Social Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4906"
+          ],
+          "credits": 1.0,
+          "description": "Honours Thesis"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Statistics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2210"
+          ],
+          "credits": 0.5,
+          "description": "Inferential Data Science Foundations I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3553"
+          ],
+          "credits": 0.5,
+          "description": "Regression Modeling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4321"
+          ],
+          "credits": 0.5,
+          "description": "Inferential Data Science Foundations II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4322"
+          ],
+          "credits": 0.5,
+          "description": "Learning from Big Data"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3504"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of Variance and Experimental Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4502"
+          ],
+          "credits": 0.5,
+          "description": "Survey Sampling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4503"
+          ],
+          "credits": 0.5,
+          "description": "Applied Multivariate Analysis (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4504"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Design and Analysis of Experiments (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4607"
+          ],
+          "credits": 0.5,
+          "description": "Bayesian Statistical Analysis (Honours)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "DATA 4848"
+          ],
+          "credits": null,
+          "description": "DATA 4848 [1.0], or"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "STAT 4905"
+          ],
+          "credits": 0.5,
+          "description": "STAT 4905 [0.5] and 0.5 credits in STAT at the 4000-level"
+        }
+      ]
+    }
   ]
 }

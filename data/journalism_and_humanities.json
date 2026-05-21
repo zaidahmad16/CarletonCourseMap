@@ -577,5 +577,727 @@
       "prerequisites": "This course is restricted to students enrolled in the Certificate of Science Communication, and who have completed at least 2.0 credits towards the certificate, including one of COMS 2500 or ISAP 3003 ."
     }
   ],
-  "free_electives": []
+  "free_electives": [],
+  "programs": [
+    {
+      "degree": "Bachelor of Journalism and Humanities B.J. Hum. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Note:  students must enrol in this degree in their first year of study."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from: Journalism Publications and/or Specialized Journalism and/or Professional Skills and/or Investigating Journalism. (At least 0.5 credit must be taken from Journalism Publications courses and at least 0.5 credit must be taken from the Specialized Journalism courses.)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Journalism Publications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Specialized Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4300"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4301"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and the Markets"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4302"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and Canadian Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4306"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4308"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Sports and Sport Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4309"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Arts and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4311"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Justice and The Supreme Court"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4313"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Reporting in Indigenous Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4314"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Parliament, Policy and the Press"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Professional Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Investigating Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101",
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World Modern European Art 1527-2000"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102",
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850 Western Music 1850-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2710"
+          ],
+          "credits": 1.0,
+          "description": "Maccabees to Muhammad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in  JOUR at the 4000 level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1731"
+          ],
+          "credits": 0.5,
+          "description": "Religion and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in approved electives"
+        }
+      ]
+    },
+    {
+      "degree": "Academic Continuation Evaluation for Bachelor of Journalism and Humanities",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        }
+      ]
+    }
+  ]
 }

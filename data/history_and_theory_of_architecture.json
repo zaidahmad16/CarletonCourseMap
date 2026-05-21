@@ -442,5 +442,830 @@
       "credits": "2.0",
       "text": "7.  2.0 credit in free electives. 2.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "History and Theory of Architecture B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1200"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: Prehistory to 1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2710"
+          ],
+          "credits": 0.5,
+          "description": "Experiencing Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3107"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Architectural History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Greek Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2105"
+          ],
+          "credits": 0.5,
+          "description": "Roman Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2107"
+          ],
+          "credits": 0.5,
+          "description": "Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2202"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2310"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the Early Modern World [1400-1750]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the 18th and 19th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Twentieth-Century Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3002",
+            "ARCH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3003"
+          ],
+          "credits": 0.5,
+          "description": "Architecture and Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3006"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3701"
+          ],
+          "credits": 0.5,
+          "description": "Art and Architecture on Site"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3808"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics: Cities in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3810"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics about the Designed Environment"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in ARTH or ARCH at the 2000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4107"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Modern Architecture or Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Architectural History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5  credits in ARTH or ARCH at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4200"
+          ],
+          "credits": 0.5,
+          "description": "Architectural Conservation Philosophy and Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCN 4100"
+          ],
+          "credits": 0.5,
+          "description": "Historic Site Recording and Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Heritage Places and Practices in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4400"
+          ],
+          "credits": 0.5,
+          "description": "Space, Landscape and Identity in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1020"
+          ],
+          "credits": 0.5,
+          "description": "People, Places and Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2300"
+          ],
+          "credits": 0.5,
+          "description": "Space, Place and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "HIST at the 1000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1000"
+          ],
+          "credits": 0.5,
+          "description": "Theory and History of Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in ARTH or Architecture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "History and Theory of Architecture B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1200"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: Prehistory to 1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2710"
+          ],
+          "credits": 0.5,
+          "description": "Experiencing Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3107"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Architectural History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Greek Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2105"
+          ],
+          "credits": 0.5,
+          "description": "Roman Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2107"
+          ],
+          "credits": 0.5,
+          "description": "Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2202"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2310"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the Early Modern World [1400-1750]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the 18th and 19th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Twentieth-Century Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3002",
+            "ARCH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3003"
+          ],
+          "credits": 0.5,
+          "description": "Architecture and Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3006"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3701"
+          ],
+          "credits": 0.5,
+          "description": "Art and Architecture on Site"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3808"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics: Cities in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3810"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics about the Designed Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4107"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Modern Architecture or Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Architectural History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in ARTH or ARCH or ARCN at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credits in ARTH or ARCH at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisified"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits in total for the program"
+        }
+      ]
+    },
+    {
+      "degree": "History and Theory of Architecture B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1200"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: Prehistory to 1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2710"
+          ],
+          "credits": 0.5,
+          "description": "Experiencing Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3107"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Architectural History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Greek Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2105"
+          ],
+          "credits": 0.5,
+          "description": "Roman Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2107"
+          ],
+          "credits": 0.5,
+          "description": "Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2202"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2310"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the Early Modern World [1400-1750]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the 18th and 19th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Twentieth-Century Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3002",
+            "ARCH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3003"
+          ],
+          "credits": 0.5,
+          "description": "Architecture and Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3006"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3701"
+          ],
+          "credits": 0.5,
+          "description": "Art and Architecture on Site"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3808"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics: Cities in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3810"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics about the Designed Environment"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in ARTH or ARCH at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credits in ARTH or ARCH at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in electives not in ARTH or Architecture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credit in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in History and Theory of Architecture (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1200"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: Prehistory to 1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Greek Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2105"
+          ],
+          "credits": 0.5,
+          "description": "Roman Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2107"
+          ],
+          "credits": 0.5,
+          "description": "Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2202"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2310"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the Early Modern World [1400-1750]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the 18th and 19th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Twentieth-Century Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3002",
+            "ARCH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3006"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3808"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics: Cities in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3810"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics about the Designed Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Architecture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4107"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Islamic Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Modern Architecture or Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Architectural History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in History and Theory of Architecture (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3107"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Architectural History"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ARTH 2710"
+          ],
+          "credits": 2.5,
+          "description": "2.5 credit in ARTH at the 2000-level or above (excluding ARTH 2710 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARTH at the 4000-level"
+        }
+      ]
+    }
   ]
 }

@@ -554,5 +554,744 @@
       "credits": "1.5",
       "text": "4.  1.5  credits in free electives 1.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Design B.A.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 1A: Land"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1112"
+          ],
+          "credits": 1.0,
+          "description": "Studio 1B: Fundamentals of Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 2A: Fundamentals of Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2172"
+          ],
+          "credits": 1.0,
+          "description": "Studio 2B: Local (Design)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 3A: Adaptive Reuse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3172"
+          ],
+          "credits": 1.0,
+          "description": "Studio 3B: Global (Design)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 4A: Integrated"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4172"
+          ],
+          "credits": 1.0,
+          "description": "Studio 4B: Option (Design)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1221"
+          ],
+          "credits": 0.5,
+          "description": "Material Histories of Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1222"
+          ],
+          "credits": 0.5,
+          "description": "Design, Climate, Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1331"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1441"
+          ],
+          "credits": 0.5,
+          "description": "Drawing and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1442"
+          ],
+          "credits": 0.5,
+          "description": "Digital Drawing and Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2221"
+          ],
+          "credits": 0.5,
+          "description": "Ecological & Regulatory Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2222"
+          ],
+          "credits": 0.5,
+          "description": "Structures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2331"
+          ],
+          "credits": 0.5,
+          "description": "Modernism and Global Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2332"
+          ],
+          "credits": 0.5,
+          "description": "Architectures in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3221"
+          ],
+          "credits": 0.5,
+          "description": "Assemblies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3331"
+          ],
+          "credits": 0.5,
+          "description": "Architectural Conservation Philosophy and Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3441"
+          ],
+          "credits": 0.5,
+          "description": "Digital Computation and Simulation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4221"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4332"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4771"
+          ],
+          "credits": 0.5,
+          "description": "Architectural Discourse and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4772"
+          ],
+          "credits": 0.5,
+          "description": "The Cost of Building"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4773"
+          ],
+          "credits": 0.5,
+          "description": "Designed Landscapes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4777"
+          ],
+          "credits": 0.5,
+          "description": "Land Ethics and Identities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2001"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights: Theories and Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Urbanism B.A.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 1A: Land"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1112"
+          ],
+          "credits": 1.0,
+          "description": "Studio 1B: Fundamentals of Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 2A: Fundamentals of Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2192"
+          ],
+          "credits": 1.0,
+          "description": "Studio 2B: Local (Urbanism)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 3A: Adaptive Reuse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3192"
+          ],
+          "credits": 1.0,
+          "description": "Studio 3B: Global (Urbanism)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 4A: Integrated"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4192"
+          ],
+          "credits": 1.0,
+          "description": "Studio 4B: Option (Urbanism)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1221"
+          ],
+          "credits": 0.5,
+          "description": "Material Histories of Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1222"
+          ],
+          "credits": 0.5,
+          "description": "Design, Climate, Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1331"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1441"
+          ],
+          "credits": 0.5,
+          "description": "Drawing and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1442"
+          ],
+          "credits": 0.5,
+          "description": "Digital Drawing and Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2221"
+          ],
+          "credits": 0.5,
+          "description": "Ecological & Regulatory Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2222"
+          ],
+          "credits": 0.5,
+          "description": "Structures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2331"
+          ],
+          "credits": 0.5,
+          "description": "Modernism and Global Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2332"
+          ],
+          "credits": 0.5,
+          "description": "Architectures in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3221"
+          ],
+          "credits": 0.5,
+          "description": "Assemblies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3331"
+          ],
+          "credits": 0.5,
+          "description": "Architectural Conservation Philosophy and Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3441"
+          ],
+          "credits": 0.5,
+          "description": "Digital Computation and Simulation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4221"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4332"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4991"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Housing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4992"
+          ],
+          "credits": 0.5,
+          "description": "Theories of Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4993"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2023"
+          ],
+          "credits": 0.5,
+          "description": "Cities, Inequality and Urban Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4323"
+          ],
+          "credits": 0.5,
+          "description": "Urban and Regional Planning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Maps, Satellites and the Geospatial Revolution"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Conservation and Sustainability B.A.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 1A: Land"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1112"
+          ],
+          "credits": 1.0,
+          "description": "Studio 1B: Fundamentals of Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 2A: Fundamentals of Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2182"
+          ],
+          "credits": 1.0,
+          "description": "Studio 2B: Local (C&S)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 3A: Adaptive Reuse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3182"
+          ],
+          "credits": 1.0,
+          "description": "Studio 3B: Global (C&S)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4111"
+          ],
+          "credits": 1.0,
+          "description": "Studio 4A: Integrated"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4182"
+          ],
+          "credits": 1.0,
+          "description": "Studio 4B: Option (C&S)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1221"
+          ],
+          "credits": 0.5,
+          "description": "Material Histories of Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1222"
+          ],
+          "credits": 0.5,
+          "description": "Design, Climate, Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1331"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1441"
+          ],
+          "credits": 0.5,
+          "description": "Drawing and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 1442"
+          ],
+          "credits": 0.5,
+          "description": "Digital Drawing and Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2221"
+          ],
+          "credits": 0.5,
+          "description": "Ecological & Regulatory Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2222"
+          ],
+          "credits": 0.5,
+          "description": "Structures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2331"
+          ],
+          "credits": 0.5,
+          "description": "Modernism and Global Urbanism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 2332"
+          ],
+          "credits": 0.5,
+          "description": "Architectures in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3221"
+          ],
+          "credits": 0.5,
+          "description": "Assemblies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3331"
+          ],
+          "credits": 0.5,
+          "description": "Architectural Conservation Philosophy and Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3441"
+          ],
+          "credits": 0.5,
+          "description": "Digital Computation and Simulation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4221"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4332"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4881"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Building Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4882"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Conservation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4883"
+          ],
+          "credits": 0.5,
+          "description": "Evaluation of Existing Properties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Heritage Places and Practices in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 3881"
+          ],
+          "credits": 0.5,
+          "description": "Historic Site Recording and Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARCH 4885"
+          ],
+          "credits": 0.5,
+          "description": "Building Pathology and Rehabilitation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5  credits in free electives"
+        }
+      ]
+    }
   ]
 }

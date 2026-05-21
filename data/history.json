@@ -1124,5 +1124,3925 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in free electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "History B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1405"
+          ],
+          "credits": 1.0,
+          "description": "a.  1.0 credit at the 1000-level or FYSM 1405"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "b.  1.5 credits at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "c.  2.0 credits at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "d.  1.0 credit in HIST"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2902"
+          ],
+          "credits": 0.5,
+          "description": "Origins of the Greeks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2903"
+          ],
+          "credits": 0.5,
+          "description": "Democracy to Alexander"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2904"
+          ],
+          "credits": 0.5,
+          "description": "Rise of the Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2905"
+          ],
+          "credits": 0.5,
+          "description": "Rome of the Caesars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3005"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Aristocratic Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3006"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Religious Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3009"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3010"
+          ],
+          "credits": 0.5,
+          "description": "The Later Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3101"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3105"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3708"
+          ],
+          "credits": 0.5,
+          "description": "Reformation Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3516"
+          ],
+          "credits": 0.5,
+          "description": "The Wilsonian Moment: Diplomacy and the Post-Ottoman Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3712"
+          ],
+          "credits": 0.5,
+          "description": "Mexico: Aztecs to Narcos"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3805"
+          ],
+          "credits": 0.5,
+          "description": "China since the Xinhai [1911] Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Japan Since 1945"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2804"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2912"
+          ],
+          "credits": 0.5,
+          "description": "Science and Technology in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2913"
+          ],
+          "credits": 0.5,
+          "description": "History of Oil"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3109"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Alcohol"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3110"
+          ],
+          "credits": 0.5,
+          "description": "The Cultural History of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3111"
+          ],
+          "credits": 0.5,
+          "description": "History of Humanitarian Aid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3116"
+          ],
+          "credits": 0.5,
+          "description": "History of Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3121"
+          ],
+          "credits": 0.5,
+          "description": "Sports in the Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3122"
+          ],
+          "credits": 0.5,
+          "description": "Antisemitism, Then and Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3205"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Business History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3218"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Shopping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Crime and State in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3310"
+          ],
+          "credits": 0.5,
+          "description": "Animals in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3500"
+          ],
+          "credits": 0.5,
+          "description": "Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3515"
+          ],
+          "credits": 0.5,
+          "description": "Madness in Modern Times"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3604"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Modern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in 4000-level history seminars"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in HIST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives (may be HIST)"
+        }
+      ]
+    },
+    {
+      "degree": "History B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1405"
+          ],
+          "credits": 1.0,
+          "description": "a.  1.0 credit in HIST at the 1000-level or FYSM 1405"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b.  1.0 credit in HIST at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c.  0.5 credit in HIST at the 3000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2902"
+          ],
+          "credits": 0.5,
+          "description": "Origins of the Greeks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2903"
+          ],
+          "credits": 0.5,
+          "description": "Democracy to Alexander"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2904"
+          ],
+          "credits": 0.5,
+          "description": "Rise of the Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2905"
+          ],
+          "credits": 0.5,
+          "description": "Rome of the Caesars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3005"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Aristocratic Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3006"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Religious Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3009"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3010"
+          ],
+          "credits": 0.5,
+          "description": "The Later Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3101"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3105"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3708"
+          ],
+          "credits": 0.5,
+          "description": "Reformation Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3516"
+          ],
+          "credits": 0.5,
+          "description": "The Wilsonian Moment: Diplomacy and the Post-Ottoman Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3712"
+          ],
+          "credits": 0.5,
+          "description": "Mexico: Aztecs to Narcos"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3805"
+          ],
+          "credits": 0.5,
+          "description": "China since the Xinhai [1911] Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Japan Since 1945"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2804"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2912"
+          ],
+          "credits": 0.5,
+          "description": "Science and Technology in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2913"
+          ],
+          "credits": 0.5,
+          "description": "History of Oil"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3109"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Alcohol"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3110"
+          ],
+          "credits": 0.5,
+          "description": "The Cultural History of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3111"
+          ],
+          "credits": 0.5,
+          "description": "History of Humanitarian Aid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3116"
+          ],
+          "credits": 0.5,
+          "description": "History of Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3121"
+          ],
+          "credits": 0.5,
+          "description": "Sports in the Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3122"
+          ],
+          "credits": 0.5,
+          "description": "Antisemitism, Then and Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3205"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Business History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3218"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Shopping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Crime and State in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3310"
+          ],
+          "credits": 0.5,
+          "description": "Animals in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3500"
+          ],
+          "credits": 0.5,
+          "description": "Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3515"
+          ],
+          "credits": 0.5,
+          "description": "Madness in Modern Times"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3604"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Modern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in 4000-level History seminar(s)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free elective credits to make 20.0 credits for the degree"
+        }
+      ]
+    },
+    {
+      "degree": "History with Concentration in Public History B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "a. 1.0 credit at the 1000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 2301",
+            "HIST 2311",
+            "HIST 2313",
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "b. a minimum of 0.5 credit from HIST 1301 [0.5], HIST 1302 [0.5], HIST 2301 [0.5], HIST 2311 [0.5], HIST 2313 [0.5], HIST 2314 [0.5] if not already satisfied in a."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "c. 1.5 credit at the 3000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2902"
+          ],
+          "credits": 0.5,
+          "description": "Origins of the Greeks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2903"
+          ],
+          "credits": 0.5,
+          "description": "Democracy to Alexander"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2904"
+          ],
+          "credits": 0.5,
+          "description": "Rise of the Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2905"
+          ],
+          "credits": 0.5,
+          "description": "Rome of the Caesars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2906"
+          ],
+          "credits": 0.5,
+          "description": "Kyivan Rus\u2019 & the Russian Empire to 1801"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3005"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Aristocratic Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3006"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Religious Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3009"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3010"
+          ],
+          "credits": 0.5,
+          "description": "The Later Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3101"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3105"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3708"
+          ],
+          "credits": 0.5,
+          "description": "Reformation Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3516"
+          ],
+          "credits": 0.5,
+          "description": "The Wilsonian Moment: Diplomacy and the Post-Ottoman Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3712"
+          ],
+          "credits": 0.5,
+          "description": "Mexico: Aztecs to Narcos"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3805"
+          ],
+          "credits": 0.5,
+          "description": "China since the Xinhai [1911] Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Japan Since 1945"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2804"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2912"
+          ],
+          "credits": 0.5,
+          "description": "Science and Technology in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2913"
+          ],
+          "credits": 0.5,
+          "description": "History of Oil"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3109"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Alcohol"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3110"
+          ],
+          "credits": 0.5,
+          "description": "The Cultural History of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3111"
+          ],
+          "credits": 0.5,
+          "description": "History of Humanitarian Aid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3116"
+          ],
+          "credits": 0.5,
+          "description": "History of Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3121"
+          ],
+          "credits": 0.5,
+          "description": "Sports in the Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3122"
+          ],
+          "credits": 0.5,
+          "description": "Antisemitism, Then and Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3205"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Business History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3218"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Shopping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Crime and State in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3310"
+          ],
+          "credits": 0.5,
+          "description": "Animals in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3500"
+          ],
+          "credits": 0.5,
+          "description": "Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3515"
+          ],
+          "credits": 0.5,
+          "description": "Madness in Modern Times"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3604"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Modern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Public History from Memory to Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3809"
+          ],
+          "credits": 0.5,
+          "description": "Historical Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3815"
+          ],
+          "credits": 0.5,
+          "description": "Group Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3580"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Material Culture and Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Heritage Places and Practices in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2510"
+          ],
+          "credits": 0.5,
+          "description": "Memory and History in Qu\u00e9bec"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 3700"
+          ],
+          "credits": 0.5,
+          "description": "Constructing and Contesting Memory in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2812"
+          ],
+          "credits": 0.5,
+          "description": "Special Subject in Public History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3001"
+          ],
+          "credits": 0.5,
+          "description": "History at the Movies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3814"
+          ],
+          "credits": 0.5,
+          "description": "Crafting Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3815"
+          ],
+          "credits": 0.5,
+          "description": "Group Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3909"
+          ],
+          "credits": 0.5,
+          "description": "Topic in Public History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from approved electives may be counted towards this requirement."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4916"
+          ],
+          "credits": 0.5,
+          "description": "Topic in Public History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4920"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in Public History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in HIST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in free electives (may be HIST)"
+        }
+      ]
+    },
+    {
+      "degree": "History with Concentration in Public History B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1405"
+          ],
+          "credits": 1.0,
+          "description": "a. 1.0 credit in HIST at the 1000-level or FYSM 1405"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 2301",
+            "HIST 2311",
+            "HIST 2313",
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "b. a minimum of 0.5 credit from HIST 1301 [0.5], HIST 1302 [0.5], HIST 2301 [0.5], HIST 2311 [0.5], HIST 2313 [0.5], HIST 2314 [0.5] if not already satisfied in a."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2902"
+          ],
+          "credits": 0.5,
+          "description": "Origins of the Greeks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2903"
+          ],
+          "credits": 0.5,
+          "description": "Democracy to Alexander"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2904"
+          ],
+          "credits": 0.5,
+          "description": "Rise of the Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2905"
+          ],
+          "credits": 0.5,
+          "description": "Rome of the Caesars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2906"
+          ],
+          "credits": 0.5,
+          "description": "Kyivan Rus\u2019 & the Russian Empire to 1801"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3005"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Aristocratic Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3006"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Religious Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3009"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3010"
+          ],
+          "credits": 0.5,
+          "description": "The Later Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3101"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3105"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3708"
+          ],
+          "credits": 0.5,
+          "description": "Reformation Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3516"
+          ],
+          "credits": 0.5,
+          "description": "The Wilsonian Moment: Diplomacy and the Post-Ottoman Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3712"
+          ],
+          "credits": 0.5,
+          "description": "Mexico: Aztecs to Narcos"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3805"
+          ],
+          "credits": 0.5,
+          "description": "China since the Xinhai [1911] Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Japan Since 1945"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Public History from Memory to Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3809"
+          ],
+          "credits": 0.5,
+          "description": "Historical Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4916"
+          ],
+          "credits": 0.5,
+          "description": "Topic in Public History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4920"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in Public History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3815"
+          ],
+          "credits": 0.5,
+          "description": "Group Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3580"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Material Culture and Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Heritage Places and Practices in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2510"
+          ],
+          "credits": 0.5,
+          "description": "Memory and History in Qu\u00e9bec"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 3700"
+          ],
+          "credits": 0.5,
+          "description": "Constructing and Contesting Memory in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2812"
+          ],
+          "credits": 0.5,
+          "description": "Special Subject in Public History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3001"
+          ],
+          "credits": 0.5,
+          "description": "History at the Movies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3814"
+          ],
+          "credits": 0.5,
+          "description": "Crafting Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3815"
+          ],
+          "credits": 0.5,
+          "description": "Group Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3909"
+          ],
+          "credits": 0.5,
+          "description": "Topic in Public History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from approved electives may be counted towards this requirement."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits for the degree"
+        }
+      ]
+    },
+    {
+      "degree": "History B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1405"
+          ],
+          "credits": 1.0,
+          "description": "a.  1.0 credit in HIST at the 1000-level or FYSM 1405"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "b.  1.5 credits in HIST at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "c.  1.5 credits in HIST at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in HIST"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2902"
+          ],
+          "credits": 0.5,
+          "description": "Origins of the Greeks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2903"
+          ],
+          "credits": 0.5,
+          "description": "Democracy to Alexander"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2904"
+          ],
+          "credits": 0.5,
+          "description": "Rise of the Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2905"
+          ],
+          "credits": 0.5,
+          "description": "Rome of the Caesars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3005"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Aristocratic Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3006"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Religious Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3009"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3010"
+          ],
+          "credits": 0.5,
+          "description": "The Later Roman Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3101"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3105"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3708"
+          ],
+          "credits": 0.5,
+          "description": "Reformation Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3516"
+          ],
+          "credits": 0.5,
+          "description": "The Wilsonian Moment: Diplomacy and the Post-Ottoman Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3712"
+          ],
+          "credits": 0.5,
+          "description": "Mexico: Aztecs to Narcos"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3805"
+          ],
+          "credits": 0.5,
+          "description": "China since the Xinhai [1911] Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Japan Since 1945"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2804"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2912"
+          ],
+          "credits": 0.5,
+          "description": "Science and Technology in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2913"
+          ],
+          "credits": 0.5,
+          "description": "History of Oil"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3109"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Alcohol"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3110"
+          ],
+          "credits": 0.5,
+          "description": "The Cultural History of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3111"
+          ],
+          "credits": 0.5,
+          "description": "History of Humanitarian Aid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3116"
+          ],
+          "credits": 0.5,
+          "description": "History of Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3121"
+          ],
+          "credits": 0.5,
+          "description": "Sports in the Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3122"
+          ],
+          "credits": 0.5,
+          "description": "Antisemitism, Then and Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3205"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Business History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3218"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Shopping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Crime and State in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3310"
+          ],
+          "credits": 0.5,
+          "description": "Animals in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3500"
+          ],
+          "credits": 0.5,
+          "description": "Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3515"
+          ],
+          "credits": 0.5,
+          "description": "Madness in Modern Times"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3604"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Modern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in HIST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives (may be HIST)"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in History (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1405"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit in HIST at the 1000 level or FYSM 1405"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in HIST at the 2000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in HIST at the 3000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in HIST from any combination of courses at the 2000, 3000, or 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied"
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Global and Transnational History B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5  credits in: the Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "a.  0.5 credit in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1701"
+          ],
+          "credits": 0.5,
+          "description": "History of the Global South, 1400-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1702"
+          ],
+          "credits": 0.5,
+          "description": "History of the Global South, 1850 to the present"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b.  1.0 credit from: Regional History: The Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "c. 1.0 credit from: Regional History: Europe and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2508"
+          ],
+          "credits": 0.5,
+          "description": "War, Politics, and Society in Twentieth-Century Global France"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2510"
+          ],
+          "credits": 0.5,
+          "description": "19th-Century Germany"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2511"
+          ],
+          "credits": 0.5,
+          "description": "20th-Century Germany"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in Historical Method"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "e. 2.5 credits from Themes in History, with no more than 0.5 credit at 2000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2804"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Public History from Memory to Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2913"
+          ],
+          "credits": 0.5,
+          "description": "History of Oil"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3001"
+          ],
+          "credits": 0.5,
+          "description": "History at the Movies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3109"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Alcohol"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3110"
+          ],
+          "credits": 0.5,
+          "description": "The Cultural History of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3111"
+          ],
+          "credits": 0.5,
+          "description": "History of Humanitarian Aid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3121"
+          ],
+          "credits": 0.5,
+          "description": "Sports in the Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3122"
+          ],
+          "credits": 0.5,
+          "description": "Antisemitism, Then and Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3218"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Shopping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3304"
+          ],
+          "credits": 0.5,
+          "description": "Canada-United States Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3306"
+          ],
+          "credits": 0.5,
+          "description": "Canada's International Policies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3310"
+          ],
+          "credits": 0.5,
+          "description": "Animals in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3413"
+          ],
+          "credits": 0.5,
+          "description": "The United States and Its Borderlands"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3500"
+          ],
+          "credits": 0.5,
+          "description": "Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3515"
+          ],
+          "credits": 0.5,
+          "description": "Madness in Modern Times"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3714"
+          ],
+          "credits": 0.5,
+          "description": "The Holocaust: Historical and Religious Dimensions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3809"
+          ],
+          "credits": 0.5,
+          "description": "Historical Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3813"
+          ],
+          "credits": 0.5,
+          "description": "Problems in Global and Transnational Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3906"
+          ],
+          "credits": 0.5,
+          "description": "Topics in World History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3907"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3908"
+          ],
+          "credits": 0.5,
+          "description": "Thematic Topic"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "f. 0.5 credit from: Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "g. 1.5 credit from: Honours Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4007"
+          ],
+          "credits": 0.5,
+          "description": "Medieval History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4100"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in Early Modern European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4200"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4201"
+          ],
+          "credits": 0.5,
+          "description": "Modern European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4604"
+          ],
+          "credits": 0.5,
+          "description": "Central Europe, Past and Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4605"
+          ],
+          "credits": 0.5,
+          "description": "The Balkans in Transition \u2013 1918 to 1989"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4606"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Europe: From Postwar to the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4608"
+          ],
+          "credits": 0.5,
+          "description": "The Soviet Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4700"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in World History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4701"
+          ],
+          "credits": 0.5,
+          "description": "African History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4702"
+          ],
+          "credits": 0.5,
+          "description": "South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4703"
+          ],
+          "credits": 0.5,
+          "description": "The Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4704"
+          ],
+          "credits": 0.5,
+          "description": "Caribbean and Latin American History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4705"
+          ],
+          "credits": 0.5,
+          "description": "Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4802"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in International History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4805"
+          ],
+          "credits": 1.0,
+          "description": "Seminar on a Transnational or Thematic Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4806"
+          ],
+          "credits": 0.5,
+          "description": "Global, Transnational, or Thematic History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Global and Transnational History B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0  credits from: the Stream"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "a. 0.5 credit from: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1701"
+          ],
+          "credits": 0.5,
+          "description": "History of the Global South, 1400-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1702"
+          ],
+          "credits": 0.5,
+          "description": "History of the Global South, 1850 to the present"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b. 1.0 credit from: Regional History: the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2312"
+          ],
+          "credits": 0.5,
+          "description": "History of the Indian Ocean World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2915"
+          ],
+          "credits": 0.5,
+          "description": "History of the Modern Middle East"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c. 0.5 credit from: Regional History: Europe and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2204"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1350-1650"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2206"
+          ],
+          "credits": 0.5,
+          "description": "Early Modern Europe 1600-1800"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2508"
+          ],
+          "credits": 0.5,
+          "description": "War, Politics, and Society in Twentieth-Century Global France"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2510"
+          ],
+          "credits": 0.5,
+          "description": "19th-Century Germany"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2511"
+          ],
+          "credits": 0.5,
+          "description": "20th-Century Germany"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in Historical Method"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2809"
+          ],
+          "credits": 0.5,
+          "description": "The Historian's Craft"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "e. 1.5 credits from Themes in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3001"
+          ],
+          "credits": 0.5,
+          "description": "History at the Movies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3109"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Alcohol"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3110"
+          ],
+          "credits": 0.5,
+          "description": "The Cultural History of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3111"
+          ],
+          "credits": 0.5,
+          "description": "History of Humanitarian Aid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3121"
+          ],
+          "credits": 0.5,
+          "description": "Sports in the Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3122"
+          ],
+          "credits": 0.5,
+          "description": "Antisemitism, Then and Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3218"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Shopping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3304"
+          ],
+          "credits": 0.5,
+          "description": "Canada-United States Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3306"
+          ],
+          "credits": 0.5,
+          "description": "Canada's International Policies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3310"
+          ],
+          "credits": 0.5,
+          "description": "Animals in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3413"
+          ],
+          "credits": 0.5,
+          "description": "The United States and Its Borderlands"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3500"
+          ],
+          "credits": 0.5,
+          "description": "Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3515"
+          ],
+          "credits": 0.5,
+          "description": "Madness in Modern Times"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3517"
+          ],
+          "credits": 0.5,
+          "description": "History of Modern Egypt"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3714"
+          ],
+          "credits": 0.5,
+          "description": "The Holocaust: Historical and Religious Dimensions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3809"
+          ],
+          "credits": 0.5,
+          "description": "Historical Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3813"
+          ],
+          "credits": 0.5,
+          "description": "Problems in Global and Transnational Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3820"
+          ],
+          "credits": 0.5,
+          "description": "Explorations in Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3906"
+          ],
+          "credits": 0.5,
+          "description": "Topics in World History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3907"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3908"
+          ],
+          "credits": 0.5,
+          "description": "Thematic Topic"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    }
   ]
 }

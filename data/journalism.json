@@ -441,5 +441,2937 @@
       "credits": "9.5",
       "text": "9.  9.5 credits in free electives 9.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Journalism B.J. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from: Journalism Publications and/or Specialized Journalism and/or Professional Skills and/or Investigating Journalism (at least 0.5 credit must be taken from Journalism Publications courses and at least 0.5 credit must be taken from the Specialized Journalism courses)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Journalism Publications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Specialized Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4300"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4301"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and the Markets"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4302"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and Canadian Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4306"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4308"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Sports and Sport Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4309"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Arts and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4311"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Justice and The Supreme Court"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4313"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Reporting in Indigenous Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4314"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Parliament, Policy and the Press"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Professional Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Investigating Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "Students must complete at least a Minor in a field other than journalism (typically 4.0 credits, with requirements for the Minor specified by the other academic unit)."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "JOUR 4003",
+            "JOUR 4004",
+            "JOUR 4005"
+          ],
+          "credits": 7.0,
+          "description": "7.0 credits in free electives. Free elective credits may include JOUR courses in the 4300 series of courses, 4400 series of courses and 4500 series of courses, JOUR 4003 , JOUR 4004 and JOUR 4005 ."
+        }
+      ]
+    },
+    {
+      "degree": "Journalism with Concentration in Health Sciences B.J. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Health I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Health Research Methods and Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NSCI 4901"
+          ],
+          "credits": 1.0,
+          "description": "Science Journalism Independent Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada (b. 0.5 credit from:)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "JOUR 4003",
+            "JOUR 4004",
+            "JOUR 4005"
+          ],
+          "credits": 5.0,
+          "description": "5.0 credits in free electives. Free elective credits may include JOUR courses in the 4300 series of courses, 4400 series of courses and 4500 series of courses, JOUR 4003 , JOUR 4004 and JOUR 4005 ."
+        }
+      ]
+    },
+    {
+      "degree": "Journalism B.J. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5  credits from - Journalism Publications and/or Specialized Journalism and/or Professional Skills and/or Investigating Journalism (at least 0.5 credit must be taken from Journalism Publications courses and at least 0.5 credit must be taken from the Specialized Journalism courses)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Journalism Publications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Specialized Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4300"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4301"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and the Markets"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4302"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and Canadian Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4306"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4308"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Sports and Sport Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4309"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Arts and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4311"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Justice and The Supreme Court"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4313"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Reporting in Indigenous Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4314"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Parliament, Policy and the Press"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Professional Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Investigating Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements from the other discipline including, where required, an honours research essay"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "JOUR 4003",
+            "JOUR 4004",
+            "JOUR 4005"
+          ],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits for the whole program.  Free elective credits may include JOUR courses in the 4300 series of courses, 4400 series of courses and 4500 series of courses, JOUR 4003 , JOUR 4004 and JOUR 4005 ."
+        }
+      ]
+    },
+    {
+      "degree": "Journalism and Communication and Media Studies B.J. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from - Journalism Publications and/or Specialized Journalism and/or Professional Skills and/or Investigating Journalism (at least 0.5 credit must be taken from Journalism Publications courses and at least 0.5 credit must be taken from the Specialized Journalism courses)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Journalism Publications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Specialized Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4300"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4301"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and the Markets"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4302"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and Canadian Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4306"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4309"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Arts and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4308"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Sports and Sport Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4311"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Justice and The Supreme Court"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4313"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Reporting in Indigenous Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4314"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Parliament, Policy and the Press"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Professional Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Investigating Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2401"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3110"
+          ],
+          "credits": 0.5,
+          "description": "Comic Books and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3407"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Sport and/as Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Media Fandom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4004"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Discourse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4302"
+          ],
+          "credits": 0.5,
+          "description": "Music Industries and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Media and Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4306"
+          ],
+          "credits": 0.5,
+          "description": "Media and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4312"
+          ],
+          "credits": 0.5,
+          "description": "Crisis and Risk Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4313"
+          ],
+          "credits": 0.5,
+          "description": "Screen Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4315"
+          ],
+          "credits": 0.5,
+          "description": "Communication and the Built Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4317"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media and Global Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4401"
+          ],
+          "credits": 0.5,
+          "description": "Global Internet Policy and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4403"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Industries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4405"
+          ],
+          "credits": 0.5,
+          "description": "The Networked Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4406"
+          ],
+          "credits": 0.5,
+          "description": "Open Government and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4407"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Critical Data Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4408"
+          ],
+          "credits": 0.5,
+          "description": "Creative Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4410"
+          ],
+          "credits": 0.5,
+          "description": "Mobile Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4411"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Algorithmic Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4412"
+          ],
+          "credits": 0.5,
+          "description": "Game Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4501"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Production"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4502"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling in the Digital Age"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4503"
+          ],
+          "credits": 0.5,
+          "description": "Platform Practices and Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Engaging the Public: Stakeholders, participation & consultation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4505"
+          ],
+          "credits": 0.5,
+          "description": "Professional Writing and Speaking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4506"
+          ],
+          "credits": 0.5,
+          "description": "Event Management and Community Partnerships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4507"
+          ],
+          "credits": 0.5,
+          "description": "Professional Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4602"
+          ],
+          "credits": 0.5,
+          "description": "Children, Youth and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Diaspora and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4604"
+          ],
+          "credits": 0.5,
+          "description": "Media, Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4605"
+          ],
+          "credits": 0.5,
+          "description": "Media, Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4606"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4608"
+          ],
+          "credits": 0.5,
+          "description": "Sound Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        }
+      ]
+    },
+    {
+      "degree": "Media Production and Design B.M.P.D. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Interactive Media Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Storytelling: The Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Storytelling: The Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1401",
+            "ITEC 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Scripting and Problem Solving Intermediate Scripting"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1400",
+            "ITEC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Data Visualization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Visual Communication I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2002"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Visual Communication II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2003"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2004"
+          ],
+          "credits": 0.5,
+          "description": "Writing for Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 3100"
+          ],
+          "credits": 0.5,
+          "description": "Immersive Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3001"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling and Social Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3002"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3003"
+          ],
+          "credits": 0.5,
+          "description": "Minor Design Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4000"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4906"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Projects: Translational Approach to Indigenous Community Wellness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3000"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4001"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries Now and Next"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4200"
+          ],
+          "credits": 0.5,
+          "description": "Freelance Media Survival Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4300"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4400"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4500"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4501"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4502"
+          ],
+          "credits": 0.5,
+          "description": "Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4503"
+          ],
+          "credits": 0.5,
+          "description": "Journalism, Indigenous Peoples and Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4504"
+          ],
+          "credits": 0.5,
+          "description": "The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4012"
+          ],
+          "credits": 0.5,
+          "description": "Web Application Frameworks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4014"
+          ],
+          "credits": 0.5,
+          "description": "User Experience Design and Accessibility"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4015"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Producing Sound"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4016"
+          ],
+          "credits": 0.5,
+          "description": "Virtual and Augmented Reality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4019"
+          ],
+          "credits": 0.5,
+          "description": "Directing and Cinematography for Digital Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4021"
+          ],
+          "credits": 0.5,
+          "description": "Empirical Research Methods in HCI"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2012"
+          ],
+          "credits": 0.5,
+          "description": "Anishinaabe Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Haudenosaunee Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2709"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Drama"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 9.5,
+          "description": "9.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in News Media and Information (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topic in Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3002"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3501"
+          ],
+          "credits": 0.5,
+          "description": "Internet and Big Data Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2106"
+          ],
+          "credits": 0.5,
+          "description": "The Documentary"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3105"
+          ],
+          "credits": 0.5,
+          "description": "Questions of Documentary Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2901"
+          ],
+          "credits": 0.5,
+          "description": "Truth and Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3503"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Politics and the Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4211"
+          ],
+          "credits": 0.5,
+          "description": "Op-Ed Writing and Social Media as Political Engagement"
+        }
+      ]
+    },
+    {
+      "degree": "Certificate in Journalism in Indigenous Communities (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1101"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1102"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1103"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1104"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1105"
+          ],
+          "credits": 0.5,
+          "description": "Digital and Photojournalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1106"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurial Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1107"
+          ],
+          "credits": 1.0,
+          "description": "Internships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1108"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Video Journalism"
+        }
+      ]
+    },
+    {
+      "degree": "Academic Continuation Evaluation for Bachelor of Journalism and Humanities",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        }
+      ]
+    }
   ]
 }

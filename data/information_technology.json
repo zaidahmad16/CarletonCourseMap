@@ -871,5 +871,2388 @@
       "prerequisites": "fourth-year standing."
     }
   ],
-  "free_electives": []
+  "free_electives": [],
+  "programs": [
+    {
+      "degree": "Information Resource Management B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1002"
+          ],
+          "credits": 0.5,
+          "description": "Reference and Information Services"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Interface Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1006"
+          ],
+          "credits": 0.5,
+          "description": "Subject Analysis and Indexing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1007"
+          ],
+          "credits": 0.5,
+          "description": "Cataloguing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2008"
+          ],
+          "credits": 0.5,
+          "description": "Multimedia Data Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 2002"
+          ],
+          "credits": 0.5,
+          "description": "Legal and Business Information"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 2003"
+          ],
+          "credits": 0.5,
+          "description": "Classification"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 2004"
+          ],
+          "credits": 0.5,
+          "description": "Information Management and Digital Preservation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 2005"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Cataloguing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 3001"
+          ],
+          "credits": 0.5,
+          "description": "Scientific and Medical Information"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 3003"
+          ],
+          "credits": 0.5,
+          "description": "Legal Issues in Information Resource Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 3006"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis and Research Methodology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 3008"
+          ],
+          "credits": 0.5,
+          "description": "Metadata for IRM"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 3009"
+          ],
+          "credits": 0.5,
+          "description": "Information Backup and Recovery"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4000"
+          ],
+          "credits": 0.5,
+          "description": "Library Software"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4004"
+          ],
+          "credits": 0.5,
+          "description": "Applied Machine Learning and Big Data Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4900"
+          ],
+          "credits": 1.0,
+          "description": "IRM Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1003"
+          ],
+          "credits": 0.5,
+          "description": "Collections management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Reader\u2019s Advisory Services"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 1008"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Information Resource Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2009"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 2006"
+          ],
+          "credits": 0.5,
+          "description": "Data Visualization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 3006"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for IRM"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 3004"
+          ],
+          "credits": 0.5,
+          "description": "Project management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4001"
+          ],
+          "credits": 0.5,
+          "description": "Archives and Special Collections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Deep Learning"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in French Language (see Note 2, below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in electives to be fulfilled by courses taken to complete a Minor (see Note 1, below)"
+        }
+      ]
+    },
+    {
+      "degree": "Interactive Multimedia and Design B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1001"
+          ],
+          "credits": 0.5,
+          "description": "Visual Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1002"
+          ],
+          "credits": 0.5,
+          "description": "Visual Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1004"
+          ],
+          "credits": 0.5,
+          "description": "Design Processes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2008"
+          ],
+          "credits": 0.5,
+          "description": "Multimedia Data Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2003"
+          ],
+          "credits": 0.5,
+          "description": "Audio and Video"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2007"
+          ],
+          "credits": 0.5,
+          "description": "Intro to 3D Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3004"
+          ],
+          "credits": 0.5,
+          "description": "Human Computer Interaction and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Sensor-Based Interaction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3901"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4006"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4008"
+          ],
+          "credits": 0.5,
+          "description": "Mobile User Interface Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4007"
+          ],
+          "credits": 0.5,
+          "description": "Dynamics and Physics-Based Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4009"
+          ],
+          "credits": 0.5,
+          "description": "Rigging and Advanced Character Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4010"
+          ],
+          "credits": 0.5,
+          "description": "Visual Effects and Compositing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4011"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence for Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4012"
+          ],
+          "credits": 0.5,
+          "description": "Web Application Frameworks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4014"
+          ],
+          "credits": 0.5,
+          "description": "User Experience Design and Accessibility"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4901"
+          ],
+          "credits": 1.5,
+          "description": "IMD Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1002"
+          ],
+          "credits": 0.5,
+          "description": "Physics for Information Technology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1100"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics I for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1101"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics II for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Interactive Multimedia Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2002"
+          ],
+          "credits": 0.5,
+          "description": "Marketing in the IT sector"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2006"
+          ],
+          "credits": 0.5,
+          "description": "Elective"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2009"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 3003"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3002"
+          ],
+          "credits": 0.5,
+          "description": "3D Computer Graphics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3006"
+          ],
+          "credits": 0.5,
+          "description": "Software Design for Multimedia Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4002"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Arts and Humanities elective outside the faculties of Business, Science and Engineering."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 4000"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4002"
+          ],
+          "credits": 0.5,
+          "description": "Network  Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 3100"
+          ],
+          "credits": 0.5,
+          "description": "Immersive Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4015"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Producing Sound"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4016"
+          ],
+          "credits": 0.5,
+          "description": "Virtual and Augmented Reality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4017"
+          ],
+          "credits": 0.5,
+          "description": "Photo and Non-Photo-Realistic Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4018"
+          ],
+          "credits": 0.5,
+          "description": "GPU Programming and Real-Time Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4019"
+          ],
+          "credits": 0.5,
+          "description": "Directing and Cinematography for Digital Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4020"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Architectural Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4021"
+          ],
+          "credits": 0.5,
+          "description": "Empirical Research Methods in HCI"
+        }
+      ]
+    },
+    {
+      "degree": "Interactive Multimedia and Design Animation & Visual Effects Stream B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1001"
+          ],
+          "credits": 0.5,
+          "description": "Visual Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1002"
+          ],
+          "credits": 0.5,
+          "description": "Visual Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1004"
+          ],
+          "credits": 0.5,
+          "description": "Design Processes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2008"
+          ],
+          "credits": 0.5,
+          "description": "Multimedia Data Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2003"
+          ],
+          "credits": 0.5,
+          "description": "Audio and Video"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2007"
+          ],
+          "credits": 0.5,
+          "description": "Intro to 3D Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3004"
+          ],
+          "credits": 0.5,
+          "description": "Human Computer Interaction and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Sensor-Based Interaction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3901"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4007"
+          ],
+          "credits": 0.5,
+          "description": "Dynamics and Physics-Based Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4009"
+          ],
+          "credits": 0.5,
+          "description": "Rigging and Advanced Character Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4010"
+          ],
+          "credits": 0.5,
+          "description": "Visual Effects and Compositing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4901"
+          ],
+          "credits": 1.5,
+          "description": "IMD Capstone Project (1.5)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1002"
+          ],
+          "credits": 0.5,
+          "description": "Physics for Information Technology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1100"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics I for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1101"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics II for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Interactive Multimedia Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2002"
+          ],
+          "credits": 0.5,
+          "description": "Marketing in the IT sector"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2006"
+          ],
+          "credits": 0.5,
+          "description": "Elective"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2009"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 3003"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3002"
+          ],
+          "credits": 0.5,
+          "description": "3D Computer Graphics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3006"
+          ],
+          "credits": 0.5,
+          "description": "Software Design for Multimedia Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4002"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Arts and Humanities elective outside the faculties of Business, Science and Engineering."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in electives for IMD, and/or Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 4000"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4006"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4008"
+          ],
+          "credits": 0.5,
+          "description": "Mobile User Interface Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4002"
+          ],
+          "credits": 0.5,
+          "description": "Network  Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 3100"
+          ],
+          "credits": 0.5,
+          "description": "Immersive Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4011"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence for Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4012"
+          ],
+          "credits": 0.5,
+          "description": "Web Application Frameworks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4014"
+          ],
+          "credits": 0.5,
+          "description": "User Experience Design and Accessibility"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4015"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Producing Sound"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4016"
+          ],
+          "credits": 0.5,
+          "description": "Virtual and Augmented Reality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4017"
+          ],
+          "credits": 0.5,
+          "description": "Photo and Non-Photo-Realistic Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4018"
+          ],
+          "credits": 0.5,
+          "description": "GPU Programming and Real-Time Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4019"
+          ],
+          "credits": 0.5,
+          "description": "Directing and Cinematography for Digital Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4020"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Architectural Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4021"
+          ],
+          "credits": 0.5,
+          "description": "Empirical Research Methods in HCI"
+        }
+      ]
+    },
+    {
+      "degree": "Interactive Multimedia and Design Game Design/Development Stream B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1001"
+          ],
+          "credits": 0.5,
+          "description": "Visual Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1002"
+          ],
+          "credits": 0.5,
+          "description": "Visual Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1004"
+          ],
+          "credits": 0.5,
+          "description": "Design Processes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2008"
+          ],
+          "credits": 0.5,
+          "description": "Multimedia Data Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2003"
+          ],
+          "credits": 0.5,
+          "description": "Audio and Video"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2007"
+          ],
+          "credits": 0.5,
+          "description": "Intro to 3D Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3004"
+          ],
+          "credits": 0.5,
+          "description": "Human Computer Interaction and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Sensor-Based Interaction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3901"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4006"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4009"
+          ],
+          "credits": 0.5,
+          "description": "Rigging and Advanced Character Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4011"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence for Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4901"
+          ],
+          "credits": 1.5,
+          "description": "IMD Capstone Project (1.5)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1002"
+          ],
+          "credits": 0.5,
+          "description": "Physics for Information Technology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1100"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics I for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1101"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics II for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Interactive Multimedia Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2002"
+          ],
+          "credits": 0.5,
+          "description": "Marketing in the IT sector"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2006"
+          ],
+          "credits": 0.5,
+          "description": "Elective"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2009"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 3003"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3002"
+          ],
+          "credits": 0.5,
+          "description": "3D Computer Graphics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3006"
+          ],
+          "credits": 0.5,
+          "description": "Software Design for Multimedia Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4002"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Arts and Humanities elective outside the faculties of Business, Science and Engineering."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in electives for IMD, and/or Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 4000"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4008"
+          ],
+          "credits": 0.5,
+          "description": "Mobile User Interface Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4002"
+          ],
+          "credits": 0.5,
+          "description": "Network  Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 3100"
+          ],
+          "credits": 0.5,
+          "description": "Immersive Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4007"
+          ],
+          "credits": 0.5,
+          "description": "Dynamics and Physics-Based Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4010"
+          ],
+          "credits": 0.5,
+          "description": "Visual Effects and Compositing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4012"
+          ],
+          "credits": 0.5,
+          "description": "Web Application Frameworks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4014"
+          ],
+          "credits": 0.5,
+          "description": "User Experience Design and Accessibility"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4015"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Producing Sound"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4016"
+          ],
+          "credits": 0.5,
+          "description": "Virtual and Augmented Reality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4017"
+          ],
+          "credits": 0.5,
+          "description": "Photo and Non-Photo-Realistic Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4018"
+          ],
+          "credits": 0.5,
+          "description": "GPU Programming and Real-Time Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4019"
+          ],
+          "credits": 0.5,
+          "description": "Directing and Cinematography for Digital Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4020"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Architectural Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4021"
+          ],
+          "credits": 0.5,
+          "description": "Empirical Research Methods in HCI"
+        }
+      ]
+    },
+    {
+      "degree": "Interactive Multimedia and Design Web & User Interfaces Stream B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1001"
+          ],
+          "credits": 0.5,
+          "description": "Visual Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1002"
+          ],
+          "credits": 0.5,
+          "description": "Visual Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1004"
+          ],
+          "credits": 0.5,
+          "description": "Design Processes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2008"
+          ],
+          "credits": 0.5,
+          "description": "Multimedia Data Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2003"
+          ],
+          "credits": 0.5,
+          "description": "Audio and Video"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2007"
+          ],
+          "credits": 0.5,
+          "description": "Intro to 3D Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3004"
+          ],
+          "credits": 0.5,
+          "description": "Human Computer Interaction and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Sensor-Based Interaction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3900"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3901"
+          ],
+          "credits": 1.0,
+          "description": "Design Studio 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4008"
+          ],
+          "credits": 0.5,
+          "description": "Mobile User Interface Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4012"
+          ],
+          "credits": 0.5,
+          "description": "Web Application Frameworks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4014"
+          ],
+          "credits": 0.5,
+          "description": "User Experience Design and Accessibility"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4901"
+          ],
+          "credits": 1.5,
+          "description": "IMD Capstone Project (1.5)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1002"
+          ],
+          "credits": 0.5,
+          "description": "Physics for Information Technology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1100"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics I for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1101"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics II for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Interactive Multimedia Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2002"
+          ],
+          "credits": 0.5,
+          "description": "Marketing in the IT sector"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2006"
+          ],
+          "credits": 0.5,
+          "description": "Elective"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2009"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 3003"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for IMD"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3002"
+          ],
+          "credits": 0.5,
+          "description": "3D Computer Graphics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 3006"
+          ],
+          "credits": 0.5,
+          "description": "Software Design for Multimedia Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4002"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Arts and Humanities elective outside the faculties of Business, Science and Engineering."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in electives for IMD, and/or Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 4000"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IMD 4006"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IRM 4002"
+          ],
+          "credits": 0.5,
+          "description": "Network  Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 3100"
+          ],
+          "credits": 0.5,
+          "description": "Immersive Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4007"
+          ],
+          "credits": 0.5,
+          "description": "Dynamics and Physics-Based Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4009"
+          ],
+          "credits": 0.5,
+          "description": "Rigging and Advanced Character Animation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4010"
+          ],
+          "credits": 0.5,
+          "description": "Visual Effects and Compositing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4011"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence for Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4015"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Producing Sound"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4016"
+          ],
+          "credits": 0.5,
+          "description": "Virtual and Augmented Reality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4017"
+          ],
+          "credits": 0.5,
+          "description": "Photo and Non-Photo-Realistic Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4018"
+          ],
+          "credits": 0.5,
+          "description": "GPU Programming and Real-Time Rendering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4019"
+          ],
+          "credits": 0.5,
+          "description": "Directing and Cinematography for Digital Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4020"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Architectural Modelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4021"
+          ],
+          "credits": 0.5,
+          "description": "Empirical Research Methods in HCI"
+        }
+      ]
+    },
+    {
+      "degree": "Network Technology B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NET 1006"
+          ],
+          "credits": 0.5,
+          "description": "Routing and Switching"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2000"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Networking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2008"
+          ],
+          "credits": 0.5,
+          "description": "DevOps"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2011"
+          ],
+          "credits": 0.5,
+          "description": "Desktop and Server Environments II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2012"
+          ],
+          "credits": 0.5,
+          "description": "Networking Technologies and Automation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3006"
+          ],
+          "credits": 0.5,
+          "description": "Network Management and Machine Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3007"
+          ],
+          "credits": 0.5,
+          "description": "Network Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3008"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Network Routing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3011"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Network Switching"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3012"
+          ],
+          "credits": 0.5,
+          "description": "IP Architectures and Solutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3900"
+          ],
+          "credits": 0.5,
+          "description": "Wireless Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4001"
+          ],
+          "credits": 0.5,
+          "description": "Network Simulation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4005"
+          ],
+          "credits": 0.5,
+          "description": "Networked Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4007"
+          ],
+          "credits": 0.5,
+          "description": "Multimedia Networking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4009"
+          ],
+          "credits": 0.5,
+          "description": "Troubleshooting IP Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4010"
+          ],
+          "credits": 0.5,
+          "description": "Secure Mobile Networking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4011"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Network Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4901"
+          ],
+          "credits": 1.0,
+          "description": "NET Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1000"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics I for NET"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics II for NET"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1006"
+          ],
+          "credits": 0.5,
+          "description": "Achieving Success in Changing Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1007"
+          ],
+          "credits": 0.5,
+          "description": "Physics for NET"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 1001"
+          ],
+          "credits": 0.5,
+          "description": "Computer Technology Basics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 1002"
+          ],
+          "credits": 0.5,
+          "description": "Networking Fundamentals"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2000"
+          ],
+          "credits": 0.5,
+          "description": "Probability for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 2004"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for NET"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2007"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Transmission Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2010"
+          ],
+          "credits": 0.5,
+          "description": "Desktop and Server Environments I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 2013"
+          ],
+          "credits": 0.5,
+          "description": "Computer Systems Foundations (0.5)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3000"
+          ],
+          "credits": 0.5,
+          "description": "Database Concepts and SQL"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3001"
+          ],
+          "credits": 0.5,
+          "description": "Real-time Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3004"
+          ],
+          "credits": 0.5,
+          "description": "Data Structures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 3010"
+          ],
+          "credits": 0.5,
+          "description": "Web Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4000"
+          ],
+          "credits": 0.5,
+          "description": "Emerging Network Technologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NET 4012"
+          ],
+          "credits": 0.5,
+          "description": "Cloud Computing and Virtualization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in Arts and Humanities electives outside the faculties of Business, Science and Engineering."
+        }
+      ]
+    },
+    {
+      "degree": "Optical Systems and Sensors B.I.T. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "OSS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Optics/Optical Fibers (Principles)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2400"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2001"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Light Sources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2002"
+          ],
+          "credits": 0.5,
+          "description": "Optical Communication Networks I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Laser Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2008"
+          ],
+          "credits": 0.5,
+          "description": "Manufacturing Photonics Components"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3000"
+          ],
+          "credits": 0.5,
+          "description": "Optical Communication Networks II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Design of Optical Components and Systems (0.5)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Electromagnetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3013"
+          ],
+          "credits": 0.5,
+          "description": "Software Design for Optical Systems and Sensors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3014"
+          ],
+          "credits": 0.5,
+          "description": "Optical Waves, Waveguides, and Sensors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Optoelectronic Devices and Smart Sensor Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4004"
+          ],
+          "credits": 0.5,
+          "description": "Medical Imaging and Biosensors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4006"
+          ],
+          "credits": 0.5,
+          "description": "Image Processing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4008"
+          ],
+          "credits": 0.5,
+          "description": "Remote Sensing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4009"
+          ],
+          "credits": 0.5,
+          "description": "Computer Vision"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4900"
+          ],
+          "credits": 1.0,
+          "description": "OSS Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1200"
+          ],
+          "credits": 0.5,
+          "description": "Calculus"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1201"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1203"
+          ],
+          "credits": 0.5,
+          "description": "Newtonian Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1204"
+          ],
+          "credits": 0.5,
+          "description": "Electromagnetism & Modern Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 1400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Photonics and Optoelectronics Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Optics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 1006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Automation and Simulation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2000"
+          ],
+          "credits": 0.5,
+          "description": "Probability for Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIT 2010"
+          ],
+          "credits": 0.5,
+          "description": "Differential Equations & Multivariate Calculus"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Circuits and Signals"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2006"
+          ],
+          "credits": 0.5,
+          "description": "Integrated Circuits"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2009"
+          ],
+          "credits": 0.5,
+          "description": "Microcontrollers for Sensing Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Signals and Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CCDP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Communication Skills for OSS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Real-time Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3004"
+          ],
+          "credits": 0.5,
+          "description": "Data Structures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3009"
+          ],
+          "credits": 0.5,
+          "description": "Project Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 3012"
+          ],
+          "credits": 0.5,
+          "description": "Digital Signal Processing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "OSS 4005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Deep Learning"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in Arts and Humanities elective outside the faculties of Business, Science and Engineering."
+        }
+      ]
+    }
+  ]
 }

@@ -442,5 +442,299 @@
       "credits": "3.0",
       "text": "5.  3.0 credits in free electives 3.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Art History B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1100"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: Prehistory to 1300"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2009"
+          ],
+          "credits": 0.5,
+          "description": "Art Live: Art History Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3108"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Art History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in ARTH at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARTH at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in ARTH at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARTH at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in ARTH"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Art History B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1100"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: Prehistory to 1300"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2009"
+          ],
+          "credits": 0.5,
+          "description": "Art Live: Art History Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3108"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Art History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in ARTH at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credits in ARTH at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ARTH 4900",
+            "ARTH 4909"
+          ],
+          "credits": 0.5,
+          "description": "a.  0.5 credit in ARTH (excluding ARTH 4900 , ARTH 4909 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b.  1.0 credit in ARTH at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits in total for the program."
+        }
+      ]
+    },
+    {
+      "degree": "Art History B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1100"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: Prehistory to 1300"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2009"
+          ],
+          "credits": 0.5,
+          "description": "Art Live: Art History Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3108"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Art History"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in ARTH at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARTH at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in electives not in ARTH"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Art History (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1100"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: Prehistory to 1300"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in ARTH at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in ARTH at the 3000- or 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in Art History (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3108"
+          ],
+          "credits": 0.5,
+          "description": "History and Methods of Art History"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ARTH 2009"
+          ],
+          "credits": 2.5,
+          "description": "2.5 credit in ARTH at the 2000-level or above (excluding ARTH 2009 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARTH at the 4000-level"
+        }
+      ]
+    }
   ]
 }

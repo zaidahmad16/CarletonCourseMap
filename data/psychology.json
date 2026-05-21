@@ -571,5 +571,4025 @@
       "credits": "",
       "text": "Courses Allowable Only as Free Electives in any B.Sc. Program"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Psychology B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2500"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2600"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Personality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3100"
+          ],
+          "credits": 1.0,
+          "description": "Social Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3300"
+          ],
+          "credits": 1.0,
+          "description": "Health (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3400"
+          ],
+          "credits": 1.0,
+          "description": "Forensic Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3500"
+          ],
+          "credits": 1.0,
+          "description": "Developmental Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3600"
+          ],
+          "credits": 1.0,
+          "description": "Personality (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "i. 1.0 credit in PSYC at 3000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSYC at 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSYC"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from BIOL, CHEM, COMP, ERTH, ISCI, HLTH, MATH, NEUR, PHYS, STAT, or TSES"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in PSYC"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Psychology B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2500"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2600"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Personality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3100"
+          ],
+          "credits": 1.0,
+          "description": "Social Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3300"
+          ],
+          "credits": 1.0,
+          "description": "Health (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3400"
+          ],
+          "credits": 1.0,
+          "description": "Forensic Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3500"
+          ],
+          "credits": 1.0,
+          "description": "Developmental Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3600"
+          ],
+          "credits": 1.0,
+          "description": "Personality (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "i. 1.0 credit in PSYC at 3000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for Combined Honours in the other discipline must be satisfied."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from BIOL, CHEM, COMP, ERTH, ISCI, HLTH, MATH, NEUR , STAT, PHYS or TSES"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits total for the program"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Cognitive Psychology (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3201"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Processes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3001"
+          ],
+          "credits": 0.5,
+          "description": "Psychological Testing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3508"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3702"
+          ],
+          "credits": 0.5,
+          "description": "Perception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3709"
+          ],
+          "credits": 0.5,
+          "description": "Language Processing and the Brain"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Factors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3901"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3902"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3905"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4003"
+          ],
+          "credits": 0.5,
+          "description": "Origins of Modern Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4700"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4900"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4902"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4907"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Developmental Psychology (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2500"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3001"
+          ],
+          "credits": 0.5,
+          "description": "Psychological Testing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3500"
+          ],
+          "credits": 1.0,
+          "description": "Developmental Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3505"
+          ],
+          "credits": 0.5,
+          "description": "Exceptional Children"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3507"
+          ],
+          "credits": 0.5,
+          "description": "Social Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3508"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3509"
+          ],
+          "credits": 0.5,
+          "description": "Adolescence and Emerging Adulthood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3901"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3902"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3905"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4003"
+          ],
+          "credits": 0.5,
+          "description": "Origins of Modern Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4500"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4900"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4902"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4907"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Forensic Psychology (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3001"
+          ],
+          "credits": 0.5,
+          "description": "Psychological Testing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3400"
+          ],
+          "credits": 1.0,
+          "description": "Forensic Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3404"
+          ],
+          "credits": 0.5,
+          "description": "Police Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3901"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3902"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3905"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4003"
+          ],
+          "credits": 0.5,
+          "description": "Origins of Modern Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4400"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4404"
+          ],
+          "credits": 0.5,
+          "description": "Sex Offenders"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4900"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4902"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4907"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Health Psychology (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3001"
+          ],
+          "credits": 0.5,
+          "description": "Psychological Testing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3300"
+          ],
+          "credits": 1.0,
+          "description": "Health (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3301"
+          ],
+          "credits": 0.5,
+          "description": "Sport and Performance Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3302"
+          ],
+          "credits": 0.5,
+          "description": "Positive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3305"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Climate Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3604"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology and Mental Illness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3901"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3902"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3905"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4003"
+          ],
+          "credits": 0.5,
+          "description": "Origins of Modern Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4301"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4900"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4902"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4907"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Social/Personality Psychology (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2600"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Personality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3001"
+          ],
+          "credits": 0.5,
+          "description": "Psychological Testing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3100"
+          ],
+          "credits": 1.0,
+          "description": "Social Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3104"
+          ],
+          "credits": 0.5,
+          "description": "Intergroup Relations: The Psychology of Conflict and Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3106"
+          ],
+          "credits": 0.5,
+          "description": "Close Relationships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3302"
+          ],
+          "credits": 0.5,
+          "description": "Positive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3405"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Motivation and Emotion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3600"
+          ],
+          "credits": 1.0,
+          "description": "Personality (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Women"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3901"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3902"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3905"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4003"
+          ],
+          "credits": 0.5,
+          "description": "Origins of Modern Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4100"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4600"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in Personality Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4900"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4902"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4907"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.A. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4910"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.A. with Honours in Psychology"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Mental Health and Well-Being (2.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3302"
+          ],
+          "credits": 0.5,
+          "description": "Positive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3604"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology and Mental Illness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4330"
+          ],
+          "credits": 1.0,
+          "description": "Community Mental Health and Well-Being"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4333"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology: Assessment and Intervention"
+        }
+      ]
+    },
+    {
+      "degree": "Psychology B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2500"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2600"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Personality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSYC at 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSYC"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in PSYC"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Psychology B.Sc. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2500"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2600"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Personality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3100"
+          ],
+          "credits": 1.0,
+          "description": "Social Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3300"
+          ],
+          "credits": 1.0,
+          "description": "Health (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3400"
+          ],
+          "credits": 1.0,
+          "description": "Forensic Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3500"
+          ],
+          "credits": 1.0,
+          "description": "Developmental Psychology (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3600"
+          ],
+          "credits": 1.0,
+          "description": "Personality (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4907"
+          ],
+          "credits": 1.0,
+          "description": "Thesis for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "i. 1.0 credit in PSYC at 3000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Project for B.Sc. with Honours in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSYC at 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSYC"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1107"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103",
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001",
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007",
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I Elementary University Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003",
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from Science Faculty Electives or from a discipline other than Psychology outside the faculties of Science and Engineering and Design ( ISAP 1000 recommended)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from a discipline other than Psychology outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Science Continuation (not PSYC)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in BIOL, CHEM, ERTH, MATH, STAT or PHYS at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Human Resources and Management for B.A. Honours Psychology (5.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3103"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organization Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3104"
+          ],
+          "credits": 0.5,
+          "description": "Managing Individual Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Managing and Motivating Teams"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3106"
+          ],
+          "credits": 0.5,
+          "description": "Managing Conflict and Negotiation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Managing Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4112"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Leadership"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Consumer Behaviour"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Cognitive Psychology (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3702"
+          ],
+          "credits": 0.5,
+          "description": "Perception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3508"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3709"
+          ],
+          "credits": 0.5,
+          "description": "Language Processing and the Brain"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Factors"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Developmental Psychology (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2500"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Developmental Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3505"
+          ],
+          "credits": 0.5,
+          "description": "Exceptional Children"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3507"
+          ],
+          "credits": 0.5,
+          "description": "Social Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3508"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3509"
+          ],
+          "credits": 0.5,
+          "description": "Adolescence and Emerging Adulthood"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Forensic Psychology (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3404"
+          ],
+          "credits": 0.5,
+          "description": "Police Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3604"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology and Mental Illness"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Health Psychology (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3302"
+          ],
+          "credits": 0.5,
+          "description": "Positive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3604"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology and Mental Illness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3301"
+          ],
+          "credits": 0.5,
+          "description": "Sport and Performance Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3305"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Climate Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3405"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Motivation and Emotion"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Social Psychology and Personality (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2600"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Personality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3104"
+          ],
+          "credits": 0.5,
+          "description": "Intergroup Relations: The Psychology of Conflict and Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3106"
+          ],
+          "credits": 0.5,
+          "description": "Close Relationships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3302"
+          ],
+          "credits": 0.5,
+          "description": "Positive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3405"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Motivation and Emotion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Women"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Psychology",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in PSYC at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Certificate in Multidisciplinary Studies in Mental Health and Well-Being (5.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3302"
+          ],
+          "credits": 0.5,
+          "description": "Positive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3604"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology and Mental Illness"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2040"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2070"
+          ],
+          "credits": 0.5,
+          "description": "Psychological Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2550"
+          ],
+          "credits": 0.5,
+          "description": "Religion and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3040"
+          ],
+          "credits": 0.5,
+          "description": "The Global Middle Class"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3310"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Medical Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4005"
+          ],
+          "credits": 0.5,
+          "description": "Health and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4780"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Personhood"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3104"
+          ],
+          "credits": 0.5,
+          "description": "Managing Individual Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Managing Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3460"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Health Sciences"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Health I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3120"
+          ],
+          "credits": 0.5,
+          "description": "History of the Body"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Rights & Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1102"
+          ],
+          "credits": 0.5,
+          "description": "Critical Issues in Social Justice Activism"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Industrial Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2600"
+          ],
+          "credits": 0.5,
+          "description": "Human Factors/Ergonomics in Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2105"
+          ],
+          "credits": 0.5,
+          "description": "Social Justice and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Linguistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2604"
+          ],
+          "credits": 0.5,
+          "description": "Communication Differences and Disabilities I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3604"
+          ],
+          "credits": 0.5,
+          "description": "Communication Differences and Disabilities II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Music"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3303"
+          ],
+          "credits": 0.5,
+          "description": "Principles and Practices of Music Therapy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1203"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Neurological Conditions"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1200"
+          ],
+          "credits": 0.5,
+          "description": "The Meaning of Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Love and Sex"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2307"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2330"
+          ],
+          "credits": 0.5,
+          "description": "Happiness, Well-being, and the Good Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2380"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2408"
+          ],
+          "credits": 0.5,
+          "description": "Bioethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2540"
+          ],
+          "credits": 0.5,
+          "description": "Personal Identity and the Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2550"
+          ],
+          "credits": 0.5,
+          "description": "Moral Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2700"
+          ],
+          "credits": 0.5,
+          "description": "Asian Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3540"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Emotions"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1731"
+          ],
+          "credits": 0.5,
+          "description": "Religion and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2732"
+          ],
+          "credits": 0.5,
+          "description": "Death and Afterlife"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Sociology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2040"
+          ],
+          "credits": 0.5,
+          "description": "Food, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2043"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2045"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2050"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3010"
+          ],
+          "credits": 0.5,
+          "description": "Power, Oppression and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3044"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Sex and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3050"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3055"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Addictions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3056"
+          ],
+          "credits": 0.5,
+          "description": "Women and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4043"
+          ],
+          "credits": 0.5,
+          "description": "Families in the 21st Century"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Welfare"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Work"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Technology, Society, Environmental Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 3001"
+          ],
+          "credits": 0.5,
+          "description": "Technology-Society Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 4001"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Society: Risk"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "12 hours of non-credit training from an approved list of activities. Refer to the Department of Psychology for more information."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 3103"
+          ],
+          "credits": 0.5,
+          "description": "Experimental Biochemistry I: Principles and Practices"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 3104"
+          ],
+          "credits": 0.5,
+          "description": "Experimental Biochemistry II: Research Experience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Cell Culture and Tissue Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Animals: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2002"
+          ],
+          "credits": 0.5,
+          "description": "Plants: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2104"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2600"
+          ],
+          "credits": 0.5,
+          "description": "Ecology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2103"
+          ],
+          "credits": 0.5,
+          "description": "Physical Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2204"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2302"
+          ],
+          "credits": 0.5,
+          "description": "Analytical Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2303"
+          ],
+          "credits": 0.5,
+          "description": "Analytical Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2800"
+          ],
+          "credits": 0.5,
+          "description": "Foundations for Environmental Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "The Earth and Life Odyssey: A Journey Through Billions of Years"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Mineralogy to Petrology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2404"
+          ],
+          "credits": 0.5,
+          "description": "Engineering Geoscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2802"
+          ],
+          "credits": 0.5,
+          "description": "Field Geology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3111"
+          ],
+          "credits": 0.5,
+          "description": "Vertebrate Evolution: Mammals, Reptiles, and Birds"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3112"
+          ],
+          "credits": 0.5,
+          "description": "Vertebrate Evolution: Fish and Amphibians"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3204"
+          ],
+          "credits": 0.5,
+          "description": "Mineral Deposits"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3205"
+          ],
+          "credits": 0.5,
+          "description": "Physical Hydrogeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3001"
+          ],
+          "credits": 0.5,
+          "description": "Food Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3002"
+          ],
+          "credits": 0.5,
+          "description": "Food Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3108"
+          ],
+          "credits": 0.5,
+          "description": "Soil Properties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3206"
+          ],
+          "credits": 0.5,
+          "description": "Sensory and Motor Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Systems Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 4600"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Lab in Neuroanatomy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3606"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3608"
+          ],
+          "credits": 0.5,
+          "description": "Modern Applied Physics"
+        }
+      ]
+    },
+    {
+      "degree": "Course Categories for B.Sc. Programs",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Weather and Water"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2014"
+          ],
+          "credits": 0.5,
+          "description": "The Earth's Surface"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3003"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3010"
+          ],
+          "credits": 0.5,
+          "description": "Field Methods in Physical Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3102"
+          ],
+          "credits": 0.5,
+          "description": "Geomorphology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3103"
+          ],
+          "credits": 0.5,
+          "description": "Watershed Hydrology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3104"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Biogeography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3105"
+          ],
+          "credits": 0.5,
+          "description": "Climate and Atmospheric Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3106"
+          ],
+          "credits": 0.5,
+          "description": "Aquatic Science and Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3108"
+          ],
+          "credits": 0.5,
+          "description": "Soil Properties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4000"
+          ],
+          "credits": 0.5,
+          "description": "Field Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4005"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4013"
+          ],
+          "credits": 0.5,
+          "description": "Cold Region Hydrology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4017"
+          ],
+          "credits": 0.5,
+          "description": "Global Biogeochemical Cycles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4101"
+          ],
+          "credits": 0.5,
+          "description": "Two Million Years of Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4103"
+          ],
+          "credits": 0.5,
+          "description": "Water Resources Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4104"
+          ],
+          "credits": 0.5,
+          "description": "Microclimatology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4108"
+          ],
+          "credits": 0.5,
+          "description": "Permafrost"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3702"
+          ],
+          "credits": 0.5,
+          "description": "Perception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "BIOC (Biochemistry)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOL 4810",
+            "BIOL 2005"
+          ],
+          "credits": null,
+          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "CHEM (Chemistry)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": null,
+          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 2415",
+            "ERTH 2401",
+            "ERTH 2402",
+            "ERTH 2403"
+          ],
+          "credits": null,
+          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ENSC (Environmental Science)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "FOOD (Food Science and Nutrition)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "GEOM (Geomatics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "HLTH (Health Sciences)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ISAP (Interdisciplinary Science Practice)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "MATH (Mathematics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "NEUR (Neuroscience)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 2903"
+          ],
+          "credits": null,
+          "description": "PHYS (Physics), except PHYS 2903"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Geography Courses (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Psychology Courses (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "STAT (Statistics)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "TSES 2305"
+          ],
+          "credits": null,
+          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOC 1900"
+          ],
+          "credits": null,
+          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOL 4810",
+            "BIOL 1010",
+            "BIOL 2005"
+          ],
+          "credits": null,
+          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1003",
+            "CHEM 1004",
+            "CHEM 1007"
+          ],
+          "credits": null,
+          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": null,
+          "description": "COMP (Computer Science) except COMP 1001"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 1004",
+            "ERTH 2415",
+            "ERTH 2401",
+            "ERTH 2402",
+            "ERTH 2403"
+          ],
+          "credits": null,
+          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Engineering"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ENSC (Environmental Science)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "FOOD (Food Science and Nutrition)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "GEOM (Geomatics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "HLTH (Health Science)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ISAP (Interdisciplinary Science Practice)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "MATH (Mathematics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "NEUR (Neuroscience)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1901",
+            "PHYS 1902",
+            "PHYS 1905",
+            "PHYS 2903"
+          ],
+          "credits": null,
+          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Geography (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Psychology (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "STAT (Statistics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": null,
+          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOL 4810"
+          ],
+          "credits": 0.5,
+          "description": "Education Research in Undergraduate Science"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1003"
+          ],
+          "credits": 0.5,
+          "description": "The Chemistry of Food, Health and Drugs"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Drugs and the Human Body"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1007"
+          ],
+          "credits": 0.5,
+          "description": "Chemistry of Art and Artifacts"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 1004"
+          ],
+          "credits": 0.5,
+          "description": "Earth's Epic Tale: A Story Across Billions of Years"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 2415"
+          ],
+          "credits": 0.5,
+          "description": "Natural Disasters"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Environment"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISCI 2000"
+          ],
+          "credits": 0.5,
+          "description": "Natural Laws"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISCI 2002"
+          ],
+          "credits": 0.5,
+          "description": "Human Impacts on the Environment"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1901"
+          ],
+          "credits": 0.5,
+          "description": "Planetary Astronomy"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1902"
+          ],
+          "credits": 0.5,
+          "description": "From our Star to the Cosmos"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1905"
+          ],
+          "credits": 0.5,
+          "description": "Physics Behind Everyday Life"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 2903"
+          ],
+          "credits": 0.5,
+          "description": "Physics Towards the Future"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computational Thinking for Arts and Social Science Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1119"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra: with Applications to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "all 0000-level courses"
+        }
+      ]
+    }
   ]
 }

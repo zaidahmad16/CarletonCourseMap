@@ -526,5 +526,2847 @@
       "credits": "",
       "text": "Courses Allowable Only as Free Electives in any B.Sc. Program"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Physics B.Sc. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001",
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I Foundations of Physics II (recommended)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003",
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007",
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I Elementary University Physics II (with an average grade of B- or higher)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2212"
+          ],
+          "credits": 0.5,
+          "description": "Wave Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2305"
+          ],
+          "credits": 0.5,
+          "description": "Electricity and Magnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2605"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2801"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Electromagnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3701"
+          ],
+          "credits": 0.5,
+          "description": "Elements of Quantum Mechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3802"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3606"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3608"
+          ],
+          "credits": 0.5,
+          "description": "Modern Applied Physics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PHYS at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1004"
+          ],
+          "credits": 0.5,
+          "description": "Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1005"
+          ],
+          "credits": 0.5,
+          "description": "Differential Equations and Infinite Series for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103",
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001",
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 1002",
+            "ERTH 2312"
+          ],
+          "credits": 0.5,
+          "description": "The Earth and Life Odyssey: A Journey Through Billions of Years Paleontology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Science Continuation Courses (not PHYS)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in Science Faculty Electives and/or Science Continuation Courses"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits in ISAP 1000 or approved courses outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in free electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001",
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I Foundations of Physics II (recommended)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003",
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007",
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I Elementary University Physics II (with an average grade of B- or higher)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2212"
+          ],
+          "credits": 0.5,
+          "description": "Wave Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2305"
+          ],
+          "credits": 0.5,
+          "description": "Electricity and Magnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2605"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2801"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ELEC 2501"
+          ],
+          "credits": 0.5,
+          "description": "Circuits and Signals"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ELEC 2507"
+          ],
+          "credits": 0.5,
+          "description": "Electronics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECOR 2606"
+          ],
+          "credits": 0.5,
+          "description": "Numerical Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3800"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Modeling and Computational Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Electromagnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3608"
+          ],
+          "credits": 0.5,
+          "description": "Modern Applied Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3701"
+          ],
+          "credits": 0.5,
+          "description": "Elements of Quantum Mechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3802"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3807"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4008"
+          ],
+          "credits": 0.5,
+          "description": "Fourth-Year Physics Laboratory: Selected Experiments and Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4707"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantum Mechanics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3207"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Biophysics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4203"
+          ],
+          "credits": 0.5,
+          "description": "Physical Applications of Fourier Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4208"
+          ],
+          "credits": 0.5,
+          "description": "Modern Optics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4608"
+          ],
+          "credits": 0.5,
+          "description": "Nuclear Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4807"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Data Analysis Techniques for Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ELEC 3509"
+          ],
+          "credits": 0.5,
+          "description": "Electronics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ELEC 3908"
+          ],
+          "credits": 0.5,
+          "description": "Physical Electronics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "COMP at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "PHYS at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4907"
+          ],
+          "credits": 0.5,
+          "description": "a. PHYS 4907 plus 0.5 credit 4000-level PHYS"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4908"
+          ],
+          "credits": 0.5,
+          "description": "b. PHYS 4908 plus 0.5 credit 4000-level PHYS"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4909"
+          ],
+          "credits": null,
+          "description": "c. PHYS 4909 [1.0]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103",
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001",
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 1002",
+            "ERTH 2312"
+          ],
+          "credits": 0.5,
+          "description": "The Earth and Life Odyssey: A Journey Through Billions of Years Paleontology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1004"
+          ],
+          "credits": 0.5,
+          "description": "Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1005"
+          ],
+          "credits": 0.5,
+          "description": "Differential Equations and Infinite Series for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3502"
+          ],
+          "credits": 0.5,
+          "description": "Probability and Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMP 1006",
+            "COMP 2401",
+            "SYSC 2006",
+            "SYSC 2004"
+          ],
+          "credits": null,
+          "description": "a.  ( COMP 1006 and COMP 2401 ) or ( SYSC 2006 and SYSC 2004 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "b. 1.5 credits in approved courses outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "c. 1.0 credit in free electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Approved courses outside the faculties of Science and Engineering and Design"
+        }
+      ]
+    },
+    {
+      "degree": "Mathematics and Physics B.Sc. Double Honours (21.5 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Note that the following courses have minimum grade requirements in their prerequisites. Refer to the section Course Prerequisites under the Mathematics and Statistics programs sections of the calendar."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2100"
+          ],
+          "credits": 1.0,
+          "description": "Algebra"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2454"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2655"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Probability with Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Mathematical Reasoning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2100"
+          ],
+          "credits": 1.0,
+          "description": "Algebra"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2454"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3001"
+          ],
+          "credits": 0.5,
+          "description": "Real Analysis I (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3057"
+          ],
+          "credits": 0.5,
+          "description": "Functions of a Complex Variable (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3702"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Modelling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2655"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Probability with Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3002"
+          ],
+          "credits": 0.5,
+          "description": "Real Analysis II (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3003"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Differential Calculus (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3106"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Group Theory (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3606"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in 4000-level or higher MATH, STAT"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001",
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I Foundations of Physics II (recommended)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003",
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007",
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I Elementary University Physics II (with an average grade of B- or higher)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2212"
+          ],
+          "credits": 0.5,
+          "description": "Wave Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2305"
+          ],
+          "credits": 0.5,
+          "description": "Electricity and Magnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2605"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Electromagnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3701"
+          ],
+          "credits": 0.5,
+          "description": "Elements of Quantum Mechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3802"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4409"
+          ],
+          "credits": 0.5,
+          "description": "Thermodynamics and Statistical Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4707"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantum Mechanics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4708"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantum Mechanics II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PHYS at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "MATH 4905",
+            "PHYS 4907",
+            "PHYS 4908"
+          ],
+          "credits": 0.5,
+          "description": "a. MATH 4905 or PHYS 4907 or PHYS 4908 plus 0.5 credit 4000-level MATH or PHYS"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4909"
+          ],
+          "credits": null,
+          "description": "b. PHYS 4909 [1.0]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103",
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001",
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 1002",
+            "ERTH 2312"
+          ],
+          "credits": 0.5,
+          "description": "The Earth and Life Odyssey: A Journey Through Billions of Years Paleontology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Approved courses outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in free electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001",
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I Foundations of Physics II (recommended)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003",
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007",
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I Elementary University Physics II (with an average grade of B- or higher)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2212"
+          ],
+          "credits": 0.5,
+          "description": "Wave Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2305"
+          ],
+          "credits": 0.5,
+          "description": "Electricity and Magnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2605"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3207"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Biophysics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3701"
+          ],
+          "credits": 0.5,
+          "description": "Elements of Quantum Mechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Electromagnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3606"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3802"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3807"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4203"
+          ],
+          "credits": 0.5,
+          "description": "Physical Applications of Fourier Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4409"
+          ],
+          "credits": 0.5,
+          "description": "Thermodynamics and Statistical Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4707"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantum Mechanics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2104"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Animals: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2002"
+          ],
+          "credits": 0.5,
+          "description": "Plants: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3201"
+          ],
+          "credits": 0.5,
+          "description": "Cell Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3104"
+          ],
+          "credits": 0.5,
+          "description": "Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Biomechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4106"
+          ],
+          "credits": 0.5,
+          "description": "Advances in Molecular Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4109"
+          ],
+          "credits": 0.5,
+          "description": "Laboratory Techniques in Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Cell Culture and Tissue Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4202"
+          ],
+          "credits": 0.5,
+          "description": "Mutagenesis and DNA Repair"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4301"
+          ],
+          "credits": 0.5,
+          "description": "Current Topics in Biotechnology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4306"
+          ],
+          "credits": 0.5,
+          "description": "Animal Neurophysiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4309"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Human Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4319"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Exercise Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4905"
+          ],
+          "credits": 1.0,
+          "description": "Honours Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4907"
+          ],
+          "credits": 1.0,
+          "description": "Honours Essay and Research Proposal"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Thesis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4909"
+          ],
+          "credits": 1.0,
+          "description": "Fourth-Year Project"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4907"
+          ],
+          "credits": 0.5,
+          "description": "PHYS 4907 plus 0.5 credit 4000-level PHYS"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4908"
+          ],
+          "credits": 0.5,
+          "description": "PHYS 4908 plus 0.5 credit 4000-level PHYS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001",
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1004"
+          ],
+          "credits": 0.5,
+          "description": "Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1005"
+          ],
+          "credits": 0.5,
+          "description": "Differential Equations and Infinite Series for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3800"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Modeling and Computational Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in free electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001",
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I Foundations of Physics II (recommended)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003",
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007",
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I Elementary University Physics II (with an average grade of B- or higher)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2212"
+          ],
+          "credits": 0.5,
+          "description": "Wave Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2305"
+          ],
+          "credits": 0.5,
+          "description": "Electricity and Magnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2605"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3701"
+          ],
+          "credits": 0.5,
+          "description": "Elements of Quantum Mechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3807"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Electromagnetism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3606"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3802"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Dynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4707"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantum Mechanics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1011"
+          ],
+          "credits": 0.5,
+          "description": "Enriched General Chemistry 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1012"
+          ],
+          "credits": 0.5,
+          "description": "Enriched General Chemistry 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2103"
+          ],
+          "credits": 0.5,
+          "description": "Physical Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2104"
+          ],
+          "credits": 0.5,
+          "description": "Physical Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2204"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Inorganic and Bioinorganic Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 3102"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Computational Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 3503"
+          ],
+          "credits": 0.5,
+          "description": "Inorganic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 3107"
+          ],
+          "credits": 0.5,
+          "description": "Experimental Methods in Nanoscience"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CHEM at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 4908"
+          ],
+          "credits": 1.0,
+          "description": "Research Project and Seminar"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 4909"
+          ],
+          "credits": 1.0,
+          "description": "Fourth-Year Project"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4907"
+          ],
+          "credits": 0.5,
+          "description": "PHYS 4907 plus 0.5 credit in PHYS at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 4908"
+          ],
+          "credits": 0.5,
+          "description": "PHYS 4908 plus 0.5 credit in PHYS at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1004"
+          ],
+          "credits": 0.5,
+          "description": "Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1005"
+          ],
+          "credits": 0.5,
+          "description": "Differential Equations and Infinite Series for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus for Engineering or Physics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3502"
+          ],
+          "credits": 0.5,
+          "description": "Probability and Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3800"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Modeling and Computational Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECOR 2606"
+          ],
+          "credits": 0.5,
+          "description": "Numerical Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Approved courses outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in free electives."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1002"
+          ],
+          "credits": null,
+          "description": "& PHYS 1002 [0.5]  Foundations of Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1004"
+          ],
+          "credits": null,
+          "description": "& PHYS 1004 [0.5] Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1008"
+          ],
+          "credits": null,
+          "description": "& PHYS 1008 [0.5] Elementary University Physics II (with an average grade of B- or higher)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in PHYS at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PHYS at the 3000- or 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 3103"
+          ],
+          "credits": 0.5,
+          "description": "Experimental Biochemistry I: Principles and Practices"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 3104"
+          ],
+          "credits": 0.5,
+          "description": "Experimental Biochemistry II: Research Experience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 4001"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOC 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Cell Culture and Tissue Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Animals: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2002"
+          ],
+          "credits": 0.5,
+          "description": "Plants: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2104"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2600"
+          ],
+          "credits": 0.5,
+          "description": "Ecology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2103"
+          ],
+          "credits": 0.5,
+          "description": "Physical Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2204"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2302"
+          ],
+          "credits": 0.5,
+          "description": "Analytical Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2303"
+          ],
+          "credits": 0.5,
+          "description": "Analytical Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2800"
+          ],
+          "credits": 0.5,
+          "description": "Foundations for Environmental Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "The Earth and Life Odyssey: A Journey Through Billions of Years"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Mineralogy to Petrology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2404"
+          ],
+          "credits": 0.5,
+          "description": "Engineering Geoscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2802"
+          ],
+          "credits": 0.5,
+          "description": "Field Geology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3111"
+          ],
+          "credits": 0.5,
+          "description": "Vertebrate Evolution: Mammals, Reptiles, and Birds"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3112"
+          ],
+          "credits": 0.5,
+          "description": "Vertebrate Evolution: Fish and Amphibians"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3204"
+          ],
+          "credits": 0.5,
+          "description": "Mineral Deposits"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3205"
+          ],
+          "credits": 0.5,
+          "description": "Physical Hydrogeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3001"
+          ],
+          "credits": 0.5,
+          "description": "Food Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3002"
+          ],
+          "credits": 0.5,
+          "description": "Food Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3108"
+          ],
+          "credits": 0.5,
+          "description": "Soil Properties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3206"
+          ],
+          "credits": 0.5,
+          "description": "Sensory and Motor Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Systems Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 4600"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Lab in Neuroanatomy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Mechanics and Thermodynamics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Electromagnetism and Wave Motion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1008"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 2007"
+          ],
+          "credits": 0.5,
+          "description": "Second Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3007"
+          ],
+          "credits": 0.5,
+          "description": "Third Year Physics Laboratory: Selected Experiments and Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3606"
+          ],
+          "credits": 0.5,
+          "description": "Modern Physics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 3608"
+          ],
+          "credits": 0.5,
+          "description": "Modern Applied Physics"
+        }
+      ]
+    },
+    {
+      "degree": "Course Categories for B.Sc. Programs",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Quantitative Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Weather and Water"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2014"
+          ],
+          "credits": 0.5,
+          "description": "The Earth's Surface"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3003"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3010"
+          ],
+          "credits": 0.5,
+          "description": "Field Methods in Physical Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3102"
+          ],
+          "credits": 0.5,
+          "description": "Geomorphology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3103"
+          ],
+          "credits": 0.5,
+          "description": "Watershed Hydrology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3104"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Biogeography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3105"
+          ],
+          "credits": 0.5,
+          "description": "Climate and Atmospheric Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3106"
+          ],
+          "credits": 0.5,
+          "description": "Aquatic Science and Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3108"
+          ],
+          "credits": 0.5,
+          "description": "Soil Properties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4000"
+          ],
+          "credits": 0.5,
+          "description": "Field Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4005"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Geography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4013"
+          ],
+          "credits": 0.5,
+          "description": "Cold Region Hydrology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4017"
+          ],
+          "credits": 0.5,
+          "description": "Global Biogeochemical Cycles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4101"
+          ],
+          "credits": 0.5,
+          "description": "Two Million Years of Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4103"
+          ],
+          "credits": 0.5,
+          "description": "Water Resources Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4104"
+          ],
+          "credits": 0.5,
+          "description": "Microclimatology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4108"
+          ],
+          "credits": 0.5,
+          "description": "Permafrost"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3702"
+          ],
+          "credits": 0.5,
+          "description": "Perception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "BIOC (Biochemistry)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOL 4810",
+            "BIOL 2005"
+          ],
+          "credits": null,
+          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "CHEM (Chemistry)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": null,
+          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 2415",
+            "ERTH 2401",
+            "ERTH 2402",
+            "ERTH 2403"
+          ],
+          "credits": null,
+          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ENSC (Environmental Science)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "FOOD (Food Science and Nutrition)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "GEOM (Geomatics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "HLTH (Health Sciences)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ISAP (Interdisciplinary Science Practice)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "MATH (Mathematics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "NEUR (Neuroscience)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 2903"
+          ],
+          "credits": null,
+          "description": "PHYS (Physics), except PHYS 2903"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Geography Courses (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Psychology Courses (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "STAT (Statistics)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "TSES 2305"
+          ],
+          "credits": null,
+          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOC 1900"
+          ],
+          "credits": null,
+          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOL 4810",
+            "BIOL 1010",
+            "BIOL 2005"
+          ],
+          "credits": null,
+          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1003",
+            "CHEM 1004",
+            "CHEM 1007"
+          ],
+          "credits": null,
+          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": null,
+          "description": "COMP (Computer Science) except COMP 1001"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 1004",
+            "ERTH 2415",
+            "ERTH 2401",
+            "ERTH 2402",
+            "ERTH 2403"
+          ],
+          "credits": null,
+          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Engineering"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ENSC (Environmental Science)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "FOOD (Food Science and Nutrition)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "GEOM (Geomatics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "HLTH (Health Science)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ISAP (Interdisciplinary Science Practice)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "MATH (Mathematics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "NEUR (Neuroscience)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1901",
+            "PHYS 1902",
+            "PHYS 1905",
+            "PHYS 2903"
+          ],
+          "credits": null,
+          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Geography (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Science Psychology (see list above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "STAT (Statistics)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISAP 1000"
+          ],
+          "credits": null,
+          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BIOL 4810"
+          ],
+          "credits": 0.5,
+          "description": "Education Research in Undergraduate Science"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1003"
+          ],
+          "credits": 0.5,
+          "description": "The Chemistry of Food, Health and Drugs"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Drugs and the Human Body"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "CHEM 1007"
+          ],
+          "credits": 0.5,
+          "description": "Chemistry of Art and Artifacts"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 1004"
+          ],
+          "credits": 0.5,
+          "description": "Earth's Epic Tale: A Story Across Billions of Years"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ERTH 2415"
+          ],
+          "credits": 0.5,
+          "description": "Natural Disasters"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Environment"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISCI 2000"
+          ],
+          "credits": 0.5,
+          "description": "Natural Laws"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ISCI 2002"
+          ],
+          "credits": 0.5,
+          "description": "Human Impacts on the Environment"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1901"
+          ],
+          "credits": 0.5,
+          "description": "Planetary Astronomy"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1902"
+          ],
+          "credits": 0.5,
+          "description": "From our Star to the Cosmos"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 1905"
+          ],
+          "credits": 0.5,
+          "description": "Physics Behind Everyday Life"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PHYS 2903"
+          ],
+          "credits": 0.5,
+          "description": "Physics Towards the Future"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computational Thinking for Arts and Social Science Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1119"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra: with Applications to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "all 0000-level courses"
+        }
+      ]
+    }
   ]
 }

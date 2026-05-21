@@ -353,5 +353,386 @@
       "credits": "9.5",
       "text": "9.  9.5 credits in free electives 9.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Media Production and Design B.M.P.D. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Web Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Interactive Media Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Storytelling: The Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Storytelling: The Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1401",
+            "ITEC 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Scripting and Problem Solving Intermediate Scripting"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 1400",
+            "ITEC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Programming and Problem Solving Intermediate Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 2100"
+          ],
+          "credits": 0.5,
+          "description": "Data Visualization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Visual Communication I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2002"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Visual Communication II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2003"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2004"
+          ],
+          "credits": 0.5,
+          "description": "Writing for Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 3100"
+          ],
+          "credits": 0.5,
+          "description": "Immersive Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3001"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling and Social Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3002"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3003"
+          ],
+          "credits": 0.5,
+          "description": "Minor Design Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4000"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4906"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Projects: Translational Approach to Indigenous Community Wellness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3000"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4001"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries Now and Next"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4200"
+          ],
+          "credits": 0.5,
+          "description": "Freelance Media Survival Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4300"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4400"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4500"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4501"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4502"
+          ],
+          "credits": 0.5,
+          "description": "Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4503"
+          ],
+          "credits": 0.5,
+          "description": "Journalism, Indigenous Peoples and Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 4504"
+          ],
+          "credits": 0.5,
+          "description": "The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4012"
+          ],
+          "credits": 0.5,
+          "description": "Web Application Frameworks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4014"
+          ],
+          "credits": 0.5,
+          "description": "User Experience Design and Accessibility"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4015"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Producing Sound"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4016"
+          ],
+          "credits": 0.5,
+          "description": "Virtual and Augmented Reality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4019"
+          ],
+          "credits": 0.5,
+          "description": "Directing and Cinematography for Digital Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ITEC 4021"
+          ],
+          "credits": 0.5,
+          "description": "Empirical Research Methods in HCI"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2012"
+          ],
+          "credits": 0.5,
+          "description": "Anishinaabe Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Haudenosaunee Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2709"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Drama"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 9.5,
+          "description": "9.5 credits in free electives"
+        }
+      ]
+    }
   ]
 }

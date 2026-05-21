@@ -456,5 +456,454 @@
       "credits": "2.5",
       "text": "8.  2.5 credits in free electives 2.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "French B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1100"
+          ],
+          "credits": 1.0,
+          "description": "French 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1110"
+          ],
+          "credits": 1.0,
+          "description": "French 3: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1050"
+          ],
+          "credits": 0.5,
+          "description": "Le fran\u00e7ais en classe et dans le monde"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2110"
+          ],
+          "credits": 1.0,
+          "description": "French 4: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2701"
+          ],
+          "credits": 0.5,
+          "description": "Travaux pratiques en fran\u00e7ais oral"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2202"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2203"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres qu\u00e9b\u00e9coises et canadiennes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2401"
+          ],
+          "credits": 1.0,
+          "description": "Introduction \u00e0 la linguistique fran\u00e7aise"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3050"
+          ],
+          "credits": 0.5,
+          "description": "Comp\u00e9tences critiques"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3060"
+          ],
+          "credits": 0.5,
+          "description": "Perfectionnement de la grammaire par la pratique"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FREN 3200"
+          ],
+          "credits": null,
+          "description": "a.  Literature: FREN 3200 series of courses"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FREN 3400"
+          ],
+          "credits": null,
+          "description": "b.  Linguistics: FREN 3400 series of courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 4060"
+          ],
+          "credits": 0.5,
+          "description": "Projet de recherche supervis\u00e9"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in FREN at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in FREN at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in electives not in FREN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Departmental French oral proficiency examination requirement must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "French B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1100"
+          ],
+          "credits": 1.0,
+          "description": "French 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1110"
+          ],
+          "credits": 1.0,
+          "description": "French 3: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1050"
+          ],
+          "credits": 0.5,
+          "description": "Le fran\u00e7ais en classe et dans le monde"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2100"
+          ],
+          "credits": 1.0,
+          "description": "French 4"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2110"
+          ],
+          "credits": 1.0,
+          "description": "French 4: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2701"
+          ],
+          "credits": 0.5,
+          "description": "Travaux pratiques en fran\u00e7ais oral"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2202"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2203"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres qu\u00e9b\u00e9coises et canadiennes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2401"
+          ],
+          "credits": 1.0,
+          "description": "Introduction \u00e0 la linguistique fran\u00e7aise"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3050"
+          ],
+          "credits": 0.5,
+          "description": "Comp\u00e9tences critiques"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3060"
+          ],
+          "credits": 0.5,
+          "description": "Perfectionnement de la grammaire par la pratique"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FREN 3200"
+          ],
+          "credits": null,
+          "description": "a. Literature: FREN 3200 series of courses"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FREN 3400"
+          ],
+          "credits": null,
+          "description": "b. Linguistics: FREN 3400 series of courses"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in FREN at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements from the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits for the degree"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Departmental French oral proficiency examination requirement must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "French B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1100"
+          ],
+          "credits": 1.0,
+          "description": "French 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1110"
+          ],
+          "credits": 1.0,
+          "description": "French 3: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1050"
+          ],
+          "credits": 0.5,
+          "description": "Le fran\u00e7ais en classe et dans le monde"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2110"
+          ],
+          "credits": 1.0,
+          "description": "French 4: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2701"
+          ],
+          "credits": 0.5,
+          "description": "Travaux pratiques en fran\u00e7ais oral"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2202"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2203"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres qu\u00e9b\u00e9coises et canadiennes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2401"
+          ],
+          "credits": 1.0,
+          "description": "Introduction \u00e0 la linguistique fran\u00e7aise"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FREN 3200"
+          ],
+          "credits": null,
+          "description": "a.  Literature: FREN 3200 series of courses"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FREN 3400"
+          ],
+          "credits": null,
+          "description": "b.  Linguistics: FREN 3400 series of courses"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in FREN at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.5,
+          "description": "5.5 credits in electives not in FREN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Departmental French oral proficiency examination requirement must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in French (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1100"
+          ],
+          "credits": 1.0,
+          "description": "French 3"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 1110"
+          ],
+          "credits": 1.0,
+          "description": "French 3: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2100"
+          ],
+          "credits": 1.0,
+          "description": "French 4"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2110"
+          ],
+          "credits": 1.0,
+          "description": "French 4: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2202",
+            "FREN 2203"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres qu\u00e9b\u00e9coises et canadiennes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2401"
+          ],
+          "credits": 1.0,
+          "description": "Introduction \u00e0 la linguistique fran\u00e7aise"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in FREN at the 3000-level or higher."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

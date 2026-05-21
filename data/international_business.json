@@ -1106,5 +1106,3452 @@
       "credits": "4.0",
       "text": "10.  4.0 credits in free electives (see Note 2, below) 4.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Bachelor of Commerce Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1011"
+          ],
+          "credits": 0.5,
+          "description": "Financial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1005"
+          ],
+          "credits": 0.5,
+          "description": "Sociology for Bachelor of Commerce Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2018"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2208"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Data Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2501"
+          ],
+          "credits": 0.5,
+          "description": "Business Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2701"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Project Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4601"
+          ],
+          "credits": 0.5,
+          "description": "Business Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4609"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Management"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in: BUSI at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credits in: Business Career Preparation Requirement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Accounting (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2011"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Financial Reporting I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3011"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Financial Reporting II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3013"
+          ],
+          "credits": 0.25,
+          "description": "Professionalism and Perspectives in Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3014"
+          ],
+          "credits": 0.25,
+          "description": "Exploring Sustainability in Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3015"
+          ],
+          "credits": 0.5,
+          "description": "Taxation Concepts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3017"
+          ],
+          "credits": 0.5,
+          "description": "Auditing Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3018"
+          ],
+          "credits": 0.5,
+          "description": "Cost Management and Decision Making"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Data Analytics and Information Systems for Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4011"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Financial Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Accounting: Relevance and Influence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4015"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Taxation Concepts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4017"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Auditing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4018"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Cost Management and Decision Making"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Business Analytics (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2602"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Models for Business Analytics and Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3400"
+          ],
+          "credits": 0.5,
+          "description": "Database Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Business Analytics Principles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3434"
+          ],
+          "credits": 0.5,
+          "description": "Data Visualization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4407"
+          ],
+          "credits": 0.5,
+          "description": "Business Analytics Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4410"
+          ],
+          "credits": 0.5,
+          "description": "Responsible Business Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4414"
+          ],
+          "credits": 0.5,
+          "description": "Capstone in Business Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2402"
+          ],
+          "credits": 0.5,
+          "description": "Business Applications Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3401"
+          ],
+          "credits": 0.5,
+          "description": "Applications Development for Online Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Systems Analysis and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3405"
+          ],
+          "credits": 0.5,
+          "description": "Enterprise Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4201"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Metrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4301"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Business Decision Models"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4308"
+          ],
+          "credits": 0.5,
+          "description": "Simulation Modeling and Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4331"
+          ],
+          "credits": 0.5,
+          "description": "Industry 4.0 Technologies and Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4400"
+          ],
+          "credits": 0.5,
+          "description": "IS Management and Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4404"
+          ],
+          "credits": 0.5,
+          "description": "IT Infrastructure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4408"
+          ],
+          "credits": 0.5,
+          "description": "Social Analytics"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Entrepreneurship (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3600"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurial Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3810"
+          ],
+          "credits": 0.5,
+          "description": "Business Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3820"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4810"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Creation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or an approved elective for Entrepreneurship programs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3210"
+          ],
+          "credits": 0.5,
+          "description": "Personal Selling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3611"
+          ],
+          "credits": 0.5,
+          "description": "Managing the Family Enterprise"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Managing Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4117"
+          ],
+          "credits": 1.0,
+          "description": "Creative Thinking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Management of Technology and Innovation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4708"
+          ],
+          "credits": 0.5,
+          "description": "International Expansion and Operations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4710"
+          ],
+          "credits": 0.5,
+          "description": "International New Ventures"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Finance (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2602"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Models for Business Analytics and Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3500"
+          ],
+          "credits": 0.5,
+          "description": "Applied Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Investments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3512"
+          ],
+          "credits": 0.5,
+          "description": "Derivatives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Portfolio Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4504"
+          ],
+          "credits": 0.5,
+          "description": "International Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4510"
+          ],
+          "credits": 0.5,
+          "description": "Mergers and Acquisitions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4511"
+          ],
+          "credits": 0.5,
+          "description": "Fixed Income Analysis"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Information Systems (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2402"
+          ],
+          "credits": 0.5,
+          "description": "Business Applications Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3400"
+          ],
+          "credits": 0.5,
+          "description": "Database Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Systems Analysis and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3405"
+          ],
+          "credits": 0.5,
+          "description": "Enterprise Architecture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4400"
+          ],
+          "credits": 0.5,
+          "description": "IS Management and Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4404"
+          ],
+          "credits": 0.5,
+          "description": "IT Infrastructure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3401"
+          ],
+          "credits": 0.5,
+          "description": "Applications Development for Online Environments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Business Analytics Principles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3434"
+          ],
+          "credits": 0.5,
+          "description": "Data Visualization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4301"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Business Decision Models"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4308"
+          ],
+          "credits": 0.5,
+          "description": "Simulation Modeling and Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4407"
+          ],
+          "credits": 0.5,
+          "description": "Business Analytics Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4408"
+          ],
+          "credits": 0.5,
+          "description": "Social Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Management of Technology and Innovation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2602"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Models for Business Analytics and Finance"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in International Business (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2702"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3704"
+          ],
+          "credits": 0.5,
+          "description": "The Environment of International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3706"
+          ],
+          "credits": 0.5,
+          "description": "International Business Negotiations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4729"
+          ],
+          "credits": 0.5,
+          "description": "International Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3301"
+          ],
+          "credits": 0.5,
+          "description": "Global Supply Chain Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3705"
+          ],
+          "credits": 0.5,
+          "description": "International Buyer Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4117"
+          ],
+          "credits": 1.0,
+          "description": "Creative Thinking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4205"
+          ],
+          "credits": 0.5,
+          "description": "International Marketing Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4504"
+          ],
+          "credits": 0.5,
+          "description": "International Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4706"
+          ],
+          "credits": 0.5,
+          "description": "International Human Resource Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4710"
+          ],
+          "credits": 0.5,
+          "description": "International New Ventures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4750"
+          ],
+          "credits": 0.5,
+          "description": "Current Topics in International Management"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Management (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3103"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organization Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3104"
+          ],
+          "credits": 0.5,
+          "description": "Managing Individual Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Managing and Motivating Teams"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3106"
+          ],
+          "credits": 0.5,
+          "description": "Managing Conflict and Negotiation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Managing Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4112"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Leadership"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3119"
+          ],
+          "credits": 0.5,
+          "description": "Business and Environmental Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3611"
+          ],
+          "credits": 0.5,
+          "description": "Managing the Family Enterprise"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4108"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4111"
+          ],
+          "credits": 1.0,
+          "description": "Training and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4117"
+          ],
+          "credits": 1.0,
+          "description": "Creative Thinking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4120"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Sustainability Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4129"
+          ],
+          "credits": 0.5,
+          "description": "Managing the Arts"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Marketing (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Communications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Consumer Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4208"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Digital Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3208"
+          ],
+          "credits": 0.5,
+          "description": "Business-to-Business Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3210"
+          ],
+          "credits": 0.5,
+          "description": "Personal Selling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4201"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Metrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4203"
+          ],
+          "credits": 0.5,
+          "description": "Marketing In Not-for-Profit Organizations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4205"
+          ],
+          "credits": 0.5,
+          "description": "International Marketing Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4209"
+          ],
+          "credits": 0.5,
+          "description": "Consumer Culture Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4219"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4229"
+          ],
+          "credits": 0.5,
+          "description": "Marketing in the Arts and Culture Sectors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4331"
+          ],
+          "credits": 0.5,
+          "description": "Industry 4.0 Technologies and Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4408"
+          ],
+          "credits": 0.5,
+          "description": "Social Analytics"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Supply Chain Management (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3301"
+          ],
+          "credits": 0.5,
+          "description": "Global Supply Chain Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3305"
+          ],
+          "credits": 0.5,
+          "description": "Distribution Channels and Logistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4304"
+          ],
+          "credits": 0.5,
+          "description": "Procurement and Contracting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4331"
+          ],
+          "credits": 0.5,
+          "description": "Industry 4.0 Technologies and Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Management of Technology and Innovation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Digital Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3706"
+          ],
+          "credits": 0.5,
+          "description": "International Business Negotiations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3207"
+          ],
+          "credits": 0.5,
+          "description": "International Transactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4301"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Business Decision Models"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4308"
+          ],
+          "credits": 0.5,
+          "description": "Simulation Modeling and Analytics"
+        }
+      ]
+    },
+    {
+      "degree": "Bachelor of Commerce (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1011"
+          ],
+          "credits": 0.5,
+          "description": "Financial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1005"
+          ],
+          "credits": 0.5,
+          "description": "Sociology for Bachelor of Commerce Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2018"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2208"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Data Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2501"
+          ],
+          "credits": 0.5,
+          "description": "Business Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2701"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Project Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4601"
+          ],
+          "credits": 0.5,
+          "description": "Business Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4609"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Management"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credits in: Business Career Preparation Requirement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 9.0,
+          "description": "9.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Bachelor of Accounting Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1011"
+          ],
+          "credits": 0.5,
+          "description": "Financial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1005"
+          ],
+          "credits": 0.5,
+          "description": "Sociology for Bachelor of Commerce Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2011"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Financial Reporting I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2018"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2208"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Data Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2501"
+          ],
+          "credits": 0.5,
+          "description": "Business Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2701"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3011"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Financial Reporting II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3013"
+          ],
+          "credits": 0.25,
+          "description": "Professionalism and Perspectives in Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3014"
+          ],
+          "credits": 0.25,
+          "description": "Exploring Sustainability in Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3015"
+          ],
+          "credits": 0.5,
+          "description": "Taxation Concepts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3017"
+          ],
+          "credits": 0.5,
+          "description": "Auditing Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3018"
+          ],
+          "credits": 0.5,
+          "description": "Cost Management and Decision Making"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Data Analytics and Information Systems for Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Project Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Accounting: Relevance and Influence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4011"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Financial Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4015"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Taxation Concepts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4017"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Auditing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4018"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Cost Management and Decision Making"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4020"
+          ],
+          "credits": 0.5,
+          "description": "Accounting Capstone"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4601"
+          ],
+          "credits": 0.5,
+          "description": "Business Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4609"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Management"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in: BUSI at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credits in: Business Career Preparation Requirement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Bachelor of International Business Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1011"
+          ],
+          "credits": 0.5,
+          "description": "Financial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1701"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1009"
+          ],
+          "credits": 0.5,
+          "description": "Mathematics for Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2601"
+          ],
+          "credits": 0.5,
+          "description": "Business Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2018"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Accounting for Business Students"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2208"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2501"
+          ],
+          "credits": 0.5,
+          "description": "Business Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2702"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2750"
+          ],
+          "credits": 0.5,
+          "description": "Intercultural Communications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3750"
+          ],
+          "credits": 0.5,
+          "description": "Intercultural Business Experiences"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3629"
+          ],
+          "credits": 0.5,
+          "description": "Corporate Governance and Strategy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or an approved 3000-level or higher course in Strategic Management taken during the year abroad at one of Carleton's approved exchange partner institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4300"
+          ],
+          "credits": 0.5,
+          "description": "Global Operations and Supply Chain Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4705"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Cross-cultural Interaction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4729"
+          ],
+          "credits": 0.5,
+          "description": "International Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4750"
+          ],
+          "credits": 0.5,
+          "description": "Current Topics in International Management"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "BUSI/ECON at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BUSI 3701",
+            "BUSI 3702"
+          ],
+          "credits": null,
+          "description": "BUSI at the 3000-level or above (except for BUSI 3701 and BUSI 3702 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in: BUSI at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in: BIB language courses (French, German, Japanese, Mandarin, or Spanish), and/or in elective credits in culture and society approved by Sprott (See Note 3, below). A minimum grade of C is required in each individual BIB language course in order to be eligible for participation in the year abroad."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credits in: Business Career Preparation Requirement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3995"
+          ],
+          "credits": 0.0,
+          "description": "Employability Passport II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in free electives (see Note 2, below)"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Business Analytics (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3400"
+          ],
+          "credits": 0.5,
+          "description": "Database Design (or STAT 2602 for Students in the Concentration in Information Systems)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Business Analytics Principles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4407"
+          ],
+          "credits": 0.5,
+          "description": "Business Analytics Methods"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Corporate Finance (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3500"
+          ],
+          "credits": 0.5,
+          "description": "Applied Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4510"
+          ],
+          "credits": 0.5,
+          "description": "Mergers and Acquisitions"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Entrepreneurship (2.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3600"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurial Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3810"
+          ],
+          "credits": 0.5,
+          "description": "Business Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3820"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4810"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Creation"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Financial Planning (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2535"
+          ],
+          "credits": 0.5,
+          "description": "Financial Planning I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3535"
+          ],
+          "credits": 0.5,
+          "description": "Financial Planning II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4535"
+          ],
+          "credits": 0.5,
+          "description": "Financial Planning III"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Information Systems (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2402"
+          ],
+          "credits": 0.5,
+          "description": "Business Applications Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3400"
+          ],
+          "credits": 0.5,
+          "description": "Database Design (or BUSI 4404 for students in the Concentration in Business Analytics)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Systems Analysis and Design"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in International Business (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3704"
+          ],
+          "credits": 0.5,
+          "description": "The Environment of International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2702"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3706"
+          ],
+          "credits": 0.5,
+          "description": "International Business Negotiations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4710"
+          ],
+          "credits": 0.5,
+          "description": "International New Ventures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4729"
+          ],
+          "credits": 0.5,
+          "description": "International Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4750"
+          ],
+          "credits": 0.5,
+          "description": "Current Topics in International Management"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in International Management (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2702"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3706"
+          ],
+          "credits": 0.5,
+          "description": "International Business Negotiations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4706"
+          ],
+          "credits": 0.5,
+          "description": "International Human Resource Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4750"
+          ],
+          "credits": 0.5,
+          "description": "Current Topics in International Management"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Investments (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Investments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3512"
+          ],
+          "credits": 0.5,
+          "description": "Derivatives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Portfolio Management"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Marketing (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Communications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Consumer Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Digital Marketing"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Supply Chain Management (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3301"
+          ],
+          "credits": 0.5,
+          "description": "Global Supply Chain Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3305"
+          ],
+          "credits": 0.5,
+          "description": "Distribution Channels and Logistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4304"
+          ],
+          "credits": 0.5,
+          "description": "Procurement and Contracting"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Sustainability (2.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2819"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Accounting and Social Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3119"
+          ],
+          "credits": 0.5,
+          "description": "Business and Environmental Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4120"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Sustainability Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4219"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Marketing"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Arts Management (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1003"
+          ],
+          "credits": 0.5,
+          "description": "Survey of Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2121"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organizational Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2503"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4129"
+          ],
+          "credits": 0.5,
+          "description": "Managing the Arts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4229"
+          ],
+          "credits": 0.5,
+          "description": "Marketing in the Arts and Culture Sectors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1402"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business Information and Communication Technologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3104"
+          ],
+          "credits": 0.5,
+          "description": "Managing Individual Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Managing and Motivating Teams"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3106"
+          ],
+          "credits": 0.5,
+          "description": "Managing Conflict and Negotiation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Digital Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Communications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3810"
+          ],
+          "credits": 0.5,
+          "description": "Business Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3820"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4205"
+          ],
+          "credits": 0.5,
+          "description": "International Marketing Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4112"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Leadership"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4117"
+          ],
+          "credits": 1.0,
+          "description": "Creative Thinking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Selected Museum Exhibition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4705"
+          ],
+          "credits": 0.5,
+          "description": "Seminar: Selected Museum Exhibition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2101"
+          ],
+          "credits": 0.5,
+          "description": "The Film Industry"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "- or an additional 0.5 credit BUSI from the list in Item 2, above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1003"
+          ],
+          "credits": 0.5,
+          "description": "Survey of Accounting"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "and 0.5 credit in BUSI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Financial Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Management Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2121"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organizational Behaviour (2. 2.0 credits in:)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2503"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Finance"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisified."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business for Bachelor of Engineering (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1003"
+          ],
+          "credits": 0.5,
+          "description": "Survey of Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2121"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organizational Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2503"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2703"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3103"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organization Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Project Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Managing Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (Entrepreneurship) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3600"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurial Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3810"
+          ],
+          "credits": 0.5,
+          "description": "Business Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3820"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4810"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Business Creation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (Finance) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2503"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3500"
+          ],
+          "credits": 0.5,
+          "description": "Applied Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Investments"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit from"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3512"
+          ],
+          "credits": 0.5,
+          "description": "Derivatives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Portfolio Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4504"
+          ],
+          "credits": 0.5,
+          "description": "International Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4510"
+          ],
+          "credits": 0.5,
+          "description": "Mergers and Acquisitions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4511"
+          ],
+          "credits": 0.5,
+          "description": "Fixed Income Analysis"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (Information Systems) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Data Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2402"
+          ],
+          "credits": 0.5,
+          "description": "Business Applications Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3400"
+          ],
+          "credits": 0.5,
+          "description": "Database Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Systems Analysis and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4404"
+          ],
+          "credits": 0.5,
+          "description": "IT Infrastructure"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (International Business) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2703"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2755"
+          ],
+          "credits": 0.5,
+          "description": "Intercultural Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3704"
+          ],
+          "credits": 0.5,
+          "description": "The Environment of International Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3705"
+          ],
+          "credits": 0.5,
+          "description": "International Buyer Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3706"
+          ],
+          "credits": 0.5,
+          "description": "International Business Negotiations"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisified."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (Marketing) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Digital Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Communications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Marketing Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Consumer Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3210"
+          ],
+          "credits": 0.5,
+          "description": "Personal Selling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4219"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Marketing"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (Supply Chain Management) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3301"
+          ],
+          "credits": 0.5,
+          "description": "Global Supply Chain Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3305"
+          ],
+          "credits": 0.5,
+          "description": "Distribution Channels and Logistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4304"
+          ],
+          "credits": 0.5,
+          "description": "Procurement and Contracting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4331"
+          ],
+          "credits": 0.5,
+          "description": "Industry 4.0 Technologies and Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Management of Technology and Innovation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Business (Sustainability) (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Business"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2819"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Accounting and Social Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3119"
+          ],
+          "credits": 0.5,
+          "description": "Business and Environmental Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4120"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Sustainability Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4219"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Marketing"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in BUSI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Human Resources and Management for B.A. Honours Psychology (5.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3801"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3103"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organization Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3104"
+          ],
+          "credits": 0.5,
+          "description": "Managing Individual Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Managing and Motivating Teams"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3106"
+          ],
+          "credits": 0.5,
+          "description": "Managing Conflict and Negotiation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Human Resources Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Managing Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4112"
+          ],
+          "credits": 0.5,
+          "description": "Organizational Leadership"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Entrepreneurship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Consumer Behaviour"
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in Accounting (4.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2011"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Financial Reporting I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2503"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3011"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Financial Reporting II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3015"
+          ],
+          "credits": 0.5,
+          "description": "Taxation Concepts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3017"
+          ],
+          "credits": 0.5,
+          "description": "Auditing Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3018"
+          ],
+          "credits": 0.5,
+          "description": "Cost Management and Decision Making"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Data Analytics and Information Systems for Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3629"
+          ],
+          "credits": 0.5,
+          "description": "Corporate Governance and Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4011"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Financial Reporting"
+        }
+      ]
+    }
   ]
 }

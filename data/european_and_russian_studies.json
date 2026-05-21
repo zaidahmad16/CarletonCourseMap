@@ -237,5 +237,1861 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in: Free Electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "European and Russian Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to European and Russian Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Core Politics, Society, and International Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 2010"
+          ],
+          "credits": 0.5,
+          "description": "European, Russian and Eurasian Politics, Society and International Affairs"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Core Literature and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 3010"
+          ],
+          "credits": 0.5,
+          "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit from: Modern History category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits from: Politics and Economics category.  Must include credits in both PSCI and ECON"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from: Language, Art, Culture category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from: Contexts and Methods for Regional Studies category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from: Approved Courses in European, Russian, and Eurasian Studies. May include EURR not used to fulfill another requirement. No more than 1.0 credit from the Contexts and Methods for Regional Studies category."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "EURR 4908"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits from: EURUS 4000-level Honours category.  At least 1.0 credit in EURR.  May include EURR 4908 (1.0) Honours Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 9.0,
+          "description": "9.0 credits in free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The EURUS Language Requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "European and Russian Studies B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to European and Russian Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Core Politics, Society, and International Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 2010"
+          ],
+          "credits": 0.5,
+          "description": "European, Russian and Eurasian Politics, Society and International Affairs"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Core Literature and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 3010"
+          ],
+          "credits": 0.5,
+          "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from: Modern History category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from: Politics and Economics category.  Must include credits in both PSCI and ECON"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from: Language, Art, Culture category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR  not used to fulfill another requirement.  No more than 0.5 credit from the Contexts and Methods for Regional Studies category."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "EURR 4908"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from: EURUS 4000-level Honours category. At least 0.5 credit in EURR. May include EURR 4908 (1.0) Honours Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements from the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits for the degree."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The EURUS Language Requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "European and Russian Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to European and Russian Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Core Politics, Society, and International Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 2010"
+          ],
+          "credits": 0.5,
+          "description": "European, Russian and Eurasian Politics, Society and International Affairs"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in: Core Literature and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 3010"
+          ],
+          "credits": 0.5,
+          "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from: Modern History category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from: Politics and Economics category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR not used to fulfill another requirement.  No more than 1.0 credit from the Contexts and Methods for Regional Studies category."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The EURUS language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Europe and Russia in the World B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: the Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "a. 0.5 credit in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to European and Russian Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b. 0.5 credit in: Core Politics, Society, and International Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 2010"
+          ],
+          "credits": 0.5,
+          "description": "European, Russian and Eurasian Politics, Society and International Affairs"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c. 0.5 credit in: Core Literature and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 3010"
+          ],
+          "credits": 0.5,
+          "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "d. 1.0 credit from: Modern History category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "e. 1.0 credit from: Politics and Economics category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "f. 0.5 credit from: Language, Art, Culture category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "g. 2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR not used to fulfill another requirement.  No more than 0.5 credit from the Contexts and Methods for Regional Studies category."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "EURR 4908"
+          ],
+          "credits": 1.5,
+          "description": "h. 1.5 credit from: EURUS 4000-level Honours Course category.  At least 1.0 credit in EURR.  May include EURR 4908 (1.0) Honours Essay."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The BGINS Language requirement must be met with a regional language relevant to Europe and Russia other than English. The Program Director will maintain a list of those languages suitable for meeting this requirement."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Europe and Russia in the World B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: the Stream"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to European and Russian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 2010"
+          ],
+          "credits": 0.5,
+          "description": "European, Russian and Eurasian Politics, Society and International Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 3010"
+          ],
+          "credits": 0.5,
+          "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in: Free Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The BGINS Language requirement must be met in a regional language relevant to Europe and Russia other than English. The Program Director will maintain a list of those languages suitable for meeting this requirement."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in European and Russian Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from: EURUS Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to European and Russian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 2010"
+          ],
+          "credits": 0.5,
+          "description": "European, Russian and Eurasian Politics, Society and International Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 3010"
+          ],
+          "credits": 0.5,
+          "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from: Modern History category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from: Politics and Economics category"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR courses not used to fulfill another requirement."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1003"
+          ],
+          "credits": 0.5,
+          "description": "Empire, War, and Revolution in Europe, 1850-1939"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1004"
+          ],
+          "credits": 0.5,
+          "description": "Europe in War; Cold War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2502"
+          ],
+          "credits": 0.5,
+          "description": "Modern Britain & Empire Before 1914"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2508"
+          ],
+          "credits": 0.5,
+          "description": "War, Politics, and Society in Twentieth-Century Global France"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2510"
+          ],
+          "credits": 0.5,
+          "description": "19th-Century Germany"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2511"
+          ],
+          "credits": 0.5,
+          "description": "20th-Century Germany"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2512"
+          ],
+          "credits": 0.5,
+          "description": "Modern Britain & Empire, 1914-present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2804"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2906"
+          ],
+          "credits": 0.5,
+          "description": "Kyivan Rus\u2019 & the Russian Empire to 1801"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2907"
+          ],
+          "credits": 0.5,
+          "description": "Life in Imperial Russia, 1801-1917"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3113"
+          ],
+          "credits": 0.5,
+          "description": "Revolution and Society in France, 1789-1799"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3604"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Modern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3714"
+          ],
+          "credits": 0.5,
+          "description": "The Holocaust: Historical and Religious Dimensions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3720"
+          ],
+          "credits": 0.5,
+          "description": "The Soviet Union, 1917-1991"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3902"
+          ],
+          "credits": 0.5,
+          "description": "Topics in European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3807"
+          ],
+          "credits": 0.5,
+          "description": "European Economic Integration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3808"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Transition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3206"
+          ],
+          "credits": 0.5,
+          "description": "European Democracies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3208"
+          ],
+          "credits": 0.5,
+          "description": "Politics in Russia and Ukraine: Power and Contestation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Reconstruction and Transformation in Europe and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3608"
+          ],
+          "credits": 0.5,
+          "description": "Migration Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1100"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: Prehistory to 1300"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2202"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2300"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2310"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the Early Modern World [1400-1750]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2404"
+          ],
+          "credits": 0.5,
+          "description": "Art of the 17th and 18th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2502"
+          ],
+          "credits": 0.5,
+          "description": "Art of the 19th Century"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the 18th and 19th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2606"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2607"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2100"
+          ],
+          "credits": 1.0,
+          "description": "French 4"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2110"
+          ],
+          "credits": 1.0,
+          "description": "French 4: Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 2202"
+          ],
+          "credits": 0.5,
+          "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3212"
+          ],
+          "credits": 0.5,
+          "description": "Des manuscrits aux belles-lettres : de la litt\u00e9rature m\u00e9di\u00e9vale \u00e0 l'humanisme"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3213"
+          ],
+          "credits": 0.5,
+          "description": "Du Baroque aux Lumi\u00e8res"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3214"
+          ],
+          "credits": 0.5,
+          "description": "R\u00e9volutions, avant-gardes et ruptures : du 19e si\u00e8cle aux ann\u00e9es 1950"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FREN 3215"
+          ],
+          "credits": 0.5,
+          "description": "Les \u00e8res du soup\u00e7on : contemporan\u00e9it\u00e9s de la litt\u00e9rature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2003"
+          ],
+          "credits": 0.5,
+          "description": "The Early Medieval World: 300-1000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2004"
+          ],
+          "credits": 0.5,
+          "description": "The Late Medieval World: 1000-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3005"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Aristocratic Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3006"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Religious Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3105"
+          ],
+          "credits": 0.5,
+          "description": "Renaissance Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1610"
+          ],
+          "credits": 0.5,
+          "description": "Great Philosophical Ideas, Part 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1620"
+          ],
+          "credits": 0.5,
+          "description": "Great Philosophical Ideas, Part 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2005"
+          ],
+          "credits": 1.0,
+          "description": "Ancient Philosophy:  The Search for Wisdom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2101"
+          ],
+          "credits": 0.5,
+          "description": "History of Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2202"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Marxist Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3002"
+          ],
+          "credits": 0.5,
+          "description": "17th Century Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3003"
+          ],
+          "credits": 0.5,
+          "description": "18th Century Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3005"
+          ],
+          "credits": 0.5,
+          "description": "19th Century Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3009"
+          ],
+          "credits": 0.5,
+          "description": "Topics in European Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3330"
+          ],
+          "credits": 0.5,
+          "description": "Topics in History of Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3340"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Contemporary Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2301"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2302"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3312"
+          ],
+          "credits": 0.5,
+          "description": "Enlightenment Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1710"
+          ],
+          "credits": 0.5,
+          "description": "Judaism, Christianity, Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2121"
+          ],
+          "credits": 0.5,
+          "description": "Hebrew Bible"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2230"
+          ],
+          "credits": 0.5,
+          "description": "Global Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3601"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Trade"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Problems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3870"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Economic Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1603"
+          ],
+          "credits": 1.0,
+          "description": "Full-Year Seminar in European and Russian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1614"
+          ],
+          "credits": 0.5,
+          "description": "One-Term Seminar in European and Russian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2023"
+          ],
+          "credits": 0.5,
+          "description": "Cities, Inequality and Urban Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2200"
+          ],
+          "credits": 0.5,
+          "description": "Global Connections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2300"
+          ],
+          "credits": 0.5,
+          "description": "Space, Place and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2500"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change: Social Science Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3023"
+          ],
+          "credits": 0.5,
+          "description": "Cities in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3404"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3930"
+          ],
+          "credits": 0.5,
+          "description": "Carleton International Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3931"
+          ],
+          "credits": 1.0,
+          "description": "Carleton International Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Public History from Memory to Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3809"
+          ],
+          "credits": 0.5,
+          "description": "Historical Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3810"
+          ],
+          "credits": 0.5,
+          "description": "Historical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3813"
+          ],
+          "credits": 0.5,
+          "description": "Problems in Global and Transnational Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IPAF 2000"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Approaches to Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IPAF 4900"
+          ],
+          "credits": 0.5,
+          "description": "Research Experience Course"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2105"
+          ],
+          "credits": 0.5,
+          "description": "Social Justice and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2601"
+          ],
+          "credits": 0.5,
+          "description": "Public International Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3604"
+          ],
+          "credits": 0.5,
+          "description": "International Organizations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3207"
+          ],
+          "credits": 0.5,
+          "description": "International Transactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MGDS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Global Migration and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Politics in the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2701"
+          ],
+          "credits": 0.5,
+          "description": "How to Do Research in Political Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3107"
+          ],
+          "credits": 0.5,
+          "description": "The Causes of War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Ideologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3600"
+          ],
+          "credits": 0.5,
+          "description": "International Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3703"
+          ],
+          "credits": 0.5,
+          "description": "Governing in the Global Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2000"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Sociological Inquiry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Qualitative Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2005"
+          ],
+          "credits": 1.0,
+          "description": "Histories of Sociological Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2045"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2160"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "Power and Social Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2800"
+          ],
+          "credits": 0.5,
+          "description": "Intersectional Identities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3803"
+          ],
+          "credits": 0.5,
+          "description": "Feminisms and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4002"
+          ],
+          "credits": 0.5,
+          "description": "Post-Soviet States and Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4008"
+          ],
+          "credits": 0.5,
+          "description": "Nationalism in Russia and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4100"
+          ],
+          "credits": 0.5,
+          "description": "Nation-Building in Central and Eastern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4101"
+          ],
+          "credits": 0.5,
+          "description": "The Balkans in Transition \u2013 1918 to 1989"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4102"
+          ],
+          "credits": 0.5,
+          "description": "The Balkans since 1989"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4103"
+          ],
+          "credits": 0.5,
+          "description": "The Great Russian Novel"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4104"
+          ],
+          "credits": 0.5,
+          "description": "European Integration and European Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4106"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in European Integration Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4107"
+          ],
+          "credits": 0.5,
+          "description": "Russia\u2019s Regional and Global Ambitions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4201"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in European Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4202"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Russian and Eurasian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4204"
+          ],
+          "credits": 0.5,
+          "description": "Central Europe, Past and Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4205"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Identity in Europe and the Russian Area"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4206"
+          ],
+          "credits": 0.5,
+          "description": "Internship and Applied Policy Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4207"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Central Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4208"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Soviet Successor States"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4209"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the Caucasus and Caspian Basin"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4302"
+          ],
+          "credits": 0.5,
+          "description": "EU Summer Study Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Europe: From Postwar to the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Europe and International Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Imperial Russia and the Russian Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4306"
+          ],
+          "credits": 0.5,
+          "description": "The Soviet Union: Power and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4704"
+          ],
+          "credits": 0.5,
+          "description": "The Business Environment in Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4100"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in Early Modern European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4200"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4201"
+          ],
+          "credits": 0.5,
+          "description": "Modern European History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4600"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in Russian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4103"
+          ],
+          "credits": 0.5,
+          "description": "The Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4505"
+          ],
+          "credits": 0.5,
+          "description": "Transitions to Democracy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4610"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Migration Management"
+        }
+      ]
+    }
   ]
 }

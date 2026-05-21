@@ -282,5 +282,253 @@
       "credits": "",
       "text": "and 0.5 credit in free electives."
     }
+  ],
+  "programs": [
+    {
+      "degree": "Bachelor of Social Work B.S.W. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Welfare"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2001"
+          ],
+          "credits": 0.5,
+          "description": "Structural Analysis and Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2005"
+          ],
+          "credits": 0.5,
+          "description": "Values and Ethics for Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2100"
+          ],
+          "credits": 0.5,
+          "description": "The Political Economy of the Social Welfare State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2202"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Work Practice with Individuals and Families"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2203"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Work Practice with Groups and Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3100"
+          ],
+          "credits": 0.5,
+          "description": "Social Policy and Administration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4000"
+          ],
+          "credits": 0.5,
+          "description": "Social Work and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Data Analysis and Visualization for Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3600"
+          ],
+          "credits": 2.0,
+          "description": "Practicum I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3601"
+          ],
+          "credits": 2.0,
+          "description": "Practicum I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3602"
+          ],
+          "credits": 2.0,
+          "description": "Practicum I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Social Work Practice with Individuals and Families"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4002"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Social Work Practice with Groups"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4003"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Social Work Practice with Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4004"
+          ],
+          "credits": 0.5,
+          "description": "Social Policy Development and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4103"
+          ],
+          "credits": 0.5,
+          "description": "Practice and Policy in Immigration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4204"
+          ],
+          "credits": 0.5,
+          "description": "Social Work and Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4300"
+          ],
+          "credits": 0.5,
+          "description": "Social Work and Persons with Disabilities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4301"
+          ],
+          "credits": 0.5,
+          "description": "Racialization and Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4302"
+          ],
+          "credits": 0.5,
+          "description": "Poverty and Social Welfare Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4303"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4600"
+          ],
+          "credits": 2.0,
+          "description": "Practicum II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4601",
+            "SOWK 4602"
+          ],
+          "credits": 1.0,
+          "description": "Practicum IIA Practicum IIB"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in ANTH, CRCJ, ECON, HIST, HRSJ, INDG, LAWS, PAPM, PSCI, PSYC, SOCI, or WGST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in SOWK"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Free electives, or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Essay"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "and 0.5 credit in free electives."
+        }
+      ]
+    }
   ]
 }

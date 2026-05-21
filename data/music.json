@@ -686,5 +686,633 @@
       "credits": "1.0",
       "text": "7.  2.0 credits in free electives 1.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Music B.Mus. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1900"
+          ],
+          "credits": 0.5,
+          "description": "Performance I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1901"
+          ],
+          "credits": 0.5,
+          "description": "Performance II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2900"
+          ],
+          "credits": 0.5,
+          "description": "Performance III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2901"
+          ],
+          "credits": 0.5,
+          "description": "Performance IV"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3900"
+          ],
+          "credits": 0.5,
+          "description": "Performance V"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3901"
+          ],
+          "credits": 0.5,
+          "description": "Performance VI"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1700"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Music Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1701"
+          ],
+          "credits": 0.5,
+          "description": "Tonal Music Literacy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1720"
+          ],
+          "credits": 0.5,
+          "description": "Vocal Musicianship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1711"
+          ],
+          "credits": 0.5,
+          "description": "Applied Rhythmic Training I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2710"
+          ],
+          "credits": 0.5,
+          "description": "Aural Training"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2711"
+          ],
+          "credits": 0.5,
+          "description": "Applied Rhythmic Training II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2607"
+          ],
+          "credits": 0.5,
+          "description": "Digital Music Literacy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2700"
+          ],
+          "credits": 0.5,
+          "description": "Western Art Music Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2701"
+          ],
+          "credits": 0.5,
+          "description": "Jazz and Popular Music Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3700"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Theory and Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3701"
+          ],
+          "credits": 0.5,
+          "description": "Jazz Styles and Structures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3710"
+          ],
+          "credits": 0.5,
+          "description": "Global Music Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4700"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Seminar in Theory and Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4701"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Jazz Arranging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4704"
+          ],
+          "credits": 0.5,
+          "description": "Tonal Counterpoint"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4705"
+          ],
+          "credits": 0.5,
+          "description": "Post-Tonal Theory and Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1020"
+          ],
+          "credits": 1.0,
+          "description": "Thinking About Music"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2007"
+          ],
+          "credits": 0.5,
+          "description": "Popular Music 1945-1980"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Music of the World's Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2108"
+          ],
+          "credits": 0.5,
+          "description": "Western Art Music 1750-1900"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2203"
+          ],
+          "credits": 0.5,
+          "description": "Music in Canada"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c. 0.5 credit in Music History and Musicology at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in Music History and Musicology at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "a. 1.0 credit in MUSI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b. 1.0 credit in MUSI at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "c. 1.0 credits in MUSI at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits not in MUSI, not cross-listed with MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Satisfactory performance in eight Ensemble courses, which may be fulfilled by choir participation or by some other ensemble (see list in Course Categories, above)."
+        }
+      ]
+    },
+    {
+      "degree": "Music B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1020"
+          ],
+          "credits": 1.0,
+          "description": "Thinking About Music"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2007"
+          ],
+          "credits": 0.5,
+          "description": "Popular Music 1945-1980"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Music of the World's Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2108"
+          ],
+          "credits": 0.5,
+          "description": "Western Art Music 1750-1900"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in Music History and Musicology at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in MUSI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in MUSI at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in MUSI at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in MUSI, not cross-listed with MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Music B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1020"
+          ],
+          "credits": 1.0,
+          "description": "Thinking About Music"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b. 0.5 credit in Music History and Musicology at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in MUSI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in MUSI at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements from the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits total for the program"
+        }
+      ]
+    },
+    {
+      "degree": "Music B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1020"
+          ],
+          "credits": 1.0,
+          "description": "Thinking About Music"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2007"
+          ],
+          "credits": 0.5,
+          "description": "Popular Music 1945-1980"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Music of the World's Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2108"
+          ],
+          "credits": 0.5,
+          "description": "Western Art Music 1750-1900"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in MUSI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in MUSI at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "6.0 credits in electives not in MUSI, not cross-listed with MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Music (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1020"
+          ],
+          "credits": 1.0,
+          "description": "Thinking About Music"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in MUSI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Certificate in Carillon Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1900"
+          ],
+          "credits": 0.5,
+          "description": "Performance I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1901"
+          ],
+          "credits": 0.5,
+          "description": "Performance II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 1020"
+          ],
+          "credits": 1.0,
+          "description": "Thinking About Music"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Requirements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2900"
+          ],
+          "credits": 0.5,
+          "description": "Performance III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2901"
+          ],
+          "credits": 0.5,
+          "description": "Performance IV"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2203"
+          ],
+          "credits": 0.5,
+          "description": "Music in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2602"
+          ],
+          "credits": 0.5,
+          "description": "Composition I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4103"
+          ],
+          "credits": 0.5,
+          "description": "Music, Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Indigenous Music Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4200"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4800"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Music"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Music elective as approved by both the Dominion Carillonneur and the Supervisor of Performance Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4201"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Music elective as approved by both the Dominion Carillonneur and the Supervisor of Performance Studies"
+        }
+      ]
+    }
   ]
 }

@@ -421,5 +421,554 @@
       "credits": "2.0",
       "text": "5.  3.0 credits in free electives 2.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Greek and Roman Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in GREK or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in 2000-level CLCV, GREK, or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in 3000-level or higher in CLCV, GREK or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in 4000-level CLCV, GREK, or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1106"
+          ],
+          "credits": 3.0,
+          "description": "3.0 credits in electives in Greek and Roman Studies (CLCV, GREK, LATN, FYSM 1106 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in Greek and Roman Studies (CLCV, GREK, LATN)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Greek and Roman Studies B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in GREK or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from 2000-level CLCV, GREK, LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from 3000-level or higher CLCV, GREK, LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in 4000-level  CLCV, GREK or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1106"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit in electives in Greek and Roman Studies (CLCV, GREK, LATN, FYSM 1106 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits total for the degree."
+        }
+      ]
+    },
+    {
+      "degree": "Greek and Roman Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in 2000-level CLCV, GREK, or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in 3000-level CLCV, GREK, or LATN"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1106"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit in electives in Greek and Roman Studies (CLCV, GREK, LATN, FYSM 1106 )"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "6.0 credits in electives not in Greek and Roman Studies (CLCV, GREK, LATN)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Archaeology (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ARCY 1008",
+            "ARCY 1009"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Archaeology I Introduction to Archaeology II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 1008",
+            "CLCV 1009"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Archaeology I Introduction to Archaeology II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARCY or approved electives at the 2000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARCY or approved electives at the 3000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ARCY or approved electives at any level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3580"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Material Culture and Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1100"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: Prehistory to 1300"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1101"
+          ],
+          "credits": 0.5,
+          "description": "Art and Society: 1300 to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1200"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: Prehistory to 1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 1201"
+          ],
+          "credits": 0.5,
+          "description": "History and Theory of Architecture: 1500 to Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Greek Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2105"
+          ],
+          "credits": 0.5,
+          "description": "Roman Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2202"
+          ],
+          "credits": 0.5,
+          "description": "Medieval Architecture and Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2310"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the Early Modern World [1400-1750]"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Architecture of the 18th and 19th Centuries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3105"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Animals: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2005"
+          ],
+          "credits": 0.5,
+          "description": "Human Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1007"
+          ],
+          "credits": 0.5,
+          "description": "Chemistry of Art and Artifacts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DIGH 2035"
+          ],
+          "credits": 0.5,
+          "description": "Technology, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 2303",
+            "ARTH 2102"
+          ],
+          "credits": 0.5,
+          "description": "Greek Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 2304",
+            "ARTH 2105"
+          ],
+          "credits": 0.5,
+          "description": "Roman Art and Archaeology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 2305",
+            "TSES 2305"
+          ],
+          "credits": 1.0,
+          "description": "Ancient Science and Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 3301"
+          ],
+          "credits": 0.5,
+          "description": "Field Work I: Greek and Roman World (R)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 3306",
+            "ARTH 3102",
+            "RELI 3732"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek Art (R)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 3307",
+            "ARTH 3105",
+            "RELI 3733"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman Art (R)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 3400"
+          ],
+          "credits": 0.5,
+          "description": "Greek and Roman Studies Abroad (R)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CLCV 4000"
+          ],
+          "credits": 0.5,
+          "description": "Field Work II: Greek and Roman World (R)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2401"
+          ],
+          "credits": 0.5,
+          "description": "Dinosaurs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 2415"
+          ],
+          "credits": 0.5,
+          "description": "Natural Disasters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ERTH 3113"
+          ],
+          "credits": 0.5,
+          "description": "Geology of Human Origins"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2014"
+          ],
+          "credits": 0.5,
+          "description": "The Earth's Surface"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3102"
+          ],
+          "credits": 0.5,
+          "description": "Geomorphology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3108"
+          ],
+          "credits": 0.5,
+          "description": "Soil Properties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 1004"
+          ],
+          "credits": 0.5,
+          "description": "Maps, Satellites and the Geospatial Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 2007"
+          ],
+          "credits": 0.5,
+          "description": "Vector GIS: Points, Lines and Polygons"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 2008"
+          ],
+          "credits": 0.5,
+          "description": "Raster GIS: Pixels and Grids"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOM 3002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Remote Sensing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3732"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Greek Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3733"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Roman Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2035"
+          ],
+          "credits": 0.5,
+          "description": "Technology, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 2305",
+            "CLCV 2305"
+          ],
+          "credits": 1.0,
+          "description": "Ancient Science and Technology"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Greek and Roman Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from CLCV, GREK or LATN at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from CLCV, GREK or LATN at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "FYSM 1106"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits from any level of CLCV, GREK, or LATN (may include FYSM 1106 [1.0])"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

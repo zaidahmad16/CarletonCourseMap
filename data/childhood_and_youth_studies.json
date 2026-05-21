@@ -205,5 +205,517 @@
       "credits": "3.0",
       "text": "6.  3.0 credits in free electives 3.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Childhood and Youth Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CHST 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 1102"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 2003"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 2004"
+          ],
+          "credits": 0.5,
+          "description": "Conceptualizing Adolescence in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3205"
+          ],
+          "credits": 0.5,
+          "description": "Race, Childhood, and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3501"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender and Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3304"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 2011"
+          ],
+          "credits": 0.5,
+          "description": "Children's Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Child Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3103"
+          ],
+          "credits": 0.5,
+          "description": "Critical Approaches to Child Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3201"
+          ],
+          "credits": 0.5,
+          "description": "Children's Knowledges, Cultures, and Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3202"
+          ],
+          "credits": 0.5,
+          "description": "Reconceptualizing Early Childhood Education and Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3203"
+          ],
+          "credits": 0.5,
+          "description": "Youth Culture and Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3204"
+          ],
+          "credits": 0.5,
+          "description": "Literary Representations of Childhood and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3302"
+          ],
+          "credits": 0.5,
+          "description": "Children, Policy, and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3303"
+          ],
+          "credits": 0.5,
+          "description": "Children\u2019s Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in Indigenous Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3306"
+          ],
+          "credits": 0.5,
+          "description": "Nature, Childhood and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3905"
+          ],
+          "credits": 0.5,
+          "description": "Service-Learning in Community Settings"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Topics in Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2320"
+          ],
+          "credits": 0.5,
+          "description": "Children, Literature, and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2043"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2060"
+          ],
+          "credits": 0.5,
+          "description": "Girlhood in Contemporary Contexts: Anthropological and Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3300"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Education"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Special Topics in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 4003"
+          ],
+          "credits": 0.5,
+          "description": "History of 'The African Child'"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 4004"
+          ],
+          "credits": 0.5,
+          "description": "Theories and Epistemologies of Childhood and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 4101"
+          ],
+          "credits": 0.5,
+          "description": "Children, Youth, and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 4102"
+          ],
+          "credits": 0.5,
+          "description": "Queer and Trans Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 4205"
+          ],
+          "credits": 0.5,
+          "description": "Childhood Education and Experience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in CHST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Childhood and Youth Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CHST 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 1102"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 2003"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 2004"
+          ],
+          "credits": 0.5,
+          "description": "Conceptualizing Adolescence in Childhood and Youth Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3205"
+          ],
+          "credits": 0.5,
+          "description": "Race, Childhood, and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3304"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3501"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender and Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 2011"
+          ],
+          "credits": 0.5,
+          "description": "Children's Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Child Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3101"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Research Seminar"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3103"
+          ],
+          "credits": 0.5,
+          "description": "Critical Approaches to Child Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3201"
+          ],
+          "credits": 0.5,
+          "description": "Children's Knowledges, Cultures, and Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3202"
+          ],
+          "credits": 0.5,
+          "description": "Reconceptualizing Early Childhood Education and Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3203"
+          ],
+          "credits": 0.5,
+          "description": "Youth Culture and Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3204"
+          ],
+          "credits": 0.5,
+          "description": "Literary Representations of Childhood and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3302"
+          ],
+          "credits": 0.5,
+          "description": "Children, Policy, and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3303"
+          ],
+          "credits": 0.5,
+          "description": "Children\u2019s Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in Indigenous Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3306"
+          ],
+          "credits": 0.5,
+          "description": "Nature, Childhood and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3905"
+          ],
+          "credits": 0.5,
+          "description": "Service-Learning in Community Settings"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Topics in Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3115"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2320"
+          ],
+          "credits": 0.5,
+          "description": "Children, Literature, and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2043"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2060"
+          ],
+          "credits": 0.5,
+          "description": "Girlhood in Contemporary Contexts: Anthropological and Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3045"
+          ],
+          "credits": 0.5,
+          "description": "Children and Childhood in a Globalized World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3300"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Education"
+        }
+      ]
+    }
   ]
 }

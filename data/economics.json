@@ -669,5 +669,2337 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in: Free Electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Economics B.Econ. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2900"
+          ],
+          "credits": 0.5,
+          "description": "Professional Practice of Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics II: Consumers and General Equilibrium"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3900"
+          ],
+          "credits": 0.5,
+          "description": "Research Methods in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Capstone Seminar (see Note 1 below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in ECON at the 3000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in ECON at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in electives not in ECON"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in free electives (May include ECON courses)"
+        }
+      ]
+    },
+    {
+      "degree": "Economics B.Econ. Honours with Concentration (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics II: Consumers and General Equilibrium"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2900"
+          ],
+          "credits": 0.5,
+          "description": "Professional Practice of Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3900"
+          ],
+          "credits": 0.5,
+          "description": "Research Methods in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Capstone Seminar (see Note 1 below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "One of the concentrations described after the Economics B.Econ. Honours with Concentrations program below, also included in the Major CGPA"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ECON at the 3000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ECON at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in electives not in ECON"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Economics B. Econ. Honours with Concentrations (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2900"
+          ],
+          "credits": 0.5,
+          "description": "Professional Practice of Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics II: Consumers and General Equilibrium"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3900"
+          ],
+          "credits": 0.5,
+          "description": "Research Methods in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Capstone Seminar (see Note, below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "Two of the concentrations described below, also included in the Major CGPA"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in electives not in ECON"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives (may include ECON courses)"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Advanced Economic Analysis (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "2a.  3.0 credits in: Core Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3001"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods of Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4001"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Analysis in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4002"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Analysis in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4020"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Microeconomic Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4021"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Macroeconomic Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4706"
+          ],
+          "credits": 0.5,
+          "description": "Econometrics I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ECON at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "MATH at the 2000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "STAT at the 2000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "NOTES: Please be aware of the preclusions between MATH, STAT, and ECON courses."
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Computational Analysis (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 1 below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I (see Note 2 below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4111"
+          ],
+          "credits": 0.5,
+          "description": "Data Management for Business Intelligence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4003"
+          ],
+          "credits": 0.5,
+          "description": "Transaction Processing Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3803"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Theory of Computation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4801"
+          ],
+          "credits": 0.5,
+          "description": "Algorithms for Data Mining, Web, and Social Networks"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Development and Environment (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3508"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3804"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3509"
+          ],
+          "credits": 0.5,
+          "description": "Development Planning and Project Evaluation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3601"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Trade"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Problems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3803"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4507"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4508"
+          ],
+          "credits": 0.5,
+          "description": "International Aspects of Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3220"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Economic History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3230"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Economic History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3450"
+          ],
+          "credits": 0.5,
+          "description": "Political Economy in the Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3510"
+          ],
+          "credits": 0.5,
+          "description": "African Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3807"
+          ],
+          "credits": 0.5,
+          "description": "European Economic Integration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3808"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Transition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3870"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Economic Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4407"
+          ],
+          "credits": 0.5,
+          "description": "Project Evaluation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4601"
+          ],
+          "credits": 0.5,
+          "description": "International Trade Theory and Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Theory and Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Development in the Global South - Theory and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Development in the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4808"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 4001"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Society: Risk"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Economic Data Science (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1401"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Information Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2708"
+          ],
+          "credits": 0.5,
+          "description": "Applied Data Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4002"
+          ],
+          "credits": 0.5,
+          "description": "Statistical Analysis in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4706"
+          ],
+          "credits": 0.5,
+          "description": "Econometrics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4708"
+          ],
+          "credits": 0.5,
+          "description": "Economic Data Science - Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4709"
+          ],
+          "credits": 0.5,
+          "description": "Economic Data Science - Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4408"
+          ],
+          "credits": 0.5,
+          "description": "Social Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3706"
+          ],
+          "credits": 0.5,
+          "description": "Applied Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4109"
+          ],
+          "credits": 0.5,
+          "description": "Experimental Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4707"
+          ],
+          "credits": 0.5,
+          "description": "Econometrics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4713"
+          ],
+          "credits": 0.5,
+          "description": "Time-Series Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4880"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Economics"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Financial Economics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1003"
+          ],
+          "credits": 0.5,
+          "description": "Survey of Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Financial Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Management Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3050"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Financial Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3607"
+          ],
+          "credits": 0.5,
+          "description": "Monetary and Financial Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4051"
+          ],
+          "credits": 0.5,
+          "description": "Financial Asset Pricing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4052"
+          ],
+          "credits": 0.5,
+          "description": "Corporate Financial Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Financial Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Management Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2501"
+          ],
+          "credits": 0.5,
+          "description": "Business Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3500"
+          ],
+          "credits": 0.5,
+          "description": "Applied Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Investments"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(see Notes 1-3, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Problems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Theory and Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3706"
+          ],
+          "credits": 0.5,
+          "description": "Applied Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4030"
+          ],
+          "credits": 0.5,
+          "description": "Economics of Uncertainty and Information"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4053"
+          ],
+          "credits": 0.5,
+          "description": "Financial Market Modeling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4057"
+          ],
+          "credits": 0.5,
+          "description": "Behavioural Financial Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4805"
+          ],
+          "credits": 0.5,
+          "description": "Global Money Rules"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3512"
+          ],
+          "credits": 0.5,
+          "description": "Derivatives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Corporate Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Portfolio Management"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 4, below)"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Mathematics and Quantitative Economics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Mathematical Reasoning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Notes 1-4, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 5, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2108"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2404"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2454"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3001"
+          ],
+          "credits": 0.5,
+          "description": "Real Analysis I (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3007"
+          ],
+          "credits": 0.5,
+          "description": "Functions of a Complex Variable"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3057"
+          ],
+          "credits": 0.5,
+          "description": "Functions of a Complex Variable (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3107"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3705"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Methods I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3800"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Modeling and Computational Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3806"
+          ],
+          "credits": 0.5,
+          "description": "Scientific Computing I (Honours)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 6, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4004"
+          ],
+          "credits": 0.5,
+          "description": "Operations Research: Linear Programming Models"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3801"
+          ],
+          "credits": 0.5,
+          "description": "Linear Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4005"
+          ],
+          "credits": 0.5,
+          "description": "Operations Research: Stochastic Models"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4700"
+          ],
+          "credits": 0.5,
+          "description": "Measurement Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4007"
+          ],
+          "credits": 0.5,
+          "description": "Measure and Integration Theory (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4205"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to General Topology (Honours)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 7, below)"
+        }
+      ]
+    },
+    {
+      "degree": "Economics B.Econ. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2900"
+          ],
+          "credits": 0.5,
+          "description": "Professional Practice of Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics II: Consumers and General Equilibrium"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Econometrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3900"
+          ],
+          "credits": 0.5,
+          "description": "Research Methods in Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Capstone Seminar (see Note 1 below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ECON at the 3000 or 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for Combined Honours in the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient credits in free electives to make 20.0 credits for the degree."
+        }
+      ]
+    },
+    {
+      "degree": "Economics B.Econ. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1401"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1402"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Mathematics for Economics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in ECON at the 2000 level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in electives not in ECON"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in International Economic Policy B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: the Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "a. 1.0 credit in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b. 0.5 credit in: Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2001"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics for Non-Mathematical Majors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2009"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c. 0.5 credit in: Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2101"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in: Research Methodologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IPAF 2000"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Approaches to Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "e. 2.0 credits in: International and Public Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3403"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Public Economics: Expenditures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Public Economics: Taxation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3601"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Trade"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Problems"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "f. 3.0 credits from: International Economic Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3370"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3508"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3509"
+          ],
+          "credits": 0.5,
+          "description": "Development Planning and Project Evaluation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3510"
+          ],
+          "credits": 0.5,
+          "description": "African Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3803"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3804"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3807"
+          ],
+          "credits": 0.5,
+          "description": "European Economic Integration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3808"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Transition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3860"
+          ],
+          "credits": 0.5,
+          "description": "Agricultural Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3870"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Economic Systems"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ECON 2020",
+            "ECON 2102",
+            "ECON 2210",
+            "ECON 1001",
+            "ECON 1002",
+            "FYSM 1003",
+            "ECON 1000",
+            "ECON 1401",
+            "ECON 1402"
+          ],
+          "credits": null,
+          "description": "Note: To meet the prerequisite requirements for ECON 2020 , ECON 2102 , and ECON 2210 , students must have obtained (i) a grade of C- or higher in one or both of ECON 1001 and ECON 1002 , or FYSM 1003 [1.0] or ECON 1000 [1.0], and (ii) a grade of C- or higher in ECON 1401 and ECON 1402 or equivalent department-approved MATH course pair."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The language requirement must be met"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in International Economic Policy B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: the Stream"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "a. Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "b. Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2001"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics for Non-Mathematical Majors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2009"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "c. Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2101"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "d. Research Methodologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IPAF 2000"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Approaches to Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Statistics for Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "e. International Economic Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3403"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Public Economics: Expenditures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Public Economics: Taxation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3508"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3509"
+          ],
+          "credits": 0.5,
+          "description": "Development Planning and Project Evaluation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3510"
+          ],
+          "credits": 0.5,
+          "description": "African Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3601"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to International Trade"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Monetary Problems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3803"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3804"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3807"
+          ],
+          "credits": 0.5,
+          "description": "European Economic Integration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3808"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Transition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3860"
+          ],
+          "credits": 0.5,
+          "description": "Agricultural Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3870"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Economic Systems"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ECON 2020",
+            "ECON 2102",
+            "ECON 2210",
+            "ECON 1001",
+            "ECON 1002",
+            "FYSM 1003",
+            "ECON 1000",
+            "ECON 1401",
+            "ECON 1402"
+          ],
+          "credits": null,
+          "description": "Note: To meet the prerequisite requirements for ECON 2020 , ECON 2102 , and ECON 2210 , students must have obtained (i) a grade of C- or higher in one or both of ECON 1001 and ECON 1002 , or FYSM 1003 [1.0] or ECON 1000 [1.0], and (ii) a grade of C- or higher in ECON 1401 and ECON 1402 or equivalent department-approved MATH course pair."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in: Free Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Langauge requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Economics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2001"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics for Non-Mathematical Majors"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2009"
+          ],
+          "credits": 0.5,
+          "description": "Managerial Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2020"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2101"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics for Non-Mathematical Majors (see Note, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 2102"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Macroeconomics I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "ECON at the 2000 level or higher,"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "IPAF 2000"
+          ],
+          "credits": null,
+          "description": "or IPAF 2000 [0.5]"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in ECON at the 2000 level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in Economics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Admission to this program requires the permission of the Department of Economics."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4020"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Microeconomic Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4021"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Macroeconomic Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4706"
+          ],
+          "credits": 0.5,
+          "description": "Econometrics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4990"
+          ],
+          "credits": 0.5,
+          "description": "Research and Writing in Economics"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ESLA 1900",
+            "ECON 3001"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits in electives approved by the Department, normally in ECON at the 4000-level but may include ESLA 1900 and/or ECON 3001"
+        }
+      ]
+    }
   ]
 }

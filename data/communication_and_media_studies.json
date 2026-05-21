@@ -579,5 +579,4171 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in: free electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Communication and Media Studies B.Co.M.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1217"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Digital Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Writing and Reading Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2401"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3110"
+          ],
+          "credits": 0.5,
+          "description": "Comic Books and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3407"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Community Service Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Sport and/as Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Media Fandom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4004"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Discourse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4302"
+          ],
+          "credits": 0.5,
+          "description": "Music Industries and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Media and Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4306"
+          ],
+          "credits": 0.5,
+          "description": "Media and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4312"
+          ],
+          "credits": 0.5,
+          "description": "Crisis and Risk Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4313"
+          ],
+          "credits": 0.5,
+          "description": "Screen Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4315"
+          ],
+          "credits": 0.5,
+          "description": "Communication and the Built Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4317"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media and Global Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4401"
+          ],
+          "credits": 0.5,
+          "description": "Global Internet Policy and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4403"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Industries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4405"
+          ],
+          "credits": 0.5,
+          "description": "The Networked Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4406"
+          ],
+          "credits": 0.5,
+          "description": "Open Government and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4407"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Critical Data Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4408"
+          ],
+          "credits": 0.5,
+          "description": "Creative Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4410"
+          ],
+          "credits": 0.5,
+          "description": "Mobile Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4411"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Algorithmic Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4412"
+          ],
+          "credits": 0.5,
+          "description": "Game Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4602"
+          ],
+          "credits": 0.5,
+          "description": "Children, Youth and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Diaspora and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4604"
+          ],
+          "credits": 0.5,
+          "description": "Media, Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4605"
+          ],
+          "credits": 0.5,
+          "description": "Media, Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4606"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4608"
+          ],
+          "credits": 0.5,
+          "description": "Sound Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4501"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Production"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4502"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling in the Digital Age"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4503"
+          ],
+          "credits": 0.5,
+          "description": "Platform Practices and Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Engaging the Public: Stakeholders, participation & consultation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4505"
+          ],
+          "credits": 0.5,
+          "description": "Professional Writing and Speaking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4506"
+          ],
+          "credits": 0.5,
+          "description": "Event Management and Community Partnerships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4507"
+          ],
+          "credits": 0.5,
+          "description": "Professional Communication Research"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in Communication and Media Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMS 2700",
+            "COMS 3109",
+            "COMS 3111",
+            "COMS 3411",
+            "COMS 4305",
+            "COMS 4316",
+            "COMS 4603",
+            "COMS 4604",
+            "COMS 4605"
+          ],
+          "credits": null,
+          "description": "At least one of the following courses: COMS 2700 , COMS 3109 , COMS 3111 , COMS 3411 , COMS 4305 , COMS 4316 , COMS 4603 , COMS 4604 , COMS 4605"
+        }
+      ]
+    },
+    {
+      "degree": "Communication and Media Studies B.Co.M.S. Honours with Concentration (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in a concentration (described below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in COMS courses at the 3000 and 4000 level in addition to concentration requirements"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in Communication and Media Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMS 2700",
+            "COMS 3109",
+            "COMS 3111",
+            "COMS 3411",
+            "COMS 4305",
+            "COMS 4316",
+            "COMS 4603",
+            "COMS 4604",
+            "COMS 4605"
+          ],
+          "credits": null,
+          "description": "At least one of the following courses: COMS 2700 , COMS 3109 , COMS 3111 , COMS 3411 , COMS 4305 , COMS 4316 , COMS 4603 , COMS 4604 , COMS 4605"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Government and Professional Communication (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Community Service Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4004"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Discourse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4312"
+          ],
+          "credits": 0.5,
+          "description": "Crisis and Risk Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4401"
+          ],
+          "credits": 0.5,
+          "description": "Global Internet Policy and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4406"
+          ],
+          "credits": 0.5,
+          "description": "Open Government and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4407"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Critical Data Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Engaging the Public: Stakeholders, participation & consultation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4505"
+          ],
+          "credits": 0.5,
+          "description": "Professional Writing and Speaking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4507"
+          ],
+          "credits": 0.5,
+          "description": "Professional Communication Research"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Media and Entertainment Industries (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2401"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3110"
+          ],
+          "credits": 0.5,
+          "description": "Comic Books and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Sport and/as Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Media Fandom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4302"
+          ],
+          "credits": 0.5,
+          "description": "Music Industries and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4313"
+          ],
+          "credits": 0.5,
+          "description": "Screen Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4403"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Industries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4408"
+          ],
+          "credits": 0.5,
+          "description": "Creative Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4411"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Algorithmic Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4412"
+          ],
+          "credits": 0.5,
+          "description": "Game Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4606"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4501"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Production"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4502"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling in the Digital Age"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4503"
+          ],
+          "credits": 0.5,
+          "description": "Platform Practices and Analytics"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Public Engagement and Civic Culture (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Community Service Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Media and Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4407"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Critical Data Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Diaspora and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4604"
+          ],
+          "credits": 0.5,
+          "description": "Media, Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4605"
+          ],
+          "credits": 0.5,
+          "description": "Media, Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Engaging the Public: Stakeholders, participation & consultation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4505"
+          ],
+          "credits": 0.5,
+          "description": "Professional Writing and Speaking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4506"
+          ],
+          "credits": 0.5,
+          "description": "Event Management and Community Partnerships"
+        }
+      ]
+    },
+    {
+      "degree": "Communication and Media Studies B.Co.M.S. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1217"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Digital Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Writing and Reading Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2401"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3110"
+          ],
+          "credits": 0.5,
+          "description": "Comic Books and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3407"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Community Service Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Sport and/as Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Media Fandom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4004"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Discourse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4302"
+          ],
+          "credits": 0.5,
+          "description": "Music Industries and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Media and Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4306"
+          ],
+          "credits": 0.5,
+          "description": "Media and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4312"
+          ],
+          "credits": 0.5,
+          "description": "Crisis and Risk Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4313"
+          ],
+          "credits": 0.5,
+          "description": "Screen Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4315"
+          ],
+          "credits": 0.5,
+          "description": "Communication and the Built Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4317"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media and Global Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4401"
+          ],
+          "credits": 0.5,
+          "description": "Global Internet Policy and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4403"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Industries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4405"
+          ],
+          "credits": 0.5,
+          "description": "The Networked Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4406"
+          ],
+          "credits": 0.5,
+          "description": "Open Government and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4407"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Critical Data Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4408"
+          ],
+          "credits": 0.5,
+          "description": "Creative Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4410"
+          ],
+          "credits": 0.5,
+          "description": "Mobile Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4411"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Algorithmic Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4412"
+          ],
+          "credits": 0.5,
+          "description": "Game Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4501"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Production"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4502"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling in the Digital Age"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4503"
+          ],
+          "credits": 0.5,
+          "description": "Platform Practices and Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Engaging the Public: Stakeholders, participation & consultation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4505"
+          ],
+          "credits": 0.5,
+          "description": "Professional Writing and Speaking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4506"
+          ],
+          "credits": 0.5,
+          "description": "Event Management and Community Partnerships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4507"
+          ],
+          "credits": 0.5,
+          "description": "Professional Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4602"
+          ],
+          "credits": 0.5,
+          "description": "Children, Youth and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Diaspora and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4604"
+          ],
+          "credits": 0.5,
+          "description": "Media, Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4605"
+          ],
+          "credits": 0.5,
+          "description": "Media, Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4606"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4608"
+          ],
+          "credits": 0.5,
+          "description": "Sound Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMS 2700",
+            "COMS 3109",
+            "COMS 3111",
+            "COMS 3411",
+            "COMS 4305",
+            "COMS 4316",
+            "COMS 4603",
+            "COMS 4604",
+            "COMS 4605"
+          ],
+          "credits": null,
+          "description": "At least one of the following courses: COMS 2700 , COMS 3109 , COMS 3111 , COMS 3411 , COMS 4305 , COMS 4316 , COMS 4603 , COMS 4604 , COMS 4605"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements from the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient credits in free electives to total 20.0 credits for the program."
+        }
+      ]
+    },
+    {
+      "degree": "Communication and Media Studies B.Co.M.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1217"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Digital Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Writing and Reading Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2401"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3110"
+          ],
+          "credits": 0.5,
+          "description": "Comic Books and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3407"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Community Service Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in electives not in communication and media studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "COMS 2700",
+            "COMS 3109",
+            "COMS 3111",
+            "COMS 3411"
+          ],
+          "credits": null,
+          "description": "At least one of the following courses: COMS 2700 , COMS 3109 , COMS 3111 , COMS 3411"
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Global Media and Communication B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: the Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "a. 1.5 credits in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b. 1.0 credit from: Introductory Theory and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "c. 2.0 credits in: Advanced Theory and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "d. 3.0 credits from: Advanced Core"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "(at least 1.0 credits at the 3000 level)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4306"
+          ],
+          "credits": 0.5,
+          "description": "Media and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4317"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media and Global Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4401"
+          ],
+          "credits": 0.5,
+          "description": "Global Internet Policy and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4406"
+          ],
+          "credits": 0.5,
+          "description": "Open Government and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Diaspora and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4605"
+          ],
+          "credits": 0.5,
+          "description": "Media, Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4606"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in: free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Global Media and Communication B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: the Stream"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "a. Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "b. Introductory Theory and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "c. Advanced Theory and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "d. Advanced Core"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in: free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Communication and Media Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1217"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Digital Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1004"
+          ],
+          "credits": 0.5,
+          "description": "Writing and Reading Skills for Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3407"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Journalism and Communication and Media Studies B.J. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from - Journalism Publications and/or Specialized Journalism and/or Professional Skills and/or Investigating Journalism (at least 0.5 credit must be taken from Journalism Publications courses and at least 0.5 credit must be taken from the Specialized Journalism courses)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Journalism Publications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Specialized Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4300"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4301"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and the Markets"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4302"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Business and Canadian Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4306"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Canada and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4309"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Arts and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4308"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Sports and Sport Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4311"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Justice and The Supreme Court"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4313"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Reporting in Indigenous Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4314"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Parliament, Policy and the Press"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Professional Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Investigating Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Media History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Contemporary Communication and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Theoretical Foundations in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Research in Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3500"
+          ],
+          "credits": 0.5,
+          "description": "Current Issues in Communication and Media Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Communication Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Big Data and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2300"
+          ],
+          "credits": 0.5,
+          "description": "Communication as Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2400"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2401"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2600"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2700"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3003"
+          ],
+          "credits": 0.5,
+          "description": "Media and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3108"
+          ],
+          "credits": 0.5,
+          "description": "Media Industries and the Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3109"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3110"
+          ],
+          "credits": 0.5,
+          "description": "Comic Books and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3111"
+          ],
+          "credits": 0.5,
+          "description": "Racism and Digital Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3302"
+          ],
+          "credits": 0.5,
+          "description": "Political Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Critical Studies in Advertising and Consumer Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Critical Perspectives of Public Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3311"
+          ],
+          "credits": 0.5,
+          "description": "Media and Communication in Regional Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3400"
+          ],
+          "credits": 0.5,
+          "description": "Ethical Controversies in Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Communications Regulation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3403"
+          ],
+          "credits": 0.5,
+          "description": "Communication, Technology and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3406"
+          ],
+          "credits": 0.5,
+          "description": "Media Audiences and Users"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3407"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3410"
+          ],
+          "credits": 0.5,
+          "description": "Visual Media and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3601"
+          ],
+          "credits": 0.5,
+          "description": "Communication Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Sport and/as Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Media Fandom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4004"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Discourse"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4302"
+          ],
+          "credits": 0.5,
+          "description": "Music Industries and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Media and Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4306"
+          ],
+          "credits": 0.5,
+          "description": "Media and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4312"
+          ],
+          "credits": 0.5,
+          "description": "Crisis and Risk Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4313"
+          ],
+          "credits": 0.5,
+          "description": "Screen Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4315"
+          ],
+          "credits": 0.5,
+          "description": "Communication and the Built Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4316"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Media in Global Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4317"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media and Global Network Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4401"
+          ],
+          "credits": 0.5,
+          "description": "Global Internet Policy and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4403"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Industries"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4405"
+          ],
+          "credits": 0.5,
+          "description": "The Networked Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4406"
+          ],
+          "credits": 0.5,
+          "description": "Open Government and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4407"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Critical Data Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4408"
+          ],
+          "credits": 0.5,
+          "description": "Creative Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4410"
+          ],
+          "credits": 0.5,
+          "description": "Mobile Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4411"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Algorithmic Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4412"
+          ],
+          "credits": 0.5,
+          "description": "Game Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4501"
+          ],
+          "credits": 0.5,
+          "description": "Digital Media Production"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4502"
+          ],
+          "credits": 0.5,
+          "description": "Storytelling in the Digital Age"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4503"
+          ],
+          "credits": 0.5,
+          "description": "Platform Practices and Analytics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Engaging the Public: Stakeholders, participation & consultation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4505"
+          ],
+          "credits": 0.5,
+          "description": "Professional Writing and Speaking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4506"
+          ],
+          "credits": 0.5,
+          "description": "Event Management and Community Partnerships"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4507"
+          ],
+          "credits": 0.5,
+          "description": "Professional Communication Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4602"
+          ],
+          "credits": 0.5,
+          "description": "Children, Youth and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Diaspora and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4604"
+          ],
+          "credits": 0.5,
+          "description": "Media, Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4605"
+          ],
+          "credits": 0.5,
+          "description": "Media, Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4606"
+          ],
+          "credits": 0.5,
+          "description": "Global Media and Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4608"
+          ],
+          "credits": 0.5,
+          "description": "Sound Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Communication and Media Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        }
+      ]
+    }
   ]
 }

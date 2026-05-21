@@ -791,5 +791,851 @@
       "credits": "3.0",
       "text": "7.  3.0 credits in free electives 3.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Philosophy B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2005"
+          ],
+          "credits": 1.0,
+          "description": "Ancient Philosophy:  The Search for Wisdom"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3002"
+          ],
+          "credits": 0.5,
+          "description": "17th Century Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3003"
+          ],
+          "credits": 0.5,
+          "description": "18th Century Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2010"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Theoretical Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2020"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Practical Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2003"
+          ],
+          "credits": 0.5,
+          "description": "Critical Thinking"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in Ethics, Society and Aesthetics at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in Language, Mind and World at the 2000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1210"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1211"
+          ],
+          "credits": 0.5,
+          "description": "Looking at Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1212"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Moral, Social, and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1300"
+          ],
+          "credits": 1.0,
+          "description": "History of Philosophy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in PHIL at the 4000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits not in PHIL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Philosophy with Concentration in Philosophy, Ethics and Public Affairs B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2010"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Theoretical Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2020"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Practical Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1500"
+          ],
+          "credits": 1.0,
+          "description": "Contemporary Moral, Social and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1550"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Ethics and Social Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2101"
+          ],
+          "credits": 0.5,
+          "description": "History of Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2106"
+          ],
+          "credits": 0.5,
+          "description": "Information Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2201"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Marxist Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2202"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Marxist Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2306"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Feminism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2307"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2380"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2408"
+          ],
+          "credits": 0.5,
+          "description": "Bioethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2901"
+          ],
+          "credits": 0.5,
+          "description": "Truth and Propaganda"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3320"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Ethical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3330"
+          ],
+          "credits": 0.5,
+          "description": "Topics in History of Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3340"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Contemporary Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3350"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy, Ethics, and Public Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3360"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy, Economics, and Public Policy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in History of Philosophy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Language, Mind and World"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in PHIL at the 4000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1210"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1211"
+          ],
+          "credits": 0.5,
+          "description": "Looking at Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1212"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Moral, Social, and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1300"
+          ],
+          "credits": 1.0,
+          "description": "History of Philosophy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Please note that some of the following courses may have PSCI prerequisites."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2301"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2302"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3300"
+          ],
+          "credits": 0.5,
+          "description": "Politics and Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3303"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Political Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Ideologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3311"
+          ],
+          "credits": 0.5,
+          "description": "History of Muslim Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3312"
+          ],
+          "credits": 0.5,
+          "description": "Enlightenment Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4103"
+          ],
+          "credits": 0.5,
+          "description": "The Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4302"
+          ],
+          "credits": 0.5,
+          "description": "Political Thought in the Modern Muslim Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4311"
+          ],
+          "credits": 0.5,
+          "description": "Political Theories of Democracy and Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4316"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Political Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits not in PHIL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Philosophy B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "History of Philosophy or"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation (and .5 credit in History of Philosophy, only applicable to B.Hum)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2010"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Theoretical Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2020"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Practical Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2003"
+          ],
+          "credits": 0.5,
+          "description": "Critical Thinking"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Language, Mind, and World"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Ethics, Society and Aesthetics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PHIL at the 4000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1210"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1211"
+          ],
+          "credits": 0.5,
+          "description": "Looking at Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1212"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Moral, Social, and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1300"
+          ],
+          "credits": 1.0,
+          "description": "History of Philosophy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits in total for the program"
+        }
+      ]
+    },
+    {
+      "degree": "Philosophy B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in History of Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1210"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1211"
+          ],
+          "credits": 0.5,
+          "description": "Looking at Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1212"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Moral, Social, and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1300"
+          ],
+          "credits": 1.0,
+          "description": "History of Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2003"
+          ],
+          "credits": 0.5,
+          "description": "Critical Thinking"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in 3000-level or higher PHIL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in 2000-level or higher PHIL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in PHIL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Philosophy (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credit in PHIL at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2003"
+          ],
+          "credits": 0.5,
+          "description": "Critical Thinking"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in PHIL at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1210"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1211"
+          ],
+          "credits": 0.5,
+          "description": "Looking at Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1212"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Moral, Social, and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1300"
+          ],
+          "credits": 1.0,
+          "description": "History of Philosophy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied"
+        }
+      ]
+    },
+    {
+      "degree": "Mention : Fran\u00e7ais (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in French language chosen in consultation with the French Department to perfect the student's French language skills."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit  taught in French at Carleton and concerned with the study of the heritage and culture of French Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3901"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3902"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3903"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3906"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3907"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3908"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4900"
+          ],
+          "credits": 1.0,
+          "description": "Tutorial"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4901"
+          ],
+          "credits": 0.5,
+          "description": "Tutorial"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4902"
+          ],
+          "credits": 0.5,
+          "description": "Tutorial"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4903"
+          ],
+          "credits": 0.5,
+          "description": "Tutorial"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4904"
+          ],
+          "credits": 0.5,
+          "description": "Tutorial"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4906"
+          ],
+          "credits": 0.5,
+          "description": "Tutorial"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "in French, supervised by a member of the Department of Philosophy, or earned in a Philosophy seminar or seminars at the 4000-level taught in French at another university and acceptable to the Philosophy Department. Students must, in addition, satisfy the Honours requirement of 2.0 Carleton credits at the 4000-or 5000-level in Philosophy (1.0 for Combined Honours)."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Combined Honours students must meet the Mention : Francais requirements of both Honours disciplines."
+        }
+      ]
+    }
   ]
 }

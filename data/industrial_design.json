@@ -232,5 +232,442 @@
       "credits": "2.0",
       "text": "10.  2.0 credits in free electives at the 3000-level or above 2.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Industrial Design B.I.D. (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1000"
+          ],
+          "credits": 0.5,
+          "description": "Theory and History of Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1001"
+          ],
+          "credits": 0.5,
+          "description": "Industrial Design Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1300"
+          ],
+          "credits": 0.5,
+          "description": "Projects IA"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1301"
+          ],
+          "credits": 0.5,
+          "description": "Projects IB"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1107"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHYS 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary University Physics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2101"
+          ],
+          "credits": 0.5,
+          "description": "Design for Manufacturing A"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2102"
+          ],
+          "credits": 0.5,
+          "description": "Design for Manufacturing B"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2104"
+          ],
+          "credits": 0.5,
+          "description": "Computer Applications A"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2105"
+          ],
+          "credits": 0.5,
+          "description": "Computer Applications B"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2205"
+          ],
+          "credits": 0.5,
+          "description": "Sensory Aspects of Design for User Experience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2300"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIA"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2302"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIB"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2600"
+          ],
+          "credits": 0.5,
+          "description": "Human Factors/Ergonomics in Design"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in free electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3002"
+          ],
+          "credits": 0.5,
+          "description": "Professional Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3310"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIIA"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3302"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIIB"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3502"
+          ],
+          "credits": 0.5,
+          "description": "Contextual Nature of Products"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3601"
+          ],
+          "credits": 0.5,
+          "description": "Research for Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2204"
+          ],
+          "credits": 0.5,
+          "description": "Basic Marketing"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in free electives at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credits in IDES at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4001"
+          ],
+          "credits": 0.5,
+          "description": "Industrial Design Seminar"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4301"
+          ],
+          "credits": 0.5,
+          "description": "Minor Projects"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4310"
+          ],
+          "credits": 1.5,
+          "description": "Capstone Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4400"
+          ],
+          "credits": 0.5,
+          "description": "Internship Field Report"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "or 0.5 credit IDES elective for students in the Co-op program"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives at the 3000-level or above"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Design (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1000"
+          ],
+          "credits": 0.5,
+          "description": "Theory and History of Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1001"
+          ],
+          "credits": 0.5,
+          "description": "Industrial Design Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2205"
+          ],
+          "credits": 0.5,
+          "description": "Sensory Aspects of Design for User Experience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2600"
+          ],
+          "credits": 0.5,
+          "description": "Human Factors/Ergonomics in Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3104"
+          ],
+          "credits": 0.5,
+          "description": "Exhibition Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3107"
+          ],
+          "credits": 0.5,
+          "description": "Design and Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3305"
+          ],
+          "credits": 0.5,
+          "description": "Special Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3306"
+          ],
+          "credits": 0.5,
+          "description": "Special Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3502"
+          ],
+          "credits": 0.5,
+          "description": "Contextual Nature of Products"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3601"
+          ],
+          "credits": 0.5,
+          "description": "Research for Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4001"
+          ],
+          "credits": 0.5,
+          "description": "Industrial Design Seminar"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4305"
+          ],
+          "credits": 0.5,
+          "description": "Special Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4306"
+          ],
+          "credits": 0.5,
+          "description": "Special Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Academic Continuation Evaluation for the Bachelor of Industrial Design",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1300"
+          ],
+          "credits": 0.5,
+          "description": "Projects IA"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 1301"
+          ],
+          "credits": 0.5,
+          "description": "Projects IB"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2300"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIA"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2302"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIB"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3302"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIIB"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3310"
+          ],
+          "credits": 0.5,
+          "description": "Projects IIIA"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 4301"
+          ],
+          "credits": 0.5,
+          "description": "Minor Projects"
+        }
+      ]
+    }
   ]
 }

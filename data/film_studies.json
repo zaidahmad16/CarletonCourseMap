@@ -344,5 +344,386 @@
       "credits": "3.0",
       "text": "6.  3.0 credits in free electives. 3.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Film Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1120"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1130"
+          ],
+          "credits": 0.5,
+          "description": "Film Studies Research and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2001"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2002"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2606"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2607"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in FILM at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in FILM at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in FILM at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in FILM"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Film Studies B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1120"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1130"
+          ],
+          "credits": 0.5,
+          "description": "Film Studies Research and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2001"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2002"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2606"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2607"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in FILM at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in FILM at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in FILM at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to total 20.0 credits for the program."
+        }
+      ]
+    },
+    {
+      "degree": "Film Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1120"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1130"
+          ],
+          "credits": 0.5,
+          "description": "Film Studies Research and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2001"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2606"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2607"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in FILM at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in FILM at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in electives not in FILM"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Film Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1120"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Film Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 1130"
+          ],
+          "credits": 0.5,
+          "description": "Film Studies Research and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2001"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2606"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2607"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in FILM at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in FILM at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in Film Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2001"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2002"
+          ],
+          "credits": 0.5,
+          "description": "Film Theory and Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2606"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2607"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Film Studies electives at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Film Studies electives at the 4000-level"
+        }
+      ]
+    }
   ]
 }

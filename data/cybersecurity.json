@@ -680,5 +680,2783 @@
       "credits": "7.0",
       "text": "7.  7.0 credits in free electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Computer Science B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science Algorithms Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3803"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Theory of Computation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4001"
+          ],
+          "credits": 0.5,
+          "description": "Distributed Computing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4801"
+          ],
+          "credits": 0.5,
+          "description": "Algorithms for Data Mining, Web, and Social Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science Artificial Intelligence and Machine Learning Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3105"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Machine Learning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3106"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Artificial Intelligence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4107"
+          ],
+          "credits": 0.5,
+          "description": "Neural Networks"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2605"
+          ],
+          "credits": 0.5,
+          "description": "Probability Models"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "or 0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science Computer Game Development Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3501"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Game Programming and Computer Graphics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4501"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Facilities for Real-Time Games"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Game Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2501"
+          ],
+          "credits": 0.5,
+          "description": "Computer Game Design and Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Software Structures for User Interfaces"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3106"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Artificial Intelligence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3203"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Computer Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4509"
+          ],
+          "credits": 0.5,
+          "description": "Computer Graphics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science Cybersecurity Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2108"
+          ],
+          "credits": 0.5,
+          "description": "Applied Cryptography and Authentication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Software Structures for User Interfaces"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3203"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Computer Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4108"
+          ],
+          "credits": 0.5,
+          "description": "Computer Systems Security"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science Management and Business Systems Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BUSI 1003"
+          ],
+          "credits": 0.5,
+          "description": "BUSI 1003 [0.5] Survey of Accounting & 0.5 credit in BUSI at the 2000-level & 0.5 credit in free electives, or"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "BUSI 1001",
+            "BUSI 1800",
+            "BUSI 2008"
+          ],
+          "credits": null,
+          "description": "BUSI 1001 [0.5] Principles of Financial Accounting & BUSI 1800 [0.5] Introduction to Business & BUSI 2008 [0.5] Management Accounting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2121"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Organizational Behaviour (7.  2.0 credits in:)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Supply and Operations Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2503"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Systems Analysis and Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in BUSI at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science Software Engineering Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Software Structures for User Interfaces"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4004"
+          ],
+          "credits": 0.5,
+          "description": "Software Quality Assurance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SYSC 3303"
+          ],
+          "credits": 0.5,
+          "description": "Real-Time Concurrent Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SYSC 4106"
+          ],
+          "credits": 0.5,
+          "description": "The Software Economy and Project Management"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in MATH at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science User Experience and User Interfaces (UX/UI) Stream B.C.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2008"
+          ],
+          "credits": 0.5,
+          "description": "User Interaction Design and Prototyping"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Software Structures for User Interfaces"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4008"
+          ],
+          "credits": 0.5,
+          "description": "Evaluation and Research Methods for Human-Computer Interaction"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2509"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Industrial Applications Internship Option (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1910"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1911"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2910"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2911"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3910"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3911"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4910"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4911"
+          ],
+          "credits": 0.5,
+          "description": "Internship"
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science B.C.S. Major (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3007"
+          ],
+          "credits": 0.5,
+          "description": "Programming Paradigms"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in COMP at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in Breadth Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science and Mathematics: Concentration in Computing Theory and Numerical Methods B. Math. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Mathematical Reasoning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2100"
+          ],
+          "credits": 1.0,
+          "description": "Algebra"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures and Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Project (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2454"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2559"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Statistical Modeling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2655"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Probability with Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3801"
+          ],
+          "credits": 0.5,
+          "description": "Linear Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3806"
+          ],
+          "credits": 0.5,
+          "description": "Scientific Computing I (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3001"
+          ],
+          "credits": 0.5,
+          "description": "Real Analysis I (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3002"
+          ],
+          "credits": 0.5,
+          "description": "Real Analysis II (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3003"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Differential Calculus (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3057"
+          ],
+          "credits": 0.5,
+          "description": "Functions of a Complex Variable (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3008"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4109"
+          ],
+          "credits": 0.5,
+          "description": "Fields and Coding Theory (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4801"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Combinatorics (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4802"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Mathematical Logic (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4803"
+          ],
+          "credits": 0.5,
+          "description": "Computable Functions (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4805"
+          ],
+          "credits": 0.5,
+          "description": "Theory of Automata (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4806"
+          ],
+          "credits": 0.5,
+          "description": "Scientific Computing II (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4807"
+          ],
+          "credits": 0.5,
+          "description": "Game Theory (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4808"
+          ],
+          "credits": 0.5,
+          "description": "Graph Theory and Algorithms (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4811"
+          ],
+          "credits": 0.5,
+          "description": "Combinatorial Design Theory (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4816"
+          ],
+          "credits": 0.5,
+          "description": "Numerical Analysis for Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4821"
+          ],
+          "credits": 0.5,
+          "description": "Quantum Computing (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 4822"
+          ],
+          "credits": 0.5,
+          "description": "Wavelets and Digital Signal Processing (Honours)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 3000 level or above."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "a.  1.0 credit in Natural Science electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "b. 3.0 credits from Natural Science, or Approved Arts and Social Sciences electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4400"
+          ],
+          "credits": 0.5,
+          "description": "IS Management and Strategy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SYSC 3303"
+          ],
+          "credits": 0.5,
+          "description": "Real-Time Concurrent Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SYSC 4005"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Simulation/Modeling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SYSC 4310"
+          ],
+          "credits": 0.5,
+          "description": "Computer Systems Architecture"
+        }
+      ]
+    },
+    {
+      "degree": "Computer Science and Mathematics: Concentration in Statistics and Computing B. Math. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1800"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Mathematical Reasoning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2052"
+          ],
+          "credits": 0.5,
+          "description": "Calculus and Introductory Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2100"
+          ],
+          "credits": 1.0,
+          "description": "Algebra"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2152"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Algebra II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 1500"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Computing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3005"
+          ],
+          "credits": 0.5,
+          "description": "Database Management Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3804"
+          ],
+          "credits": 0.5,
+          "description": "Design and Analysis of Algorithms I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures and Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 4905"
+          ],
+          "credits": 0.5,
+          "description": "Honours Project (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2454"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 3806"
+          ],
+          "credits": 0.5,
+          "description": "Scientific Computing I (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2559"
+          ],
+          "credits": 0.5,
+          "description": "Basics of Statistical Modeling (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2655"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Probability with Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3558"
+          ],
+          "credits": 0.5,
+          "description": "Elements of Probability Theory (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3559"
+          ],
+          "credits": 0.5,
+          "description": "Mathematical Statistics (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3506"
+          ],
+          "credits": 0.5,
+          "description": "Stochastic Processes and Applications (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 3553"
+          ],
+          "credits": 0.5,
+          "description": "Regression Modeling (Honours)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in STAT at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "a.  1.0 credit in Natural Science electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "b. 2.5 credits from Natural Science, or Approved Arts and Social Sciences electives"
+        }
+      ]
+    },
+    {
+      "degree": "Cybersecurity B.Cyber. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1405"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1406"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3004"
+          ],
+          "credits": 0.5,
+          "description": "Object-Oriented Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2109"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Security and Privacy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Software Structures for User Interfaces"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3203"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Computer Networks"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 2108"
+          ],
+          "credits": 0.5,
+          "description": "Cryptographic Algorithms and Protocols"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 3108"
+          ],
+          "credits": 0.5,
+          "description": "Systems Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3002"
+          ],
+          "credits": 0.5,
+          "description": "Compiler Construction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3301"
+          ],
+          "credits": 0.5,
+          "description": "Technical Writing for Computer Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4004"
+          ],
+          "credits": 0.5,
+          "description": "Software Quality Assurance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 4203"
+          ],
+          "credits": 0.5,
+          "description": "Wireless Networks and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2108"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Algebra I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 4000"
+          ],
+          "credits": 0.5,
+          "description": "Operating Systems Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 4100"
+          ],
+          "credits": 0.5,
+          "description": "Human Factors in Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 4200"
+          ],
+          "credits": 0.5,
+          "description": "Network Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 4300"
+          ],
+          "credits": 0.5,
+          "description": "Software Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 4900"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Security I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CSEC 4901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Security II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1104"
+          ],
+          "credits": 0.5,
+          "description": "Linear Algebra for Engineering or Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Computer Science (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1805"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures I (and/or COMP at the 2000-level or above)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in COMP at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "Course equivalencies and transfer credits can be used for at most 2.0 credits of the minor; the remaining 2.0 credits must be courses listed in the COMP section of this Calendar"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

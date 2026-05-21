@@ -594,5 +594,2656 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in: Free Electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Anthropology B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Issues in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1050"
+          ],
+          "credits": 0.5,
+          "description": "Race, Racialization and Racism: Critical Reflections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2001"
+          ],
+          "credits": 1.0,
+          "description": "Foundations in Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4900"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Paper in Anthropology (with a minimum 9.00 GPA or permission of instructor, or 1.0 credit in ANTH courses at the ANTH 3000-level or above)"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ANTH 2600"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from: ANTH 2600 series"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3007"
+          ],
+          "credits": 0.5,
+          "description": "History of Anthropological Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3008"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Anthropology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in ANTH at the 1000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ANTH and/or SOCI at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in ANTH and/or SOCI at the 4000- or 5000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits not in SOCI or ANTH"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Anthropology B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Issues in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1050"
+          ],
+          "credits": 0.5,
+          "description": "Race, Racialization and Racism: Critical Reflections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2001"
+          ],
+          "credits": 1.0,
+          "description": "Foundations in Socio-Cultural Anthropology"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ANTH 2600"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from ANTH 2600 series"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3007"
+          ],
+          "credits": 0.5,
+          "description": "History of Anthropological Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3008"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Anthropology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in ANTH and/or SOCI at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ANTH and/or SOCI at the 4000- or 5000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4900"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Paper in Anthropology (with a minimum 9.00 GPA or permission of instructor,  or 1.0 credit in ANTH courses at the ANTH 3000-level or above.)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ANTH at the 1000-level or higher if an Honours Essay is completed in the other discipline"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient credits in free electives to make 20.0 credits for the degree"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Students are required to complete an Honours Essay. In those cases where the second discipline does not require an Honours Essay, alternative arrangements may be considered by the Co-ordinator of Honours (Anthropology)"
+        }
+      ]
+    },
+    {
+      "degree": "Anthropology B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Issues in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1050"
+          ],
+          "credits": 0.5,
+          "description": "Race, Racialization and Racism: Critical Reflections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2001"
+          ],
+          "credits": 1.0,
+          "description": "Foundations in Socio-Cultural Anthropology"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "ANTH 2600"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from ANTH 2600 series"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3007"
+          ],
+          "credits": 0.5,
+          "description": "History of Anthropological Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3008"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Anthropology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in ANTH at the 1000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in ANTH and/or SOCI at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "6.0 credits not in ANTH or SOCI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "2.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Globalization, Culture and Power B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: the Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "a. 2.5 credits in Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Issues in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1050"
+          ],
+          "credits": 0.5,
+          "description": "Race, Racialization and Racism: Critical Reflections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2001"
+          ],
+          "credits": 1.0,
+          "description": "Foundations in Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Research Methods"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b. 1.0 credit in Culture and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2850"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3010"
+          ],
+          "credits": 0.5,
+          "description": "Language, Culture, and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3027"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3040"
+          ],
+          "credits": 0.5,
+          "description": "The Global Middle Class"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3045"
+          ],
+          "credits": 0.5,
+          "description": "Children and Childhood in a Globalized World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2300"
+          ],
+          "credits": 0.5,
+          "description": "Space, Place and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "c. 1.0 credit in Ethnography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Indigenous Peoples of North America: Current Issues in Anthropological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2620"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of sub-Saharan Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2630"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Asian Societies: Current Issues in Anthropological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2635"
+          ],
+          "credits": 0.5,
+          "description": "Tradition and Modernity in the Pacific"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2640"
+          ],
+          "credits": 0.5,
+          "description": "Latin America and the Caribbean through Ethnography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2645"
+          ],
+          "credits": 0.5,
+          "description": "The Postcolonial Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2660"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of North Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2680"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of \"Mainstream\" North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2690"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of a Selected Area"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "d. 1.5 credits in Topical Explorations in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2040"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2060"
+          ],
+          "credits": 0.5,
+          "description": "Girlhood in Contemporary Contexts: Anthropological and Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2080"
+          ],
+          "credits": 0.5,
+          "description": "Humans/Animals: the More-than-Human in Social Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Theories of Human Nature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3007"
+          ],
+          "credits": 0.5,
+          "description": "History of Anthropological Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3008"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3310"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Medical Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3355"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and the Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3550"
+          ],
+          "credits": 0.5,
+          "description": "Visual Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3570"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Art, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3580"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Material Culture and Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3600"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Anthropology and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4007"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Anthropological Theory and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4020"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4215"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4225"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4500"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Culture and Symbols"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4550"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Visual Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4570"
+          ],
+          "credits": 0.5,
+          "description": "Political Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Indigeneity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4620"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Ethnography of Contemporary Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4809"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in the Anthropology of Development"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "e. 1.5 credits in Core Honours Seminars"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4005"
+          ],
+          "credits": 0.5,
+          "description": "Health and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4006"
+          ],
+          "credits": 0.5,
+          "description": "Decolonizing Methodologies in the 21st Century: Practicing Engaged Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4109"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4355"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Natural Resources"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4560"
+          ],
+          "credits": 0.5,
+          "description": "Economic Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4590"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Seminar in Globalization, Culture, and Power"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4750"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Globalization and Citizenship"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in: free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Globalization, Culture and Power B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: the Stream"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "a. 2.5 credits in Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Issues in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1050"
+          ],
+          "credits": 0.5,
+          "description": "Race, Racialization and Racism: Critical Reflections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2001"
+          ],
+          "credits": 1.0,
+          "description": "Foundations in Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Research Methods"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b. 0.5 credit in Culture and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2850"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3010"
+          ],
+          "credits": 0.5,
+          "description": "Language, Culture, and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3027"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3040"
+          ],
+          "credits": 0.5,
+          "description": "The Global Middle Class"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3045"
+          ],
+          "credits": 0.5,
+          "description": "Children and Childhood in a Globalized World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2300"
+          ],
+          "credits": 0.5,
+          "description": "Space, Place and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c. 0.5 credit in Ethnography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Indigenous Peoples of North America: Current Issues in Anthropological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2620"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of sub-Saharan Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2630"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Asian Societies: Current Issues in Anthropological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2635"
+          ],
+          "credits": 0.5,
+          "description": "Tradition and Modernity in the Pacific"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2640"
+          ],
+          "credits": 0.5,
+          "description": "Latin America and the Caribbean through Ethnography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2645"
+          ],
+          "credits": 0.5,
+          "description": "The Postcolonial Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2660"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of North Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2680"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of \"Mainstream\" North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2690"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of a Selected Area"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in Topical Explorations in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2040"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2060"
+          ],
+          "credits": 0.5,
+          "description": "Girlhood in Contemporary Contexts: Anthropological and Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2080"
+          ],
+          "credits": 0.5,
+          "description": "Humans/Animals: the More-than-Human in Social Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2510"
+          ],
+          "credits": 0.5,
+          "description": "Theories of Human Nature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3007"
+          ],
+          "credits": 0.5,
+          "description": "History of Anthropological Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3008"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Theories in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3310"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Medical Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3355"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and the Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3550"
+          ],
+          "credits": 0.5,
+          "description": "Visual Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3570"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Art, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3580"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Material Culture and Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3600"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Anthropology and Indigenous Peoples"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in: Free Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Anthropology",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Socio-Cultural Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Issues in Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 1050"
+          ],
+          "credits": 0.5,
+          "description": "Race, Racialization and Racism: Critical Reflections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2001"
+          ],
+          "credits": 1.0,
+          "description": "Foundations in Socio-Cultural Anthropology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in ANTH at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Community Engagement (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2180"
+          ],
+          "credits": 0.5,
+          "description": "Foundations in Community Engagement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2180"
+          ],
+          "credits": 0.5,
+          "description": "Foundations in Community Engagement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4171"
+          ],
+          "credits": 0.5,
+          "description": "Community Engagement Capstone"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4171"
+          ],
+          "credits": 0.5,
+          "description": "Community Engagement Capstone"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3900"
+          ],
+          "credits": 0.5,
+          "description": "Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3950"
+          ],
+          "credits": 0.5,
+          "description": "Practicum Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4100"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Field Course"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 3701"
+          ],
+          "credits": 0.5,
+          "description": "Art and Architecture on Site"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4701"
+          ],
+          "credits": 0.5,
+          "description": "Art and Architecture on Site"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 2819"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability Accounting and Social Finance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 4120"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Sustainability Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 1101"
+          ],
+          "credits": 0.5,
+          "description": "Power, Places and Stories in/of Odawang/Ottawa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4800"
+          ],
+          "credits": 1.0,
+          "description": "Internship Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3901"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Criminology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3902"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Criminology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DIGH 4005"
+          ],
+          "credits": 0.5,
+          "description": "Digital Humanities Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 4450"
+          ],
+          "credits": 0.5,
+          "description": "Community-Engaged Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3030"
+          ],
+          "credits": 0.5,
+          "description": "Regional Field Excursion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4000"
+          ],
+          "credits": 0.5,
+          "description": "Field Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4450"
+          ],
+          "credits": 0.5,
+          "description": "Community-Engaged Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Global & International Experiential Learning Course"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3930"
+          ],
+          "credits": 0.5,
+          "description": "Carleton International Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3931"
+          ],
+          "credits": 1.0,
+          "description": "Carleton International Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3815"
+          ],
+          "credits": 0.5,
+          "description": "Group Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4909"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Course \u2013 Field Placement and Research Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4905"
+          ],
+          "credits": 0.5,
+          "description": "Practicum Placement in Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Urbanisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4015"
+          ],
+          "credits": 0.5,
+          "description": "Land as a Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4020"
+          ],
+          "credits": 0.5,
+          "description": "Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4905"
+          ],
+          "credits": 1.0,
+          "description": "Full-Year Service Learning Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4906"
+          ],
+          "credits": 0.5,
+          "description": "Service Learning Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4907"
+          ],
+          "credits": 0.5,
+          "description": "Service Learning Placement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3002"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MPAD 3003"
+          ],
+          "credits": 0.5,
+          "description": "Minor Design Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2320"
+          ],
+          "credits": 0.5,
+          "description": "Children, Literature, and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3901"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3902"
+          ],
+          "credits": 0.5,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3905"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4330"
+          ],
+          "credits": 1.0,
+          "description": "Community Mental Health and Well-Being"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3950"
+          ],
+          "credits": 0.5,
+          "description": "Practicum Placement in Sociology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4170"
+          ],
+          "credits": 0.5,
+          "description": "Community-Engaged Sociology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 4800"
+          ],
+          "credits": 0.5,
+          "description": "Women\u2019s and Gender Studies Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 4801"
+          ],
+          "credits": 1.0,
+          "description": "Women's and Gender Studies Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3100"
+          ],
+          "credits": 0.5,
+          "description": "African Studies Abroad: Selected Topics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2080"
+          ],
+          "credits": 0.5,
+          "description": "Humans/Animals: the More-than-Human in Social Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2680"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of \"Mainstream\" North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ethnographic Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3010"
+          ],
+          "credits": 0.5,
+          "description": "Language, Culture, and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3310"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Medical Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3355"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and the Environment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3580"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Material Culture and Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3600"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Anthropology and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4006"
+          ],
+          "credits": 0.5,
+          "description": "Decolonizing Methodologies in the 21st Century: Practicing Engaged Anthropology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Indigeneity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4809"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in the Anthropology of Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BUSI 3119"
+          ],
+          "credits": 0.5,
+          "description": "Business and Environmental Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 2210"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Study of Culture in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Disability Studies: Policy and Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DIGH 3814"
+          ],
+          "credits": 0.5,
+          "description": "Crafting Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3608"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Theatre Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3920"
+          ],
+          "credits": 0.5,
+          "description": "Literary Ecological Fieldwork"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Sustainable Futures: Environmental Challenges and Solutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 2204"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cinema and Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1107"
+          ],
+          "credits": 1.0,
+          "description": "Social Justice and the City"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1212"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Moral, Social, and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2023"
+          ],
+          "credits": 0.5,
+          "description": "Cities, Inequality and Urban Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2300"
+          ],
+          "credits": 0.5,
+          "description": "Space, Place and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2500"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change: Social Science Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3023"
+          ],
+          "credits": 0.5,
+          "description": "Cities in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3404"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3501"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of the Canadian North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4021"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Culture, Identity and Place"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4022"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in People, Resources and Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 4323"
+          ],
+          "credits": 0.5,
+          "description": "Urban and Regional Planning"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3300"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Studies Abroad: Selected Topics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Public History from Memory to Museums"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3814"
+          ],
+          "credits": 0.5,
+          "description": "Crafting Digital History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3504"
+          ],
+          "credits": 0.5,
+          "description": "Public Health and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 2600"
+          ],
+          "credits": 0.5,
+          "description": "Human Factors/Ergonomics in Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3107"
+          ],
+          "credits": 0.5,
+          "description": "Design and Sustainability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "IDES 3601"
+          ],
+          "credits": 0.5,
+          "description": "Research for Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2105"
+          ],
+          "credits": 0.5,
+          "description": "Social Justice and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3307"
+          ],
+          "credits": 0.5,
+          "description": "Youth and Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3503"
+          ],
+          "credits": 0.5,
+          "description": "Equality and Discrimination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3504"
+          ],
+          "credits": 0.5,
+          "description": "Law and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3800"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Law, Family and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice Reform"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights in Canadian Prisons"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4503"
+          ],
+          "credits": 0.5,
+          "description": "Law, Disability and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Transitional Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Immigration and Refugee Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 2008"
+          ],
+          "credits": 0.5,
+          "description": "Music of the World's Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4102"
+          ],
+          "credits": 0.5,
+          "description": "Music and Ethnography in Ottawa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4103"
+          ],
+          "credits": 0.5,
+          "description": "Music, Migration and Diaspora in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Indigenous Music Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1550"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Ethics and Social Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2306"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Feminism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2307"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2380"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Environmental Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3340"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Contemporary Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3350"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy, Ethics, and Public Affairs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3360"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy, Economics, and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3380"
+          ],
+          "credits": 0.5,
+          "description": "Environments, Technology and Values"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3006"
+          ],
+          "credits": 0.5,
+          "description": "Social Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2010"
+          ],
+          "credits": 0.5,
+          "description": "Critical Approaches to Economic Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2040"
+          ],
+          "credits": 0.5,
+          "description": "Food, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2043"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2045"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2080"
+          ],
+          "credits": 0.5,
+          "description": "Humans/Animals: the More-than-Human in Social Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2170"
+          ],
+          "credits": 0.5,
+          "description": "Foundations in Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "Power and Social Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2705"
+          ],
+          "credits": 0.5,
+          "description": "Popular Culture in the Digital Age"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3010"
+          ],
+          "credits": 0.5,
+          "description": "Power, Oppression and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3019"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of International Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3030"
+          ],
+          "credits": 0.5,
+          "description": "Work, Industry, and Occupations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3038"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Urban Sociology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3044"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Sex and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3050"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3055"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Addictions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3056"
+          ],
+          "credits": 0.5,
+          "description": "Women and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3060"
+          ],
+          "credits": 0.5,
+          "description": "Critical Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3170"
+          ],
+          "credits": 0.5,
+          "description": "Social Justice in Action"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3300"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Education"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3430"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Collective Action and Social Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3480"
+          ],
+          "credits": 0.5,
+          "description": "Law and Social Regulation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4040"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Sociology of Intersectionality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2005"
+          ],
+          "credits": 0.5,
+          "description": "Values and Ethics for Social Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 2203"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Social Work Practice with Groups and Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3207"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights Practice in Civil Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4000"
+          ],
+          "credits": 0.5,
+          "description": "Social Work and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4003"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Social Work Practice with Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4104"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality and Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 3001"
+          ],
+          "credits": 0.5,
+          "description": "Technology-Society Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "TSES 4006"
+          ],
+          "credits": 0.5,
+          "description": "Technology and Society: Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

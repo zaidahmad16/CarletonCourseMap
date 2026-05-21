@@ -255,5 +255,1989 @@
       "credits": "2.0",
       "text": "9.  2.0 credits in free electives 2.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Criminology and Criminal Justice B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Methods in Criminology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in CRCJ or approved CCJ electives at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CRCJ or approved CCJ electives at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in electives, not in Approved CCJ electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "CCJ with Concentration in Law B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2908"
+          ],
+          "credits": 0.5,
+          "description": "Methodological Approaches in Legal Studies 1"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in LAWS at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in LAWS at the 3000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Methods in Criminology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in CRCJ or approved CCJ electives at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CRCJ or approved CCJ electives at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in electives, not in Approved CCJ electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "CCJ with Concentration in Mind and Behaviour B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2400"
+          ],
+          "credits": 0.5,
+          "description": "Justice and the Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3400"
+          ],
+          "credits": 0.5,
+          "description": "Mental Health and Criminalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3404"
+          ],
+          "credits": 0.5,
+          "description": "Police Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3405"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Motivation and Emotion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3410"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Mind and Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Methods in Criminology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CRCJ or Approved CCJ Electives at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CRCJ or Approved CCJ Electives at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in electives, not in Approved CCJ Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "CCJ with Concentration in Sociology B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2000"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Sociological Inquiry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Qualitative Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in SOCI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in SOCI at the 3000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in CRCJ or Approved CCJ Electives at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CRCJ or Approved CCJ Electives at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in electives, not in Approved CCJ Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Criminology and Criminal Justice B.A. (15.0 Credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3002"
+          ],
+          "credits": 0.5,
+          "description": "Qualitative Methods in Criminology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CRCJ or Approved CCJ Electives at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in electives, not in Approved CCJ Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "CCJ with Concentration in Law B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2908"
+          ],
+          "credits": 0.5,
+          "description": "Methodological Approaches in Legal Studies 1"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in LAWS at the 2000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in CRCJ or approved CCJ Electives at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in electives, not in Approved CCJ electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "CCJ with Concentration in Mind and Behaviour B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2400"
+          ],
+          "credits": 0.5,
+          "description": "Justice and the Self"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Quantitative Methods in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3400"
+          ],
+          "credits": 0.5,
+          "description": "Mental Health and Criminalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in PSYC at the 2000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in CRCJ or CCJ Approved Electives at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in electives, not in Approved CCJ electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "CCJ with Concentration in Sociology B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2400"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Forensic Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3402"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1003"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Sociological Perspectives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2000"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Sociological Inquiry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Qualitative Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Criminal Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in SOCI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit in CRCJ or Approved CCJ Electives at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in electives, not in Approved CCJ Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Criminology & Criminal Justice (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2100"
+          ],
+          "credits": 0.5,
+          "description": "Criminological Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 2200"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Issues in Criminology & Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Legal Studies 2"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "OR"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Sociology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2301"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2302"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2445"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Deviance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2450"
+          ],
+          "credits": 0.5,
+          "description": "Crime and Society"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in CRCJ at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Course Categories for Criminology and Criminal Justice",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3100"
+          ],
+          "credits": 0.5,
+          "description": "Policing (in)Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3110"
+          ],
+          "credits": 0.5,
+          "description": "Policing and Public Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3200"
+          ],
+          "credits": 0.5,
+          "description": "Indigeneity, Coloniality, and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3201"
+          ],
+          "credits": 0.5,
+          "description": "Special Criminological Topics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3202"
+          ],
+          "credits": 0.5,
+          "description": "Special Criminological Topics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3901"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Criminology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3902"
+          ],
+          "credits": 1.0,
+          "description": "Practicum in Criminology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4100"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Courts and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4110"
+          ],
+          "credits": 0.5,
+          "description": "Race and the Criminal Justice System in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4120"
+          ],
+          "credits": 0.5,
+          "description": "Criminalization and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4130"
+          ],
+          "credits": 0.5,
+          "description": "Anarchism and Abolitionism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4200"
+          ],
+          "credits": 0.5,
+          "description": "Policing Sex"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4300"
+          ],
+          "credits": 0.5,
+          "description": "Social Control"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4400"
+          ],
+          "credits": 0.5,
+          "description": "Emotions, Affect, and Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4500"
+          ],
+          "credits": 0.5,
+          "description": "Art of (in)Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4600"
+          ],
+          "credits": 0.5,
+          "description": "Sociologies of Punishment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4910"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study in Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 4920"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study in Criminology and Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3006"
+          ],
+          "credits": 0.5,
+          "description": "Alternative Dispute Resolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3305"
+          ],
+          "credits": 0.5,
+          "description": "Crime and State in History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3306"
+          ],
+          "credits": 0.5,
+          "description": "Crime, Law, Process and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3307"
+          ],
+          "credits": 0.5,
+          "description": "Youth and Criminal Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3308"
+          ],
+          "credits": 0.5,
+          "description": "Punishment and the Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3309"
+          ],
+          "credits": 0.5,
+          "description": "Public and Private Policing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3310"
+          ],
+          "credits": 0.5,
+          "description": "Race and Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4302"
+          ],
+          "credits": 0.5,
+          "description": "Regulation of Corporate Crime and Misconduct"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4303"
+          ],
+          "credits": 0.5,
+          "description": "Drugs, The User and The State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4304"
+          ],
+          "credits": 0.5,
+          "description": "Policing and Social Surveillance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4305"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Justice Reform"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4306"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Criminal Law Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4307"
+          ],
+          "credits": 0.5,
+          "description": "Medical Criminal Law Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4308"
+          ],
+          "credits": 0.5,
+          "description": "Sentencing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4309"
+          ],
+          "credits": 0.5,
+          "description": "State Security and Dissent"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4311"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights in Canadian Prisons"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4702"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Criminal Justice and Social Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4802"
+          ],
+          "credits": 0.5,
+          "description": "Criminal Jury Trials"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3403"
+          ],
+          "credits": 0.5,
+          "description": "Addiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3405"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Motivation and Emotion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3507"
+          ],
+          "credits": 0.5,
+          "description": "Social Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3604"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Psychology and Mental Illness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 4404"
+          ],
+          "credits": 0.5,
+          "description": "Sex Offenders"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3055"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Addictions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4170"
+          ],
+          "credits": 0.5,
+          "description": "Community-Engaged Sociology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4410"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Criminology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4702"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Criminal Justice and Social Policy"
+        }
+      ]
+    }
   ]
 }

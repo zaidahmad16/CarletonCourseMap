@@ -363,5 +363,693 @@
       "credits": "2.5",
       "text": "7.  2.5 credits in free electives 2.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Linguistics B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Language Matters: Introduction to ALDS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3005"
+          ],
+          "credits": 0.5,
+          "description": "Morphology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3505"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in LING at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "LING 1100"
+          ],
+          "credits": 3.5,
+          "description": "3.5 credits in LING, excluding LING 1100"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits not in LING or ALDS"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.5,
+          "description": "5.5 credits in free electives (maximum 2.5 credits in LING)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "School Language Proficiency Requirement must be satisfied"
+        }
+      ]
+    },
+    {
+      "degree": "B.A. Honours in Linguistics with a Concentration in Psycholinguistics and Communication Differences (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Language Matters: Introduction to ALDS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in LING at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "LING 1100"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits in LING, excluding LING 1100"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2604"
+          ],
+          "credits": 0.5,
+          "description": "Communication Differences and Disabilities I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3601"
+          ],
+          "credits": 0.5,
+          "description": "Language Processing and the Brain"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3603"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3604"
+          ],
+          "credits": 0.5,
+          "description": "Communication Differences and Disabilities II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4601"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Neuroscience of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4603"
+          ],
+          "credits": 0.5,
+          "description": "First Language Acquisition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4605"
+          ],
+          "credits": 0.5,
+          "description": "Psycholinguistic Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4606"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Language Research"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits not in LING or ALDS"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits not in LING"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "School Language Proficiency Requirement must be satisfied"
+        }
+      ]
+    },
+    {
+      "degree": "Linguistics B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Language Matters: Introduction to ALDS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3005"
+          ],
+          "credits": 0.5,
+          "description": "Morphology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3505"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in LING at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "LING 1100"
+          ],
+          "credits": 1.5,
+          "description": "1.5 credits in LING, excluding LING 1100"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements of the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make a total of 20.0 credits for the program"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "School Language Proficiency Requirement must be satisifed"
+        }
+      ]
+    },
+    {
+      "degree": "Linguistics and Discourse Studies B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Language Matters: Introduction to ALDS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3005"
+          ],
+          "credits": 0.5,
+          "description": "Morphology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3505"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in LING at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "LING 1100"
+          ],
+          "credits": 1.5,
+          "description": "1.5 credits in LING, excluding LING 1100"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 2201"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of Oral Language Use"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 2202"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of Written Language Use"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ALDS at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ALDS at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in ALDS"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make a total of 20.0 credits for the program"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "School Language Proficiency Requirement must be satisfied"
+        }
+      ]
+    },
+    {
+      "degree": "Linguistics B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Language Matters: Introduction to ALDS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3005"
+          ],
+          "credits": 0.5,
+          "description": "Morphology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3505"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "LING 1100"
+          ],
+          "credits": 2.5,
+          "description": "2.5 credits in LING, excluding LING 1100"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 5.0,
+          "description": "5.0 credits not in LING or ALDS"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit not in LING"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "School Language Proficiency Requirement must be satisfied"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Linguistics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ALDS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Language Matters: Introduction to ALDS"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "LING 1100"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit in LING, excluding LING 1100"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

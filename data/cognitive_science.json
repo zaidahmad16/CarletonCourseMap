@@ -180,5 +180,2045 @@
       "credits": "6.0",
       "text": "10.  6.0 credits in free electives 6.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Cognitive Science with Concentration in Language and Linguistics Bachelor of Cognitive Science Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mysteries of the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1604"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Science: Understanding the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1607"
+          ],
+          "credits": 1.0,
+          "description": "Cognitive Science: Thinking and Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1301"
+          ],
+          "credits": 0.5,
+          "description": "Mind, World, and Knowledge"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3601"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Philosophy of Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3004"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3104"
+          ],
+          "credits": 0.5,
+          "description": "The Roots of Analytic Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3301"
+          ],
+          "credits": 0.5,
+          "description": "Issues in the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Symbolic Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3502"
+          ],
+          "credits": 0.5,
+          "description": "Mind and Action"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3504"
+          ],
+          "credits": 0.5,
+          "description": "Pragmatics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3506"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3530"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3908"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Thesis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Honours Project"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "and 0.5 credit in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3005"
+          ],
+          "credits": 0.5,
+          "description": "Morphology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3601"
+          ],
+          "credits": 0.5,
+          "description": "Language Processing and the Brain"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2604"
+          ],
+          "credits": 0.5,
+          "description": "Communication Differences and Disabilities I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3604"
+          ],
+          "credits": 0.5,
+          "description": "Communication Differences and Disabilities II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3504"
+          ],
+          "credits": 0.5,
+          "description": "Pragmatics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3505"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 3603"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4004"
+          ],
+          "credits": 0.5,
+          "description": "Syntax II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4005"
+          ],
+          "credits": 0.5,
+          "description": "Morphology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4007"
+          ],
+          "credits": 0.5,
+          "description": "Phonology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4505"
+          ],
+          "credits": 0.5,
+          "description": "Formal Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4510"
+          ],
+          "credits": 0.5,
+          "description": "Lexical Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4601"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Neuroscience of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4603"
+          ],
+          "credits": 0.5,
+          "description": "First Language Acquisition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4605"
+          ],
+          "credits": 0.5,
+          "description": "Psycholinguistic Research Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 4606"
+          ],
+          "credits": 0.5,
+          "description": "Statistics for Language Research"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Cognitive Science with Concentration in the Biological Foundations of Cognition Bachelor of Cognitive Science Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mysteries of the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1604"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Science: Understanding the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1607"
+          ],
+          "credits": 1.0,
+          "description": "Cognitive Science: Thinking and Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1301"
+          ],
+          "credits": 0.5,
+          "description": "Mind, World, and Knowledge"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3601"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Philosophy of Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3004"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3104"
+          ],
+          "credits": 0.5,
+          "description": "The Roots of Analytic Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3301"
+          ],
+          "credits": 0.5,
+          "description": "Issues in the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Symbolic Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3502"
+          ],
+          "credits": 0.5,
+          "description": "Mind and Action"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3504"
+          ],
+          "credits": 0.5,
+          "description": "Pragmatics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3506"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3530"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3908"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Thesis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Honours Project"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "and 0.5 credit in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1203"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Neurological Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2202"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopment and Plasticity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3001"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis in Neuroscience I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3002"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis in Neuroscience II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2801"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience and Creativity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3204"
+          ],
+          "credits": 0.5,
+          "description": "Neuropharmacology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3206"
+          ],
+          "credits": 0.5,
+          "description": "Sensory and Motor Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Systems Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3303"
+          ],
+          "credits": 0.5,
+          "description": "The Neuroscience of Consciousness"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3709"
+          ],
+          "credits": 0.5,
+          "description": "Language Processing and the Brain"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Cognitive Science with Concentration in Cognition and Psychology Bachelor of Cognitive Science Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mysteries of the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1604"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Science: Understanding the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1607"
+          ],
+          "credits": 1.0,
+          "description": "Cognitive Science: Thinking and Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1301"
+          ],
+          "credits": 0.5,
+          "description": "Mind, World, and Knowledge"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3601"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Philosophy of Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3004"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3104"
+          ],
+          "credits": 0.5,
+          "description": "The Roots of Analytic Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3301"
+          ],
+          "credits": 0.5,
+          "description": "Issues in the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Symbolic Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3502"
+          ],
+          "credits": 0.5,
+          "description": "Mind and Action"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3504"
+          ],
+          "credits": 0.5,
+          "description": "Pragmatics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3506"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3530"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3908"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Thesis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Honours Project"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "and 0.5 credit in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Research Methods in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistics in Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3000"
+          ],
+          "credits": 1.0,
+          "description": "Design and Analysis in Psychological Research"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b.  0.5 credit in PSYC at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3700"
+          ],
+          "credits": 1.0,
+          "description": "Cognition (Honours Seminar)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3506"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3508"
+          ],
+          "credits": 0.5,
+          "description": "Child Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3702"
+          ],
+          "credits": 0.5,
+          "description": "Perception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3709"
+          ],
+          "credits": 0.5,
+          "description": "Language Processing and the Brain"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3303"
+          ],
+          "credits": 0.5,
+          "description": "The Neuroscience of Consciousness"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Cognitive Science with Concentration in Cognition and Computation Bachelor of Cognitive Science Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mysteries of the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1604"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Science: Understanding the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1607"
+          ],
+          "credits": 1.0,
+          "description": "Cognitive Science: Thinking and Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1301"
+          ],
+          "credits": 0.5,
+          "description": "Mind, World, and Knowledge"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3601"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Philosophy of Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3004"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3104"
+          ],
+          "credits": 0.5,
+          "description": "The Roots of Analytic Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3301"
+          ],
+          "credits": 0.5,
+          "description": "Issues in the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Symbolic Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3502"
+          ],
+          "credits": 0.5,
+          "description": "Mind and Action"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3504"
+          ],
+          "credits": 0.5,
+          "description": "Pragmatics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3506"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3530"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3908"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Thesis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Honours Project"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "and 0.5 credit in CGSC at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CGSC at the 3000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1006"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b.  0.5 credit in COMP at the 1000-level or higher"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2401"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Systems Programming"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2402"
+          ],
+          "credits": 0.5,
+          "description": "Abstract Data Types and Algorithms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2404"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Software Engineering"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2406"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Web Applications"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 2804"
+          ],
+          "credits": 0.5,
+          "description": "Discrete Structures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 3008"
+          ],
+          "credits": 0.5,
+          "description": "Software Structures for User Interfaces"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "d.  1.0 credit in COMP at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "e.  0.5 credit in COMP at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Cognitive Science Bachelor of Cognitive Science (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mysteries of the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1604"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Science: Understanding the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1607"
+          ],
+          "credits": 1.0,
+          "description": "Cognitive Science: Thinking and Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1301"
+          ],
+          "credits": 0.5,
+          "description": "Mind, World, and Knowledge"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1005"
+          ],
+          "credits": 0.5,
+          "description": "Computational Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMP 1005"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Computer Science I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Linguistics I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2005"
+          ],
+          "credits": 0.5,
+          "description": "Linguistic Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LING 2007"
+          ],
+          "credits": 0.5,
+          "description": "Phonetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2501"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Philosophy of Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3004"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2504"
+          ],
+          "credits": 0.5,
+          "description": "Language and Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3104"
+          ],
+          "credits": 0.5,
+          "description": "The Roots of Analytic Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3301"
+          ],
+          "credits": 0.5,
+          "description": "Issues in the Philosophy of Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Symbolic Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3502"
+          ],
+          "credits": 0.5,
+          "description": "Mind and Action"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3504"
+          ],
+          "credits": 0.5,
+          "description": "Pragmatics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3506"
+          ],
+          "credits": 0.5,
+          "description": "Semantics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3530"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Language"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2700"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Cognitive Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2307"
+          ],
+          "credits": 0.5,
+          "description": "Human Neuropsychology I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Artificial Intelligence and Cognitive Modelling (1.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4601"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Architectures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4605"
+          ],
+          "credits": 0.5,
+          "description": "Hyperdimensional Cognitive Models"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Cognitive Science (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Mysteries of the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3004"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3201"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Processes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3301"
+          ],
+          "credits": 0.5,
+          "description": "Language and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3501"
+          ],
+          "credits": 0.5,
+          "description": "Cognitive Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3601"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence: Philosophical and Ethical Issues"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credits in CGSC at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in Cognitive Science (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2001"
+          ],
+          "credits": 0.5,
+          "description": "Theories in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 2002"
+          ],
+          "credits": 0.5,
+          "description": "Methods in Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3601"
+          ],
+          "credits": 0.5,
+          "description": "Artificial Intelligence and Cognitive Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 3908"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Cognitive Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in CGSC at the 3000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Thesis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CGSC 4909"
+          ],
+          "credits": 1.0,
+          "description": "Honours Project"
+        }
+      ]
+    }
   ]
 }

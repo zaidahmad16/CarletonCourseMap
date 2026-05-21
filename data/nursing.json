@@ -324,5 +324,864 @@
       "credits": "3.5",
       "text": "5.  3.5 credits in free electives (may include NURS 4012 & NURS 4112 ) 3.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Nursing B.Sc.N. Honours with RN Prescribing (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Professional Nursing I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Adult Health and Illness I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1004"
+          ],
+          "credits": 0.25,
+          "description": "Pharmacology and Medication Management I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2000"
+          ],
+          "credits": 0.25,
+          "description": "Community Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2001"
+          ],
+          "credits": 0.5,
+          "description": "Professional Nursing II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2002"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Adult Health and Illness II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Pharmacology and Medication Management II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2011"
+          ],
+          "credits": 0.25,
+          "description": "Health Equity and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2012"
+          ],
+          "credits": 0.25,
+          "description": "Resilience Training"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2013"
+          ],
+          "credits": 0.25,
+          "description": "Interpersonal Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2014"
+          ],
+          "credits": 0.5,
+          "description": "Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2016"
+          ],
+          "credits": 0.25,
+          "description": "Introduction to Health IT"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3000"
+          ],
+          "credits": 0.25,
+          "description": "Research Methods for Nurses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Professional Nursing III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3002"
+          ],
+          "credits": 0.25,
+          "description": "Directed Studies - NCLEX"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3005"
+          ],
+          "credits": 0.5,
+          "description": "Pediatrics and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3006"
+          ],
+          "credits": 0.5,
+          "description": "Palliative and End of Life Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3010"
+          ],
+          "credits": 0.25,
+          "description": "Maternal Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3016"
+          ],
+          "credits": 0.25,
+          "description": "Introduction to AI and ML in Healthcare"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1100"
+          ],
+          "credits": 0.25,
+          "description": "Experiential Learning - Simulation I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2100"
+          ],
+          "credits": 0.25,
+          "description": "Experiential Learning - Simulation II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2108"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning - Simulation III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning - Consolidation Simulation IV"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3101"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning - Consolidation Simulation V"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum \u2013 Long-Term Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1201"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Chronic Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Mental Health & Obstetrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2201"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Acute Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Pediatrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3201"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Consolidated Practicum I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 4200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Consolidated Practicum II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 4011"
+          ],
+          "credits": 0.5,
+          "description": "Nursing Research Project"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "OR"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 4012",
+            "NURS 4112"
+          ],
+          "credits": 0.25,
+          "description": "Nursing Research Proposal Experiential Learning - Improving Nursing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1000"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2024"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Nursing B.Sc.N. Major with RN Prescribing (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Professional Nursing I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1002"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1003"
+          ],
+          "credits": 0.5,
+          "description": "Adult Health and Illness I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1004"
+          ],
+          "credits": 0.25,
+          "description": "Pharmacology and Medication Management I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2000"
+          ],
+          "credits": 0.25,
+          "description": "Community Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2001"
+          ],
+          "credits": 0.5,
+          "description": "Professional Nursing II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2002"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2003"
+          ],
+          "credits": 0.5,
+          "description": "Adult Health and Illness II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2004"
+          ],
+          "credits": 0.5,
+          "description": "Pharmacology and Medication Management II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2011"
+          ],
+          "credits": 0.25,
+          "description": "Health Equity and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2012"
+          ],
+          "credits": 0.25,
+          "description": "Resilience Training"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2013"
+          ],
+          "credits": 0.25,
+          "description": "Interpersonal Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2014"
+          ],
+          "credits": 0.5,
+          "description": "Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2016"
+          ],
+          "credits": 0.25,
+          "description": "Introduction to Health IT"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3000"
+          ],
+          "credits": 0.25,
+          "description": "Research Methods for Nurses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Professional Nursing III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3002"
+          ],
+          "credits": 0.25,
+          "description": "Directed Studies - NCLEX"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3005"
+          ],
+          "credits": 0.5,
+          "description": "Pediatrics and Youth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3006"
+          ],
+          "credits": 0.5,
+          "description": "Palliative and End of Life Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3010"
+          ],
+          "credits": 0.25,
+          "description": "Maternal Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3016"
+          ],
+          "credits": 0.25,
+          "description": "Introduction to AI and ML in Healthcare"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1100"
+          ],
+          "credits": 0.25,
+          "description": "Experiential Learning - Simulation I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2100"
+          ],
+          "credits": 0.25,
+          "description": "Experiential Learning - Simulation II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2108"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning - Simulation III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3100"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning - Consolidation Simulation IV"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3101"
+          ],
+          "credits": 0.5,
+          "description": "Experiential Learning - Consolidation Simulation V"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum \u2013 Long-Term Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 1201"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Chronic Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Mental Health & Obstetrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2201"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Acute Care"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Pediatrics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3201"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Consolidated Practicum I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 4200"
+          ],
+          "credits": 0.5,
+          "description": "Clinical Practicum - Consolidated Practicum II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1000"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2024"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "NURS 4012",
+            "NURS 4112"
+          ],
+          "credits": 3.5,
+          "description": "3.5 credits in free electives (may include NURS 4012 & NURS 4112 )"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Data Science (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NURS 4011"
+          ],
+          "credits": 0.5,
+          "description": "Nursing Research Project"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "OR"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 4112",
+            "NURS 4012"
+          ],
+          "credits": 0.25,
+          "description": "Experiential Learning - Improving Nursing Nursing Research Proposal"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2026"
+          ],
+          "credits": 0.5,
+          "description": "Data Management and Advanced Data Analytics in Healthcare"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2036"
+          ],
+          "credits": 0.5,
+          "description": "Designing and Deploying Technology Enabled Clinical Workflows"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2046"
+          ],
+          "credits": 0.5,
+          "description": "Healthcare Technology Evaluation, Procurement and Project Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2056"
+          ],
+          "credits": 0.5,
+          "description": "Ethics, Legalities and Regulation in Healthcare Data Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3000"
+          ],
+          "credits": 0.25,
+          "description": "Research Methods for Nurses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3016"
+          ],
+          "credits": 0.25,
+          "description": "Introduction to AI and ML in Healthcare"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 3066"
+          ],
+          "credits": 0.5,
+          "description": "Seminar - Nursing Data Science"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Neuroscience and Mental Health (3.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1202"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Psychiatric Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 1203"
+          ],
+          "credits": 0.5,
+          "description": "Neuroscience of Mental Health and Neurological Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2202"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopment and Plasticity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3204"
+          ],
+          "credits": 0.5,
+          "description": "Neuropharmacology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2012"
+          ],
+          "credits": 0.25,
+          "description": "Resilience Training"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NURS 2014"
+          ],
+          "credits": 0.5,
+          "description": "Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3304"
+          ],
+          "credits": 0.5,
+          "description": "Hormones and Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Toxins and Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3501"
+          ],
+          "credits": 0.5,
+          "description": "Neurodegeneration and Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3502"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopmental Determinants of Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 4306"
+          ],
+          "credits": 0.5,
+          "description": "The Neural Basis of Addiction"
+        }
+      ]
+    }
   ]
 }

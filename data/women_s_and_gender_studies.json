@@ -182,5 +182,1660 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in free electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Women's and Gender Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1402"
+          ],
+          "credits": 1.0,
+          "description": "Issues in Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 1808"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Theory and Research in Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits from WGST, SXST, DBST, or CRST at the 3000- or 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from WGST, SXST, DBST, or CRST at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from WGST, SXST, DBST, CRST or WGST Approved Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits not in WGST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Women's and Gender Studies B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1402"
+          ],
+          "credits": 1.0,
+          "description": "Issues in Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 1808"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Theory and Research in Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit from WGST, SXST, DBST or CRST at the 2000- or 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from WGST, SXST, DBST, CRST or WGST-approved Electives at the 2000- or 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from WGST, SXST, DBST, or CRST at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit from WGST, SXST, DBST, CRST or WGST- approved Electives at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for Combined Honours in the other discipline must be met"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient electives to make a total of 20.0 credits for the degree"
+        }
+      ]
+    },
+    {
+      "degree": "Women's and Gender Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1402"
+          ],
+          "credits": 1.0,
+          "description": "Issues in Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 1808"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Theory and Research in Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credit from WGST, SXST, DBST, CRST or WGST-approved Electives at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits from WGST, SXST, DBST, CRST, or WGST-approved Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in electives not in WGST"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Global Genders and Sexualities B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: The Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "a. 1.5 credits in: Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 1808"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "b. 2.0 credits from: Theorizing Bodies and Borders"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3103"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality and Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3104"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Queer(ing) Archives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2803"
+          ],
+          "credits": 0.5,
+          "description": "Body Matters: The Politics of Bodies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Masculinities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Theory and Research in Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "c. 2.5 credits from: Advocacy and Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2301"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3202"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women\u2019s and Gender Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women's and Gender Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3803"
+          ],
+          "credits": 0.5,
+          "description": "Feminisms and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Girlhoods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Gendered Violence"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "d. 1.5 credits from: Honours Seminars in Global Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4302"
+          ],
+          "credits": 0.5,
+          "description": "Transgender Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4401"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Citizenship and Social Justice in a Transnational World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4101"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Studies of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4103"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Kink"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 4812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women\u2019s and Gender Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in: free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Requirement must be met"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language Requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Global Genders and Sexualities B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: the Stream"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "a. Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 1808"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "b. Theorizing Bodies and Borders"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3103"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality and Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3104"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Queer(ing) Archives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2803"
+          ],
+          "credits": 0.5,
+          "description": "Body Matters: The Politics of Bodies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Masculinities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Theory and Research in Feminist Social Transformation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "c. Advocacy and Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2301"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3202"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women\u2019s and Gender Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3803"
+          ],
+          "credits": 0.5,
+          "description": "Feminisms and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Girlhoods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Gendered Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women's and Gender Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language Requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Women's and Gender Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1402"
+          ],
+          "credits": 1.0,
+          "description": "Issues in Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 1808"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Feminist Social Transformation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from WGST-approved Electives at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from WGST-approved Electives at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Women's and Gender Studies Approved Electives",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2040"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4600"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Art, Architecture, and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 4604"
+          ],
+          "credits": 0.5,
+          "description": "Media, Gender and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Topics in Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3001"
+          ],
+          "credits": 0.5,
+          "description": "Disability Studies: Policy and Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3002"
+          ],
+          "credits": 0.5,
+          "description": "Mad Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3060"
+          ],
+          "credits": 0.5,
+          "description": "Critical Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Deaf Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3304"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Topics in Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3900"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 4812"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Topics in Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3380"
+          ],
+          "credits": 0.5,
+          "description": "The Economics of Gender and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2108"
+          ],
+          "credits": 0.5,
+          "description": "Women and Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2109"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Sexuality and Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FILM 3301"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Cinema, Gender, and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2506"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Social History of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3406"
+          ],
+          "credits": 0.5,
+          "description": "African-American Women"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3505"
+          ],
+          "credits": 0.5,
+          "description": "Women in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 4505"
+          ],
+          "credits": 1.0,
+          "description": "Seminar in Women's and Gender History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2301"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3305"
+          ],
+          "credits": 0.5,
+          "description": "Anti-Black Racism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4302"
+          ],
+          "credits": 0.5,
+          "description": "Transgender Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4305"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4401"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Citizenship and Social Justice in a Transnational World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3001"
+          ],
+          "credits": 0.5,
+          "description": "Women and the Legal Process"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3503"
+          ],
+          "credits": 0.5,
+          "description": "Equality and Discrimination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3804"
+          ],
+          "credits": 0.5,
+          "description": "Law of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Law, Family and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Theories of Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2306"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Feminism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2307"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4005"
+          ],
+          "credits": 0.5,
+          "description": "Seminar in Modern Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4603"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Feminist Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 4604"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Feminist Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3303"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Political Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4403"
+          ],
+          "credits": 0.5,
+          "description": "Reproductive Rights Policy in North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4501"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Identity in Europe and the Russian Area"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4506"
+          ],
+          "credits": 0.5,
+          "description": "Women, Power and Political Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4605"
+          ],
+          "credits": 0.5,
+          "description": "Gender in International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 3603"
+          ],
+          "credits": 0.5,
+          "description": "Psychology of Women"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PADM 4213"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3101"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Religions and the Body"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3103"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality and Disability"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3104"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3106"
+          ],
+          "credits": 0.5,
+          "description": "Queer(ing) Archives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Topics in Sexuality Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4101"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Studies of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4102"
+          ],
+          "credits": 0.5,
+          "description": "Queer Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4103"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Kink"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4104"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality and Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4105"
+          ],
+          "credits": 0.5,
+          "description": "Queer Ecologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4106"
+          ],
+          "credits": 0.5,
+          "description": "Queer Aesthetics: Affect, Cultural Production, Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3804"
+          ],
+          "credits": 0.5,
+          "description": "Law of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2043"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of the Family"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2045"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3044"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Sex and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3056"
+          ],
+          "credits": 0.5,
+          "description": "Women and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4039"
+          ],
+          "credits": 0.5,
+          "description": "Women in Contemporary Middle East Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4040"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Sociology of Intersectionality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2803"
+          ],
+          "credits": 0.5,
+          "description": "Body Matters: The Politics of Bodies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2810"
+          ],
+          "credits": 0.5,
+          "description": "Sex For Sale"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2811"
+          ],
+          "credits": 0.5,
+          "description": "Masculinities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women\u2019s and Gender Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2814"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Sexuality and Cultural Production"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3803"
+          ],
+          "credits": 0.5,
+          "description": "Feminisms and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3806"
+          ],
+          "credits": 0.5,
+          "description": "Girlhoods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Gendered Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women's and Gender Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 4060"
+          ],
+          "credits": 0.5,
+          "description": "African Feminisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 4302"
+          ],
+          "credits": 0.5,
+          "description": "Transgender Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 4812"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Women\u2019s and Gender Studies"
+        }
+      ]
+    }
   ]
 }

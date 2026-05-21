@@ -1029,5 +1029,1076 @@
       "credits": "3.0",
       "text": "8.  3.0 credits in free electives 3.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "English B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1004"
+          ],
+          "credits": 1.0,
+          "description": "Reading Literatures and Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1010"
+          ],
+          "credits": 0.5,
+          "description": "Writing Essays about Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1009"
+          ],
+          "credits": 0.5,
+          "description": "Literature in Global Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1100"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Law, and Criminality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1200"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Science, and Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1300"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Psychology, and the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1400"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Art, and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1600"
+          ],
+          "credits": 0.5,
+          "description": "Literature and Magic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and the Humanities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2802"
+          ],
+          "credits": 1.0,
+          "description": "Indigenous and Canadian Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3106"
+          ],
+          "credits": 1.0,
+          "description": "Theories and Critical Practices"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 500-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2302"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1500-1700"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3500"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1700-1900"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1900-Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2920"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3930"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3910"
+          ],
+          "credits": 0.5,
+          "description": "From English Degree to Career"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3911"
+          ],
+          "credits": 0.5,
+          "description": "Cultural Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4950"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Postcolonial and Diaspora Lit. and Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ENGL at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in ENGL at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ENGL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in ENGL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "English with Concentration in Creative Writing B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1004"
+          ],
+          "credits": 1.0,
+          "description": "Reading Literatures and Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1010"
+          ],
+          "credits": 0.5,
+          "description": "Writing Essays about Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1009"
+          ],
+          "credits": 0.5,
+          "description": "Literature in Global Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1100"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Law, and Criminality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1200"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Science, and Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1300"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Psychology, and the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1400"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Art, and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1600"
+          ],
+          "credits": 0.5,
+          "description": "Literature and Magic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and the Humanities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2802"
+          ],
+          "credits": 1.0,
+          "description": "Indigenous and Canadian Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3106"
+          ],
+          "credits": 1.0,
+          "description": "Theories and Critical Practices"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 500-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2302"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1500-1700"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3500"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1700-1900"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1900-Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2920"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3930"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3910"
+          ],
+          "credits": 0.5,
+          "description": "From English Degree to Career"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3911"
+          ],
+          "credits": 0.5,
+          "description": "Cultural Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2901"
+          ],
+          "credits": 0.5,
+          "description": "Writing Poetry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2903"
+          ],
+          "credits": 0.5,
+          "description": "Writing Fiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2914"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2915"
+          ],
+          "credits": 0.5,
+          "description": "Writing Creative Nonfiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3902"
+          ],
+          "credits": 0.5,
+          "description": "Writing Screenplays"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3903"
+          ],
+          "credits": 0.5,
+          "description": "Writing Fiction (Intermediate)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3906"
+          ],
+          "credits": 0.5,
+          "description": "Writing Popular Fiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3915"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3916"
+          ],
+          "credits": 0.5,
+          "description": "Spoken Word Poetry Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2011"
+          ],
+          "credits": 0.5,
+          "description": "Children's Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to the Novel"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2104"
+          ],
+          "credits": 0.5,
+          "description": "Drama Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2106"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Popular Fiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2107"
+          ],
+          "credits": 0.5,
+          "description": "Science Fiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2202"
+          ],
+          "credits": 0.5,
+          "description": "Weird Fiction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2600"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2601"
+          ],
+          "credits": 0.5,
+          "description": "History of World Cinema II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3007"
+          ],
+          "credits": 0.5,
+          "description": "Reading Poetry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3011"
+          ],
+          "credits": 0.5,
+          "description": "Comics and Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3601"
+          ],
+          "credits": 0.5,
+          "description": "20th- and 21st-Century Poetry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3904"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Drama Workshop"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3905"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Performance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4001"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Poetry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4003"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Novel"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4601"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Contemporary Poetry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4950"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Postcolonial and Diaspora Lit. and Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4135"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Publishing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4139"
+          ],
+          "credits": 0.5,
+          "description": "Editing a Literary Magazine"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4910"
+          ],
+          "credits": 0.5,
+          "description": "Independent Creative Writing Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4915"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Writing Workshop"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ENGL at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in ENGL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "English B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1004"
+          ],
+          "credits": 1.0,
+          "description": "Reading Literatures and Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1010"
+          ],
+          "credits": 0.5,
+          "description": "Writing Essays about Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1009"
+          ],
+          "credits": 0.5,
+          "description": "Literature in Global Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1100"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Law, and Criminality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1200"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Science, and Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1300"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Psychology, and the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1400"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Art, and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1600"
+          ],
+          "credits": 0.5,
+          "description": "Literature and Magic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and the Humanities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2802"
+          ],
+          "credits": 1.0,
+          "description": "Indigenous and Canadian Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3106"
+          ],
+          "credits": 1.0,
+          "description": "Theories and Critical Practices"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 500-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2302"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1500-1700"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3500"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1700-1900"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1900-Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2920"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3930"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3910"
+          ],
+          "credits": 0.5,
+          "description": "From English Degree to Career"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3911"
+          ],
+          "credits": 0.5,
+          "description": "Cultural Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4950"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Postcolonial and Diaspora Lit. and Theory"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in ENGL at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in ENGL at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for B.A. Combined Honours in the other discipline"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free elective credits to make up 20.0 credits total for the program."
+        }
+      ]
+    },
+    {
+      "degree": "English B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1004"
+          ],
+          "credits": 1.0,
+          "description": "Reading Literatures and Cultures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1010"
+          ],
+          "credits": 0.5,
+          "description": "Writing Essays about Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1009"
+          ],
+          "credits": 0.5,
+          "description": "Literature in Global Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1100"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Law, and Criminality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1200"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Science, and Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1300"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Psychology, and the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1400"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Art, and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1600"
+          ],
+          "credits": 0.5,
+          "description": "Literature and Magic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and the Humanities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2802"
+          ],
+          "credits": 1.0,
+          "description": "Indigenous and Canadian Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2301"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 500-1500"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2302"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1500-1700"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3500"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1700-1900"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Literatures and Cultures 1900-Now"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2920"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3930"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Decolonization and Migration II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3106"
+          ],
+          "credits": 1.0,
+          "description": "Theories and Critical Practices"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3910"
+          ],
+          "credits": 0.5,
+          "description": "From English Degree to Career"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3911"
+          ],
+          "credits": 0.5,
+          "description": "Cultural Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in ENGL at the 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits in electives not in ENGL"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in English Language and Literature (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1004"
+          ],
+          "credits": 1.0,
+          "description": "Reading Literatures and Cultures (recommended)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1010"
+          ],
+          "credits": 0.5,
+          "description": "Writing Essays about Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1009"
+          ],
+          "credits": 0.5,
+          "description": "Literature in Global Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1100"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Law, and Criminality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1200"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Science, and Technology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1300"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Psychology, and the Mind"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1400"
+          ],
+          "credits": 0.5,
+          "description": "Literature, Art, and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1600"
+          ],
+          "credits": 0.5,
+          "description": "Literature and Magic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Climate Change and the Humanities"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in ENGL at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in ENGL at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

@@ -280,5 +280,2131 @@
       "credits": "8.0",
       "text": "5.  8.0 credits in free electives 8.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Human Rights and Social Justice B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Rights & Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1102"
+          ],
+          "credits": 0.5,
+          "description": "Critical Issues in Social Justice Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2001"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights: Theories and Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in HRSJ at the 2000- and 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in HRSJ at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(i) Critical Principles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3003"
+          ],
+          "credits": 0.5,
+          "description": "African Social and Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4015"
+          ],
+          "credits": 0.5,
+          "description": "Land as a Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4102"
+          ],
+          "credits": 0.5,
+          "description": "Controversies in Rights Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Transitional Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2101"
+          ],
+          "credits": 0.5,
+          "description": "History of Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3207"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights Practice in Civil Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2800"
+          ],
+          "credits": 0.5,
+          "description": "Intersectional Identities"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(ii) Marginalized Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3005"
+          ],
+          "credits": 0.5,
+          "description": "African Migrations and Diasporas"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 4060"
+          ],
+          "credits": 0.5,
+          "description": "African Feminisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3002"
+          ],
+          "credits": 0.5,
+          "description": "Mad Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3060"
+          ],
+          "credits": 0.5,
+          "description": "Critical Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3102"
+          ],
+          "credits": 0.5,
+          "description": "Queer(ing) Archives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2180"
+          ],
+          "credits": 0.5,
+          "description": "Foundations in Community Engagement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3430"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Collective Action and Social Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4039"
+          ],
+          "credits": 0.5,
+          "description": "Women in Contemporary Middle East Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3104"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Sexualities"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(iii) Social and Economic Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3002"
+          ],
+          "credits": 0.5,
+          "description": "Regions in Africa: Cultures, Society, Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2023"
+          ],
+          "credits": 0.5,
+          "description": "Cities, Inequality and Urban Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3404"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3010"
+          ],
+          "credits": 0.5,
+          "description": "Power, Oppression and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3027"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3206"
+          ],
+          "credits": 0.5,
+          "description": "Community Development and Social Change in an International Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 11.0,
+          "description": "11.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Human Rights and Social Justice B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Rights & Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1102"
+          ],
+          "credits": 0.5,
+          "description": "Critical Issues in Social Justice Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2001"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights: Theories and Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in HRSJ at the 2000- and 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in HRSJ at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits total for the program"
+        }
+      ]
+    },
+    {
+      "degree": "Human Rights and Law with Concentration in Transnational Law and Human Rights B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Rights & Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1102"
+          ],
+          "credits": 0.5,
+          "description": "Critical Issues in Social Justice Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2001"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights: Theories and Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in HRSJ at the 2000- and 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in HRSJ at the 4000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits total for the program"
+        }
+      ]
+    },
+    {
+      "degree": "Human Rights and Social Justice B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Rights & Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1102"
+          ],
+          "credits": 0.5,
+          "description": "Critical Issues in Social Justice Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2001"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights: Theories and Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in HRSJ at the 2000- and 3000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(i) Critical Principles"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3003"
+          ],
+          "credits": 0.5,
+          "description": "African Social and Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4015"
+          ],
+          "credits": 0.5,
+          "description": "Land as a Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4102"
+          ],
+          "credits": 0.5,
+          "description": "Controversies in Rights Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Transitional Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2101"
+          ],
+          "credits": 0.5,
+          "description": "History of Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3207"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights Practice in Civil Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2800"
+          ],
+          "credits": 0.5,
+          "description": "Intersectional Identities"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(ii) Marginalized Communities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3005"
+          ],
+          "credits": 0.5,
+          "description": "African Migrations and Diasporas"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 4060"
+          ],
+          "credits": 0.5,
+          "description": "African Feminisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3002"
+          ],
+          "credits": 0.5,
+          "description": "Mad Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "DBST 3060"
+          ],
+          "credits": 0.5,
+          "description": "Critical Disability Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3021"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Culture and Identity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3102"
+          ],
+          "credits": 0.5,
+          "description": "Queer(ing) Archives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2180"
+          ],
+          "credits": 0.5,
+          "description": "Foundations in Community Engagement"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3430"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Collective Action and Social Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4039"
+          ],
+          "credits": 0.5,
+          "description": "Women in Contemporary Middle East Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3104"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Sexualities"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(iii) Social and Economic Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3002"
+          ],
+          "credits": 0.5,
+          "description": "Regions in Africa: Cultures, Society, Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3411"
+          ],
+          "credits": 0.5,
+          "description": "Media and Social Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 2023"
+          ],
+          "credits": 0.5,
+          "description": "Cities, Inequality and Urban Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3404"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of Economic Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3010"
+          ],
+          "credits": 0.5,
+          "description": "Power, Oppression and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3027"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3206"
+          ],
+          "credits": 0.5,
+          "description": "Community Development and Social Change in an International Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Human Rights and Social Justice (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1101"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Human Rights & Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 1102"
+          ],
+          "credits": 0.5,
+          "description": "Critical Issues in Social Justice Activism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2001"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights: Theories and Foundations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credit in HRSJ at the 2000-level or above"
+        }
+      ]
+    },
+    {
+      "degree": "Course Categories by Thematic Group",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Not all courses listed here are offered every year. Check Carleton Central to determine which courses are offered in a given term. Some of the Human Rights Electives have prerequisites that are not explicitly included in the program. Students should plan to have credit for the prerequisites of each course in their program or ask to have the prerequisite waived."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2105"
+          ],
+          "credits": 0.5,
+          "description": "Social Justice and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2502"
+          ],
+          "credits": 0.5,
+          "description": "Law, State and Citizen"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2601"
+          ],
+          "credits": 0.5,
+          "description": "Public International Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3401"
+          ],
+          "credits": 0.5,
+          "description": "Employment Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3509"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in The Charter of Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3602"
+          ],
+          "credits": 0.5,
+          "description": "International Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3604"
+          ],
+          "credits": 0.5,
+          "description": "International Organizations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4601"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Law and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4606"
+          ],
+          "credits": 0.5,
+          "description": "International Law of Armed Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Immigration and Refugee Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3600"
+          ],
+          "credits": 0.5,
+          "description": "International Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of the Canadian Charter of Rights and Freedoms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2202"
+          ],
+          "credits": 0.5,
+          "description": "Power Relations and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3202"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3503"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4201"
+          ],
+          "credits": 0.5,
+          "description": "Citizenship and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4405"
+          ],
+          "credits": 0.5,
+          "description": "Digital Dis-information and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2105"
+          ],
+          "credits": 0.5,
+          "description": "Social Justice and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Theories of Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4101"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Justice Theories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4102"
+          ],
+          "credits": 0.5,
+          "description": "Controversies in Rights Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4105"
+          ],
+          "credits": 0.5,
+          "description": "Global Justice Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2101"
+          ],
+          "credits": 0.5,
+          "description": "History of Ethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2103"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2306"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Feminism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2307"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2408"
+          ],
+          "credits": 0.5,
+          "description": "Bioethics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3320"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Ethical Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3330"
+          ],
+          "credits": 0.5,
+          "description": "Topics in History of Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 3340"
+          ],
+          "credits": 0.5,
+          "description": "Topics in Contemporary Social and Political Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3600"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Anthropology and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4020"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Indigeneity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2301"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3301"
+          ],
+          "credits": 0.5,
+          "description": "Structural Racism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3302"
+          ],
+          "credits": 0.5,
+          "description": "Culture, Religion, and Gender Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3303"
+          ],
+          "credits": 0.5,
+          "description": "Children's Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3304"
+          ],
+          "credits": 0.5,
+          "description": "Disability Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3504"
+          ],
+          "credits": 0.5,
+          "description": "Public Health and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3305"
+          ],
+          "credits": 0.5,
+          "description": "Anti-Black Racism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4302"
+          ],
+          "credits": 0.5,
+          "description": "Transgender Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4305"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4401"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Citizenship and Social Justice in a Transnational World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4504"
+          ],
+          "credits": 0.5,
+          "description": "Black Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4602"
+          ],
+          "credits": 0.5,
+          "description": "Is Religious Freedom a Human Right?"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3503"
+          ],
+          "credits": 0.5,
+          "description": "Equality and Discrimination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3504"
+          ],
+          "credits": 0.5,
+          "description": "Law and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Law, Family and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4002"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Theories of Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3805"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Race"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4403"
+          ],
+          "credits": 0.5,
+          "description": "Reproductive Rights Policy in North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4605"
+          ],
+          "credits": 0.5,
+          "description": "Gender in International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2045"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3019"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of International Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4020"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4039"
+          ],
+          "credits": 0.5,
+          "description": "Women in Contemporary Middle East Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4040"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Sociology of Intersectionality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 4300"
+          ],
+          "credits": 0.5,
+          "description": "Social Work and Persons with Disabilities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4101"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Studies of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2800"
+          ],
+          "credits": 0.5,
+          "description": "Intersectional Identities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2803"
+          ],
+          "credits": 0.5,
+          "description": "Body Matters: The Politics of Bodies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3803"
+          ],
+          "credits": 0.5,
+          "description": "Feminisms and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Gendered Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3714"
+          ],
+          "credits": 0.5,
+          "description": "The Holocaust: Historical and Religious Dimensions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2401"
+          ],
+          "credits": 0.5,
+          "description": "Political Repression"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3401"
+          ],
+          "credits": 0.5,
+          "description": "Histories of Persecution and Genocide"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4404"
+          ],
+          "credits": 0.5,
+          "description": "Rights of Refugees and Displaced Persons"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4409"
+          ],
+          "credits": 0.5,
+          "description": "Counter-terrorism and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4106"
+          ],
+          "credits": 0.5,
+          "description": "Law and Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4304"
+          ],
+          "credits": 0.5,
+          "description": "Policing and Social Surveillance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4309"
+          ],
+          "credits": 0.5,
+          "description": "State Security and Dissent"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4601"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Law and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4603"
+          ],
+          "credits": 0.5,
+          "description": "Transitional Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4606"
+          ],
+          "credits": 0.5,
+          "description": "International Law of Armed Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4607"
+          ],
+          "credits": 0.5,
+          "description": "Immigration and Refugee Law"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3107"
+          ],
+          "credits": 0.5,
+          "description": "The Causes of War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3702"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Israel/Palestine"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4807"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Citizenship and Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4817"
+          ],
+          "credits": 0.5,
+          "description": "International Politics of Forced Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3140"
+          ],
+          "credits": 0.5,
+          "description": "The Holocaust: Historical and Religious Dimensions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2160"
+          ],
+          "credits": 0.5,
+          "description": "War and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3160"
+          ],
+          "credits": 0.5,
+          "description": "Political Violence"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4160"
+          ],
+          "credits": 0.5,
+          "description": "War, Terrorism and State Terrorism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2102"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality, Gender, and Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2850"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3027"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4750"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Studies in Globalization and Citizenship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 2502"
+          ],
+          "credits": 0.5,
+          "description": "Social and Political Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3002"
+          ],
+          "credits": 0.5,
+          "description": "Right to the City"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3501"
+          ],
+          "credits": 0.5,
+          "description": "Social, Economic and Cultural Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3503"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3504"
+          ],
+          "credits": 0.5,
+          "description": "Public Health and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4502"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Knowledges and Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4505"
+          ],
+          "credits": 0.5,
+          "description": "Precarity in Labour and Work"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Law, Family and Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3100"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Development in the Global South - Theory and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Development in the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2010"
+          ],
+          "credits": 0.5,
+          "description": "Critical Approaches to Economic Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2040"
+          ],
+          "credits": 0.5,
+          "description": "Food, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2050"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3010"
+          ],
+          "credits": 0.5,
+          "description": "Power, Oppression and Resistance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3027"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3040"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Gender"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3044"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Sex and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3050"
+          ],
+          "credits": 0.5,
+          "description": "Studies in the Sociology of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3056"
+          ],
+          "credits": 0.5,
+          "description": "Women and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3430"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Collective Action and Social Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4040"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Sociology of Intersectionality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3206"
+          ],
+          "credits": 0.5,
+          "description": "Community Development and Social Change in an International Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOWK 3207"
+          ],
+          "credits": 0.5,
+          "description": "Human Rights Practice in Civil Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2800"
+          ],
+          "credits": 0.5,
+          "description": "Intersectional Identities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2801"
+          ],
+          "credits": 0.5,
+          "description": "Activism, Feminisms, and Social Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "HRSJ 3001"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Human Rights and Social Justice"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "HRSJ 4905"
+          ],
+          "credits": 0.5,
+          "description": "Practicum Placement in Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "HRSJ 4907"
+          ],
+          "credits": 0.5,
+          "description": "Special Topic in Human Rights"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "HRSJ 4908"
+          ],
+          "credits": 0.5,
+          "description": "Independent Study"
+        }
+      ]
+    }
   ]
 }

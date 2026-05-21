@@ -211,5 +211,1796 @@
       "credits": "8.0",
       "text": "6.  8.0 credits in free electives 8.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Indigenous Studies B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in INDG at the 1000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1000"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "OR"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "OR"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1900"
+          ],
+          "credits": 1.0,
+          "description": "Selected Topics In the Study of Academic Discourses"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 2000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2012"
+          ],
+          "credits": 0.5,
+          "description": "Anishinaabe Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Haudenosaunee Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2014"
+          ],
+          "credits": 0.5,
+          "description": "Inuit Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2016"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Resistance in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2017"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2302"
+          ],
+          "credits": 0.5,
+          "description": "Land, Water, Capitalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2709"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Drama"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 3000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3012"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Futurity Praxis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3018"
+          ],
+          "credits": 0.5,
+          "description": "Metis Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Urbanisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4005"
+          ],
+          "credits": 0.5,
+          "description": "Visual Storytelling in Indigenous Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4011"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4012"
+          ],
+          "credits": 0.5,
+          "description": "Resistance and Healing in Contemporary Indigenous Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4015"
+          ],
+          "credits": 0.5,
+          "description": "Land as a Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4020"
+          ],
+          "credits": 0.5,
+          "description": "Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4905"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from the list of Approved Indigenous Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit at the 4000-level from the list of Approved Indigenous Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 11.0,
+          "description": "11.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Indigenous Studies B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in INDG at the 1000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1000"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010",
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1900"
+          ],
+          "credits": 1.0,
+          "description": "Selected Topics In the Study of Academic Discourses"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 2000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2012"
+          ],
+          "credits": 0.5,
+          "description": "Anishinaabe Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Haudenosaunee Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2014"
+          ],
+          "credits": 0.5,
+          "description": "Inuit Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2016"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Resistance in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2017"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2302"
+          ],
+          "credits": 0.5,
+          "description": "Land, Water, Capitalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2709"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Drama"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 3000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3012"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Futurity Praxis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3018"
+          ],
+          "credits": 0.5,
+          "description": "Metis Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 4000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Urbanisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4005"
+          ],
+          "credits": 0.5,
+          "description": "Visual Storytelling in Indigenous Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4011"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4012"
+          ],
+          "credits": 0.5,
+          "description": "Resistance and Healing in Contemporary Indigenous Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4015"
+          ],
+          "credits": 0.5,
+          "description": "Land as a Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4020"
+          ],
+          "credits": 0.5,
+          "description": "Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4905"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from the list of Approved INDG electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit at the 4000-level from the list of Approved INDG electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements for Combined Honours in the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to achieve a total of 20.0 credits for the program"
+        }
+      ]
+    },
+    {
+      "degree": "Indigenous Studies B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in INDG at the 1000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1000"
+          ],
+          "credits": 1.0,
+          "description": "Introduction to Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010",
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1900"
+          ],
+          "credits": 1.0,
+          "description": "Selected Topics In the Study of Academic Discourses"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in INDG at the 2000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2014"
+          ],
+          "credits": 0.5,
+          "description": "Inuit Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2012"
+          ],
+          "credits": 0.5,
+          "description": "Anishinaabe Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Haudenosaunee Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2016"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Resistance in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2017"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2302"
+          ],
+          "credits": 0.5,
+          "description": "Land, Water, Capitalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2709"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Drama"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in INDG at the 3000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3012"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Futurity Praxis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3018"
+          ],
+          "credits": 0.5,
+          "description": "Metis Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits from the list of Approved Indigenous Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit at the 3000-level from the list of Approved Indigenous Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Indigenous Studies (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2012"
+          ],
+          "credits": 0.5,
+          "description": "Anishinaabe Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2013"
+          ],
+          "credits": 0.5,
+          "description": "Haudenosaunee Ontologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Relationalities, Kinships, and Knowledges"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2020"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Sovereignties"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3015"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Cosmologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 3901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Indigenous Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4001"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Urbanisms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4011"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Representations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4015"
+          ],
+          "credits": 0.5,
+          "description": "Land as a Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4020"
+          ],
+          "credits": 0.5,
+          "description": "Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 4905"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies I"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit from the list of approved Indigenous Studies Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Indigenous Studies Electives",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to African Studies I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to African Studies II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3001"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Popular Culture in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3005"
+          ],
+          "credits": 0.5,
+          "description": "African Migrations and Diasporas"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 3100"
+          ],
+          "credits": 0.5,
+          "description": "African Studies Abroad: Selected Topics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 4000"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Topics in African Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "AFRI 4050"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in African Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2610"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Indigenous Peoples of North America: Current Issues in Anthropological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2620"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of sub-Saharan Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2630"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Asian Societies: Current Issues in Anthropological Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2640"
+          ],
+          "credits": 0.5,
+          "description": "Latin America and the Caribbean through Ethnography"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 2660"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography of North Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3570"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Art, Culture and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 3600"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Anthropology and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4610"
+          ],
+          "credits": 0.5,
+          "description": "Anthropology of Indigeneity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4620"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Ethnography of Contemporary Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ANTH 4730"
+          ],
+          "credits": 0.5,
+          "description": "Colonialism and Post-Colonialism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ARTH 4005"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Contemporary Indigenous Art"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4800"
+          ],
+          "credits": 1.0,
+          "description": "Internship Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4801"
+          ],
+          "credits": 0.5,
+          "description": "Internship/Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4802"
+          ],
+          "credits": 0.5,
+          "description": "Internship/Practicum"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Canadian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in Canadian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4903"
+          ],
+          "credits": 0.5,
+          "description": "\u00c9tudes dirig\u00e9es I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4904"
+          ],
+          "credits": 0.5,
+          "description": "\u00c9tudes dirig\u00e9es II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4905"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4906"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CDNS 4907"
+          ],
+          "credits": 1.0,
+          "description": "Directed Studies III"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(Provided they have Indigenous content)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRCJ 3200"
+          ],
+          "credits": 0.5,
+          "description": "Indigeneity, Coloniality, and Crime"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3002"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Child Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHST 3305"
+          ],
+          "credits": 0.5,
+          "description": "Childhood and Youth in Indigenous Contexts"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CRST 4001"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Critical Race Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2709"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Drama"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2802"
+          ],
+          "credits": 1.0,
+          "description": "Indigenous and Canadian Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2926"
+          ],
+          "credits": 0.5,
+          "description": "African Literatures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2927"
+          ],
+          "credits": 0.5,
+          "description": "African Literatures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2936"
+          ],
+          "credits": 0.5,
+          "description": "South Asian Literatures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2937"
+          ],
+          "credits": 0.5,
+          "description": "South Asian Literatures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2956"
+          ],
+          "credits": 0.5,
+          "description": "Literatures of the Americas I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 2957"
+          ],
+          "credits": 0.5,
+          "description": "Literatures of the Americas II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3960"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Indigenous Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3965"
+          ],
+          "credits": 0.5,
+          "description": "Intro to Postcolonial Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 3972"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Postcolonial Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4802"
+          ],
+          "credits": 0.5,
+          "description": "Race, Ethnicity and Canadian Lit."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4960"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Literatures I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4961"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Literatures II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4975"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Postcolonial Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ENGL 4976"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Postcolonial Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1900"
+          ],
+          "credits": 1.0,
+          "description": "Selected Topics In the Study of Academic Discourses (specifically the section on Aboriginal Topics)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3209"
+          ],
+          "credits": 0.5,
+          "description": "Sustainability and Environment in the South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3501"
+          ],
+          "credits": 0.5,
+          "description": "Geographies of the Canadian North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2308"
+          ],
+          "credits": 0.5,
+          "description": "Colonial Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2706"
+          ],
+          "credits": 0.5,
+          "description": "Ancient and Pre-Colonial Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2707"
+          ],
+          "credits": 0.5,
+          "description": "Modern Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2710"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3505"
+          ],
+          "credits": 0.5,
+          "description": "Women in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3510"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Peoples of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3511"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Indigenous History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3704"
+          ],
+          "credits": 0.5,
+          "description": "Aztecs"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3710"
+          ],
+          "credits": 0.5,
+          "description": "Themes in Caribbean History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3712"
+          ],
+          "credits": 0.5,
+          "description": "Mexico: Aztecs to Narcos"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3713"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3715"
+          ],
+          "credits": 0.5,
+          "description": "Themes in South Asian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 3717"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Sexuality in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3304"
+          ],
+          "credits": 0.5,
+          "description": "Disability Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 3503"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4302"
+          ],
+          "credits": 0.5,
+          "description": "Transgender Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4305"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4401"
+          ],
+          "credits": 0.5,
+          "description": "Gender, Citizenship and Social Justice in a Transnational World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HRSJ 4502"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Knowledges and Movements"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LACS 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Latin American and Caribbean Studies I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LACS 4001"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Latin American and Caribbean Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2201"
+          ],
+          "credits": 0.5,
+          "description": "Persons and Property"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2202"
+          ],
+          "credits": 0.5,
+          "description": "Obligations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2501"
+          ],
+          "credits": 0.5,
+          "description": "Law, State and Constitution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 2502"
+          ],
+          "credits": 0.5,
+          "description": "Law, State and Citizen"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 3504"
+          ],
+          "credits": 0.5,
+          "description": "Law and Indigenous Peoples"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4504"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Criminal Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LAWS 4800"
+          ],
+          "credits": 0.5,
+          "description": "Environment and Social Justice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LANG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to a Language I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "LANG 1020"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to a Language II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(When the language offered is an Indigenous language of Canada)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 3106"
+          ],
+          "credits": 0.5,
+          "description": "Global Popular Music"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Issues in Indigenous Music Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MUSI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Issues in African Music Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3101"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Security in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3203"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics in the Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Mexican Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3310"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3700"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics of South Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of the Canadian Charter of Rights and Freedoms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4203"
+          ],
+          "credits": 0.5,
+          "description": "Southern Africa After Apartheid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4207"
+          ],
+          "credits": 0.5,
+          "description": "Globalization, Adjustment and Democracy in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2720"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Religions of Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Traditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 2101"
+          ],
+          "credits": 0.5,
+          "description": "Sexuality Studies: A Critical Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 3104"
+          ],
+          "credits": 0.5,
+          "description": "Transnational Sexualities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4101"
+          ],
+          "credits": 0.5,
+          "description": "Interdisciplinary Studies of Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SXST 4105"
+          ],
+          "credits": 0.5,
+          "description": "Queer Ecologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2020"
+          ],
+          "credits": 0.5,
+          "description": "Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 2080"
+          ],
+          "credits": 0.5,
+          "description": "Humans/Animals: the More-than-Human in Social Research"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3019"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of International Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3020"
+          ],
+          "credits": 0.5,
+          "description": "Studies in Race and Ethnicity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "SOCI 3044"
+          ],
+          "credits": 0.5,
+          "description": "Sociology of Sex and Sexuality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2800"
+          ],
+          "credits": 0.5,
+          "description": "Intersectional Identities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 2803"
+          ],
+          "credits": 0.5,
+          "description": "Body Matters: The Politics of Bodies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3803"
+          ],
+          "credits": 0.5,
+          "description": "Feminisms and Transnationalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "WGST 3807"
+          ],
+          "credits": 0.5,
+          "description": "Gendered Violence"
+        }
+      ]
+    }
   ]
 }

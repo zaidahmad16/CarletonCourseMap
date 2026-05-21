@@ -1028,5 +1028,3894 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in: Free Electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Course Categories",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Politics and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2003"
+          ],
+          "credits": 0.5,
+          "description": "Institutions and Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3004"
+          ],
+          "credits": 0.5,
+          "description": "Political Parties and Elections in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ontario Government and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3006"
+          ],
+          "credits": 0.5,
+          "description": "Social Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3007"
+          ],
+          "credits": 0.5,
+          "description": "Constitutional Politics in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs and Media Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3606"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3607"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Defence Policy at Home and Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Politics and the Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4005"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Federalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4006"
+          ],
+          "credits": 0.5,
+          "description": "Legislatures and Representation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4008"
+          ],
+          "credits": 0.5,
+          "description": "National Security and Intelligence in the Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4009"
+          ],
+          "credits": 0.5,
+          "description": "Quebec Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4010"
+          ],
+          "credits": 0.5,
+          "description": "Executive Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4107"
+          ],
+          "credits": 0.5,
+          "description": "Political Participation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of the Canadian Charter of Rights and Freedoms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to U.S. Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3100"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3101"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Security in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3103"
+          ],
+          "credits": 0.5,
+          "description": "State, Society and Economy in Northeast Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3107"
+          ],
+          "credits": 0.5,
+          "description": "The Causes of War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3108"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3200"
+          ],
+          "credits": 0.5,
+          "description": "U.S. Constitutional Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3203"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics in the Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Mexican Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3206"
+          ],
+          "credits": 0.5,
+          "description": "European Democracies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3208"
+          ],
+          "credits": 0.5,
+          "description": "Politics in Russia and Ukraine: Power and Contestation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Reconstruction and Transformation in Europe and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3405"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Public Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs and Media Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3407"
+          ],
+          "credits": 0.5,
+          "description": "Public Opinion and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3600"
+          ],
+          "credits": 0.5,
+          "description": "International Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3601"
+          ],
+          "credits": 0.5,
+          "description": "Theories of International Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3603"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Thought and International Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3606"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3607"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Defence Policy at Home and Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3700"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics of South Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3702"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Israel/Palestine"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3703"
+          ],
+          "credits": 0.5,
+          "description": "Governing in the Global Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3805"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Race"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Politics and the Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4005"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Federalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4008"
+          ],
+          "credits": 0.5,
+          "description": "National Security and Intelligence in the Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4103"
+          ],
+          "credits": 0.5,
+          "description": "The Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Development in the Global South - Theory and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Development in the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4203"
+          ],
+          "credits": 0.5,
+          "description": "Southern Africa After Apartheid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4204"
+          ],
+          "credits": 0.5,
+          "description": "Fighting for Votes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4207"
+          ],
+          "credits": 0.5,
+          "description": "Globalization, Adjustment and Democracy in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4209"
+          ],
+          "credits": 0.5,
+          "description": "Westminster Democracies: Parliaments, Parties and Elections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4303"
+          ],
+          "credits": 0.5,
+          "description": "Genealogies of Politics and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4400"
+          ],
+          "credits": 0.5,
+          "description": "Socio-Technical Change and Public Policy Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4403"
+          ],
+          "credits": 0.5,
+          "description": "Reproductive Rights Policy in North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4501"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Identity in Europe and the Russian Area"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Post-Soviet States and Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4503"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Central Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4504"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the Caucasus and Caspian Basin"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4505"
+          ],
+          "credits": 0.5,
+          "description": "Transitions to Democracy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4506"
+          ],
+          "credits": 0.5,
+          "description": "Women, Power and Political Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4601"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Soviet Successor States"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4603"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of International Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4604"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in International Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4605"
+          ],
+          "credits": 0.5,
+          "description": "Gender in International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4606"
+          ],
+          "credits": 0.5,
+          "description": "American Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Politics of North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4608"
+          ],
+          "credits": 0.5,
+          "description": "European Integration and European Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4609"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in European Integration Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4800"
+          ],
+          "credits": 0.5,
+          "description": "Advanced International Relations Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4801"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4803"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Major East Asian Powers"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4805"
+          ],
+          "credits": 0.5,
+          "description": "Global Money Rules"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4806"
+          ],
+          "credits": 0.5,
+          "description": "NATO and World Order"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4807"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Citizenship and Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4808"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4817"
+          ],
+          "credits": 0.5,
+          "description": "International Politics of Forced Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4819"
+          ],
+          "credits": 0.5,
+          "description": "Latin America and the World"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PSCI 4003",
+            "PSCI 4908"
+          ],
+          "credits": null,
+          "description": "All courses in the range PSCI 4003 [0.5] to PSCI 4908 [1.0]"
+        }
+      ]
+    },
+    {
+      "degree": "Political Science B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1100",
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Democracy in Theory and Practice Politics in the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1611"
+          ],
+          "credits": 0.5,
+          "description": "One-Term Seminar in Political Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "PSCI at the 1000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2301"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2302"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2701"
+          ],
+          "credits": 0.5,
+          "description": "How to Do Research in Political Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "And an additional 0.5 credit in PSCI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in Canadian Politics and Public Policy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in International Relations and World Politics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in 4000-level PSCI seminars"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PSCI 4908"
+          ],
+          "credits": 1.0,
+          "description": "PSCI 4908 Honours Research Essay (with a grade of B- or better) [1.0] and 1.0 credit in 4000-level PSCI seminars"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "IPAF 4900"
+          ],
+          "credits": 2.0,
+          "description": "2.0 credits in PSCI at the 3000-level or above or in IPAF 4900 (with permission of the department)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in PSCI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Departmental language requirement must be met"
+        }
+      ]
+    },
+    {
+      "degree": "Political Science B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1100",
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Democracy in Theory and Practice Politics in the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1611"
+          ],
+          "credits": 0.5,
+          "description": "One-Term Seminar in Political Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "PSCI at the 1000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2301"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2302"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2701"
+          ],
+          "credits": 0.5,
+          "description": "How to Do Research in Political Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in courses in Canadian Politics and Policy /or International Relations and World Politics, of which at least 1.0 credit is at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in 4000-level PSCI seminars"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "PSCI 4908"
+          ],
+          "credits": 1.0,
+          "description": "PSCI 4908 Honours Research Essay [1.0] and 1.0 credit in 4000-level PSCI seminars"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements as stated for Combined Honours in the other discipline must be met"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives credits to make a total of 20.0 credits for the program"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "Departmental language requirement must be met"
+        }
+      ]
+    },
+    {
+      "degree": "Political Science B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1100",
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Democracy in Theory and Practice Politics in the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FYSM 1611"
+          ],
+          "credits": 0.5,
+          "description": "One-Term Seminar in Political Science"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "PSCI at the 1000-level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2301",
+            "PSCI 2302"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought I History of Political Thought II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2701",
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "How to Do Research in Political Science A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "2.5 credits in PSCI at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in PSCI at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in PSCI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.0,
+          "description": "2.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Canadian Politics and Public Policy (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2002",
+            "PSCI 2003"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Politics and Society Institutions and Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3004"
+          ],
+          "credits": 0.5,
+          "description": "Political Parties and Elections in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3005"
+          ],
+          "credits": 0.5,
+          "description": "Ontario Government and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3006"
+          ],
+          "credits": 0.5,
+          "description": "Social Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3007"
+          ],
+          "credits": 0.5,
+          "description": "Constitutional Politics in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3013"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Politics of Turtle Island"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3402"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs and Media Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3407"
+          ],
+          "credits": 0.5,
+          "description": "Public Opinion and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3410"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Political Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3411"
+          ],
+          "credits": 0.5,
+          "description": "Data Analysis for Governance: Formal Approaches and Practical Realities"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3606"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3607"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Defence Policy at Home and Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Politics and the Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4005"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Federalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4006"
+          ],
+          "credits": 0.5,
+          "description": "Legislatures and Representation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4008"
+          ],
+          "credits": 0.5,
+          "description": "National Security and Intelligence in the Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4009"
+          ],
+          "credits": 0.5,
+          "description": "Quebec Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4010"
+          ],
+          "credits": 0.5,
+          "description": "Executive Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4107"
+          ],
+          "credits": 0.5,
+          "description": "Political Participation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of the Canadian Charter of Rights and Freedoms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4204"
+          ],
+          "credits": 0.5,
+          "description": "Fighting for Votes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4209"
+          ],
+          "credits": 0.5,
+          "description": "Westminster Democracies: Parliaments, Parties and Elections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4400"
+          ],
+          "credits": 0.5,
+          "description": "Socio-Technical Change and Public Policy Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4403"
+          ],
+          "credits": 0.5,
+          "description": "Reproductive Rights Policy in North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4404"
+          ],
+          "credits": 0.5,
+          "description": "The Design and Evolution of Public Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4407"
+          ],
+          "credits": 0.5,
+          "description": "Public Policy: Content and Creation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4408"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs Management and Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4506"
+          ],
+          "credits": 0.5,
+          "description": "Women, Power and Political Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Politics of North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4701"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Polimetrics for Micro Data"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4702"
+          ],
+          "credits": 0.5,
+          "description": "Intermediate Research Methods for Applied Political Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours  Research Essay (with Departmental approval, for qualified Honours students on an accepted Canadian Politics theme)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "French must be used to satisfy the Departmental language requirement."
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in International Relations and World Politics (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to U.S. Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3100"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3101"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Security in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3103"
+          ],
+          "credits": 0.5,
+          "description": "State, Society and Economy in Northeast Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3107"
+          ],
+          "credits": 0.5,
+          "description": "The Causes of War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3110"
+          ],
+          "credits": 0.5,
+          "description": "China in the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3200"
+          ],
+          "credits": 0.5,
+          "description": "U.S. Constitutional Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3203"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics in the Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Mexican Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3206"
+          ],
+          "credits": 0.5,
+          "description": "European Democracies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3208"
+          ],
+          "credits": 0.5,
+          "description": "Politics in Russia and Ukraine: Power and Contestation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Reconstruction and Transformation in Europe and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3210"
+          ],
+          "credits": 0.5,
+          "description": "Electoral Politics in the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3310"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3405"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Public Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs and Media Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3407"
+          ],
+          "credits": 0.5,
+          "description": "Public Opinion and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3600"
+          ],
+          "credits": 0.5,
+          "description": "International Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3601"
+          ],
+          "credits": 0.5,
+          "description": "Theories of International Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3603"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Thought and International Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3606"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3607"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Defence Policy at Home and Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3608"
+          ],
+          "credits": 0.5,
+          "description": "Migration Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3609"
+          ],
+          "credits": 0.5,
+          "description": "Global Politics of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3700"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics of South Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3702"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Israel/Palestine"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3703"
+          ],
+          "credits": 0.5,
+          "description": "Governing in the Global Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3805"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Race"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4003"
+          ],
+          "credits": 0.5,
+          "description": "Politics and the Media"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4103"
+          ],
+          "credits": 0.5,
+          "description": "The Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Development in the Global South - Theory and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Development in the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4203"
+          ],
+          "credits": 0.5,
+          "description": "Southern Africa After Apartheid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4204"
+          ],
+          "credits": 0.5,
+          "description": "Fighting for Votes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4207"
+          ],
+          "credits": 0.5,
+          "description": "Globalization, Adjustment and Democracy in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4209"
+          ],
+          "credits": 0.5,
+          "description": "Westminster Democracies: Parliaments, Parties and Elections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4302"
+          ],
+          "credits": 0.5,
+          "description": "Political Thought in the Modern Muslim Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4303"
+          ],
+          "credits": 0.5,
+          "description": "Genealogies of Politics and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Post-Soviet States and Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4503"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Central Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4504"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the Caucasus and Caspian Basin"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4505"
+          ],
+          "credits": 0.5,
+          "description": "Transitions to Democracy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4507"
+          ],
+          "credits": 0.5,
+          "description": "The Balkans since 1989"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4601"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Soviet Successor States"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4603"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of International Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4604"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in International Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4605"
+          ],
+          "credits": 0.5,
+          "description": "Gender in International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4606"
+          ],
+          "credits": 0.5,
+          "description": "American Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Politics of North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4608"
+          ],
+          "credits": 0.5,
+          "description": "European Integration and European Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4609"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in European Integration Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4610"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Migration Management"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4800"
+          ],
+          "credits": 0.5,
+          "description": "Advanced International Relations Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4801"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4803"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Major East Asian Powers"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4805"
+          ],
+          "credits": 0.5,
+          "description": "Global Money Rules"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4806"
+          ],
+          "credits": 0.5,
+          "description": "NATO and World Order"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4807"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Citizenship and Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4808"
+          ],
+          "credits": 0.5,
+          "description": "Global Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4817"
+          ],
+          "credits": 0.5,
+          "description": "International Politics of Forced Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4819"
+          ],
+          "credits": 0.5,
+          "description": "Latin America and the World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours  Research Essay (with Departmental approval, for qualified Honours students on an accepted International Relations theme)"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Power and Political Ideas (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2301"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2302"
+          ],
+          "credits": 0.5,
+          "description": "History of Political Thought II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3006"
+          ],
+          "credits": 0.5,
+          "description": "Social Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3108"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3300"
+          ],
+          "credits": 0.5,
+          "description": "Politics and Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3303"
+          ],
+          "credits": 0.5,
+          "description": "Feminist Political Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Ideologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3310"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3311"
+          ],
+          "credits": 0.5,
+          "description": "History of Muslim Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3312"
+          ],
+          "credits": 0.5,
+          "description": "Enlightenment Political Thought"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3805"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Race"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4006"
+          ],
+          "credits": 0.5,
+          "description": "Legislatures and Representation in Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of the Canadian Charter of Rights and Freedoms"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4210"
+          ],
+          "credits": 0.5,
+          "description": "Political Identity through Graphic Novels"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4302"
+          ],
+          "credits": 0.5,
+          "description": "Political Thought in the Modern Muslim Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4303"
+          ],
+          "credits": 0.5,
+          "description": "Genealogies of Politics and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4311"
+          ],
+          "credits": 0.5,
+          "description": "Political Theories of Democracy and Empire"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4315"
+          ],
+          "credits": 0.5,
+          "description": "Politics and the Study of History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4316"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Political Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4318"
+          ],
+          "credits": 0.5,
+          "description": "Concepts of Political Community I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4319"
+          ],
+          "credits": 0.5,
+          "description": "Concepts of Political Community II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4403"
+          ],
+          "credits": 0.5,
+          "description": "Reproductive Rights Policy in North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4501"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Identity in Europe and the Russian Area"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4506"
+          ],
+          "credits": 0.5,
+          "description": "Women, Power and Political Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4605"
+          ],
+          "credits": 0.5,
+          "description": "Gender in International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4800"
+          ],
+          "credits": 0.5,
+          "description": "Advanced International Relations Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4807"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Citizenship and Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours  Research Essay"
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Global Politics B.G.In.S. Honours (20.0 Credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.0,
+          "description": "0.0 credit in: International Experience Requirement Preparation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: the Specialization"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "a. 0.5 credits in: Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Politics in the World"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "b. 0.5 credit in: Comparative Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "c. 0.5 Credit in: International Relation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in Political Science at the 2000 level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Politics and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2003"
+          ],
+          "credits": 0.5,
+          "description": "Institutions and Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to U.S. Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "e.  1.0 credit in: Research Methodologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2701"
+          ],
+          "credits": 0.5,
+          "description": "How to Do Research in Political Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "f. 2.5 credits from: Global Politics Electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3100"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3101"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Security in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3103"
+          ],
+          "credits": 0.5,
+          "description": "State, Society and Economy in Northeast Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3107"
+          ],
+          "credits": 0.5,
+          "description": "The Causes of War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3108"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3200"
+          ],
+          "credits": 0.5,
+          "description": "U.S. Constitutional Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3203"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics in the Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Mexican Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3206"
+          ],
+          "credits": 0.5,
+          "description": "European Democracies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3208"
+          ],
+          "credits": 0.5,
+          "description": "Politics in Russia and Ukraine: Power and Contestation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Reconstruction and Transformation in Europe and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3210"
+          ],
+          "credits": 0.5,
+          "description": "Electoral Politics in the U.S."
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3309"
+          ],
+          "credits": 0.5,
+          "description": "Modern Ideologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3310"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3405"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Public Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs and Media Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3407"
+          ],
+          "credits": 0.5,
+          "description": "Public Opinion and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3600"
+          ],
+          "credits": 0.5,
+          "description": "International Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3601"
+          ],
+          "credits": 0.5,
+          "description": "Theories of International Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3603"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Thought and International Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3606"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3607"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Defence Policy at Home and Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3608"
+          ],
+          "credits": 0.5,
+          "description": "Migration Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3609"
+          ],
+          "credits": 0.5,
+          "description": "Global Politics of Food"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3700"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics of South Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3702"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Israel/Palestine"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3703"
+          ],
+          "credits": 0.5,
+          "description": "Governing in the Global Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3805"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Race"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3908"
+          ],
+          "credits": 0.5,
+          "description": "Summer Field Research Course"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "g. 0.5 credits from: Capstone Seminar"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4699"
+          ],
+          "credits": 0.5,
+          "description": "Capstone Seminar in Global Politics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "h. 1.5 credits from 4th Year Seminars and Honours Research Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4002"
+          ],
+          "credits": 0.5,
+          "description": "Post-Soviet States and Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4008"
+          ],
+          "credits": 0.5,
+          "description": "Nationalism in Russia and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4100"
+          ],
+          "credits": 0.5,
+          "description": "Nation-Building in Central and Eastern Europe"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4101"
+          ],
+          "credits": 0.5,
+          "description": "The Balkans in Transition \u2013 1918 to 1989"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4104"
+          ],
+          "credits": 0.5,
+          "description": "European Integration and European Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4106"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in European Integration Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4107"
+          ],
+          "credits": 0.5,
+          "description": "Russia\u2019s Regional and Global Ambitions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4201"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in European Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4202"
+          ],
+          "credits": 0.5,
+          "description": "Special Topics in Russian and Eurasian Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4204"
+          ],
+          "credits": 0.5,
+          "description": "Central Europe, Past and Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Contemporary Europe: From Postwar to the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Europe and International Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4305"
+          ],
+          "credits": 0.5,
+          "description": "Imperial Russia and the Russian Revolution"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "EURR 4306"
+          ],
+          "credits": 0.5,
+          "description": "The Soviet Union: Power and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4908"
+          ],
+          "credits": 1.0,
+          "description": "Honours Research Essay"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4008"
+          ],
+          "credits": 0.5,
+          "description": "National Security and Intelligence in the Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4103"
+          ],
+          "credits": 0.5,
+          "description": "The Modern State"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4104"
+          ],
+          "credits": 0.5,
+          "description": "Development in the Global South - Theory and Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4105"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Development in the Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4203"
+          ],
+          "credits": 0.5,
+          "description": "Southern Africa After Apartheid"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4204"
+          ],
+          "credits": 0.5,
+          "description": "Fighting for Votes"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4206"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Activism on Turtle Island: Take that, colonialism!"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4207"
+          ],
+          "credits": 0.5,
+          "description": "Globalization, Adjustment and Democracy in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4209"
+          ],
+          "credits": 0.5,
+          "description": "Westminster Democracies: Parliaments, Parties and Elections"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4303"
+          ],
+          "credits": 0.5,
+          "description": "Genealogies of Politics and Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4400"
+          ],
+          "credits": 0.5,
+          "description": "Socio-Technical Change and Public Policy Design"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4403"
+          ],
+          "credits": 0.5,
+          "description": "Reproductive Rights Policy in North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4407"
+          ],
+          "credits": 0.5,
+          "description": "Public Policy: Content and Creation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4501"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Identity in Europe and the Russian Area"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4502"
+          ],
+          "credits": 0.5,
+          "description": "Post-Soviet States and Societies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4503"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Central Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4504"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the Caucasus and Caspian Basin"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4505"
+          ],
+          "credits": 0.5,
+          "description": "Transitions to Democracy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4506"
+          ],
+          "credits": 0.5,
+          "description": "Women, Power and Political Representation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4601"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Soviet Successor States"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4603"
+          ],
+          "credits": 0.5,
+          "description": "Analysis of International Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4604"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in International Political Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4605"
+          ],
+          "credits": 0.5,
+          "description": "Gender in International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4606"
+          ],
+          "credits": 0.5,
+          "description": "American Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4607"
+          ],
+          "credits": 0.5,
+          "description": "Politics of North America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4608"
+          ],
+          "credits": 0.5,
+          "description": "European Integration and European Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4609"
+          ],
+          "credits": 0.5,
+          "description": "Selected Topics in European Integration Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4800"
+          ],
+          "credits": 0.5,
+          "description": "Advanced International Relations Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4801"
+          ],
+          "credits": 0.5,
+          "description": "Selected Problems in Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4803"
+          ],
+          "credits": 0.5,
+          "description": "Foreign Policies of Major East Asian Powers"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4805"
+          ],
+          "credits": 0.5,
+          "description": "Global Money Rules"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4806"
+          ],
+          "credits": 0.5,
+          "description": "NATO and World Order"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4807"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Citizenship and Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4817"
+          ],
+          "credits": 0.5,
+          "description": "International Politics of Forced Migration"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4819"
+          ],
+          "credits": 0.5,
+          "description": "Latin America and the World"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in: free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Global Politics B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: The Stream"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "a. Introduction"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Politics in the World"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "b. Comparative Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2101"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global North"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2102"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Politics of the Global South"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "International Relations"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2601"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2602"
+          ],
+          "credits": 0.5,
+          "description": "International Relations: Global Political Economy"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "d. Political Science at the 2000 level"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2002"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Politics and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2003"
+          ],
+          "credits": 0.5,
+          "description": "Institutions and Power in Canadian Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to U.S. Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2401"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2500"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "e.  Research Methodologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2701"
+          ],
+          "credits": 0.5,
+          "description": "How to Do Research in Political Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 2702"
+          ],
+          "credits": 0.5,
+          "description": "A Statistical Toolkit for Political Scientists"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "f. Global Politics Electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3100"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3101"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Security in Africa"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3102"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Development of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3103"
+          ],
+          "credits": 0.5,
+          "description": "State, Society and Economy in Northeast Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3105"
+          ],
+          "credits": 0.5,
+          "description": "Imperialism and Decolonization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3107"
+          ],
+          "credits": 0.5,
+          "description": "The Causes of War"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3108"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Popular Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3109"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Law and Morality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3200"
+          ],
+          "credits": 0.5,
+          "description": "U.S. Constitutional Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3203"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics in the Middle East"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3204"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Latin America"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3205"
+          ],
+          "credits": 0.5,
+          "description": "Mexican Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3206"
+          ],
+          "credits": 0.5,
+          "description": "European Democracies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3207"
+          ],
+          "credits": 0.5,
+          "description": "Politics of the European Union"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3208"
+          ],
+          "credits": 0.5,
+          "description": "Politics in Russia and Ukraine: Power and Contestation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3209"
+          ],
+          "credits": 0.5,
+          "description": "Reconstruction and Transformation in Europe and Eurasia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3307"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3310"
+          ],
+          "credits": 0.5,
+          "description": "Global Indigenous Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3405"
+          ],
+          "credits": 0.5,
+          "description": "Comparative Public Policy Analysis"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3406"
+          ],
+          "credits": 0.5,
+          "description": "Public Affairs and Media Strategies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3407"
+          ],
+          "credits": 0.5,
+          "description": "Public Opinion and Public Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3502"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Politics: Global South"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3600"
+          ],
+          "credits": 0.5,
+          "description": "International Institutions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3601"
+          ],
+          "credits": 0.5,
+          "description": "Theories of International Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3603"
+          ],
+          "credits": 0.5,
+          "description": "Strategic Thought and International Security"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3606"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Foreign Policy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3607"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Defence Policy at Home and Abroad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3700"
+          ],
+          "credits": 0.5,
+          "description": "Government and Politics of South Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3702"
+          ],
+          "credits": 0.5,
+          "description": "The Politics of Israel/Palestine"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3703"
+          ],
+          "credits": 0.5,
+          "description": "Governing in the Global Economy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3801"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3802"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and Human Rights"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3805"
+          ],
+          "credits": 0.5,
+          "description": "Politics of Race"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3908"
+          ],
+          "credits": 0.5,
+          "description": "Summer Field Research Course"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in: Free Electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language Requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Political Science (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 1100",
+            "PSCI 1200"
+          ],
+          "credits": 0.5,
+          "description": "Democracy in Theory and Practice Politics in the World"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSCI at the 2000-level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSCI at the 2000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in PSCI at the 3000-level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Washington Center Internship Program (2.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 3905"
+          ],
+          "credits": 1.5,
+          "description": "Washington Center Internship"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4905"
+          ],
+          "credits": 0.5,
+          "description": "Washington Center Seminar I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSCI 4906"
+          ],
+          "credits": 0.5,
+          "description": "Washington Center Seminar II"
+        }
+      ]
+    }
   ]
 }

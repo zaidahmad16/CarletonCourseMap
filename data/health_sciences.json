@@ -358,5 +358,2766 @@
       "credits": "5.0",
       "text": "13.  5.0 credits in free electives. Free elective credits may include JOUR courses in the 4300 series of courses, 4400 series of courses and 4500 series of courses, JOUR 4003 , JOUR 4004 and JOUR 4005 . 5.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Health Sciences with Concentration B.H.Sc. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1000"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Health Science Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Health Research Methods and Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3201"
+          ],
+          "credits": 0.5,
+          "description": "Epidemiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3302"
+          ],
+          "credits": 0.5,
+          "description": "Immunity and Immune-Related Disorders"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3404"
+          ],
+          "credits": 0.5,
+          "description": "Psychosocial and Biological Interactions in Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3901"
+          ],
+          "credits": 0.5,
+          "description": "Emerging Issues in Health Sciences I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3902"
+          ],
+          "credits": 0.5,
+          "description": "Emerging Issues in Health Sciences II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3903"
+          ],
+          "credits": 0.5,
+          "description": "Emerging Issues in Health Sciences III"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3904"
+          ],
+          "credits": 0.5,
+          "description": "Emerging Issues in Health Sciences IV"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3905"
+          ],
+          "credits": 0.5,
+          "description": "Emerging Issues in Health Sciences V"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4907"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Course \u2013 Group Research Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4909"
+          ],
+          "credits": 1.0,
+          "description": "Capstone Course \u2013 Field Placement and Research Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4910"
+          ],
+          "credits": 1.0,
+          "description": "Honours Individual Research Thesis"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in HLTH elective at the 3000 level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4906"
+          ],
+          "credits": 1.0,
+          "description": "Capstone course \u2013 Research Essay"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit in HLTH at the 3000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in concentration electives at the 3000 level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001",
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001",
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2201"
+          ],
+          "credits": 0.5,
+          "description": "Applied Health Statistics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2104"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in approved 2000-level concentration electives"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1550"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Ethics and Social Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2408"
+          ],
+          "credits": 0.5,
+          "description": "Bioethics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "NOTE: The maximum allowed combined number of minors and concentrations for any student is two."
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Biomedical Sciences (5.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Nutrition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3104"
+          ],
+          "credits": 0.5,
+          "description": "Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3307"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3303"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3401"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3402"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3503"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Chronic Health Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4102"
+          ],
+          "credits": 0.5,
+          "description": "New Health Technologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4202"
+          ],
+          "credits": 0.5,
+          "description": "Health Program Evaluation Tools and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4301"
+          ],
+          "credits": 0.5,
+          "description": "Pandemics and Infectious Disease"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4302"
+          ],
+          "credits": 0.5,
+          "description": "Inflammatory and Endocrine Factors in Diseases"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4303"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals in Pharmacology and Toxicology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4304"
+          ],
+          "credits": 0.5,
+          "description": "Host-Pathogen Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4401"
+          ],
+          "credits": 0.5,
+          "description": "Maternal and Perinatal Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4502"
+          ],
+          "credits": 0.5,
+          "description": "Disabilities and Disorders Related to Sensory Nervous System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4503"
+          ],
+          "credits": 0.5,
+          "description": "Trauma-related Disability and Impairments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3202"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Developmental Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Biomechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4202"
+          ],
+          "credits": 0.5,
+          "description": "Mutagenesis and DNA Repair"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4460"
+          ],
+          "credits": 0.5,
+          "description": "Health Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Nutrition and Metabolism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4202"
+          ],
+          "credits": 0.5,
+          "description": "Micronutrients and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3103"
+          ],
+          "credits": 0.5,
+          "description": "Health Policy and Canada's Health Care System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3104"
+          ],
+          "credits": 0.5,
+          "description": "Regulatory Issues and Human Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4601"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Pollution and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4701"
+          ],
+          "credits": 0.5,
+          "description": "Knowledge Translation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4901"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3304"
+          ],
+          "credits": 0.5,
+          "description": "Hormones and Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Toxins and Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3502"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopmental Determinants of Mental Health"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Disability and Chronic Illness (5.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Nutrition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2202"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopment and Plasticity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3307"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3503"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Chronic Health Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4502"
+          ],
+          "credits": 0.5,
+          "description": "Disabilities and Disorders Related to Sensory Nervous System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4503"
+          ],
+          "credits": 0.5,
+          "description": "Trauma-related Disability and Impairments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Biomechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3103"
+          ],
+          "credits": 0.5,
+          "description": "Health Policy and Canada's Health Care System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3104"
+          ],
+          "credits": 0.5,
+          "description": "Regulatory Issues and Human Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3401"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3402"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4202"
+          ],
+          "credits": 0.5,
+          "description": "Health Program Evaluation Tools and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4302"
+          ],
+          "credits": 0.5,
+          "description": "Inflammatory and Endocrine Factors in Diseases"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4304"
+          ],
+          "credits": 0.5,
+          "description": "Host-Pathogen Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3501"
+          ],
+          "credits": 0.5,
+          "description": "Neurodegeneration and Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3104"
+          ],
+          "credits": 0.5,
+          "description": "Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3202"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Developmental Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4460"
+          ],
+          "credits": 0.5,
+          "description": "Health Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4103"
+          ],
+          "credits": 0.5,
+          "description": "Food Safety Risk Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Nutrition and Metabolism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4202"
+          ],
+          "credits": 0.5,
+          "description": "Micronutrients and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3303"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4301"
+          ],
+          "credits": 0.5,
+          "description": "Pandemics and Infectious Disease"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4303"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals in Pharmacology and Toxicology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4401"
+          ],
+          "credits": 0.5,
+          "description": "Maternal and Perinatal Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4601"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Pollution and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4701"
+          ],
+          "credits": 0.5,
+          "description": "Knowledge Translation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4901"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3304"
+          ],
+          "credits": 0.5,
+          "description": "Hormones and Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Toxins and Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3502"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopmental Determinants of Mental Health"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Environment and Health (6.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2800"
+          ],
+          "credits": 0.5,
+          "description": "Foundations for Environmental Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Nutrition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 3800"
+          ],
+          "credits": 0.5,
+          "description": "The Chemistry of Environmental Pollutants"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3104"
+          ],
+          "credits": 0.5,
+          "description": "Regulatory Issues and Human Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3303"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4303"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals in Pharmacology and Toxicology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4601"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Pollution and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3307"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 4202"
+          ],
+          "credits": 0.5,
+          "description": "Mutagenesis and DNA Repair"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 4800"
+          ],
+          "credits": 0.5,
+          "description": "Atmospheric Chemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 3804"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3401"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3402"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4202"
+          ],
+          "credits": 0.5,
+          "description": "Health Program Evaluation Tools and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4304"
+          ],
+          "credits": 0.5,
+          "description": "Host-Pathogen Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Toxins and Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3104"
+          ],
+          "credits": 0.5,
+          "description": "Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3202"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Developmental Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4460"
+          ],
+          "credits": 0.5,
+          "description": "Health Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4103"
+          ],
+          "credits": 0.5,
+          "description": "Food Safety Risk Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3103"
+          ],
+          "credits": 0.5,
+          "description": "Health Policy and Canada's Health Care System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3503"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Chronic Health Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4102"
+          ],
+          "credits": 0.5,
+          "description": "New Health Technologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4301"
+          ],
+          "credits": 0.5,
+          "description": "Pandemics and Infectious Disease"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4302"
+          ],
+          "credits": 0.5,
+          "description": "Inflammatory and Endocrine Factors in Diseases"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4401"
+          ],
+          "credits": 0.5,
+          "description": "Maternal and Perinatal Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4502"
+          ],
+          "credits": 0.5,
+          "description": "Disabilities and Disorders Related to Sensory Nervous System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4503"
+          ],
+          "credits": 0.5,
+          "description": "Trauma-related Disability and Impairments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4701"
+          ],
+          "credits": 0.5,
+          "description": "Knowledge Translation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4901"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Health"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Global Health (5.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3307"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Nutrition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4301"
+          ],
+          "credits": 0.5,
+          "description": "Pandemics and Infectious Disease"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4401"
+          ],
+          "credits": 0.5,
+          "description": "Maternal and Perinatal Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3103"
+          ],
+          "credits": 0.5,
+          "description": "Health Policy and Canada's Health Care System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3104"
+          ],
+          "credits": 0.5,
+          "description": "Regulatory Issues and Human Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3303"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3401"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3402"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3503"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Chronic Health Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4102"
+          ],
+          "credits": 0.5,
+          "description": "New Health Technologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4202"
+          ],
+          "credits": 0.5,
+          "description": "Health Program Evaluation Tools and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4303"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals in Pharmacology and Toxicology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4304"
+          ],
+          "credits": 0.5,
+          "description": "Host-Pathogen Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4601"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Pollution and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3104"
+          ],
+          "credits": 0.5,
+          "description": "Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4460"
+          ],
+          "credits": 0.5,
+          "description": "Health Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4103"
+          ],
+          "credits": 0.5,
+          "description": "Food Safety Risk Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Nutrition and Metabolism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4202"
+          ],
+          "credits": 0.5,
+          "description": "Micronutrients and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4302"
+          ],
+          "credits": 0.5,
+          "description": "Inflammatory and Endocrine Factors in Diseases"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4502"
+          ],
+          "credits": 0.5,
+          "description": "Disabilities and Disorders Related to Sensory Nervous System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4503"
+          ],
+          "credits": 0.5,
+          "description": "Trauma-related Disability and Impairments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4701"
+          ],
+          "credits": 0.5,
+          "description": "Knowledge Translation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4901"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3304"
+          ],
+          "credits": 0.5,
+          "description": "Hormones and Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Toxins and Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3501"
+          ],
+          "credits": 0.5,
+          "description": "Neurodegeneration and Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3502"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopmental Determinants of Mental Health"
+        }
+      ]
+    },
+    {
+      "degree": "Concentration in Health Throughout the Lifespan (5.5 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Nutrition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2202"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopment and Plasticity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3307"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3401"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3402"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4401"
+          ],
+          "credits": 0.5,
+          "description": "Maternal and Perinatal Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 2500"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3103"
+          ],
+          "credits": 0.5,
+          "description": "Health Policy and Canada's Health Care System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3303"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3403"
+          ],
+          "credits": 0.5,
+          "description": "Gender and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3503"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Chronic Health Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4102"
+          ],
+          "credits": 0.5,
+          "description": "New Health Technologies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4202"
+          ],
+          "credits": 0.5,
+          "description": "Health Program Evaluation Tools and Methods"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4302"
+          ],
+          "credits": 0.5,
+          "description": "Inflammatory and Endocrine Factors in Diseases"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4303"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals in Pharmacology and Toxicology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4304"
+          ],
+          "credits": 0.5,
+          "description": "Host-Pathogen Interactions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3501"
+          ],
+          "credits": 0.5,
+          "description": "Neurodegeneration and Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3502"
+          ],
+          "credits": 0.5,
+          "description": "Neurodevelopmental Determinants of Mental Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3104"
+          ],
+          "credits": 0.5,
+          "description": "Molecular Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3202"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Developmental Biology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3501"
+          ],
+          "credits": 0.5,
+          "description": "Biomechanics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "COMS 3412"
+          ],
+          "credits": 0.5,
+          "description": "Communication and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 4460"
+          ],
+          "credits": 0.5,
+          "description": "Health Economics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 3005"
+          ],
+          "credits": 0.5,
+          "description": "Food Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4103"
+          ],
+          "credits": 0.5,
+          "description": "Food Safety Risk Assessment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4201"
+          ],
+          "credits": 0.5,
+          "description": "Advanced Nutrition and Metabolism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 4202"
+          ],
+          "credits": 0.5,
+          "description": "Micronutrients and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GEOG 3206"
+          ],
+          "credits": 0.5,
+          "description": "Health, Environment, and Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3104"
+          ],
+          "credits": 0.5,
+          "description": "Regulatory Issues and Human Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health Governance"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4301"
+          ],
+          "credits": 0.5,
+          "description": "Pandemics and Infectious Disease"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4502"
+          ],
+          "credits": 0.5,
+          "description": "Disabilities and Disorders Related to Sensory Nervous System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4503"
+          ],
+          "credits": 0.5,
+          "description": "Trauma-related Disability and Impairments"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4601"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Pollution and Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4701"
+          ],
+          "credits": 0.5,
+          "description": "Knowledge Translation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 4901"
+          ],
+          "credits": 0.5,
+          "description": "Directed Studies in Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3304"
+          ],
+          "credits": 0.5,
+          "description": "Hormones and Behaviour"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 3401"
+          ],
+          "credits": 0.5,
+          "description": "Environmental Toxins and Mental Health"
+        }
+      ]
+    },
+    {
+      "degree": "Health Sciences B.H.Sc. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1000"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1002"
+          ],
+          "credits": 0.5,
+          "description": "Health Science Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Health Research Methods and Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2507"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2509"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Statistical Modeling II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3305"
+          ],
+          "credits": 0.5,
+          "description": "Human and Comparative Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 3306"
+          ],
+          "credits": 0.5,
+          "description": "Human Anatomy and Physiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 2203"
+          ],
+          "credits": 0.5,
+          "description": "Organic Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "FOOD 2001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Nutrition"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NEUR 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cellular and Molecular Neuroscience"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 2301"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Health Psychology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2004"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology and Virology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3101"
+          ],
+          "credits": 0.5,
+          "description": "Global Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3102"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Health in a Global World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3103"
+          ],
+          "credits": 0.5,
+          "description": "Health Policy and Canada's Health Care System"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3104"
+          ],
+          "credits": 0.5,
+          "description": "Regulatory Issues and Human Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3201"
+          ],
+          "credits": 0.5,
+          "description": "Epidemiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3302"
+          ],
+          "credits": 0.5,
+          "description": "Immunity and Immune-Related Disorders"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3401"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Childhood"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3402"
+          ],
+          "credits": 0.5,
+          "description": "Diseases of Aging"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3404"
+          ],
+          "credits": 0.5,
+          "description": "Psychosocial and Biological Interactions in Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 3503"
+          ],
+          "credits": 0.5,
+          "description": "Disability and Chronic Health Conditions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 1007"
+          ],
+          "credits": 0.5,
+          "description": "Elementary Calculus I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Microeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "ECON 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Macroeconomics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PSYC 1002"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Psychology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1550"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Ethics and Social Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2408"
+          ],
+          "credits": 0.5,
+          "description": "Bioethics"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in free electives"
+        }
+      ]
+    },
+    {
+      "degree": "Journalism with Concentration in Health Sciences B.J. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1001"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Journalism in Context"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 1002"
+          ],
+          "credits": 0.5,
+          "description": "Foundations: Practicing Journalism in a Diverse Society"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2201"
+          ],
+          "credits": 1.0,
+          "description": "Fundamentals of Reporting"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2203"
+          ],
+          "credits": 0.5,
+          "description": "Civics for Journalists"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 2400"
+          ],
+          "credits": 0.5,
+          "description": "Media Law and Ethics in a Digital World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3207"
+          ],
+          "credits": 0.5,
+          "description": "Audio Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3208"
+          ],
+          "credits": 0.5,
+          "description": "Video Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3225"
+          ],
+          "credits": 0.5,
+          "description": "Reporting in Depth"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 3235"
+          ],
+          "credits": 0.5,
+          "description": "Digital Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4001"
+          ],
+          "credits": 0.5,
+          "description": "Journalism  Now - and Next"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4003"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Multimedia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4004"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub:  Advanced Audio"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4005"
+          ],
+          "credits": 0.5,
+          "description": "The Digital Hub: Advanced Video"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4303"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Health and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4304"
+          ],
+          "credits": 0.5,
+          "description": "Specialized Journalism: Environment and Science"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4400"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4401"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills:  Data Storytelling"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4402"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Longform Writing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4403"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Strategic Communication"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4404"
+          ],
+          "credits": 0.5,
+          "description": "Professional Skills: Freelancing for Media Professionals"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4500"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Special Topic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4501"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  Gender, Identity and Inequality"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4502"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Journalism and Conflict"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4504"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism:  The Media and International Development"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4505"
+          ],
+          "credits": 1.0,
+          "description": "Investigating Journalism:  The Power and Politics of Government"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4506"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Trauma-Informed Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4507"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: History of Black Journalism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "JOUR 4508"
+          ],
+          "credits": 0.5,
+          "description": "Investigating Journalism: Inclusive Reporting in Practice"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Health I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Health Research Methods and Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "NSCI 4901"
+          ],
+          "credits": 1.0,
+          "description": "Science Journalism Independent Project"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1301"
+          ],
+          "credits": 0.5,
+          "description": "Conflict and Change in Early Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 1302"
+          ],
+          "credits": 0.5,
+          "description": "Rethinking Modern Canadian History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2301"
+          ],
+          "credits": 0.5,
+          "description": "Canadian Political History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2311"
+          ],
+          "credits": 0.5,
+          "description": "Environmental History of Canada (b. 0.5 credit from:)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2313"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Early Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HIST 2314"
+          ],
+          "credits": 0.5,
+          "description": "Home, Work, and Play in Modern Canada"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1010"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Ways of Knowing"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 1011"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Indigenous-Settler Encounters"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "INDG 2011"
+          ],
+          "credits": 0.5,
+          "description": "Critical Indigenous Studies"
+        },
+        {
+          "type": "elective",
+          "courses": [
+            "JOUR 4003",
+            "JOUR 4004",
+            "JOUR 4005"
+          ],
+          "credits": 5.0,
+          "description": "5.0 credits in free electives. Free elective credits may include JOUR courses in the 4300 series of courses, 4400 series of courses and 4500 series of courses, JOUR 4003 , JOUR 4004 and JOUR 4005 ."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Health Sciences (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 1001"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Health I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Health Research Methods and Skills"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Molecular and Cellular Pathology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2003"
+          ],
+          "credits": 0.5,
+          "description": "Social Determinants of Health"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HLTH 2020"
+          ],
+          "credits": 0.5,
+          "description": "Principles of Health II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "1.5 credits in HLTH at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    }
   ]
 }

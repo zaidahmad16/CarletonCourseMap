@@ -171,5 +171,931 @@
       "credits": "3.5",
       "text": "7.  3.5 credits in free electives. 3.5"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Humanities B.Hum. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 1, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1731"
+          ],
+          "credits": 0.5,
+          "description": "Religion and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2710"
+          ],
+          "credits": 1.0,
+          "description": "Maccabees to Muhammad"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in an Intermediate level Modern language or 1.0 credit in a Beginner\u2019s level Ancient language. (An Ancient language is defined as one learned primarily for reading-knowledge, such as Greek, Latin, Biblical Hebrew, or Sanskrit)."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(see Note 2, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "a.  5.0 pre-approved credits to be taken at an accredited international institution. Acceptable courses that cannot be equivalenced in a specific discipline will be equivalenced as HUMS courses."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.5,
+          "description": "3.5 credits in free electives."
+        }
+      ]
+    },
+    {
+      "degree": "Humanities B.Hum. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 1, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 2, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1731"
+          ],
+          "credits": 0.5,
+          "description": "Religion and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2710"
+          ],
+          "credits": 1.0,
+          "description": "Maccabees to Muhammad"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in an Intermediate level Modern language or 1.0 credit in a Beginner\u2019s level Ancient language. (An Ancient language is defined as one learned primarily for reading-knowledge, such as Greek, Latin, Biblical Hebrew, or Sanskrit)."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note 3, below)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "0.5 credit at the 2000 level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in electives that include the requirements for the other discipline of the combined degree or the minor."
+        }
+      ]
+    },
+    {
+      "degree": "Biology and Humanities B.Hum. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1731"
+          ],
+          "credits": 0.5,
+          "description": "Religion and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "OR"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "(See Note, below)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2710"
+          ],
+          "credits": 1.0,
+          "description": "Maccabees to Muhammad"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits at the 2000-level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1103"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1104"
+          ],
+          "credits": 0.5,
+          "description": "Foundations of Biology II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 1105"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Biological Data"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Animals: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2002"
+          ],
+          "credits": 0.5,
+          "description": "Plants: Form and Function"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2104"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2107"
+          ],
+          "credits": 0.5,
+          "description": "Fundamentals of Genetics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2200"
+          ],
+          "credits": 0.5,
+          "description": "Cellular Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2201"
+          ],
+          "credits": 0.5,
+          "description": "Cell Biology and Biochemistry"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2303"
+          ],
+          "credits": 0.5,
+          "description": "Microbiology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "BIOL 2600"
+          ],
+          "credits": 0.5,
+          "description": "Ecology"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "CHEM 1001",
+            "CHEM 1002"
+          ],
+          "credits": 0.5,
+          "description": "General Chemistry I General Chemistry II"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in BIOL or BIOC at the 3000-level or above"
+        }
+      ]
+    },
+    {
+      "degree": "Academic Continuation Evaluation for Bachelor of Humanities",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        }
+      ]
+    },
+    {
+      "degree": "Academic Continuation Evaluation for Bachelor of Journalism and Humanities",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "Foundational Myths and Histories"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1200"
+          ],
+          "credits": 0.5,
+          "description": "Humanities and Classical Civilization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 1300"
+          ],
+          "credits": 0.5,
+          "description": "Classical Literature and Its Reception"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2000"
+          ],
+          "credits": 1.0,
+          "description": "Reason and Revelation"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2101"
+          ],
+          "credits": 0.5,
+          "description": "Art from Antiquity to the Medieval World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 2102"
+          ],
+          "credits": 0.5,
+          "description": "Modern European Art 1527-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3000"
+          ],
+          "credits": 1.0,
+          "description": "Culture and Imagination"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3102"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1000-1850"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3103"
+          ],
+          "credits": 0.5,
+          "description": "Western Music 1850-2000"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 3200"
+          ],
+          "credits": 1.0,
+          "description": "European Literature"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4000"
+          ],
+          "credits": 1.0,
+          "description": "Politics, Modernity and the Common Good"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4103"
+          ],
+          "credits": 0.5,
+          "description": "Science in the Modern World"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4500"
+          ],
+          "credits": 0.5,
+          "description": "Modern Intellectual History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4901"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Antiquity to the Middle Ages"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4902"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Renaissance to Enlightenment"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4903"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Romanticism to the Present"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "HUMS 4904"
+          ],
+          "credits": 0.5,
+          "description": "Research Seminar: Non-Western Traditions"
+        }
+      ]
+    }
   ]
 }

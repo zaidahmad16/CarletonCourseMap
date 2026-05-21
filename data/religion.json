@@ -475,5 +475,768 @@
       "credits": "7.0",
       "text": "3.  7.0 credits in free electives 7.0"
     }
+  ],
+  "programs": [
+    {
+      "degree": "Religion B.A. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1710"
+          ],
+          "credits": 0.5,
+          "description": "Judaism, Christianity, Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1712"
+          ],
+          "credits": 0.5,
+          "description": "Religions of South and East Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2410"
+          ],
+          "credits": 0.5,
+          "description": "Buddhism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2510"
+          ],
+          "credits": 0.5,
+          "description": "Hinduism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2600"
+          ],
+          "credits": 0.5,
+          "description": "Religions of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3741"
+          ],
+          "credits": 0.5,
+          "description": "Classical Approaches to Religion"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 12.0,
+          "description": "Credits Not Included in the Major CGPA (12.0 credits)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in electives not in RELI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in free electives (can be in RELI)"
+        }
+      ]
+    },
+    {
+      "degree": "Religion B.A. Combined Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1710"
+          ],
+          "credits": 0.5,
+          "description": "Judaism, Christianity, Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1712"
+          ],
+          "credits": 0.5,
+          "description": "Religions of South and East Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2410"
+          ],
+          "credits": 0.5,
+          "description": "Buddhism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2510"
+          ],
+          "credits": 0.5,
+          "description": "Hinduism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2600"
+          ],
+          "credits": 0.5,
+          "description": "Religions of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3741"
+          ],
+          "credits": 0.5,
+          "description": "Classical Approaches to Religion"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The requirements from the other discipline must be satisfied"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 20.0,
+          "description": "Sufficient free electives to make 20.0 credits for the degree"
+        }
+      ]
+    },
+    {
+      "degree": "Religion B.A. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1710"
+          ],
+          "credits": 0.5,
+          "description": "Judaism, Christianity, Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1712"
+          ],
+          "credits": 0.5,
+          "description": "Religions of South and East Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2410"
+          ],
+          "credits": 0.5,
+          "description": "Buddhism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2510"
+          ],
+          "credits": 0.5,
+          "description": "Hinduism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2600"
+          ],
+          "credits": 0.5,
+          "description": "Religions of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3741"
+          ],
+          "credits": 0.5,
+          "description": "Classical Approaches to Religion"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 6.0,
+          "description": "6.0 credits not in RELI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 3.0,
+          "description": "3.0 credits in free electives (can be in RELI)"
+        }
+      ]
+    },
+    {
+      "degree": "Specialization in Global Religions: Identity and Community B.G.In.S. Honours (20.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.5,
+          "description": "4.5 credits in Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 4090"
+          ],
+          "credits": 0.5,
+          "description": "Honours Seminar in Global and International Studies"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1300"
+          ],
+          "credits": 0.0,
+          "description": "International Experience Requirement Preparation"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.5,
+          "description": "7.5 credits in: the Specialization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1710"
+          ],
+          "credits": 0.5,
+          "description": "Judaism, Christianity, Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1712"
+          ],
+          "credits": 0.5,
+          "description": "Religions of South and East Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2410"
+          ],
+          "credits": 0.5,
+          "description": "Buddhism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2510"
+          ],
+          "credits": 0.5,
+          "description": "Hinduism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2600"
+          ],
+          "credits": 0.5,
+          "description": "Religions of China"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 2.5,
+          "description": "b.  2.5 credits in RELI at the 2000 level and above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3741"
+          ],
+          "credits": 0.5,
+          "description": "Classical Approaches to Religion"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.5,
+          "description": "d.  1.5 credits in RELI at the 3000 level and above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "e. 1.0 credit in RELI at the 4000 level"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 8.0,
+          "description": "8.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The International Experience requirement must be met."
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Stream in Global Religions: Identity and Community B.G.In.S. (15.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits in: Core Courses"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1000"
+          ],
+          "credits": 0.5,
+          "description": "Global History"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1010"
+          ],
+          "credits": 0.5,
+          "description": "International Law and Politics"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 1020"
+          ],
+          "credits": 0.5,
+          "description": "Ethnography, Globalization and Culture"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2000"
+          ],
+          "credits": 0.5,
+          "description": "Ethics and Globalization"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2010"
+          ],
+          "credits": 0.5,
+          "description": "Globalization and International Economic Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 2020"
+          ],
+          "credits": 0.5,
+          "description": "Global Literatures"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3010"
+          ],
+          "credits": 0.5,
+          "description": "Global and International Theory"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "GINS 3020"
+          ],
+          "credits": 0.5,
+          "description": "Places, Boundaries, Movements and Global Environmental Change"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 4.0,
+          "description": "4.0 credits from: the Stream"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1710"
+          ],
+          "credits": 0.5,
+          "description": "Judaism, Christianity, Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 1712"
+          ],
+          "credits": 0.5,
+          "description": "Religions of South and East Asia"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2410"
+          ],
+          "credits": 0.5,
+          "description": "Buddhism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2510"
+          ],
+          "credits": 0.5,
+          "description": "Hinduism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2600"
+          ],
+          "credits": 0.5,
+          "description": "Religions of China"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "b. 1.0 credit in RELI at the 2000 level or above"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3741"
+          ],
+          "credits": 0.5,
+          "description": "Classical Approaches to Religion"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 0.5,
+          "description": "d. 0.5 credit in RELI at the 3000 level or above"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 7.0,
+          "description": "7.0 credits in free electives"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The Language requirement must be met."
+        }
+      ]
+    },
+    {
+      "degree": "Minor in Religion (4.0 credits)",
+      "requirements": [
+        {
+          "type": "elective",
+          "courses": [
+            "HUMS 1000"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit in RELI at the 1000-level or higher or HUMS 1000 (1.0 credit)"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in RELI at the 2000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in RELI at the 3000-level or higher"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": 1.0,
+          "description": "1.0 credit in RELI"
+        },
+        {
+          "type": "elective",
+          "courses": [],
+          "credits": null,
+          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+        }
+      ]
+    },
+    {
+      "degree": "Post-Baccalaureate Diploma in Religion (4.0 credits)",
+      "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "RELI 3741"
+          ],
+          "credits": 0.5,
+          "description": "Classical Approaches to Religion"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2110"
+          ],
+          "credits": 0.5,
+          "description": "Judaism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2200"
+          ],
+          "credits": 0.5,
+          "description": "Christianity"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2310"
+          ],
+          "credits": 0.5,
+          "description": "Islam"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2410"
+          ],
+          "credits": 0.5,
+          "description": "Buddhism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2510"
+          ],
+          "credits": 0.5,
+          "description": "Hinduism"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2600"
+          ],
+          "credits": 0.5,
+          "description": "Religions of China"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "RELI 2800"
+          ],
+          "credits": 0.5,
+          "description": "Indigenous Traditions"
+        }
+      ]
+    }
   ]
 }

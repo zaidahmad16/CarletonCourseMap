@@ -2,6 +2,7 @@ seed.py
 .env
 .vscode/settings.json
 personalLog.txt
+scraper.py
 # Node
 node_modules/
 .next/

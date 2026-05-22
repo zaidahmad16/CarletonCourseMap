@@ -3,6 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
+from pydantic import BaseModel
+from typing import List
 from db import get_connection
 
 app = FastAPI(title="CarletonCourseMap API")
@@ -161,4 +163,20 @@ def get_programs(program_id: int):
             } for r in reqs
         ]
     }
-    
+
+
+@app.post("/courses/batch")
+def get_courses_batch(codes: List[str]):
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute("""
+        SELECT course_code, name, credit, description, prerequisites,
+               year_standing, offerings, concurrent_prerequisites
+        FROM courses WHERE course_code = ANY(%s)
+    """, (codes,))
+    rows = cur.fetchall()
+    cur.close()
+    conn.close()
+    return [{"code": r[0], "name": r[1], "credit": r[2], "year_standing": r[5],
+             "offerings": r[6], "prerequisites": r[4], "concurrent_prerequisites": r[7]} for r in rows]
+

@@ -1,14 +1,8 @@
-
 'use client'
 
-/*
-export default function MapPage() {
-  return <div>Course Map</div>
-}
-*/
 
-import { use, useEffect, useState } from "react"
-import React,{Background,Controls,MiniMap} from 'reactflow'
+import { useEffect, useState } from "react"
+import ReactFlow, { Background, Controls, MiniMap } from 'reactflow'
 import 'reactflow/dist/style.css'
 import dagre from 'dagre'
 
@@ -68,7 +62,7 @@ export default function MapPage() {
           }
         })
 
-        const laid = layoutNodes(rawNodes, rawEdges)
+        const laid = layoutNode(rawNodes, rawEdges)        
         setNodes(laid)
         setEdges(rawEdges)
         setLoading(false)

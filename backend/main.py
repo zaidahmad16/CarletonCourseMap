@@ -12,7 +12,7 @@ app = FastAPI(title="CarletonCourseMap API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca", "https://www.carletoncoursemap.ca"],
+    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca", "https://www.carletoncoursemap.ca", "https://carletoncoursemapfrontend-production.up.railway.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )

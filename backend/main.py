@@ -1,10 +1,18 @@
 import sys, os
+from fastapi.middleware.cors import CORSMiddleware
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
 from db import get_connection
 
 app = FastAPI(title="CarletonCourseMap API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/health")
 
@@ -133,3 +141,4 @@ def get_programs(program_id: int):
             } for r in reqs
         ]
     }
+    

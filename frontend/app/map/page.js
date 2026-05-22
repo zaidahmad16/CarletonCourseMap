@@ -30,7 +30,7 @@ export default function MapPage() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    fetch('https://carletoncoursemap.ca/programs/1')
+    fetch('http://localhost:8000/programs/1')      
       .then((r) => r.json())
       .then((data) => {
         const reqs = data.requirements

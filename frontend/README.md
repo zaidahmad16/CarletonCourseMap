@@ -1,3 +1,5 @@
-PROJECT STILL IN PROGRESS
+
+#CarletonCourseMap
+##PROJECT STILL IN PROGRESS
 
 https://www.carletoncoursemap.ca/

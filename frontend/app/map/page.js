@@ -1,83 +1,57 @@
 'use client'
 
+import { useState,useEffect } from "react"
 
-import { useEffect, useState } from "react"
-import ReactFlow, { Background, Controls, MiniMap } from 'reactflow'
-import 'reactflow/dist/style.css'
-import dagre from 'dagre'
+const API = 'https://carletoncoursemap.ca'
 
-const nodeWidth=180
-const nodeHeight=60
-
-function layoutNode(nodes,edges){
-  const g = new dagre.graphlib.Graph()
-  g.setDefaultEdgeLabel(()=>({}))
-  g.setGraph({rankdir:'LR',ranksep:80,nodesep:40})
-    
-  nodes.forEach((n)=> g.setNode(n.id,{width:nodeWidth,height:nodeHeight}))
-  edges.forEach((e)=>g.setEdge(e.source,e.target))
-
-  dagre.layout(g)
-
-  return nodes.map((n)=>{
-    const pos = g.node(n.id)
-    return { ...n, position: { x: pos.x - nodeWidth / 2, y: pos.y - nodeHeight / 2 } }
-  })
-}
 export default function MapPage() {
-  const [nodes, setNodes] = useState([])
-  const [edges, setEdges] = useState([])
-  const [loading, setLoading] = useState(true)
+    const [departments,setDepartments] = useState([])
+    const [selectedDept,setSelectedDept]=useState([null])
+    const [programs,setPrograms]=useState([])
+    const [selectedPrograms,setSelectedProgram]=useState(null)
 
-  useEffect(() => {
-    fetch(`${process.env.NEXT_PUBLIC_API_URL || ''}/programs/1`)      
-      .then((r) => r.json())
-      .then((data) => {
-        const reqs = data.requirements
 
-        const rawNodes = reqs.map((req, i) => ({
-          id: `node-${i}`,
-          data: { label: req.courses?.[0] || req.description?.slice(0, 30) || `Req ${i}` },
-          position: { x: 0, y: 0 },
-          style: {
-            background: req.type === 'required' ? '#1d4ed8' : '#374151',
-            color: '#fff',
-            border: 'none',
-            borderRadius: 8,
-            padding: '8px 12px',
-            fontSize: 12,
-            width: nodeWidth,
-          },
-        }))
+    //Fetch departments on load
+    useEffect(()=>{
+        fetch('${API}/departments')
+            .then(r=>r.json())
+            .then(setDepartments)
+    },[])
 
-        const rawEdges = []
-        reqs.forEach((req, i) => {
-          if (i > 0) {
-            rawEdges.push({
-              id: `e-${i - 1}-${i}`,
-              source: `node-${i - 1}`,
-              target: `node-${i}`,
-              type: 'smoothstep',
-            })
-          }
-        })
 
-        const laid = layoutNode(rawNodes, rawEdges)        
-        setNodes(laid)
-        setEdges(rawEdges)
-        setLoading(false)
-      })
-  }, [])
+    // Fetch programs when departments changes
+    useEffect(()=>{
+    if (!selectedDept) return
+    fetch('${API}/programs?dept=${selectedDept}')
+        .then(r=>r.json())
+        .then(setPrograms)
+    }   ,[selectedDept])
 
-  if (loading) return <div style={{ padding: 40 }}>Loading...</div>
+    return(
+        <div style={{ padding: 20 }}>
+        <h1>CarletonCourseMap</h1>
 
-  return (
-    <div style={{ width: '100vw', height: '100vh' }}>
-      <ReactFlow nodes={nodes} edges={edges} fitView>
-        <Background />
-        <Controls />
-        <MiniMap />
-      </ReactFlow>
-    </div>
-  )
+        <select onChange={e => setSelectedDept(e.target.value)} defaultValue="">
+            <option value="" disabled>Select a department</option>
+            {departments.map(d => (
+            <option key={d.dept_id} value={d.dept_id}>{d.name}</option>
+            ))}
+        </select>
+
+        {programs.length > 0 && (
+            <select onChange={e => setSelectedProgram(e.target.value)} defaultValue="">
+            <option value="" disabled>Select a program</option>
+            {programs.map(p => (
+                <option key={p.program_id} value={p.program_id}>{p.degree}</option>
+            ))}
+            </select>
+        )}
+        </div>
+    )
+
+
 }
+
+
+
+

@@ -6,7 +6,7 @@ import ReactFlow, {
 } from "reactflow"
 import 'reactflow/dist/style.css'
 
-const API = 'http://localhost:8000'
+const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
 const COL_WIDTH = 240
 const ROW_HEIGHT = 130
 const HEADER_HEIGHT = 95

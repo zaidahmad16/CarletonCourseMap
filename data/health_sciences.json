@@ -7,336 +7,539 @@
       "name": "Fundamentals of Health",
       "credit": "0.5",
       "description": "Introduction to what comprises a healthy body and mind, and what leads to illness and disease. Biomedical, psychosocial, and epidemiological approaches to current issues in the field of health. Policy and cultural/environmental contexts.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 1001",
       "name": "Principles of Health I",
       "credit": "0.5",
       "description": "Health and illness will be considered from an interdisciplinary perspective, including biomedical, cultural, psychosocial and environmental.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 1002",
       "name": "Health Science Communication",
       "credit": "0.5",
       "description": "Introduction to using library, database and/or bioinformatics resources to develop informed verbal, non-verbal and written communication within the context of healthcare, public health and health research. Concepts in ethical scholarship, proper use of sources and plagiarism will be introduced.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2001",
       "name": "Health Research Methods and Skills",
       "credit": "0.5",
       "description": "An introduction to quantitative and qualitative methods and designs in health sciences research. Basic research skills will also be provided, including regulatory aspects of conducting research, information literacy skills, evaluating published research and other sources of evidence in the digital age.",
-      "prerequisites": "HLTH 1000 or HLTH 1001 ."
+      "prerequisites": "HLTH 1000 or HLTH 1001 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2002",
       "name": "Molecular and Cellular Pathology",
       "credit": "0.5",
       "description": "Introduction to the causes, natural history, and pathophysiology of common human diseases of various organ systems. Diseases related to structural and functional changes at the molecular, cellular and organ level.",
-      "prerequisites": "HLTH 1000 and BIOL 1103 or HLTH 2020 ."
+      "prerequisites": "HLTH 1000 and BIOL 1103 or HLTH 2020 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2003",
       "name": "Social Determinants of Health",
       "credit": "0.5",
       "description": "Overview of the social determinants of health, ranging from early life experiences, poverty, social status, migration, and the physical environment. The relation between social determinants and environmental vulnerabilities, health behaviours, illness prevalence, treatment outcomes, and access to health care.",
-      "prerequisites": "HLTH 1000 or HLTH 1001 ."
+      "prerequisites": "HLTH 1000 or HLTH 1001 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2004",
       "name": "Microbiology and Virology",
       "credit": "0.5",
       "description": "Introduction to the pathogenic microorganisms, including fungal, bacterial, viral and prion. Biochemical, genetic, pathological and epidemiological aspects in the human context; their interaction with host defense systems and strategies for antibiotic and vaccine development.",
-      "prerequisites": "HLTH 1000 and BIOL 1103 or permission of the department."
+      "prerequisites": "HLTH 1000 and BIOL 1103 or permission of the department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2020",
       "name": "Principles of Health II",
       "credit": "0.5",
       "description": "An overview of the history of medicine, its relationship to society, medical and health terminology, introduction to organ systems, diseases, illnesses and their diagnoses, current events in health and medicine.",
-      "prerequisites": "HLTH 1001 or permission of the department."
+      "prerequisites": "HLTH 1001 or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2024",
       "name": "Microbiology and Virology",
       "credit": "0.5",
       "description": "Introduction to pathogenic microorganisms, including fugal, bacterial, viral and prion.  Biochemical, genetic, pathological and epidemiological aspects in the human context; their interaction with host defense systems and strategies for antibiotic and vaccine development.",
-      "prerequisites": "HLTH 1000 or HLTH 1001 or permission of the department - Not for Health Sciences major students."
+      "prerequisites": "HLTH 1000 or HLTH 1001 or permission of the department - Not for Health Sciences major students.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2201",
       "name": "Applied Health Statistics",
       "credit": "0.5",
       "description": "Statistics concepts and procedures used in the analysis of health data; techniques commonly used to analyze data collected from different types of epidemiological and experimental study designs; how to use statistical software, and how to interpret and present statistical findings.",
-      "prerequisites": "HLTH 1000 and STAT 2507 ."
+      "prerequisites": "HLTH 1000 and STAT 2507 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 2901",
       "name": "Independent Study",
       "credit": "0.5",
       "description": "Independent study, open to second year and above. Students can explore a particular health-related topic in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
-      "prerequisites": "Second year standing and above."
+      "prerequisites": "Second year standing and above.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3101",
       "name": "Global Health",
       "credit": "0.5",
       "description": "Overview of issues in global health with focus on low- and middle-income countries. Key indicators and determinants of global health, implementation and evaluation of global programs, challenges of research and interventions in under served areas, and key players in addressing global health issues.",
-      "prerequisites": "HLTH 2001 and HLTH 2003 , or permission of the department."
+      "prerequisites": "HLTH 2001 and HLTH 2003 , or permission of the department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3102",
       "name": "Indigenous Health in a Global World",
       "credit": "0.5",
       "description": "The health conditions of Indigenous peoples in different regions of the world; social and biological factors that contribute to greater risk and poor health; strategies of Indigenous peoples to restore health to their peoples.",
-      "prerequisites": "HLTH 2001 and HLTH 2003 , or permission of the department."
+      "prerequisites": "HLTH 2001 and HLTH 2003 , or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3103",
       "name": "Health Policy and Canada's Health Care System",
       "credit": "0.5",
       "description": "The history of Canada\u2019s health care system. The model of financing and intergovernmental responsibilities. Current and emerging policy debates facing our health care system, and the role of scientific evidence in decision-making and policy development.",
-      "prerequisites": "HLTH 1000 or HLTH 1001 , or permission of the department."
+      "prerequisites": "HLTH 1000 or HLTH 1001 , or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3104",
       "name": "Regulatory Issues and Human Health",
       "credit": "0.5",
       "description": "The general principles of health regulatory policies in Canada. The role of scientific evidence in developing legislation and regulations at different levels, including probable levels of risk, standards of evidence, cost-benefit analysis, ethical considerations, psychosocial factors influencing risk management and compliance, and evolving technologies.",
-      "prerequisites": "HLTH 1000 or HLTH 1001 , or permission of the department."
+      "prerequisites": "HLTH 1000 or HLTH 1001 , or permission of the department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3201",
       "name": "Epidemiology",
       "credit": "0.5",
       "description": "Basic concepts of epidemiologic study designs and measures; inferences that are fundamental to the identification of causes and prevalence of diseases. Specialized issues within epidemiology including gene-environment interactions and the clustering of specific disease phenotypes.",
-      "prerequisites": "STAT 2507 and HLTH 2001 , or permission of the department."
+      "prerequisites": "STAT 2507 and HLTH 2001 , or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3302",
       "name": "Immunity and Immune-Related Disorders",
       "credit": "0.5",
       "description": "Basic processes relevant to the immune system; the relationship between immune activity and functioning as related to the development of particular pathologies, such as virally-related illness, autoimmune disorders, inflammatory illnesses, and interactions with social and economic factors that promote immune-related disturbances.",
-      "prerequisites": "HLTH 2002 and BIOL 2200 or permission of the department."
+      "prerequisites": "HLTH 2002 and BIOL 2200 or permission of the department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3303",
       "name": "Molecular and Cellular Pathology II",
       "credit": "0.5",
       "description": "Advanced concepts in cell signaling and function, cell injury and death, tissue structure and wound healing and repair. This course will integrate genetic, biochemical and physiological mechanisms that contribute to health and disease.",
-      "prerequisites": "HLTH 2002 ."
+      "prerequisites": "HLTH 2002 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3322",
       "name": "Immunity and Immune Related Disorders",
       "credit": "0.5",
       "description": "Basic processes relevant to the immune system; the relationship between immune activity and functioning as related to the development of particular pathologies, such as virally-related illness, autoimmune disorders, inflammatory illnesses and interactions with social and economic factors that promote immune-related disturbances. Non-Health Science Majors only.",
-      "prerequisites": "HLTH 2002 and BIOL 2200 , or permission of the department. Not open to Health Science students."
+      "prerequisites": "HLTH 2002 and BIOL 2200 , or permission of the department. Not open to Health Science students.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3401",
       "name": "Diseases of Childhood",
       "credit": "0.5",
       "description": "Epidemiological, psychological and physiological basis for disease in childhood and adolescence. Topics will be discussed from a global and Canadian perspective and include the medicalization of these diseases.",
-      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department."
+      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3402",
       "name": "Diseases of Aging",
       "credit": "0.5",
       "description": "Aging is accompanied by increased illness related to cardiovascular, immune and neurodegenerative processes. This course assesses the fundamental mechanisms that determine these pathological conditions. Molecular mechanisms and psychosocial determinants; intervention and therapeutic strategies.",
-      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of department."
+      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3403",
       "name": "Gender and Health",
       "credit": "0.5",
       "description": "The role of gender on psychosocial and biological mechanisms that alter the course of disease and treatment; health issues unique to women (e.g., reproductive and maternal health); the role of gender across cultures.",
-      "prerequisites": "HLTH 2002 and HLTH 2003 , or permission of the department."
+      "prerequisites": "HLTH 2002 and HLTH 2003 , or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3404",
       "name": "Psychosocial and Biological Interactions in Health",
       "credit": "0.5",
       "description": "The psychosocial and biological mechanisms that interact to influence health outcomes. Cultural, political, socioeconomic, and psychological factors that can impact the biological mechanisms underlying both mental and physical health; epigenetic and genetic alterations; implications for psychosocial interventions.",
-      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department."
+      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3503",
       "name": "Disability and Chronic Health Conditions",
       "credit": "0.5",
       "description": "An interdisciplinary view of disability and chronic health conditions, including risk factors, prevalence, and the trajectory of such conditions. Functional impact based on life stage. Strategies for health promotion, prevention, accommodations, treatment, and rehabilitation.",
-      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department."
+      "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3901",
       "name": "Emerging Issues in Health Sciences I",
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences. They provide the opportunity to bring together knowledge from other courses, and for skills development including teamwork, communication and critical thinking.",
-      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences."
+      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3902",
       "name": "Emerging Issues in Health Sciences II",
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences.  They provide the opportunity to bring together knowledge from other courses and for skills development, including teamwork, communication and critical thinking.",
-      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences."
+      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3903",
       "name": "Emerging Issues in Health Sciences III",
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences.  They provide the opportunity to bring together knowledge from other courses and for skills development, including teamwork, communication and critical thinking.",
-      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences."
+      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3904",
       "name": "Emerging Issues in Health Sciences IV",
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences.  They provide the opportunity to bring together knowledge from other courses and for skills development, including teamwork, communication and critical thinking.",
-      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences."
+      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 3905",
       "name": "Emerging Issues in Health Sciences V",
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences.  They provide the opportunity to bring together knowledge from other courses and for skills development, including teamwork, communication and critical thinking.",
-      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences."
+      "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4101",
       "name": "Global Health Governance",
       "credit": "0.5",
       "description": "Contemporary issues and debates in global health governance and effects on health monitoring and outcomes at individual and population levels. Historical patterns of global health, its regulatory framework, principal coordinating mechanisms and emerging challenges, and implications of globalization and international trade policies.",
-      "prerequisites": "HLTH 3101 , or permission of the department."
+      "prerequisites": "HLTH 3101 , or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4102",
       "name": "New Health Technologies",
       "credit": "0.5",
       "description": "Overview of new and emerging health technologies, including medical and assistive devices, diagnostics and screening, genetics, reproduction, tissue regeneration, imaging, and health informatics. Health technology assessment methods and issues. Regulatory, ethical and social implications; considerations in the developing world.",
-      "prerequisites": "HLTH 1000 or HLTH 1001 and third-year standing or higher, or permission of the department."
+      "prerequisites": "HLTH 1000 or HLTH 1001 and third-year standing or higher, or permission of the department.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4202",
       "name": "Health Program Evaluation Tools and Methods",
       "credit": "0.5",
       "description": "Introduction to concepts, principles and processes of evaluating health care programs and interventions. Methodological tools including needs assessment, project management skills, use of health information management databases. Issues in communication with stakeholders, including change management and decision making.",
-      "prerequisites": "HLTH 2001 and STAT 2507 or permission of the department."
+      "prerequisites": "HLTH 2001 and STAT 2507 or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4203",
       "name": "Social Dimensions of Aging",
       "credit": "0.5",
       "description": "This course explores social, cultural, and psychological dimensions of aging. Topics will include issues such as caregiving, ageism, palliative care, and policy impacts on older adults. Students will gain perspective for holistic, person-centered practice in diverse health settings that serve the growing older adult population.",
-      "prerequisites": "HLTH 2003 and third year standing or Permission of the Department."
+      "prerequisites": "HLTH 2003 and third year standing or Permission of the Department.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4301",
       "name": "Pandemics and Infectious Disease",
       "credit": "0.5",
       "description": "Factors that influence disease processes, including viruses, bacteria, protozoa, fungi and infectious agents, how these agents come to have the effects that they do in a given individual, how they spread within and how to limit their spread.",
-      "prerequisites": "HLTH 2004 and HLTH 3302 or permission of the department."
+      "prerequisites": "HLTH 2004 and HLTH 3302 or permission of the department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4302",
       "name": "Inflammatory and Endocrine Factors in Diseases",
       "credit": "0.5",
       "description": "Inflammatory and hormonal processes and their relevance to disease states. Immune-related disorders, heart disease and stroke, metabolic syndrome, diabetes, psychiatric conditions, and neurodegenerative disorders. The contribution of psychosocial and genetic factors to diseases.",
-      "prerequisites": "HLTH 3302 or BIOL 4200 or permission of the department."
+      "prerequisites": "HLTH 3302 or BIOL 4200 or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4303",
       "name": "Fundamentals in Pharmacology and Toxicology",
       "credit": "0.5",
       "description": "Introduction to pharmacological principles, xenobiotics and their interactions within living systems. Topics include biological mechanisms of action of xenobiotics on macromolecules, cells and their effects on various organ systems. Social, legal and governmental policies will be discussed.",
-      "prerequisites": "HLTH 3303 or permission of the department."
+      "prerequisites": "HLTH 3303 or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4304",
       "name": "Host-Pathogen Interactions",
       "credit": "0.5",
       "description": "Advanced cellular and molecular mechanisms governing host-pathogen interactions and their contribution to disease. Exploration of immune signaling and recognition, virulence factors, antimicrobial resistance and research techniques used in this field.",
-      "prerequisites": "HLTH 2004 and HLTH 3302 or permission of the department."
+      "prerequisites": "HLTH 2004 and HLTH 3302 or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4401",
       "name": "Maternal and Perinatal Determinants of Health",
       "credit": "0.5",
       "description": "The integrated genetic, physiologic and environmental events occurring in early life that impact pregnancy, fetal/infant development and disease risk throughout the lifecourse, with a focus on the mechanisms driving these events.",
-      "prerequisites": "HLTH 2003 and HLTH 3302 or permission of the department."
+      "prerequisites": "HLTH 2003 and HLTH 3302 or permission of the department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4403",
       "name": "Gender and Health",
       "credit": "0.5",
       "description": "The role of gender on psychosocial and biological mechanisms that alter the course of disease and treatment; health issues unique to women (e.g., reproductive and maternal health); the role of gender across cultures.",
-      "prerequisites": "HLTH 3101 ."
+      "prerequisites": "HLTH 3101 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4502",
       "name": "Disabilities and Disorders Related to Sensory Nervous System",
       "credit": "0.5",
       "description": "Congenital and acquired disabilities related to sensory organs and processes, including visual and hearing impairments, vestibular and balance disorders, reflex problems, and others. Interdisciplinary approach to causes, mechanisms, accessibility, accommodations and interventions.",
-      "prerequisites": "Either 1) HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ), or 2) NEUR 3206 , or 3) permission of the department."
+      "prerequisites": "Either 1) HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ), or 2) NEUR 3206 , or 3) permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4503",
       "name": "Trauma-related Disability and Impairments",
       "credit": "0.5",
       "description": "Biomedical and psychosocial factors associated with trauma-related illnesses, stressors, injuries and disabilities, including traumatic brain injury, spinal cord injury, fractures, amputations, burns, post-traumatic stress disorder, and others. Short- and long-term considerations for care and rehabilitation.",
-      "prerequisites": "HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ) or permission of the department."
+      "prerequisites": "HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ) or permission of the department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4601",
       "name": "Environmental Pollution and Health",
       "credit": "0.5",
       "description": "Introduction to environmental and occupational health;  detection, assessment, management and mitigation of chemical, physical and biological hazards.",
-      "prerequisites": "HLTH 3104 or permission of the department."
+      "prerequisites": "HLTH 3104 or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4701",
       "name": "Knowledge Translation",
       "credit": "0.5",
       "description": "The application of knowledge translation in the formulation of policy and the development of skills required to maximize the impact of scientific findings through real world programs and policies and communication skills for diverse audiences.",
-      "prerequisites": "fourth-year standing and permission of the Department of Health Science and permission of the instructor."
+      "prerequisites": "fourth-year standing and permission of the Department of Health Science and permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4901",
       "name": "Directed Studies in Health",
       "credit": "0.5",
       "description": "Independent study, open to third- and fourth-year students to explore a particular health related topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
-      "prerequisites": "third- or fourth-year standing in the B.H.Sc. program, in addition to permission of the Faculty supervisor and the Department of Health Sciences."
+      "prerequisites": "third- or fourth-year standing in the B.H.Sc. program, in addition to permission of the Faculty supervisor and the Department of Health Sciences.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4906",
       "name": "Capstone course \u2013 Research Essay",
       "credit": "1.0",
       "description": "Independent critical review and research proposal on a health- related topic, using library, database and/or bioinformatics resources, under the supervision of the course instructor. Seminar topics include identification and critical review of resources, development of scientific writing skills, and formulation of health science-related research.",
-      "prerequisites": "fourth-year standing in the B.H.Sc. Honours and permission of the Department of Health Sciences."
+      "prerequisites": "fourth-year standing in the B.H.Sc. Honours and permission of the Department of Health Sciences.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4907",
       "name": "Capstone Course \u2013 Group Research Project",
       "credit": "1.0",
       "description": "A collaborative project on a health related topic. Students, working together as a team, will complete a research project and develop communication and research skills under the supervision of the faculty supervisor. Evaluation will be based on a written report and oral presentation.",
-      "prerequisites": "fourth-year standing in the B.H.Sc. Honours program, one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 , a major CGPA of at least 9.0, and permission of the Faculty supervisor and the Department of Health Sciences."
+      "prerequisites": "fourth-year standing in the B.H.Sc. Honours program, one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 , a major CGPA of at least 9.0, and permission of the Faculty supervisor and the Department of Health Sciences.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4909",
       "name": "Capstone Course \u2013 Field Placement and Research Project",
       "credit": "1.0",
       "description": "Field placement providing practical experience in a health-related field. Placements may be in institutional or community settings, governmental or non-governmental organizations. Sites may vary each year. Evaluation based on a written report and an oral presentation.",
-      "prerequisites": "fourth-year standing in B.H.Sc. Honours; and one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 ; and a minimum Overall and Major CGPA of 9.0; and permission of the Department of Health Sciences."
+      "prerequisites": "fourth-year standing in B.H.Sc. Honours; and one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 ; and a minimum Overall and Major CGPA of 9.0; and permission of the Department of Health Sciences.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HLTH 4910",
       "name": "Honours Individual Research Thesis",
       "credit": "1.0",
       "description": "An independent health related research project under the direct supervision of a faculty member. Evaluation will be based on a written thesis and oral poster presentation (oral or poster).",
-      "prerequisites": "fourth-year standing in B.Sc. Honours Health Sciences, one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 , a major CGPA of at least 10.0, and permission of the Faculty advisor and the Department of Health Sciences. Permission will depend, in part, on capacity, such that meeting the minimum requirements does not guarantee enrollment in this research thesis course."
+      "prerequisites": "fourth-year standing in B.Sc. Honours Health Sciences, one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 , a major CGPA of at least 10.0, and permission of the Faculty advisor and the Department of Health Sciences. Permission will depend, in part, on capacity, such that meeting the minimum requirements does not guarantee enrollment in this research thesis course.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

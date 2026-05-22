@@ -7,434 +7,694 @@
       "name": "French Reading I",
       "credit": "0.5",
       "description": "Development of reading skills in French, especially relating to academic texts. Basic French grammar and vocabulary. Given in English. Not recommended for first-year students. No auditors. Course may be taken concurrently with or .",
-      "prerequisites": "placement test on Carleton Central or permission of the Department."
+      "prerequisites": "placement test on Carleton Central or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 2205",
       "name": "Oral Comprehension I",
       "credit": "0.5",
       "description": "Training in basic comprehension of spoken French, through the study of selected and edited video and audio material. Oral documents in French; analyses, discussion, reporting and testing in English. No auditors.",
-      "prerequisites": "permission of the Department."
+      "prerequisites": "permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 2511",
       "name": "Introduction \u00e0 la soci\u00e9t\u00e9 et \u00e0 la culture qu\u00e9b\u00e9coises (version fran\u00e7aise)",
       "credit": "0.5",
       "description": "Ce cours exclusivement en ligne permettra de d\u00e9couvrir et d'analyser des r\u00e9f\u00e9rents dominants de la trame historique du Qu\u00e9bec de m\u00eame que les d\u00e9bats entourant l'identit\u00e9 et le nationalisme et les relations avec le Canada anglais.",
-      "prerequisites": "niveau de deuxi\u00e8me ann\u00e9e ou permission de L'\u00c9cole d'\u00e9tudes canadiennes."
+      "prerequisites": "niveau de deuxi\u00e8me ann\u00e9e ou permission de L'\u00c9cole d'\u00e9tudes canadiennes.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 3105",
       "name": "French Reading II",
       "credit": "0.5",
       "description": "Reading knowledge for academic purposes. Advanced reading strategies. Individual reading in the student's specialization. Given in English. Not recommended for first-year students. No auditors. Course may be taken concurrently with .",
-      "prerequisites": "placement test on Carleton Central or FINS 2105 or permission of the Department."
+      "prerequisites": "placement test on Carleton Central or FINS 2105 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 3205",
       "name": "Oral Comprehension II",
       "credit": "0.5",
       "description": "Advanced training and practice in the comprehension of authentic oral materials in French. Individual assignments in the student's specialization. Oral documents in French; analysis, discussion, reporting and testing in English and French. No auditors.",
-      "prerequisites": "FINS 2205 or permission of the Department."
+      "prerequisites": "FINS 2205 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 3405",
       "name": "French for Special or Professional Purposes I",
       "credit": "0.5",
       "description": "Topics may vary from year to year. Consult the Web site.",
-      "prerequisites": "permission of the Department."
+      "prerequisites": "permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 3406",
       "name": "French for Special or Professional Purposes II",
       "credit": "0.5",
       "description": "Topics may vary from year to year. Consult the Web site.",
-      "prerequisites": "permission of the Department."
+      "prerequisites": "permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 3407",
       "name": "French for Special or Professional Purposes III",
       "credit": "0.5",
       "description": "Topics may vary from year to year. Consult the Web site.",
-      "prerequisites": "permission of the Department."
+      "prerequisites": "permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 3801",
       "name": "Selected Topics in French A",
       "credit": "0.5",
       "description": "Students may take a third-year course offered in the Department of French while submitting course work in English. This course does not count towards any degree program in French.",
-      "prerequisites": "third-year standing and permission of the Department."
+      "prerequisites": "third-year standing and permission of the Department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 4801",
       "name": "Selected Topics in French A",
       "credit": "0.5",
       "description": "Students may take a fourth- or fifth-year special topic seminar offered in the Department of French while submitting written work in English. This course does not count towards credit in any degree program in French.",
-      "prerequisites": "fourth-year standing or permission of the Department."
+      "prerequisites": "fourth-year standing or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FINS 4802",
       "name": "Selected Topics in French B",
       "credit": "0.5",
       "description": "Students may take a fourth- or fifth-year special topic seminar offered in the Department of French while submitting written work in English. This course does not count towards credit in any degree program in French.",
-      "prerequisites": "fourth-year standing or permission of the Department."
+      "prerequisites": "fourth-year standing or permission of the Department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 1001",
       "name": "French 1",
       "credit": "1.0",
       "description": "This course is designed for absolute beginners in the language. Classes use audio-visual methods, and emphasis is given to the spoken language. Introduction to reading and writing. Compulsory attendance. Limited enrolment. No auditors. Oral interaction required.",
-      "prerequisites": "placement test on Carleton Central before registering."
+      "prerequisites": "placement test on Carleton Central before registering.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 1002",
       "name": "French 2",
       "credit": "1.0",
       "description": "Taught in French for students who had exposure to French but have difficulty using it in day-to-day communication. Emphasis on oral expression and comprehension; development of reading and writing skills. Presentations, interviews, cultural activities, grammar. Compulsory attendance, participation. Limited enrolment. No auditors. Oral interaction required.",
-      "prerequisites": "Grade of C or higher in FREN 1001 or placement test on Carleton Central before registering."
+      "prerequisites": "Grade of C or higher in FREN 1001 or placement test on Carleton Central before registering.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 1050",
       "name": "Le fran\u00e7ais en classe et dans le monde",
       "credit": "0.5",
       "description": "The development of written and oral communication skills, as well as research and study skills, through an introduction to the diversity of the French language and francophone literatures and cultures. Conducted in French with some workshops in English.",
-      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering. Restricted to students in first and second year."
+      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering. Restricted to students in first and second year.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 1100",
       "name": "French 3",
       "credit": "1.0",
       "description": "Taught in French. Emphasis on speaking, listening, reading and writing skills. Oral presentations, discussions, interviews, reading of novels and magazine articles, listening activities, grammar exercises, compositions. Attendance and participation are compulsory. Limited enrolment. No auditors. Oral interaction required.",
-      "prerequisites": "Grade of C or higher in FREN 1002 or placement test on Carleton Central before registering."
+      "prerequisites": "Grade of C or higher in FREN 1002 or placement test on Carleton Central before registering.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 1110",
       "name": "French 3: Writing",
       "credit": "1.0",
       "description": "Taught in French. For students with high oral proficiency and low intermediate writing skills. Improvement of spelling, grammar, sentence-structure, and vocabulary. Study of the processes involved in the production of a variety of texts. Use of references. Self-correction. Limited enrolment. No auditors. Oral interaction required.",
-      "prerequisites": "Grade of C or higher in FREN 1002 or placement test on Carleton Central before registering."
+      "prerequisites": "Grade of C or higher in FREN 1002 or placement test on Carleton Central before registering.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 2100",
       "name": "French 4",
       "credit": "1.0",
       "description": "Taught in French. For non-francophone students. Advanced speaking, listening, reading and writing skills. Advanced level reading from various sources, including literary texts. Grammar exercises, essays, oral presentations. Attendance and participation are compulsory. Limited enrolment. No auditors. Oral interaction required.",
-      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering."
+      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 2110",
       "name": "French 4: Writing",
       "credit": "1.0",
       "description": "Taught in French. For students with intermediate French writing skills. Refinement of spelling, grammar, sentence-structure and vocabulary; accuracy and textual organization. Essay-writing. Use and referencing of various sources. Self-correction. Attendance and participation compulsory. Limited enrolment. No auditors. Oral interaction required.",
-      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering."
+      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 2202",
       "name": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones",
       "credit": "0.5",
       "description": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise: principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
-      "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 ."
+      "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": [
+        "FREN 2100",
+        "FREN 2110"
+      ]
     },
     {
       "code": "FREN 2203",
       "name": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres qu\u00e9b\u00e9coises et canadiennes",
       "credit": "0.5",
       "description": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise au Qu\u00e9bec et au Canada: principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
-      "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 ."
+      "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": [
+        "FREN 2100",
+        "FREN 2110"
+      ]
     },
     {
       "code": "FREN 2401",
       "name": "Introduction \u00e0 la linguistique fran\u00e7aise",
       "credit": "1.0",
       "description": "\u00c9tude de la structure et du fonctionnement du syst\u00e8me linguistique \u00e0 travers l'analyse de donn\u00e9es du fran\u00e7ais (de France et du Canada). La construction du sens, des sons au discours; code oral et \u00e9crit.",
-      "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 ."
+      "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": [
+        "FREN 2100",
+        "FREN 2110"
+      ]
     },
     {
       "code": "FREN 2701",
       "name": "Travaux pratiques en fran\u00e7ais oral",
       "credit": "0.5",
       "description": "Travaux pratiques pour d\u00e9velopper l\u2019aisance et la fluidit\u00e9 dans l\u2019expression orale. This course is not suitable for francophones or students returning from exchange. No auditors.",
-      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering."
+      "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3050",
       "name": "Comp\u00e9tences critiques",
       "credit": "0.5",
       "description": "Initiation aux techniques et pratiques de la r\u00e9flexion universitaire : documentation (biblioth\u00e8que, bases de donn\u00e9es, bibliographies critiques), lecture (analyse, synth\u00e8se  et \u00e9valuation critique de textes de savoir) et r\u00e9flexion (cadre th\u00e9orique, m\u00e9thode d'analyse, pratique du discours raisonn\u00e9).",
-      "prerequisites": "FREN 2202 , FREN 2203 and FREN 2401 , or permission of the Department."
+      "prerequisites": "FREN 2202 , FREN 2203 and FREN 2401 , or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3060",
       "name": "Perfectionnement de la grammaire par la pratique",
       "credit": "0.5",
       "description": "Analyse et pratique r\u00e9fl\u00e9chie des formes de la grammaire dans le discours: Structures des phrases, marques d\u2019accord, concordance des temps, pr\u00e9positions et compl\u00e9ments, homonymie et homographie, faux amis et anglicismes. D\u00e9veloppement des techniques efficaces d\u2019autocorrection et ma\u00eetrise d\u2019outils informatis\u00e9s.",
-      "prerequisites": "FREN 2202 and FREN 2203 or FREN 2401 , or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 or FREN 2401 , or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3212",
       "name": "Des manuscrits aux belles-lettres : de la litt\u00e9rature m\u00e9di\u00e9vale \u00e0 l'humanisme",
       "credit": "0.5",
       "description": "\u00c9tude d'une s\u00e9lection de textes, tir\u00e9s de divers genres, permettant d'explorer les origines de la litt\u00e9rature fran\u00e7aise : oralit\u00e9 et \u00e9criture; chansons de geste; courtoisie; r\u00e9cits de voyages; litt\u00e9rature de la cour; humanisme. Diff\u00e9rentes approches th\u00e9oriques du texte litt\u00e9raire.",
-      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3213",
       "name": "Du Baroque aux Lumi\u00e8res",
       "credit": "0.5",
       "description": "\u00c9tude des 17e et 18e si\u00e8cles : raison et universalisme, encyclop\u00e9disme, construction et repr\u00e9sentation de l'alt\u00e9rit\u00e9, colonialisme et esclavagisme. Analyse d'importants d\u00e9veloppements litt\u00e9raires : essai et conte philosophiques, th\u00e9\u00e2tre et critique sociale, \u00e9volution du discours romanesque. Approches th\u00e9oriques du texte litt\u00e9raire.",
-      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3214",
       "name": "R\u00e9volutions, avant-gardes et ruptures : du 19e si\u00e8cle aux ann\u00e9es 1950",
       "credit": "0.5",
       "description": "\u00c9tude de quelques grands mouvements ayant rythm\u00e9 la vie des lettres francophones : romantisme, r\u00e9alisme, naturalisme, symbolisme, surr\u00e9alisme, modernisme. La litt\u00e9rature de la d\u00e9colonisation et l'\u00e9mergence de la litt\u00e9rature canadienne-fran\u00e7aise. Analyse des genres et de leur \u00e9volution. Approches th\u00e9oriques du texte litt\u00e9raire.",
-      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3215",
       "name": "Les \u00e8res du soup\u00e7on : contemporan\u00e9it\u00e9s de la litt\u00e9rature",
       "credit": "0.5",
       "description": "\u00c9tudes des principales orientations d\u00e9finissant les litt\u00e9ratures francophones contemporaines depuis la fin de la Seconde Guerre mondiale : litt\u00e9rature engag\u00e9e, existentialisme, nouveau roman. Litt\u00e9rature du Qu\u00e9bec et du Canada fran\u00e7ais. Litt\u00e9ratures postcoloniales, \u00e9mergentes, transnationales. Approches th\u00e9oriques du texte litt\u00e9raire.",
-      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3216",
       "name": "Probl\u00e9matique litt\u00e9raire",
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019une probl\u00e9matique dans le champ des \u00e9tudes litt\u00e9raires. Lectures critiques, r\u00e9flexion th\u00e9orique et \u00e9tudes d\u2019\u0153uvres litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3217",
       "name": "Oeuvre et auteur-e(s)",
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019un(e) auteur(e) ou groupe d\u2019auteur(e)s et de leur \u0153uvre. Lectures critiques, th\u00e9oriques et litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3218",
       "name": "Genre et mouvement",
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019un genre ou mouvement litt\u00e9raire. Conditions d'\u00e9mergence (contextes: historique, social, artistique, etc). Textes th\u00e9oriques et manifestes. Principaux repr\u00e9sentants. Influence (continuations, ruptures). Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3219",
       "name": "Litt\u00e9ratures canadiennes de langue fran\u00e7aise",
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019un(e) auteur(e) ou groupe d\u2019auteur(e)s canadien(ne)s et de leurs \u0153uvres de langue fran\u00e7aise. Lectures critiques, th\u00e9oriques et litt\u00e9raires. Contenu variable selon les ann\u00e9es: consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when topic changes.",
-      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3251",
       "name": "Introduction aux m\u00e9thodes d'analyse litt\u00e9raire",
       "credit": "0.5",
       "description": "Pr\u00e9sentation et application de diverses approches th\u00e9oriques du texte litt\u00e9raire ou \u00e9tude approfondie d\u2019une approche th\u00e9orique particuli\u00e8re (analyses structurelles, m\u00e9thodes d'interpr\u00e9tation, contextualisation sociohistorique, po\u00e9tique, etc.).",
-      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3310",
       "name": "Sujet choisi en fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tude d\u2019un th\u00e8me particulier en fran\u00e7ais et \u00e9tudes francophones. Le contenu varie selon l\u2019ann\u00e9e : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "one FREN course at the 2000-level, or permission of the Department."
+      "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3411",
       "name": "Phon\u00e9tique et phonologie du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tude empirique et th\u00e9orique des \u00e9l\u00e9ments et syst\u00e8mes phon\u00e9tiques et phonologiques du fran\u00e7ais. Processus segmentaux et suprasegmentaux, structures syllabiques et prosodiques. Probl\u00e8mes classiques de la phonologie fran\u00e7aise.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3412",
       "name": "Morphologie du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tude de la forme des unit\u00e9s lexicales et grammaticales du fran\u00e7ais et de leur port\u00e9e signifiante. Analyse du syst\u00e8me flexionnel du fran\u00e7ais et des m\u00e9canismes de formation des mots.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3413",
       "name": "Syntaxe du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tudes de la structure et des composantes de la phrase: mots et syntagmes. Analyse syntaxique de la phrase simple et complexe. Mod\u00e8le hi\u00e9rarchique de l\u2019organisation de la phrase.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3414",
       "name": "Sociolinguistique du fran\u00e7ais",
       "credit": "0.5",
       "description": "Le fran\u00e7ais, une r\u00e9alit\u00e9 h\u00e9t\u00e9rog\u00e8ne. Approche variationniste, qualitative et quantitative, de l'\u00e9tude du fran\u00e7ais dans ses dimensions dialectales, sociales et stylistiques. Variations intra-individuelles et entre individus. Facteurs externes de la variation interne du fran\u00e7ais. Diversit\u00e9s du fran\u00e7ais.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3415",
       "name": "Histoire du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9volution interne de l'histoire du fran\u00e7ais et de ses influences externes. De sa naissance, pr\u00e9sum\u00e9e et r\u00e9elle, \u00e0 ses \u00e9tats actuels. Les langues contributrices. Contacts linguistiques. Dynamiques du changement linguistique. V\u00e9hicularisation et vernacularisation. Id\u00e9ologies de la langue fran\u00e7aise.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3416",
       "name": "Le fran\u00e7ais dans le monde",
       "credit": "0.5",
       "description": "Pr\u00e9sentation des vari\u00e9t\u00e9s de fran\u00e7ais parl\u00e9 dans le monde, principalement \u00e0 l\u2019ext\u00e9rieur du Canada. \u00c9tude des aspects historiques et sociopolitiques de la diffusion du fran\u00e7ais. Analyse des traits linguistiques propres aux vari\u00e9t\u00e9s. Colonisation, cr\u00e9olisation, emprunt linguistique, variation r\u00e9gionale, am\u00e9nagement linguistique.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3417",
       "name": "Le fran\u00e7ais au Canada",
       "credit": "0.5",
       "description": "Pr\u00e9sentation des vari\u00e9t\u00e9s de fran\u00e7ais parl\u00e9 au Canada. \u00c9tude des aspects historiques et sociopolitiques de l\u2019implantation du fran\u00e7ais en Nouvelle-France. Vari\u00e9t\u00e9s laurentienne et acadienne. Analyse des traits linguistiques. Enjeux sociolinguistiques. Contact des langues, bilinguisme, minorit\u00e9s linguistiques.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3451",
       "name": "Th\u00e8me en linguistique",
       "credit": "0.5",
       "description": "\u00c9tude d\u2019un th\u00e8me particulier en linguistique fran\u00e7aise. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2401 or permission of the Department."
+      "prerequisites": "FREN 2401 or permission of the Department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3511",
       "name": "Expression \u00e9crite et traduction",
       "credit": "0.5",
       "description": "Perfectionnement de l'expression \u00e9crite au moyen d'un apprentissage appliqu\u00e9 de la traduction. Analyses des principales interf\u00e9rences syntaxiques, s\u00e9mantiques et discursives entre le fran\u00e7ais et l'anglais. Approfondissement des pratiques de textualisation: coh\u00e9rence et coh\u00e9sion, idiomatisation, registres, paraphrase, consid\u00e9rations stylistiques, etc. Approche privil\u00e9giant le texte pragmatique.",
-      "prerequisites": "one FREN course at the 2000-level, or permission of the Department."
+      "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3701",
       "name": "Fran\u00e7ais oral",
       "credit": "0.5",
       "description": "Techniques avanc\u00e9es d'expression orale. This course is not suitable for francophones. This course is suitable for students returning from exchange. No auditors.",
-      "prerequisites": "one FREN course at the 2000-level, or permission of the Department."
+      "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3702",
       "name": "Fran\u00e7ais \u00e9crit",
       "credit": "0.5",
       "description": "Techniques avanc\u00e9es d'expression \u00e9crite. No auditors.",
-      "prerequisites": "one FREN course at the 2000-level, or permission of the Department."
+      "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3900",
       "name": "Apprentissage et enseignement du fran\u00e7ais langue seconde",
       "credit": "0.5",
       "description": "Initiation aux \u00e9tudes des programmes au Canada et ailleurs. Processus d'acquisition des habilet\u00e9s d'expression et de compr\u00e9hension. Survol des th\u00e9ories pass\u00e9es et actuelles. Appr\u00e9ciation et critique de pratiques p\u00e9dagogiques.",
-      "prerequisites": "one FREN course at the 2000-level, or permission of the Department."
+      "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
       "description": "",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4060",
       "name": "Projet de recherche supervis\u00e9",
       "credit": "0.5",
       "description": "D\u00e9veloppement d\u2019un projet individuel supervis\u00e9 en litt\u00e9rature ou en linguistique, amorc\u00e9 dans un cours ant\u00e9rieur de 4e ann\u00e9e. Raffinement de l\u2019expression et des id\u00e9es. Pr\u00e9sentation publique des r\u00e9sultats.",
-      "prerequisites": "fourth-year standing in the BA Honours in French, FREN 3050 and one FREN course at the 4th year level."
+      "prerequisites": "fourth-year standing in the BA Honours in French, FREN 3050 and one FREN course at the 4th year level.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4212",
       "name": "Litt\u00e9ratures francophones",
       "credit": "0.5",
       "description": "Analyse de probl\u00e9matiques li\u00e9es \u00e0 la francophonie litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4213",
       "name": "Litt\u00e9rature qu\u00e9b\u00e9coise et canadienne d'expression fran\u00e7aise",
       "credit": "0.5",
       "description": "\u00c9tude approfondie portant sur un ou plusieurs aspects des litt\u00e9ratures d'expression fran\u00e7aise au Canada. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4214",
       "name": "Genre et mouvement",
       "credit": "0.5",
       "description": "\u00c9tude approfondie d'un th\u00e8me, d'un mouvement, d'un genre dans le champ litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4215",
       "name": "Probl\u00e9matiques contemporaines",
       "credit": "0.5",
       "description": "\u00c9tude de questions contemporaines dans le domaine litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4300",
       "name": "Experiential Learning in French and Francophone Studies",
       "credit": "0.5",
       "description": "Th\u00e8me choisi en langue, litt\u00e9rature ou linguistique. Application des habilet\u00e9s linguistiques en contexte francophone. Le th\u00e8me et le lieu peut varier d\u2019une ann\u00e9e \u00e0 l\u2019autre, consulter le site du D\u00e9partement de fran\u00e7ais pour plus de d\u00e9tails.",
-      "prerequisites": "FREN 2202 and FREN 2203 , or FREN 2401 , depending on the topic, and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2202 and FREN 2203 , or FREN 2401 , depending on the topic, and FREN 3050 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4301",
       "name": "Experiential learning: S\u00e9minaire d'\u00e9t\u00e9 \u00e0 Qu\u00e9bec",
       "credit": "0.5",
       "description": "Exploration de la ville de Qu\u00e9bec, de sa port\u00e9e historique et culturelle et de l\u2019importance de sa litt\u00e9rature. Applications des habilet\u00e9s linguistiques en contexte, visites, discussions et r\u00e9flexions.",
-      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4412",
       "name": "Diversit\u00e9 du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4413",
       "name": "Diachronie du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions historiques. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4414",
       "name": "Analyse du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions morphologiques, syntaxiques ou phonologiques. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the department."
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4415",
       "name": "Variation du fran\u00e7ais",
       "credit": "0.5",
       "description": "\u00c9tude des variations internes de la langue, dans ses dimensions orales et \u00e9crites. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
-      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department."
+      "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4511",
       "name": "Traduction : m\u00e9thodologie et pratique",
       "credit": "0.5",
       "description": "Initiation \u00e0 diff\u00e9rents principes et approches m\u00e9thodologiques de la traduction. Analyse de texte appliqu\u00e9e \u00e0 la traduction, rep\u00e9rage raisonn\u00e9 des difficult\u00e9s, typologie des fautes de traduction, \u00e9tude de divers proc\u00e9d\u00e9s, documentation, terminologie et r\u00e9vision. Approche privil\u00e9giant une typologie textuelle vari\u00e9e.",
-      "prerequisites": "FREN 3511 or permission of the Department."
+      "prerequisites": "FREN 3511 or permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4801",
       "name": "Tutorial A",
       "credit": "1.0",
       "description": "Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
-      "prerequisites": "fourth-year standing or permission of the Department."
+      "prerequisites": "fourth-year standing or permission of the Department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4802",
       "name": "Tutorial B",
       "credit": "0.5",
       "description": "Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
-      "prerequisites": "fourth-year standing or permission of the Department."
+      "prerequisites": "fourth-year standing or permission of the Department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FREN 4900",
       "name": "Th\u00e8me choisi en apprentissage et enseignement du fran\u00e7ais langue seconde",
       "credit": "0.5",
       "description": "Approfondissement de consid\u00e9rations th\u00e9oriques et pratiques reli\u00e9es \u00e0 l\u2019enseignement et l\u2019apprentissage du fran\u00e7ais comme langue seconde. Analyse de composantes p\u00e9dagogiques g\u00e9n\u00e9rales et en contexte, applications didactiques. \u00c9valuation, crit\u00e8res et standards. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site Web.",
-      "prerequisites": "fourth-year standing or permission of the Department."
+      "prerequisites": "fourth-year standing or permission of the Department.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

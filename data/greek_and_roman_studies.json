@@ -7,399 +7,651 @@
       "name": "Survey of Greek Civilization",
       "credit": "0.5",
       "description": "Introduction to the study of Greek antiquity and the discipline of Classics and its methodologies. Greek culture and society are set in their historical contexts and studied through readings from representative ancient authors (in English translation) and through the art and architecture of the period.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 1003",
       "name": "Survey of Roman Civilization",
       "credit": "0.5",
       "description": "Introduction to the study of Roman antiquity and the discipline of Classics and its methodologies. The culture and society are set in their historical context and studied through readings from representative ancient authors (in English translation) and through the art and architecture of the period.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 1004",
       "name": "Elementary Language Tutorial I",
       "credit": "0.5",
       "description": "Elementary study of an ancient language.",
-      "prerequisites": "Permission of the unit."
+      "prerequisites": "Permission of the unit.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 1005",
       "name": "Elementary Language Tutorial II",
       "credit": "0.5",
       "description": "Elementary study of an ancient language.",
-      "prerequisites": "Permission of the department."
+      "prerequisites": "Permission of the department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 1008",
       "name": "Introduction to Archaeology I",
       "credit": "0.5",
       "description": "Introduction to the history, theory and practice of field archaeology.  Excavations from all time periods and global regions will be discussed.  Focus will be placed on excavation methods and technology, including dating, that enhance understanding of sites both on land and underwater.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 1009",
       "name": "Introduction to Archaeology II",
       "credit": "0.5",
       "description": "Continues the examination of various aspects of field archaeology begun in .  This course places greater focus on recent approaches to the interpretation of remains.  These include environmental, cognitive and bioarchaeological approaches.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2004",
       "name": "Intermediate Language Tutorial I",
       "credit": "0.5",
       "description": "Intermediate study of an ancient language.",
-      "prerequisites": "permission of the unit."
+      "prerequisites": "permission of the unit.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2005",
       "name": "Intermediate Language Tutorial II",
       "credit": "0.5",
       "description": "Intermediate study of an ancient language.",
-      "prerequisites": "permission of the unit."
+      "prerequisites": "permission of the unit.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2008",
       "name": "Greek and Roman Epic",
       "credit": "0.5",
       "description": "An examination of the genre of epic in Greco-Roman antiquity, including a close reading of translations of Homer and Vergil.",
-      "prerequisites": "second year standing or permission of the unit."
+      "prerequisites": "second year standing or permission of the unit.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2010",
       "name": "Greek and Roman Drama",
       "credit": "0.5",
       "description": "An examination of the genres of tragedy and comedy in Greco-Roman antiquity.",
-      "prerequisites": "second year standing or permission of the unit."
+      "prerequisites": "second year standing or permission of the unit.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2100",
       "name": "Scientific and Medical Terminology",
       "credit": "0.5",
       "description": "Examination of Ancient Greek and Latin roots of technical terms found in the sciences, engineering, and medicine.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2103",
       "name": "Greek Religion",
       "credit": "0.5",
       "description": "A study of religion in ancient Greece.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2104",
       "name": "Roman Religion",
       "credit": "0.5",
       "description": "A study of religion in ancient Rome.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2105",
       "name": "Ancient Philosophy: The Search for Wisdom",
       "credit": "1.0",
       "description": "An exploration of ancient philosophy as a search for wisdom and happiness from its Presocratic beginnings in Greece to its development in the Hellenistic world and Imperial Rome. Emphasis on philosophy as a contemplative activity and as a way of life.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2303",
       "name": "Greek Art and Archaeology",
       "credit": "0.5",
       "description": "The art, architecture and archaeology of ancient Greece.  Vase painting, sculpture, architecture, town planning and analogous arts.",
-      "prerequisites": "second-year standing or permission of the unit."
+      "prerequisites": "second-year standing or permission of the unit.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2304",
       "name": "Roman Art and Archaeology",
       "credit": "0.5",
       "description": "The art, architecture and archaeology of the ancient Romans.  Vase painting, sculpture, architecture, town planning and analogous arts are studied.",
-      "prerequisites": "second-year standing or permission of the unit."
+      "prerequisites": "second-year standing or permission of the unit.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2305",
       "name": "Ancient Science and Technology",
       "credit": "1.0",
       "description": "The development and application of ancient science and technology in the fields of ancient engineering, machinery, metallurgy, transport, building, agriculture and Hippocratic medicine; the social position of craftsmen and artisans, the attitude of intellectuals to science and manual labour, the effects of slavery.",
-      "prerequisites": "second-year standing or permission of the Department. This course is suitable for students with no previous knowledge of Greece or Rome."
+      "prerequisites": "second-year standing or permission of the Department. This course is suitable for students with no previous knowledge of Greece or Rome.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2500",
       "name": "Classical Mythology",
       "credit": "0.5",
       "description": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth.",
-      "prerequisites": "second-year standing or permission of the unit."
+      "prerequisites": "second-year standing or permission of the unit.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2902",
       "name": "Origins of the Greeks",
       "credit": "0.5",
       "description": "The history of ancient Greece from the Bronze Age through the Archaic period.",
-      "prerequisites": "second-year standing or permission of unit."
+      "prerequisites": "second-year standing or permission of unit.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2903",
       "name": "Democracy to Alexander",
       "credit": "0.5",
       "description": "The history of ancient Greece from the classical period to Alexander.",
-      "prerequisites": "second-year standing or permission of the unit."
+      "prerequisites": "second-year standing or permission of the unit.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2904",
       "name": "Rise of the Roman Empire",
       "credit": "0.5",
       "description": "The history of ancient Rome from early Rome to the end of the Republic.",
-      "prerequisites": "second-year standing or permission of the unit."
+      "prerequisites": "second-year standing or permission of the unit.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2905",
       "name": "Rome of the Caesars",
       "credit": "0.5",
       "description": "The history of ancient Rome from the end of the Republic to the coming of Islam.",
-      "prerequisites": "second-year standing or permission of the unit."
+      "prerequisites": "second-year standing or permission of the unit.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 2906",
       "name": "Studies in Classical Civilization",
       "credit": "0.5",
       "description": "A study of a selected topic in ancient history, literature, languages, culture, archaeology and/or technology.",
-      "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3000",
       "name": "Topics in Ancient History",
       "credit": "0.5",
       "description": "A study of a selected topic in ancient history.",
-      "prerequisites": "third-year standing or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "third-year standing or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3001",
       "name": "Early Greek Philosophy",
       "credit": "0.5",
       "description": "A study of the pre-Socratic philosophers and of the Sophists and Socrates.",
-      "prerequisites": "CLCV 2105 or PHIL 2005 or permission of the Philosophy department."
+      "prerequisites": "CLCV 2105 or PHIL 2005 or permission of the Philosophy department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3003",
       "name": "Topics in Classical Civilization",
       "credit": "0.5",
       "description": "A study of a selected topic in classical civilization.",
-      "prerequisites": "third-year standing or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "third-year standing or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3010",
       "name": "The Later Roman Empire",
       "credit": "0.5",
       "description": "The study of major developments - administrative, ecclesiastical, cultural and societal - of the later Roman Empire.",
-      "prerequisites": "a 2000-level CLCV course."
+      "prerequisites": "a 2000-level CLCV course.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3011",
       "name": "Topics in Ancient Philosophy",
       "credit": "0.5",
       "description": "A study of philosophers, texts, problems and issues in ancient philosophy, generally with a focus on Plato and Aristotle.",
-      "prerequisites": "0.5 credit in PHIL and second-year standing, or permission of the Philosophy department."
+      "prerequisites": "0.5 credit in PHIL and second-year standing, or permission of the Philosophy department.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3201",
       "name": "Studies in Greek History",
       "credit": "0.5",
       "description": "Study of a period or theme in Greek History.",
-      "prerequisites": "1.0 credit in CLCV courses (or equivalent) or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "1.0 credit in CLCV courses (or equivalent) or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3202",
       "name": "Studies in Roman History",
       "credit": "0.5",
       "description": "Study of a period or theme in Roman History.",
-      "prerequisites": "1.0 credit in CLCV courses (or equivalent) or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "1.0 credit in CLCV courses (or equivalent) or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3301",
       "name": "Field Work I: Greek and Roman World",
       "credit": "0.5",
       "description": "Students will participate for a minimum of three weeks on an archaeological field project (i.e., excavation or survey) relevant to the Greek and Roman world.  They will learn archaeological documentation and the analysis, recording, and processing of finds.",
-      "prerequisites": "CLCV 1008 and CLCV 1009 or CLCV 2300 and permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "CLCV 1008 and CLCV 1009 or CLCV 2300 and permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3306",
       "name": "Studies in Greek Art",
       "credit": "0.5",
       "description": "A study of period or theme in the art and archaeology of Ancient Greece. Topics may vary from year to year.",
-      "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3307",
       "name": "Studies in Roman Art",
       "credit": "0.5",
       "description": "A study of a period or theme in the art and archaeology of the ancient Romans.  Topics may vary from year to year.",
-      "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3400",
       "name": "Greek and Roman Studies Abroad",
       "credit": "0.5",
       "description": "This course combines academic study in Canada with first hand examination of museum collections and sites of the ancient world, normally in Greece and Italy.  Course content varies from year to year.",
-      "prerequisites": "1.0 credit in Greek and Roman Studies, any level (CLCV, GREK, or LATN. Permission of the unit is required to repeat this course."
+      "prerequisites": "1.0 credit in Greek and Roman Studies, any level (CLCV, GREK, or LATN. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3701",
       "name": "Studies in Greek Literature",
       "credit": "0.5",
       "description": "A study of an author or topic in Greek literature. Contents of this course vary from year to year.",
-      "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 3702",
       "name": "Studies in Roman Literature",
       "credit": "0.5",
       "description": "A study of an author or topic in Roman literature.",
-      "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 4000",
       "name": "Field Work II: Greek and Roman World",
       "credit": "0.5",
       "description": "Students participate for a minimum of three weeks in a position of responsibility (for example, as a trench supervisor or lab assistant) on an archaeological field project relevant to the Greek and Roman world.",
-      "prerequisites": "CLCV 3300 and permission of the unit. Permission of the unit is required to repeat this course."
+      "prerequisites": "CLCV 3300 and permission of the unit. Permission of the unit is required to repeat this course.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 4210",
       "name": "Topics in Ancient History",
       "credit": "0.5",
       "description": "Intended for Honours students in History and Classics who should normally be in the third and fourth-years.",
-      "prerequisites": "CLCV 2902 ( HIST 2902 ), CLCV 2903 ( HIST 2903 ) or CLCV 2904 ( HIST 2904 ), CLCV 2905 ( HIST 2905 ) or CLCV 3201 or CLCV 3202 or permission of the unit."
+      "prerequisites": "CLCV 2902 ( HIST 2902 ), CLCV 2903 ( HIST 2903 ) or CLCV 2904 ( HIST 2904 ), CLCV 2905 ( HIST 2905 ) or CLCV 3201 or CLCV 3202 or permission of the unit.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 4800",
       "name": "Seminar in Greek and Roman Studies",
       "credit": "0.5",
       "description": "",
-      "prerequisites": "fourth-year standing in the Greek and Roman Studies B.A. program, or permission of the department."
+      "prerequisites": "fourth-year standing in the Greek and Roman Studies B.A. program, or permission of the department.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 4801",
       "name": "Seminar in Greek and Roman Studies",
       "credit": "0.5",
       "description": "",
-      "prerequisites": "fourth-year standing in the Greek and Roman Studies B.A. program, or permission of the department."
+      "prerequisites": "fourth-year standing in the Greek and Roman Studies B.A. program, or permission of the department.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CLCV 4900",
       "name": "Directed Readings and Research",
       "credit": "0.5",
       "description": "These courses consist of supervised readings and research projects in a specific area of Classical Civilization to be chosen in consultation with  a faculty Supervisor who agrees to oversee a student's proposed research.",
-      "prerequisites": "fourth-year Honours standing and permission of the unit."
+      "prerequisites": "fourth-year Honours standing and permission of the unit.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 1005",
       "name": "Introduction to Greek I",
       "credit": "0.5",
       "description": "A course for beginners in ancient Greek, designed to give students a grasp of basic grammatical forms and vocabulary (with reference to English derivatives) through the reading of continuous Greek.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 1006",
       "name": "Introduction to Greek II",
       "credit": "0.5",
       "description": "A course for students with some previous knowledge of the language: study of grammatical forms and constructions; acquisition of reading skills.",
-      "prerequisites": "GREK 1005 or equivalent."
+      "prerequisites": "GREK 1005 or equivalent.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 2200",
       "name": "Intermediate Greek I",
       "credit": "0.5",
       "description": "Further study of the language; introduction to the reading of ancient Greek authors.",
-      "prerequisites": "GREK 1006 or equivalent."
+      "prerequisites": "GREK 1006 or equivalent.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 2201",
       "name": "Intermediate Greek II",
       "credit": "0.5",
       "description": "Continued study of the language; reading of selected prose and poetry by ancient Greek authors; development of translation skills.",
-      "prerequisites": "GREK 2200 or equivalent."
+      "prerequisites": "GREK 2200 or equivalent.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 3900",
       "name": "Advanced Greek I",
       "credit": "0.5",
       "description": "Reading and critical discussion of selections from ancient Greek.",
-      "prerequisites": "GREK 2200 , GREK 2201 or equivalent."
+      "prerequisites": "GREK 2200 , GREK 2201 or equivalent.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 3901",
       "name": "Advanced Greek II",
       "credit": "0.5",
       "description": "Reading and critical discussion of selections from ancient Greek.",
-      "prerequisites": "GREK 2200 , GREK 2201 or equivalent."
+      "prerequisites": "GREK 2200 , GREK 2201 or equivalent.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 4900",
       "name": "Directed Study",
       "credit": "0.5",
       "description": "",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "GREK 4901",
       "name": "Directed Study",
       "credit": "0.5",
       "description": "",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 1005",
       "name": "Introduction to Latin I",
       "credit": "0.5",
       "description": "A course for beginners in Latin, designed to give students a grasp of basic grammatical forms and vocabulary (with reference to English derivatives) through the reading of continuous Latin.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 1006",
       "name": "Introduction to Latin II",
       "credit": "0.5",
       "description": "A course for students with some previous knowledge of the language: study of grammatical forms and constructions; acquisition of reading skills.",
-      "prerequisites": "LATN 1005 or equivalent."
+      "prerequisites": "LATN 1005 or equivalent.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 2200",
       "name": "Intermediate Latin I",
       "credit": "0.5",
       "description": "Further study of the language; introduction to the reading of Latin authors.",
-      "prerequisites": "LATN 1006 or equivalent."
+      "prerequisites": "LATN 1006 or equivalent.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 2201",
       "name": "Intermediate Latin II",
       "credit": "0.5",
       "description": "Continued study of the language; reading of selected prose and poetry by Latin authors; development of translation skills.",
-      "prerequisites": "LATN 2200 or equivalent."
+      "prerequisites": "LATN 2200 or equivalent.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 3900",
       "name": "Advanced Latin I",
       "credit": "0.5",
       "description": "Reading and critical discussion of selections from Latin poetry.",
-      "prerequisites": "LATN 2200 , LATN 2201 or equivalent."
+      "prerequisites": "LATN 2200 , LATN 2201 or equivalent.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 3901",
       "name": "Advanced Latin II",
       "credit": "0.5",
       "description": "Reading and critical discussion of selections from Latin prose.",
-      "prerequisites": "LATN 2200 , LATN 2201 or equivalent."
+      "prerequisites": "LATN 2200 , LATN 2201 or equivalent.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 4900",
       "name": "Directed Study",
       "credit": "0.5",
       "description": "",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LATN 4901",
       "name": "Directed Study",
       "credit": "0.5",
       "description": "",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

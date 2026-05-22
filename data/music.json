@@ -7,658 +7,1069 @@
       "name": "Understanding Music",
       "credit": "0.5",
       "description": "Through musical examples drawn from diverse cultures and historical periods, students develop the ability to describe and analyze different aspects of music and deepen their appreciation of music as a cultural experience. No credit for students in B.Mus, B.A. Honours Music or B.A. Music.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1020",
       "name": "Thinking About Music",
       "credit": "1.0",
       "description": "Introduction to issues and methods in the study of music, explored through case studies drawn from a wide range of musics (including Western art music, global music traditions, popular music, and jazz). Includes an introduction to writing and research about music.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1107",
       "name": "Elementary Materials of Music",
       "credit": "0.5",
       "description": "An introduction to the rudiments of music and aural training. Successful completion of this course will fulfill the prerequisite for entry into .",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1700",
       "name": "Foundations of Music Theory",
       "credit": "0.5",
       "description": "An introduction to the organizational principles underlying tonal music including intervals, scales, rhythm, metre, chords, counterpoint, form, cadences, and harmonic progressions.",
-      "prerequisites": "MUSI 1107 , or permission of the Discipline."
+      "prerequisites": "MUSI 1107 , or permission of the Discipline.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1701",
       "name": "Tonal Music Literacy",
       "credit": "0.5",
       "description": "A study of the harmonic, melodic, rhythmic and formal structures of music of the common-practice period, with emphasis on the development of analytical and written skills of diatonic music.",
-      "prerequisites": "MUSI 1700 or permission of the Discipline."
+      "prerequisites": "MUSI 1700 or permission of the Discipline.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1711",
       "name": "Applied Rhythmic Training I",
       "credit": "0.5",
       "description": "A study of the rhythm of selected classical, popular, and world musics, with emphasis on applied performance, movement, and dictation.",
-      "prerequisites": "permission of the Discipline."
+      "prerequisites": "permission of the Discipline.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1720",
       "name": "Vocal Musicianship",
       "credit": "0.5",
       "description": "A study of aural training and musicianship through group and individual singing of selected classical, popular, and world musics. Admission to the class is based on an individual assessment at the start of term.",
-      "prerequisites": "permission of the Discipline."
+      "prerequisites": "permission of the Discipline.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1900",
       "name": "Performance I",
       "credit": "0.5",
       "description": "Individual vocal or instrumental instruction in classical, traditional or popular idioms, in addition to individual performances and group class instruction.",
-      "prerequisites": "audition and enrolment in the B.Mus. program; first-year standing or permission of the Discipline."
+      "prerequisites": "audition and enrolment in the B.Mus. program; first-year standing or permission of the Discipline.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1901",
       "name": "Performance II",
       "credit": "0.5",
       "description": "Individual vocal or instrumental instruction in classical, traditional or popular idioms, in addition to individual performances and group class instruction.",
-      "prerequisites": "MUSI 1900 and enrolment in the B.Mus. program; first-year standing or permission of the Discipline."
+      "prerequisites": "MUSI 1900 and enrolment in the B.Mus. program; first-year standing or permission of the Discipline.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1914",
       "name": "Ensemble I",
       "credit": "0.0",
       "description": "Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance Studies. Graded Sat/Uns.",
-      "prerequisites": "first-year standing in the B.Mus. program and permission of the Ensemble Director."
+      "prerequisites": "first-year standing in the B.Mus. program and permission of the Ensemble Director.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 1915",
       "name": "Ensemble II",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "first-year standing in the B.Mus. program and permission of the Ensemble Director."
+      "prerequisites": "first-year standing in the B.Mus. program and permission of the Ensemble Director.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2005",
       "name": "Jazz History",
       "credit": "0.5",
       "description": "A survey of jazz styles from their roots in pre-twentieth-century music to contemporary jazz idioms. Among others, areas may include New Orleans jazz, swing, bebop, cool jazz, free jazz, Latin jazz, and fusion.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2007",
       "name": "Popular Music 1945-1980",
       "credit": "0.5",
       "description": "History and style of popular musics (primarily in North America and the UK) from the mid-1940s to the 1980s. Among others, areas may include early rock `n' roll, British blues, soul, country, psychedelia, punk, heavy metal, disco, and hip hop.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2008",
       "name": "Music of the World's Peoples",
       "credit": "0.5",
       "description": "A survey of musical practices from various regions of the world, with an emphasis on the sociocultural contexts in which those musics are created and performed.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2108",
       "name": "Western Art Music 1750-1900",
       "credit": "0.5",
       "description": "Introduction to Western art music of the Classical and Romantic periods. Major musical genres, compositional practices, and cultural contexts are investigated through examinations of representative works.",
-      "prerequisites": "Second-year standing."
+      "prerequisites": "Second-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2203",
       "name": "Music in Canada",
       "credit": "0.5",
       "description": "Through an examination of selected genres, practices and creators, this course explores the ways that music participates in shaping complex and often conflicting ideas about nation, place, and identity in Canada.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2601",
       "name": "Orchestration and Instrumentation",
       "credit": "0.5",
       "description": "Introduction to the fundamentals of effective and professional arranging. All aspects of the various instruments of the orchestra and matters having to do with the practicalities of orchestration for both small and large ensembles, and accepted professional standards of score presentation.",
-      "prerequisites": "MUSI 1701 and MUSI 1711 , or permission of the instructor."
+      "prerequisites": "MUSI 1701 and MUSI 1711 , or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2602",
       "name": "Composition I",
       "credit": "0.5",
       "description": "Introduction to theories and technicalities involved in original creative writing through the preparation of individual assignments; based in the practice of recent music in the Western Classical tradition while allowing for the music of other Western styles and traditions to be addressed.",
-      "prerequisites": "MUSI 1701 and MUSI 1711 , or permission of the instructor. MUSI 2601 is recommended."
+      "prerequisites": "MUSI 1701 and MUSI 1711 , or permission of the instructor. MUSI 2601 is recommended.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2605",
       "name": "Choral Conducting",
       "credit": "0.5",
       "description": "Introduction to the special stylistic features of choral music from the Renaissance to the present as well as to a variety of practical techniques (vocal production, gesture, conducting patterns, diction, etc.).",
-      "prerequisites": "second-year standing in the B.Mus. program or permission of the instructor."
+      "prerequisites": "second-year standing in the B.Mus. program or permission of the instructor.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2607",
       "name": "Digital Music Literacy",
       "credit": "0.5",
       "description": "Introduction to music theories and approaches with a focus on knowledge of digital music practices. This course embraces a variety of musical styles and traditions, and introduces students to Digital Audio Workstations, sound synthesis, analytical techniques of sound, and related concepts.",
-      "prerequisites": "MUSI 1700 and enrolment in the BMus or BA Music program, or permission of the instructor."
+      "prerequisites": "MUSI 1700 and enrolment in the BMus or BA Music program, or permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2608",
       "name": "Fundamentals of Electronic Music Production",
       "credit": "0.5",
       "description": "Theory and practice of electronic music creation, focusing on audio editing, synthesis, sampling, beat-making, signal processing, and sound design, using a variety of professional-grade software packages.",
-      "prerequisites": "MUSI 2607 and enrolment in the BMus or BA Music program, or permission of the instructor."
+      "prerequisites": "MUSI 2607 and enrolment in the BMus or BA Music program, or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2700",
       "name": "Western Art Music Theory",
       "credit": "0.5",
       "description": "A continuation of the study of the harmonic, melodic, rhythmic and formal structures of music of the common-practice period and early twentieth century, with emphasis on chromaticism and the development of analytical and written skills.",
-      "prerequisites": "MUSI 1701 or permission of the instructor."
+      "prerequisites": "MUSI 1701 or permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2701",
       "name": "Jazz and Popular Music Theory",
       "credit": "0.5",
       "description": "A study of the rhythmic, melodic, harmonic and formal structures of jazz and popular musics.",
-      "prerequisites": "MUSI 1700 or permission of the instructor."
+      "prerequisites": "MUSI 1700 or permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2703",
       "name": "Practical Keyboard Skills",
       "credit": "0.5",
       "description": "A practical study of rhythm, harmony and melody on the keyboard, with an emphasis on vocal and instrumental accompaniment and the development of improvisation skills in a variety of styles.",
-      "prerequisites": "MUSI 1701 or permission of the instructor."
+      "prerequisites": "MUSI 1701 or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2710",
       "name": "Aural Training",
       "credit": "0.5",
       "description": "A continuation of the study of ear training, sight singing, and basic keyboard skills in relation to classical and popular musics, with emphasis on melodic, harmonic, and formal structures.",
-      "prerequisites": "MUSI 1710 or MUSI 1720 , or permission of the instructor."
+      "prerequisites": "MUSI 1710 or MUSI 1720 , or permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2711",
       "name": "Applied Rhythmic Training II",
       "credit": "0.5",
       "description": "A continuation of the study of the rhythm of common-practice and world musics, with emphasis on applied performance, movement, and dictation.",
-      "prerequisites": "MUSI 1700 , MUSI 1711 ."
+      "prerequisites": "MUSI 1700 , MUSI 1711 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2900",
       "name": "Performance III",
       "credit": "0.5",
       "description": "A continuation of .",
-      "prerequisites": "second-year standing in the B.Mus. program and MUSI 1901 with a C+ or higher, or permission of the Discipline."
+      "prerequisites": "second-year standing in the B.Mus. program and MUSI 1901 with a C+ or higher, or permission of the Discipline.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2901",
       "name": "Performance IV",
       "credit": "0.5",
       "description": "A continuation of .",
-      "prerequisites": "second-year standing in the B.Mus. program and MUSI 2900 with a B- or higher, or permission of the Discipline."
+      "prerequisites": "second-year standing in the B.Mus. program and MUSI 2900 with a B- or higher, or permission of the Discipline.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2914",
       "name": "Ensemble III",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "second-year standing in the B.Mus. program and permission of the Ensemble Director."
+      "prerequisites": "second-year standing in the B.Mus. program and permission of the Ensemble Director.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 2915",
       "name": "Ensemble IV",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "second-year standing in the B.Mus. program and permission of the Ensemble Director."
+      "prerequisites": "second-year standing in the B.Mus. program and permission of the Ensemble Director.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3000",
       "name": "Careers in Music",
       "credit": "0.5",
       "description": "An introduction to building a career in music and music-adjacent disciplines. Topics include finances; issues in freelance work and private teaching; overview of recording arts; collaboration with other disciplines; and graduate school and other specialized study. Culminates in the creation of an individualized professional portfolio.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3006",
       "name": "Popular Music Before 1945",
       "credit": "0.5",
       "description": "Selected aspects of the development of popular musics (primarily in North American and the UK) from their roots in the nineteenth century until the mid-1940s. Among others, areas may include blues, country, ragtime and other early commercial dance musics, Tin Pan Alley, and musical theatre.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3008",
       "name": "Popular Music 1980-2000",
       "credit": "0.5",
       "description": "History and style of popular musics (primarily in North America and the UK) from the mid-1980s to 2000. Among others, areas may include hip hop, new wave, heavy metal, electronic dance music, country, alternative rock, and R&B.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3105",
       "name": "Western Art Music: 1600 to 1750",
       "credit": "0.5",
       "description": "The Baroque era of western art music is considered in the contexts of politics and political structures, technologies, religious thought, aesthetics, compositional practices, identities, social and economic organization, technologies of musical creation and dissemination, and genre.",
-      "prerequisites": "third-year standing or permission of the Program."
+      "prerequisites": "third-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3106",
       "name": "Global Popular Music",
       "credit": "0.5",
       "description": "An examination of selected popular musics from Africa, Asia, South America, Australia, and the Caribbean with special attention paid to music as an expression of cultural identity.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3200",
       "name": "Special Topics",
       "credit": "0.5",
       "description": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year.",
-      "prerequisites": "permission of the instructor."
+      "prerequisites": "permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3201",
       "name": "Special Topics",
       "credit": "0.5",
       "description": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year.",
-      "prerequisites": "permission of the instructor."
+      "prerequisites": "permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3205",
       "name": "Individual Specialized Academic Studies",
       "credit": "0.5",
       "description": "Course designed for BMus or BA Music Honours students who have acquired an extensive background through courses in theory, musicology, or composition. Course content is planned with a Faculty Supervisor, and instruction is one-on-one.",
-      "prerequisites": "Proposal, permission of the Program, and a minimum GPA of 9.0 in Music."
+      "prerequisites": "Proposal, permission of the Program, and a minimum GPA of 9.0 in Music.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3206",
       "name": "Specialized Performance Studies",
       "credit": "0.5",
       "description": "Course designed for BMus Honours students who have acquired an extensive background through performance. Course content is planned with the Supervisor of Performance Studies, and instruction is one-on-one.",
-      "prerequisites": "Proposal, permission of the Program, and a minimum GPA of 9.0 in Music."
+      "prerequisites": "Proposal, permission of the Program, and a minimum GPA of 9.0 in Music.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3301",
       "name": "Music, Religion, and Spiritual Practices",
       "credit": "0.5",
       "description": "An examination of the relationships between music, worship, spirituality and belief systems in various contexts and cultures through selected case studies.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3303",
       "name": "Principles and Practices of Music Therapy",
       "credit": "0.5",
       "description": "Literature, practice and theory of music therapy. The use of music (improvisation, the voice, and reception) with various populations, including children and adults with special needs, people in long term care, people with neurological disorders, and in palliative care.",
-      "prerequisites": "second-year standing or permission of the instructor."
+      "prerequisites": "second-year standing or permission of the instructor.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3304",
       "name": "Principles and Practices of Music Pedagogy",
       "credit": "0.5",
       "description": "An examination of key issues in music education theory and practice. Students will develop knowledge, skills, materials, and methodologies for teaching music to students of all ages and abilities in schools, private studios, and community settings.",
-      "prerequisites": "third-year standing or permission of the Program."
+      "prerequisites": "third-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3308",
       "name": "Music and Environment",
       "credit": "0.5",
       "description": "Examines the role of music in responding to the environment including climate change activism, communication, and education. Engages with interdisciplinary scholarship from ecomusicology, soundscape ecology, sensory ethnography, and bioacoustics, as well as composition and sound art.",
-      "prerequisites": "third-year standing or permission of the Program."
+      "prerequisites": "third-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3402",
       "name": "Film Music",
       "credit": "0.5",
       "description": "The use of music in film, from the silent era to the present day, studying the techniques, styles and theory of film music through the examination of selected scenes.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3602",
       "name": "Composition II",
       "credit": "0.5",
       "description": "Designed to enable students to develop abilities in the writing of original music. The study and appreciation of modern and contemporary styles and techniques are encouraged.",
-      "prerequisites": "MUSI 2601 , MUSI 2602 , and MUSI 2700 , or permission of the instructor."
+      "prerequisites": "MUSI 2601 , MUSI 2602 , and MUSI 2700 , or permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3603",
       "name": "Computer Music Techniques",
       "credit": "0.5",
       "description": "An introduction to the techniques of sound synthesis primarily through practical experience at the digital synthesizer and computer. The basics of machine operations, software and computer applications to composition and synthesis. Enrolment is limited.",
-      "prerequisites": "second-year standing, MUSI 2608 and enrolment in the BMus or BA Music program, or permission of the instructor."
+      "prerequisites": "second-year standing, MUSI 2608 and enrolment in the BMus or BA Music program, or permission of the instructor.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3604",
       "name": "Computer Music Projects",
       "credit": "0.5",
       "description": "Examination of the various applications of digital equipment through the realization of original projects. Students may focus on studio composition, software development or analytic research. Appropriate compositional techniques and problem solving strategies are also discussed. Enrolment is limited.",
-      "prerequisites": "second-year standing, and either MUSI 2603 (no longer offered) or MUSI 2608 , or permission of the instructor."
+      "prerequisites": "second-year standing, and either MUSI 2603 (no longer offered) or MUSI 2608 , or permission of the instructor.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3605",
       "name": "Instrumental Conducting",
       "credit": "0.5",
       "description": "Introduction to the practice of conducting Instrumental music from the Classical era to the present as well as to a variety of practical techniques (rehearsal techniques, gesture, conducting patterns, score study, etc.).",
-      "prerequisites": "second-year standing in the B.Mus. program or permission of the instructor."
+      "prerequisites": "second-year standing in the B.Mus. program or permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3606",
       "name": "Live Sound",
       "credit": "0.5",
       "description": "Theoretical, practical and technical requirements of audio production in live settings are explored through lectures, demonstrations and workshops. Students develop skills in critical listening, pre-production planning, microphone selection and placement, signal routing, audio processing, monitoring and mixing for live event venues. Prior experience not required.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3700",
       "name": "Seminar in Theory and Analysis",
       "credit": "0.5",
       "description": "Selected topic in music theory. Topics will change yearly and may include: methods of music analysis, analysis of selected works, styles and structures of common practice or post common practice period, music,  modal, tonal, or post-tonal counterpoint, history of music theory.",
-      "prerequisites": "MUSI 2700 or permission of the instructor."
+      "prerequisites": "MUSI 2700 or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3701",
       "name": "Jazz Styles and Structures",
       "credit": "0.5",
       "description": "Techniques of arranging and composition for small and large ensembles will be studied through the examination of selected works drawn from the jazz repertoire. Works will be selected for stylistic and theoretical analysis, for exercises in aural recognition, and for arranging purposes.",
-      "prerequisites": "MUSI 2701 or permission of the instructor."
+      "prerequisites": "MUSI 2701 or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3702",
       "name": "Introduction to Physics and Psychoacoustics of Music",
       "credit": "0.5",
       "description": "Basic topics in physics and psychoacoustics, with an emphasis on those concepts that are most useful for music performance, analysis, composition, and musicology.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3703",
       "name": "Improvisation in Theory and Practice",
       "credit": "0.5",
       "description": "Selected forms of improvisation from diverse musical and cultural traditions.  In addition to weekly seminar meetings, the class will engage in experiential forms of learning by actively improvising in a weekly performance-oriented seminar.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3710",
       "name": "Global Music Theories",
       "credit": "0.5",
       "description": "A continuation of the study of aural skills, theory and analysis that focuses on global traditions in musicianship and musical practices.",
-      "prerequisites": "MUSI 1700 , MUSI 2710 and MUSI 2711 , or permission of the instructor."
+      "prerequisites": "MUSI 1700 , MUSI 2710 and MUSI 2711 , or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3720",
       "name": "Global Music Traditions",
       "credit": "0.5",
       "description": "A thematic exploration of key issues in global music studies through case studies analysis of selected music cultures. Topics may include cultural revival, gender and sexuality, colonialism, globalization, migration and diaspora, tradition and innovation, and race, class, and intersectionality.",
-      "prerequisites": "third-year standing or permission of the Program."
+      "prerequisites": "third-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3900",
       "name": "Performance V",
       "credit": "0.5",
       "description": "A continuation of .",
-      "prerequisites": "third-year standing in B. Mus. and MUSI 2901 with a B- or higher, or permission of the Discipline."
+      "prerequisites": "third-year standing in B. Mus. and MUSI 2901 with a B- or higher, or permission of the Discipline.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3901",
       "name": "Performance VI",
       "credit": "0.5",
       "description": "A continuation of .",
-      "prerequisites": "third-year standing in the B.Mus. program and MUSI 3900 with a B- or higher, or permission of the Discipline."
+      "prerequisites": "third-year standing in the B.Mus. program and MUSI 3900 with a B- or higher, or permission of the Discipline.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3914",
       "name": "Ensemble V",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "third-year standing in the B.Mus. program and permission of the Ensemble Director."
+      "prerequisites": "third-year standing in the B.Mus. program and permission of the Ensemble Director.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 3915",
       "name": "Ensemble VI",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "third-year standing in the B.Mus. program and permission of the Ensemble Director."
+      "prerequisites": "third-year standing in the B.Mus. program and permission of the Ensemble Director.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4000",
       "name": "Performance VII",
       "credit": "0.5",
       "description": "This is an optional performance course for B.Mus. students with high academic standing.",
-      "prerequisites": "fourth-year standing in B.Mus., MUSI 3901 , A- or higher average in second- and third-year MUSI performance courses, and permission of the Music performance supervisor."
+      "prerequisites": "fourth-year standing in B.Mus., MUSI 3901 , A- or higher average in second- and third-year MUSI performance courses, and permission of the Music performance supervisor.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4001",
       "name": "Performance VIII",
       "credit": "0.5",
       "description": "This is an optional performance course for B.Mus. students with high academic standing.",
-      "prerequisites": "fourth-year standing in B.Mus. standing, MUSI 4000 with A- or higher, and permission of the Music performance supervisor."
+      "prerequisites": "fourth-year standing in B.Mus. standing, MUSI 4000 with A- or higher, and permission of the Music performance supervisor.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4002",
       "name": "Graduating Demo Recording",
       "credit": "0.5",
       "description": "A graduation recording of substantial duration arranged in consultation with the discipline. A proposal must be submitted one week before the last day for course changes. All recording costs must be borne by the student.",
-      "prerequisites": "fourth-year standing in B.Mus., MUSI 4000 with a grade of A- or higher, and permission of both the relevant associate music instructor and the music performance supervisor."
+      "prerequisites": "fourth-year standing in B.Mus., MUSI 4000 with a grade of A- or higher, and permission of both the relevant associate music instructor and the music performance supervisor.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4003",
       "name": "Graduating Recital",
       "credit": "0.5",
       "description": "Public recital arranged in consultation with the Supervisor of Performance and Practical Studies. An outline of the program must be submitted one week before the last day for course changes.",
-      "prerequisites": "fourth-year standing in B.Mus., MUSI 4000 with A- or higher, and permission of both the relevant associate music instructor and the Music performance supervisor."
+      "prerequisites": "fourth-year standing in B.Mus., MUSI 4000 with A- or higher, and permission of both the relevant associate music instructor and the Music performance supervisor.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4005",
       "name": "Issues in Jazz Studies",
       "credit": "0.5",
       "description": "An examination of key issues in the study of jazz including history/historiography, gender, genre, race, politics, identity and performance.",
-      "prerequisites": "MUSI 2005 and third-year standing."
+      "prerequisites": "MUSI 2005 and third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4006",
       "name": "Issues in Popular Music Studies",
       "credit": "0.5",
       "description": "An introduction to current issues in the study of popular music. The course will be organized around a series of case studies.",
-      "prerequisites": "third-year standing, and at least one of MUSI 2005 or MUSI 2007 ."
+      "prerequisites": "third-year standing, and at least one of MUSI 2005 or MUSI 2007 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4008",
       "name": "Exploratory Music",
       "credit": "0.5",
       "description": "An examination of experimental and avant-garde musical practices from a variety of musical and cultural locations including the New York School (John Cage et al), musique concrete, minimalism, the AACM, free jazz, and free improvisation.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4101",
       "name": "Music and Identity",
       "credit": "0.5",
       "description": "An exploration of the relationship between music, identity politics and identity formation and negotiation. Topics may include gender and sexuality, dis/ability, race, place, class, language, community and belonging.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4102",
       "name": "Music and Ethnography in Ottawa",
       "credit": "0.5",
       "description": "In this course, students explore issues and practices in ethnographic music research through an individual project based in the city of Ottawa and/or neighbouring communities. Topics explored include research ethics, project design, interviewing techniques, field notes, participant observation, and researcher positionality.",
-      "prerequisites": "third-year standing, or permission of the Program."
+      "prerequisites": "third-year standing, or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4103",
       "name": "Music, Migration and Diaspora in Canada",
       "credit": "0.5",
       "description": "Critical analyses of diversity and multiculturalism narratives in Canada and the ways that settler-colonialism influenced and continues to inform music creation and expression. Various case studies examine the diversity of musics found in Canada and the ways that music facilitates belonging and/or exclusion to community.",
-      "prerequisites": "fourth-year standing or permission of the instructor."
+      "prerequisites": "fourth-year standing or permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4104",
       "name": "Issues in Indigenous Music Studies",
       "credit": "0.5",
       "description": "This course examines contemporary issues and priorities for First Peoples, including political activism, language and cultural maintenance and revitalization, environmental justice and the land, reconciliation, and decolonization.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4105",
       "name": "Issues in African Music Studies",
       "credit": "0.5",
       "description": "An examination of issues related to the study of African musics, including colonialism, ownership and copyright, politics and protest, social change, and globalization.",
-      "prerequisites": "third-year standing, or permission of the Program."
+      "prerequisites": "third-year standing, or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4108",
       "name": "Popular Music in 12 Songs",
       "credit": "0.5",
       "description": "A detailed investigation into aesthetic, historical, social, technological, aesthetic, and industrial issues in popular music through the lens of twelve culturally significant songs and recordings from the 20th and 21st centuries.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4200",
       "name": "Special Topics",
       "credit": "0.5",
       "description": "Courses focusing on one selected aspect of music, in the area of either musicology, theory or composition. The course offerings change from year to year.",
-      "prerequisites": "permission of the instructor."
+      "prerequisites": "permission of the instructor.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4201",
       "name": "Special Topics",
       "credit": "0.5",
       "description": "Courses focusing on one selected aspect of music, in the area of either musicology, theory or composition. Course offerings change from year to year.",
-      "prerequisites": "permission of the instructor."
+      "prerequisites": "permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4205",
       "name": "Individual Specialized Academic Studies",
       "credit": "0.5",
       "description": "Course designed for BMus or BA Music Honours students who have acquired an extensive background through courses in theory, musicology, or composition. Course content is planned with a Faculty Supervisor, and instruction is one-on-one.",
-      "prerequisites": "proposal, permission of the Program, and a minimum GPA of 9.0 in Music."
+      "prerequisites": "proposal, permission of the Program, and a minimum GPA of 9.0 in Music.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4206",
       "name": "Specialized Performance Studies",
       "credit": "0.5",
       "description": "Course designed for BMus Honours students who have acquired an extensive background through performance. Course content is planned with the Supervisor of Performance Studies, and instruction is one-on-one.",
-      "prerequisites": "Proposal, permission of the Program, and a minimum GPA of 9.0 in Music."
+      "prerequisites": "Proposal, permission of the Program, and a minimum GPA of 9.0 in Music.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4209",
       "name": "Individual Specialized Academic Studies",
       "credit": "1.0",
       "description": "A course designed for BMus or BA Music Honours students who have acquired an extensive background through courses in theory, musicology or composition. Course content is planned with a Faculty Supervisor, and instruction is one-on-one.",
-      "prerequisites": "proposal, permission of the Program, and a minimum GPA of 9.0 in Music."
+      "prerequisites": "proposal, permission of the Program, and a minimum GPA of 9.0 in Music.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4301",
       "name": "Music, Community, and Social Justice",
       "credit": "0.5",
       "description": "An examination of the varied roles that music can play in fostering community and as an agent of positive social change. How can our work as composers, musicians, scholars, educators, and students participate in the transformation of unjust social relations and unequal distributions of power?.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4302",
       "name": "Music Industries and Histories",
       "credit": "0.5",
       "description": "An examination of significant historical, technological, aesthetic, and cultural issues in music industries principally focusing on the late 19th century to the present. Topics considered range from the emergence of mass print and electronic dissemination to the wide-ranging impacts of digital technologies and artificial intelligence.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4305",
       "name": "Western Art Music: 1900 to the Present",
       "credit": "0.5",
       "description": "Study of the major movements and figures in 20th and 21st century music, including impressionism, expressionism, neoclassicism, nationalism, serialism, and minimalism.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4309",
       "name": "Music and Disability",
       "credit": "0.5",
       "description": "This course investigates the varied and complex intersections between music and disability in the past and present. Topics will include disability and musical creation and performance, representations of disability in classical and popular music, and music and invisible and intellectual disability.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4602",
       "name": "Composition III",
       "credit": "0.5",
       "description": "A continuation of , focusing on the development of creative individual approaches to music composition.",
-      "prerequisites": "MUSI 3602 , or permission of the instructor."
+      "prerequisites": "MUSI 3602 , or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4700",
       "name": "Advanced Seminar in Theory and Analysis",
       "credit": "0.5",
       "description": "A study of a selected topic in music theory. Topics will change yearly and may include: methods of music analysis; analysis of selected works; styles and structures of common practice or post common practice period music; modal, tonal, or post-tonal counterpoint; history of music theory.",
-      "prerequisites": "MUSI 2700 or permission of the instructor."
+      "prerequisites": "MUSI 2700 or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4701",
       "name": "Introduction to Jazz Arranging",
       "credit": "0.5",
       "description": "The art of arranging for small and large jazz ensembles is introduced through analysis of recordings by artists such as Duke Ellington, Fletcher Henderson, Count Basie, Rob McConnell, and Maria Schneider. Topics may include 2-, 3-, and 4-voice writing in a jazz idiom.",
-      "prerequisites": "MUSI 3701 or permission of the instructor."
+      "prerequisites": "MUSI 3701 or permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4704",
       "name": "Tonal Counterpoint",
       "credit": "0.5",
       "description": "This course deals with the development of writing skills and knowledge of counterpoint as manifest in the Baroque era. Topics may include invention, canon, fugue, dance forms, the compositional language of J. S. Bach, and contrapuntal techniques in the late 18th century and beyond.",
-      "prerequisites": "MUSI 2700 , or permission of the instructor."
+      "prerequisites": "MUSI 2700 , or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4705",
       "name": "Post-Tonal Theory and Analysis",
       "credit": "0.5",
       "description": "Fundamentals of post-tonal music theory and analysis. Neo-tonal, atonal, twelve-tone and third-stream jazz.  Students will develop the critical skills to understand these theoretical tools and be conversant with some of the aesthetic precepts associated with them.",
-      "prerequisites": "MUSI 2700 or permission of the instructor."
+      "prerequisites": "MUSI 2700 or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4706",
       "name": "Sound Studies",
       "credit": "0.5",
       "description": "Explores the interdisciplinary field of sound studies through topics including sound art, field recording, space/time, technology, ecology, and media.",
-      "prerequisites": "fourth-year standing or permission of the Program."
+      "prerequisites": "fourth-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4707",
       "name": "Songwriting",
       "credit": "0.5",
       "description": "Equips students with skills to create original songs through an examination of the structure, process, and techniques of popular songwriting from Bob Dylan and The Beatles to Taylor Swift and Rihanna.",
-      "prerequisites": "third-year standing or permission of the Program."
+      "prerequisites": "third-year standing or permission of the Program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4800",
       "name": "Practicum in Music",
       "credit": "0.5",
       "description": "Practical experience in music-specific projects such as recording studios, librarianship, research, multimedia, etc. at local institutions. Placements are planned with the Practica Supervisor and a proposal is required. A maximum of one credit of practicum may be offered in fulfillment of Music requirements.",
-      "prerequisites": "BMus or BA Music Honours students with third or fourth-year standing and minimum 9.0 CGPA."
+      "prerequisites": "BMus or BA Music Honours students with third or fourth-year standing and minimum 9.0 CGPA.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4906",
       "name": "Honours Portfolio in Composition",
       "credit": "1.0",
       "description": "The course requires the composition of an original work of substantial proportions, with an accompanying analytical paper. Course content is planned with a Faculty Supervisor, and instruction is one-on-one.",
-      "prerequisites": "Fourth -year standing, MUSI 3602 , proposal, permission of the Program."
+      "prerequisites": "Fourth -year standing, MUSI 3602 , proposal, permission of the Program.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4908",
       "name": "Honours Essay in Musicology",
       "credit": "1.0",
       "description": "An Honours research essay of approximately 50 pages. Course content is planned with a Faculty Supervisor, and instruction is one-on-one.",
-      "prerequisites": "Fourth-year standing, minimum 10.0 CGPA, proposal, and permission of the Program."
+      "prerequisites": "Fourth-year standing, minimum 10.0 CGPA, proposal, and permission of the Program.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4909",
       "name": "Portfolio in New Media",
       "credit": "1.0",
       "description": "The course requires the creation of an original work (or works) of substantial proportions using applications in the electronic studios. A high level of independence and originality will be required. Course content is planned with a Faculty Supervisor, and instruction is one-on-one.",
-      "prerequisites": "Fourth-year standing, proposal, and permission of the Program."
+      "prerequisites": "Fourth-year standing, proposal, and permission of the Program.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4914",
       "name": "Ensemble VII",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "fourth-year standing in the  B.Mus. program and  permission of the Ensemble Director."
+      "prerequisites": "fourth-year standing in the  B.Mus. program and  permission of the Ensemble Director.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "MUSI 4915",
       "name": "Ensemble VIII",
       "credit": "0.0",
       "description": "A continuation of . Participation in a vocal or instrumental ensemble, by arrangement with the Supervisor of Performance and Practical Studies. Graded Sat/Uns.",
-      "prerequisites": "fourth-year standing in the B.Mus. program  and permission of the Ensemble Director."
+      "prerequisites": "fourth-year standing in the B.Mus. program  and permission of the Ensemble Director.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

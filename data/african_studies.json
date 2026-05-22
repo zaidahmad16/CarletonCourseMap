@@ -7,168 +7,265 @@
       "name": "Introduction to African Studies I",
       "credit": "0.5",
       "description": "Introduction to African studies, including history, geography, literature, and the arts.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 1002",
       "name": "Introduction to African Studies II",
       "credit": "0.5",
       "description": "Introduction to contemporary political, economic, and social dimensions of Africa.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2002",
       "name": "The Horn of Africa",
       "credit": "0.5",
       "description": "The economic, social and political challenges facing the Horn of Africa, placing them in historical and global context.  These countries may be discussed: Djibouti, Eritrea, Ethiopia, Somalia, Sudan, South Sudan.",
-      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies."
+      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2003",
       "name": "The Great Lakes Region of Africa",
       "credit": "0.5",
       "description": "The economic, social and political challenges facing the Great Lake Regions of Africa, including the 1994 Rwanda genocide and its aftermath. These countries may be discussed: Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda.",
-      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies."
+      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2004",
       "name": "North Africa",
       "credit": "0.5",
       "description": "The economic, social and political challenges facing Egypt and the Maghreb countries of North Africa, including the \u201cArab Spring\u201d.  These countries may be discussed: Algeria, Egypt, Libya, Morocco, Mauritania, Tunisia, Western Sahara.",
-      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies."
+      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2005",
       "name": "West Africa",
       "credit": "0.5",
       "description": "The economic, social and political challenges facing countries of West Africa, including domestic issues and regional relations.  These countries may be discussed: Benin, Burkina Faso, Cape Verde, Cote d\u2019Ivoire, Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo.",
-      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies."
+      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2006",
       "name": "Southern Africa",
       "credit": "0.5",
       "description": "The economic, social and political challenges facing the  countries of southern Africa, including the legacies of apartheid. These countries may be discussed: Angola, Botswana, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Swaziland, Tanzania, Zambia, Zimbabwe.",
-      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies."
+      "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3001",
       "name": "Globalization and Popular Culture in Africa",
       "credit": "0.5",
       "description": "This course examines new popular life-worlds in Africa. Though potentially \"elusive\" to conceptualize, this course shows how these forms of popular culture are related to the role of youth culture and social media in an age of globalization and democratization.",
-      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3002",
       "name": "Regions in Africa: Cultures, Society, Politics",
       "credit": "0.5",
       "description": "Using dominant linguistic borderlines that have shaped much of the African experience in the last century, this course will look at themes cutting across culture, geography, society and politics in francophone, anglophone, lusophone and arabophone Africa.",
-      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3003",
       "name": "African Social and Political Thought",
       "credit": "0.5",
       "description": "The African communitarian tradition.  Contemporary African social and political thought, situated in their broad historical contexts.",
-      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3004",
       "name": "The African City",
       "credit": "0.5",
       "description": "Historical emergence and contemporary issues of the African city.",
-      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3005",
       "name": "African Migrations and Diasporas",
       "credit": "0.5",
       "description": "Movements of African peoples, from the slave trade era to the present.  African diaspora communities around the world and their relationship with Africa.",
-      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3007",
       "name": "Special Topics in African Studies",
       "credit": "0.5",
       "description": "A special topic related to African Studies, through one or more disciplinary lenses.  Course content will vary from year to year.",
-      "prerequisites": "a 2000-level AFRI course or third-year standing and 1.0 credit in AFRI."
+      "prerequisites": "a 2000-level AFRI course or third-year standing and 1.0 credit in AFRI.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3100",
       "name": "African Studies Abroad: Selected Topics",
       "credit": "0.5",
       "description": "Based at one of Carleton's partner universities in Africa, course will include lectures, seminars, guest speakers, field visits and group research projects to examine a topic in African studies, as selected by the instructor.  Topic and location may change annually.",
-      "prerequisites": "third-year standing and approval by the Director of the Institute of African Studies."
+      "prerequisites": "third-year standing and approval by the Director of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3200",
       "name": "Thematic Topic",
       "credit": "0.5",
       "description": "A special topic that takes a thematic approach to African Studies. Course content will vary from year to year.",
-      "prerequisites": "a 2000-level AFRI course or third-year standing and 1.0 credit in AFRI."
+      "prerequisites": "a 2000-level AFRI course or third-year standing and 1.0 credit in AFRI.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3609",
       "name": "African Cinema",
       "credit": "0.5",
       "description": "Major moments, debates, figures and movements in African cinema around such categories as the colonial, the anti-colonial, the postcolonial, the national, the continental, the diasporic, the global, race, Afro-futurism, and world cinema, interrogating in the process the very category of \u201cAfrican cinema.\u201d.",
-      "prerequisites": "1.0 credit in FILM and third year standing or permission of instructor."
+      "prerequisites": "1.0 credit in FILM and third year standing or permission of instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3900",
       "name": "Placement",
       "credit": "0.5",
       "description": "Placement for one term with an African focus.",
-      "prerequisites": "permission of the Institute of African Studies."
+      "prerequisites": "permission of the Institute of African Studies.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3916",
       "name": "Spoken Word Poetry Workshop",
       "credit": "0.5",
       "description": "This intermediate-level workshop-based course explores traditions of spoken words poetry while requiring students to create and perform their own spoken word poems.",
-      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2915 ; or departmental permission."
+      "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2915 ; or departmental permission.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 4000",
       "name": "Advanced Topics in African Studies",
       "credit": "0.5",
       "description": "Seminar examining a specialized topic in African studies.  The topic will vary from year to year.",
-      "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 4003",
       "name": "History of 'The African Child'",
       "credit": "0.5",
       "description": "Students will analyze the history of the figure of 'the African child' using a range of visual, sources from colonial officials, anthropologists, historians, advertisers, charity and development workers, and African children themselves.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 4005",
       "name": "Comparative Indigenous Knowledge and Entrepreneurship",
       "credit": "0.5",
       "description": "Past and contemporary interconnections between Indigenous knowledge and entrepreneurship on a comparative basis. Distinguishing features of Indigenous entrepreneurship from traditional entrepreneurship such as its focus on community, connection to the land, and the role of women.",
-      "prerequisites": "Third-year standing."
+      "prerequisites": "Third-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 4050",
       "name": "Selected Topics in African Studies",
       "credit": "0.5",
       "description": "Selected topics in African studies not ordinarily treated in the regular course program.  The choice of topic varies from year to year.  Students should check with the institute regarding the topic offered.",
-      "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 4060",
       "name": "African Feminisms",
       "credit": "0.5",
       "description": "African feminisms as theoretical interventions and as political practice, and as diverse forms. Gender as a marker of power: status, hierarchy, social capability, and as a system of distribution of resources, responsibilities and solidarities.",
-      "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies."
+      "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 4900",
       "name": "Tutorial in African Studies",
       "credit": "0.5",
       "description": "A tutorial on selected topics in which seminars are not available.",
-      "prerequisites": "Permission of the Institute of African Studies and agreement of an instructor."
+      "prerequisites": "Permission of the Institute of African Studies and agreement of an instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

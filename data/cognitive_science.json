@@ -7,140 +7,253 @@
       "name": "Mysteries of the Mind",
       "credit": "0.5",
       "description": "Challenges faced in understanding the mind, and some of the approaches cognitive science has brought to bear on them. Topics may include the nature of knowledge, how we learn, the extent to which human thinking is rational, biases in thinking, and evolutionary influences on cognition.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 1005",
       "name": "Computational Methods in Cognitive Science",
       "credit": "0.5",
       "description": "Introduction to computational methods, with an emphasis on programming. Topics and assignments will focus on applications in cognitive science. No prior computing experience required.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 2001",
       "name": "Theories in Cognitive Science",
       "credit": "0.5",
       "description": "An integrated background of the discipline of Cognitive Science, with an historical overview (1940's onward) and  examination of the extent to which the discipline has assimilated the collective knowledge of contributing disciplines (e.g., psychology, philosophy, linguistics, artificial intelligence and neuroscience).",
-      "prerequisites": "Second-year standing and one of: CGSC 1001 , FYSM 1604 , FYSM 1607 ."
+      "prerequisites": "Second-year standing and one of: CGSC 1001 , FYSM 1604 , FYSM 1607 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 2002",
       "name": "Methods in Cognitive Science",
       "credit": "0.5",
       "description": "Selected topics in cognitive science covered from the perspectives of psychology, computer science, linguistics, philosophy, and other related disciplines. Students may be required to complete independent research projects.",
-      "prerequisites": "Second year standing and one of: CGSC 1001 , FYSM 1604 , FYSM 1607 . Restricted to students enrolled in B.Cog.Sc. programs."
+      "prerequisites": "Second year standing and one of: CGSC 1001 , FYSM 1604 , FYSM 1607 . Restricted to students enrolled in B.Cog.Sc. programs.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3004",
       "name": "Philosophy and Cognitive Science",
       "credit": "0.5",
       "description": "An examination of the significance and role of philosophy in cognitive science. Topics may include: philosophical methods for studying the mind, prospects for naturalizing consciousness and intentionality, assessing competing models of the mind.",
-      "prerequisites": "CGSC 2001 and PHIL 2501 , and third-year standing."
+      "prerequisites": "CGSC 2001 and PHIL 2501 , and third-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3201",
       "name": "Cognitive Processes",
       "credit": "0.5",
       "description": "An examination of research findings on cognitive processes. Topics may include attention, speech perception, memory, intelligence, reasoning, learning, working memory, reading, and mathematics.",
-      "prerequisites": "third-year standing, and CGSC 2001 or PSYC 2700 ."
+      "prerequisites": "third-year standing, and CGSC 2001 or PSYC 2700 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3301",
       "name": "Language and Cognitive Science",
       "credit": "0.5",
       "description": "Issues related to language and cognitive science are examined through a detailed consideration of selected topics.",
-      "prerequisites": "third-year standing, and CGSC 2001 ."
+      "prerequisites": "third-year standing, and CGSC 2001 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3501",
       "name": "Cognitive Neuroscience",
       "credit": "0.5",
       "description": "Issues related to the role of cognitive neuroscience research in cognitive science are examined through a detailed consideration of selected topics.",
-      "prerequisites": "third-year standing and CGSC 2001 ."
+      "prerequisites": "third-year standing and CGSC 2001 .",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3601",
       "name": "Artificial Intelligence and Cognitive Science",
       "credit": "0.5",
       "description": "An introduction to the contribution of artificial intelligence and computer modeling of cognitive processes to cognitive science.",
-      "prerequisites": "third-year standing and CGSC 2002 and ( CGSC 1005 or COMP 1005 ). Restricted to students enrolled in B.Cog.Sc. Honours."
+      "prerequisites": "third-year standing and CGSC 2002 and ( CGSC 1005 or COMP 1005 ). Restricted to students enrolled in B.Cog.Sc. Honours.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3603",
       "name": "Artificial Intelligence: Philosophical and Ethical Issues",
       "credit": "0.5",
       "description": "Topics examined through the lens of philosophy and cognitive science may include humans\u2019 obligations towards AI, sentient AI, implications of AI for models of cognition, designing ethical AI systems, implications of using AI in healthcare, and social inequality and job displacement related to AI.",
-      "prerequisites": "CGSC 2001 or PHIL 2501 and third-year standing in Cognitive Science or Philosophy."
+      "prerequisites": "CGSC 2001 or PHIL 2501 and third-year standing in Cognitive Science or Philosophy.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3704",
       "name": "Cognitive Science and the Digital Humanities",
       "credit": "0.5",
       "description": "Exploration of the roles of human and artificial cognition in the digital humanities. Topics may include virtual and augmented reality as applied to the humanities, cognitive issues in hypertext and hypermedia; linguistic and philosophical considerations in digital media, cognitive narratology, and artificial intelligence.",
-      "prerequisites": "CGSC 2001 or DIGH 2001 and third-year standing."
+      "prerequisites": "CGSC 2001 or DIGH 2001 and third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3908",
       "name": "Honours Seminar in Cognitive Science",
       "credit": "0.5",
       "description": "Major theories and empirical approaches within Cognitive Science are examined through a detailed consideration of selected topics. Students are required to complete independent research projects to prepare for their fourth-year honours theses.",
-      "prerequisites": "third year standing, CGSC 2001 and CGSC 2002 , and enrolment in B. Cog. Sc. Honours with a CGPA in the major requirements of 8.0."
+      "prerequisites": "third year standing, CGSC 2001 and CGSC 2002 , and enrolment in B. Cog. Sc. Honours with a CGPA in the major requirements of 8.0.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
       "description": "",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4601",
       "name": "Cognitive Architectures",
       "credit": "0.5",
       "description": "Cognitive architectures and how to evaluate them against human data; how to create cognitive models using cognitive architectures such as ACT-R.",
-      "prerequisites": "third-year standing, CGSC 2001 , and ( CGSC 1005 or COMP 1005 )."
+      "prerequisites": "third-year standing, CGSC 2001 , and ( CGSC 1005 or COMP 1005 ).",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4605",
       "name": "Hyperdimensional Cognitive Models",
       "credit": "0.5",
       "description": "Modelling cognition using artificial intelligence techniques such as reinforcement learning, vector-symbolic models, neural networks, and/or machine learning.",
-      "prerequisites": "third-year standing, ( CGSC 1005 or COMP 1005 ), CGSC\u202f2001, and CGSC 3601 ."
+      "prerequisites": "third-year standing, ( CGSC 1005 or COMP 1005 ), CGSC\u202f2001, and CGSC 3601 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4801",
       "name": "Independent Study",
       "credit": "0.5",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program (including independent study credits taken through other departments).",
-      "prerequisites": "third- or fourth-year standing and permission of the Department."
+      "prerequisites": "third- or fourth-year standing and permission of the Department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4802",
       "name": "Independent Study",
       "credit": "0.5",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program (including independent study credits taken through other departments).",
-      "prerequisites": "third- or fourth-year standing and permission of the Department."
+      "prerequisites": "third- or fourth-year standing and permission of the Department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4900",
       "name": "Special Topics in Cognitive Science",
       "credit": "0.5",
       "description": "The topic of this course will vary from year to year. Students may register in more than one section of but may register in each section only once.",
-      "prerequisites": "each section will have its own prerequisites and permission of the department if is required."
+      "prerequisites": "each section will have its own prerequisites and permission of the department if is required.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4908",
       "name": "Honours Thesis",
       "credit": "1.0",
       "description": "Interdisciplinary thesis.  In developing a thesis, students must consult the Undergraduate Supervisor. Only the Undergraduate Supervisor can assign a supervisor or grant approval to register in this course. Faculty regulations governing Honours Research Essays and Honours Theses apply.",
-      "prerequisites": "fourth year standing, CGSC 3908 , and enrolment in B.Cog.Sc. Honours with a major CGPA of 8.0."
+      "prerequisites": "fourth year standing, CGSC 3908 , and enrolment in B.Cog.Sc. Honours with a major CGPA of 8.0.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "CGSC 4909",
       "name": "Honours Project",
       "credit": "1.0",
       "description": "Interdisciplinary project. Students engage in one or more group research  projects.",
-      "prerequisites": "4th year standing, enrolment in B. Cog. Sc. Honours."
+      "prerequisites": "4th year standing, enrolment in B. Cog. Sc. Honours.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

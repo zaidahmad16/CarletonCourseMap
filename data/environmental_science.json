@@ -7,140 +7,226 @@
       "name": "Environmental Science Seminar",
       "credit": "0.5",
       "description": "The purpose and nature of the program; society's view on the natural and human-modified environment; major environmental issues and their scientific aspects.",
-      "prerequisites": "enrolment in the Environmental Science program."
+      "prerequisites": "enrolment in the Environmental Science program.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 2000",
       "name": "Environmental Science Field Methods",
       "credit": "0.5",
       "description": "A field-based course introducing students to practical methods in environmental science. Topics will include earth sciences, geography, biology, and chemistry related aspects of environmental sciences and will focus on quantitative techniques to assess environmental impacts and management. A supplementary fee will apply.",
-      "prerequisites": "ERTH 1002 , BIOL 1104 , CHEM 1001 , CHEM 1002 , and permission of the Institute."
+      "prerequisites": "ERTH 1002 , BIOL 1104 , CHEM 1001 , CHEM 1002 , and permission of the Institute.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 2001",
       "name": "Earth Resources and Natural Hazards: Environmental Impacts",
       "credit": "0.5",
       "description": "Environmental impact of mineral, energy and water resource exploitation and impact of hazardous Earth processes such as volcanic eruptions, earthquakes and others: their prediction and mitigation.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 2002",
       "name": "Methods and Analysis in Environmental Science",
       "credit": "0.5",
       "description": "Study and application of qualitative and quantitative techniques in environmental science, including study design, data collection and assembly, database manipulation, data analysis, and critically evaluating scientific information.",
-      "prerequisites": "STAT 2507 or permission from the Institute."
+      "prerequisites": "STAT 2507 or permission from the Institute.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3000",
       "name": "Environmental Science and Management: Theory and Practice",
       "credit": "0.5",
       "description": "Theoretical and practical perspectives related to environmental science and management; Emphasis on real-world problems associated with human activities and development of solutions in natural and built environments; Hands-on experience with environmental monitoring and restoration. A supplementary fee will apply.",
-      "prerequisites": "third-year standing in Environmental Science or permission of the Institute."
+      "prerequisites": "third-year standing in Environmental Science or permission of the Institute.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3002",
       "name": "Applied Data Analysis",
       "credit": "0.5",
       "description": "Data analysis strategies to tackle real-world, wicked problems. Includes a hands-on applied environmental data science project with a variety of partners. Topics include: obtaining and working with data, exploring causal relationships, data ethics, communicating data, and moving from data to information to action.",
-      "prerequisites": "third year standing."
+      "prerequisites": "third year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3106",
       "name": "Aquatic Science and Management",
       "credit": "0.5",
       "description": "Fundamentals of aquatic science. The physical, chemical, and biotic aspects of lake, river, and estuary systems including human impacts, management and conservation.",
-      "prerequisites": "third-year standing and a second year science or engineering course."
+      "prerequisites": "third-year standing and a second year science or engineering course.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3509",
       "name": "Group Research in Environmental Science",
       "credit": "0.5",
       "description": "Major project relating to an issue involving environmental science; effective methods of team research and presentation of group work. May include field work during class time or on weekends.",
-      "prerequisites": "third-year standing in the Honours Environmental Science program or permission of the Institute."
+      "prerequisites": "third-year standing in the Honours Environmental Science program or permission of the Institute.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3700",
       "name": "Topics in Environmental Science",
       "credit": "0.5",
       "description": "Specific topics of current interest.  Topics may vary from year to year.",
-      "prerequisites": "Third year standing in the Environmental Science program or permission of the Institute."
+      "prerequisites": "Third year standing in the Environmental Science program or permission of the Institute.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3906",
       "name": "Project Planning for Environmental Research",
       "credit": "0.5",
       "description": "Independent or group study on the fundamentals of scientific investigation, which may include use of literature, learning of research techniques, and development of a research proposal, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
-      "prerequisites": "Good standing in third year Environmental Science and permission of the Institute."
+      "prerequisites": "Good standing in third year Environmental Science and permission of the Institute.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
       "description": "Practical experience for students enrolled in the Co-operative Option. To receive course credit a student must receive satisfactory evaluations from their work term employer. Written reports describing the work term project will be required. Graded Sat or Uns.",
-      "prerequisites": "registration in the Environmental Science Co-operative Option and permission of the Institute. Four-month work term."
+      "prerequisites": "registration in the Environmental Science Co-operative Option and permission of the Institute. Four-month work term.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4001",
       "name": "Environmental Science Practicum",
       "credit": "0.5",
       "description": "Experience working in the environmental science sector, applying academic training to practical environmental issues.  Graded Sat/Uns.",
-      "prerequisites": "fourth-year standing in the Environmental Science program."
+      "prerequisites": "fourth-year standing in the Environmental Science program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4002",
       "name": "Environmental Decisions",
       "credit": "0.5",
       "description": "The regulatory and scientific aspects of environmental management decisions, including risk analysis and mitigation, managing chronic and acute environmental impacts, and conservation of species and landscapes. Students will use real-world case studies to learn traditional and cutting-edge decision-making tools.",
-      "prerequisites": "third-year standing in any B.Sc. program or permission of the Institute."
+      "prerequisites": "third-year standing in any B.Sc. program or permission of the Institute.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4003",
       "name": "Food Systems and the Environment",
       "credit": "0.5",
       "description": "This course explores issues of food systems and their sustainability. We will discuss aspects of food systems, including production, distribution, consumption, waste management, and their impact on communities and the environment.",
-      "prerequisites": "third year standing in B.Sc. or B.HSc. program or permission of the Institute."
+      "prerequisites": "third year standing in B.Sc. or B.HSc. program or permission of the Institute.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4005",
       "name": "Environmental Solutions and Sustainability Science",
       "credit": "0.5",
       "description": "Focus on conceptualization and application of different knowledges and knowledge systems to complex, interdisciplinary real-world problems through an environmental lens.  Development of skills and mindset needed to generate creative solutions that will be embraced by diverse publics and decision makers.",
-      "prerequisites": "Third year standing in B.Sc. programs in Environmental Science, Interdisciplinary Science and Practice, Earth Science, Biology, and Geography and B.A. programs in Biology and Geography, or permission of the Institute."
+      "prerequisites": "Third year standing in B.Sc. programs in Environmental Science, Interdisciplinary Science and Practice, Earth Science, Biology, and Geography and B.A. programs in Biology and Geography, or permission of the Institute.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4207",
       "name": "Environmental Isotopes",
       "credit": "0.5",
       "description": "Isotope applications in environmental and Earth sciences. Emphasis is placed current and novel environmental applications including contaminant tracing, hydrogeological studies, and (bio)geochemical cycling of elements. Mechanisms of stable isotope fractionation and analysis are presented. Student-led projects will explore the broad realm of isotope studies.",
-      "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department."
+      "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4700",
       "name": "Topics in Environmental Science",
       "credit": "0.5",
       "description": "",
-      "prerequisites": "third-year standing in the  Environmental Science program or permission of the Institute."
+      "prerequisites": "third-year standing in the  Environmental Science program or permission of the Institute.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4901",
       "name": "Directed Projects",
       "credit": "0.5",
       "description": "Independent or group study, for fourth-year students to explore a particular project, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
-      "prerequisites": "permission of the Institute. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program."
+      "prerequisites": "permission of the Institute. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4906",
       "name": "Honours Research Project",
       "credit": "1.0",
       "description": "An independent investigation into an aspect of environmental science supervised by a member of the faculty. Approval of the topic and the research schedule must be obtained from the project supervisor and the course coordinator before the last date for registration.",
-      "prerequisites": "fourth-year standing in the Honours Environmental Science program, a major CGPA 8.0 and permission of the Institute."
+      "prerequisites": "fourth-year standing in the Honours Environmental Science program, a major CGPA 8.0 and permission of the Institute.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4909",
       "name": "Translational Approach to Indigenous Community Wellness",
       "credit": "1.0",
       "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner. Includes: Experiential Learning Activity.",
-      "prerequisites": "Fourth-year standing with a minimum Major CGPA of 10.0 in the Honours Environmental Science program and permission of the instructor."
+      "prerequisites": "Fourth-year standing with a minimum Major CGPA of 10.0 in the Honours Environmental Science program and permission of the instructor.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

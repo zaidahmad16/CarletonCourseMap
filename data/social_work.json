@@ -7,266 +7,448 @@
       "name": "Introduction to Social Welfare",
       "credit": "0.5",
       "description": "Explores definitions of social welfare and the structure of the Canadian welfare state; evolution and devolution of the welfare state in Canada; social welfare and its relationship to social work, social change, and social justice.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 1002",
       "name": "Introduction to Social Work",
       "credit": "0.5",
       "description": "Introduction to the profession of social work; evolution of the social work profession in Canada; social work knowledge, values and skills. Explores professional and regulatory social work bodies and international linkages.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 2001",
       "name": "Structural Analysis and Social Work",
       "credit": "0.5",
       "description": "Evolution of structural social work, theories and critiques of structural social work and contemporary issues and challenges.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 . For Bachelor of Social Work students only."
+      "prerequisites": "SOWK 1001 and SOWK 1002 . For Bachelor of Social Work students only.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 2005",
       "name": "Values and Ethics for Social Work",
       "credit": "0.5",
       "description": "Focuses on knowledge and skills for ethical decision-making in social work; understanding social work values and ethics, accountability and the professional use of self.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 . For Bachelor of Social Work students only."
+      "prerequisites": "SOWK 1001 and SOWK 1002 . For Bachelor of Social Work students only.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 2100",
       "name": "The Political Economy of the Social Welfare State",
       "credit": "0.5",
       "description": "Political economic theories as lenses for structural analysis of social problems and policies affecting social work practice in Canada.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 or permission of the School of Social Work."
+      "prerequisites": "SOWK 1001 and SOWK 1002 or permission of the School of Social Work.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 2202",
       "name": "Introduction to Social Work Practice with Individuals and Families",
       "credit": "0.5",
       "description": "Understand and develop skills required for working with individuals and families; active listening; use of self; engagement; rapport-building; interviewing and interventions; empathy; interpersonal and professional collaboration; supervision.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 . For Bachelor of Social Work students only."
+      "prerequisites": "SOWK 1001 and SOWK 1002 . For Bachelor of Social Work students only.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 2203",
       "name": "Introduction to Social Work Practice with Groups and Communities",
       "credit": "0.5",
       "description": "Introduces students to theory and practice skills for group work and community work; structural social work with groups and communities.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 .  For Bachelor of Social Work students only."
+      "prerequisites": "SOWK 1001 and SOWK 1002 .  For Bachelor of Social Work students only.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 2301",
       "name": "Working with Children and Youth",
       "credit": "0.5",
       "description": "Preventative and protective social work intervention with children and youth. Issues addressed include child neglect, abuse and violence in the context of family; organizational mandate and social political contexts. Programs and services for children and youth.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3001",
       "name": "Introduction to Research Methods in Social Work",
       "credit": "0.5",
       "description": "Research methods used in social work; research paradigms; quantitative and qualitative analysis in social work and social welfare; stages in conducting research.",
-      "prerequisites": "third-year standing or permission of the School of Social Work."
+      "prerequisites": "third-year standing or permission of the School of Social Work.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3002",
       "name": "Introduction to Data Analysis and Visualization for Social Work",
       "credit": "0.5",
       "description": "Fundamentals of applied data analysis and storytelling; descriptive/inferential bivariate statistics and data visualizations (e.g. charts and maps) and their use in social work research and practice; interpreting and visualizing data to effectively promote social change and inform policy and practice.",
-      "prerequisites": "third-year standing or permission of the School of Social Work."
+      "prerequisites": "third-year standing or permission of the School of Social Work.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3100",
       "name": "Social Policy and Administration",
       "credit": "0.5",
       "description": "Understanding the welfare state and social policy in Canada; exploring issues in administration including program design and implementation; understanding and developing skills in policy-making and policy analysis. Canadian focus; recognition of the distinctiveness of social policy in Quebec.",
-      "prerequisites": "SOWK 2100 and third-year standing or permission of the School of Social Work."
+      "prerequisites": "SOWK 2100 and third-year standing or permission of the School of Social Work.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3206",
       "name": "Community Development and Social Change in an International Context",
       "credit": "0.5",
       "description": "Introduction to theories, models and methods of community organizing as a strategy for social change in an international context.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 ; or PAPM 1001 and PSCI 2003 , or permission of the School of Social Work."
+      "prerequisites": "SOWK 1001 and SOWK 1002 ; or PAPM 1001 and PSCI 2003 , or permission of the School of Social Work.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3207",
       "name": "Human Rights Practice in Civil Society",
       "credit": "0.5",
       "description": "Examines the advocacy role and capacity of organizations in civil society to increase popular participation in promoting and protecting human rights; includes transnational and national non-governmental organizations, grassroots movements, community organizations, and virtual or Internet-based organizations.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 or PAPM 1000 or HRSJ 1001 or permission of the School of Social Work."
+      "prerequisites": "SOWK 1001 and SOWK 1002 or PAPM 1000 or HRSJ 1001 or permission of the School of Social Work.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3400",
       "name": "Special Topics in Social Work",
       "credit": "0.5",
       "description": "Theory, policy or direct practice topics not covered in the regular course program. Choice of topics varies from year to year.",
-      "prerequisites": "SOWK 1001 and SOWK 1002 or permission of the School of Social Work."
+      "prerequisites": "SOWK 1001 and SOWK 1002 or permission of the School of Social Work.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3600",
       "name": "Practicum I",
       "credit": "2.0",
       "description": "Focus on integrating theory and practice in an approved community setting supervised by a field supervisor. Graded SAT/UNS.",
-      "prerequisites": "SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application."
+      "prerequisites": "SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3601",
       "name": "Practicum I",
       "credit": "2.0",
       "description": "Focus on integrating theory and practice in an approved community setting supervised by a field supervisor. Graded SAT/UNS.",
-      "prerequisites": "Third-year standing upon admission into the BSW program, SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , and permission of the School of Social Work. Student must be Eligible to Continue (EC) and have a 6.00 CGPA in the Social Work major, including in the term of application, and must be newly admitted into the BSW program."
+      "prerequisites": "Third-year standing upon admission into the BSW program, SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , and permission of the School of Social Work. Student must be Eligible to Continue (EC) and have a 6.00 CGPA in the Social Work major, including in the term of application, and must be newly admitted into the BSW program.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3602",
       "name": "Practicum I",
       "credit": "2.0",
       "description": "Focus on integrating theory and practice in an approved community setting supervised by a field supervisor. Limited enrolment subject to discretion of Practicum Coordinator. Graded as SAT/UNS.",
-      "prerequisites": "SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application."
+      "prerequisites": "SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 3804",
       "name": "Law of the Family",
       "credit": "0.5",
       "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
-      "prerequisites": "LAWS 2201 and LAWS 2202 ."
+      "prerequisites": "LAWS 2201 and LAWS 2202 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4000",
       "name": "Social Work and Indigenous Peoples",
       "credit": "0.5",
       "description": "Social work in partnership with Indigenous peoples in Canada; impact of the past on current relationships; rebuilding through dialogue and respect; understanding Indigenous social work.",
-      "prerequisites": "third-year standing in Bachelor of Social Work."
+      "prerequisites": "third-year standing in Bachelor of Social Work.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4001",
       "name": "Advanced Social Work Practice with Individuals and Families",
       "credit": "0.5",
       "description": "Advanced theory, methods, techniques, and skills for direct social work practice with individuals and families; individual and family assessments, treatment planning, intervention skills, and evaluation.",
-      "prerequisites": "SOWK 2202 and fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "SOWK 2202 and fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4002",
       "name": "Advanced Social Work Practice with Groups",
       "credit": "0.5",
       "description": "Advanced theory, methods, techniques, and skills for social work with groups; knowledge of group work and various group formats; and social work interventions in group process.",
-      "prerequisites": "SOWK 2203 and fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "SOWK 2203 and fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4003",
       "name": "Advanced Social Work Practice with Communities",
       "credit": "0.5",
       "description": "Advanced theory, methods, techniques and skills for engaging in community-based practice. Politics and challenges of social work community organizing and strategies and skills for community work.",
-      "prerequisites": "SOWK 2203 and fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "SOWK 2203 and fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4004",
       "name": "Social Policy Development and Practice",
       "credit": "0.5",
       "description": "Social policy development processes in government and non-governmental agencies; refining skills in evaluating and critiquing processes of policy formation; role of lobbying and social activism.",
-      "prerequisites": "SOWK 3100 and fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "SOWK 3100 and fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4103",
       "name": "Practice and Policy in Immigration",
       "credit": "0.5",
       "description": "History of immigration policies in Canada; direct practice with immigrants and refugees; diaspora, settlement and integration issues; immigrants and refugee women; intergenerational family relations; resources and community organizing.",
-      "prerequisites": "third-year standing or permission of the School of Social Work."
+      "prerequisites": "third-year standing or permission of the School of Social Work.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4204",
       "name": "Social Work and Aging",
       "credit": "0.5",
       "description": "Social perspectives on aging with focus on models of practice that contribute to the independence of elderly people. Social programs and policies, such as social insurance, social services, housing, public health and health care. Social, psychological and political issues related to independence in later life.",
-      "prerequisites": "third-year standing or permission of the School of Social Work."
+      "prerequisites": "third-year standing or permission of the School of Social Work.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4209",
       "name": "Special Topics in Direct Social Work Practice",
       "credit": "0.5",
       "description": "Theory and knowledge development of direct practice topics not in the regular course program. Topics may vary from year to year.",
-      "prerequisites": "third year standing or permission of the School of Social Work."
+      "prerequisites": "third year standing or permission of the School of Social Work.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4210",
       "name": "Special Topics in Direct Social Work Practice",
       "credit": "0.5",
       "description": "Theory and knowledge development of direct practice topics not in the regular course program. Topics may vary from year to year.",
-      "prerequisites": "third-year standing or permission of the School of Social Work."
+      "prerequisites": "third-year standing or permission of the School of Social Work.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4211",
       "name": "Special Topics in Social Policy",
       "credit": "0.5",
       "description": "Theory and knowledge development of social policy topics not in the regular course program. Topics may vary from year to year.",
-      "prerequisites": "SOWK 3100 and third year standing or permission of the School of Social Work."
+      "prerequisites": "SOWK 3100 and third year standing or permission of the School of Social Work.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4213",
       "name": "Special Topics in Social Work",
       "credit": "0.5",
       "description": "Theory and knowledge development of a combination of practice and policy topics not in the regular course program. Topics may vary from year to year.",
-      "prerequisites": "third-year standing or permission of the School of Social Work."
+      "prerequisites": "third-year standing or permission of the School of Social Work.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4300",
       "name": "Social Work and Persons with Disabilities",
       "credit": "0.5",
       "description": "Social work theory and practice with persons with disabilities. Structural analysis of theory, models, policies and practices; disability rights; critical analysis of medical model and ableism.",
-      "prerequisites": "fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4301",
       "name": "Racialization and Social Work",
       "credit": "0.5",
       "description": "Social work and racialization; racism and consequences; critical analysis of cultural formations, difference, and identities; critical examination of whiteness and privilege.",
-      "prerequisites": "fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4302",
       "name": "Poverty and Social Welfare Policy",
       "credit": "0.5",
       "description": "Social work analysis of theories of poverty and economic inequality; labour force participation; poverty and wealth and income distribution in Canada and international comparisons; Canadian social policies and poverty.",
-      "prerequisites": "fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4303",
       "name": "Gender and Sexuality",
       "credit": "0.5",
       "description": "Social work and social, political, institutional and economic relations shaping everyday experiences of gender and sexuality and implications for contemporary social work.",
-      "prerequisites": "fourth-year standing in the Bachelor of Social Work."
+      "prerequisites": "fourth-year standing in the Bachelor of Social Work.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4600",
       "name": "Practicum II",
       "credit": "2.0",
       "description": "Development, application, testing and integration of knowledge, theory and skills in practice with individuals, families, groups and communities, in research or in social administration and policy. Graded SAT/UNS.",
-      "prerequisites": "third-year standing in the BSW program; SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , SOWK 3100 ; SOWK 3600 or 3601 or 3602, and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application."
+      "prerequisites": "third-year standing in the BSW program; SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , SOWK 3100 ; SOWK 3600 or 3601 or 3602, and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4601",
       "name": "Practicum IIA",
       "credit": "1.0",
       "description": "Development, application, testing, and integration of knowledge, theory and skills in practice with individuals, families, groups and communities, in research or social administration and policy. Part-time practicum must be taken consecutively with . Graded SAT/UNS.",
-      "prerequisites": "third-year standing in the BSW program; SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , SOWK 3100 ; SOWK 3600 or 3601 or 3602, and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application."
+      "prerequisites": "third-year standing in the BSW program; SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , SOWK 3100 ; SOWK 3600 or 3601 or 3602, and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4602",
       "name": "Practicum IIB",
       "credit": "1.0",
       "description": "Development, application, testing, and integration of knowledge, theory and skills in practice with individuals, families, groups and communities, in research or social administration and policy. Part-time practicum must be taken consecutively with . Graded SAT/UNS.",
-      "prerequisites": "third-year standing in the BSW program; SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , SOWK 3100 ; SOWK 3600 or 3601 or 3602, SOWK 4601 and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application."
+      "prerequisites": "third-year standing in the BSW program; SOWK 2001 , SOWK 2005 , SOWK 2100 , SOWK 2202 , SOWK 2203 , SOWK 3100 ; SOWK 3600 or 3601 or 3602, SOWK 4601 and permission of the School of Social Work. Student must be Eligible to Continue (EC) in the BSW program and have a 6.00 CGPA in the Social Work major, including in the term of application.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4702",
       "name": "Special topic in Criminal Justice and Social Policy",
       "credit": "0.5",
       "description": "Selected topic in criminal justice and social policy. Topics announced in advance. Part of the Summer School in Criminal Justice and Social Policy and offered by the Department of Sociology.",
-      "prerequisites": "fourth-year Honours standing or permission of the School of Social Work."
+      "prerequisites": "fourth-year Honours standing or permission of the School of Social Work.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "SOWK 4908",
       "name": "Honours Essay",
       "credit": "1.0",
       "description": "Research essay under supervision of accredited faculty member. Project may be in the form of case study, historical study or other form that meets the approval of faculty advisor.",
-      "prerequisites": "fourth-year standing in the Bachelor of Social Work and permission of the School of Social Work."
+      "prerequisites": "fourth-year standing in the Bachelor of Social Work and permission of the School of Social Work.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

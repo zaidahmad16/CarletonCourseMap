@@ -7,532 +7,824 @@
       "name": "Studio 4",
       "credit": "1.5",
       "description": "Supported by the core curriculum, focuses on a medium-scale building within a regional context. May include a small design-build. Projects further analog and digital methods. May introduce concepts like adaptive re-use while furthering the understanding of structure and building systems in a complex building.(Core Course).",
-      "prerequisites": "ARCS 2105 and ARCS 2106."
+      "prerequisites": "ARCS 2105 and ARCS 2106.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 3107",
       "name": "Studio 5",
       "credit": "1.0",
       "description": "The Directed Studies Abroad (DSA) studio considers large-scale, mixed-use buildings in an international context. Design projects advance analog and digital methods to explore broader cultural and social conditions within a complex site often in conjunction with a site visit abroad. (Core Course).",
-      "prerequisites": "ARCS 2105 and ARCS 2106."
+      "prerequisites": "ARCS 2105 and ARCS 2106.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 3301",
       "name": "Conservation Studio 2",
       "credit": "1.0",
       "description": "Historical building projects exploring architecture as a form of cultural expression. Consideration of site, program and materials. Introduction of conservation, sustainability and adaptive re-use principles, development standards, architectural codes, using case studies in Ottawa and elsewhere. Physical, digital drawings and models to explore designs. (Core).",
-      "prerequisites": "ARCS 2302 and third-year standing in B.A.S. Conservation and Sustainability major or permission of the School."
+      "prerequisites": "ARCS 2302 and third-year standing in B.A.S. Conservation and Sustainability major or permission of the School.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 3302",
       "name": "Conservation Studio 3",
       "credit": "1.0",
       "description": "The role of architecture in culture, stressing site and program with respect to their historic, social and ecological implications. Synthesis of issues, methods and techniques of the conservation and sustainability curriculum. (Core Course).",
-      "prerequisites": "ARCS 3301 and third-year standing in B.A.S. Conservation and Sustainability major or permission of the School."
+      "prerequisites": "ARCS 3301 and third-year standing in B.A.S. Conservation and Sustainability major or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 3304",
       "name": "Urbanism Studio 3: Urbanism on the Periphery",
       "credit": "1.0",
       "description": "Urbanization, sprawl, growth models, land consumption, containment strategies (smart growth, greenbelts, growth boundaries), edge cities, the Just City, Ecological Urbanism, and informal suburbanization in developed and developing countries. Through design, students explore the impact of practices, pressures, processes and cultural preferences on the expanding city.",
-      "prerequisites": "ARCS 2303 and ARCS 2304 and third-year standing in B.A.S. Urbanism major or permission of the School."
+      "prerequisites": "ARCS 2303 and ARCS 2304 and third-year standing in B.A.S. Urbanism major or permission of the School.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 3306",
       "name": "Urbanism Studio 5: Global Perspectives",
       "credit": "1.0",
       "description": "Urbanization as a global phenomenom. Study of various forms of urbanization and de-urbanization in relation to economic, political and cultural forces. Through design, students explore the (trans)formation of settlements and communities outside of the North American context.",
-      "prerequisites": "ARCS 2303 and ARCS 2304 and third-year standing in B.A.S. Urbanism major or permission of the School."
+      "prerequisites": "ARCS 2303 and ARCS 2304 and third-year standing in B.A.S. Urbanism major or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 4105",
       "name": "Comprehensive Studio",
       "credit": "1.5",
       "description": "Focussing on multi-unit housing, students from BAS majors collaborate to develop strategies for redevelopment of large urban sites.  Engages urban design, site planning, programming, adaptive reuse, and community consultation.  Students produce detailed designs for buildings, emphasizing building systems and envelope design. (Core Course).",
-      "prerequisites": "ARCS 3105 and ARCS 3107 , or ARCS 3303 and ARCS 3304 ."
+      "prerequisites": "ARCS 3105 and ARCS 3107 , or ARCS 3303 and ARCS 3304 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCS 4107",
       "name": "Option Studio",
       "credit": "1.0",
       "description": "Offers a range of topics for exploration.  Students use analog and digital methods and techniques to culminate the undergraduate studio sequence while offering focused research-led investigation into key social, political, spatial issues. (Core Course).",
-      "prerequisites": "ARCS 3105 and ARCS 3107 ."
+      "prerequisites": "ARCS 3105 and ARCS 3107 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCC 2203",
       "name": "Architectural Technology 3",
       "credit": "0.5",
       "description": "Wood frame, post and beam, steel and concrete systems and construction techniques. Structural systems and building envelope principles and practise are explored in conjunction with mechanical and electrical systems in smaller buildings. Emphasis on precedent, tradition and methodology of architectural detailing for construction.",
-      "prerequisites": "ARCC 2202 and third-year standing for B.A.S. students and third-year standing for students in B.Eng. Architectural Conservation and Sustainability."
+      "prerequisites": "ARCC 2202 and third-year standing for B.A.S. students and third-year standing for students in B.Eng. Architectural Conservation and Sustainability.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCC 3202",
       "name": "Architectural Technology 4",
       "credit": "0.5",
       "description": "Medium scale steel, concrete, and wood frame buildings as case studies to explore approaches to building science principles, building envelope design, advanced construction methods and materials, acoustics and sound control, and fire protection. Focus on sustainable design strategies and environment impact. (Core course).",
-      "prerequisites": "ARCC 2203 and third-year standing for B.A.S. students or ARCC 2203 and third-year standing for students in B.Eng. Architectural Conservation."
+      "prerequisites": "ARCC 2203 and third-year standing for B.A.S. students or ARCC 2203 and third-year standing for students in B.Eng. Architectural Conservation.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCC 4200",
       "name": "Structural Morphology",
       "credit": "0.5",
       "description": "Interdisciplinary study of structural and developmental morphology focusing on dynamic generative design processes, integrative systems, spatial modulations and fundamental generative principles of spatial form and structure as it relates to architecture. (Workshop).",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCC 4207",
       "name": "Advanced Building Assessment",
       "credit": "0.5",
       "description": "In-depth study of the conventions, methods, and tools used in the assessment of buildings and their sties including traditional field survey, photogrammetry, laser scanning technologies, and hybrid representations.",
-      "prerequisites": "enrolment in the BAS Conservation and Sustainability program and fourth-year standing."
+      "prerequisites": "enrolment in the BAS Conservation and Sustainability program and fourth-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCC 4500",
       "name": "Design Economics",
       "credit": "0.5",
       "description": "Principles of building economics. Determinants and prediction of building costs. Uncertainty and investment economics. Creative cost control for buildings during schematic design, design development, construction document preparation and construction. Economic evaluation during all phases of design process; emphasis on sustainable strategies.",
-      "prerequisites": "fourth-year standing in the B.A.S. program or permission of the School."
+      "prerequisites": "fourth-year standing in the B.A.S. program or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCC 4801",
       "name": "Architectural Technology",
       "credit": "0.5",
       "description": "A specific aspect of architecture in the area of architectural technology. Topics vary from year to year. (Elective Course).",
-      "prerequisites": "permission of the School."
+      "prerequisites": "permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCN 4100",
       "name": "Historic Site Recording and Assessment",
       "credit": "0.5",
       "description": "Methods of heritage building documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
-      "prerequisites": "second-year standing in B.A.S. Conservation and Sustainability."
+      "prerequisites": "second-year standing in B.A.S. Conservation and Sustainability.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCN 4200",
       "name": "Building Pathology and Rehabilitation",
       "credit": "0.5",
       "description": "Deterioration mechanisms for concrete, timber, steel and masonry structures.  Identification of design deficiencies; criteria for selection and design of rehabilitation systems.  Design techniques to reduce deterioration in new construction and historical structures.",
-      "prerequisites": "ARCN 4100 and third-year standing in B.A.S. Conservation and Sustainability."
+      "prerequisites": "ARCN 4100 and third-year standing in B.A.S. Conservation and Sustainability.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1007",
       "name": "Introduction to Drawing: Seeing Through the Hand",
       "credit": "0.5",
       "description": "Fundamental concepts of line and line weight, light and shadow, perspective, contrast and composition. Exercises will include some mixed media and will introduce students to drawing as a way of translating ideas into images.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1111",
       "name": "Studio 1A: Land",
       "credit": "1.0",
       "description": "Studio course involving land-based workshops and fieldwork to introduce orientation, siting, topography, land work, material tectonic and building foundations. Students learn drawing conventions, architectural drafting, and physical modeling, applying basic spatial norm and sequencing through the design of a small-scale building in a non-urban context.",
-      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1112",
       "name": "Studio 1B: Fundamentals of Design",
       "credit": "1.0",
       "description": "Studio course considering siting, orientation, and building design. With hybrid drawings and models, students move from spatial abstraction to inhabitation. Designing a small domestic program on an urban site, they learn basic programmatic organization, accessibility, spatial hierarchy, material selection, structural systems, and envelope design.",
-      "prerequisites": "Minimum grade of C- or above in ARCH 1111 ."
+      "prerequisites": "Minimum grade of C- or above in ARCH 1111 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1221",
       "name": "Material Histories of Architecture",
       "credit": "0.5",
       "description": "Historical survey of architecture and conservation through material practices, transformation, and\u202finnovation around the world. Study of thousand-year old methods, monuments, and heritage sites, following materials including clay, metals, wood, or concrete, and studying their relations to landscapes, built forms, cultures, and climate.",
-      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1222",
       "name": "Design, Climate, Environment",
       "credit": "0.5",
       "description": "Environmental histories following the migration of peoples, practices, and resources across territories and times to introduce buildings' climate impacts and environmental design. Consideration of construction principles, energy management, material selection, building siting, and environmental control design along larger consideration of climate and environmental justice.",
-      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1331",
       "name": "Introduction to Architecture",
       "credit": "0.5",
       "description": "Introduction of architecture from the perspective of land and climate, examining social, cultural, and environmental relationships between peoples, places, and practices. Consideration of Indigenous land rights, topographical conditions and land formation, stratigraphy and soil composition, landmarks and foundations, placement and displacement, lived-experience and land-based practices.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1441",
       "name": "Drawing and Media",
       "credit": "0.5",
       "description": "Introduction to various representational media, including orthographic drawings and alternative multimedia techniques. Historical, theoretical, and practical explorations of visual communication, moving between analogue, digital, and graphic image making processes to document, develop, and communicate sites or design projects. Includes assignments conducted in parallel with studio.",
-      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 1442",
       "name": "Digital Drawing and Modelling",
       "credit": "0.5",
       "description": "Introduction to the logics of computer software for digital drawing, modeling, and visual coding. Extensive practical work using appropriate applications. Includes assignments conducted in parallel with studio, typically incorporating case study analyses.",
-      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Registration in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2006",
       "name": "Theory and History of Design",
       "credit": "0.5",
       "description": "The theoretical and historical background of industrial design and design; disciplinary foundations and interdisciplinary connections; methodological aspects and economic and social contexts; contemporary scenarios in design; technological innovation and manufacturing processes. (Elective course).",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2101",
       "name": "Industrial Design Analysis",
       "credit": "0.5",
       "description": "Principles of comparative product design analysis covering marketing and sales, manufacturing techniques and materials, ambiance and qualities of the object/context relationship, and design analysis from the perspective of the designer, the end-user and the environment. (Elective course).",
-      "prerequisites": "ARCH 2006 or IDES 1000 ."
+      "prerequisites": "ARCH 2006 or IDES 1000 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2111",
       "name": "Studio 2A: Fundamentals of Urbanism",
       "credit": "1.0",
       "description": "Urbanism studio introducing, documenting, and analyzing forces producing urban environments. Students design a medium-scale public infrastructure project in a local urban context, foregrounding site analysis and urban design skills. Consideration given to accessibility, public realm, and to broad impact of infrastructural, environmental, and ecological systems.",
-      "prerequisites": "A minimum grade of C- or above in ARCH 1111 and ARCH 1112 ."
+      "prerequisites": "A minimum grade of C- or above in ARCH 1111 and ARCH 1112 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2172",
       "name": "Studio 2B: Local (Design)",
       "credit": "1.0",
       "description": "Design studio working with community with appropriate ethics training on a small to medium building project. Students use analog and digital methods to advance consideration of site, program, and materials as the means for shaping the built environment, understanding the settings, and their communities.",
-      "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Design stream."
+      "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Design stream.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2182",
       "name": "Studio 2B: Local (C&S)",
       "credit": "1.0",
       "description": "Conservation & Sustainability studio working with community with appropriate ethics training on a small to medium building projects. Students test and study conservation methodologies through design exercises and historical research on existing architectures, cities, and landscapes, with emphasis on understanding the settings and its communities.",
-      "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Conservation and Sustainability stream."
+      "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Conservation and Sustainability stream.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2192",
       "name": "Studio 2B: Local (Urbanism)",
       "credit": "1.0",
       "description": "Urbanism studio working with community with appropriate ethics training. Students design small scale projects exploring ramifications of practices, policies, and cultural preferences on urban cores. Consideration of intensification, revitalization, gentrification, brownfield redevelopment, development standards, form-based codes, and the larger impact of migration on urban density.",
-      "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Urbanism stream."
+      "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Urbanism stream.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2221",
       "name": "Ecological & Regulatory Systems",
       "credit": "0.5",
       "description": "Lecture-based course considering buildings\u2019 ecological\u00a0 and climate change impacts. Course covers how regulations, material choices, siting, and assembly methods of small-scale buildings impact energy consumption, carbon footprints, and GHG emissions. Regulatory content includes applicable codes, regulations, best practices, universal design standards and life-safety systems principles.",
-      "prerequisites": "ARCH 1221 and ARCH 1222 ."
+      "prerequisites": "ARCH 1221 and ARCH 1222 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2222",
       "name": "Structures",
       "credit": "0.5",
       "description": "Fundamental structural principles and their building design applications. Concepts of equilibrium and mechanics of materials, including stress and strain. Structural calculations and qualitative understanding of static and dynamic loads, including gravitational and lateral forces. Includes consideration of wood, masonry, concrete, and steel structural systems.",
-      "prerequisites": "ARCH 2221 ."
+      "prerequisites": "ARCH 2221 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2331",
       "name": "Modernism and Global Urbanism",
       "credit": "0.5",
       "description": "Thematic survey of cities, modernist ideas, projects, and movements, considering their theoretical, historical, and practical expressions in urban morphology and housing typologies, and their relation to larger societal and environmental questions, locally and globally. Acquisition of critical reading, writing, and representation skills through case-study analysis.",
-      "prerequisites": "ARTH 1201 ."
+      "prerequisites": "ARTH 1201 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 2332",
       "name": "Architectures in Canada",
       "credit": "0.5",
       "description": "Architectures in Canada, including Indigenous settlements, practices, and relationships to the land to this day. Survey of selected buildings to consider relational, symbolic, stylistic, and technological developments. Critical analysis or styles, methods, materials, and building typologies from social, cultural, economic, and constructional perspectives.",
-      "prerequisites": "ARCH 2331 ."
+      "prerequisites": "ARCH 2331 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3111",
       "name": "Studio 3A: Adaptive Reuse",
       "credit": "1.0",
       "description": "Adaptive architecture studio critically considering buildings\u2019 adaptability in diverse communities\u2019 contexts and in relation to environmental responsibilities. Standards, principles, basic regulatory systems, and codes of conservation introduced through case-studies and the designing a medium-scale project, with focus on program analysis, detailing and material assembly.",
-      "prerequisites": "Minimum grade of C- or above in ARCH 2111 ."
+      "prerequisites": "Minimum grade of C- or above in ARCH 2111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3172",
       "name": "Studio 3B: Global (Design)",
       "credit": "1.0",
       "description": "The global partnership Design studio (DSA) considers the role of design in communities, stressing site and program with respect to their historic, social, and ecological implications in a mid-scale cultural building. Synthesis and expansion of issues, methods, and techniques of the design curriculum.",
-      "prerequisites": "Minimum of a C- or above in ARCH 3111 ."
+      "prerequisites": "Minimum of a C- or above in ARCH 3111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3182",
       "name": "Studio 3B: Global (C&S)",
       "credit": "1.0",
       "description": "The global partnership Conservation & Sustainability studio (DSA) considers the role of design in communities, stressing site and program with respect to their historic, social, and ecological implications in a mid-scale cultural building. Synthesis of issues, methods, and techniques of the conservation and sustainability curriculum.",
-      "prerequisites": "Minimum grade of C- or higher in ARCH 3111 and Registration in the Conservation and Sustainability stream of the Bachelor of Architectural Studies."
+      "prerequisites": "Minimum grade of C- or higher in ARCH 3111 and Registration in the Conservation and Sustainability stream of the Bachelor of Architectural Studies.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3192",
       "name": "Studio 3B: Global (Urbanism)",
       "credit": "1.0",
       "description": "The global partnership Urbanism studio (DSA) considers the role various forms of urbanization and de-urbanization in relation to economic, political, and cultural forces. Students design a mid-scale public building, synthesizing issues, methods, and techniques of the urbanism curriculum, learning about urbanization as a global phenomenon.",
-      "prerequisites": "Minimum grade of C- or above in ARCH 3111 ."
+      "prerequisites": "Minimum grade of C- or above in ARCH 3111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3221",
       "name": "Assemblies",
       "credit": "0.5",
       "description": "Wood, steel, concrete, and alternate construction materials, and systems. Building envelope principles and practices explored in conjunction with mechanical and electrical systems in buildings. Emphasis on precedents, traditions, and methodology of architectural detailing for construction and adaptation. Introduction of environmental impact assessment and life-cycle analysis.",
-      "prerequisites": "ARCH 2222 ."
+      "prerequisites": "ARCH 2222 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3331",
       "name": "Architectural Conservation Philosophy and Ethics",
       "credit": "0.5",
       "description": "Analysis of philosophical theories and related approaches to the material transformation of buildings. Micro-histories in architectural conservation theory and practice; overview of historical and contemporary concepts in architectural conservation. Preservation, restoration, rehabilitation, reconstruction, adaptive re-use, conservation anamnesis, diagnosis.",
-      "prerequisites": "Third year standing in the Bachelor of Architectural Studies or the Bachelor of Engineering in Architectural Conservation and Sustainability Engineering."
+      "prerequisites": "Third year standing in the Bachelor of Architectural Studies or the Bachelor of Engineering in Architectural Conservation and Sustainability Engineering.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3441",
       "name": "Digital Computation and Simulation",
       "credit": "0.5",
       "description": "Intermediate computer drawing and modeling with a focus on visualization, simulation, computation, and coding. Assignments conducted in parallel with studio, includes an introduction to Building Information Modeling and building documentation strategies and technologies.",
-      "prerequisites": "ARCH 1442 ."
+      "prerequisites": "ARCH 1442 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3601",
       "name": "Architectural Discourse I",
       "credit": "0.5",
       "description": "Examines ideas relevant to contemporary architectural discourses and practices focused on the development of critical thinking and communication skills situated in emerging inquiries within a longer lineage of existing architectural theory. (Core Course).",
-      "prerequisites": "Third-year standing or permission of the School."
+      "prerequisites": "Third-year standing or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3881",
       "name": "Historic Site Recording and Assessment",
       "credit": "0.5",
       "description": "Methods of heritage building documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
-      "prerequisites": "Second-year standing in B.A.S. Conservation and Sustainability stream."
+      "prerequisites": "Second-year standing in B.A.S. Conservation and Sustainability stream.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
       "description": "Co-operative Work Term for students in the Bachelor of Architectural Studies.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4002",
       "name": "Canadian Architecture",
       "credit": "0.5",
       "description": "Canadian architecture from the seventeenth century to the present. Building styles, methods, construction techniques, and materials in the context of social and economic conditions of both indigenous and settlement approaches to the built environment.",
-      "prerequisites": "ARCH 2300 or permission of the School."
+      "prerequisites": "ARCH 2300 or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4105",
       "name": "Theories of Landscape Design",
       "credit": "0.5",
       "description": "Introduction to landscape architecture as the organization of outdoor space. Historical, cultural, economic and political factors as a basis for interpreting spatial organization in urban and rural areas of human settlement. Emphasis on the period from the fifteenth to the nineteenth century. (Theory/History Elective).",
-      "prerequisites": "second-year standing or above."
+      "prerequisites": "second-year standing or above.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4111",
       "name": "Studio 4A: Integrated",
       "credit": "1.0",
       "description": "Integrated studio working in parallel with technology course to support students as they design a sustainable mixed-use housing project. Consideration of site planning, programming, regulatory systems, materials, and structures in a comprehensive building design incorporating environmental and structural systems as well as detailed envelope design.",
-      "prerequisites": "Minimum of a C- or above in ARCH 3111 ."
+      "prerequisites": "Minimum of a C- or above in ARCH 3111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4172",
       "name": "Studio 4B: Option (Design)",
       "credit": "1.0",
       "description": "Options of Design topics for speculative exploration in preparation for graduate studies. Projects can range in scale, and locations. Topics can variously expand upon acquired technical, historical, theoretical, or technology skills through focused research-led investigations into key spatial, material, social, or environmental issues.",
-      "prerequisites": "Minimum of a C- or above in ARCH 4111 ."
+      "prerequisites": "Minimum of a C- or above in ARCH 4111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4182",
       "name": "Studio 4B: Option (C&S)",
       "credit": "1.0",
       "description": "Options of Conservation and Sustainability topics for speculative exploration in preparation for graduate studies. Projects can range in scale, and locations. Topics can variously expand upon acquired technical, historical, theoretical, or technology skills through focused research-led investigations into key spatial, material, social, or environmental issues.",
-      "prerequisites": "Minimum of a C- or above in ARCH 4111 ."
+      "prerequisites": "Minimum of a C- or above in ARCH 4111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4192",
       "name": "Studio 4B: Option (Urbanism)",
       "credit": "1.0",
       "description": "Options of Urbanism topics for speculative exploration in preparation for graduate studies. Projects can range in scale, and locations. Topics can variously expand upon acquired technical, historical, theoretical, or technology skills through focused research-led investigations into key spatial, material, social, or environmental issues.",
-      "prerequisites": "Minimum of a C- or above in ARCH 4111 ."
+      "prerequisites": "Minimum of a C- or above in ARCH 4111 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4200",
       "name": "Architectural Conservation Philosophy and Ethics",
       "credit": "0.5",
       "description": "Analysis of philosophical theories and related approaches to the material transformation of buildings.  Micro-histories in architectural conservation theory and practice; overview of historical and contemporary concepts in architectural conservation.  Preservation, restoration, rehabilitation, reconstruction, adaptive re-use, conservation anamnesis, diagnosis.",
-      "prerequisites": "Third-year standing in B.A.S.; OR third-year status in B.Eng. (Architectural Conservation and Sustainability)."
+      "prerequisites": "Third-year standing in B.A.S.; OR third-year status in B.Eng. (Architectural Conservation and Sustainability).",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4201",
       "name": "History of Modern Housing",
       "credit": "0.5",
       "description": "Study of housing as a function of social organization, demographics, market demand and public policy. Topics include the evolution of housing form, the role of the state, and the participation of architects in the housing marketplace in the 19th and 20th century. (Theory/History Elective).",
-      "prerequisites": "third-year standing in the B.A.S. program or permission of the School."
+      "prerequisites": "third-year standing in the B.A.S. program or permission of the School.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4206",
       "name": "Recycling Architecture in Canada and Abroad",
       "credit": "0.5",
       "description": "Concepts of mediating old and new architecture at the scale of the city through to the detail of the construction joint. Issues in sustainability and cultural identity illuminated by recycled architecture and adaptive reuse are explored through readings, drawings and case studies. (Theory/History Elective).",
-      "prerequisites": "third-year standing in the B.A.S. program or by permission of the instructor or fourth-year standing in the B.Eng. Architectural Conservation and Sustainability program."
+      "prerequisites": "third-year standing in the B.A.S. program or by permission of the instructor or fourth-year standing in the B.Eng. Architectural Conservation and Sustainability program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4221",
       "name": "Environmental Systems",
       "credit": "0.5",
       "description": "Lecture-based technology course reinforcing building science principles of environmental mediation through building envelope, structural systems, passive and active systems, material selection, MEP, daylight, and acoustic. Consideration of fire protection, life-safety, climate adaptation and mitigation through life-cycle analysis, energy, and performance assessment in integrated studio project.",
-      "prerequisites": "ARCH 3221 ."
+      "prerequisites": "ARCH 3221 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4301",
       "name": "Post-War Architecture",
       "credit": "0.5",
       "description": "Theoretical, ideological and artistic debates that have influenced the development of world architecture since 1950. (Theory/History Elective).",
-      "prerequisites": "ARCH 2300 or ARTH 3609 or permission of the instructor."
+      "prerequisites": "ARCH 2300 or ARTH 3609 or permission of the instructor.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4332",
       "name": "Contemporary Theories in Architecture",
       "credit": "0.5",
       "description": "Survey of cultural theories from the beginning of colonialism to this day. Considerations of how technological, socio-political, material, and ecological transformations inform architectural discourse. Students acquire research skills, considering\u00a0 topics such as race, gender, disability, environmental justice, Indigenous worldviews, climate, decolonization, or artificial intelligence.",
-      "prerequisites": "Fourth year standing in the Bachelor of Architectural Studies program."
+      "prerequisites": "Fourth year standing in the Bachelor of Architectural Studies program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4505",
       "name": "Seminar in Theory and History",
       "credit": "0.5",
       "description": "History and theory of architecture. Topics will vary from year to year. Limited enrolment. (Elective Course).",
-      "prerequisites": "fourth-year standing in the B.A.S. or B.A. (Honours) Architecture/Art History programs, or permission of the School."
+      "prerequisites": "fourth-year standing in the B.A.S. or B.A. (Honours) Architecture/Art History programs, or permission of the School.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4601",
       "name": "Architectural Discourse II",
       "credit": "0.5",
       "description": "Examines ideas and methods relevant to contemporary architectural discourse with a focus on cultural diversity and global perspectives.  Architectural Discourse II builds on learned skills from previous work and acts as a preparatory course for research skills necessary at the graduate level. (Core Course).",
-      "prerequisites": "ARCH 3601 and fourth-year standing or permission of the School."
+      "prerequisites": "ARCH 3601 and fourth-year standing or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4771",
       "name": "Architectural Discourse and Methods",
       "credit": "0.5",
       "description": "Survey of ideas and methods relevant to contemporary architectural discourse and practices, selected to represent a broad range of approaches and perspectives. Development of critical thinking and communication skills, and introduction to design research methods along with those across humanities, sciences, and social sciences.",
-      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4772",
       "name": "The Cost of Building",
       "credit": "0.5",
       "description": "The course explores the social, environmental, and economic costs of building. Topics range from pro-forma exercises for individual buildings to explorations of supply chains, environmental impact of various construction materials and methods, and the social impact of development and displacement on vulnerable sites and communities.",
-      "prerequisites": "Fourth year standing in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Fourth year standing in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4773",
       "name": "Designed Landscapes",
       "credit": "0.5",
       "description": "Introduction to the complex nature of designed landscapes, their material, socio-political, and historical relationships, their tensions, implications, plural geographies, and cultures. Topics include cross-disciplinarity and links with other design fields, issues of climate and adaptation, urbanism and infrastructure, representation and visuality, time and place.",
-      "prerequisites": "Third year standing or above."
+      "prerequisites": "Third year standing or above.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4777",
       "name": "Land Ethics and Identities",
       "credit": "0.5",
       "description": "Exploration of land ethics and identities in relation to social, culture, political, and economic forces, through an investigation of the built and unbuilt environments. Topics include the setting of human activities, indigenous and non-indigenous relations, indigenous knowledges, geopolitics, sovereignty, settler-colonialism, and shifting identity politics.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4801",
       "name": "Special Topics",
       "credit": "0.5",
       "description": "An aspect of architecture in the area of theory and history. Topics vary from year to year. (Theory/History Elective).",
-      "prerequisites": "ARCH 2300 or permission of the School."
+      "prerequisites": "ARCH 2300 or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4808",
       "name": "Independent Study",
       "credit": "0.5",
       "description": "(Elective Course).",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4881",
       "name": "Advanced Building Assessment",
       "credit": "0.5",
       "description": "In-depth study of the conventions, methods, and tools used in the assessment of buildings and their sites including traditional field survey, photogrammetry, laser scanning technologies, and hybrid representations.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4882",
       "name": "Topics in Conservation",
       "credit": "0.5",
       "description": "Advanced seminar in conservation and sustainability. Topics may include histories and theories related to adaptive architecture, heritage considerations, and critical approaches to conservation of buildings, cities, and landscapes.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4883",
       "name": "Evaluation of Existing Properties",
       "credit": "0.5",
       "description": "The cultural, political, economic, and legal factors that shape our definition of and approaches to existing architecture. Processes for and implications of heritage designation, cultural value, and costs associated with restoration and ongoing preservation of heritage and other existing properties.",
-      "prerequisites": "Fourth year standing in the Bachelor of Architectural Studies (BAS) Conservation & Sustainability stream."
+      "prerequisites": "Fourth year standing in the Bachelor of Architectural Studies (BAS) Conservation & Sustainability stream.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4885",
       "name": "Building Pathology and Rehabilitation",
       "credit": "0.5",
       "description": "Deterioration mechanisms for concrete, timber, steel and masonry structures.  Identification of design deficiencies; criteria for selection and design of rehabilitation systems.  Design techniques to reduce deterioration in new construction and historical structures.",
-      "prerequisites": "ARCH 3881 ."
+      "prerequisites": "ARCH 3881 .",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4991",
       "name": "History of Modern Housing",
       "credit": "0.5",
       "description": "Study of housing as a function of social organization, demographics, market demand and public policy. Topics include the evolution of housing form, the role of the state, and the participation of architects in the housing marketplace in the 19th and 20th century.",
-      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4992",
       "name": "Theories of Urbanism",
       "credit": "0.5",
       "description": "Contemporary urban theory and critical scholarship that engages evolving social, political, economic and environmental perspectives, addresses multiple scales, geographic contexts, and disciplinary boundaries, and investigates the expanding array of models, tools and techniques that have contributed to various theories of urbanism.",
-      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) program."
+      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCH 4993",
       "name": "Topics in Urbanism",
       "credit": "0.5",
       "description": "Advanced seminar in selected topics related to urbanism. Topics may include histories and theories related to urban systems, design, and planning.",
-      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) Urbanism stream."
+      "prerequisites": "Third year standing in the Bachelor of Architectural Studies (BAS) Urbanism stream.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCU 3100",
       "name": "The Morphology of the City",
       "credit": "0.5",
       "description": "Primary structural, spatial and formal organization and elements that characterize the morphology of cities; historical and contemporary significance for architecture and urban design. (Core).",
-      "prerequisites": "First-year standing in the B.A.S. Urbanism major, second or third-year standing in other B.A.S. majors, or permission of the School."
+      "prerequisites": "First-year standing in the B.A.S. Urbanism major, second or third-year standing in other B.A.S. majors, or permission of the School.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCU 4103",
       "name": "Cities",
       "credit": "0.5",
       "description": "Course addresses cities such as Istanbul, Mexico City, Venice, Paris, Ottawa, Mumbai, and New Orleans. Topics presented by the instructor and guests include environmental resilience and climate change; social justice and informal settlement; smart cities and data privacy; and urban design, memory, and imagination.",
-      "prerequisites": "Second-year standing or permission of the Instructor."
+      "prerequisites": "Second-year standing or permission of the Instructor.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCU 4300",
       "name": "Theories of Urbanism",
       "credit": "0.5",
       "description": "Contemporary urban theory and critical scholarship that engages evolving social, political, economic and environmental perspectives, addresses multiple scales, geographic contexts, and disciplinary boundaries, and investigates the expanding array of models, tools and techniques that have contributed to various theories of urbanism.",
-      "prerequisites": "ARCU 3100 ."
+      "prerequisites": "ARCU 3100 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCU 4700",
       "name": "Urban Utopias",
       "credit": "0.5",
       "description": "Urban utopias throughout history, with emphasis on the 20th century. Garden Cities, anti-urbanism and radical decentralization, the city in the region, Italian Rationalist cities, Le Corbusier and CIAM, post-WWII New Towns (England, Scandinavia and the US), Sustainable Urbanism.",
-      "prerequisites": "third or fourth-year standing in B.A.S. Urbanism program or permission of the School."
+      "prerequisites": "third or fourth-year standing in B.A.S. Urbanism program or permission of the School.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "ARCU 4801",
       "name": "Topics in Urbanism",
       "credit": "0.5",
       "description": "Advanced seminar in selected topics related to urbanism.   Topics may include histories and theories related to urban systems, design, and planning. (Core course).",
-      "prerequisites": "third-year standing in B.A.S. (Urbanism) or permission of the Instructor."
+      "prerequisites": "third-year standing in B.A.S. (Urbanism) or permission of the Instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

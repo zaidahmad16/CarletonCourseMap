@@ -7,147 +7,234 @@
       "name": "Introduction to Food Science",
       "credit": "0.5",
       "description": "Overview of the food industry. Production, processing, product development, packaging, chemistry, analysis, microbiology. Elements risk assessment, policy making and regulation.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 2001",
       "name": "Principles of Nutrition",
       "credit": "0.5",
       "description": "Roles of nutrients, lipids, proteins, carbohydrates, fluids and electrolytes. Digestion, absorption, transport, energy metabolism. Disorders including diabetes, cardiovascular disease and osteoporosis. Nutrition through the life cycle.",
-      "prerequisites": "CHEM 1002 , BIOL 1103 ."
+      "prerequisites": "CHEM 1002 , BIOL 1103 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 2002",
       "name": "Food Processing",
       "credit": "0.5",
       "description": "Principles of major techniques used in food processing and preservation. Processing of specific food groups including cereals, oilseeds, dairy, beverages and frozen foods. Effects of processing on physico-chemical, rheological, and sensory characteristics. Role of research and development in food industry.",
-      "prerequisites": "FOOD 1001 ."
+      "prerequisites": "FOOD 1001 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 2003",
       "name": "Regulation of the Canadian Food Industry",
       "credit": "0.5",
       "description": "Regulation of the Canadian food industry including regulators, regulatory powers, the process of enacting laws/regulation and food safety requirements. Food composition, standardization, advertising, labeling, packaging, ingredients, additives, and fortification requirements. Inspection, enforcement and compliance powers and policies.",
-      "prerequisites": "Second year standing."
+      "prerequisites": "Second year standing.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 2004",
       "name": "Scientific Communication in Food Science",
       "credit": "0.5",
       "description": "Principles of effective scientific communication for scientific and non-scientific audiences. Applicable to laboratory reports, literature reviews, posters, presentations, and briefing notes.",
-      "prerequisites": "FOOD 1001 or second-year standing in Food Science or Chemistry."
+      "prerequisites": "FOOD 1001 or second-year standing in Food Science or Chemistry.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3001",
       "name": "Food Chemistry",
       "credit": "0.5",
       "description": "Chemistry of the major components of foods such as proteins, lipids, carbohydrates and of the minor components such as enzymes, vitamins and various additives and their relationships to food stability and degradation.",
-      "prerequisites": "FOOD 1001 , FOOD 2001 , CHEM 2204 , BIOC 2200 ."
+      "prerequisites": "FOOD 1001 , FOOD 2001 , CHEM 2204 , BIOC 2200 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3002",
       "name": "Food Analysis",
       "credit": "0.5",
       "description": "In-depth principles and practices of food proximate analysis. Introductory concepts of food adulteration and detection. Major techniques such as chromatography, colorimetry, spectroscopy, rheology.",
-      "prerequisites": "FOOD 3001 ."
+      "prerequisites": "FOOD 3001 .",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3003",
       "name": "Food Packaging and Shelf Life",
       "credit": "0.5",
       "description": "An introduction to the materials used for food packaging, including their chemical and physical characteristics. Interactions of these materials with food products, and their effects on shelf life of food.",
-      "prerequisites": "FOOD 2002 ."
+      "prerequisites": "FOOD 2002 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3005",
       "name": "Food Microbiology",
       "credit": "0.5",
       "description": "Foodborne diseases, microbial growth and survival, food spoilage, food fermentation. Techniques for detecting and quantifying microorganisms in foods.",
-      "prerequisites": "FOOD 1001 , FOOD 2001 , BIOL 2303 ."
+      "prerequisites": "FOOD 1001 , FOOD 2001 , BIOL 2303 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3006",
       "name": "Upcycling and Sustainable Food Systems",
       "credit": "0.5",
       "description": "Food processing and upcycling in the context of sustainable food systems. Case studies to assess social, economic, and environmental impacts of food processing and upcycling on communities and the food industry. Transdisciplinary perspectives to propose a food rescue product.",
-      "prerequisites": "third year standing in a BSc or BHSc program."
+      "prerequisites": "third year standing in a BSc or BHSc program.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
       "description": "Provides practical experience for students enrolled in the Co-operative option. Students must receive satisfactory evaluations from their work term employer. Written and oral reports will be required. Graded as SAT or UNS.",
-      "prerequisites": "Registration in the Food Science Co-operative Education option and permission of the Department."
+      "prerequisites": "Registration in the Food Science Co-operative Education option and permission of the Department.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4001",
       "name": "Food Quality Control",
       "credit": "0.5",
       "description": "Factors affecting quality in manufacturing and processing of foods and principles of quality control and quality assurance. Sampling plans and statistical methods. Applications of physical, chemical, biological and microbiological tests in quality control. Quality systems and standards.",
-      "prerequisites": "FOOD 2002 , FOOD 2003 , and third or fourth year standing."
+      "prerequisites": "FOOD 2002 , FOOD 2003 , and third or fourth year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4002",
       "name": "Analysis of Food Contaminants",
       "credit": "0.5",
       "description": "Official methods to identify food contaminants and adulterated foods. Includes agricultural chemicals, veterinary drugs, toxins, metals, and allergens. Interpretation of results in the context of current Canadian and international food safety regulations.",
-      "prerequisites": "BIOC 3101 or CHEM 3205 or CHEM 3305 , and third or fourth year standing."
+      "prerequisites": "BIOC 3101 or CHEM 3205 or CHEM 3305 , and third or fourth year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4102",
       "name": "Current Issues in Canadian Food Governance, Regulation and Policy",
       "credit": "0.5",
       "description": "Focus on the ever-changing and evolving issues in Canadian food governance, regulation and policy.  Topical food safety, governance, policies, enforcement, trade and import/export issues and developments.",
-      "prerequisites": "FOOD 2003 , and third or fourth year standing."
+      "prerequisites": "FOOD 2003 , and third or fourth year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4103",
       "name": "Food Safety Risk Assessment",
       "credit": "0.5",
       "description": "The role of risk management in providing science-based approaches to solving food safety problems. Risk management models and practical applications in critical risk management. An examination of actual risk assessments. Risk communication is addressed.",
-      "prerequisites": "BIOC 3101 , and third or fourth-year standing."
+      "prerequisites": "BIOC 3101 , and third or fourth-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4201",
       "name": "Advanced Nutrition and Metabolism",
       "credit": "0.5",
       "description": "Metabolism of macronutrients in the human body. Detailed catabolic and anabolic reactions of carbohydrates, lipids and proteins. Regulatory control points in healthy and diseased states. Discussion of the literature pertaining to nutrition, metabolism and chronic disease.",
-      "prerequisites": "FOOD 2001 , BIOC 3101 and fourth year standing."
+      "prerequisites": "FOOD 2001 , BIOC 3101 and fourth year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4202",
       "name": "Micronutrients and Health",
       "credit": "0.5",
       "description": "Use of scientific literature to examine human metabolism of vitamins and minerals and associated diseases throughout the life cycle. Development of advanced scientific literacy skills, with an emphasis on systematic reviews.",
-      "prerequisites": "BIOC 2200 or BIOL 2200 and third- or fourth-year standing."
+      "prerequisites": "BIOC 2200 or BIOL 2200 and third- or fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4203",
       "name": "Functional Foods and Natural Health Products",
       "credit": "0.5",
       "description": "Study of the bioactive components of functional foods and natural health products, for the improvement of health and nutrition. Sources and chemistry of bioactives, mechanisms of actions, process technology, efficacy and safety. Role of research and development in industry in commercialization of new products.",
-      "prerequisites": "BIOC 2200 or BIOL 2200 or BIOL 2201 , and third or fourth year standing."
+      "prerequisites": "BIOC 2200 or BIOL 2200 or BIOL 2201 , and third or fourth year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4905",
       "name": "Food Science Honours Workshop",
       "credit": "1.0",
       "description": "Active learning in areas that include information literacy, critical evaluation of scientific literature, written and oral communication, evaluation and interpretation of results, statistics and data management. Emphasizes transferable skills that are most appropriate for non-research career paths.",
-      "prerequisites": "Fourth-year standing in Food Science and a minimum of 1.5 credits in FOOD at the 3000 level."
+      "prerequisites": "Fourth-year standing in Food Science and a minimum of 1.5 credits in FOOD at the 3000 level.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4907",
       "name": "Food Science Honours Essay and Research Proposal",
       "credit": "1.0",
       "description": "Students conduct an independent research study using library resources, and prepare a critical review and study proposal on a topic approved by a faculty supervisor. A written report and an oral poster presentation of the work are required before a grade can be assigned.",
-      "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department."
+      "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4908",
       "name": "Food Science  Research Project",
       "credit": "1.0",
       "description": "Students in Food Science carry out a research project under the direction of a faculty member. A written report and an oral presentation of the work are required before a grade can be assigned.",
-      "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department."
+      "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

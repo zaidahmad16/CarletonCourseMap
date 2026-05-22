@@ -30,7 +30,7 @@ export default function MapPage() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    fetch('http://localhost:8000/programs/1')      
+    fetch(`${process.env.NEXT_PUBLIC_API_URL || ''}/programs/1`)      
       .then((r) => r.json())
       .then((data) => {
         const reqs = data.requirements

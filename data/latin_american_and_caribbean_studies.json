@@ -7,28 +7,47 @@
       "name": "Introduction to Latin American and Caribbean Studies I",
       "credit": "0.5",
       "description": "An interdisciplinary introduction to the history, culture, societies, and literatures of the region. Students will get a broad overview of the region and will be  introduced to the  disciplines used to study these societies.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LACS 2001",
       "name": "Latin America and the Caribbean in Global Context",
       "credit": "0.5",
       "description": "A study of the global dynamics affecting Latin America and the Caribbean today. Themes addressed will include globalization,  neoliberalism, underdevelopment, populism, social movements, political ideas, and migration.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LACS 4001",
       "name": "Issues in Latin American and Caribbean Studies",
       "credit": "0.5",
       "description": "An examination of the major issues confronting Latin America and the Caribbean including democratization, economic integration, indigenous and women\u2019s movements, human rights, social justice, and political change.",
-      "prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies."
+      "prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "LACS 4819",
       "name": "Latin America and the World",
       "credit": "0.5",
       "description": "Latin America's changing relations with states, international institutions and non-state actors in the Global North and South. Topics may include security, South-South cooperation, trade, investment and transnational migration and drug trafficking.",
-      "prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies."
+      "prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

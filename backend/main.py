@@ -40,22 +40,38 @@ def get_courses(search:str=None,dept:int=None):
     conn=get_connection()
     cur=conn.cursor()
     
-    query = "SELECT course_code, name, credit, dept_id, prerequisites FROM courses WHERE 1=1"
+    query = """
+        SELECT course_code, name, credit, dept_id, prerequisites,
+               year_standing, concurrent_prerequisites, offerings
+        FROM courses WHERE 1=1
+    """
     params = []
-    
+
     if search:
         query += " AND (course_code ILIKE %s OR name ILIKE %s)"
-        params.extend([f"%{search}%",f"%{search}%"])
+        params.extend([f"%{search}%", f"%{search}%"])
     if dept:
-        query+=" AND dept_id = %s"
+        query += " AND dept_id = %s"
         params.append(dept)
     query += " ORDER BY course_code LIMIT 50"
-    
-    cur.execute(query,params)
+
+    cur.execute(query, params)
     rows = cur.fetchall()
     cur.close()
     conn.close()
-    return [{"code": r[0], "name": r[1], "credit": float(r[2]) if r[2] else None, "dept_id": r[3], "prerequisites": r[4]} for r in rows]
+    return [
+        {
+            "code": r[0],
+            "name": r[1],
+            "credit": float(r[2]) if r[2] else None,
+            "dept_id": r[3],
+            "prerequisites": r[4],
+            "year_standing": r[5],
+            "concurrent_prerequisites": r[6] or [],
+            "offerings": r[7] or [],
+        }
+        for r in rows
+    ]
 
 @app.get("/courses/{code}")
 
@@ -63,7 +79,8 @@ def get_course(code: str):
     conn=get_connection()
     cur=conn.cursor()
     cur.execute("""
-        SELECT c.course_code, c.name, c.credit, c.description, c.prerequisites, d.name
+        SELECT c.course_code, c.name, c.credit, c.description, c.prerequisites,
+               c.year_standing, c.concurrent_prerequisites, c.offerings, d.name
         FROM courses c
         JOIN departments d USING(dept_id)
         WHERE c.course_code = %s
@@ -73,14 +90,17 @@ def get_course(code: str):
     conn.close()
     if not row:
         from fastapi import HTTPException
-        raise HTTPException(status_code=404,detail="course not found")
+        raise HTTPException(status_code=404, detail="course not found")
     return {
         "code": row[0],
         "name": row[1],
         "credit": float(row[2]) if row[2] else None,
         "description": row[3],
         "prerequisites": row[4],
-        "department": row[5]
+        "year_standing": row[5],
+        "concurrent_prerequisites": row[6] or [],
+        "offerings": row[7] or [],
+        "department": row[8],
     }
     
 @app.get("/programs")

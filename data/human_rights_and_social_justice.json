@@ -7,252 +7,398 @@
       "name": "Introduction to Human Rights & Social Justice",
       "credit": "0.5",
       "description": "Human rights and social justice from an interdisciplinary perspective. Topics include the foundations of rights, roots of inequality and oppression, Indigenous rights, structural violence based on race, gender, sexuality and ableism, State and corporate power, economic exploitation, the environment and rights, warfare, torture,and social movements.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 1102",
       "name": "Critical Issues in Social Justice Activism",
       "credit": "0.5",
       "description": "A critical study of social justice approaches and concepts to examine political and social struggles, resistance, and activism in historical and contemporary contexts. Emphasis is placed on the connection between social justice approaches and human rights as tools in activist work.",
-      "prerequisites": ""
+      "prerequisites": "",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 2001",
       "name": "Human Rights: Theories and Foundations",
       "credit": "0.5",
       "description": "Historical overview of the theoretical and philosophical approaches underlying the human rights and social justice movements. Includes Experiential learning activity.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 2102",
       "name": "Sexuality, Gender, and Security",
       "credit": "0.5",
       "description": "Historical and contemporary analysis of surveillance, security, and regulation of sexuality, race, class, and gender. Students will critically examine how \u2018subversives\u2019 were created through discourse and administrative logics such as policy and law.",
-      "prerequisites": "second year standing or permission from the Institute."
+      "prerequisites": "second year standing or permission from the Institute.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 2202",
       "name": "Power Relations and Human Rights",
       "credit": "0.5",
       "description": "The study of power from a critical, transnational perspective; the impact on human rights of different forms and modalities of power, including those emanating from the state and corporations and those implicated in socio-economic and other hierarchical relations.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 2301",
       "name": "Human Rights and Sexualities",
       "credit": "0.5",
       "description": "An examination of human rights discourses, sexualities, and gender identities from an intersectional approach.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 2401",
       "name": "Political Repression",
       "credit": "0.5",
       "description": "This course examines the impacts of political repression on survivors and strategies used to overcome imprisonment, torture, surveillance, migration, etc.",
-      "prerequisites": "second-year standing."
+      "prerequisites": "second-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 2502",
       "name": "Social and Political Movements",
       "credit": "0.5",
       "description": "An exploration of historical and/or contemporary social movements that challenge and transform laws or legal regimes, cultural and educational institutions, and political regimes or governments.",
-      "prerequisites": "Second-year standing."
+      "prerequisites": "Second-year standing.",
+      "offerings": [],
+      "year_standing": 2,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3001",
       "name": "Special Topics in Human Rights and Social Justice",
       "credit": "0.5",
       "description": "An advanced seminar on current topics covering human rights and social justice issues. This course features a detailed study of a special topic in any area of Human Rights & Social Justice. Topics and themes will vary from year to year.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3002",
       "name": "Right to the City",
       "credit": "0.5",
       "description": "\u201cThe right to the city\u201d as an emerging focus of advocacy and analysis in urban movements for social justice focused on the local and transnational dimensions of the \u201cright to the city\u201d movement.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3202",
       "name": "Human Rights and Resistance",
       "credit": "0.5",
       "description": "This course problematizes human rights paradigms and critically examines the limitations of the political within liberal democracies. Bringing together theory and politics, alternative approaches to activism are explored. Topics may include struggles grounded in radical democracy, anti-capitalism, and social justice perspectives.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3301",
       "name": "Structural Racism",
       "credit": "0.5",
       "description": "The forms and effects of systemic race-based human rights abuses. Topics may include racial capitalism, immigration and refugee policies and practices, anti-apartheid regimes, racial profiling, the racial politics of \"nationhood\" and armed conflict, civil rights and resistance movements in differing cultural contexts.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3302",
       "name": "Culture, Religion, and Gender Rights",
       "credit": "0.5",
       "description": "The impact of cultural and religious traditions on gender, race, ethnicity and sexuality. Topics may include debates related to power dynamics, historical issues, geopolitics, and cultural relativism.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3303",
       "name": "Children's Rights",
       "credit": "0.5",
       "description": "This course examines children\u2019s rights from a range of historical, cultural, and global perspectives. Topics may include the rights of Indigenous children, disabled children, female, trans, non-binary, and queer children, children in armed conflict and refugees in Canada and transnational contexts.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3304",
       "name": "Disability Rights",
       "credit": "0.5",
       "description": "A critical approach to the study of disability rights that explores the intersections of disability with race, sexuality, gender, colonialism, \u2018health\u2019, and other discourses.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3305",
       "name": "Anti-Black Racism",
       "credit": "0.5",
       "description": "The course examines conceptual linkages between race, racism and anti-black racism and how anti-Blackness racial prejudice is rooted in Black people\u2019s experience of enslavement and colonization.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3401",
       "name": "Histories of Persecution and Genocide",
       "credit": "0.5",
       "description": "Case studies in persecution and/or genocide in different cultural contexts. The social, political, and legal conditions that have enabled the institutional or state-sanctioned persecution of targeted groups, and the circumstances that had an impact on their decline.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3501",
       "name": "Social, Economic and Cultural Rights",
       "credit": "0.5",
       "description": "The development of social, economic and cultural rights, including rights to housing, healthcare, education and employment. Topics may include the international geopolitics of the historical tension between these rights and civil and political rights.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3503",
       "name": "Global Environmental Justice",
       "credit": "0.5",
       "description": "Overview of critical debates on environmental issues from a global social justice perspective. Topics may include corporate mining, food sovereignty, poverty, economic exploitation, Indigenous cosmologies and environmental justice, militarization and environmental degradation, privatization of water and climate change.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3504",
       "name": "Public Health and Human Rights",
       "credit": "0.5",
       "description": "Through a social-scientific analysis of AIDS, this course explores HIV/AIDS as a case study for understanding the politics of public health. Students will critically interrogate the authority of science and explore avenues for democratizing biomedicine and public health policy in various national and policy contexts.",
-      "prerequisites": "third-year standing."
+      "prerequisites": "third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 3999",
       "name": "Co-operative Work Term",
       "credit": "0.0",
       "description": "Upon completion of each work term, the student must submit to the Institute of Interdisciplinary Studies a written report on the work performed. Graded SAT or UNS.",
-      "prerequisites": "Registration in the Co-operative Education Option, and permission of the Institute of Interdisciplinary Studies."
+      "prerequisites": "Registration in the Co-operative Education Option, and permission of the Institute of Interdisciplinary Studies.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4201",
       "name": "Citizenship and Human Rights",
       "credit": "0.5",
       "description": "The relationship between citizenship and human rights; how large groups of people, including non-citizens and refugees, are excluded from entitlements to rights. Why human rights rest on citizenship, and with what implications.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4302",
       "name": "Transgender Human Rights",
       "credit": "0.5",
       "description": "Critical analyses of human rights through an examination of transgender subjectivities. The systemic erasure of trans people within society and the struggles of some activists to normalize trans identities.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4305",
       "name": "Disability and Social Justice",
       "credit": "0.5",
       "description": "An intersectional national/transnational approach to social justice issues such as poverty/exploitation, labour, representation, decolonization, race/racism, sexuality and gender from a critical disability studies perspective.",
-      "prerequisites": "fourth-year standing in Human Rights and Social Justice or Disability Studies."
+      "prerequisites": "fourth-year standing in Human Rights and Social Justice or Disability Studies.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4401",
       "name": "Gender, Citizenship and Social Justice in a Transnational World",
       "credit": "0.5",
       "description": "This seminar critically engages with transnational, gendered, classed, and racialized discursive practices of citizenship, human rights, the geopolitics of knowledge and processes of dehumanization through the lenses of decolonial social justice.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4404",
       "name": "Rights of Refugees and Displaced Persons",
       "credit": "0.5",
       "description": "Contemporary issues concerning the rights of refugees and displaced persons, from social, political, and legal perspectives; Canadian and international dimensions of these issues.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4405",
       "name": "Digital Dis-information and Human Rights",
       "credit": "0.5",
       "description": "The course examines the phenomenon of disinformation or \u2018fake news\u2019 in the era of digital technology, its intent and links to structures of power and oppression, and its impacts on human rights and the social justice.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4406",
       "name": "Artificial Intelligence and Human Rights",
       "credit": "0.5",
       "description": "The course sets AI's promise and impacts in terms of democratizing access to knowledge and unleashing scientific progress against vital societal risks and fault-lines it generates and human rights failures and social injustices it creates, and the distribution of burdens and benefits in society.",
-      "prerequisites": "None."
+      "prerequisites": "None.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4409",
       "name": "Counter-terrorism and Human Rights",
       "credit": "0.5",
       "description": "Examines policies and strategies states and international organizations use to combat global terrorism and the challenges these initiatives pose to the international human rights regime, democratic norms, and social justice.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4502",
       "name": "Global Indigenous Knowledges and Movements",
       "credit": "0.5",
       "description": "Indigenous Peoples contributions to world knowledge through community resistance, social movements and scholarship. How processes of corporate globalization impact Indigenous Peoples lives as an ongoing process of normalizing a reconfigured modern coloniality of power.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4504",
       "name": "Black Health",
       "credit": "0.5",
       "description": "The course examines conceptual linkages between race, racism and anti-black racism and how anti-Blackness racial prejudice is rooted in Black people\u2019s experience of enslavement and colonization.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4505",
       "name": "Precarity in Labour and Work",
       "credit": "0.5",
       "description": "This course explores how precarious employment and labour arises; the nature and forms of precariousness; how race, citizenship, gender, religion, and location impact precarity; the link between labor and social movements; and types of political and economic initiatives in response to the deepening precarity.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4602",
       "name": "Is Religious Freedom a Human Right?",
       "credit": "0.5",
       "description": "Legal, theoretical, and theological interconnec\u019fons between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommoda\u019fon and neutrality.Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4905",
       "name": "Practicum Placement in Human Rights",
       "credit": "0.5",
       "description": "This course provides students with the opportunity to spend one day per week (6-8 hours) working and learning at a human rights-related government, research or advocacy organization. A written report is required at the end of the placement. Graded as Sat/Uns.",
-      "prerequisites": "fourth-year standing in Human Rights and Social Justice or permission of the Institute.  Students MUST submit an application and obtain approval before registering in the practicum."
+      "prerequisites": "fourth-year standing in Human Rights and Social Justice or permission of the Institute.  Students MUST submit an application and obtain approval before registering in the practicum.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4907",
       "name": "Special Topic in Human Rights",
       "credit": "0.5",
       "description": "This course features a detailed study of a special topic in any area of Human Rights. Topics and themes will vary from year to year.",
-      "prerequisites": "fourth-year standing."
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
     },
     {
       "code": "HRSJ 4908",
       "name": "Independent Study",
       "credit": "0.5",
       "description": "Essays and/or examinations based on a bibliography constructed by the student in consultation   with an instructor.",
-      "prerequisites": "Normally restricted to students with at least 3.0 credits of Human Rights courses with at least a CGPA of 9.0 or better in Human Rights courses and permission of the Institute."
+      "prerequisites": "Normally restricted to students with at least 3.0 credits of Human Rights courses with at least a CGPA of 9.0 or better in Human Rights courses and permission of the Institute.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
     }
   ],
   "free_electives": [

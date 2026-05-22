@@ -153,14 +153,54 @@ def scrape_program(name, url):
                         desc_parts.append(text)
         description = " ".join(desc_parts)
 
-        # prerequisites are in .coursedescadditional, on the "Prerequisite(s):" line
+        # prerequisites, offerings, year standing, and concurrent prereqs
+        # are all in .coursedescadditional
         prerequisites = ""
+        offerings = []
+        year_standing = None
+        concurrent_prerequisites = []
+
         additional = block.select_one(".coursedescadditional")
         if additional:
             for line in _br_lines(additional):
-                if line.lower().startswith("prerequisite"):
+                ll = line.lower()
+
+                if ll.startswith("prerequisite"):
                     prerequisites = re.sub(r"^prerequisite\(s\):\s*", "", line, flags=re.IGNORECASE).strip()
-                    break
+
+                # "Also offered:" / "Offered:" / "Also Offered in:" lines
+                elif re.match(r"(also\s+)?offered", ll):
+                    term_text = re.sub(r"^(also\s+)?offered[\w\s]*:\s*", "", line, flags=re.IGNORECASE)
+                    for token in re.split(r"[,/;]", term_text):
+                        token = token.strip().lower()
+                        if "fall" in token:
+                            offerings.append("fall")
+                        if "winter" in token:
+                            offerings.append("winter")
+                        if "summer" in token:
+                            offerings.append("summer")
+
+        # year standing from prerequisite text
+        if prerequisites:
+            ys_match = re.search(r"\b(second|third|fourth|2nd|3rd|4th)[- ]year\s+standing", prerequisites, re.IGNORECASE)
+            if ys_match:
+                word = ys_match.group(1).lower()
+                year_standing = {"second": 2, "2nd": 2, "third": 3, "3rd": 3, "fourth": 4, "4th": 4}[word]
+
+        # concurrent prerequisites — course codes that appear in a concurrent clause
+        if prerequisites:
+            COURSE_RE = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
+            # find all "concurrently" clauses: "X may be taken concurrently" or "concurrent with X"
+            concurrent_raw = re.findall(
+                r'([A-Z]{3,4}\s+\d{4}[A-Z]?)\s+(?:may\s+be\s+taken\s+concurrently|concurrently)',
+                prerequisites,
+            ) + re.findall(
+                r'concurrent(?:ly)?\s+with\s+((?:[A-Z]{3,4}\s+\d{4}[A-Z]?(?:\s*(?:and|or|,)\s*)?)+)',
+                prerequisites,
+            )
+            for item in concurrent_raw:
+                concurrent_prerequisites.extend(COURSE_RE.findall(item))
+            concurrent_prerequisites = list(dict.fromkeys(concurrent_prerequisites))  # deduplicate, preserve order
 
         courses.append({
             "code": code,
@@ -168,6 +208,9 @@ def scrape_program(name, url):
             "credit": credit,
             "description": description,
             "prerequisites": prerequisites,
+            "offerings": offerings,
+            "year_standing": year_standing,
+            "concurrent_prerequisites": concurrent_prerequisites,
         })
 
     free_electives = scrape_free_electives(soup)
@@ -380,6 +423,100 @@ def scrape_free_electives(soup):
     return entries
 
 
+_SCHEDULE_BASE = "https://central.carleton.ca/prod/bwckctlg.p_disp_listcrse"
+_COURSE_CODE_RE = re.compile(r"\b([A-Z]{2,4} \d{4}[A-Z]?)\b")
+
+
+def _get_term_codes():
+    """Return (fall_code, winter_code) for the most recent available fall and winter terms."""
+    resp = requests.get(
+        "https://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT",
+        headers=HEADERS, timeout=15,
+    )
+    soup = BeautifulSoup(resp.text, "html.parser")
+    fall_code = winter_code = None
+    for opt in soup.select("select[name=term_code] option"):
+        val = opt.get("value", "")
+        if not val:
+            continue
+        text = opt.get_text(strip=True).lower()
+        if "fall" in text and fall_code is None:
+            fall_code = val
+        elif "winter" in text and winter_code is None:
+            winter_code = val
+    return fall_code, winter_code
+
+
+def _fetch_subject_offerings(term_code, subject):
+    """Return set of course codes offered for a given term + subject."""
+    try:
+        resp = requests.get(
+            _SCHEDULE_BASE,
+            params={"term_in": term_code, "subj_in": subject, "crse_in": "%", "schd_in": "%"},
+            headers=HEADERS,
+            timeout=30,
+        )
+        resp.raise_for_status()
+    except requests.RequestException:
+        return set()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    codes = set()
+    for th in soup.find_all("th", class_="ddtitle"):
+        m = _COURSE_CODE_RE.search(th.get_text(strip=True))
+        if m:
+            codes.add(m.group(1))
+    return codes
+
+
+def scrape_offerings(all_programs):
+    """
+    Scrape fall/winter offerings from Carleton's class schedule.
+
+    Uses bwckctlg.p_disp_listcrse which is publicly accessible without login.
+    Derives subject codes from the already-scraped course data so we only
+    query subjects that actually appear in our dataset.
+
+    Returns dict mapping course_code -> list of terms, e.g.
+      {"COMP 1405": ["fall", "winter"], "COMP 4905": ["fall"]}
+    """
+    # Collect all subject codes present in the scraped data
+    subjects = set()
+    for program in all_programs:
+        for course in program.get("courses", []):
+            m = _COURSE_CODE_RE.match(course.get("code", ""))
+            if m:
+                subjects.add(m.group(1).split()[0])
+
+    fall_code, winter_code = _get_term_codes()
+    if not fall_code or not winter_code:
+        print("  WARNING: could not determine fall/winter term codes; skipping offerings")
+        return {}
+
+    print(f"  Offerings: fall={fall_code}, winter={winter_code}, {len(subjects)} subjects to fetch")
+
+    fall_offered: set = set()
+    winter_offered: set = set()
+
+    for i, subj in enumerate(sorted(subjects), 1):
+        fall_offered |= _fetch_subject_offerings(fall_code, subj)
+        winter_offered |= _fetch_subject_offerings(winter_code, subj)
+        if i % 10 == 0:
+            print(f"    {i}/{len(subjects)} subjects done")
+        time.sleep(0.3)
+
+    offerings: dict = {}
+    for code in fall_offered | winter_offered:
+        terms = []
+        if code in fall_offered:
+            terms.append("fall")
+        if code in winter_offered:
+            terms.append("winter")
+        offerings[code] = terms
+
+    print(f"  Offerings fetched: {len(offerings)} courses with fall/winter data")
+    return offerings
+
+
 def main():
     os.makedirs(_DATA_DIR, exist_ok=True)
 
@@ -395,11 +532,31 @@ def main():
 
         time.sleep(0.5)
 
+    print("\nFetching semester offerings from class schedule...")
+    offerings = scrape_offerings(results)
+
+    # Merge offerings into every course object across all programs
+    for program in results:
+        for course in program.get("courses", []):
+            code = course.get("code", "")
+            course["offerings"] = offerings.get(code, [])
+
+    # Re-save individual department files with offerings merged in
+    for program in results:
+        name = program["name"]
+        slug = re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
+        with open(os.path.join(_DATA_DIR, f"{slug}.json"), "w") as f:
+            json.dump(program, f, indent=2)
+
     with open(os.path.join(_DATA_DIR, "courses.json"), "w") as f:
         json.dump(results, f, indent=2)
 
     total = sum(len(p["courses"]) for p in results)
+    with_offerings = sum(
+        1 for p in results for c in p["courses"] if c.get("offerings")
+    )
     print(f"\nDone. {total} courses across {len(results)} programs saved to data/")
+    print(f"      {with_offerings} courses have fall/winter offerings data")
 
 
 if __name__ == "__main__":

@@ -181,3 +181,7 @@ def get_courses_batch(codes: List[str]):
     return [{"code": r[0], "name": r[1], "credit": r[2], "year_standing": r[5],
              "offerings": r[6], "prerequisites": r[4], "concurrent_prerequisites": r[7]} for r in rows]
 
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+

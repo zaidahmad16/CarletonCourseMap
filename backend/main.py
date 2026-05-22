@@ -1,4 +1,5 @@
 import sys, os
+DATABASE_URL = os.getenv("DATABASE_URL")
 from fastapi.middleware.cors import CORSMiddleware
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fastapi.middleware.cors import CORSMiddleware
@@ -11,7 +12,7 @@ app = FastAPI(title="CarletonCourseMap API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca"],
+    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca", "https://www.carletoncoursemap.ca"],
     allow_methods=["*"],
     allow_headers=["*"],
 )

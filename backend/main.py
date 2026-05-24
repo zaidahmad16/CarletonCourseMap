@@ -13,7 +13,7 @@ app = FastAPI(title="CarletonCourseMap API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca", "https://www.carletoncoursemap.ca"],
+    allow_origins=["http://localhost:3000", "https://carletoncoursemap.ca", "https://www.carletoncoursemap.ca", "https://carletoncoursemapfrontend-production.up.railway.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -218,4 +218,8 @@ def get_courses_batch(codes: List[str]):
     conn.close()
     return [{"code": r[0], "name": r[1], "credit": r[2], "year_standing": r[5],
              "offerings": r[6], "prerequisites": r[4], "concurrent_prerequisites": r[7]} for r in rows]
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
 

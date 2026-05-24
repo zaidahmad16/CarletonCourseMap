@@ -76,29 +76,20 @@ export const Notes = ({ notes = [], degree }) => {
             </p>
           </div>
 
-          {/* Academic Advising */}
+          {/* Disclaimer */}
           <div style={{ marginBottom: 18 }}>
             <div style={{
               fontWeight: 700, fontSize: 12, marginBottom: 8,
               borderBottom: '1px solid #e2e8f0', paddingBottom: 6,
             }}>
-              Academic Advising
+              Disclaimer
             </div>
-            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#444', margin: '0 0 6px 0' }}>
-              First year students (new and returning):
+            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#444', margin: '0 0 8px 0' }}>
+              Course data on this site is based on the <strong>2025–2026 academic calendar</strong>. Information may change — always verify with the official Carleton University Undergraduate Calendar.
             </p>
-            <a href="mailto:ECORSupport@carleton.ca"
-              style={{ fontSize: 11, color: '#2563eb', textDecoration: 'none' }}>
-              ECORSupport@carleton.ca
-            </a>
-            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#444', margin: '10px 0 6px 0' }}>
-              Second year and higher students:
+            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#888', margin: 0 }}>
+              This website is not affiliated with, endorsed by, or officially connected to Carleton University.
             </p>
-            <a href="https://ughelp.sce.carleton.ca/"
-              target="_blank" rel="noopener noreferrer"
-              style={{ fontSize: 11, color: '#2563eb', textDecoration: 'none' }}>
-              ughelp.sce.carleton.ca
-            </a>
           </div>
 
           {/* Program-specific notes */}

@@ -135,7 +135,7 @@ def get_programs(program_id: int):
     conn=get_connection()
     cur=conn.cursor()
     
-    cur.execute("SELECT program_id, dept_id, degree, layout_cols FROM programs WHERE program_id = %s", (program_id,))
+    cur.execute("SELECT program_id, dept_id, degree, layout_cols, notes FROM programs WHERE program_id = %s", (program_id,))
     row = cur.fetchone()
 
     if not row:
@@ -180,6 +180,7 @@ def get_programs(program_id: int):
             {"source": e[0], "target": e[1], "type": e[2]}
             for e in edges
         ],
+        "notes": row[4] or [],
     }
 
 

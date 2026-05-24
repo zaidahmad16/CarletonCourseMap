@@ -7,12 +7,14 @@ const MIN_ROWS = 5
 export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   const detailMap   = new Map(courseDetails.filter(Boolean).map(d => [d.code, d]))
   const positionMap = {}
-  const colMaxRow   = Array(numCols).fill(-1)
 
-  const trackRow = (col, row) => {
-    if (col >= 0 && col < numCols)
-      colMaxRow[col] = Math.max(colMaxRow[col], row)
-  }
+  // Track which (col, row) positions are occupied
+  const occupied = new Set()
+  const occupy = (col, row) => occupied.add(`${col}-${row}`)
+  const isOccupied = (col, row) => occupied.has(`${col}-${row}`)
+
+  // Track which columns have at least one node
+  const colUsed = Array(numCols).fill(false)
 
   // ── Course nodes ──────────────────────────────────────────────────────────
   const courseNodes = requirements
@@ -23,7 +25,8 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
       if (!course) return null
 
       positionMap[code] = { col: req.layout_col, row: req.layout_row }
-      trackRow(req.layout_col, req.layout_row)
+      occupy(req.layout_col, req.layout_row)
+      colUsed[req.layout_col] = true
 
       return {
         id: code,
@@ -34,8 +37,6 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
           code: course.code,
           name: course.name?.slice(0, 42),
           style: getNodeStyle(course.code, course.credit),
-          inHandles: [],
-          outHandles: [],
         },
         position: {
           x: req.layout_col * COL_WIDTH,
@@ -45,11 +46,21 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     })
     .filter(Boolean)
 
-  // ── Elective nodes ────────────────────────────────────────────────────────
+  // ── Elective nodes from DB ────────────────────────────────────────────────
+  const simplifyDesc = (desc) => {
+    if (!desc) return ''
+    const d = desc.toLowerCase()
+    if (d.includes('breadth'))       return 'Breadth Elective'
+    if (d.includes('free'))          return 'Free Elective'
+    if (d.includes('complementary')) return 'Complementary Elective'
+    return desc.slice(0, 45)
+  }
+
   const electiveNodes = requirements
     .filter(req => (!req.courses?.length) && req.layout_col != null)
     .map((req, i) => {
-      trackRow(req.layout_col, req.layout_row)
+      occupy(req.layout_col, req.layout_row)
+      colUsed[req.layout_col] = true
       return {
         id: `elective-${i}`,
         type: 'course',
@@ -57,13 +68,11 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         selectable: false,
         data: {
           code: 'Elective',
-          name: req.description?.slice(0, 45) ?? '',
+          name: simplifyDesc(req.description),
           style: req.description
             ? getElectiveStyle(req.description)
             : { border: '3px solid #ea580c', borderRadius: 4 },
           isElective: true,
-          inHandles: [],
-          outHandles: [],
         },
         position: {
           x: req.layout_col * COL_WIDTH,
@@ -72,20 +81,21 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
       }
     })
 
-  // ── Padding nodes ─────────────────────────────────────────────────────────
+  // ── Padding: fill every column to MIN_ROWS ─────────────────────────────────
   const paddingNodes = []
   for (let col = 0; col < numCols; col++) {
-    if (colMaxRow[col] === -1) continue
-    for (let row = colMaxRow[col] + 1; row < MIN_ROWS; row++) {
+    for (let row = 0; row < MIN_ROWS; row++) {
+      if (isOccupied(col, row)) continue
+      // Match reference: row 4 = Free Elective, others = Breadth Elective
+      const label = row >= 4 ? 'Free Elective' : 'Breadth Elective'
       paddingNodes.push({
         id: `pad-${col}-${row}`,
         type: 'course',
         draggable: false,
         selectable: false,
         data: {
-          code: 'Elective', name: '', isElective: true,
+          code: 'Elective', name: label, isElective: true,
           style: { border: '3px solid #ea580c', borderRadius: 4 },
-          inHandles: [], outHandles: [],
         },
         position: {
           x: col * COL_WIDTH,
@@ -95,35 +105,26 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     }
   }
 
-  // ── Edges from API + assign spread handles ────────────────────────────────
-  const nodeMap = new Map(courseNodes.map(n => [n.id, n]))
-  const nodeIds = new Set(nodeMap.keys())
+  // ── Edges from API ────────────────────────────────────────────────────────
+  const nodeIds = new Set(courseNodes.map(n => n.id))
 
-  const validEdges = (edges || [])
+  const edgeList = (edges || [])
     .filter(e => nodeIds.has(e.source) && nodeIds.has(e.target))
-    .map(e => {
-      const id = `${e.type === 'concurrent' ? 'c' : 'r'}_${e.source}_${e.target}`
-      // Assign unique handle IDs so edges spread across node height
-      nodeMap.get(e.source)?.data.outHandles.push(id)
-      nodeMap.get(e.target)?.data.inHandles.push(id)
-      return {
-        id,
-        source: e.source,
-        target: e.target,
-        sourceHandle: id,
-        targetHandle: id,
-        type: 'clean',
-        markerEnd: { type: MarkerType.ArrowClosed, width: 10, height: 10, color: '#111' },
-        style: {
-          stroke: '#111',
-          strokeWidth: 1.5,
-          ...(e.type === 'concurrent' ? { strokeDasharray: '6,4' } : {}),
-        },
-      }
-    })
+    .map(e => ({
+      id: `${e.type === 'concurrent' ? 'c' : 'r'}_${e.source}_${e.target}`,
+      source: e.source,
+      target: e.target,
+      type: 'clean',
+      markerEnd: { type: MarkerType.ArrowClosed, width: 10, height: 10, color: '#111' },
+      style: {
+        stroke: '#111',
+        strokeWidth: 1.5,
+        ...(e.type === 'concurrent' ? { strokeDasharray: '6,4' } : {}),
+      },
+    }))
 
   return {
     nodes: [...courseNodes, ...electiveNodes, ...paddingNodes],
-    edges: validEdges,
+    edges: edgeList,
   }
 }

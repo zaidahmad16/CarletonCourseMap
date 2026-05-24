@@ -1,10 +1,23 @@
 import { BaseEdge } from 'reactflow'
 
-// CleanEdge: exits source → goes right 25px → vertical to target row → horizontal to target
-// The vertical segment stays in the gap between columns, never crossing through nodes.
+const COL_W = 220
 
 export const CleanEdge = ({ id, sourceX, sourceY, targetX, targetY, style, markerEnd }) => {
-  const gapX = sourceX + 25  // vertical line sits 25px right of source handle (in the column gap)
-  const path = `M ${sourceX},${sourceY} H ${gapX} V ${targetY} H ${targetX}`
+  const span = targetX - sourceX
+  const multiCol = span > COL_W + 20  // anything more than 1 column apart
+
+  let path
+  if (multiCol) {
+    const exitX  = sourceX + 25
+    const enterX = targetX - 25
+    const goDown  = targetY >= sourceY
+    const channelY = goDown ? sourceY + 75 : sourceY - 75
+    path = `M ${sourceX},${sourceY} H ${exitX} V ${channelY} H ${enterX} V ${targetY} H ${targetX}`
+  } else {
+    // Adjacent columns: route through mid-gap
+    const midX = sourceX + span / 2
+    path = `M ${sourceX},${sourceY} H ${midX} V ${targetY} H ${targetX}`
+  }
+
   return <BaseEdge id={id} path={path} style={style} markerEnd={markerEnd} />
 }

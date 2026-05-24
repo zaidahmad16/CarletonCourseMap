@@ -6,6 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import List
+from psycopg2.extras import execute_values
 from db import get_connection
 
 app = FastAPI(title="CarletonCourseMap API")
@@ -134,36 +135,73 @@ def get_programs(program_id: int):
     conn=get_connection()
     cur=conn.cursor()
     
-    cur.execute("SELECT program_id, dept_id, degree FROM programs WHERE program_id = %s", (program_id,))
+    cur.execute("SELECT program_id, dept_id, degree, layout_cols FROM programs WHERE program_id = %s", (program_id,))
     row = cur.fetchone()
 
     if not row:
         from fastapi import HTTPException
         raise HTTPException(status_code=404,detail="Program not found")
-    
+
     cur.execute("""
-        SELECT type, courses, credits, description
+        SELECT type, courses, credits, description, layout_col, layout_row
         FROM program_requirements
         WHERE program_id = %s
         ORDER BY req_id
     """, (program_id,))
     reqs = cur.fetchall()
+
+    cur.execute("""
+        SELECT source_code, target_code, edge_type
+        FROM program_edges
+        WHERE program_id = %s
+        ORDER BY edge_id
+    """, (program_id,))
+    edges = cur.fetchall()
+
     cur.close()
     conn.close()
-    
+
     return {
         "program_id": row[0],
         "dept_id": row[1],
         "degree": row[2],
+        "layout_cols": row[3],
         "requirements": [
             {
                 "type": r[0],
                 "courses": r[1],
                 "credits": float(r[2]) if r[2] else None,
-                "description": r[3]
+                "description": r[3],
+                "layout_col": r[4],
+                "layout_row": r[5],
             } for r in reqs
-        ]
+        ],
+        "edges": [
+            {"source": e[0], "target": e[1], "type": e[2]}
+            for e in edges
+        ],
     }
+
+
+class Edge(BaseModel):
+    source: str
+    target: str
+    type: str = "required"
+
+@app.put("/programs/{program_id}/edges")
+def update_program_edges(program_id: int, edges: List[Edge]):
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute("DELETE FROM program_edges WHERE program_id = %s", (program_id,))
+    if edges:
+        execute_values(cur, """
+            INSERT INTO program_edges (program_id, source_code, target_code, edge_type)
+            VALUES %s
+        """, [(program_id, e.source, e.target, e.type) for e in edges])
+    conn.commit()
+    cur.close()
+    conn.close()
+    return {"inserted": len(edges)}
 
 
 @app.post("/courses/batch")

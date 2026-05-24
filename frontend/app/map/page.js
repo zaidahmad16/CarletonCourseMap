@@ -7,6 +7,7 @@ import 'reactflow/dist/style.css'
 import { CourseNode, YearHeaderNode, TermHeaderNode } from './components/CourseNode'
 import { CleanEdge }                                  from './components/FanEdge'
 import { Legend }                                     from './components/Legend'
+import { Notes }                                      from './components/Notes'
 import { buildGraph }                                 from './utils/buildGraph'
 import { buildHeaders }                               from './utils/buildHeaders'
 import { API }                                        from './utils/constants'
@@ -142,6 +143,9 @@ export default function MapPage() {
 
       {/* Legend */}
       {courseMap && <Legend degree={courseMap.degree} />}
+
+      {/* Notes sidebar */}
+      {courseMap && <Notes notes={courseMap.notes} degree={courseMap.degree} />}
 
       {/* Flow canvas */}
       {nodes.length > 0 ? (

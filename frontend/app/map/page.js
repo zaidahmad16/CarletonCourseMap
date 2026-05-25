@@ -14,6 +14,7 @@ import { Legend }                                     from './components/Legend'
 import { Notes }                                      from './components/Notes'
 import { CoursePanel }                                from './components/CoursePanel'
 import { ProgramPicker }                              from './components/ProgramPicker'
+import { CompareModal }                               from './components/CompareModal'
 import { MapMenubar }                                 from './components/MapMenubar'
 import { buildGraph }                                 from './utils/buildGraph'
 import { buildHeaders }                               from './utils/buildHeaders'
@@ -74,10 +75,20 @@ export default function MapPage() {
   const [selectedNode,    setSelectedNode]    = useState(null)
   const [showPicker,      setShowPicker]      = useState(false)
   const [showNotes,       setShowNotes]       = useState(false)
+  const [showCompare,     setShowCompare]     = useState(false)
   const [searchQuery,     setSearchQuery]     = useState('')
   const [highlightedId,   setHighlightedId]   = useState(null)
+  const [darkMode,        setDarkMode]        = useState(false)
+  const [chainIds,        setChainIds]        = useState(null)
   const rfRef             = useRef(null)
   const initialProgram    = useRef(null)
+
+  // ── Dark mode: init from localStorage ──────────────────────────────────────
+  useEffect(() => {
+    const saved = localStorage.getItem('theme') === 'dark'
+    setDarkMode(saved)
+    document.documentElement.dataset.theme = saved ? 'dark' : ''
+  }, [])
 
   // ── Load departments on mount ───────────────────────────────────────────────
   useEffect(() => {
@@ -177,25 +188,68 @@ export default function MapPage() {
     }
   }, [searchQuery, nodes])
 
-  // ── Inject highlighted flag for display only ────────────────────────────────
+  // ── Inject display flags (highlighted by search, dimmed by chain) ───────────
   const displayNodes = useMemo(
-    () => highlightedId
-      ? nodes.map(n => n.id === highlightedId
-          ? { ...n, data: { ...n.data, highlighted: true } }
-          : n)
-      : nodes,
-    [nodes, highlightedId]
+    () => nodes.map(n => {
+      const dimmed      = chainIds !== null && !chainIds.has(n.id)
+      const highlighted = !chainIds && highlightedId === n.id
+      if (!dimmed && !highlighted) return n
+      return { ...n, data: { ...n.data, highlighted, dimmed } }
+    }),
+    [nodes, highlightedId, chainIds]
   )
 
-  // ── Click handler ──────────────────────────────────────────────────────────
+  const displayEdges = useMemo(
+    () => chainIds
+      ? edges.map(e => chainIds.has(e.source) && chainIds.has(e.target)
+          ? e
+          : { ...e, style: { ...e.style, opacity: 0.08 } })
+      : edges,
+    [edges, chainIds]
+  )
+
+  // ── Click handler: select node + compute ancestor/descendant chain ──────────
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return
     setSelectedNode(node)
-  }, [])
+
+    const outMap = new Map()
+    const inMap  = new Map()
+    for (const e of edges) {
+      if (!outMap.has(e.source)) outMap.set(e.source, [])
+      outMap.get(e.source).push(e.target)
+      if (!inMap.has(e.target)) inMap.set(e.target, [])
+      inMap.get(e.target).push(e.source)
+    }
+
+    const chain = new Set([node.id])
+    const bfs = (map, startId) => {
+      const q = [startId]
+      while (q.length) {
+        const id = q.shift()
+        for (const neighbour of (map.get(id) || [])) {
+          if (!chain.has(neighbour)) { chain.add(neighbour); q.push(neighbour) }
+        }
+      }
+    }
+    bfs(inMap, node.id)
+    bfs(outMap, node.id)
+    setChainIds(chain)
+  }, [edges])
 
   // ── Copy link ──────────────────────────────────────────────────────────────
   const onCopyLink = useCallback(() => {
     navigator.clipboard.writeText(window.location.href).catch(() => {})
+  }, [])
+
+  // ── Dark mode toggle ───────────────────────────────────────────────────────
+  const onToggleDark = useCallback(() => {
+    setDarkMode(prev => {
+      const next = !prev
+      document.documentElement.dataset.theme = next ? 'dark' : ''
+      localStorage.setItem('theme', next ? 'dark' : 'light')
+      return next
+    })
   }, [])
 
   // ─── Render ─────────────────────────────────────────────────────────────────
@@ -252,6 +306,47 @@ export default function MapPage() {
 
         <div style={{ flex: 1 }} />
 
+        {nodes.length > 0 && (
+          <div style={{ position: 'relative', display: 'inline-flex', alignItems: 'center', flexShrink: 0 }}>
+            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true"
+              style={{ position: 'absolute', left: 9, pointerEvents: 'none', color: 'var(--color-ink-3)' }}>
+              <circle cx="5.5" cy="5.5" r="4" stroke="currentColor" strokeWidth="1.5" />
+              <path d="M9 9l2.5 2.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+            </svg>
+            <input
+              type="search"
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+              placeholder="Find a course…"
+              style={{
+                border: '1px solid var(--color-rule)',
+                borderRadius: 'var(--radius-input)',
+                padding: '5px 28px 5px 28px',
+                fontSize: 'var(--text-sm)',
+                fontFamily: 'var(--font-body)',
+                color: 'var(--color-ink)',
+                background: 'var(--color-paper-2)',
+                outline: 'none',
+                width: 160,
+                transition: 'border-color var(--dur-short) var(--ease-out), width var(--dur-short) var(--ease-out)',
+              }}
+              onFocus={e => { e.target.style.borderColor = 'var(--color-accent)'; e.target.style.width = '200px' }}
+              onBlur={e => { e.target.style.borderColor = 'var(--color-rule)'; e.target.style.width = '160px' }}
+            />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                aria-label="Clear search"
+                style={{
+                  position: 'absolute', right: 8, background: 'none', border: 'none',
+                  cursor: 'pointer', color: 'var(--color-ink-3)', padding: 0, lineHeight: 1,
+                  fontSize: 14,
+                }}
+              >×</button>
+            )}
+          </div>
+        )}
+
         <MapMenubar
           onFitView={() => rfRef.current?.fitView({ padding: 0.07 })}
           onZoomIn={() => rfRef.current?.zoomIn()}
@@ -260,6 +355,9 @@ export default function MapPage() {
           onShowNotes={() => setShowNotes(v => !v)}
           onCopyLink={onCopyLink}
           hasProgram={!!selectedProgram}
+          onToggleDark={onToggleDark}
+          darkMode={darkMode}
+          onCompare={() => setShowCompare(true)}
         />
       </div>
 
@@ -387,7 +485,7 @@ export default function MapPage() {
             nodeTypes={nodeTypes}
             edgeTypes={edgeTypes}
             nodes={displayNodes}
-            edges={edges}
+            edges={displayEdges}
             fitView
             fitViewOptions={{ padding: 0.07 }}
             edgesUpdatable={false}
@@ -400,7 +498,7 @@ export default function MapPage() {
             translateExtent={[[-200, -200], [2000, 1000]]}
           >
             {/* ReactFlow Background.color is a prop, not a CSS property — can't use var() */}
-            <Background color="#e5e2dc" gap={22} size={1} />
+            <Background color={darkMode ? '#2a2a33' : '#e5e2dc'} gap={22} size={1} />
           </ReactFlow>
         </div>
       ) : (
@@ -435,7 +533,13 @@ export default function MapPage() {
       />
 
       {/* ── Course detail panel ─────────────────────────────────── */}
-      <CoursePanel node={selectedNode} onClose={() => setSelectedNode(null)} />
+      <CoursePanel node={selectedNode} onClose={() => { setSelectedNode(null); setChainIds(null) }} />
+
+      <CompareModal
+        open={showCompare}
+        onClose={() => setShowCompare(false)}
+        departments={departments}
+      />
     </div>
   )
 }

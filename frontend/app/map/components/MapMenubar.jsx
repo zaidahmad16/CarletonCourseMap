@@ -137,6 +137,9 @@ export const MapMenubar = ({
   onShowNotes,
   onCopyLink,
   hasProgram,
+  onToggleDark,
+  darkMode,
+  onCompare,
 }) => {
   const [viewOpen, setViewOpen]       = React.useState(false)
   const [programOpen, setProgramOpen] = React.useState(false)
@@ -161,6 +164,7 @@ export const MapMenubar = ({
               <MenuItem onClick={onZoomOut} shortcut="⌘−">Zoom out</MenuItem>
               <div style={separatorStyle} />
               <MenuItem onClick={onShowNotes}>Show notes</MenuItem>
+              <MenuItem onClick={onToggleDark}>{darkMode ? 'Light mode' : 'Dark mode'}</MenuItem>
             </Menu.Popup>
           </Menu.Positioner>
         </Menu.Portal>
@@ -174,6 +178,8 @@ export const MapMenubar = ({
             <Menu.Popup style={popupBase}>
               <MenuItem onClick={onSelectProgram}>Change program…</MenuItem>
               <MenuItem onClick={onCopyLink} disabled={!hasProgram}>Copy link to program</MenuItem>
+              <div style={separatorStyle} />
+              <MenuItem onClick={onCompare}>Compare programs…</MenuItem>
             </Menu.Popup>
           </Menu.Positioner>
         </Menu.Portal>

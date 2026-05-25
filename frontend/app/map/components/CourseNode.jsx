@@ -6,7 +6,7 @@ import { Handle, Position } from 'reactflow'
 import { NODE_WIDTH, NODE_HEIGHT, COL_WIDTH } from '../utils/constants'
 
 export const CourseNode = ({ data }) => {
-  const { style, code, name, isElective } = data
+  const { style, code, name, isElective, highlighted, dimmed } = data
   const bg = style?.background ?? 'var(--color-paper)'
 
   return (
@@ -25,8 +25,11 @@ export const CourseNode = ({ data }) => {
       fontFamily: 'var(--font-body)',
       position: 'relative',
       cursor: isElective ? 'default' : 'pointer',
-      boxShadow: '0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04)',
-      transition: 'box-shadow var(--dur-short) var(--ease-out)',
+      opacity: dimmed ? 0.15 : 1,
+      boxShadow: highlighted
+        ? '0 0 0 2px var(--color-accent), 0 4px 12px rgba(0,0,0,0.14)'
+        : '0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04)',
+      transition: 'box-shadow var(--dur-short) var(--ease-out), opacity var(--dur-medium) var(--ease-out)',
     }}>
       {!isElective && (
         <>

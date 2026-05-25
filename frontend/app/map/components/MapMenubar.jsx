@@ -102,8 +102,8 @@ const MenuItem = ({ children, shortcut, disabled, onClick, ...props }) => (
     }}
     onMouseEnter={e => {
       if (!disabled) {
-        e.currentTarget.style.background = 'var(--color-accent)'
-        e.currentTarget.style.color = 'var(--color-accent-ink)'
+        e.currentTarget.style.background = 'var(--color-accent-soft)'
+        e.currentTarget.style.color = 'var(--color-accent)'
       }
     }}
     onMouseLeave={e => {
@@ -137,8 +137,6 @@ export const MapMenubar = ({
   onShowNotes,
   onCopyLink,
   hasProgram,
-  onToggleDark,
-  darkMode,
   onCompare,
 }) => {
   const [viewOpen, setViewOpen]       = React.useState(false)
@@ -164,7 +162,6 @@ export const MapMenubar = ({
               <MenuItem onClick={onZoomOut} shortcut="⌘−">Zoom out</MenuItem>
               <div style={separatorStyle} />
               <MenuItem onClick={onShowNotes}>Show notes</MenuItem>
-              <MenuItem onClick={onToggleDark}>{darkMode ? 'Light mode' : 'Dark mode'}</MenuItem>
             </Menu.Popup>
           </Menu.Positioner>
         </Menu.Portal>

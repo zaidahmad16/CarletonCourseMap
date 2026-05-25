@@ -78,17 +78,10 @@ export default function MapPage() {
   const [showCompare,     setShowCompare]     = useState(false)
   const [searchQuery,     setSearchQuery]     = useState('')
   const [highlightedId,   setHighlightedId]   = useState(null)
-  const [darkMode,        setDarkMode]        = useState(false)
+
   const [chainIds,        setChainIds]        = useState(null)
   const rfRef             = useRef(null)
   const initialProgram    = useRef(null)
-
-  // ── Dark mode: init from localStorage ──────────────────────────────────────
-  useEffect(() => {
-    const saved = localStorage.getItem('theme') === 'dark'
-    setDarkMode(saved)
-    document.documentElement.dataset.theme = saved ? 'dark' : ''
-  }, [])
 
   // ── Load departments on mount ───────────────────────────────────────────────
   useEffect(() => {
@@ -242,20 +235,11 @@ export default function MapPage() {
     navigator.clipboard.writeText(window.location.href).catch(() => {})
   }, [])
 
-  // ── Dark mode toggle ───────────────────────────────────────────────────────
-  const onToggleDark = useCallback(() => {
-    setDarkMode(prev => {
-      const next = !prev
-      document.documentElement.dataset.theme = next ? 'dark' : ''
-      localStorage.setItem('theme', next ? 'dark' : 'light')
-      return next
-    })
-  }, [])
 
   // ─── Render ─────────────────────────────────────────────────────────────────
 
   return (
-    <div style={{
+    <div className="map-print-root" style={{
       fontFamily: 'var(--font-body)',
       height: '100vh',
       display: 'flex',
@@ -267,7 +251,7 @@ export default function MapPage() {
       <style>{`.pill-scroll::-webkit-scrollbar { display: none; }`}</style>
 
       {/* ── Nav bar ──────────────────────────────────────────────── */}
-      <div style={{
+      <div className="no-print" style={{
         background: 'var(--color-paper)',
         padding: '0 var(--space-lg)',
         display: 'flex',
@@ -355,14 +339,12 @@ export default function MapPage() {
           onShowNotes={() => setShowNotes(v => !v)}
           onCopyLink={onCopyLink}
           hasProgram={!!selectedProgram}
-          onToggleDark={onToggleDark}
-          darkMode={darkMode}
           onCompare={() => setShowCompare(true)}
         />
       </div>
 
       {/* ── Selection strip ──────────────────────────────────────── */}
-      <div style={{
+      <div className="no-print" style={{
         flexShrink: 0,
         background: 'var(--color-paper)',
         borderBottom: '1px solid var(--color-rule)',
@@ -466,21 +448,23 @@ export default function MapPage() {
       </div>
 
       {/* ── Legend ───────────────────────────────────────────────── */}
-      {courseMap && <Legend degree={courseMap.degree} />}
+      {courseMap && <div className="no-print"><Legend degree={courseMap.degree} /></div>}
 
       {/* ── Notes sidebar ────────────────────────────────────────── */}
       {courseMap && (
-        <Notes
-          notes={courseMap.notes}
-          degree={courseMap.degree}
-          open={showNotes}
-          onOpenChange={setShowNotes}
-        />
+        <div className="no-print">
+          <Notes
+            notes={courseMap.notes}
+            degree={courseMap.degree}
+            open={showNotes}
+            onOpenChange={setShowNotes}
+          />
+        </div>
       )}
 
       {/* ── Flow canvas ──────────────────────────────────────────── */}
       {nodes.length > 0 ? (
-        <div style={{ flex: 1 }}>
+        <div className="print-canvas" style={{ flex: 1 }}>
           <ReactFlow
             nodeTypes={nodeTypes}
             edgeTypes={edgeTypes}
@@ -498,7 +482,7 @@ export default function MapPage() {
             translateExtent={[[-200, -200], [2000, 1000]]}
           >
             {/* ReactFlow Background.color is a prop, not a CSS property — can't use var() */}
-            <Background color={darkMode ? '#2a2a33' : '#e5e2dc'} gap={22} size={1} />
+            <Background color="#e5e2dc" gap={22} size={1} />
           </ReactFlow>
         </div>
       ) : (

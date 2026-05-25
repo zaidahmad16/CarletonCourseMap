@@ -142,6 +142,42 @@ def get_programs(dept:int=None):
     conn.close()
     return [{"program_id": r[0], "dept_id": r[1], "degree": r[2]} for r in rows]
 
+@app.get("/programs/featured")
+def get_featured_programs():
+    conn = get_connection()
+    cur  = conn.cursor()
+    keywords = [
+        'Software Engineering',
+        'Artificial Intelligence',
+        'Computer Science',
+        'Business',
+        'Psychology',
+        'Biology',
+    ]
+    results  = []
+    seen_ids = set()
+    for kw in keywords:
+        cur.execute("""
+            SELECT p.program_id, p.dept_id, p.degree, d.name AS dept_name
+            FROM programs p
+            JOIN departments d USING(dept_id)
+            WHERE p.degree ILIKE %s
+            ORDER BY length(p.degree)
+            LIMIT 1
+        """, (f'%{kw}%',))
+        row = cur.fetchone()
+        if row and row[0] not in seen_ids:
+            seen_ids.add(row[0])
+            results.append({
+                "program_id": row[0],
+                "dept_id":    row[1],
+                "degree":     row[2],
+                "dept_name":  row[3],
+            })
+    cur.close()
+    conn.close()
+    return results[:6]
+
 @app.get("/programs/{program_id}")
 
 def get_programs(program_id: int):

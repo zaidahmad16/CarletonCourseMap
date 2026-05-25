@@ -70,26 +70,6 @@
   --radius-input: 4px;
 }
 
-/* ── Dark mode ───────────────────────────────────────────────── */
-
-[data-theme="dark"] {
-  --color-paper:            oklch(14% 0.004 270);
-  --color-paper-2:          oklch(18% 0.004 270);
-  --color-paper-3:          oklch(22% 0.004 270);
-  --color-ink:              oklch(95% 0.003 85);
-  --color-ink-2:            oklch(72% 0.005 270);
-  --color-ink-3:            oklch(52% 0 0);
-  --color-rule:             oklch(26% 0.004 270);
-  --color-accent:           oklch(60% 0.222 26);
-  --color-accent-hover:     oklch(67% 0.195 26);
-  --color-accent-soft:      oklch(22% 0.04 26);
-  --color-accent-ink:       oklch(99% 0 0);
-  --color-focus:            oklch(65% 0.222 26);
-
-  --color-science-bg:       oklch(18% 0.022 144);
-  --color-elective-bg:      oklch(18% 0.022 50);
-  --color-complementary-bg: oklch(18% 0.03 26);
-}
 
 html,
 body {
@@ -114,3 +94,4 @@ body {
     animation-duration: 1ms !important;
   }
 }
+

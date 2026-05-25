@@ -1,22 +1,68 @@
 /* Hallmark · macrostructure: Narrative Workflow · genre: modern-minimal · theme: custom (Carleton)
- * design-system: design.md · pre-emit critique: P5 H5 E5 S5 R5 V5
+ * design-system: design.md · pre-emit critique: P5 H5 E4 S4 R5 V4
  */
 
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo, useCallback } from 'react'
 import Link from 'next/link'
 import { API } from './map/utils/constants'
 
+const trimDegree = (deg = '') => {
+  const s = deg
+    .replace(/^(Honours\s+)?Bachelor\s+of\s+\S+\s+/i, '')
+    .replace(/,?\s*(Honours|Major|Minor|Concentration|Stream)\s*$/i, '')
+    .trim()
+  if (!s) return deg.split(' ').slice(0, 4).join(' ')
+  return s.length > 38 ? s.slice(0, 36) + '…' : s
+}
+
 export default function Home() {
-  const [stats, setStats] = useState({ departments: null, programs: null, courses: null })
+  const [stats,         setStats]         = useState({ departments: null, programs: null, courses: null })
+  const [featured,      setFeatured]      = useState([])
+  const [depts,         setDepts]         = useState({})
+  const [allPrograms,   setAllPrograms]   = useState(null)
+  const [searchQ,       setSearchQ]       = useState('')
+  const [searchOpen,    setSearchOpen]    = useState(false)
+  const [searchLoading, setSearchLoading] = useState(false)
 
   useEffect(() => {
     fetch(`${API}/stats`)
       .then(r => r.ok ? r.json() : null)
       .then(d => { if (d) setStats(d) })
       .catch(() => {})
+
+    Promise.all([
+      fetch(`${API}/departments`).then(r => r.json()),
+      fetch(`${API}/programs/featured`).then(r => r.json()),
+    ]).then(([deps, feat]) => {
+      const deptMap = {}
+      for (const d of deps) deptMap[d.dept_id] = d.name
+      setDepts(deptMap)
+      setFeatured(feat)
+    }).catch(() => {})
   }, [])
+
+  const loadAllPrograms = useCallback(() => {
+    if (allPrograms !== null || searchLoading) return
+    setSearchLoading(true)
+    fetch(`${API}/programs`)
+      .then(r => r.json())
+      .then(progs => { setAllPrograms(progs); setSearchLoading(false) })
+      .catch(() => setSearchLoading(false))
+  }, [allPrograms, searchLoading])
+
+  const searchResults = useMemo(() => {
+    if (!searchQ.trim() || !allPrograms) return []
+    const q = searchQ.toLowerCase()
+    return allPrograms
+      .filter(p =>
+        p.degree.toLowerCase().includes(q) ||
+        (depts[p.dept_id] || '').toLowerCase().includes(q)
+      )
+      .slice(0, 8)
+      .map(p => ({ ...p, dept_name: depts[p.dept_id] || '' }))
+  }, [searchQ, allPrograms, depts])
 
   return (
     <div style={{
@@ -29,18 +75,20 @@ export default function Home() {
     }}>
 
       <style>{`
-        :root {
-          --color-cta-sub: oklch(90% 0 0);
-        }
-        .cta-red:hover    { background: var(--color-accent-hover) !important; }
-        .cta-white:hover  { background: var(--color-paper-2) !important; }
+        :root { --color-cta-sub: oklch(90% 0 0); }
+        .cta-red:hover     { background: var(--color-accent-hover) !important; }
+        .cta-white:hover   { background: var(--color-paper-2) !important; }
         .footer-link:hover { color: var(--color-accent) !important; }
+        .search-result:hover { background: var(--color-paper-2) !important; }
+        .prog-card:hover { border-color: var(--color-accent) !important; background: var(--color-accent-soft) !important; }
         @media (max-width: 720px) {
-          .steps-grid { grid-template-columns: 1fr !important; }
-          .stat-grid  { grid-template-columns: repeat(2, 1fr) !important; }
+          .steps-grid    { grid-template-columns: 1fr !important; }
+          .stat-grid     { grid-template-columns: repeat(2, 1fr) !important; }
+          .featured-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
         }
-        @media (max-width: 400px) {
-          .stat-grid { grid-template-columns: 1fr !important; }
+        @media (max-width: 480px) {
+          .stat-grid     { grid-template-columns: 1fr !important; }
+          .featured-grid { grid-template-columns: 1fr !important; }
         }
       `}</style>
 
@@ -84,7 +132,7 @@ export default function Home() {
 
       {/* ── Hero ────────────────────────────────────────────────────────── */}
       <section style={{
-        padding: 'var(--space-3xl) var(--space-lg) var(--space-2xl)',
+        padding: 'var(--space-3xl) var(--space-lg) var(--space-xl)',
         maxWidth: 720,
         margin: '0 auto',
         width: '100%',
@@ -125,23 +173,144 @@ export default function Home() {
           An interactive course map for every Carleton program — prerequisites, elective slots, and course details at a click.
         </p>
 
-        <Link href="/map" className="cta-red" style={{
-          display: 'inline-flex',
-          alignItems: 'center',
-          gap: 6,
-          background: 'var(--color-accent)',
-          color: 'var(--color-accent-ink)',
-          padding: 'var(--space-sm) var(--space-lg)',
-          borderRadius: 'var(--radius-input)',
-          textDecoration: 'none',
-          fontSize: 'var(--text-md)',
-          fontWeight: 600,
-          transition: 'background var(--dur-short) var(--ease-out)',
-          whiteSpace: 'nowrap',
-        }}>
-          Explore your degree →
-        </Link>
+        {/* ── Search ────────────────────────────────────────────────────── */}
+        <div style={{ position: 'relative', maxWidth: 520, margin: '0 auto var(--space-sm)', width: '100%' }}>
+          <div style={{ position: 'relative' }}>
+            <svg
+              width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true"
+              style={{
+                position: 'absolute', left: 13, top: '50%',
+                transform: 'translateY(-50%)',
+                pointerEvents: 'none', color: 'var(--color-ink-3)',
+              }}
+            >
+              <circle cx="6.5" cy="6.5" r="4.5" stroke="currentColor" strokeWidth="1.5" />
+              <path d="M10.5 10.5L13 13" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+            </svg>
+            <input
+              type="search"
+              value={searchQ}
+              onChange={e => { setSearchQ(e.target.value); setSearchOpen(true) }}
+              onFocus={e => {
+                e.target.style.borderColor = 'var(--color-accent)'
+                setSearchOpen(true)
+                loadAllPrograms()
+              }}
+              onBlur={e => {
+                e.target.style.borderColor = 'var(--color-rule)'
+                setTimeout(() => setSearchOpen(false), 200)
+              }}
+              onKeyDown={e => {
+                if (e.key === 'Enter' && searchResults.length > 0) {
+                  window.location.href = `/map?dept=${searchResults[0].dept_id}&p=${searchResults[0].program_id}`
+                }
+              }}
+              placeholder="Search for a program or department…"
+              style={{
+                width: '100%',
+                border: '1.5px solid var(--color-rule)',
+                borderRadius: 'var(--radius-input)',
+                padding: '11px 14px 11px 40px',
+                fontSize: 'var(--text-md)',
+                fontFamily: 'var(--font-body)',
+                color: 'var(--color-ink)',
+                background: 'var(--color-paper)',
+                outline: 'none',
+                boxSizing: 'border-box',
+                transition: 'border-color var(--dur-short) var(--ease-out)',
+                boxShadow: '0 1px 4px rgba(0,0,0,0.06)',
+              }}
+            />
+          </div>
+
+          {searchOpen && searchQ.trim() && (
+            <div style={{
+              position: 'absolute',
+              top: '100%', left: 0, right: 0,
+              marginTop: 4,
+              background: 'var(--color-paper)',
+              border: '1px solid var(--color-rule)',
+              borderRadius: 'var(--radius-card)',
+              boxShadow: '0 8px 24px rgba(0,0,0,0.10), 0 2px 6px rgba(0,0,0,0.06)',
+              overflow: 'hidden',
+              zIndex: 20,
+              textAlign: 'left',
+            }}>
+              {searchLoading ? (
+                <div style={{ padding: '10px 14px', fontSize: 'var(--text-sm)', color: 'var(--color-ink-3)' }}>
+                  Loading…
+                </div>
+              ) : searchResults.length === 0 ? (
+                <div style={{ padding: '10px 14px', fontSize: 'var(--text-sm)', color: 'var(--color-ink-3)' }}>
+                  No programs found
+                </div>
+              ) : searchResults.map((p, i) => (
+                <a
+                  key={p.program_id}
+                  href={`/map?dept=${p.dept_id}&p=${p.program_id}`}
+                  className="search-result"
+                  style={{
+                    display: 'block',
+                    padding: '9px 14px',
+                    textDecoration: 'none',
+                    borderBottom: i < searchResults.length - 1 ? '1px solid var(--color-rule)' : 'none',
+                    transition: 'background var(--dur-short) var(--ease-out)',
+                  }}
+                >
+                  <div style={{ fontSize: 'var(--text-sm)', fontWeight: 500, color: 'var(--color-ink)', lineHeight: 1.3 }}>
+                    {p.degree}
+                  </div>
+                  {p.dept_name && (
+                    <div style={{ fontSize: 'var(--text-xs)', color: 'var(--color-ink-3)', marginTop: 2 }}>
+                      {p.dept_name}
+                    </div>
+                  )}
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+
+        <p style={{ margin: 0, fontSize: 'var(--text-sm)', color: 'var(--color-ink-3)' }}>
+          or{' '}
+          <Link href="/map" style={{
+            color: 'var(--color-ink-2)',
+            textDecoration: 'underline',
+            textUnderlineOffset: 3,
+          }}>
+            browse all programs →
+          </Link>
+        </p>
       </section>
+
+      {/* ── Popular programs ─────────────────────────────────────────────── */}
+      {featured.length > 0 && (
+        <section style={{
+          padding: '0 var(--space-lg) var(--space-2xl)',
+          maxWidth: 960,
+          margin: '0 auto',
+          width: '100%',
+          boxSizing: 'border-box',
+        }}>
+          <h2 style={{
+            fontFamily: 'var(--font-display)',
+            fontSize: 'var(--text-lg)',
+            fontWeight: 700,
+            letterSpacing: '-0.01em',
+            color: 'var(--color-ink)',
+            margin: '0 0 var(--space-md) 0',
+          }}>
+            Popular programs
+          </h2>
+          <div className="featured-grid" style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(3, minmax(0, 1fr))',
+            gap: 'var(--space-md)',
+          }}>
+            {featured.map(p => <ProgramCard key={p.program_id} program={p} />)}
+          </div>
+        </section>
+      )}
 
       {/* ── Stats strip ─────────────────────────────────────────────────── */}
       <div style={{
@@ -390,4 +559,47 @@ const Step = ({ num, title, body }) => (
       {body}
     </div>
   </div>
+)
+
+// ─── ProgramCard ──────────────────────────────────────────────────────────────
+
+const ProgramCard = ({ program }) => (
+  <a
+    href={`/map?dept=${program.dept_id}&p=${program.program_id}`}
+    className="prog-card"
+    style={{
+      display: 'block',
+      padding: 'var(--space-md)',
+      border: '1px solid var(--color-rule)',
+      borderRadius: 'var(--radius-card)',
+      background: 'var(--color-paper)',
+      textDecoration: 'none',
+      transition: 'border-color var(--dur-short) var(--ease-out), background var(--dur-short) var(--ease-out)',
+    }}
+  >
+    <div style={{
+      fontSize: 'var(--text-sm)',
+      fontWeight: 600,
+      color: 'var(--color-ink)',
+      lineHeight: 1.35,
+      marginBottom: 4,
+    }}>
+      {trimDegree(program.degree)}
+    </div>
+    <div style={{
+      fontSize: 11,
+      color: 'var(--color-ink-3)',
+      marginBottom: 'var(--space-md)',
+      lineHeight: 1.4,
+    }}>
+      {program.dept_name}
+    </div>
+    <div style={{
+      fontSize: 'var(--text-xs)',
+      fontWeight: 600,
+      color: 'var(--color-accent)',
+    }}>
+      View map →
+    </div>
+  </a>
 )

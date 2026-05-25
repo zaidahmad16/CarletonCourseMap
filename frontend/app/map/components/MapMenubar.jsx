@@ -102,8 +102,8 @@ const MenuItem = ({ children, shortcut, disabled, onClick, ...props }) => (
     }}
     onMouseEnter={e => {
       if (!disabled) {
-        e.currentTarget.style.background = 'var(--color-accent)'
-        e.currentTarget.style.color = 'var(--color-accent-ink)'
+        e.currentTarget.style.background = 'var(--color-accent-soft)'
+        e.currentTarget.style.color = 'var(--color-accent)'
       }
     }}
     onMouseLeave={e => {
@@ -135,6 +135,9 @@ export const MapMenubar = ({
   onZoomOut,
   onSelectProgram,
   onShowNotes,
+  onCopyLink,
+  hasProgram,
+  onCompare,
 }) => {
   const [viewOpen, setViewOpen]       = React.useState(false)
   const [programOpen, setProgramOpen] = React.useState(false)
@@ -171,6 +174,9 @@ export const MapMenubar = ({
           <Menu.Positioner sideOffset={4} align="start">
             <Menu.Popup style={popupBase}>
               <MenuItem onClick={onSelectProgram}>Change program…</MenuItem>
+              <MenuItem onClick={onCopyLink} disabled={!hasProgram}>Copy link to program</MenuItem>
+              <div style={separatorStyle} />
+              <MenuItem onClick={onCompare}>Compare programs…</MenuItem>
             </Menu.Popup>
           </Menu.Positioner>
         </Menu.Portal>

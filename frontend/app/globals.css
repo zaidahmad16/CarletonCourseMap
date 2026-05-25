@@ -70,6 +70,7 @@
   --radius-input: 4px;
 }
 
+
 html,
 body {
   overflow-x: clip;
@@ -93,3 +94,4 @@ body {
     animation-duration: 1ms !important;
   }
 }
+

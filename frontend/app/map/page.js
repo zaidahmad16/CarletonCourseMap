@@ -4,7 +4,7 @@
 
 'use client'
 
-import { useState, useEffect, useCallback, useRef } from 'react'
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react'
 import ReactFlow, { Background }                    from 'reactflow'
 import 'reactflow/dist/style.css'
 
@@ -74,12 +74,37 @@ export default function MapPage() {
   const [selectedNode,    setSelectedNode]    = useState(null)
   const [showPicker,      setShowPicker]      = useState(false)
   const [showNotes,       setShowNotes]       = useState(false)
-  const rfRef = useRef(null)
+  const [searchQuery,     setSearchQuery]     = useState('')
+  const [highlightedId,   setHighlightedId]   = useState(null)
+  const rfRef             = useRef(null)
+  const initialProgram    = useRef(null)
 
   // ── Load departments on mount ───────────────────────────────────────────────
   useEffect(() => {
     fetch(`${API}/departments`).then(r => r.json()).then(setDepartments)
   }, [])
+
+  // ── Restore dept + program from URL on mount ────────────────────────────────
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search)
+    const dept   = params.get('dept')
+    const prog   = params.get('p')
+    if (prog) initialProgram.current = prog
+    if (dept) setSelectedDept(dept)
+  }, [])
+
+  // ── Sync URL when selection changes ─────────────────────────────────────────
+  useEffect(() => {
+    const url = new URL(window.location.href)
+    if (selectedDept && selectedProgram) {
+      url.searchParams.set('dept', selectedDept)
+      url.searchParams.set('p', String(selectedProgram))
+    } else {
+      url.searchParams.delete('dept')
+      url.searchParams.delete('p')
+    }
+    history.replaceState({}, '', url)
+  }, [selectedDept, selectedProgram])
 
   // ── Load programs when department changes ───────────────────────────────────
   useEffect(() => {
@@ -92,7 +117,13 @@ export default function MapPage() {
     setSelectedNode(null)
     fetch(`${API}/programs?dept=${selectedDept}`)
       .then(r => r.json())
-      .then(setPrograms)
+      .then(progs => {
+        setPrograms(progs)
+        if (initialProgram.current) {
+          setSelectedProgram(initialProgram.current)
+          initialProgram.current = null
+        }
+      })
   }, [selectedDept])
 
   // ── Load course map when program changes ────────────────────────────────────
@@ -130,10 +161,41 @@ export default function MapPage() {
       })
   }, [courseMap])
 
+  // ── Search: find match, highlight, pan ─────────────────────────────────────
+  useEffect(() => {
+    if (!searchQuery || nodes.length === 0) { setHighlightedId(null); return }
+    const q = searchQuery.toLowerCase()
+    const match = nodes.find(n =>
+      n.type === 'course' && !n.data.isElective &&
+      (n.id.toLowerCase().includes(q) || n.data.name?.toLowerCase().includes(q))
+    )
+    if (match) {
+      setHighlightedId(match.id)
+      rfRef.current?.fitView({ nodes: [{ id: match.id }], padding: 0.5, duration: 300 })
+    } else {
+      setHighlightedId(null)
+    }
+  }, [searchQuery, nodes])
+
+  // ── Inject highlighted flag for display only ────────────────────────────────
+  const displayNodes = useMemo(
+    () => highlightedId
+      ? nodes.map(n => n.id === highlightedId
+          ? { ...n, data: { ...n.data, highlighted: true } }
+          : n)
+      : nodes,
+    [nodes, highlightedId]
+  )
+
   // ── Click handler ──────────────────────────────────────────────────────────
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return
     setSelectedNode(node)
+  }, [])
+
+  // ── Copy link ──────────────────────────────────────────────────────────────
+  const onCopyLink = useCallback(() => {
+    navigator.clipboard.writeText(window.location.href).catch(() => {})
   }, [])
 
   // ─── Render ─────────────────────────────────────────────────────────────────
@@ -196,6 +258,8 @@ export default function MapPage() {
           onZoomOut={() => rfRef.current?.zoomOut()}
           onSelectProgram={() => setShowPicker(true)}
           onShowNotes={() => setShowNotes(v => !v)}
+          onCopyLink={onCopyLink}
+          hasProgram={!!selectedProgram}
         />
       </div>
 
@@ -322,7 +386,7 @@ export default function MapPage() {
           <ReactFlow
             nodeTypes={nodeTypes}
             edgeTypes={edgeTypes}
-            nodes={nodes}
+            nodes={displayNodes}
             edges={edges}
             fitView
             fitViewOptions={{ padding: 0.07 }}

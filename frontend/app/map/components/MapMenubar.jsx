@@ -135,6 +135,8 @@ export const MapMenubar = ({
   onZoomOut,
   onSelectProgram,
   onShowNotes,
+  onCopyLink,
+  hasProgram,
 }) => {
   const [viewOpen, setViewOpen]       = React.useState(false)
   const [programOpen, setProgramOpen] = React.useState(false)
@@ -171,6 +173,7 @@ export const MapMenubar = ({
           <Menu.Positioner sideOffset={4} align="start">
             <Menu.Popup style={popupBase}>
               <MenuItem onClick={onSelectProgram}>Change program…</MenuItem>
+              <MenuItem onClick={onCopyLink} disabled={!hasProgram}>Copy link to program</MenuItem>
             </Menu.Popup>
           </Menu.Positioner>
         </Menu.Portal>

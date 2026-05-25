@@ -1,65 +1,393 @@
-import Image from "next/image";
+/* Hallmark · macrostructure: Narrative Workflow · genre: modern-minimal · theme: custom (Carleton)
+ * design-system: design.md · pre-emit critique: P5 H5 E5 S5 R5 V5
+ */
+
+'use client'
+
+import { useState, useEffect } from 'react'
+import Link from 'next/link'
+import { API } from './map/utils/constants'
 
 export default function Home() {
+  const [stats, setStats] = useState({ departments: null, programs: null, courses: null })
+
+  useEffect(() => {
+    fetch(`${API}/stats`)
+      .then(r => r.ok ? r.json() : null)
+      .then(d => { if (d) setStats(d) })
+      .catch(() => {})
+  }, [])
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.js file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <div style={{
+      fontFamily: 'var(--font-body)',
+      background: 'var(--color-paper)',
+      color: 'var(--color-ink)',
+      minHeight: '100vh',
+      display: 'flex',
+      flexDirection: 'column',
+    }}>
+
+      <style>{`
+        :root {
+          --color-cta-sub: oklch(90% 0 0);
+        }
+        .cta-red:hover    { background: var(--color-accent-hover) !important; }
+        .cta-white:hover  { background: var(--color-paper-2) !important; }
+        .footer-link:hover { color: var(--color-accent) !important; }
+        @media (max-width: 720px) {
+          .steps-grid { grid-template-columns: 1fr !important; }
+          .stat-grid  { grid-template-columns: repeat(2, 1fr) !important; }
+        }
+        @media (max-width: 400px) {
+          .stat-grid { grid-template-columns: 1fr !important; }
+        }
+      `}</style>
+
+      {/* ── Nav ─────────────────────────────────────────────────────────── */}
+      <nav style={{
+        borderBottom: '1px solid var(--color-rule)',
+        padding: '0 var(--space-lg)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        height: 56,
+        background: 'var(--color-paper)',
+        flexShrink: 0,
+      }}>
+        <div style={{
+          fontFamily: 'var(--font-display)',
+          fontWeight: 700,
+          fontSize: 'var(--text-lg)',
+          letterSpacing: '-0.01em',
+          color: 'var(--color-ink)',
+        }}>
+          <span style={{ color: 'var(--color-accent)' }}>Carleton</span>CourseMap
+        </div>
+
+        <Link href="/map" className="cta-red" style={{
+          display: 'inline-flex',
+          alignItems: 'center',
+          background: 'var(--color-accent)',
+          color: 'var(--color-accent-ink)',
+          padding: '7px var(--space-md)',
+          borderRadius: 'var(--radius-input)',
+          textDecoration: 'none',
+          fontSize: 'var(--text-sm)',
+          fontWeight: 600,
+          transition: 'background var(--dur-short) var(--ease-out)',
+          whiteSpace: 'nowrap',
+        }}>
+          Open Map
+        </Link>
+      </nav>
+
+      {/* ── Hero ────────────────────────────────────────────────────────── */}
+      <section style={{
+        padding: 'var(--space-3xl) var(--space-lg) var(--space-2xl)',
+        maxWidth: 720,
+        margin: '0 auto',
+        width: '100%',
+        boxSizing: 'border-box',
+        textAlign: 'center',
+      }}>
+        <div style={{
+          fontSize: 'var(--text-xs)',
+          fontWeight: 600,
+          color: 'var(--color-ink-3)',
+          letterSpacing: '0.08em',
+          textTransform: 'uppercase',
+          marginBottom: 'var(--space-sm)',
+        }}>
+          2025–2026 Undergraduate Calendar
+        </div>
+
+        <h1 style={{
+          fontFamily: 'var(--font-display)',
+          fontSize: 'var(--text-display)',
+          fontWeight: 700,
+          lineHeight: 1.08,
+          letterSpacing: '-0.02em',
+          color: 'var(--color-ink)',
+          margin: '0 0 var(--space-md) 0',
+          overflowWrap: 'anywhere',
+        }}>
+          Plan your degree,<br />semester by semester.
+        </h1>
+
+        <p style={{
+          fontSize: 'var(--text-lg)',
+          lineHeight: 1.65,
+          color: 'var(--color-ink-2)',
+          margin: '0 auto var(--space-xl)',
+          maxWidth: 520,
+        }}>
+          An interactive course map for every Carleton program — prerequisites, elective slots, and course details at a click.
+        </p>
+
+        <Link href="/map" className="cta-red" style={{
+          display: 'inline-flex',
+          alignItems: 'center',
+          gap: 6,
+          background: 'var(--color-accent)',
+          color: 'var(--color-accent-ink)',
+          padding: 'var(--space-sm) var(--space-lg)',
+          borderRadius: 'var(--radius-input)',
+          textDecoration: 'none',
+          fontSize: 'var(--text-md)',
+          fontWeight: 600,
+          transition: 'background var(--dur-short) var(--ease-out)',
+          whiteSpace: 'nowrap',
+        }}>
+          Explore your degree →
+        </Link>
+      </section>
+
+      {/* ── Stats strip ─────────────────────────────────────────────────── */}
+      <div style={{
+        borderTop: '1px solid var(--color-rule)',
+        borderBottom: '1px solid var(--color-rule)',
+        background: 'var(--color-paper-2)',
+      }}>
+        <div className="stat-grid" style={{
+          maxWidth: 960,
+          margin: '0 auto',
+          padding: 'var(--space-lg)',
+          display: 'grid',
+          gridTemplateColumns: 'repeat(3, 1fr)',
+          gap: 'var(--space-lg)',
+        }}>
+          <Stat value={stats.departments} label="Departments" />
+          <Stat value={stats.programs}    label="Programs" />
+          <Stat value={stats.courses}     label="Courses indexed" />
+        </div>
+      </div>
+
+      {/* ── How it works ────────────────────────────────────────────────── */}
+      <section style={{
+        padding: 'var(--space-2xl) var(--space-lg)',
+        maxWidth: 960,
+        margin: '0 auto',
+        width: '100%',
+        boxSizing: 'border-box',
+      }}>
+        <h2 style={{
+          fontFamily: 'var(--font-display)',
+          fontSize: 'var(--text-2xl)',
+          fontWeight: 700,
+          letterSpacing: '-0.01em',
+          color: 'var(--color-ink)',
+          margin: '0 0 var(--space-xl) 0',
+        }}>
+          How it works
+        </h2>
+
+        <div className="steps-grid" style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(3, 1fr)',
+          gap: 'var(--space-xl)',
+        }}>
+          <Step
+            num="01"
+            title="Prerequisite chains"
+            body="See which courses unlock which. Every arrow on the map is a real prerequisite from the Carleton calendar."
+          />
+          <Step
+            num="02"
+            title="Elective slots at a glance"
+            body="Elective and breadth slots are marked in your four-year grid so you can see exactly where you have room to choose."
+          />
+          <Step
+            num="03"
+            title="Course details on click"
+            body="Tap any course for the full calendar description, credit weight, term offerings, and formal prerequisites."
+          />
+        </div>
+      </section>
+
+      {/* ── CTA band ────────────────────────────────────────────────────── */}
+      <section style={{
+        background: 'var(--color-accent)',
+        padding: 'var(--space-2xl) var(--space-lg)',
+        textAlign: 'center',
+      }}>
+        <div style={{ maxWidth: 560, margin: '0 auto' }}>
+          <p style={{
+            fontFamily: 'var(--font-display)',
+            fontSize: 'var(--text-xl)',
+            fontWeight: 700,
+            color: 'var(--color-accent-ink)',
+            margin: '0 0 var(--space-xs) 0',
+            letterSpacing: '-0.01em',
+          }}>
+            See exactly what you need to graduate.
           </p>
+          <p style={{
+            fontSize: 'var(--text-sm)',
+            color: 'var(--color-cta-sub)',
+            margin: '0 0 var(--space-lg) 0',
+            lineHeight: 1.6,
+          }}>
+            {stats.departments
+              ? `All ${stats.departments} departments · ${stats.programs} programs · 2025–2026 Undergraduate Calendar`
+              : 'Every department and program · 2025–2026 Undergraduate Calendar'}
+          </p>
+          <Link href="/map" className="cta-white" style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: 6,
+            background: 'var(--color-accent-ink)',
+            color: 'var(--color-accent)',
+            padding: 'var(--space-sm) var(--space-lg)',
+            borderRadius: 'var(--radius-input)',
+            textDecoration: 'none',
+            fontSize: 'var(--text-md)',
+            fontWeight: 700,
+            transition: 'background var(--dur-short) var(--ease-out)',
+            whiteSpace: 'nowrap',
+          }}>
+            Open course map →
+          </Link>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      <div style={{ flex: 1 }} />
+
+      {/* ── Footer ──────────────────────────────────────────────────────── */}
+      <footer style={{
+        borderTop: '1px solid var(--color-rule)',
+        padding: 'var(--space-lg)',
+        background: 'var(--color-paper-2)',
+      }}>
+        <div style={{
+          maxWidth: 960,
+          margin: '0 auto',
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'flex-start',
+          gap: 'var(--space-xl)',
+          flexWrap: 'wrap',
+        }}>
+          <div>
+            <div style={{
+              fontFamily: 'var(--font-display)',
+              fontWeight: 700,
+              fontSize: 'var(--text-md)',
+              letterSpacing: '-0.01em',
+              color: 'var(--color-ink)',
+              marginBottom: 6,
+            }}>
+              <span style={{ color: 'var(--color-accent)' }}>Carleton</span>CourseMap
+            </div>
+            <p style={{
+              fontSize: 'var(--text-xs)',
+              color: 'var(--color-ink-3)',
+              lineHeight: 1.7,
+              margin: 0,
+              maxWidth: 280,
+            }}>
+              Not affiliated with or endorsed by Carleton University.
+              Course data: 2025–2026 Undergraduate Calendar.
+            </p>
+          </div>
+
+          <nav aria-label="Footer navigation" style={{
+            display: 'flex',
+            gap: 'var(--space-md)',
+            flexWrap: 'wrap',
+            alignItems: 'center',
+            paddingTop: 4,
+          }}>
+            {[
+              { label: 'Home',              href: '/',                                                 ext: false },
+              { label: 'Course Map',        href: '/map',                                              ext: false },
+              { label: 'Official Calendar', href: 'https://calendar.carleton.ca',                     ext: true  },
+              { label: 'GitHub',            href: 'https://github.com/zaidahmad16/CarletonCourseMap', ext: true  },
+            ].map(({ label, href, ext }) => (
+              <a
+                key={label}
+                href={href}
+                className="footer-link"
+                {...(ext ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
+                style={{
+                  fontSize: 'var(--text-xs)',
+                  fontWeight: 500,
+                  color: 'var(--color-ink-2)',
+                  textDecoration: 'none',
+                  transition: 'color var(--dur-short) var(--ease-out)',
+                  whiteSpace: 'nowrap',
+                }}
+              >
+                {label}{ext ? ' ↗' : ''}
+              </a>
+            ))}
+          </nav>
         </div>
-      </main>
+      </footer>
     </div>
-  );
+  )
 }
+
+// ─── Stat ─────────────────────────────────────────────────────────────────────
+
+const Stat = ({ value, label }) => (
+  <div style={{ textAlign: 'center', padding: 'var(--space-sm) 0' }}>
+    <div style={{
+      fontFamily: 'var(--font-display)',
+      fontSize: 'var(--text-2xl)',
+      fontWeight: 700,
+      color: 'var(--color-accent)',
+      lineHeight: 1,
+      marginBottom: 6,
+      letterSpacing: '-0.02em',
+    }}>
+      {value != null ? `${value.toLocaleString()}+` : '—'}
+    </div>
+    <div style={{
+      fontSize: 'var(--text-xs)',
+      fontWeight: 600,
+      color: 'var(--color-ink-3)',
+      textTransform: 'uppercase',
+      letterSpacing: '0.07em',
+    }}>
+      {label}
+    </div>
+  </div>
+)
+
+// ─── Step ─────────────────────────────────────────────────────────────────────
+
+const Step = ({ num, title, body }) => (
+  <div style={{
+    paddingTop: 'var(--space-md)',
+    borderTop: '2px solid var(--color-rule)',
+  }}>
+    <div style={{
+      fontFamily: 'var(--font-display)',
+      fontSize: 'var(--text-3xl)',
+      fontWeight: 700,
+      color: 'var(--color-accent)',
+      lineHeight: 1,
+      marginBottom: 'var(--space-sm)',
+      letterSpacing: '-0.02em',
+    }}>
+      {num}
+    </div>
+    <div style={{
+      fontSize: 'var(--text-md)',
+      fontWeight: 600,
+      color: 'var(--color-ink)',
+      marginBottom: 'var(--space-xs)',
+      lineHeight: 1.3,
+    }}>
+      {title}
+    </div>
+    <div style={{
+      fontSize: 'var(--text-sm)',
+      color: 'var(--color-ink-2)',
+      lineHeight: 1.65,
+    }}>
+      {body}
+    </div>
+  </div>
+)

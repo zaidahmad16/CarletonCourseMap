@@ -1,121 +1,145 @@
+/* Hallmark · component: Notes · genre: modern-minimal · theme: custom (Carleton)
+ * states: closed (tab visible) · open (panel slides in) · toggle button hover/focus
+ */
+
 import { useState } from 'react'
 
-export const Notes = ({ notes = [], degree }) => {
-  const [open, setOpen] = useState(false)
+export const Notes = ({ notes = [], degree, open: controlledOpen, onOpenChange }) => {
+  const [internalOpen, setInternalOpen] = useState(false)
+  const open    = controlledOpen !== undefined ? controlledOpen : internalOpen
+  const setOpen = onOpenChange ?? setInternalOpen
 
   return (
     <>
-      {/* Toggle button */}
+      {/* ── Toggle tab ────────────────────────────────────── */}
       <button
         onClick={() => setOpen(!open)}
+        aria-expanded={open}
+        aria-label={open ? 'Close notes panel' : 'Open notes panel'}
         style={{
           position: 'fixed',
           right: open ? 320 : 0,
           top: 100,
           zIndex: 10,
-          background: '#1a1a2e',
-          color: '#fff',
+          background: 'var(--color-accent)',
+          color: 'var(--color-accent-ink)',
           border: 'none',
-          padding: '10px 14px',
+          padding: '10px 12px',
           borderRadius: '4px 0 0 4px',
           cursor: 'pointer',
-          fontSize: 12,
+          fontSize: 11,
           fontWeight: 600,
-          letterSpacing: 0.5,
-          fontFamily: 'Arial, sans-serif',
-          transition: 'right 0.2s ease',
+          letterSpacing: '0.04em',
+          fontFamily: 'var(--font-body)',
+          transition: 'right var(--dur-medium) var(--ease-out)',
           writingMode: open ? 'horizontal-tb' : 'vertical-rl',
+          userSelect: 'none',
         }}
       >
         {open ? '✕ Close' : 'Notes'}
       </button>
 
-      {/* Notes panel */}
-      <div style={{
-        position: 'fixed',
-        right: open ? 0 : -320,
-        top: 0,
-        width: 320,
-        height: '100vh',
-        background: '#fff',
-        borderLeft: '2px solid #e2e8f0',
-        overflowY: 'auto',
-        zIndex: 9,
-        transition: 'right 0.2s ease',
-        fontFamily: 'Arial, sans-serif',
-        boxShadow: open ? '-4px 0 12px rgba(0,0,0,0.08)' : 'none',
-      }}>
+      {/* ── Notes panel ───────────────────────────────────── */}
+      <div
+        role="complementary"
+        aria-label="Program notes"
+        style={{
+          position: 'fixed',
+          right: open ? 0 : -320,
+          top: 0,
+          width: 320,
+          height: '100vh',
+          background: 'var(--color-paper)',
+          borderLeft: '1px solid var(--color-rule)',
+          overflowY: 'auto',
+          zIndex: 9,
+          transition: 'right var(--dur-medium) var(--ease-out)',
+          fontFamily: 'var(--font-body)',
+          boxShadow: open ? '-4px 0 20px rgba(0,0,0,0.07)' : 'none',
+        }}
+      >
         {/* Header */}
         <div style={{
-          background: '#1a1a2e',
-          color: '#fff',
-          padding: '14px 18px',
+          background: 'var(--color-paper-2)',
+          borderBottom: '1px solid var(--color-rule)',
+          padding: '16px var(--space-md)',
+          fontFamily: 'var(--font-display)',
           fontWeight: 700,
-          fontSize: 13,
-          letterSpacing: 1,
+          fontSize: 'var(--text-md)',
+          color: 'var(--color-ink)',
+          letterSpacing: '-0.01em',
         }}>
           Notes
         </div>
 
-        <div style={{ padding: '16px 18px' }}>
-          {/* Prerequisites section */}
-          <div style={{ marginBottom: 18 }}>
-            <div style={{
-              fontWeight: 700, fontSize: 12, marginBottom: 8,
-              borderBottom: '1px solid #e2e8f0', paddingBottom: 6,
-            }}>
-              Course Prerequisites and Year Standing Requirements
-            </div>
-            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#444', margin: '0 0 8px 0' }}>
-              The course prerequisites are found in the Undergraduate Calendar course descriptions,
-              and are indicated by arrows between courses in this program map.
-            </p>
-            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#444', margin: 0 }}>
-              Year Standing is enforced as per the Academic Regulations
-              (as noted by 2nd, 3rd, or 4th above the course box).
-            </p>
-          </div>
+        <div style={{ padding: 'var(--space-md)' }}>
 
-          {/* Disclaimer */}
-          <div style={{ marginBottom: 18 }}>
-            <div style={{
-              fontWeight: 700, fontSize: 12, marginBottom: 8,
-              borderBottom: '1px solid #e2e8f0', paddingBottom: 6,
-            }}>
-              Disclaimer
-            </div>
-            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#444', margin: '0 0 8px 0' }}>
-              Course data on this site is based on the <strong>2025–2026 academic calendar</strong>. Information may change — always verify with the official Carleton University Undergraduate Calendar.
+          <NotesSection title="Prerequisites & Year Standing">
+            <p style={prose}>
+              Course prerequisites are shown as arrows between courses in this map. Year standing requirements (2nd, 3rd, or 4th year) appear above the relevant course box.
             </p>
-            <p style={{ fontSize: 11, lineHeight: 1.6, color: '#888', margin: 0 }}>
-              This website is not affiliated with, endorsed by, or officially connected to Carleton University.
-            </p>
-          </div>
+          </NotesSection>
 
-          {/* Program-specific notes */}
+          <NotesSection title="Disclaimer">
+            <p style={prose}>
+              Course data reflects the <strong>2025–2026</strong> Undergraduate Calendar. Always verify with the official Carleton University calendar before enrolling.
+            </p>
+            <p style={{ ...prose, color: 'var(--color-ink-3)', marginTop: 8 }}>
+              Not affiliated with or endorsed by Carleton University.
+            </p>
+          </NotesSection>
+
           {notes.length > 0 && (
-            <div>
-              <div style={{
-                fontWeight: 700, fontSize: 12, marginBottom: 8,
-                borderBottom: '1px solid #e2e8f0', paddingBottom: 6,
-              }}>
-                Program Notes
-              </div>
+            <NotesSection title="Program Notes">
               {notes.map((note, i) => (
                 <div key={i} style={{
-                  fontSize: 11, lineHeight: 1.6, color: '#444',
-                  marginBottom: 10, display: 'flex', gap: 6,
+                  fontSize: 'var(--text-xs)',
+                  lineHeight: 1.7,
+                  color: 'var(--color-ink-2)',
+                  marginBottom: 'var(--space-xs)',
+                  display: 'flex',
+                  gap: 'var(--space-2xs)',
                 }}>
-                  <span style={{ fontWeight: 700, color: '#111', flexShrink: 0 }}>
+                  <span style={{
+                    fontWeight: 700,
+                    color: 'var(--color-accent)',
+                    flexShrink: 0,
+                  }}>
                     ({String.fromCharCode(97 + i)})
                   </span>
                   <span>{note && typeof note === 'object' ? note.text : note}</span>
                 </div>
               ))}
-            </div>
+            </NotesSection>
           )}
+
         </div>
       </div>
     </>
   )
 }
+
+const prose = {
+  fontSize: 'var(--text-xs)',
+  lineHeight: 1.7,
+  color: 'var(--color-ink-2)',
+  margin: 0,
+}
+
+const NotesSection = ({ title, children }) => (
+  <div style={{ marginBottom: 'var(--space-md)' }}>
+    <div style={{
+      fontSize: 'var(--text-xs)',
+      fontWeight: 600,
+      color: 'var(--color-ink-3)',
+      textTransform: 'uppercase',
+      letterSpacing: '0.07em',
+      marginBottom: 'var(--space-xs)',
+      paddingBottom: 'var(--space-2xs)',
+      borderBottom: '1px solid var(--color-rule)',
+    }}>
+      {title}
+    </div>
+    {children}
+  </div>
+)

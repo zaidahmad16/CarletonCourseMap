@@ -1,3 +1,95 @@
+/* Hallmark · genre: modern-minimal · macrostructure-family: Narrative Workflow (marketing) / Workbench (app)
+ * theme: custom · vibe: "institutional Carleton red white charcoal"
+ * paper: oklch(99% 0.003 85) · accent: oklch(49.5% 0.222 26) warm-red
+ * display: Roboto Slab · body: Geist · designed-as-app
+ */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  /* ── Colours ─────────────────────────────────────────────── */
+  --color-paper:            oklch(99% 0.003 85);
+  --color-paper-2:          oklch(96.5% 0.004 85);
+  --color-paper-3:          oklch(93.5% 0.004 85);
+  --color-ink:              oklch(11% 0.003 270);
+  --color-ink-2:            oklch(38% 0.005 270);
+  --color-ink-3:            oklch(57% 0 0);
+  --color-rule:             oklch(87% 0.004 85);
+  --color-accent:           oklch(49.5% 0.222 26);
+  --color-accent-hover:     oklch(42% 0.195 26);
+  --color-accent-soft:      oklch(97% 0.018 26);
+  --color-accent-ink:       oklch(99% 0 0);
+  --color-focus:            oklch(55% 0.222 26);
+
+  /* ── Course-type colours ─────────────────────────────────── */
+  --color-required:         oklch(11% 0 0);
+  --color-science:          oklch(43% 0.14 144);
+  --color-science-bg:       oklch(97% 0.012 144);
+  --color-elective:         oklch(56% 0.14 50);
+  --color-elective-bg:      oklch(97% 0.012 50);
+  --color-complementary:    oklch(49.5% 0.222 26);
+  --color-complementary-bg: oklch(97.5% 0.015 26);
+
+  /* ── Typography ──────────────────────────────────────────── */
+  --font-display: var(--font-roboto-slab), "Roboto Slab", Georgia, serif;
+  --font-body:    var(--font-geist-sans), -apple-system, "Segoe UI", sans-serif;
+  --font-mono:    var(--font-geist-mono), monospace;
+
+  /* ── Type scale ──────────────────────────────────────────── */
+  --text-xs:      0.75rem;
+  --text-sm:      0.875rem;
+  --text-md:      1rem;
+  --text-lg:      1.125rem;
+  --text-xl:      1.375rem;
+  --text-2xl:     1.75rem;
+  --text-3xl:     2.25rem;
+  --text-display: clamp(2.5rem, 5vw, 4rem);
+
+  /* ── Spacing — 4pt scale ─────────────────────────────────── */
+  --space-3xs:    0.25rem;
+  --space-2xs:    0.5rem;
+  --space-xs:     0.75rem;
+  --space-sm:     1rem;
+  --space-md:     1.5rem;
+  --space-lg:     2rem;
+  --space-xl:     3rem;
+  --space-2xl:    4.5rem;
+  --space-3xl:    7rem;
+
+  /* ── Motion ──────────────────────────────────────────────── */
+  --ease-out:     cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out:  cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-short:    180ms;
+  --dur-medium:   280ms;
+
+  /* ── Radii ───────────────────────────────────────────────── */
+  --radius-card:  6px;
+  --radius-pill:  999px;
+  --radius-input: 4px;
+}
+
+html,
+body {
+  overflow-x: clip;
+}
+
+/* ── Keyframe animations ─────────────────────────────────── */
+
+@keyframes backdrop-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes picker-in {
+  from { opacity: 0; transform: scale(0.97) translateY(6px); }
+  to   { opacity: 1; transform: scale(1)    translateY(0);   }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 1ms !important;
+    animation-duration: 1ms !important;
+  }
+}

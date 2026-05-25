@@ -4,6 +4,9 @@ import { getNodeStyle, getElectiveStyle } from './styles'
 
 const MIN_ROWS = 5
 
+// SVG presentation attributes (markerEnd.color) can't use CSS vars — mirror the token value here
+const REQUIRED_COLOR = 'oklch(11% 0 0)' // --color-required
+
 export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   const detailMap   = new Map(courseDetails.filter(Boolean).map(d => [d.code, d]))
   const positionMap = {}
@@ -36,6 +39,14 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         data: {
           code: course.code,
           name: course.name?.slice(0, 42),
+          description: course.description || '',
+          credit: course.credit,
+          prerequisites: course.prerequisites || '',
+          offerings: [
+            course.offerings?.includes('fall') ? 'Fall' : '',
+            course.offerings?.includes('winter') ? 'Winter' : '',
+            course.offerings?.includes('summer') ? 'Summer' : '',
+          ].filter(Boolean).join(', ') || null,
           style: getNodeStyle(course.code, course.credit),
         },
         position: {
@@ -71,7 +82,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
           name: simplifyDesc(req.description),
           style: req.description
             ? getElectiveStyle(req.description)
-            : { border: '3px solid #ea580c', borderRadius: 4 },
+            : { border: '2px solid var(--color-elective)', borderRadius: 'var(--radius-card)', background: 'var(--color-elective-bg)' },
           isElective: true,
         },
         position: {
@@ -95,7 +106,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         selectable: false,
         data: {
           code: 'Elective', name: label, isElective: true,
-          style: { border: '3px solid #ea580c', borderRadius: 4 },
+          style: { border: '2px solid var(--color-elective)', borderRadius: 'var(--radius-card)', background: 'var(--color-elective-bg)' },
         },
         position: {
           x: col * COL_WIDTH,
@@ -115,9 +126,9 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
       source: e.source,
       target: e.target,
       type: 'clean',
-      markerEnd: { type: MarkerType.ArrowClosed, width: 10, height: 10, color: '#111' },
+      markerEnd: { type: MarkerType.ArrowClosed, width: 10, height: 10, color: REQUIRED_COLOR },
       style: {
-        stroke: '#111',
+        stroke: 'var(--color-required)',
         strokeWidth: 1.5,
         ...(e.type === 'concurrent' ? { strokeDasharray: '6,4' } : {}),
       },

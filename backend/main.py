@@ -25,6 +25,20 @@ def health():
     conn.close()
     return {"status":"200"}
 
+@app.get("/stats")
+def get_stats():
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute("SELECT COUNT(*) FROM departments")
+    dept_count = cur.fetchone()[0]
+    cur.execute("SELECT COUNT(*) FROM programs")
+    prog_count = cur.fetchone()[0]
+    cur.execute("SELECT COUNT(*) FROM courses")
+    course_count = cur.fetchone()[0]
+    cur.close()
+    conn.close()
+    return {"departments": dept_count, "programs": prog_count, "courses": course_count}
+
 @app.get("/departments")
 def get_departments():
     conn = get_connection()
@@ -217,8 +231,9 @@ def get_courses_batch(codes: List[str]):
     rows = cur.fetchall()
     cur.close()
     conn.close()
-    return [{"code": r[0], "name": r[1], "credit": r[2], "year_standing": r[5],
-             "offerings": r[6], "prerequisites": r[4], "concurrent_prerequisites": r[7]} for r in rows]
+    return [{"code": r[0], "name": r[1], "credit": r[2], "description": r[3],
+             "year_standing": r[5], "offerings": r[6], "prerequisites": r[4],
+             "concurrent_prerequisites": r[7]} for r in rows]
 
 if __name__ == "__main__":
     import uvicorn

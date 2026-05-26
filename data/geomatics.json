@@ -34,7 +34,7 @@
       "description": "Storage, visualization, manipulation and analysis of vector geospatial data. Vector geoprocessing including buffering, overlays and topological analysis; feature classification and cartographic representation; managing coordinate reference systems for vector layers; selected applications of vector GIS such as urban planning, environmental and resource management and socio-economic mapping.",
       "prerequisites": "GEOM 1004 or permission of the Department.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -46,7 +46,7 @@
       "description": "Storage, visualization, manipulation, and analysis of gridded geospatial data; 3D visualization; digital terrain analysis; interpolation and filtering; raster geoprocessing and projections; selected topics and applications in raster GIS such as least-cost path analysis, natural hazard assessment, pollution mapping and hotspot analysis for population geography.",
       "prerequisites": "GEOM 1004 or permission of the Department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -58,7 +58,7 @@
       "description": "Principles and methods of remote sensing; visual interpretation of air photos and satellite imagery; digital image processing, analysis and classification for thematic mapping; introduction to various active and passive remote sensing imagery types such as optical, hyperspectral, RADAR and LiDAR.",
       "prerequisites": "GEOM 2008 and third-year standing, or permission of the Department.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -81,7 +81,9 @@
       "credit": "0.5",
       "description": "Principles of and issues in cartography, cartographic communication and map design; practical aspects of cartographic representation using multimedia and online/interactive mapping.",
       "prerequisites": "GEOM 1004 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -111,7 +113,9 @@
       "credit": "0.5",
       "description": "Advanced image enhancement; land cover classification for thematic mapping; biophysical modeling; applications in resources, environment, and urban mapping.",
       "prerequisites": "GEOM 3002 and Honours standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -147,7 +151,7 @@
       "description": "Development and implementation of custom geomatics applications and workflows using programming and various geoprocessing tools. Project design, application development, GIS automation and documentation.",
       "prerequisites": "GEOM 2005 and ( GEOM 3002 or GEOM 3005 or GEOM 3007 ), or permission of the department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -324,12 +328,12 @@
           "description": "Introduction to Quantitative Research"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "STAT 2507"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Statistical Modeling I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -356,12 +360,12 @@
           "description": "Honours Field Course"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "GEOG 3010"
           ],
-          "credits": 0.5,
-          "description": "Field Methods in Physical Geography"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -539,12 +543,12 @@
           "description": "Introduction to Quantitative Research"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "STAT 2507"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Statistical Modeling I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -579,12 +583,12 @@
           "description": "Honours Field Course"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "GEOG 3010"
           ],
-          "credits": 0.5,
-          "description": "Field Methods in Physical Geography"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

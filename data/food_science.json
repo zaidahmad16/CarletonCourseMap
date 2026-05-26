@@ -32,9 +32,7 @@
       "credit": "0.5",
       "description": "Principles of major techniques used in food processing and preservation. Processing of specific food groups including cereals, oilseeds, dairy, beverages and frozen foods. Effects of processing on physico-chemical, rheological, and sensory characteristics. Role of research and development in food industry.",
       "prerequisites": "FOOD 1001 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,9 +86,7 @@
       "credit": "0.5",
       "description": "An introduction to the materials used for food packaging, including their chemical and physical characteristics. Interactions of these materials with food products, and their effects on shelf life of food.",
       "prerequisites": "FOOD 2002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -112,7 +108,9 @@
       "credit": "0.5",
       "description": "Food processing and upcycling in the context of sustainable food systems. Case studies to assess social, economic, and environmental impacts of food processing and upcycling on communities and the food industry. Transdisciplinary perspectives to propose a food rescue product.",
       "prerequisites": "third year standing in a BSc or BHSc program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -132,7 +130,9 @@
       "credit": "0.5",
       "description": "Factors affecting quality in manufacturing and processing of foods and principles of quality control and quality assurance. Sampling plans and statistical methods. Applications of physical, chemical, biological and microbiological tests in quality control. Quality systems and standards.",
       "prerequisites": "FOOD 2002 , FOOD 2003 , and third or fourth year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -174,9 +174,7 @@
       "credit": "0.5",
       "description": "Metabolism of macronutrients in the human body. Detailed catabolic and anabolic reactions of carbohydrates, lipids and proteins. Regulatory control points in healthy and diseased states. Discussion of the literature pertaining to nutrition, metabolism and chronic disease.",
       "prerequisites": "FOOD 2001 , BIOC 3101 and fourth year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },

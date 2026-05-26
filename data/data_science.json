@@ -32,7 +32,9 @@
       "credit": "0.5",
       "description": "Reproducible workflows from acquisition, to cleaning, manipulation, and visualization. Data are acquired from databases, APIs, and web scraping. Cleaning and manipulating Numeric, categorical, date, and text data are introduced including regular expressions. Data visualization and report generation using dynamic tools are emphasized.",
       "prerequisites": "( COMP 1005 or COMP 1405 ), STAT 1500 , and one of ( DATA 1517 , STAT 2507 , or STAT 2655 ).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -42,7 +44,9 @@
       "credit": "0.5",
       "description": "Technical communication and data visualization skills for data science majors, concentrating on writing and orally presenting scientific papers and technical reports. Principles of clarity and precision in writing and oral communication. Practical exercises and readings from recent technical publications will be used.",
       "prerequisites": "DATA 1517 or STAT 2507 or STAT 2559 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

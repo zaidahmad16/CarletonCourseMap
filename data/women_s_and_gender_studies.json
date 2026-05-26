@@ -54,7 +54,8 @@
       "description": "Explores feminist perspectives on the sex industry, critically analyzing various legal approaches to regulation and the social meanings assigned to sex work.",
       "prerequisites": "Second year standing and WGST 1808 or FYSM 1402 .",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -76,7 +77,7 @@
       "description": "An interdisciplinary analysis of one or more topics in women\u2019s and gender studies.",
       "prerequisites": "second-year standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -119,7 +120,9 @@
       "credit": "0.5",
       "description": "The emerging discipline of girlhood studies; social and cultural constructions of girlhood and categories of difference. Topics may include the commercialization of girlhood, popular culture and girls, negotiating identities, violence, sexualities, agency and activism in a globalizing world.",
       "prerequisites": "third-year standing and 1.0 credit in WGST or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -130,7 +133,7 @@
       "description": "Theories, concepts and contexts of the complex manifestations of gendered violence in the lives of women, men and children globally.",
       "prerequisites": "third-year standing and 1.0 credit in WGST or permission of the Institute.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -338,13 +341,13 @@
           "description": "Theory and Research in Feminist Social Transformation"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.0,
           "description": "3.0 credits from WGST, SXST, DBST, or CRST at the 3000- or 4000-level"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from WGST, SXST, DBST, or CRST at the 4000-level"
@@ -429,7 +432,7 @@
           "description": "Theory and Research in Feminist Social Transformation"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credit from WGST, SXST, DBST or CRST at the 2000- or 3000-level"
@@ -441,7 +444,7 @@
           "description": "2.0 credits from WGST, SXST, DBST, CRST or WGST-approved Electives at the 2000- or 3000-level"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from WGST, SXST, DBST, or CRST at the 4000-level"
@@ -675,7 +678,7 @@
           "description": "Introduction to Feminist Social Transformation"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "b. 2.0 credits from: Theorizing Bodies and Borders"
@@ -753,7 +756,7 @@
           "description": "Theory and Research in Feminist Social Transformation"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "c. 2.5 credits from: Advocacy and Activism"
@@ -831,7 +834,7 @@
           "description": "Gendered Violence"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "d. 1.5 credits from: Honours Seminars in Global Gender and Sexuality"
@@ -970,7 +973,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"

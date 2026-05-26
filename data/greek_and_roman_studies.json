@@ -9,7 +9,7 @@
       "description": "Introduction to the study of Greek antiquity and the discipline of Classics and its methodologies. Greek culture and society are set in their historical contexts and studied through readings from representative ancient authors (in English translation) and through the art and architecture of the period.",
       "prerequisites": "",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -21,7 +21,7 @@
       "description": "Introduction to the study of Roman antiquity and the discipline of Classics and its methodologies. The culture and society are set in their historical context and studied through readings from representative ancient authors (in English translation) and through the art and architecture of the period.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -130,9 +130,7 @@
       "credit": "0.5",
       "description": "A study of religion in ancient Greece.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -142,9 +140,7 @@
       "credit": "0.5",
       "description": "A study of religion in ancient Rome.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -167,7 +163,9 @@
       "credit": "0.5",
       "description": "The art, architecture and archaeology of ancient Greece.  Vase painting, sculpture, architecture, town planning and analogous arts.",
       "prerequisites": "second-year standing or permission of the unit.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -177,9 +175,7 @@
       "credit": "0.5",
       "description": "The art, architecture and archaeology of the ancient Romans.  Vase painting, sculpture, architecture, town planning and analogous arts are studied.",
       "prerequisites": "second-year standing or permission of the unit.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -203,8 +199,7 @@
       "description": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth.",
       "prerequisites": "second-year standing or permission of the unit.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -251,9 +246,7 @@
       "credit": "0.5",
       "description": "The history of ancient Rome from the end of the Republic to the coming of Islam.",
       "prerequisites": "second-year standing or permission of the unit.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -305,7 +298,9 @@
       "credit": "0.5",
       "description": "The study of major developments - administrative, ecclesiastical, cultural and societal - of the later Roman Empire.",
       "prerequisites": "a 2000-level CLCV course.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -325,9 +320,7 @@
       "credit": "0.5",
       "description": "Study of a period or theme in Greek History.",
       "prerequisites": "1.0 credit in CLCV courses (or equivalent) or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -337,9 +330,7 @@
       "credit": "0.5",
       "description": "Study of a period or theme in Roman History.",
       "prerequisites": "1.0 credit in CLCV courses (or equivalent) or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -359,9 +350,7 @@
       "credit": "0.5",
       "description": "A study of period or theme in the art and archaeology of Ancient Greece. Topics may vary from year to year.",
       "prerequisites": "second-year standing or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -391,7 +380,9 @@
       "credit": "0.5",
       "description": "A study of an author or topic in Greek literature. Contents of this course vary from year to year.",
       "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -422,7 +413,7 @@
       "description": "Intended for Honours students in History and Classics who should normally be in the third and fourth-years.",
       "prerequisites": "CLCV 2902 ( HIST 2902 ), CLCV 2903 ( HIST 2903 ) or CLCV 2904 ( HIST 2904 ), CLCV 2905 ( HIST 2905 ) or CLCV 3201 or CLCV 3202 or permission of the unit.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -433,9 +424,7 @@
       "credit": "0.5",
       "description": "",
       "prerequisites": "fourth-year standing in the Greek and Roman Studies B.A. program, or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -445,7 +434,9 @@
       "credit": "0.5",
       "description": "",
       "prerequisites": "fourth-year standing in the Greek and Roman Studies B.A. program, or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -455,9 +446,7 @@
       "credit": "0.5",
       "description": "These courses consist of supervised readings and research projects in a specific area of Classical Civilization to be chosen in consultation with  a faculty Supervisor who agrees to oversee a student's proposed research.",
       "prerequisites": "fourth-year Honours standing and permission of the unit.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -734,13 +723,13 @@
           "description": "1.0 credit in GREK or LATN"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from 2000-level CLCV, GREK, LATN"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from 3000-level or higher CLCV, GREK, LATN"
@@ -1195,24 +1184,24 @@
       "degree": "Minor in Greek and Roman Studies (4.0 credits)",
       "requirements": [
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from CLCV, GREK or LATN at the 2000-level or above"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from CLCV, GREK or LATN at the 3000-level or above"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "FYSM 1106"
           ],
-          "credits": 2.0,
-          "description": "2.0 credits from any level of CLCV, GREK, or LATN (may include FYSM 1106 [1.0])"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",

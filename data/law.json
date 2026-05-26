@@ -113,6 +113,7 @@
       "description": "Law relating to the state and its relationship to individuals and groups in society, with a focus on the administrative process, basic values and the Charter.",
       "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 .",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -175,7 +176,7 @@
       "description": "Definitions and goals of regulation; contemporary theories and debates about legal and non-legal approaches to regulation. Approaches studied may include market mechanisms, public agency regulation, self-regulation and governance in co-operation with associations in civil society.",
       "prerequisites": "1.0 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -208,7 +209,9 @@
       "credit": "0.5",
       "description": "Themes, approaches and debates in the field of law, culture and the humanities. Primary materials considered may include theoretical writings/cultural criticism/literary texts/films/video/photography and music. These texts present different modes and means of inquiring into the assumptions and aspirations that we ascribe to law.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -218,9 +221,7 @@
       "credit": "0.5",
       "description": "Introduction to the general contours of critical theory as it pertains to law and legal studies. The course will introduce key concepts and controversies in the field, identify specific theoretical debates, and consider what conceptual consequences follow from the elaboration of specific positions or arguments.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -243,7 +244,7 @@
       "description": "Critical assessment of copyright, patents, trademarks, trade secrets and other forms of intellectual property; regulation and governance of information technology including self-regulation, standard setting, licensing, competition policy and international dimensions.",
       "prerequisites": "1.0 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -254,7 +255,9 @@
       "credit": "0.5",
       "description": "Need for consumer protection in the provision of goods and services; traditional legal protection by statute and common law; legislative responses to consumer pressures; judicial response in recent Canadian, English and American law; reform of consumer law.",
       "prerequisites": "( LAWS 2202 or BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -338,7 +341,6 @@
       "description": "An examination of the foundations, politics, deployments and legal context of public and private policing.  Theoretical and strategic themes related to corporate and state surveillance and security provision are analyzed in the context of class, race, and gender in contemporary and historical context.",
       "prerequisites": "LAWS 2301 and LAWS 2302 .",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -351,7 +353,7 @@
       "description": "This course explores theorizations and intersections of race and law in legal studies. Particular attention to case studies, institutional, structural, and systemic racism, the currency of \u201crace\u201d in legal categories and in the work of legal actors in multiple areas of law.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -362,7 +364,9 @@
       "credit": "0.5",
       "description": "Legal regulation of the employment relationship; its contractual basis; defining employment; rights and duties of employees and employers; termination of employment; statutory regulation through employment standards legislation, human rights codes, workers' compensation acts, occupational health and safety and related statutes.",
       "prerequisites": "(0.5 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -394,9 +398,7 @@
       "credit": "0.5",
       "description": "Legal responses to challenges of the information society. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, control of objectionable content, Charter and human rights issues, and security.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -407,7 +409,7 @@
       "description": "The claimed relationship between freedom of expression and Canadian democracy, including the historical development of the right and various limits on it, and the regulatory structures governing contemporary media, criminalized and commercial expression, and use of media in the courtroom.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -419,7 +421,7 @@
       "description": "Human rights issues and law in Canada; history and present day experiences of discrimination; critical exploration of laws effectiveness in responding to discrimination; meaning(s) of equality and discrimination; focus on Human Rights Codes - interpretation, administration, enforcement with some reference to s.15 of the Charter.",
       "prerequisites": "(0.5 credit from LAWS 2105 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -441,7 +443,7 @@
       "description": "Structure and procedure of Canadian administrative authorities; policy, statutory and judicial environments in which they operate. Topics include techniques for implementing public policy and structuring public authorities; statutory interpretation; procedural safeguards; exercise of statutory discretion; reconciling efficiency and fairness.",
       "prerequisites": "LAWS 2502 and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -464,7 +466,9 @@
       "credit": "0.5",
       "description": "Selected issues in the Canadian Charter of Rights and Freedoms. The topics of this course may vary from year to year, and are announced in advance of registration.",
       "prerequisites": "(0.5 Credit from LAWS 2105 , LAWS 2201 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -488,8 +492,7 @@
       "description": "Nature, character, legal status and jurisdiction of intergovernmental international organizations. Rights and duties of states arising from membership in international organizations. Distinction between international and supra-national institutions. United Nations system, selected subsidiary organs, and specialized agencies; non-governmental organizations at times of crisis.",
       "prerequisites": "LAWS 2601 and 0.5 credit in LAWS at the 2000 level or PAPM 1001 and PSCI 2003 .",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -500,9 +503,7 @@
       "credit": "0.5",
       "description": "Introduction to theories and practices of environment law, including, international, administrative, civil, criminal, constitutional, and Indigenous aspects; enforcement, compliance, litigation, and law reform; political and socio-economic aspects; market-based and rights-based approaches; environmental justice; critiques grounded in critical theories.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -512,7 +513,9 @@
       "credit": "0.5",
       "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
       "prerequisites": "LAWS 2201 and LAWS 2202 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -522,7 +525,9 @@
       "credit": "0.5",
       "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -532,7 +537,9 @@
       "credit": "0.5",
       "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
       "prerequisites": "1.0 credit in LAWS at the 2000-level.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -565,7 +572,9 @@
       "credit": "0.5",
       "description": "Relationship between family law and ideology of the family, gender roles and the reproduction of family structures. Social ramifications of family law; potential for family law reform as an agency of social change.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3001 or LAWS 3804 , and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -575,9 +584,7 @@
       "credit": "0.5",
       "description": "The literature comprising feminist perspectives on law; theoretical bases of these perspectives; place of feminist theories within other critiques of law; significance of different feminist theories for equality theory and law reform strategies; unique contributions of the various perspectives.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -587,7 +594,9 @@
       "credit": "0.5",
       "description": "Legal nature of the interaction of religion and state within an historical framework. Emphasis on Canada after the Charter of Rights and Freedoms and on religious pluralism and resistance to state intervention in religion. Interdisciplinary readings drawn from legal, historical and theological sources.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -609,7 +618,10 @@
       "credit": "0.5",
       "description": "Selected major contemporary theories of justice such as those associated with Rawls, Walzer, and Habermas, with emphasis on both their procedural and substantive elements and their concrete ramifications for law, policy and political practice.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -619,7 +631,9 @@
       "credit": "0.5",
       "description": "This course examines selected controversies in rights theories, practices, and/or historiography. Illustrative questions may include: Are rights universal or culturally relative? Can rights be justified after the demise of natural rights philosophy? Do rights undermine difference? Do communities benefit from a rights-based culture?.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -629,9 +643,7 @@
       "credit": "0.5",
       "description": "Selected theories of global justice as they pertain to legality, which may include questions such as the justice of military force and just war theory, global social justice and global inequality, sovereignty and cosmopolitan conceptions of justice, demands for global democracy and human rights.",
       "prerequisites": "LAWS 2105 , LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -654,7 +666,9 @@
       "credit": "0.5",
       "description": "Sociological and legal theory accounts of the changing role and function of law in modern society with particular reference to advanced capitalist societies. Topics include: the welfare state and the use of regulatory law; juridification and legalization; counter-trends, deregulation, informalism, legal pluralism.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -664,9 +678,7 @@
       "credit": "0.5",
       "description": "Selected topics in international economic law. May include: the legal regulation of international economic activity; methods of dispute settlement; standardization and development of an autonomous international trade law; and selected conventions and institutions governing international economic law.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3207 or LAWS 3208 , and fourth-year Honours standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -688,9 +700,7 @@
       "credit": "0.5",
       "description": "An examination of selected legal topics relevant to the conduct of electronic commerce. Topics include types of regulation, government support, jurisdiction challenges, contract disputes and consumer protection. Court and alternative dispute resolution policy of Domain Names challenges are also included.",
       "prerequisites": "LAWS 2908 , LAWS 2201 , LAWS 2202 and fourth-year Honours standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -739,8 +749,7 @@
       "description": "Theoretical consideration of the emergence and transformation of \u201cpolicing\u201d activities through an examination of law and changes in social relations, with  special attention to the myriad agencies involved in contemporary security provision. Evolving notions of risk, surveillance, the state, and the private-public dichotomy.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 , and 0.5 credit from LAWS 2301 or LAWS 2302 , and fourth-year Honours standing.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -764,7 +773,7 @@
       "description": "Selected issues and problems in the area of criminal law. The topics may vary from year to year depending on demand and interest and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -776,7 +785,7 @@
       "description": "Legal-medical issues, conflicts and relationships in the field of social control. Topics include mental disorder and criminal liability, diversion of offenders to civil commitment in hospital, insanity, automatism, fitness to stand trial, prediction of dangerousness, regulation of psychoactive drugs.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -800,7 +809,9 @@
       "credit": "0.5",
       "description": "Historical and contemporary analysis of legal responses of Canadian governments to dissent, political opposition, insurrection, etc. Includes trial of political offences (treason, sedition, riot), national security measures (War Measures/Emergencies Act, Official Secrets Act), and other special powers (police, labour, immigration, parliamentary privilege, etc.).",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and 0.5 credit from LAWS 3305 , LAWS 3503 , LAWS 3509 , and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -810,9 +821,7 @@
       "credit": "0.5",
       "description": "Correctional law in the Canadian criminal justice system; competing objectives of punishment and rehabilitation in the context of respect for the rule of law and human rights; protection of human rights of prisoners in Canada and in in international and comparative contexts.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and fourth-year Honours standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -822,7 +831,9 @@
       "credit": "0.5",
       "description": "Theory and practice of dispute resolution in employment relations; analysis of such techniques as negotiation, grievance and interest arbitration, mediation, investigation and litigation applied to a range of employment disputes such as collective agreements, termination of employment, discrimination, harassment, occupational health and safety.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3006 , LAWS 3401 , LAWS 3405 , and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -877,7 +888,9 @@
       "credit": "0.5",
       "description": "Legal, theoretical, and theological interconnections between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommodation and neutrality. Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
       "prerequisites": "LAWS 2908 , LAWS 3602 , and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -888,8 +901,7 @@
       "description": "Legal and ethical responses to human rights violations in the transition to democracy. Dilemmas of the rule of law; truth and reconciliation; prosecution and punishment; amnesty; retribution and revenge; restorative justice; administrative remedy; reparations; International case studies. Theoretical arguments about justice in context of country.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -913,6 +925,7 @@
       "description": "UN Charter prohibition of the use of force. Exceptional, permissible uses of armed force. Role of Security Council in determining legality of armed intervention. Collective security, peacemaking, peacekeeping, neutrality, prohibited means of warfare. Humanitarian International Law, Geneva Red Cross Conventions, war crimes, International Criminal Court.",
       "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -1024,8 +1037,7 @@
       "description": "The topics of this course vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1036,7 +1048,9 @@
       "credit": "0.5",
       "description": "The topics of this course vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1258,7 +1272,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from Items 2-4 not already used to fulfil those items"
@@ -1391,7 +1405,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from Items 2-4 not already used to fulfil those items."
@@ -1522,7 +1536,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
@@ -1807,7 +1821,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
@@ -2086,7 +2100,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from Items 3-4 not already used to fulfil those items."
@@ -2401,7 +2415,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from Items 3-4 not already used to fulfil those items."
@@ -3256,7 +3270,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
@@ -3294,12 +3308,12 @@
           "description": "Crime and State in History"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "LAWS 3308"
           ],
-          "credits": 0.5,
-          "description": "Punishment and the Law"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3310,20 +3324,13 @@
           "description": "Criminal Justice Reform"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4308"
-          ],
-          "credits": 0.5,
-          "description": "Sentencing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4308",
             "LAWS 4504"
           ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3603,7 +3610,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
@@ -3641,12 +3648,12 @@
           "description": "Crime and State in History"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "LAWS 3308"
           ],
-          "credits": 0.5,
-          "description": "Punishment and the Law"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3657,20 +3664,13 @@
           "description": "Criminal Justice Reform"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4308"
-          ],
-          "credits": 0.5,
-          "description": "Sentencing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4308",
             "LAWS 4504"
           ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4089,12 +4089,12 @@
           "description": "Social Justice and Human Rights"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "HRSJ 2001"
           ],
-          "credits": 0.5,
-          "description": "Human Rights: Theories and Foundations"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -4111,7 +4111,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "d. 0.5 credit from: Third Year Core Courses"
@@ -4459,7 +4459,7 @@
           "description": "Advanced Special Topics in Legal Studies (topic in Global Law and Social Justice)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "f. 1.0 credit from: Core Honours Seminars and Honours Research Essay"
@@ -4638,7 +4638,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"

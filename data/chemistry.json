@@ -296,9 +296,7 @@
       "credit": "0.5",
       "description": "Continued mechanistic survey of additional organic reactions with emphasis on synthetic usefulness and stereochemistry. Interspersed with selected topics such as instrumental methods, photochemistry, literature of organic chemistry, natural and synthetic polymers, heterocycles, terpenes and alkaloids.",
       "prerequisites": "CHEM 2204 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -358,9 +356,7 @@
       "credit": "0.5",
       "description": "Physical properties of coordination complexes, ligand substitutions and electron transfer reaction mechanisms, organometallic chemistry: bonding, nomenclature and catalysis. Laboratory will introduce the student to a range of synthetic techniques and physical methods of characterization.",
       "prerequisites": "CHEM 3503 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -382,9 +378,7 @@
       "credit": "0.5",
       "description": "Physical properties of coordination complexes, ligand substitutions and electron transfer reaction mechanisms, organometallic chemistry: bonding, nomenclature and catalysis.",
       "prerequisites": "CHEM 3503 or CHEM 3507 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -394,9 +388,7 @@
       "credit": "0.5",
       "description": "Nanoscale units, bulk vs. nanoproperties, electrons, atoms and ions, metals, band structure, electrical conduction, biosystems, molecular devices, quantum mechanics and optics, tools for measuring nanostructures. Production of nanostructures: self assembly, nanoscale crystal growth, polymerization. Applications to sensors, magnets, electronics, drug delivery. Toxicology of  nanostructures.",
       "prerequisites": "CHEM 2104 or CHEM 3100.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -470,7 +462,9 @@
       "credit": "0.5",
       "description": "Surface structure, thermodynamics and kinetics, specifically regarding  adsorption/desorption and  high vacuum models. Nanoscale structures and their formation, reactivity and characterization. Thin films, carbon nanotubes, self-assembled monolayers and supramolecular aggregates.",
       "prerequisites": "CHEM 3600 and CHEM 3107 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -582,7 +576,9 @@
       "credit": "0.5",
       "description": "Detailed breakdown of the physical, electrical and chemical operation of mass spectrometers. Applications in MS ranging from the analysis of small molecules to large biological macromolecules. Descriptions of the use of mass spectrometry in industry as well as commercial opportunities in the field.",
       "prerequisites": "CHEM 2103 or BIOC 2300 , and one of CHEM 2302 or CHEM 2303 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -636,7 +632,9 @@
       "credit": "0.5",
       "description": "A study of nuclear stability and decay; chemical studies of nuclear phenomena. Applications of radioactivity.",
       "prerequisites": "CHEM 2302 , CHEM 2303 , and CHEM 3100, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -686,9 +684,7 @@
       "credit": "0.5",
       "description": "Properties of natural atmospheric constituents; biogeochemical cycles involving gases; chemical reactions in the atmosphere; anthropogenic atmospheric pollutants (e.g., chlorofluorocarbons, sulphur and nitrogen oxides, photochemical smog sources and effects on the biosphere. Relation between the structure of molecules and their spectral and reactive properties.",
       "prerequisites": "CHEM 2103 or CHEM 2800 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -952,12 +948,12 @@
           "description": "Research Project and Seminar"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 4907"
           ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1030,12 +1026,12 @@
           "description": "Differential Equations and Infinite Series for Engineering or Physics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2007"
           ],
-          "credits": 0.5,
-          "description": "Elementary Calculus II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1245,12 +1241,12 @@
           "description": "Research Project and Seminar"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 4907"
           ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1331,12 +1327,12 @@
           "description": "Differential Equations and Infinite Series for Engineering or Physics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2007"
           ],
-          "credits": 0.5,
-          "description": "Elementary Calculus II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1564,12 +1560,12 @@
           "description": "Research Project and Seminar"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 4907"
           ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1634,12 +1630,12 @@
           "description": "Differential Equations and Infinite Series for Engineering or Physics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2007"
           ],
-          "credits": 0.5,
-          "description": "Elementary Calculus II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1847,12 +1843,12 @@
           "description": "Differential Equations and Infinite Series for Engineering or Physics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2007"
           ],
-          "credits": 0.5,
-          "description": "Elementary Calculus II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

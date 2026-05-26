@@ -20,7 +20,9 @@
       "credit": "0.5",
       "description": "Angles and the unit circle, radian measure. Definitions of trigonometric functions. Fundamental relations, Law of Sines and Cosines. Analytic trigonometry, graphs, inverse functions. Trigonometric identities and equations. Applications in science and engineering. Complex numbers in polar form, de Moivre's Theorem, n-th roots of complex numbers.",
       "prerequisites": "Grade 11 Functions (University/College Preparation), or MATH 0005 , or equivalent.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -196,7 +198,9 @@
       "credit": "0.5",
       "description": "Functions of several variables, limits, continuity, partial derivatives and the derivative, higher order partial derivatives, maxima and minima, Lagrange multipliers. Inverse and implicit function theorems, Riemann integral in several variables, change of coordinates.",
       "prerequisites": "i) MATH 2052 with a grade of C+ or higher, or ( MATH 2007 or MATH 1005 with a grade of B+ or higher and permission of the School); and ii) MATH 2152 with a grade of C+ or higher, or MATH 1107 or MATH 1104 with a grade of B+ or higher; and iii) MATH 1800 with a grade of C+ or higher; or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -206,7 +210,9 @@
       "credit": "0.5",
       "description": "Vector fields, parametric curves and surfaces, line integrals and Green's theorem, surface integrals, Stokes' theorem and divergence theorem. Real number axioms, limit superior and inferior, completeness. Topology of n-dimensional Euclidean space. Sequences, subsequences, compactness.",
       "prerequisites": "MATH 2001 with a grade of C- or higher; or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -395,7 +401,9 @@
       "credit": "0.5",
       "description": "Review of multivariable differentiation and integration.  Vector fields, differential forms and exterior algebra.  Introduction to manifolds and tangent bundles. Stokes\u2019 Theorem. Applications such as differential equations and the calculus of variations.",
       "prerequisites": "MATH 3001 with a grade of C- or higher, or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -475,7 +483,9 @@
       "credit": "0.5",
       "description": "Similarity and unitary triangularization of matrices. Direct methods of solving a system of linear equations. Iterative techniques. Bounds for eigenvalues. Power method and deflation techniques of approximation. Emphasis is primarily on computational aspects.",
       "prerequisites": "i) a grade of C- or higher in MATH 2152 or MATH 2107 ; and ii) credit in MATH 2052 or MATH 2007 ; or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -537,9 +547,7 @@
       "credit": "0.5",
       "description": "Congruences, distribution of primes, arithmetic functions, primitive roots, quadratic residues, quadratic reciprocity law, continued fractions, Diophantine equations, and applications:  public key cryptography, primality testing and factoring in relation to cryptography.",
       "prerequisites": "MATH 2100 with a grade of C- or higher; or ( MATH 2108 or MATH 3101 with a grade of B- or higher;  and permission of the instructor); or permission of the School.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -559,7 +567,9 @@
       "credit": "0.5",
       "description": "Introduction to techniques for construction, interpretation and validation of mathematical models. Continuous and discrete, deterministic and probabilistic models arising in a range of physical, natural and other practical application settings. Analytic techniques including variational principles, dimensional analysis, scaling, self-similarity, and model reduction.",
       "prerequisites": "MATH 2404 or MATH 2454 , MATH 2000 or MATH 2004 or MATH 2008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -606,7 +616,9 @@
       "credit": "0.5",
       "description": "Network flow problems, network simplex method, max-flow min-cut problem, integral polyhedra, minimum-weight spanning tree problem, maximum matching problem, maximum stable set problem, introduction to approximation algorithms.",
       "prerequisites": "MATH  3801 or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -651,7 +663,9 @@
       "credit": "0.5",
       "description": "This course covers mathematics used in the modern casino gaming industry. The topics include probabilities, odds, house advantages, variance and risks, optimal strategies, random walks and gambler's ruin, and gaming revenue estimation. Examples are taken from various games such as Roulette, Blackjack, and Poker.",
       "prerequisites": "one of STAT 2655 , STAT 2605 , STAT 2507 , STAT 2606, STAT 3502 , or MATH 3825 or MATH 3855 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -737,9 +751,7 @@
       "credit": "0.5",
       "description": "Banach spaces and bounded linear operators, Hahn-Banach extension and separation, dual spaces, bounded inverse theorems, uniform boundedness principle, applications. Compact operators.",
       "prerequisites": "MATH 4007 or permission of the School.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -749,7 +761,9 @@
       "credit": "0.5",
       "description": "Lebesgue measure and integration on the real line; sigma algebras and measures; integration theory; Lp spaces; Fubini's theorem; decomposition theorems and Radon-Nikodym derivatives.",
       "prerequisites": "MATH 3001 or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -779,7 +793,9 @@
       "credit": "0.5",
       "description": "Fundamental principles as applied to abelian, nilpotent, solvable, free and finite groups; representations.",
       "prerequisites": "MATH 3106 or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -809,9 +825,7 @@
       "credit": "0.5",
       "description": "Introduction to field theory, emphasizing the structure of finite fields, primitive elements and irreducible polynomials. The influence of computational problems will be considered. Theory and applications of error-correcting codes: algebraic codes, convolution codes, decoding algorithms, and analysis of code performance.",
       "prerequisites": "MATH 2100 , or MATH 3101 or MATH 2108 or equivalent; or permission of the School.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -821,9 +835,7 @@
       "credit": "0.5",
       "description": "Topological spaces, maps, subspaces, product and identification topologies, separation axioms, compactness, connectedness.",
       "prerequisites": "MATH 3001 or permission of the School.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -833,7 +845,9 @@
       "credit": "0.5",
       "description": "An introduction to homotopy theory. Topics include the fundamental group, covering spaces and the classification of two-dimensional manifolds.",
       "prerequisites": "MATH 3106 and MATH 4205 ; or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -933,7 +947,9 @@
       "credit": "0.5",
       "description": "Asymptotic series: properties, matching, application to differential equations. Asymptotic expansion of integrals:  elementary methods, methods of Laplace, stationary phase and steepest descent, Watson\u2019s lemma, Riemann-Lebesgue lemma. Perturbation methods: regular and singular perturbation for differential equations, multiple scale analysis, boundary layer theory, WKB theory.",
       "prerequisites": "( MATH 3057 or MATH 3007 ) and ( MATH 2454 or MATH 3705 ), or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -943,9 +959,7 @@
       "credit": "0.5",
       "description": "An in-depth study of one or more topics from: generating functions, Polya's theory of counting, block designs, coding theory, partially ordered sets and Ramsey theory.",
       "prerequisites": "MATH 2100 and MATH 3855 or permission of the School.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -955,7 +969,9 @@
       "credit": "0.5",
       "description": "Symbolic logic, propositional and predicate calculi, set theory and model theory, completeness.",
       "prerequisites": "MATH 2100 or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -987,7 +1003,9 @@
       "credit": "0.5",
       "description": "Computational methods in numerical linear algebra including solvers for large linear systems, numerical optimization and eigenvalue problems. Application to topics such as scientific machine learning or parallel computing. Focus on implementation in an efficient compiled language and standard numerical libraries.",
       "prerequisites": "i) MATH 3806 ; and ii) MATH 2152 or MATH 2107 with a grade of C- or higher, or permission of the school.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -997,7 +1015,9 @@
       "credit": "0.5",
       "description": "One-player games, two-player zero-sum games, multi-player games, games in normal form, games in extensive form, utility theory, Nash equilibrium and Nash arbitration scheme, games in characteristic function form, cooperative solutions, dominations, stable sets, core, Shapley value, applications of game theory.",
       "prerequisites": "MATH 3801 or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1017,9 +1037,7 @@
       "credit": "0.5",
       "description": "Topics covered include: a general survey of public key cryptography; classical applications of finite fields and number theory; relevant background in geometry and algebraic curves; computational issues concerning elliptic curves; elliptic curve cryptosystems; security issues.",
       "prerequisites": "MATH 3158 , or permission of the School.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1039,9 +1057,7 @@
       "credit": "0.5",
       "description": "Floating point arithmetic; numerical solution of ODEs; finite difference methods for PDEs; stability, accuracy and convergence:  von Neumann analysis, CFL condition, Lax Theorem.  Finite element methods:  boundary value problems and elliptic PDEs.  Spectral and pseudo-spectral methods.",
       "prerequisites": "MATH 2454 and MATH 3806 , or permission of the School.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1051,7 +1067,9 @@
       "credit": "0.5",
       "description": "Space of quantum bits; entanglement. Observables in quantum mechanics. Density matrix and Schmidt decomposition. Quantum cryptography. Classical and quantum logic gates. Quantum Fourier transform. Shor's quantum algorithm for factorization of integers.",
       "prerequisites": "MATH 2152 (or MATH 2107 ) with a grade of C+ or better, and permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1108,7 +1126,9 @@
       "credit": "0.5",
       "description": "Theoretical foundations to data science using open source software. Empirical distribution functions, point estimation, interval estimation, tests of hypotheses, maximum likelihood and method of moments. Formal tools are developed, and concepts are demonstrated using simulation. Abstract concepts are made concrete through visualization and numerical computation.",
       "prerequisites": "MATH 2007 (or MATH 1005 or MATH 2052 ); and DATA 2500 ; and DATA 1519 (or STAT 2509 or STAT 2559 ).",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1358,7 +1378,9 @@
       "credit": "0.5",
       "description": "Introduction to life insurance; traditional and modern insurance contracts; underwriting; premiums; present value random variable; force of mortality; life tables; insurance benefits; annuities; premium calculation, reserves.",
       "prerequisites": "STAT 2660 and STAT 3660 , or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1455,7 +1477,7 @@
       "description": "An extension of the designs discussed in to include analysis of the completely randomized design, designs with more than one blocking variable, incomplete block designs, fractional factorial designs, multiple comparisons; and response surface methods.",
       "prerequisites": "STAT 3553 or STAT 3503 ; or permission of the School of Mathematics and Statistics.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1466,7 +1488,9 @@
       "credit": "0.5",
       "description": "Classical nonparametric techniques; nonparametric density estimation; nonparametric regression analysis: kernel estimators, orthogonal series estimators, smoothing splines; estimation of statistical functionals; nonparametric bootstrap; jackknife; elements of high dimensional statistical inference; multiple testing and false discovery. Statistical software will be used.",
       "prerequisites": "STAT 3559 or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1476,9 +1500,7 @@
       "credit": "0.5",
       "description": "Sufficient statistics, simple and composite hypotheses, most powerful and similar region test, distribution-free tests, confidence intervals, goodness-of-fit and likelihood ratio tests, large sample theory, Bayesian and likelihood methods, sequential tests.",
       "prerequisites": "STAT 4500 or permission of the School.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1521,7 +1543,7 @@
       "description": "Data visualization; knowledge discovery in datasets; unsupervised learning: clustering algorithms; dimension reduction; supervised learning: pattern recognition, smoothing techniques, classification. Computer software will be used.",
       "prerequisites": "STAT 3553 or STAT 3503 or MATH 3806 , or permission of the School.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1545,7 +1567,7 @@
       "description": "Statistical computing techniques, pseudo-random number generation, tests for randomness, numerical algorithms in statistics; optimization techniques; environments for data analysis, efficient programming techniques; statistics with mainstream software.",
       "prerequisites": "STAT 3553 or STAT 3503 or permission of the School.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1566,9 +1588,7 @@
       "credit": "0.5",
       "description": "Empirical models, complete data, grouped data, credibility theory, failure time, accuracy, kernel estimation, goodness of fit tests, Bayesian analysis, inference for loss models, frequentist estimation, model selection.",
       "prerequisites": "STAT 3660 with C+ or higher, or permission of the school.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1578,7 +1598,9 @@
       "credit": "0.5",
       "description": "Policy values; multiple state models; formulae for probability; Markov multiple state models; pension mathematics; yield curves; interest rate risk; emerging costs for life insurance; equity linked insurance; deterministic and stochastic pricing; reserving, participating, and universal life insurance.",
       "prerequisites": "STAT 3661 with a grade of C+ or higher; or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1601,9 +1623,7 @@
       "credit": "0.5",
       "description": "",
       "prerequisites": "B.Math.(Honours) students only.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     }
@@ -1897,7 +1917,7 @@
           "description": "Ordinary Differential Equations (Honours)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from 3000-level Honours Sequence"
@@ -2758,7 +2778,7 @@
           "description": "or Mathematics or Statistics at the 4000-level or higher"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from the 3000-level Honours Sequence or MATH or STAT at the 4000-level or higher"
@@ -3186,20 +3206,13 @@
           "description": "Elementary Calculus I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1004"
-          ],
-          "credits": 0.5,
-          "description": "Calculus for Engineering or Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1004",
             "MATH 1052"
           ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3216,20 +3229,13 @@
           "description": "Elementary Calculus II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1005"
-          ],
-          "credits": 0.5,
-          "description": "Differential Equations and Infinite Series for Engineering or Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1005",
             "MATH 2052"
           ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3240,20 +3246,13 @@
           "description": "Linear Algebra I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1104"
-          ],
-          "credits": 0.5,
-          "description": "Linear Algebra for Engineering or Science"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1104",
             "MATH 1152"
           ],
-          "credits": 0.5,
-          "description": "Introductory Algebra I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3270,12 +3269,12 @@
           "description": "Linear Algebra II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2152"
           ],
-          "credits": 0.5,
-          "description": "Introductory Algebra II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3379,20 +3378,13 @@
           "description": "Elementary Calculus I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1004"
-          ],
-          "credits": 0.5,
-          "description": "Calculus for Engineering or Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1004",
             "MATH 1052"
           ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3409,20 +3401,13 @@
           "description": "Elementary Calculus II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1005"
-          ],
-          "credits": 0.5,
-          "description": "Differential Equations and Infinite Series for Engineering or Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1005",
             "MATH 2052"
           ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3433,20 +3418,13 @@
           "description": "Linear Algebra I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1104"
-          ],
-          "credits": 0.5,
-          "description": "Linear Algebra for Engineering or Science"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1104",
             "MATH 1152"
           ],
-          "credits": 0.5,
-          "description": "Introductory Algebra I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3463,12 +3441,12 @@
           "description": "Linear Algebra II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2152"
           ],
-          "credits": 0.5,
-          "description": "Introductory Algebra II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3666,20 +3644,13 @@
           "description": "Elementary Calculus I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1004"
-          ],
-          "credits": 0.5,
-          "description": "Calculus for Engineering or Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1004",
             "MATH 1052"
           ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3696,20 +3667,13 @@
           "description": "Elementary Calculus II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1005"
-          ],
-          "credits": 0.5,
-          "description": "Differential Equations and Infinite Series for Engineering or Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1005",
             "MATH 2052"
           ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3720,20 +3684,13 @@
           "description": "Linear Algebra I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1104"
-          ],
-          "credits": 0.5,
-          "description": "Linear Algebra for Engineering or Science"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1104",
             "MATH 1152"
           ],
-          "credits": 0.5,
-          "description": "Introductory Algebra I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3750,12 +3707,12 @@
           "description": "Linear Algebra II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2152"
           ],
-          "credits": 0.5,
-          "description": "Introductory Algebra II"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -5610,7 +5567,7 @@
           "description": "Ordinary Differential Equations (Honours)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from 3000-level Honours Sequence or MATH or STAT at the 4000-level or higher"
@@ -6033,12 +5990,12 @@
           "description": "Linear Algebra I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 1104"
           ],
-          "credits": 0.5,
-          "description": "Linear Algebra for Engineering or Science"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

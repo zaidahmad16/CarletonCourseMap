@@ -152,7 +152,9 @@
       "credit": "0.5",
       "description": "The organizational aspects of consultancies and client responsibilities within the framework of corporate management.  Topics include: the form of contracts for consultancy, determination of fees, legal implications, patents and copyrights.  Guest lecturers.",
       "prerequisites": "IDES 2302 or permission of the School of Industrial Design.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -162,7 +164,9 @@
       "credit": "0.5",
       "description": "Exhibition design is explored through lectures, case studies, field trips and guest lectures. Students participate in exercises and apply design skills to a variety of exhibition design realms. Introduces students to the potential of the built environment for exploring a range of diverse exhibit applications.",
       "prerequisites": "IDES 2302 or permission of the School of Industrial Design.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -172,9 +176,7 @@
       "credit": "0.5",
       "description": "Examination of complex product geometry utilizing 3D computer applications. Topics include spline, surface and solids construction, surface verification tools, and rendering tools and techniques. Workflow, robust design, reverse design techniques and 3D printing will be explored through exercises.",
       "prerequisites": "IDES 2105 . Third or Fourth Year standing or permission of the School of Industrial Design.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -208,7 +210,9 @@
       "credit": "0.5",
       "description": "Special Industrial Design Studies deal with specific projects, which may differ from year to year depending on the availability of specialists in a particular field or study opportunities as they present themselves.",
       "prerequisites": "IDES 2302 and Third or Fourth Year standing or permission of the School of Industrial Design.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -286,9 +290,7 @@
       "credit": "0.5",
       "description": "Advanced manufacturing concepts and workflows are examined through a series of workshops and minor projects utilizing state-of-the-art equipment.",
       "prerequisites": "IDES 2101 and IDES 2102 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -310,7 +312,10 @@
       "credit": "0.5",
       "description": "Like the third-year Special Industrial Design Studies, those of fourth year deal with specific projects, which may differ each year depending on the availability of specialists among the faculty of the School of Industrial Design or on particular opportunities as they present themselves.",
       "prerequisites": "IDES 3302 or permission of the School of Industrial Design.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -320,7 +325,10 @@
       "credit": "0.5",
       "description": "Like the third-year Special Industrial Design Studies, those of fourth year deal with specific projects, which may differ each year depending on the availability of specialists among the faculty of the School of Industrial Design or on particular opportunities as they present themselves.",
       "prerequisites": "IDES 3302 or permission of the School of Industrial Design.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

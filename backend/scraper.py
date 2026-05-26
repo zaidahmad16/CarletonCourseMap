@@ -220,6 +220,13 @@ def scrape_program(name, url):
     return {"name": name, "url": url, "courses": courses, "free_electives": free_electives, "programs": programs}
 
 
+_CHOOSE_HEADER_RE = re.compile(
+    r'choose|select|one of|from the following|complete\s+\d|credits?\s+from|at least\s+\d',
+    re.IGNORECASE,
+)
+_HEADER_CREDITS_RE = re.compile(r'(\d+\.?\d*)\s+credit', re.IGNORECASE)
+
+
 def _parse_sc_courselist(table):
     """Parse a single sc_courselist table into a list of requirement dicts."""
     COURSE_RE = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
@@ -228,6 +235,24 @@ def _parse_sc_courselist(table):
 
     requirements = []
     current_type = "required"
+    current_header_text = ""
+    current_header_credits = None
+
+    # buffer for accumulating courses within a choose block
+    choose_buffer = []
+    choose_credits = None
+    choose_desc = ""
+
+    def flush_choose():
+        """Emit a single choose requirement from the buffer and reset it."""
+        if choose_buffer:
+            requirements.append({
+                "type": "choose",
+                "courses": list(choose_buffer),
+                "credits": choose_credits,
+                "description": choose_desc,
+            })
+        choose_buffer.clear()
 
     for row in table.find_all("tr"):
         classes = set(row.get("class") or [])
@@ -239,12 +264,21 @@ def _parse_sc_courselist(table):
         if not tds:
             continue
 
-        # Section header — update type context for subsequent rows
+        # Section header row — flush any open choose block and set new context
         if "areaheader" in classes:
-            text = row.get_text(" ", strip=True).replace("\xa0", " ").lower()
-            if re.search(r"choose|select|one of", text):
+            flush_choose()
+            text = row.get_text(" ", strip=True).replace("\xa0", " ")
+            current_header_text = text
+            lower = text.lower()
+
+            m = _HEADER_CREDITS_RE.search(text)
+            current_header_credits = float(m.group(1)) if m else None
+
+            if _CHOOSE_HEADER_RE.search(lower):
                 current_type = "choose"
-            elif "elective" in text:
+                choose_credits = current_header_credits
+                choose_desc = NUMBERED_PREFIX_RE.sub("", text).strip()
+            elif "elective" in lower:
                 current_type = "elective"
             else:
                 current_type = "required"
@@ -260,11 +294,9 @@ def _parse_sc_courselist(table):
         code_td = row.select_one("td.codecol")
 
         if code_td:
-            # Specific course row
             code_text = code_td.get_text(" ", strip=True).replace("\xa0", " ")
             courses = COURSE_RE.findall(code_text)
 
-            # Course name is in the td that is neither codecol nor hourscol
             name_td = next(
                 (td for td in tds
                  if "codecol" not in (td.get("class") or [])
@@ -273,7 +305,6 @@ def _parse_sc_courselist(table):
             )
             description = name_td.get_text(" ", strip=True).replace("\xa0", " ") if name_td else ""
 
-            # Credit is bracketed in the code column, e.g. "COMP 1405 [0.5]"
             m = CREDIT_BRACKET_RE.search(code_text)
             if m:
                 try:
@@ -284,14 +315,22 @@ def _parse_sc_courselist(table):
             if not courses:
                 continue
 
-            requirements.append({
-                "type": current_type,
-                "courses": courses,
-                "credits": credits,
-                "description": description,
-            })
+            # orclass rows are always "or" alternatives — treat as choose
+            row_type = current_type
+            if "orclass" in classes:
+                row_type = "choose"
+
+            if row_type == "choose":
+                choose_buffer.extend(courses)
+            else:
+                flush_choose()
+                requirements.append({
+                    "type": row_type,
+                    "courses": courses,
+                    "credits": credits,
+                    "description": description,
+                })
         else:
-            # Sub-requirement row — no specific course code
             desc_td = next(
                 (td for td in tds if "hourscol" not in (td.get("class") or [])),
                 tds[0],
@@ -301,23 +340,19 @@ def _parse_sc_courselist(table):
             if not text.strip():
                 continue
 
-            # Group-header rows like "1.  6.5 credits in:" — skip, they just label a block
             if re.search(r":\s*$", text.strip()):
                 continue
 
-            # Determine type from text when not already in a choose/elective section
             lower = text.lower()
             if "elective" in lower:
                 row_type = "elective"
-            elif re.search(r"\bchoose\b|\bselect\b", lower):
+            elif re.search(r"\bchoose\b|\bselect\b", lower) or _CHOOSE_HEADER_RE.search(lower):
                 row_type = "choose"
             elif current_type != "required":
                 row_type = current_type
             else:
-                # Vague credit requirements (e.g. "2.0 credits in COMP at the 4000-level")
                 row_type = "elective"
 
-            # Credits may be embedded in text when hourscol is empty
             if credits is None:
                 m = re.search(r'\b(\d+\.?\d*)\s+credit', lower)
                 if m:
@@ -329,13 +364,18 @@ def _parse_sc_courselist(table):
             courses = COURSE_RE.findall(text)
             clean_text = NUMBERED_PREFIX_RE.sub("", text).strip()
 
-            requirements.append({
-                "type": row_type,
-                "courses": courses,
-                "credits": credits,
-                "description": clean_text,
-            })
+            if row_type == "choose" and courses:
+                choose_buffer.extend(courses)
+            else:
+                flush_choose()
+                requirements.append({
+                    "type": row_type,
+                    "courses": courses,
+                    "credits": credits,
+                    "description": clean_text,
+                })
 
+    flush_choose()
     return requirements
 
 

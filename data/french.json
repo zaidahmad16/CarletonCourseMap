@@ -213,8 +213,7 @@
       "description": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise: principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
       "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": [
@@ -229,7 +228,6 @@
       "description": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise au Qu\u00e9bec et au Canada: principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
       "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -260,7 +258,9 @@
       "credit": "0.5",
       "description": "Travaux pratiques pour d\u00e9velopper l\u2019aisance et la fluidit\u00e9 dans l\u2019expression orale. This course is not suitable for francophones or students returning from exchange. No auditors.",
       "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -271,7 +271,7 @@
       "description": "Initiation aux techniques et pratiques de la r\u00e9flexion universitaire : documentation (biblioth\u00e8que, bases de donn\u00e9es, bibliographies critiques), lecture (analyse, synth\u00e8se  et \u00e9valuation critique de textes de savoir) et r\u00e9flexion (cadre th\u00e9orique, m\u00e9thode d'analyse, pratique du discours raisonn\u00e9).",
       "prerequisites": "FREN 2202 , FREN 2203 and FREN 2401 , or permission of the Department.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -283,7 +283,7 @@
       "description": "Analyse et pratique r\u00e9fl\u00e9chie des formes de la grammaire dans le discours: Structures des phrases, marques d\u2019accord, concordance des temps, pr\u00e9positions et compl\u00e9ments, homonymie et homographie, faux amis et anglicismes. D\u00e9veloppement des techniques efficaces d\u2019autocorrection et ma\u00eetrise d\u2019outils informatis\u00e9s.",
       "prerequisites": "FREN 2202 and FREN 2203 or FREN 2401 , or permission of the Department.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -334,9 +334,7 @@
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019une probl\u00e9matique dans le champ des \u00e9tudes litt\u00e9raires. Lectures critiques, r\u00e9flexion th\u00e9orique et \u00e9tudes d\u2019\u0153uvres litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -346,7 +344,9 @@
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019un(e) auteur(e) ou groupe d\u2019auteur(e)s et de leur \u0153uvre. Lectures critiques, th\u00e9oriques et litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -356,9 +356,7 @@
       "credit": "0.5",
       "description": "\u00c9tude approfondie d\u2019un genre ou mouvement litt\u00e9raire. Conditions d'\u00e9mergence (contextes: historique, social, artistique, etc). Textes th\u00e9oriques et manifestes. Principaux repr\u00e9sentants. Influence (continuations, ruptures). Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -408,7 +406,9 @@
       "credit": "0.5",
       "description": "\u00c9tude de la forme des unit\u00e9s lexicales et grammaticales du fran\u00e7ais et de leur port\u00e9e signifiante. Analyse du syst\u00e8me flexionnel du fran\u00e7ais et des m\u00e9canismes de formation des mots.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -428,9 +428,7 @@
       "credit": "0.5",
       "description": "Le fran\u00e7ais, une r\u00e9alit\u00e9 h\u00e9t\u00e9rog\u00e8ne. Approche variationniste, qualitative et quantitative, de l'\u00e9tude du fran\u00e7ais dans ses dimensions dialectales, sociales et stylistiques. Variations intra-individuelles et entre individus. Facteurs externes de la variation interne du fran\u00e7ais. Diversit\u00e9s du fran\u00e7ais.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -440,9 +438,7 @@
       "credit": "0.5",
       "description": "\u00c9volution interne de l'histoire du fran\u00e7ais et de ses influences externes. De sa naissance, pr\u00e9sum\u00e9e et r\u00e9elle, \u00e0 ses \u00e9tats actuels. Les langues contributrices. Contacts linguistiques. Dynamiques du changement linguistique. V\u00e9hicularisation et vernacularisation. Id\u00e9ologies de la langue fran\u00e7aise.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -452,7 +448,9 @@
       "credit": "0.5",
       "description": "Pr\u00e9sentation des vari\u00e9t\u00e9s de fran\u00e7ais parl\u00e9 dans le monde, principalement \u00e0 l\u2019ext\u00e9rieur du Canada. \u00c9tude des aspects historiques et sociopolitiques de la diffusion du fran\u00e7ais. Analyse des traits linguistiques propres aux vari\u00e9t\u00e9s. Colonisation, cr\u00e9olisation, emprunt linguistique, variation r\u00e9gionale, am\u00e9nagement linguistique.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -472,9 +470,7 @@
       "credit": "0.5",
       "description": "\u00c9tude d\u2019un th\u00e8me particulier en linguistique fran\u00e7aise. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -496,9 +492,7 @@
       "credit": "0.5",
       "description": "Techniques avanc\u00e9es d'expression orale. This course is not suitable for francophones. This course is suitable for students returning from exchange. No auditors.",
       "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -508,7 +502,9 @@
       "credit": "0.5",
       "description": "Techniques avanc\u00e9es d'expression \u00e9crite. No auditors.",
       "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -518,7 +514,9 @@
       "credit": "0.5",
       "description": "Initiation aux \u00e9tudes des programmes au Canada et ailleurs. Processus d'acquisition des habilet\u00e9s d'expression et de compr\u00e9hension. Survol des th\u00e9ories pass\u00e9es et actuelles. Appr\u00e9ciation et critique de pratiques p\u00e9dagogiques.",
       "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -551,7 +549,7 @@
       "description": "Analyse de probl\u00e9matiques li\u00e9es \u00e0 la francophonie litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -572,9 +570,7 @@
       "credit": "0.5",
       "description": "\u00c9tude approfondie d'un th\u00e8me, d'un mouvement, d'un genre dans le champ litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -614,7 +610,9 @@
       "credit": "0.5",
       "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -644,9 +642,7 @@
       "credit": "0.5",
       "description": "\u00c9tude des variations internes de la langue, dans ses dimensions orales et \u00e9crites. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1111,12 +1107,12 @@
           "description": "French 3"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FREN 1110"
           ],
-          "credits": 1.0,
-          "description": "French 3: Writing"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1127,12 +1123,12 @@
           "description": "French 4"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FREN 2110"
           ],
-          "credits": 1.0,
-          "description": "French 4: Writing"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1144,12 +1140,12 @@
           "description": "Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres fran\u00e7aises et francophones Introduction aux \u00e9tudes litt\u00e9raires: \u0153uvres qu\u00e9b\u00e9coises et canadiennes"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FREN 2401"
           ],
-          "credits": 1.0,
-          "description": "Introduction \u00e0 la linguistique fran\u00e7aise"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",

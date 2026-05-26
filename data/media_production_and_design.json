@@ -81,8 +81,7 @@
       "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching.",
       "prerequisites": "ITEC 1400 .",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -142,7 +141,7 @@
       "description": "This course covers the essentials of Visual FX and compositing, topics include camera setups (motion control systems), set issues, match-moving, image-based lighting, chroma-keying and object extraction, colour correction, 2D tracking, and rotoscoping.",
       "prerequisites": "IMD 3002 or equivalent.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -232,7 +231,7 @@
       "description": "This course covers the basics of being a director in a digital storytelling environment, including the basics of direction, dealing with actors, following scripts, and dealing with elements of cinematography; including lighting, cameras, shade, and shadow.",
       "prerequisites": "Third-year standing in any degree program.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -255,9 +254,7 @@
       "credit": "0.5",
       "description": "Advanced quantitative methods and conducting controlled user studies, statistically analyzing and reporting results in a research paper. Topics include history of empirical HCI, experiment design, hypothesis testing, interaction models, and scientific writing. Students complete a term-long research project.",
       "prerequisites": "IMD 3004 or 4th year standing in the BMPD program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -339,7 +336,9 @@
       "credit": "0.5",
       "description": "Survey of Canadian laws and ethical issues that affect production and dissemination of digital media, including Charter of Rights and Freedoms, limitations on freedom of the press, including publication bans, libel and contempt of court. Different approaches to ethical decision-making and their applications.",
       "prerequisites": "JOUR 1001 , JOUR 1002 , COMS 1001 , COMS 1002 , or enrollment in the Bachelor of Media Production and Design, or enrollment in the  Minor in News Media and Information, or enrollment in the Communications and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -451,7 +450,7 @@
       "description": "Changes in the media, the public\u2019s relationship with the media and how journalists, news organizations and other media players respond. Practical issues and challenges in the professional life of an information producer.",
       "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -486,10 +485,7 @@
       "credit": "0.5",
       "description": "Directed study on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
       "prerequisites": "Third year standing in Media Production and Design or permission from the School of Journalism and Communication.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -723,12 +719,12 @@
           "description": "Capstone Project"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MPAD 4906"
           ],
-          "credits": 1.0,
-          "description": "Capstone Projects: Translational Approach to Indigenous Community Wellness"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

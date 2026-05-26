@@ -177,9 +177,7 @@
       "credit": "0.5",
       "description": "Introduction to Western art music of the Classical and Romantic periods. Major musical genres, compositional practices, and cultural contexts are investigated through examinations of representative works.",
       "prerequisites": "Second-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -212,7 +210,7 @@
       "description": "Introduction to theories and technicalities involved in original creative writing through the preparation of individual assignments; based in the practice of recent music in the Western Classical tradition while allowing for the music of other Western styles and traditions to be addressed.",
       "prerequisites": "MUSI 1701 and MUSI 1711 , or permission of the instructor. MUSI 2601 is recommended.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -223,7 +221,9 @@
       "credit": "0.5",
       "description": "Introduction to the special stylistic features of choral music from the Renaissance to the present as well as to a variety of practical techniques (vocal production, gesture, conducting patterns, diction, etc.).",
       "prerequisites": "second-year standing in the B.Mus. program or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -234,7 +234,7 @@
       "description": "Introduction to music theories and approaches with a focus on knowledge of digital music practices. This course embraces a variety of musical styles and traditions, and introduces students to Digital Audio Workstations, sound synthesis, analytical techniques of sound, and related concepts.",
       "prerequisites": "MUSI 1700 and enrolment in the BMus or BA Music program, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -373,9 +373,7 @@
       "credit": "0.5",
       "description": "Selected aspects of the development of popular musics (primarily in North American and the UK) from their roots in the nineteenth century until the mid-1940s. Among others, areas may include blues, country, ragtime and other early commercial dance musics, Tin Pan Alley, and musical theatre.",
       "prerequisites": "second-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -385,7 +383,9 @@
       "credit": "0.5",
       "description": "History and style of popular musics (primarily in North America and the UK) from the mid-1980s to 2000. Among others, areas may include hip hop, new wave, heavy metal, electronic dance music, country, alternative rock, and R&B.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -395,7 +395,9 @@
       "credit": "0.5",
       "description": "The Baroque era of western art music is considered in the contexts of politics and political structures, technologies, religious thought, aesthetics, compositional practices, identities, social and economic organization, technologies of musical creation and dissemination, and genre.",
       "prerequisites": "third-year standing or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -428,7 +430,8 @@
       "description": "Courses focusing on one selected aspect of music, in the area of musicology, theory or composition. The course offerings change from year to year.",
       "prerequisites": "permission of the instructor.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -475,7 +478,9 @@
       "credit": "0.5",
       "description": "Literature, practice and theory of music therapy. The use of music (improvisation, the voice, and reception) with various populations, including children and adults with special needs, people in long term care, people with neurological disorders, and in palliative care.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -485,7 +490,9 @@
       "credit": "0.5",
       "description": "An examination of key issues in music education theory and practice. Students will develop knowledge, skills, materials, and methodologies for teaching music to students of all ages and abilities in schools, private studios, and community settings.",
       "prerequisites": "third-year standing or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -495,7 +502,9 @@
       "credit": "0.5",
       "description": "Examines the role of music in responding to the environment including climate change activism, communication, and education. Engages with interdisciplinary scholarship from ecomusicology, soundscape ecology, sensory ethnography, and bioacoustics, as well as composition and sound art.",
       "prerequisites": "third-year standing or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -517,9 +526,7 @@
       "credit": "0.5",
       "description": "Designed to enable students to develop abilities in the writing of original music. The study and appreciation of modern and contemporary styles and techniques are encouraged.",
       "prerequisites": "MUSI 2601 , MUSI 2602 , and MUSI 2700 , or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -549,9 +556,7 @@
       "credit": "0.5",
       "description": "Introduction to the practice of conducting Instrumental music from the Classical era to the present as well as to a variety of practical techniques (rehearsal techniques, gesture, conducting patterns, score study, etc.).",
       "prerequisites": "second-year standing in the B.Mus. program or permission of the instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -561,7 +566,9 @@
       "credit": "0.5",
       "description": "Theoretical, practical and technical requirements of audio production in live settings are explored through lectures, demonstrations and workshops. Students develop skills in critical listening, pre-production planning, microphone selection and placement, signal routing, audio processing, monitoring and mixing for live event venues. Prior experience not required.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -591,9 +598,7 @@
       "credit": "0.5",
       "description": "Basic topics in physics and psychoacoustics, with an emphasis on those concepts that are most useful for music performance, analysis, composition, and musicology.",
       "prerequisites": "second-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -613,7 +618,9 @@
       "credit": "0.5",
       "description": "A continuation of the study of aural skills, theory and analysis that focuses on global traditions in musicianship and musical practices.",
       "prerequisites": "MUSI 1700 , MUSI 2710 and MUSI 2711 , or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -733,9 +740,7 @@
       "credit": "0.5",
       "description": "An examination of key issues in the study of jazz including history/historiography, gender, genre, race, politics, identity and performance.",
       "prerequisites": "MUSI 2005 and third-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -745,9 +750,7 @@
       "credit": "0.5",
       "description": "An introduction to current issues in the study of popular music. The course will be organized around a series of case studies.",
       "prerequisites": "third-year standing, and at least one of MUSI 2005 or MUSI 2007 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -787,9 +790,7 @@
       "credit": "0.5",
       "description": "Critical analyses of diversity and multiculturalism narratives in Canada and the ways that settler-colonialism influenced and continues to inform music creation and expression. Various case studies examine the diversity of musics found in Canada and the ways that music facilitates belonging and/or exclusion to community.",
       "prerequisites": "fourth-year standing or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -799,7 +800,9 @@
       "credit": "0.5",
       "description": "This course examines contemporary issues and priorities for First Peoples, including political activism, language and cultural maintenance and revitalization, environmental justice and the land, reconciliation, and decolonization.",
       "prerequisites": "fourth-year standing or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -809,7 +812,9 @@
       "credit": "0.5",
       "description": "An examination of issues related to the study of African musics, including colonialism, ownership and copyright, politics and protest, social change, and globalization.",
       "prerequisites": "third-year standing, or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -819,7 +824,9 @@
       "credit": "0.5",
       "description": "A detailed investigation into aesthetic, historical, social, technological, aesthetic, and industrial issues in popular music through the lens of twelve culturally significant songs and recordings from the 20th and 21st centuries.",
       "prerequisites": "fourth-year standing or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -889,7 +896,9 @@
       "credit": "0.5",
       "description": "An examination of the varied roles that music can play in fostering community and as an agent of positive social change. How can our work as composers, musicians, scholars, educators, and students participate in the transformation of unjust social relations and unequal distributions of power?.",
       "prerequisites": "fourth-year standing or permission of the Program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -949,9 +958,7 @@
       "credit": "0.5",
       "description": "The art of arranging for small and large jazz ensembles is introduced through analysis of recordings by artists such as Duke Ellington, Fletcher Henderson, Count Basie, Rob McConnell, and Maria Schneider. Topics may include 2-, 3-, and 4-voice writing in a jazz idiom.",
       "prerequisites": "MUSI 3701 or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

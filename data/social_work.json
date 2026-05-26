@@ -213,7 +213,9 @@
       "credit": "0.5",
       "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
       "prerequisites": "LAWS 2201 and LAWS 2202 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -283,9 +285,7 @@
       "credit": "0.5",
       "description": "History of immigration policies in Canada; direct practice with immigrants and refugees; diaspora, settlement and integration issues; immigrants and refugee women; intergenerational family relations; resources and community organizing.",
       "prerequisites": "third-year standing or permission of the School of Social Work.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -295,9 +295,7 @@
       "credit": "0.5",
       "description": "Social perspectives on aging with focus on models of practice that contribute to the independence of elderly people. Social programs and policies, such as social insurance, social services, housing, public health and health care. Social, psychological and political issues related to independence in later life.",
       "prerequisites": "third-year standing or permission of the School of Social Work.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -373,7 +371,9 @@
       "credit": "0.5",
       "description": "Social work analysis of theories of poverty and economic inequality; labour force participation; poverty and wealth and income distribution in Canada and international comparisons; Canadian social policies and poverty.",
       "prerequisites": "fourth-year standing in the Bachelor of Social Work.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -383,7 +383,9 @@
       "credit": "0.5",
       "description": "Social work and social, political, institutional and economic relations shaping everyday experiences of gender and sexuality and implications for contemporary social work.",
       "prerequisites": "fourth-year standing in the Bachelor of Social Work.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },

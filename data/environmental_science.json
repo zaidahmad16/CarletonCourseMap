@@ -56,7 +56,9 @@
       "credit": "0.5",
       "description": "Theoretical and practical perspectives related to environmental science and management; Emphasis on real-world problems associated with human activities and development of solutions in natural and built environments; Hands-on experience with environmental monitoring and restoration. A supplementary fee will apply.",
       "prerequisites": "third-year standing in Environmental Science or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -78,9 +80,7 @@
       "credit": "0.5",
       "description": "Fundamentals of aquatic science. The physical, chemical, and biotic aspects of lake, river, and estuary systems including human impacts, management and conservation.",
       "prerequisites": "third-year standing and a second year science or engineering course.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -176,7 +176,9 @@
       "credit": "0.5",
       "description": "Isotope applications in environmental and Earth sciences. Emphasis is placed current and novel environmental applications including contaminant tracing, hydrogeological studies, and (bio)geochemical cycling of elements. Mechanisms of stable isotope fractionation and analysis are presented. Student-led projects will explore the broad realm of isotope studies.",
       "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -186,9 +188,7 @@
       "credit": "0.5",
       "description": "",
       "prerequisites": "third-year standing in the  Environmental Science program or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1781,28 +1781,14 @@
           "description": "Cell Biology and Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2303"
-          ],
-          "credits": 0.5,
-          "description": "Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3004"
-          ],
-          "credits": 0.5,
-          "description": "Insect Diversity"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2303",
+            "BIOL 3004",
             "BIOL 3102"
           ],
           "credits": 0.5,
-          "description": "Mycology"
+          "description": "b.  0.5 credit from:"
         },
         {
           "type": "required",
@@ -2354,12 +2340,12 @@
           "description": "Introduction to Statistical Modeling I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "GEOG 2006"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Quantitative Research"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2629,7 +2615,7 @@
           "description": "Physical Hydrogeology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from"

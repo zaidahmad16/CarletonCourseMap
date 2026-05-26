@@ -103,9 +103,7 @@
       "credit": "0.5",
       "description": "Altered brain function related to mental health or substance use has often inspired cultural works including films, music, visual art and literature. This course explores the neurobiological basis of creativity in individuals with and without mental health conditions.",
       "prerequisites": "one of PSYC 1001 , NEUR 1201, NEUR 1202 or NEUR 1203 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -139,9 +137,7 @@
       "credit": "0.5",
       "description": "Introduction to the principles and methods of epidemiology, study designs, measures of effect, sources of error, confounding, bias, internal and external validity, and causality. The course also will provide an overview of the epidemiological features, and risk factors for common neurological disorders.",
       "prerequisites": "NEUR 2002 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -207,9 +203,7 @@
       "credit": "0.5",
       "description": "Consciousness remains one of the least understood aspects of the nervous system. This course explores neural mechanisms underlying consciousness, changes in consciousness associated with sleep, coma, vegetative states, drugs, and other stimuli, and considers the evolutionary basis of consciousness, and its relationship with awareness.",
       "prerequisites": "NEUR 2200 or NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -265,7 +259,9 @@
       "credit": "0.5",
       "description": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -275,7 +271,9 @@
       "credit": "0.5",
       "description": "Exploration of human brain development, from cell differentiation to complex neural networks. This course considers how variations in neurodevelopment may be associated with conditions such as dyslexia, ADHD, schizophrenia and autism.",
       "prerequisites": "NEUR 2200, or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -295,7 +293,9 @@
       "credit": "0.5",
       "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
       "prerequisites": "NEUR 3200, or NEUR 3204 and NEUR 3206 and NEUR 3207 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -305,9 +305,7 @@
       "credit": "0.5",
       "description": "Introduction to the methods used in conducting systematic reviews and meta-analyses. Topics include: conducting literature searches, extracting relevant literature, assessing quality of studies, synthesizing findings across studies, and the statistical methods used to carry out a meta-analysis.",
       "prerequisites": "NEUR 3003 or both NEUR 3001 and NEUR 3002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -352,9 +350,7 @@
       "credit": "0.5",
       "description": "Recent research in neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -410,7 +406,9 @@
       "credit": "0.5",
       "description": "Explores how substance use and behavioural addictions impact neural function, contributing to changes in the brain system involved in addiction. Contemporary neurobiological theories of addiction will also be addressed.",
       "prerequisites": "NEUR 3204 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -455,10 +453,7 @@
       "credit": "1.0",
       "description": "An independent systematic review or meta-analyses undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience.",
       "prerequisites": "NEUR 3003 or both NEUR 3001 and NEUR 3002 and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1010,12 +1005,12 @@
           "description": "Cell Biology and Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2200"
           ],
-          "credits": 0.5,
-          "description": "Cellular Biochemistry"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -1416,12 +1411,12 @@
           "description": "Cell Biology and Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2200"
           ],
-          "credits": 0.5,
-          "description": "Cellular Biochemistry"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",

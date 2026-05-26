@@ -177,9 +177,7 @@
       "credit": "0.5",
       "description": "An introduction to theory and issues pertaining to psychological tests. Topics include the creation, assessment, scoring, and interpretation of results across different testing formats (questionnaires, surveys, structured interviews, performance-based measurements). Classical and modern techniques will be incorporated. Students will apply psychological testing theory through assignments.",
       "prerequisites": "PSYC 2001 and PSYC 2002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -202,9 +200,7 @@
       "credit": "0.5",
       "description": "In-depth coverage of the social psychology of relations within and between large societal groups. Topics may include social identity, stereotyping, prejudice, and intergroup emotions, with emphasis on their role in promoting conflict and paths to pro-social intergroup relations.",
       "prerequisites": "PSYC 2100 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -404,7 +400,7 @@
       "description": "Milestones associated with the development of grammatical,pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
       "prerequisites": "LING 1001 and second-year standing, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -453,8 +449,7 @@
       "description": "An examination of theories and research regarding the similarities and differences in women's and men's psychological processes. Psychological issues relevant to women (e.g., women's health concerns, women's sexuality, violence toward women and children) will be examined as well as feminist and traditional research methods.",
       "prerequisites": "one of PSYC 2100 , PSYC 2500 , PSYC 2600 .",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -592,7 +587,7 @@
       "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
       "prerequisites": "each section will have its own.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -616,7 +611,6 @@
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Social psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2100 .",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": 4,
@@ -679,9 +673,7 @@
       "credit": "0.5",
       "description": "This course explores the role of gender in understanding, preventing, and treating adult and youthful criminal conduct. The course operates from a psychological and developmental perspective seeking to examine individual differences in female perpetrated criminal conduct across the life span.",
       "prerequisites": "fourth-year standing and PSYC 3402 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -711,10 +703,7 @@
       "credit": "1.0",
       "description": "Forensic science, criminal justice, psychology, and investigative techniques equip students with knowledge and practical skills required to tackle unsolved crimes. Expert academics and practitioners will present in the first semester, and in the second semester students actively participate in solving an unsolved cold case.",
       "prerequisites": "Major CGPA of 10.0 ( A- ) in Psychology; Fourth-Year Standing; and PSYC 3404 (formerly PSYC 4402, no longer offered).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -725,7 +714,7 @@
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in developmental psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2500 .",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1136,7 +1125,7 @@
           "description": "1.0 credit in PSYC"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from BIOL, CHEM, COMP, ERTH, ISCI, HLTH, MATH, NEUR, PHYS, STAT, or TSES"
@@ -1339,7 +1328,7 @@
           "description": "The requirements for Combined Honours in the other discipline must be satisfied."
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from BIOL, CHEM, COMP, ERTH, ISCI, HLTH, MATH, NEUR , STAT, PHYS or TSES"
@@ -2495,52 +2484,17 @@
           "description": "Design and Analysis in Psychological Research"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSYC 3100"
-          ],
-          "credits": 1.0,
-          "description": "Social Psychology (Honours Seminar)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3300"
-          ],
-          "credits": 1.0,
-          "description": "Health (Honours Seminar)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3400"
-          ],
-          "credits": 1.0,
-          "description": "Forensic Psychology (Honours Seminar)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3500"
-          ],
-          "credits": 1.0,
-          "description": "Developmental Psychology (Honours Seminar)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3600"
-          ],
-          "credits": 1.0,
-          "description": "Personality (Honours Seminar)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSYC 3100",
+            "PSYC 3300",
+            "PSYC 3400",
+            "PSYC 3500",
+            "PSYC 3600",
             "PSYC 3700"
           ],
           "credits": 1.0,
-          "description": "Cognition (Honours Seminar)"
+          "description": "i. 1.0 credit from:"
         },
         {
           "type": "required",
@@ -2645,7 +2599,7 @@
           "description": "1.0 credit from Science Faculty Electives or from a discipline other than Psychology outside the faculties of Science and Engineering and Design ( ISAP 1000 recommended)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from a discipline other than Psychology outside the faculties of Science and Engineering and Design"

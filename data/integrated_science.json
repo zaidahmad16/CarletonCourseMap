@@ -9,7 +9,7 @@
       "description": "Interdisciplinary survey of current issues in science. Students will develop knowledge and skills in scientific inquiry, critical thinking, and communication. Structured around seminars, oral, and written presentations. Lectures and workshop three hours a week.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -20,7 +20,9 @@
       "credit": "0.5",
       "description": "Interdisciplinary survey of current issues in science, focusing on the challenges and opportunities for collaboration across scientific disciplines and beyond. Students will develop knowledge and skills in scientific inquiry, critical thinking, and communication, including an introduction to applied data science.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -50,7 +52,9 @@
       "credit": "0.5",
       "description": "What is science and the scientific method? Topics include the scientific method, credible sources of information, knowledge gaps, the impact of scientific discoveries, and discussion of their local and global implications.",
       "prerequisites": "Second year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -106,7 +110,9 @@
       "credit": "0.5",
       "description": "Exploration of how science-related policy is developed and the impact of policy on science. Topics include policy frameworks, stakeholder roles, power relationships, commercialization and the funding of science.",
       "prerequisites": "Third year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -146,7 +152,9 @@
       "credit": "0.5",
       "description": "Learn how to make science matter beyond academia. Through hands-on exploration of co-production, knowledge mobilization, and participatory methods, students develop skills to connect research with communities, consider ethics and values, and design more inclusive, responsible, and impactful solutions to today\u2019s challenges.",
       "prerequisites": "Third year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -187,8 +195,7 @@
       "description": "A substantial, independent essay or research proposal-based critical review and research proposal, using library, database and/or bioinformatic resources, under the direct supervision of the instructor. Topics include identification and critical review of resources, development of writing skills and formulation of research question and strategy.",
       "prerequisites": "fourth-year standing in the Interdisciplinary Science and Practice (ISAP) Honours program or permission of the Institute.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -366,13 +373,13 @@
           "description": "Linear Algebra I"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credit from the Faculty of Science at the 2000 level or higher"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from the Faculty of Science at the 3000 level or higher"
@@ -400,7 +407,7 @@
           "description": "2.0 credits in Approved Experimental Science Courses as defined in the Regulations for the Bachelor of Science"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits from the Faculty of Science at the 2000 level or higher"
@@ -519,13 +526,13 @@
           "description": "Linear Algebra I"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credit from the Faculty of Science at the 2000 level or higher"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from the Faculty of Science at the 3000 level or higher"
@@ -553,7 +560,7 @@
           "description": "2.0 credits in Approved Experimental Science Courses as defined in the Regulations for the Bachelor of Science"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from the Faculty of Science at the 2000 level or higher"

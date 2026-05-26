@@ -70,9 +70,7 @@
       "credit": "0.5",
       "description": "The study of gender in anthropology, including its theoretical, cross-cultural and ethnographic aspects. Emphasis on gender as a sociocultural process that is at once discursive and embodied, and that varies in distinct cultural, socio-historical, geopolitical, and economic contexts.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -82,7 +80,9 @@
       "credit": "0.5",
       "description": "Drawing on anthropological and sociological approaches, students will explore girls\u2019 lives in diverse cultural, political, economic, and social contexts. Topics may include: movement and migration, education, media, imaging and humanitarianism, consumerism, agency and activism, health, and violence.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -93,7 +93,7 @@
       "description": "Exploration of the relative and the universal in relations between the psychological self and the cultural environment. Topics may include anthropology of psychiatric institutions and practices, the cultural relativity of emotions, the self in everyday life and ritual.",
       "prerequisites": "",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -126,7 +126,9 @@
       "credit": "0.5",
       "description": "The representation and construction of culture through symbols. Topics may include material culture, rituals, archetypes, myths and mythmaking.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -173,9 +175,7 @@
       "credit": "0.5",
       "description": "Examination of selected areas of contemporary sub-Saharan Africa through ethnographic research. Topics may include religion, political economy, international development, expressive cultures, colonialism/postcolonialism, witchcraft, health, the environment, gender, race, and family relations.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -205,7 +205,9 @@
       "credit": "0.5",
       "description": "Examination of selected areas of contemporary Latin America and the Caribbean through current ethnographies. Topics may include: processes of state-formation, colonialism, political-economy, gender and sexuality, racism and racialization processes, health, urban and rural ethnography, social movements, migration and diaspora, and everyday life.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -260,7 +262,8 @@
       "description": "Special topics in anthropology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -355,9 +358,7 @@
       "credit": "0.5",
       "description": "Theoretical and methodological contributions of anthropology to the study of communicative practices in a variety of social and cultural contexts. Language practices, ideologies, and globalization as they intersect with culture, power, race, ethnicity, indigeneity, gender, nationhood and political economy.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -378,7 +379,7 @@
       "description": "Race, racism and ethnicity in Canada and internationally. Critical perspectives on race and ethnicity as they intersect with other social relations. Racism, Eurocentrism, Orientalism, nationalism, colonialism, international migration, citizenship, and diasporic cultures.",
       "prerequisites": "second-year standing or permission of the instructor.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -444,6 +445,7 @@
       "description": "Topics not ordinarily treated in the regular course program. The choice of topics varies from year to year. Check with the Department regarding the topic offered.",
       "prerequisites": "second-year standing or permission of the instructor.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 2,
@@ -465,9 +467,7 @@
       "credit": "0.5",
       "description": "Focusing on the social and cultural significance of sport and physical activities in a global perspective, as well as the embodied experiences of athletes and fans, this course explores issues of racialization and racism, gender and sexuality, economic inequality, colonialism, and power in sport.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -477,9 +477,7 @@
       "credit": "0.5",
       "description": "Environmental concerns affect everyone, unevenly. How does anthropology illuminate the cultural, social, political and ecological differentiation resulting from and constituting environmental processes? The range of responses considered may address issues of resource access and exploitation, as well as transnational transformations in the concept of nature.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -509,7 +507,9 @@
       "credit": "0.5",
       "description": "An introductory exploration of the relationship between anthropology and visual practices. Focus on both the analysis of visual elements and the use of visual media such as film, photography, drawing, and digital media in anthropological practice.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -531,7 +531,9 @@
       "credit": "0.5",
       "description": "How diverse societies are materialized in a wide range of cultural materials from clothing, housing and memorials to more ephemeral materializations such as food, gardens, dance, ritual props and music-making. Emphasis on museum practices and the cultural politics of display.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -597,7 +599,9 @@
       "credit": "0.5",
       "description": "An anthropological examination of the health impacts of global processes, relationships, and movements. May include topics such as economic development and disease, migration and health, medical tourism, transnational reproduction, and the global circulation of bodies, organs, medical technologies, drugs, and pathogens.",
       "prerequisites": "third-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -607,9 +611,7 @@
       "credit": "0.5",
       "description": "Examination of the breadth of critical literature on \u2018decolonizing methodologies\u2019 within and adjacent to anthropology in the 20th and 21st centuries. The course will equip students with an in-depth understanding of critiques of the discipline\u2019s methods and ethics while practicing an engaged anthropology.",
       "prerequisites": "third-year standing or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -663,7 +665,9 @@
       "credit": "0.5",
       "description": "In this class, we explore a significant issue in our communities, learning how ethnographic methods can add new perspectives to our own experience and help us appreciate the experience of others. Students learn-through-doing their own small ethnographic projects, peer-to-peer feedback, and reflective discussion.",
       "prerequisites": "fourth-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -761,7 +765,9 @@
       "credit": "0.5",
       "description": "Anthropological approaches to the study of visual cultures, visuality, and the role of visual media in ethnography. Topics may include film, photography, illustration, comics and graphic novels, animation, visual performance, multimodal approaches, digital modes and other visual media that challenge the primacy of textual representations.",
       "prerequisites": "third-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -804,9 +810,7 @@
       "credit": "0.5",
       "description": "For the purposes of this course, Indigenous cultures are cultures that have transformed through the struggles of colonized peoples to resist and redirect projects of settler nationhood. This course looks at those transformations and that resistance in a selection of social, political and economic contexts.",
       "prerequisites": "third-year standing or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -816,7 +820,9 @@
       "credit": "0.5",
       "description": "Research-based seminar that explores the debates related to ethnographic research in (a) selected region(s) of Africa. Topics may include social movements, expressive cultures, religious practices, conflict, identity politics, political economy, colonialism and postcolonialism, migration and diaspora, health, race, gender, and climate change.",
       "prerequisites": "third-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -838,7 +844,9 @@
       "credit": "0.5",
       "description": "Selected topics on the confluence of processes of globalization, development and citizenship. Examination of debates about the meaning and impact of globalization on patterns of inequality and citizenship both internationally and within Canada, and about strategies for progressive development.",
       "prerequisites": "fourth-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -945,12 +953,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -977,12 +985,12 @@
           "description": "Honours Research Paper in Anthropology (with a minimum 9.00 GPA or permission of instructor, or 1.0 credit in ANTH courses at the ANTH 3000-level or above)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "ANTH 2600"
           ],
-          "credits": 1.0,
-          "description": "1.0 credit from: ANTH 2600 series"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1060,12 +1068,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1084,12 +1092,12 @@
           "description": "Foundations in Socio-Cultural Anthropology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "ANTH 2600"
           ],
-          "credits": 1.0,
-          "description": "1.0 credit from ANTH 2600 series"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1173,12 +1181,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1197,12 +1205,12 @@
           "description": "Foundations in Socio-Cultural Anthropology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "ANTH 2600"
           ],
-          "credits": 1.0,
-          "description": "1.0 credit from ANTH 2600 series"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1378,12 +1386,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1911,7 +1919,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -1931,12 +1939,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2246,12 +2254,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

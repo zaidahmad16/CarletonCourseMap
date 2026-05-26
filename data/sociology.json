@@ -22,7 +22,6 @@
       "description": "This course will further explore and expand upon the key thinkers, concepts and disciplinary subfields in sociology. The focus of analysis will shift from the everyday world to social institutions and structural processes. Topics may include globalization, education, media, health, social movements, colonialism, urbanization.",
       "prerequisites": "SOCI 1001 .",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -81,7 +80,9 @@
       "credit": "0.5",
       "description": "This course equips students with essential skills in data literacy and visualization. Students will learn to understand and interpret various statistical measures, use Excel and statistical software to analyze and transform data into engaging figures and understand the applications and misapplications of statistical techniques.",
       "prerequisites": "SOCI 2000 or equivalent.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -126,9 +127,7 @@
       "credit": "0.5",
       "description": "Introduction to the principal theories and methods used by Science and Technology Studies (STS) scholars to examine the social and cultural shaping of technology. The substantive focus of the course is on the design, development, production, diffusion, consumption and use of technology.",
       "prerequisites": "second-year standing or permission from the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -138,9 +137,7 @@
       "credit": "0.5",
       "description": "The sociological analysis of food and eating. The relationship between food and identity; the development of social movements organized around food; and more generally, on practices relating to the production, preparation, and consumption of food.",
       "prerequisites": "second-year standing or permission from the instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -150,9 +147,7 @@
       "credit": "0.5",
       "description": "How do we conceptualize the family? How has family changed over history? What are the diverse realities of families today? This course examines different family forms, relations and dynamics, emphasizing the relationship between family and larger social forces, such as gender, immigration or class.",
       "prerequisites": "second-year standing or permission from the instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -184,7 +179,9 @@
       "credit": "0.5",
       "description": "Drawing on anthropological and sociological approaches, students will explore girls\u2019 lives in diverse cultural, political, economic, and social contexts. Topics may include: movement and migration, education, media, imaging and humanitarianism, consumerism, agency and activism, health, and violence.",
       "prerequisites": "second year standing or permission from the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -217,7 +214,7 @@
       "description": "Sociological theory and research on large-scale conflict. How society and culture shape warfare through processes of socialization, bureaucratization, and ideological representation. Social impacts of war in terms of gender, race and ethnicity, class relations, and cultural values.",
       "prerequisites": "second-year standing or permission from the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -228,9 +225,7 @@
       "credit": "0.5",
       "description": "Introduction to the study of social justice and the theorization of social justice sociology.  Critical examination of resistance to oppression, social movements and solidarity both in Canada and transnationally.  Exploration of the relationship between the university and community-based action.",
       "prerequisites": "second-year standing or permission from the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -299,7 +294,8 @@
       "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
       "prerequisites": "second-year standing or permission from the instructor.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -311,8 +307,7 @@
       "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
       "prerequisites": "second-year standing or permission from the instructor.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -371,7 +366,9 @@
       "credit": "0.5",
       "description": "This course provides students with in-depth knowledge of descriptive and inferential statistics, including measures of central tendency and dispersion, central limit theorem, hypothesis testing, measures of association, correlation and regression analysis.  Students will use statistical software to analyze social science data.",
       "prerequisites": "SOCI 2004 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -412,7 +409,7 @@
       "description": "Race, racism and ethnicity in Canada and internationally. Critical perspectives on race and ethnicity, which intersect with other social relations. Racism, Eurocentrism, Orientalism, nationalism, colonialism, international migration, citizenship, and diasporic cultures.",
       "prerequisites": "second-year standing or permission from the instructor.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -475,7 +472,9 @@
       "credit": "0.5",
       "description": "Key concepts of sex, sexuality, gender, eroticism and pleasure. The history of sex and sexuality. The regulation of sexual relations and practices. Social movements relating to sexuality, gender identities and sexual equality.",
       "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -553,9 +552,7 @@
       "credit": "0.5",
       "description": "Sociological examination of political violence. Theoretical analysis of violence as social action that is historically situated and shaped by cultural and economic forces; the relationship between political violence and identity, nation/nationalism, modernity and globalisation.",
       "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -591,6 +588,7 @@
       "description": "Special topics in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
       "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 3,
@@ -603,7 +601,7 @@
       "description": "Critical analysis of selected work in educational sociology. Topics may include sociological theories of education, school ethnography, contemporary educational policy and practice. Note: Topic will vary in keeping with the interests of students and instructor.",
       "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -627,7 +625,7 @@
       "description": "What is a social movement?  How do sociologists distinguish between social movements and revolutions?  What factors influence social movement development?  What do they look like?  Theoretical and empirical study of the relationship between social movements and social change.",
       "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0], or ANTH 1001 , or ANTH 1002 , and third-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -660,9 +658,7 @@
       "credit": "0.5",
       "description": "Research and theory in the interdisciplinary area of Cultural Studies. Contemporary cultural change in the advanced industrialized societies and its impact on everyday life.",
       "prerequisites": "SOCI 1001 and SOCI 1002 , or SOCI 1003 [1.0]; or ANTH 1001 , or ANTH 1002 , and third-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -728,7 +724,9 @@
       "credit": "0.5",
       "description": "Close study of the works of an author, tendency, or school of thought in theoretical sociology. Topic will vary in keeping with interests of the students and instructor.",
       "prerequisites": "SOCI 3006 and fourth-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -862,9 +860,7 @@
       "credit": "0.5",
       "description": "Contemporary debates about the role of law in society focusing on the potential and limits of law as a vehicle of social transformation.",
       "prerequisites": "fourth-year standing or permission from the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -921,8 +917,7 @@
       "description": "Selected problems in sociology not ordinarily treated in the regular course program. The choice of topics varies from year to year. Students should check with the Department regarding the topic offered.",
       "prerequisites": "fourth-year standing or permission from the instructor.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1055,60 +1050,32 @@
           "description": "Data Literacy for Social Sciences"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "SOCI 3004"
-          ],
-          "credits": 0.5,
-          "description": "Qualitative Research: Approaches and Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3008"
-          ],
-          "credits": 0.5,
-          "description": "Data Analysis for Social Sciences"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2005"
-          ],
-          "credits": 1.0,
-          "description": "Histories of Sociological Thought"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3006"
-          ],
-          "credits": 0.5,
-          "description": "Thinking the Social: Theories and Approaches"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "SOCI 3004",
+            "SOCI 3008",
+            "SOCI 2005",
+            "SOCI 3006",
             "SOCI 4700",
             "SOCI 4900"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in SOCI at the 4000-level, to include either SOCI 4700 [0.5] or SOCI 4900 [1.0]"
+          "credits": 0.5,
+          "description": "0.5 credit from: 0.5"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit in SOCI and/or ANTH at the 4000-level"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit in SOCI at the 2000-level or above"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credits in SOCI and/or ANTH at the 2000-level or above"
@@ -1523,7 +1490,7 @@
           "description": "Histories of Sociological Thought"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "d. 1.0 credit from: Global Inequalities and Social Change at the 2000-level"
@@ -1625,7 +1592,7 @@
           "description": "Special Topics in Sociology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "e. 1.5 credits from: Global Inequalities and Social Change at the 3000-level"
@@ -1783,7 +1750,7 @@
           "description": "Studies in Population"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "f. 1.5 credits from: Honours Seminars and Honours Thesis"
@@ -3662,14 +3629,14 @@
           "description": "Introduction to Sociological Perspectives"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "SOCI 2000",
             "SOCI 2001",
             "SOCI 2004"
           ],
           "credits": null,
-          "description": "Methods: SOCI 2000 plus one of SOCI 2001 or SOCI 2004"
+          "description": ""
         },
         {
           "type": "elective",

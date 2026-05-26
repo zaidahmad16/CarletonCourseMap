@@ -114,7 +114,9 @@
       "credit": "0.5",
       "description": "Builds on , moves from understanding general role of a Registered Nurse to personal identity as a Registered Nurse. Incorporates Quality Assurance, Safety and Harm mitigation principals.",
       "prerequisites": "NURS 1001 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -124,7 +126,9 @@
       "credit": "0.5",
       "description": "Advanced course on human anatomy and physiology, focusing on complex body system interactions and pathophysiology.",
       "prerequisites": "NURS 1002 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -134,7 +138,9 @@
       "credit": "0.5",
       "description": "Advances from , integrates complex patient care management and systems focus, pharmacology, and consolidated nursing practice knowledge.",
       "prerequisites": "NURS 1003 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -144,7 +150,9 @@
       "credit": "0.5",
       "description": "Deepens pharmacological knowledge and skills, focusing on complex aspects of pharmacology and its application in nursing practice. Introduces RN Prescribing.",
       "prerequisites": "NURS 1004 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -184,7 +192,9 @@
       "credit": "0.5",
       "description": "Introduces Mental Health Nursing in Ontario, covering disease, diagnosis, care plans, pharmacological management, DSM-IV, and The Mental Health Act.",
       "prerequisites": "NURS 1003 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -254,7 +264,9 @@
       "credit": "0.5",
       "description": "Advanced simulation lab, focusing on complex patient management and health assessment in various clinical scenarios.",
       "prerequisites": "NURS 2100 , NURS 2014 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -264,7 +276,9 @@
       "credit": "0.5",
       "description": "Clinical practicum in mental health and maternal/child care, integrating complex assessments, documentation, and medication administration. Graded SAT/UNS.",
       "prerequisites": "NURS 1201 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -274,7 +288,9 @@
       "credit": "0.5",
       "description": "Clinical practicum in acute illness care, applying advanced theoretical knowledge and practice in rapidly changing clinical scenarios. Graded SAT/UNS.",
       "prerequisites": "NURS 1002 , NURS 1003 , NURS 1004 , NURS 2001 and NURS 2200 . Restricted to Bachelor of Science in Nursing with RN Prescribing students.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

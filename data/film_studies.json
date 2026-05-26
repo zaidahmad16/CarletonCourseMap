@@ -33,7 +33,9 @@
       "credit": "0.5",
       "description": "This seminar course builds on the knowledge and skills acquired in FILM 1120A or . It expands on concepts, issues, theories and research methods in the field of Film Studies, and places a particular focus on arguing, using sources and writing skills.",
       "prerequisites": "FILM 1101 or FILM 1120 or permission of the discipline.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -91,7 +93,9 @@
       "credit": "0.5",
       "description": "This course examines the film production of specific countries in order to determine the themes, the styles, and the character of a national cinema.",
       "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -132,7 +136,7 @@
       "description": "A critical examination of Canadian cinema and media and how it relates to other aspects of Canadian culture.",
       "prerequisites": "FILM 1101 or FILM 1120 or second-year standing; or permission of the Discipline.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -144,7 +148,7 @@
       "description": "A detailed study of the themes, the characteristic style, development and influence of one or more directors.",
       "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -155,7 +159,9 @@
       "credit": "0.5",
       "description": "This course examines questions of generic form, drawing examples from world cinema.",
       "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -190,7 +196,7 @@
       "description": "Introductory workshop on the basic principles of filmmaking. Culminates in a short film or other media project, screened in class.  Emphasis may change from year to year, focusing alternately on narrative, experimental, animation, documentary, or interactive techniques.",
       "prerequisites": "FILM 1101 or FILM 1120 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -201,9 +207,7 @@
       "credit": "0.5",
       "description": "Introduction to the video game as a popular media form, an emerging aesthetic, and a social and cultural practice. Topics include: history of video games; game form; game industry; narrative; art and design; interactivity; theories of play.",
       "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -277,9 +281,7 @@
       "credit": "0.5",
       "description": "This course provides a critical study of advanced film theories. The course offerings may change from year to year. Topics may include aesthetics, ideological criticism, film and philosophy, and theories of technology and historiography.",
       "prerequisites": "FILM 2001 and FILM 2002 and third-year standing; or permission of the Discipline.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -299,9 +301,7 @@
       "credit": "0.5",
       "description": "Special studies of aspects of the history of world cinema.  The course offerings may change from year to year. Topics may include the examination of film movements, styles and genres, and/or comparative study of national, regional and/or world-wide trends.",
       "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -345,9 +345,7 @@
       "credit": "0.5",
       "description": "Advanced workshop on filmmaking. Expands on skills learned in 2801, students refine their knowledge of filmmaking principles and techniques. Culminates in a short film or other media project. Emphasis may change from year to year, focusing alternately on narrative, experimental, animation, documentary, or interactive techniques.",
       "prerequisites": "FILM 2001 and FILM 2801 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -388,7 +386,8 @@
       "description": "Special topics and issues not ordinarily treated in the third-year course program. The course offerings may change from year to year.",
       "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 2000 level, and third-year standing, or permission of the Discipline.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -445,9 +444,7 @@
       "credit": "0.5",
       "description": "Theoretical and critical study of the film festival as a phenomenon shaping our understanding of film culture, institutions, history and forms. Issues examined may include festivals as sites of cultural legitimation; as spectacle; their political economy; curation/programming; case studies of film festivals around the world.",
       "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -503,6 +500,7 @@
       "description": "Selected topics in film studies not ordinarily available in the regular course program. The choice of topic or topics will vary at least every two years and will be announced well in advance of the registration period.",
       "prerequisites": "FILM 1101 or FILM 1120 , 1.0 credit in FILM at the 3000 level, and fourth-year standing, or permission of the Discipline.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 4,
@@ -555,12 +553,12 @@
           "description": "Introduction to Film Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FILM 1120"
           ],
-          "credits": 0.5,
-          "description": "Seminar in Film Studies"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -646,12 +644,12 @@
           "description": "Introduction to Film Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FILM 1120"
           ],
-          "credits": 0.5,
-          "description": "Seminar in Film Studies"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -737,12 +735,12 @@
           "description": "Introduction to Film Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FILM 1120"
           ],
-          "credits": 0.5,
-          "description": "Seminar in Film Studies"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -814,12 +812,12 @@
           "description": "Introduction to Film Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FILM 1120"
           ],
-          "credits": 0.5,
-          "description": "Seminar in Film Studies"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

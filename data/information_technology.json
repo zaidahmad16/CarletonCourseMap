@@ -212,7 +212,9 @@
       "credit": "0.5",
       "description": "Essential knowledge and skills for managing data backups in information resource management, including recovery mechanisms such as crash and failure recovery, undo and redo operations, checkpoints, and rollback or roll forward techniques. Also covers transactions for concurrency control.",
       "prerequisites": "IRM 1008 and BIT 2008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -377,9 +379,7 @@
       "credit": "0.5",
       "description": "Limits. Differentiation of the elementary functions, including trigonometric functions. Rules of differentiation. Applications of differentiation: max-min problems, curve sketching, approximations. Introduction to integration: definite and indefinite integrals, areas under curves, fundamental theorem of calculus.",
       "prerequisites": "Ontario Grade 12 Mathematics: Advanced Functions; or MATH 0005 and MATH 0006 ; or equivalent. Restricted to students in the B.I.T. degree program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -389,9 +389,7 @@
       "credit": "0.5",
       "description": "Systems of linear equations; vector space of n-tuples, subspaces and bases; matrix transformations, kernel, range; matrix algebra and determinants. Dot product. Complex numbers (including de Moivre's Theorem, and n-th roots). Eigenvalues, diagonalization and applications. Note: is not an acceptable substitute for .",
       "prerequisites": "Ontario Grade 12 Mathematics: Advanced Functions, or MATH 0005 , or equivalent, or permission of the School. restricted to students in the B.I.T. degree program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -401,9 +399,7 @@
       "credit": "0.5",
       "description": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences.",
       "prerequisites": "(i) Grade 12 Mathematics: Advanced Functions or equivalent; or (ii) Grade 12 Mathematics: Calculus and Vectors or equivalent, or MATH 1007 or BIT 1200 (may be taken concurrently); or (iii) permission of the Department.Restricted to students in the B.I.T. degree program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -424,7 +420,6 @@
       "description": "Introduction to basic concepts of procedural programming and algorithm design in C. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, structures, arrays, pointers, debugging, algorithmic thinking and pseudocode, computer architecture, operating systems, and libraries.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -509,9 +504,7 @@
       "credit": "0.5",
       "description": "Curves and surfaces. Polar, cylindrical and spherical coordinates. Partial derivatives, gradients, extrema and Lagrange multipliers. Exact differentials. Multiple integrals over rectangular and general regions. Integrals over surfaces. Line integrals. Vector differential operators. Green\u2019s Theorem, Stokes\u2019 theorem, Divergence Theorem. Applications.",
       "prerequisites": "BIT 1200 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -522,8 +515,7 @@
       "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching.",
       "prerequisites": "BIT 1400 . Restricted to students in the B.I.T. degree program.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1083,7 +1075,7 @@
       "description": "Audio and video compression. H.261, JPEG, MPEG and DVI. Accessing audio and video from a web server. Real Time Streaming Protocol (RTSP). Multimedia operating systems. Multimedia database. Network support for multimedia applications. Multimedia synchronization.",
       "prerequisites": "fourth-year standing in Networking program or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1119,7 +1111,7 @@
       "description": "Understanding classes of advanced attacks. Building secure networks. Adversarial Machine Learning. Security in clouds, virtualized networks, and IoT. Understanding impact of OS and software security issues. Security in next generation networks such as 5G.",
       "prerequisites": "NET 3007 .",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1195,9 +1187,7 @@
       "credit": "0.5",
       "description": "Introduction to incoherent light sources and lasers. Lasers operation, energy levels, quantum mechanics basics. Pumping/excitation, population inversion, laser cavity design, gain and loss, and characteristics of laser emission. An extensive lab manual of relevant experiments, variety of lasers, spectrometers, and detection equipment will be used.",
       "prerequisites": "BIT 1201 . Restricted to students in the BIT degree program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1207,9 +1197,7 @@
       "credit": "0.5",
       "description": "Adaptive Optical Communication Networks with 10Gb/s-200Gb/s Packet-Optical Platforms and WaveServers, OTN, flexible WaveLogic Photonics, ROADM, SONET/SDH, programmable network, optimized mapping techniques, optical carriers (OC-n/STM-m). Extensive hands-on experience using state-of-the-art Optophotonics Lab to work on OAM&P, facility/equipment, synchronization, bandwidth management, performance monitoring and other functionalities.",
       "prerequisites": "OSS 1003 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1219,9 +1207,7 @@
       "credit": "0.5",
       "description": "Laser theory, devices and systems. Safety procedures, laser power supplies, and laser system applications. Solid state, gas, and other types of lasers. Basic material processing, micro machining, bio/medical, and military applications will be covered. Hands-on experience with advanced laser equipment in lab.",
       "prerequisites": "OSS 2001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1231,9 +1217,7 @@
       "credit": "0.5",
       "description": "Students learn properties of electricity and measurement techniques. Topics covered include RMS, average, applied, peak-to-peak and instantaneous values. Lab experiments deal with RC and RL circuits and LC filters. RLC circuits, and series and parallel resonance are also covered.",
       "prerequisites": "BIT 1204 or PHYS 1004 or PHYS 1002 . Restricted to students in the BIT degree program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1243,9 +1227,7 @@
       "credit": "0.5",
       "description": "Fundamentals of logic circuitry in digital systems are studied including basic logic gates, Boolean algebra, signal decoding, logic circuit design, flip-flop circuits, timers and counters. The proper use of semi-conductor components is demonstrated through the use of laboratory experiments.",
       "prerequisites": "OSS 2005 . Restricted to students in the B.I.T. degree program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1255,9 +1237,7 @@
       "credit": "0.5",
       "description": "Manufacturing techniques and methods used to produce photonics components and devices/systems. Micro assembly, adhesives, optical tests and measurement, lean manufacturing and quality control standards (Telcordia). Laboratory exposure to optical component production processes: grinding, polishing, coating, mounting, tolerance and accuracy.",
       "prerequisites": "OSS 1002 . Restricted to students in the B.I.T. degree program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1267,9 +1247,7 @@
       "credit": "0.5",
       "description": "Microcontrollers study, emphasizing on their applications in sensing systems. Topics include microcontroller architecture, instruction sets, sensor interfacing, and programming techniques-Python for embedded programming; brief introduction to assembly and machine language. Students gain practical experience for real-world applications in automation and embedded systems development.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1279,9 +1257,7 @@
       "credit": "0.5",
       "description": "This course provides a solid theoretical foundation for the analysis and processing of experimental data, and real-time experimental control methods. Topics include various properties of signals and systems, convolution, the Fourier transform, sampling theorem, z-transform, spectral analysis, filter design, and system identification.",
       "prerequisites": "BIT 1200 and BIT 1201 . Restricted to students in the B.I.T. degree program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

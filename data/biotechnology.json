@@ -364,7 +364,7 @@
           "description": "Food Processing"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credits from"
@@ -843,12 +843,12 @@
           "description": "Physical Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 2103"
           ],
-          "credits": 0.5,
-          "description": "Physical Chemistry I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1091,20 +1091,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1165,12 +1158,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1181,12 +1174,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

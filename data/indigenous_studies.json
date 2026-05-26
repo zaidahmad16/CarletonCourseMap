@@ -19,8 +19,7 @@
       "description": "This course centers Indigenous Creation Stories in relation to systems of power. Discussing Indigenous worldviews, knowledge making, ways of living, ecological relationships, and inter-Indigenous relations and diplomacy. Course materials are rooted in self-situated and collective understandings of Indigenous peoples.",
       "prerequisites": "",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -32,7 +31,6 @@
       "description": "Interdisciplinary and critical engagement with the term \u201cencounter\u201d between various Indigenous communities and settler populations. Topic areas vary by year: introduction to Indigeneity across multiple geographies, cultural and literary practices, gender and the state, race, racialization, racism, place and space, food sovereignty, and education.",
       "prerequisites": "",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -44,9 +42,7 @@
       "credit": "0.5",
       "description": "This survey course introduces students to core concepts and analytics in Critical Indigenous Studies. Topics include land, pedagogies, relationalities, resurgence, decolonization, Indigenous feminisms and Indigiqueer Studies.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -119,7 +115,7 @@
       "description": "Indigenous articulations of gender, sex, and sexualities. This may include a focus on specific embodied roles and responsibilities within Indigenous communities, individual and collective identities, gender-based violence and resistances, and complex relationships between external and lateral systems of power and privilege.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -142,7 +138,9 @@
       "credit": "0.5",
       "description": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors and other practitioners.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -197,7 +195,8 @@
       "description": "Topics vary from year to year.",
       "prerequisites": "second-year standing, or permission of the Indigenous Studies program.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []

@@ -61,6 +61,7 @@
       "description": "An examination of the significance and role of philosophy in cognitive science. Topics may include: philosophical methods for studying the mind, prospects for naturalizing consciousness and intentionality, assessing competing models of the mind.",
       "prerequisites": "CGSC 2001 and PHIL 2501 , and third-year standing.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 3,
@@ -138,7 +139,7 @@
       "description": "Exploration of the roles of human and artificial cognition in the digital humanities. Topics may include virtual and augmented reality as applied to the humanities, cognitive issues in hypertext and hypermedia; linguistic and philosophical considerations in digital media, cognitive narratology, and artificial intelligence.",
       "prerequisites": "CGSC 2001 or DIGH 2001 and third-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -173,7 +174,7 @@
       "description": "Cognitive architectures and how to evaluate them against human data; how to create cognitive models using cognitive architectures such as ACT-R.",
       "prerequisites": "third-year standing, CGSC 2001 , and ( CGSC 1005 or COMP 1005 ).",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -185,7 +186,7 @@
       "description": "Modelling cognition using artificial intelligence techniques such as reinforcement learning, vector-symbolic models, neural networks, and/or machine learning.",
       "prerequisites": "third-year standing, ( CGSC 1005 or COMP 1005 ), CGSC\u202f2001, and CGSC 3601 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -223,7 +224,6 @@
       "description": "The topic of this course will vary from year to year. Students may register in more than one section of but may register in each section only once.",
       "prerequisites": "each section will have its own prerequisites and permission of the department if is required.",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,

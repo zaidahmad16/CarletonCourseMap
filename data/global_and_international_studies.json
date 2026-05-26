@@ -48,7 +48,7 @@
       "description": "Introduction to key questions and issues in development studies, taught from an inter-disciplinary perspective.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -125,8 +125,7 @@
       "description": "Examination of the relationship between individual places and global social and environmental processes. The changing nature of regions, states and political boundaries in the context of political and economic globalization and international migration. Social science perspectives on climate change vulnerability, adaptation and mitigation.",
       "prerequisites": "third-year standing in B.G.In.S.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -159,10 +158,7 @@
       "credit": "0.5",
       "description": "Placement for six weeks with a global and international focus.",
       "prerequisites": "third-year standing in BGINS.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -172,10 +168,7 @@
       "credit": "1.0",
       "description": "Placement for twelve weeks with a global and international focus.",
       "prerequisites": "third-year standing in BGInS.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -185,10 +178,7 @@
       "credit": "0.5",
       "description": "Placement for six weeks with a global and international focus for students outside of the BGInS Program.  Graded Sat/Uns.",
       "prerequisites": "Third-year standing and minimum CGPA of 9.0.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -198,10 +188,7 @@
       "credit": "1.0",
       "description": "Placement for twelve weeks with a global and international focus for students outside of the BGInS Program.",
       "prerequisites": "Third-year standing and minimum CGPA of 9.0.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -234,10 +221,7 @@
       "credit": "0.5",
       "description": "A tutorial on selected topics in which seminars are not available.",
       "prerequisites": "fourth-year Honours standing in B.G.In.S. and permission of the Program Director.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -247,10 +231,7 @@
       "credit": "1.0",
       "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader.  B.G.In.S. regulations apply.",
       "prerequisites": "fourth-year Honours standing in B.G.In.S. with a CGPA of 9.00 or higher, or permission of the Program Director.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     }
@@ -556,7 +537,7 @@
           "description": "Introduction to African Studies II"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b. 1.0 credit from: African Regions"
@@ -602,7 +583,7 @@
           "description": "Southern Africa"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "c. 1.0 credit from: Intermediate African Studies"
@@ -664,7 +645,7 @@
           "description": "Thematic Topic"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "d. 0.5 credit from: African Experience"
@@ -692,7 +673,7 @@
           "description": "or 0.5 credit  on an approved exchange program at an African university or research institution"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "e. 0.5 credit from: History"
@@ -730,7 +711,7 @@
           "description": "Topics in World History (topic on Africa)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "f. 0.5 credit from: Politics"
@@ -752,7 +733,7 @@
           "description": "Conflict and Security in Africa"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "g. 0.5 credit from Anthropology"
@@ -774,7 +755,7 @@
           "description": "Ethnography of North Africa"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "h. 0.5 credit from: Literature and Culture"
@@ -828,7 +809,7 @@
           "description": "Issues in African Music Studies"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "i. 0.5 credit from: African Diaspora"
@@ -912,7 +893,7 @@
           "description": "Advanced Topics in African Studies"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "k. 1.0 credit from: Honours Seminars and Honours Research Essay"
@@ -1138,36 +1119,36 @@
           "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "d. 1.0 credit from: Modern History category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "e. 1.0 credit from: Politics and Economics category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "f. 0.5 credit from: Language, Art, Culture category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "g. 2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR not used to fulfill another requirement.  No more than 0.5 credit from the Contexts and Methods for Regional Studies category."
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "EURR 4908"
           ],
-          "credits": 1.5,
-          "description": "h. 1.5 credit from: EURUS 4000-level Honours Course category.  At least 1.0 credit in EURR.  May include EURR 4908 (1.0) Honours Essay."
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2491,7 +2472,7 @@
           "description": "History of the Global South, 1850 to the present"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b.  1.0 credit from: Regional History: The Global South"
@@ -2561,7 +2542,7 @@
           "description": "History of the Modern Middle East"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "c. 1.0 credit from: Regional History: Europe and the World"
@@ -2637,7 +2618,7 @@
           "description": "The Historian's Craft"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "e. 2.5 credits from Themes in History, with no more than 0.5 credit at 2000-level"
@@ -2907,7 +2888,7 @@
           "description": "Thematic Topic"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "f. 0.5 credit from: Historical Theory"
@@ -2929,7 +2910,7 @@
           "description": "Explorations in Historical Theory"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "g. 1.5 credit from: Honours Seminars"
@@ -3220,12 +3201,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3428,7 +3409,7 @@
           "description": "Quantitative Approaches to Policy Analysis"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "g. 0.5 credits from: Advanced courses"
@@ -3780,7 +3761,7 @@
           "description": "Introduction to Feminist Social Transformation"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "b. 2.0 credits from: Theorizing Bodies and Borders"
@@ -3858,7 +3839,7 @@
           "description": "Theory and Research in Feminist Social Transformation"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "c. 2.5 credits from: Advocacy and Activism"
@@ -3936,7 +3917,7 @@
           "description": "Gendered Violence"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "d. 1.5 credits from: Honours Seminars in Global Gender and Sexuality"
@@ -4176,7 +4157,7 @@
           "description": "Histories of Sociological Thought"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "d. 1.0 credit from: Global Inequalities and Social Change at the 2000-level"
@@ -4278,7 +4259,7 @@
           "description": "Special Topics in Sociology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "e. 1.5 credits from: Global Inequalities and Social Change at the 3000-level"
@@ -4436,7 +4417,7 @@
           "description": "Studies in Population"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "f. 1.5 credits from: Honours Seminars and Honours Thesis"
@@ -4717,12 +4698,12 @@
           "description": "Social Justice and Human Rights"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "HRSJ 2001"
           ],
-          "credits": 0.5,
-          "description": "Human Rights: Theories and Foundations"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -4739,7 +4720,7 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "d. 0.5 credit from: Third Year Core Courses"
@@ -5087,7 +5068,7 @@
           "description": "Advanced Special Topics in Legal Studies (topic in Global Law and Social Justice)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "f. 1.0 credit from: Core Honours Seminars and Honours Research Essay"
@@ -5324,7 +5305,7 @@
           "description": "Global Media and Communication"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b. 1.0 credit from: Introductory Theory and Methods"
@@ -5392,13 +5373,13 @@
           "description": "Current Issues in Communication and Media Theory"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.0,
           "description": "d. 3.0 credits from: Advanced Core"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "(at least 1.0 credits at the 3000 level)"
@@ -6097,7 +6078,7 @@
           "description": "Summer Field Research Course"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "g. 0.5 credits from: Capstone Seminar"
@@ -6111,7 +6092,7 @@
           "description": "Capstone Seminar in Global Politics"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "h. 1.5 credits from 4th Year Seminars and Honours Research Essay"
@@ -6845,7 +6826,7 @@
           "description": "7.5 credits in: the Specialization"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "a.  0.5 credit from: Foundations I"
@@ -6896,7 +6877,7 @@
           "description": "Global Connections"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "c.  1.5 credits from: Globalization"
@@ -6958,7 +6939,7 @@
           "description": "Geographies of Economic Development"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "d.  2.0 credits from: Global Environment"
@@ -7054,7 +7035,7 @@
           "description": "Introduction to Quantitative Research"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "f. 1.5 credits from: Honours Seminars"
@@ -7244,12 +7225,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -7848,20 +7829,13 @@
           "description": "Intermediate Microeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 2009"
-          ],
-          "credits": 0.5,
-          "description": "Managerial Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 2009",
             "ECON 2020"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -7878,12 +7852,12 @@
           "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2102"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Macroeconomics I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -7900,12 +7874,12 @@
           "description": "Quantitative Approaches to Policy Analysis"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2210"
           ],
-          "credits": 0.5,
-          "description": "Introductory Statistics for Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -7946,7 +7920,7 @@
           "description": "International Monetary Problems"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.0,
           "description": "f. 3.0 credits from: International Economic Policy"
@@ -8197,7 +8171,7 @@
           "description": "Latin America and the Caribbean in Global Context"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b. 1.0 credit from: History"
@@ -8235,7 +8209,7 @@
           "description": "Caribbean and Latin American History"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "c. 0.5 credit from: Politics"
@@ -8257,7 +8231,7 @@
           "description": "Mexican Politics"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.5,
           "description": "d. 3.5 credits from: Courses with LACS Content"
@@ -8424,7 +8398,7 @@
           "description": "Colonialism and Post-Colonialism"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "e. 1.5 credits from: Context"
@@ -8890,7 +8864,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -9331,18 +9305,18 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "EURR 1001"
           ],
-          "credits": 0.5,
-          "description": "Introduction to European and Russian Studies"
+          "credits": 1.0,
+          "description": "a. 1.0 credit from: EURUS Core Courses"
         },
         {
           "type": "required",
@@ -10632,13 +10606,13 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0  credits from: the Stream"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "a. 0.5 credit from: Foundations"
@@ -10660,7 +10634,7 @@
           "description": "History of the Global South, 1850 to the present"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b. 1.0 credit from: Regional History: the Global South"
@@ -10722,7 +10696,7 @@
           "description": "History of the Modern Middle East"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "c. 0.5 credit from: Regional History: Europe and the World"
@@ -10798,7 +10772,7 @@
           "description": "The Historian's Craft"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "e. 1.5 credits from Themes in History"
@@ -11139,7 +11113,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -11173,12 +11147,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -11468,7 +11442,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -12169,7 +12143,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -12468,7 +12442,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -12689,7 +12663,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: The Stream"
@@ -13186,7 +13160,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -13363,7 +13337,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -13637,7 +13611,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -13657,12 +13631,12 @@
           "description": "Introduction to Socio-Cultural Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Issues in Anthropology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -14034,7 +14008,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -14055,12 +14029,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -14077,20 +14051,13 @@
           "description": "Intermediate Microeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 2009"
-          ],
-          "credits": 0.5,
-          "description": "Managerial Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 2009",
             "ECON 2020"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -14107,12 +14074,12 @@
           "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2102"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Macroeconomics I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -14129,12 +14096,12 @@
           "description": "Quantitative Approaches to Policy Analysis"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2210"
           ],
-          "credits": 0.5,
-          "description": "Introductory Statistics for Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -14350,7 +14317,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"

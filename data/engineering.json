@@ -125,7 +125,9 @@
       "credit": "0.5",
       "description": "Behaviour of compressible fluids, sound waves and properties of sound sources; measurement of sound; human perception of sound; prediction methods based on energy considerations; sound propagation in realistic environments: outdoors, rooms, ducts; absorption and transmission loss, noise control; case studies.",
       "prerequisites": "MAAE 3004 and ( MAAE 3300 or MECH 3310 ) and MATH 3705 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -313,9 +315,7 @@
       "credit": "0.5",
       "description": "Technical issues involved in architectural design of buildings from ancient times to the present. Technological innovation and materials related to structural developments, and the organization and design of structures. Basic concepts of calculus, equilibrium, and mechanics of materials.",
       "prerequisites": "ARCC 2202.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -326,7 +326,7 @@
       "description": "Virtual work. Friction. Relative motion of particles. Kinematics of a rigid body: translation, rotation; general plane motion; absolute and relative motion. Kinetics of a rigid body: equations of motion; work-energy; impulse-momentum; conservation of momentum and energy. Conservative forces and potential energy.",
       "prerequisites": "ECOR 1033 , ECOR 1034 , MATH 1004 .",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -350,7 +350,7 @@
       "description": "Introduction to material science. Structure of atoms. Crystallography. Crystal Imperfections. Characteristics, behaviour and use of Civil Engineering materials: steel, concrete, asphalt, wood, polymers, composites. Specifications. Physical, chemical and mechanical properties. Quality control and material tests. Fatigue. Corrosion. Applications in construction and rehabilitation of structures.",
       "prerequisites": "CHEM 1002 or CHEM 1101 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -421,9 +421,7 @@
       "credit": "0.5",
       "description": "Methods of heritage documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
       "prerequisites": "third-year standing in B.Eng. in Architectural Conservation and Sustainability Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -445,9 +443,7 @@
       "credit": "0.5",
       "description": "Building envelope design and analysis; applied heat transfer and moisture transport; solar radiation; hygrothermal modelling; control of rain, air, vapour, and heat; materials for wall, window, curtain wall, roof, and foundation systems; building envelope retrofit case studies; building code; envelope construction.",
       "prerequisites": "MAAE 2400 (concurrent ) or ENVE 2001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -505,7 +501,6 @@
       "description": "Introduction to fundamentals of municipal engineering. Water quality: physical, chemical and biological parameters. Water treatment: softening mixing, flocculation, sedimentation, filtration, disinfection, fluoridation. Biological processes. Wastewater treatment: primary, secondary and tertiary treatment. Sludge disposal and wastewater reuse. Solid waste management.",
       "prerequisites": "CHEM 1002 or CHEM 1101 .",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -563,7 +558,9 @@
       "credit": "0.5",
       "description": "Pavement design methods, flexible pavement materials and mix designs, stresses and strains in flexible pavements; fatigue and rutting design considerations; traffic loading and design loads; design of flexible pavements using AASHTO, M-E and AI methods; rigid pavement designs, design of overlays.",
       "prerequisites": "CIVE 3305 or CIVE 4209 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -585,10 +582,7 @@
       "credit": "0.5",
       "description": "Strength of soils, steady state seepage, flownets and piping. Stress distribution in soils. Earth pressures: at rest, active and passive. Design of flexible and rigid retaining structures. Stability of excavations, slopes and embankments. Settlement of foundations. Bearing capacity of footings.",
       "prerequisites": "CIVE 3208 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -598,9 +592,7 @@
       "credit": "0.5",
       "description": "Road functional classification, human factors of road design; geometric design; traffic engineering; highway capacity and level of service; highway materials; frost action; pavement mix design; structural design of rigid and flexible pavements; maintenance and rehabilitation.",
       "prerequisites": "CIVE 3304 or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -694,10 +686,7 @@
       "credit": "0.5",
       "description": "Introduction to fundamentals of municipal engineering. Water quality: physical, chemical and biological parameters. Water treatment: softening mixing, flocculation, sedimentation, filtration, disinfection, fluoridation. Biological processes. Wastewater treatment: primary, secondary and tertiary treatment. Sludge disposal and wastewater reuse. Solid waste management.",
       "prerequisites": "CHEM 1002 or CHEM 1101 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -717,9 +706,7 @@
       "credit": "0.5",
       "description": "Deterioration mechanisms for concrete, timber, steel and masonry structures.  Identification of design deficiencies; criteria for selection and design of rehabilitation systems.  Design techniques to reduce deterioration in new construction and historical structures.",
       "prerequisites": "CIVE 3207 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -987,7 +974,9 @@
       "credit": "0.5",
       "description": "Basic principles of Computer-Aided Design tools used for analysis and design of communication circuits and systems. Frequency and time-domain analysis. Noise and distortion analysis. Transmission line effects. Sensitivity analysis and circuit performance optimization. Digital simulation.",
       "prerequisites": "fourth-year standing in Engineering.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1033,7 +1022,9 @@
       "credit": "0.5",
       "description": "The electric power system. Components: power transformers and connections, transmission lines.  Analysis: balanced and unbalanced three-phase systems, symmetrical components, load flow, FACTS. Operation: frequency and voltage control, steady state and transient stability, fault protection. Distribution systems: utility, residential, commercial. Electrical safety: code, grounding/bonding.",
       "prerequisites": "ELEC 2602 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1043,7 +1034,9 @@
       "credit": "0.5",
       "description": "Introduction to nMOS IC design: static logic gates, noise margin, transmission gates, factors influencing switching speed, dynamic logic, input protection, output buffers, circuit simulation with SPICE. Laboratory work includes design and layout of a simple nMOS IC that is fabricated and returned for testing.",
       "prerequisites": "ELEC 3500 or ELEC 3908 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1159,7 +1152,9 @@
       "credit": "0.5",
       "description": "At the discretion of the Engineering Faculty Board, a course dealing with selected advanced topics of interest to students in Biomedical and Electrical, Communications, Computer Systems, Electrical and Software Engineering and Engineering Physics may be offered.",
       "prerequisites": "fourth-year standing in Engineering.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1370,9 +1365,7 @@
       "credit": "0.5",
       "description": "Impacts of the environment on architecture; deterioration, freeze/thaw, solar heat, air pollution,  moisture; Impacts of architecture on the environment; ecologic footprint, energy consumption, air quality, waste generation; designing with the environment; renewable energy, effective siting and landscape, passive solar energy, natural lighting, energy efficiency.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1584,9 +1577,7 @@
       "credit": "0.5",
       "description": "Concepts, calculations, modeling; design of green buildings and their components; sustainable sites and landscaping; passive design; building envelope; building materials; daylighting; heating, cooling, and ventilation; building-integrated renewable energy systems; indoor environmental quality; overview of building standards and codes.",
       "prerequisites": "ENVE 2001 or MAAE 2400 or ACSE 2001 or fourth-year standing in B.A.S. concentration in Conservation and Sustainability.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1596,9 +1587,7 @@
       "credit": "0.5",
       "description": "Indoor environmental quality (air quality, thermal, visual, and acoustic comfort); physical and chemical parameters for characterization. Types and sources of indoor air pollution and discomfort; measurement techniques. Heating, ventilation, air conditioning, lighting practices and issues. Modelling of and design for indoor environmental quality.",
       "prerequisites": "ACSE 3105 or ENVE 3100 or ENVE 4003 or fourth year standing in B.A.S. concentration in Conservation and Sustainability.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1608,9 +1597,7 @@
       "credit": "0.5",
       "description": "This course provides details on how buildings are designed and operated. The materials provide foundational knowledge to understand building services: mechanical, electrical, plumbing systems with associated controls.",
       "prerequisites": "CIVE 3209 and ENVE 4105 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1741,7 +1728,9 @@
       "credit": "0.5",
       "description": "The course emphasizes the engineering and design principles of road transport vehicles. Topics to be covered include: performance characteristics, handling behaviour and ride quality of road vehicles.",
       "prerequisites": "MAAE 3004 and MATH 3705 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1751,7 +1740,9 @@
       "credit": "0.5",
       "description": "Engineering and design principles of off-road vehicles and air cushion technology. Topics include: mechanics of vehicle-terrain interaction - terramechanics, performance characteristics of off-road vehicles, steering of tracked vehicles, air cushion systems and their performance, applications of air cushion technology to transportation.",
       "prerequisites": "MAAE 3004 and MATH 3705 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1773,9 +1764,7 @@
       "credit": "0.5",
       "description": "Course extends the student's ability in design and stress analysis. Topics include: introductory continuum mechanics, theory of elasticity, stress function approach, Lam\u00e9 and Mitchell problems, stress concentrations, thermoelasticity and plasticity.",
       "prerequisites": "MAAE 3202 and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1819,7 +1808,9 @@
       "credit": "0.5",
       "description": "Atomic theory, nuclear physics, radioactivity, photoelectric effect, mass defect, binding energy, nuclides, neutron diffusion and moderation.  Reactor theory, kinetics, control.   Reactor types, reactor poisoning, xenon oscillations. Reactor materials, corrosion, fuel and fuel cycle.  Nuclear medicine.  Radiation protection, reactor safety fundamentals.",
       "prerequisites": "MATH 3705 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1881,9 +1872,7 @@
       "credit": "0.5",
       "description": "Energy sources and resources. Basic elements of power generation. Hydro-electric, fossil-fuel, fissile-fuel power plants. Geothermal, solar and wind power plants. Economic and environmental considerations. Energy storage. Future power needs.",
       "prerequisites": "MAAE 2300 , MAAE 2400 and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1894,7 +1883,8 @@
       "description": "Mechanisms of heat transfer: fundamentals and solutions. Steady and transient conduction: solution and numerical and electrical analog techniques. Convective heat transfer: free and forced convection for laminar and turbulent flows; heat exchangers. Heat transfer between black and grey surfaces, radiation shields, gas radiation, radiation interchange.",
       "prerequisites": "( ENVE 2001 or MAAE 2400 ) and ( MAAE 3300 , MECH 3310 , or ENVE 3001 ) and MATH 3705 .",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1905,7 +1895,9 @@
       "credit": "0.5",
       "description": "Environmental demands for residential, commercial and industrial systems. Methods of altering and controlling environment. Air distribution. Refrigeration methods, equipment and controls. Integrated year-round air-conditioning and heating systems; heat pumps. Cooling load and air-conditioning calculations. Thermal radiation control. Component matching. System analysis and design.",
       "prerequisites": "( ACSE 3209 or MAAE 2400 ) and MATH 3705 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1950,9 +1942,7 @@
       "credit": "0.5",
       "description": "Finite element methodology with emphasis on applications to stress analysis, heat transfer and fluid flow using the simplest one- and two-dimensional elements. Direct equilibrium, variational and Galerkin formulations. Computer programs and practical applications. Higher order elements.",
       "prerequisites": "MAAE 3202 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1972,10 +1962,7 @@
       "credit": "0.5",
       "description": "Introduction to contemporary computer aided design and manufacturing (CAD/CAM) Topics covered include mathematical representation, solid modeling, drafting, mechanical assembly mechanism design, (CNC) machining. Current issues such as CAD data exchange standards, rapid prototyping, concurrent engineering, and design for X (DFX) are also discussed.",
       "prerequisites": "( AERO 2001 or MAAE 2001 ) and MATH 3705 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1996,7 +1983,8 @@
       "description": "Introduction to the integration of mechanical, electronic and software components to build mechatronic devices. Mechanical and electrical systems modeling, simulation and implementation. Basic automation and computer requirements. Design tools and examples of mechatronic applications.",
       "prerequisites": "( MAAE 3500 or SYSC 4505 ) and MATH 3705 .",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -2210,9 +2198,7 @@
       "credit": "0.5",
       "description": "Selected advanced topics of interest to Aerospace and Mechanical Engineering students, subject to the discretion of the Faculty of Engineering and Design.",
       "prerequisites": "permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2242,7 +2228,9 @@
       "credit": "0.5",
       "description": "At the discretion of the Faculty, a course may be offered that deals with selected advanced topics of interest to Aerospace and Mechanical Engineering students.",
       "prerequisites": "permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2512,6 +2500,7 @@
       "description": "The imperative programming paradigm: assignment and state, types and variables, static and dynamic typing. Memory management and object lifetimes: static allocation, automatic allocation in activation frames, dynamic allocation. Function argument passing. Recursion. Data structures: dynamic arrays, linked lists, hash tables. Reading and writing from files.",
       "prerequisites": "ECOR 1031 or (ECOR 1041 and ECOR 1042), all with a minimum grade of C- .",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -2524,6 +2513,7 @@
       "description": "Designing and implementing small-scale programs as communities of collaborating objects, using a dynamically-typed or statically-typed programming language. Fundamental concepts: classes, objects, encapsulation, information hiding, inheritance, polymorphism. Iterative, incremental development and test-driven development.",
       "prerequisites": "SYSC 1006 or SYSC 2006 .",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -2535,9 +2525,7 @@
       "credit": "0.5",
       "description": "The imperative programming paradigm: assignment and state, types and variables, static and dynamic typing. Memory management and object lifetimes: static allocation, automatic allocation in activation frames, dynamic allocation. Function argument passing. Recursion. Data structures: dynamic arrays, linked lists, hash tables.  Reading and writing files.",
       "prerequisites": "ECOR 1031 or (ECOR 1041 and ECOR 1042), all with a minimum grade of C- .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2560,6 +2548,7 @@
       "description": "Thorough coverage of fundamental abstract collections: stacks, queues, lists, priority queues, dictionaries, sets, graphs. Data structures: review of arrays and linked lists; trees, heaps, hash tables. Specification, design, implementation of collections, complexity analysis of operations. Sorting algorithms.",
       "prerequisites": "SYSC 1006 or SYSC 2006 .",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -2657,7 +2646,8 @@
       "description": "Development of expertise in designing, implementing and testing maintainable, reusable software through team projects. Applying modern programming languages, design patterns, frameworks, UML and modern development processes (detection of olfactible source code defects, refactoring, iterative and incremental development, version control techniques) to medium-scale projects.",
       "prerequisites": "SYSC 2004 and SYSC 2100 , and enrolment in Software Engineering.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -2854,7 +2844,7 @@
       "description": "Simulation as a problem solving tool. Random variable generation, general discrete simulation procedure: event table and statistical gathering. Analyses of simulation data: point and interval estimation. Confidence intervals. Overview of modeling, simulation, and problem solving using SIMSCRIPT, MODSIM, and other languages.",
       "prerequisites": "ECOR 1031 and ( ECOR 2050 or SYSC 2510 or STAT 2605 or STAT 3502 ), or permission of the Department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -2993,7 +2983,9 @@
       "credit": "0.5",
       "description": "Surgical robotic system architecture, forward and inverse kinematics of articulated robot arms, force and position control, unilateral and bilateral teleoperation of surgical robots, haptics and force feedback, instrumentation, image-guided surgery, design and implementation of robotic systems for minimally invasive surgery.",
       "prerequisites": "SYSC 3600 or SYSC 3610 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3088,8 +3080,7 @@
       "description": "Review of Laplace transform techniques. Effects of feedback: frequency response, pole-zero positions. Compensation: root locus, Bode plots. State variables: formulation, solution of linear systems, examples of simple second-order non-linear systems. Discrete time systems: z-transforms. Signal reconstruction.",
       "prerequisites": "MATH 2004 and ( SYSC 3500 or SYSC 3600 or SYSC 3610 ).",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -3584,7 +3575,7 @@
           "description": "Professional Practice"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from"
@@ -4388,7 +4379,7 @@
           "description": "Multidisciplinary Engineering Project"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credits from: 4000-level AERO, MAAE or MECH, or"
@@ -4886,7 +4877,7 @@
           "description": "Multidisciplinary Engineering Project"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credits from 4000-level MAAE, AERO or MECH, or"
@@ -5258,7 +5249,7 @@
           "description": "Professional Practice"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from"
@@ -5855,7 +5846,7 @@
           "description": "0.5 credit in BIOM at the 5000 level"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from SYSC or ELEC at the 3000 or 4000 level, or BIOM or SYSC at the 5000 level"
@@ -6196,91 +6187,35 @@
           "description": "Ethics, Research Methods and Standards for Biomedical Engineering"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "1.0 credit from 1.0"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ECOR 4907",
             "SYSC 4202",
-            "SYSC 4203"
-          ],
-          "credits": 0.5,
-          "description": "0.5 credit in MAAE, MECH or AERO at the 4000 level, SYSC 4202 [0.5], SYSC 4203 [0.5]"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4201"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Cell Culture and Tissue Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4309"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Human Performance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4319"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Exercise Physiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4901"
-          ],
-          "credits": 0.5,
-          "description": "Directed Special Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4202"
-          ],
-          "credits": 0.5,
-          "description": "Clinical Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4203"
-          ],
-          "credits": 0.5,
-          "description": "Bioinstrumentation and Signals"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SYSC 4203",
+            "BIOL 4201",
+            "BIOL 4309",
+            "BIOL 4319",
+            "BIOL 4901",
+            "SYSC 4202",
+            "SYSC 4203",
             "SYSC 4206"
           ],
-          "credits": 0.5,
-          "description": "Surgical Robotics"
+          "credits": 1.0,
+          "description": "1.0 credit from 1.0"
         },
         {
           "type": "elective",
@@ -6586,7 +6521,7 @@
           "description": "Professional Practice"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from"
@@ -8346,7 +8281,7 @@
           "description": "Introduction to Quantum Mechanics I"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from"
@@ -8762,7 +8697,7 @@
           "description": "Professional Practice"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from"
@@ -9243,7 +9178,7 @@
           "description": "Heat Transfer"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "7.0 1.0 credit from"
@@ -11100,7 +11035,7 @@
           "description": "Modeling and Analysis of Energy Systems"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from"
@@ -11128,7 +11063,7 @@
           "description": "Multidisciplinary Engineering Project"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credit from"
@@ -11140,7 +11075,7 @@
           "description": "Any 4000-level Engineering course for which prerequisites have been satisfied."
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from"
@@ -11221,12 +11156,12 @@
           "description": "Co-operative Work Term"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ENVE 3999"
           ],
-          "credits": 0.0,
-          "description": "Co-operative Work Term"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

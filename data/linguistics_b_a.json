@@ -72,7 +72,7 @@
       "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. Topics include: the nature of meaning; the connections between language, communication and cognition; language as a social activity.",
       "prerequisites": "second-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -142,7 +142,7 @@
       "description": "Selected topics in general linguistics not ordinarily treated in the regular course program. Contents of the course vary from year to year.",
       "prerequisites": "",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -186,7 +186,7 @@
       "description": "Milestones associated with the development of grammatical, pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
       "prerequisites": "LING 1001 and second-year standing, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -209,7 +209,9 @@
       "credit": "0.5",
       "description": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -220,7 +222,7 @@
       "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
       "prerequisites": "ALDS 1001 and third-year standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -271,10 +273,7 @@
       "credit": "1.0",
       "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -284,10 +283,7 @@
       "credit": "0.5",
       "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -297,7 +293,9 @@
       "credit": "0.5",
       "description": "Advanced topics in syntax.",
       "prerequisites": "LING 3004 and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -340,7 +338,9 @@
       "credit": "0.5",
       "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -370,9 +370,7 @@
       "credit": "0.5",
       "description": "\u00c9tude des variations internes de la langue, dans des dimensions orales/\u00e9crites. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students submit assignments in English.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -402,9 +400,7 @@
       "credit": "0.5",
       "description": "Further study of psychological and neurolinguistic mechanisms of adult language processing. May include topics from first language acquisition.",
       "prerequisites": "LING 3601 or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -414,7 +410,9 @@
       "credit": "0.5",
       "description": "Advanced topics in language acquisition and development and the relative contributions of the environment, cognitive development, and inborn knowledge.",
       "prerequisites": "LING 1001 and LING 3603 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -425,7 +423,8 @@
       "description": "Through field placements, students pursue personal learning objectives related to speech-language pathology, with a focus on the clinical application of knowledge gained in the Psycholinguistics and Communication Differences concentration.",
       "prerequisites": "LING 3604 , fourth-year Honours standing in B.A. or B.Sc. in Linguistics with a Concentration in Psycholinguistics and Communication Disorders with a CGPA of 10.0 in the major, and permission from the School of Linguistics and Language Studies.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -449,7 +448,7 @@
       "description": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
       "prerequisites": "Third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -490,10 +489,7 @@
       "credit": "1.0",
       "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -503,10 +499,7 @@
       "credit": "0.5",
       "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -785,36 +778,15 @@
           "description": "Communication Differences and Disabilities II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 4601"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Neuroscience of Language"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4603"
-          ],
-          "credits": 0.5,
-          "description": "First Language Acquisition"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4605"
-          ],
-          "credits": 0.5,
-          "description": "Psycholinguistic Research Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LING 4601",
+            "LING 4603",
+            "LING 4605",
             "LING 4606"
           ],
-          "credits": 0.5,
-          "description": "Statistics for Language Research"
+          "credits": 1.0,
+          "description": "c. 1.0 credit from:"
         },
         {
           "type": "elective",

@@ -180,7 +180,9 @@
       "credit": "0.5",
       "description": "Physical characteristics and causes of natural disasters of geological origin such as volcanic eruptions, earthquakes, tsunami, landslides, hurricanes and meteor impacts. Discussion on historical perspective, societal impact and mitigation strategies. Emphasis on Canadian case histories.",
       "prerequisites": "second-year standing in any degree program. With the exception of the Minor in Earth Sciences, available as a free elective only in any B.Sc. program, including Earth Sciences.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -213,7 +215,7 @@
       "description": "An introduction to the geology of North America's National parks, the ultimate awe-inspiring educational experience, and how these parks collectively tell the story of the processes that have shaped the continent.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -246,7 +248,9 @@
       "credit": "0.5",
       "description": "Origins and evolution of igneous rocks through partial melting, crystallization, degassing, and assimilation of host rocks.\u00a0 Phase diagrams and classification schemes will be used to provide systematic tools for the description and interpretation of igneous rocks.",
       "prerequisites": "ERTH 2102 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -280,7 +284,9 @@
       "credit": "0.5",
       "description": "The origin and evolution of our species from geological, biological and cultural perspectives. The course traces human ancestry from our primate roots through time and changing environments, and explores controversies, frauds, and misperceptions.",
       "prerequisites": "any 1000 or 2000 level Earth Sciences or Biology course.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -407,7 +413,9 @@
       "credit": "0.5",
       "description": "Exploration of the relationship between micro- and macro-ecological and evolutionary processes and the Earth's physical and chemical environment. Paleobiology and evolutionary ecology in the context of paleoceanography, paleolimnology and/or paleoclimatology. Will include one or two weeks of field based instruction with costs borne by student.",
       "prerequisites": "2nd year standing in a Faculty of Science program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -461,7 +469,9 @@
       "credit": "0.5",
       "description": "Isotope applications in environmental and Earth sciences. Emphasis is placed current and novel environmental applications including contaminant tracing, hydrogeological studies, and (bio)geochemical cycling of elements. Mechanisms of stable isotope fractionation and analysis are presented. Student-led projects will explore the broad realm of isotope studies.",
       "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -503,9 +513,7 @@
       "credit": "0.5",
       "description": "Analysis of the physical and chemical conditions, rock-forming processes, as well as the tectonic settings, that control the formation of different rock types. May include one to two weeks of field-based instruction, with costs borne by the student.",
       "prerequisites": "ERTH 3207 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3152,7 +3160,7 @@
           "description": "Field Course I"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.5,
           "description": "3.5 credits in BIOL or BIOC, with at least 1.0 credit at the 3000-level and 1.0 credit at the 4000-level"

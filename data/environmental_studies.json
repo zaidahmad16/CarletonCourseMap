@@ -190,7 +190,7 @@
       "description": "Principles, scope and purpose of environmental impact assessment, from conceptual and methodological points of view; range of environmental issues, with emphasis on Canadian case studies.",
       "prerequisites": "GEOG 3022 or ENST 3022 , and fourth-year Honours standing in Geography or Environmental Studies or Environmental Science, or permission of the Department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -214,7 +214,9 @@
       "credit": "0.5",
       "description": "Critical examination of the creation, implementation and effectiveness of government policies related to environmental issues. Emphasis on perspectives, actors, institutions and social and economic relationships affecting policy responses to these issues, and on tools for analyzing the implications of specific policy choices.",
       "prerequisites": "fourth-year Honours standing in Environmental Studies,  Geography, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -224,7 +226,9 @@
       "credit": "0.5",
       "description": "Selected topics in geography and/or environmental studies.",
       "prerequisites": "fourth-year Honours standing in the Department or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -271,9 +275,7 @@
       "credit": "0.5",
       "description": "Working in partnership with local organizations, students apply their geographical knowledge to conduct community-engaged research. Student projects will generate outputs for community partners. Research topics vary year to year.",
       "prerequisites": "fourth-year standing, or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -331,12 +333,12 @@
           "description": "Introduction to Environmental and Climate Change Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ENST 1020"
           ],
-          "credits": 0.5,
-          "description": "People, Places and Environments"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -647,12 +649,12 @@
           "description": "Introduction to Environmental and Climate Change Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ENST 1020"
           ],
-          "credits": 0.5,
-          "description": "People, Places and Environments"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -790,164 +792,45 @@
           "description": "Location is Everything"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1107"
           ],
-          "credits": 1.0,
-          "description": "Social Justice and the City"
+          "credits": null,
+          "description": ""
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENST 1000"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Environmental and Climate Change Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FYSM 1108"
-          ],
-          "credits": 0.5,
-          "description": "Sustainable Environments"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ENST 1000",
+            "FYSM 1108",
             "ENST 1020"
           ],
           "credits": 0.5,
-          "description": "People, Places and Environments"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Global Environmental Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOM 1004"
-          ],
-          "credits": 0.5,
-          "description": "Maps, Satellites and the Geospatial Revolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 2000"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 2001"
-          ],
-          "credits": 0.5,
-          "description": "Sustainable Futures: Environmental Challenges and Solutions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 2500"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: Social Science Perspectives"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 3000"
-          ],
-          "credits": 0.5,
-          "description": "Nature, Environment and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 3022"
-          ],
-          "credits": 0.5,
-          "description": "Environmental and Natural Resources"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3501"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of the Canadian North"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 4006"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Policy Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENST 4050"
-          ],
-          "credits": 0.5,
-          "description": "Environmental and Geographic Education"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3206"
-          ],
-          "credits": 0.5,
-          "description": "Health, Environment, and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3209"
-          ],
-          "credits": 0.5,
-          "description": "Sustainability and Environment in the South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 4004"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Impact Assessment"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 4022"
-          ],
-          "credits": 0.5,
-          "description": "Seminar in People, Resources and Environmental Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2015"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Relationalities, Kinships, and Knowledges"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOG 1010",
+            "GEOM 1004",
+            "ENST 2000",
+            "ENST 2001",
+            "ENST 2500",
+            "ENST 3000",
+            "ENST 3022",
+            "GEOG 3501",
+            "ENST 4006",
+            "ENST 4050",
+            "GEOG 3206",
+            "GEOG 3209",
+            "GEOG 4004",
+            "GEOG 4022",
+            "INDG 2015",
             "INDG 3015"
           ],
           "credits": 0.5,
-          "description": "Indigenous Cosmologies"
+          "description": "and 0.5 credit from:"
         }
       ]
     }

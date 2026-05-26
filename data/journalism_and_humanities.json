@@ -229,7 +229,9 @@
       "credit": "0.5",
       "description": "An interdisciplinary seminar on a selected topic in the humanities from Antiquity to the Middle Ages. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -240,7 +242,7 @@
       "description": "An interdisciplinary seminar on a selected topic in the humanities from the Renaissance to the Enlightenment. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -252,7 +254,7 @@
       "description": "An interdisciplinary seminar on a selected topic in the humanities from Romanticism to the present. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -448,7 +450,9 @@
       "credit": "0.5",
       "description": "Survey of Canadian laws and ethical issues that affect production and dissemination of digital media, including Charter of Rights and Freedoms, limitations on freedom of the press, including publication bans, libel and contempt of court.  Different approaches to ethical decision-making and their applications.",
       "prerequisites": "JOUR 1001 , JOUR 1002 , COMS 1001 , COMS 1002 , or enrollment in the Minor in News Media and Information, or enrollment in the Communications and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -521,7 +525,8 @@
       "description": "Ethical issues related to production and dissemination of news and other forms of content as they relate to digital environments. Different approaches to ethical decision-making and their application in contemporary settings.",
       "prerequisites": "JOUR 2201 , JOUR 2202 and JOUR 2501 with a grade of C or higher in each, or JOUR 2003 and JOUR 2501 with a grade of C or higher in each and enrollment in the Minor in News Media and Information.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -573,7 +578,7 @@
       "description": "Changes occurring in the media, in the public\u2019s relationship with the media and how journalists and news organizations respond. Practical issues and challenges in the professional life of a journalist.",
       "prerequisites": "fourth-year standing in the Bachelor of Journalism or in the Bachelor of Media Production and Design, or fourth-year standing and enrollment in the Minor in News Media and Information, or fourth-year standing in the Strategic Public Opinion stream of the Communication and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -611,7 +616,7 @@
       "description": "A workshop designed to give students instruction in video journalism as they produce stories from across the city and beyond.",
       "prerequisites": "JOUR 3208 with a grade of C or higher and fourth-year standing in B.J. Hons.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -632,9 +637,7 @@
       "credit": "0.5",
       "description": "An examination of a topic in journalism not covered in depth in other courses. Topics may vary from year to year.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -644,7 +647,9 @@
       "credit": "0.5",
       "description": "Examination of a topic not covered in depth in other specialized journalism courses. Topics may vary from year to year. Emphasis on explanatory/analytical reporting, culminating in an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -729,7 +734,8 @@
       "description": "Students are introduced to arts and culture journalism, exploring issues and trends that are key to understanding and covering the arts and related cultural policy in Canada. Emphasis on explanatory/analytical reporting, culminating in an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -741,7 +747,7 @@
       "description": "Examination of the Supreme Court of Canada, and the role of journalists in covering it. Students attend hearings and gain insight into the court\u2019s role in the making and shaping of Canada. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -777,8 +783,7 @@
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "third- or fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -885,9 +890,7 @@
       "credit": "0.5",
       "description": "Journalists often swoop in at the most difficult moments of a person's life- aftermath of violent incident/catastrophe, tragic death of loved one, or culmination of painful criminal trial. Students will be prepared for ethical, practical and emotional challenges of reporting accurately, sensitively to traumatic events.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -909,9 +912,7 @@
       "credit": "0.5",
       "description": "Students will learn strategies for inclusive journalism through practical application, focusing on diversity, inclusion, and belonging in Canadian media. Learn to identify biases, self-reflection, and apply inclusive reporting techniques. Write stories that foster belonging, reflect diverse voices, and report with respect, care and cultural awareness.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year B.J. Honours standing, or permission of the School.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1028,7 +1029,7 @@
           "description": "Journalism  Now - and Next"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "2.5 credits from: Journalism Publications and/or Specialized Journalism and/or Professional Skills and/or Investigating Journalism. (At least 0.5 credit must be taken from Journalism Publications courses and at least 0.5 credit must be taken from the Specialized Journalism courses.)"

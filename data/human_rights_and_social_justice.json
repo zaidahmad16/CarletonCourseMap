@@ -363,7 +363,9 @@
       "credit": "0.5",
       "description": "Legal, theoretical, and theological interconnec\u019fons between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommoda\u019fon and neutrality.Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
       "prerequisites": "fourth-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },

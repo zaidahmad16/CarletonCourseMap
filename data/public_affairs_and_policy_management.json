@@ -9,8 +9,7 @@
       "description": "The processes of policy-making, implementation and evaluation. Forces that shape policy deliberations and alternative tools for managing policy action and policy evaluation. Theoretical approaches to understanding the origins of policy, and methods by which programs are designed and assessed.",
       "prerequisites": "",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1275,12 +1274,12 @@
           "description": "International Relations: Global Politics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PSCI 2602"
           ],
-          "credits": 0.5,
-          "description": "International Relations: Global Political Economy"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "An introduction to computational thinking and its applications to the arts and social sciences.  Students will gain computational thinking skills by exploring data representation, basic programming concepts, a selection of algorithms, and advanced usage of software packages for the arts and social sciences.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -169,6 +167,7 @@
       "description": "A tour of Internet security and privacy. Societal impacts and case studies. Topics from: protection goals of stakeholders; history of public key cryptography; programming languages and security; security engineering and testing; cybercrime and malware; Internet privacy and anonymity; government surveillance; regulation; ethics; blockchain applications.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- , and COMP 2401 with a minimum grade of C- .",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -255,7 +254,7 @@
       "description": "A course on programming simulated mobile robots with various sensors such as wheel encoders, distance sensors, cameras, compasses, accelerometers, and laser range finders. Topics include: programming robot behaviour; performing position estimation; implementing algorithms related to navigation, mapping, path planning, area coverage, and localization.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -419,9 +418,7 @@
       "credit": "0.5",
       "description": "Technical communication for computer science majors, concentrating on writing scientific papers and technical reports. Principles of clarity and precision in writing and communication. Practical exercises and readings from recent technical publications will be used.",
       "prerequisites": "COMP 2402 and ( COMP 2404 or SYSC 3010 or SYSC 3110 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -454,7 +451,7 @@
       "description": "Theoretical aspects of computer science. Topics include: formal languages and automata theory, computability theory.",
       "prerequisites": "COMP 2804 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -536,7 +533,9 @@
       "credit": "0.5",
       "description": "An advanced course on the software infrastructure supporting large-scale cloud computing applications. Topics may include: distributed file systems, distributed databases, overlay networks, container orchestration, coordination services, security and privacy services, and large-scale AI pipelines.",
       "prerequisites": "( COMP 3000 or SYSC 4001 ) and ( COMP 3203 or SYSC 4602 ).",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -611,7 +610,7 @@
       "description": "Learn about designing and programming reinforcement learning agents to perform complex tasks in interactive environments. Topics include Markov decision processes, dynamic programming methods, Monte Carlo methods, temporal difference learning, prediction/control with function approximation, policy gradient, and deep reinforcement learning algorithms.",
       "prerequisites": "COMP 2402 , ( COMP 2404 or SYSC 3010 or SYSC 3110 ), ( MATH 1004 or MATH  1007), ( MATH 1104 or MATH 1107 ), and ( DATA 1517 or STAT 2507 ).",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -622,7 +621,9 @@
       "credit": "0.5",
       "description": "The basic ideas and techniques of computer vision. The central theme is reconstructing 3D models from 2D images. Topics include: image formation, image feature extraction, camera models, camera calibration, structure from motion, stereo, recognition, augmented reality, image searching.",
       "prerequisites": "( COMP 2404 or SYSC 3010 or SYSC 3110 ) and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -667,7 +668,9 @@
       "credit": "0.5",
       "description": "Introduction to the ideas and principles of quantum computing and information. Review of mathematical foundations. Discussion of quantum theory, architecture, and quantum gates. Basic algorithms in quantum computing. Theoretical computer science and computation. Applications of quantum computing to cryptography. Quantum information and error correction.",
       "prerequisites": "COMP 2804 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -743,7 +746,9 @@
       "credit": "0.5",
       "description": "An overview of computer graphics, with an emphasis on rendering. Topics include the following: visibility; ray tracing; graphics hardware; object and scene modeling; lighting, shading, and texture; animation.",
       "prerequisites": "COMP 2401 with a minimum grade of C- , COMP 2402 , ( MATH 1004 or MATH 1007 ), and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -789,7 +794,9 @@
       "credit": "0.5",
       "description": "Algorithm design techniques for modern data sets arising in, for example, data mining, web analytics, search engines and social networks. Topics may include locality-sensitive hashing, data streaming, clustering, recommendation systems, link analysis, dimensionality reduction, online algorithms, social network analysis, graph partitioning, and randomized algorithms.",
       "prerequisites": "COMP 2804 with a minimum grade of B+ .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -833,7 +840,9 @@
       "credit": "0.5",
       "description": "Computational methods in numerical linear algebra including solvers for large linear systems, numerical optimization and eigenvalue problems. Application to topics such as scientific machine learning or parallel computing. Focus on implementation in an efficient compiled language and standard numerical libraries.",
       "prerequisites": "i) MATH 3806 ; and ii) MATH 2152 or MATH 2107 with a grade of C- or higher, or permission of the school.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -918,7 +927,9 @@
       "credit": "0.5",
       "description": "Block ciphers and modes of operation; public-key encryption; cryptographic hash functions; digital signatures; password-based cryptography; randomness and guesswork; authentication and authenticated key establishment protocols; challenge-response protocols; elliptic curve cryptography; post-quantum algorithms.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- , ( COMP 2804 or STAT 2507 ), and MATH 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1586,15 +1597,15 @@
           "description": "Linear Algebra for Engineering or Science"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "STAT 2605"
           ],
           "credits": 0.5,
-          "description": "Probability Models"
+          "description": "0.5 credit from: 0.5"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "or 0.5 credit in MATH at the 2000-level or above"

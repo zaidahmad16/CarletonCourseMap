@@ -248,7 +248,9 @@
       "credit": "0.5",
       "description": "An exploration of the main hypotheses, lines of evidence, and open questions to the origin of life.  Topics include thermodynamics of life, the Oparin-Haldane hypothesis, the Miller-Urey experiment, the RNA world hypothesis, panspermia hypotheses, and a special focus on the alkaline hydrothermal vent hypothesis.",
       "prerequisites": "BIOL 2200 or BIOL 2201 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -398,9 +400,7 @@
       "credit": "0.5",
       "description": "The science of biology as applied to the problem of maintaining species diversity. Topics include: history of conservation biology, valuation of species, indices of biodiversity, extinction, conservation genetics, conservation planning in parks and reserves, landscape ecology and case studies of conservation problems.",
       "prerequisites": "BIOL 2600 or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -458,9 +458,7 @@
       "credit": "0.5",
       "description": "Evolution is the change in population properties across generations. Genetic variation, mutation, selection, drift, gene flow, genome evolution, speciation, development, biodiversity, fossils, and macro-evolution.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -516,7 +514,9 @@
       "credit": "0.5",
       "description": "Diversity in social behaviour from evolutionary and ecological perspectives. Topics include ecological determinants of social living, social networks, social foraging, inclusive fitness, kin selection, altruism, cooperation, and mating systems and strategies.",
       "prerequisites": "BIOL 2600 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -569,9 +569,7 @@
       "credit": "0.5",
       "description": "Recent advances in plant development including molecular, biochemical, genomics, and proteomics studies.",
       "prerequisites": "BIOL 2002 or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -591,7 +589,9 @@
       "credit": "0.5",
       "description": "Evolution of gene frequencies, including selection, mutation, genetic drift, inbreeding, gene flow, and population structure.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the Department. A course in statistics is highly recommended.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -601,9 +601,7 @@
       "credit": "0.5",
       "description": "An overview of the molecular evidence of evolution, speciation as well as the phylogenetic analysis of biological sequence data and biometrical traits.",
       "prerequisites": "( BIOL 2001 or BIOL 2002 ) and ( BIOL 2104 or BIOL 2107 ) or permission of the Department. A course in statistics is recommended.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -705,7 +703,9 @@
       "credit": "0.5",
       "description": "An advanced course dealing with recent developments in selected topics of plant physiology.",
       "prerequisites": "BIOL 3205 and CHEM 2203 , CHEM 2204 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -739,9 +739,7 @@
       "credit": "0.5",
       "description": "Exploration of current microbiology including the molecular biology of infectious agents, use of model micro-organisms to study human cells and diseases, and functional genomics and proteomics. Special attention will be paid to the field\u2019s \"big questions\". Students will critically examine a number of research proposals.",
       "prerequisites": "BIOL 2303 and ( BIOL 3104 or BIOL 3303 or BIOC 3102 ) or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -773,7 +771,9 @@
       "credit": "0.5",
       "description": "Biomechanical underpinnings of human performance including the quantitative analysis of human motion in normal activities and in athletic performance. Students will learn modern motion capture methods. This course will require students to design and execute an independent project.",
       "prerequisites": "BIOL 3307 and fourth-year standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -783,9 +783,7 @@
       "credit": "0.5",
       "description": "Proximate mechanisms underlying animal behaviour. Focus on evolution of nervous systems in response to environmental selection pressures. Topics include: genetic and hormonal influences on behaviour (e.g. maternal care); unique sensory worlds (e.g. magnetic); various levels of neural integration, from simple reflexes to complex social behaviour.",
       "prerequisites": "BIOL 3305 or BIOL 3306 , or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -805,9 +803,7 @@
       "credit": "0.5",
       "description": "Physiological mechanisms underlying human athletic performance. Exercise physiology and cardio-respiratory activity, metabolic regulation and musculoskeletal function. Practical experience will be gained in the workshop/laboratory based experimental sessions.",
       "prerequisites": "BIOL 3307 and fourth-year standing, or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -817,9 +813,7 @@
       "credit": "0.5",
       "description": "Introduction to ornithology, the study of birds; the evolution of birds, migration, geographic variation, adaptations for flight, feeding, reproduction; extinction and preservation.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -851,7 +845,10 @@
       "credit": "0.5",
       "description": "Introduction to the diversity and environmental biology of the world's fishes. Applied issues in fisheries management, conservation, and aquaculture. Workshops expose students to techniques in fisheries science through hands-on demonstrations and field excursions.",
       "prerequisites": "BIOL 2600 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -871,9 +868,7 @@
       "credit": "0.5",
       "description": "Examining the diversity of life on coral reefs and their interactions across ecological scales, from the biochemistry of zooxanthellae symbiosis to landscape scale trophodynamics, reticulate evolution, and reef fisheries. Emphasis is on synthesis writing drawn from the current primary literature.",
       "prerequisites": "BIOL 2600 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -947,9 +942,7 @@
       "credit": "0.5",
       "description": "Introduction to learning and teaching university science. The science of learning, evidence of effective teaching, and teaching methodologies. Professional ethics, constructivist learning, equity and inclusion. Discipline-Based Education Research (DBER). Students will conduct their own DBER research project.",
       "prerequisites": "4th year standing, or permission of the Department This course can only be used by students in programs offered by, or in conjunction with, the Faculty of Science as a free elective.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1232,20 +1225,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1545,20 +1531,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1645,7 +1624,7 @@
           "description": "3.5 credits in BIOL or BIOC at the 3000-level or higher"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from"
@@ -1734,12 +1713,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1750,12 +1729,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1829,20 +1808,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1957,12 +1929,12 @@
           "description": "Evolutionary Concepts"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 3611"
           ],
-          "credits": 0.5,
-          "description": "Evolutionary Ecology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2173,12 +2145,12 @@
           "description": "Research Proposal"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 4901"
           ],
-          "credits": 0.5,
-          "description": "Directed Special Studies"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2243,12 +2215,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2259,12 +2231,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2386,20 +2358,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2768,7 +2733,7 @@
           "description": "0.5 credit in BIOL at the 2000 level or higher"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from"
@@ -2782,12 +2747,12 @@
           "description": "Research Proposal"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 4901"
           ],
-          "credits": 0.5,
-          "description": "Directed Special Studies"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2845,12 +2810,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2861,12 +2826,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2940,20 +2905,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3172,7 +3130,7 @@
           "description": "Studies in Exercise Physiology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from BIOL or BIOC at the 3000-level or higher"
@@ -3339,12 +3297,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3355,12 +3313,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3450,20 +3408,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3734,12 +3685,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3750,12 +3701,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3829,20 +3780,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4114,12 +4058,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4130,12 +4074,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4249,12 +4193,12 @@
           "description": "Introductory Genetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2107"
           ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4265,12 +4209,12 @@
           "description": "Cellular Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2201"
           ],
-          "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4366,12 +4310,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4382,12 +4326,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4515,7 +4459,7 @@
           "description": "Human Anatomy and Physiology"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "2.5 credits from BIOL at the 2000-level and 3000-level or higher"
@@ -4570,12 +4514,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4586,12 +4530,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4769,12 +4713,12 @@
           "description": "Physical Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 2103"
           ],
-          "credits": 0.5,
-          "description": "Physical Chemistry I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -5017,20 +4961,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -5091,12 +5028,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -5107,12 +5044,12 @@
           "description": "Elementary University Physics II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1004"
           ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -5190,7 +5127,7 @@
           "description": "Field Course I"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.5,
           "description": "3.5 credits in BIOL or BIOC, with at least 1.0 credit at the 3000-level and 1.0 credit at the 4000-level"
@@ -6324,12 +6261,12 @@
           "description": "Introductory Genetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2107"
           ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -6340,12 +6277,12 @@
           "description": "Cellular Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2201"
           ],
-          "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -6416,20 +6353,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -6650,12 +6580,12 @@
           "description": "Introductory Genetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2107"
           ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -6666,12 +6596,12 @@
           "description": "Cellular Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2201"
           ],
-          "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -6704,20 +6634,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -6726,7 +6649,7 @@
           "description": "or equivalent from the other Honours department"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credits from BIOL"
@@ -6974,12 +6897,12 @@
           "description": "Introductory Genetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2107"
           ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -6990,12 +6913,12 @@
           "description": "Cellular Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 2201"
           ],
-          "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

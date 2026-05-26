@@ -105,7 +105,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         draggable: false,
         selectable: false,
         data: {
-          code: 'Elective',
+          code: req.type === 'choose' ? 'Choose' : 'Elective',
           name: simplifyDesc(req.description),
           style: req.description
             ? getElectiveStyle(req.description)

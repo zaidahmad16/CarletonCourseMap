@@ -28,9 +28,7 @@
       "credit": "0.5",
       "description": "A practical and intensive overview of English grammar designed for students who want to improve their understanding of grammar for their own writing and reading. This is not an ESL course.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -40,7 +38,9 @@
       "credit": "0.5",
       "description": "Introduction to the study of literature from a global perspective. Students will be exposed to writers from various locations and to methods for studying literature across national boundaries.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -76,7 +76,9 @@
       "credit": "0.5",
       "description": "An introductory course whose readings focus on the intersections between literature, law, and criminality.  Topics will vary.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -99,7 +101,7 @@
       "description": "An introductory course whose readings focus on the intersections between literature, psychology, and the mind.  Topics will vary.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -110,9 +112,7 @@
       "credit": "0.5",
       "description": "An introductory course whose readings focus on the intersections between literature, art, and culture. Topics will vary.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -135,9 +135,7 @@
       "credit": "0.5",
       "description": "An introductory course whose readings focus on the intersections between literature and magic.  Topics will vary.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -169,9 +167,7 @@
       "credit": "0.5",
       "description": "An introduction to theories and methods of literary analysis. Through the study of literature, theory, and criticism, students will explore disciplinary history, critical terms, textual analysis, and research methods.",
       "prerequisites": "second-year standing or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -303,9 +299,7 @@
       "credit": "0.5",
       "description": "This course not only surveys theories about the imagination and creativity but also teaches various rhetorical exercises and strategies for sparking inventive thinking and new ideas to fire the writing process.",
       "prerequisites": "second-year standing or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -388,8 +382,7 @@
       "description": "A study of classical mythology, emphasizing its use in Greek and Roman literature and its place in classical art and religion. There is some discussion of classical myths in terms of contemporary interpretations of myth.",
       "prerequisites": "second-year standing or permission of the unit.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -436,9 +429,7 @@
       "credit": "0.5",
       "description": "A study of dramatic texts and traditions, offering attention to major dramatic modes and movements such as Ritual, Dance, Naturalism, Expressionism, Absurdism, Political Theatre, Feminist Theatre, and Global/Intercultural Theatre. Each will be investigated in the context of performance videos, live performances, and/or written text.",
       "prerequisites": "second-year standing or permission of the department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -468,7 +459,9 @@
       "credit": "0.5",
       "description": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors, and other practitioners.",
       "prerequisites": "second-year standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -501,9 +494,7 @@
       "credit": "0.5",
       "description": "A study of developments in the literary representation of the self. The course considers a wide range of major texts from the Middle Ages to the present.",
       "prerequisites": "second-year standing or permission of the department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -525,9 +516,7 @@
       "credit": "0.5",
       "description": "A workshop involving regular assignments in writing prose fiction and practical criticism based on this work. Permission to register in this course  requires the student to submit a writing sample. Instructions can be found at carleton.ca/english.",
       "prerequisites": "permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -559,9 +548,7 @@
       "credit": "0.5",
       "description": "This experiential learning course immerses students in the practical arts and histories of book production.",
       "prerequisites": "second-year standing or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -581,7 +568,9 @@
       "credit": "0.5",
       "description": "A workshop involving regular assignments in reading and writing creative nonfiction and practical criticism based on this work.  Permission to register in this course requires the student to submit a writing sample.  Instructions can be found at carleton.ca/english.",
       "prerequisites": "permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -653,7 +642,9 @@
       "credit": "0.5",
       "description": "Introduction to comparative and transnational approaches to 20th- and 21st-century writing from the Caribbean, and North and South America.",
       "prerequisites": "second-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -683,7 +674,9 @@
       "credit": "0.5",
       "description": "A study of an author or topic in Greek literature. Contents of this course vary from year to year.",
       "prerequisites": "1.0 credit in CLCV courses (or equivalent) at second year level or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -703,7 +696,9 @@
       "credit": "0.5",
       "description": "This course is designed to enable students to develop skills in reading and writing about great works of poetry. Course requirements will feature a combination of creative and critical exercises, but no formal essay.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -723,9 +718,7 @@
       "credit": "0.5",
       "description": "An exploration of the cultural borders and boundaries of contemporary Europe, Russia, and Eurasia. Using literary and visual texts, the course explores issues such as migration, cultural and political borders and their transcendence, cultural responses to authoritarianism, the Cold War and its afterlives, and memory.",
       "prerequisites": "Second year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -735,7 +728,9 @@
       "credit": "0.5",
       "description": "Introduction to ideas about literature, aesthetics, authorship, and readership as these have circulated in periods before the twentieth century.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -745,10 +740,7 @@
       "credit": "1.0",
       "description": "This course offers students an interdisciplinary foundation in cultural, critical, and literary theories and practices.  This course is writing attentive.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -803,7 +795,9 @@
       "credit": "0.5",
       "description": "A study of Shakespeare\u2019s works and/or their adaptations which may include play texts, films, poems, contemporary productions, or digital media.  Topics vary from year to year.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -903,7 +897,10 @@
       "credit": "0.5",
       "description": "Introduction to contemporary approaches to literary texts, such as formalist, structuralist, deconstructive, psychoanalytic, Marxist, historicist, and feminist. Topics may include: the nature and role of literature, of author and reader, of canons, ideology, gender, sexuality, and race.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -933,9 +930,7 @@
       "credit": "0.5",
       "description": "A study of American writing in its cultural and historical contexts.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -977,9 +972,7 @@
       "credit": "0.5",
       "description": "An intermediate workshop involving regular assignments in writing prose fiction and practical criticism.",
       "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1021,9 +1014,7 @@
       "credit": "0.5",
       "description": "Study of contemporary research and theory (1970s to present) on academic writing in elementary, secondary and post-secondary school, with emphasis on writing in university. Consideration of what academic writing entails, how writing fosters learning, and how instruction can help students develop their writing abilities.",
       "prerequisites": "third-year standing or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1044,7 +1035,7 @@
       "description": "This experiential-learning course prepares students in English for their transition into the workplace. Project-based activities (including readings and research) and guest speakers will teach students to identify, develop, and apply the skills and knowledge gained from a degree in English studies.",
       "prerequisites": "third-year standing in an English Major program or permission of the department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -1055,9 +1046,7 @@
       "credit": "0.5",
       "description": "This course explores cultural expression across diverse media, theorizing culture as a form of struggle that shapes material conditions, fuels knowledge production, and informs lived experience.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1068,6 +1057,7 @@
       "description": "An intermediate workshop that involves regular creative writing assignments and practical criticism based on this work. Topics will vary. Yearly special topics can be found at carleton.ca/english/.",
       "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2914 , ENGL 2915 . Students who lack the prerequisite must submit a writing sample.  Instructions can be found at carleton.ca/english.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -1099,9 +1089,7 @@
       "credit": "0.5",
       "description": "An intermediate study of literature, culture, and research in the context of topics such as empire and decolonization, diaspora, migration and globalization, race, and ethnicity. Themes, authors, and geographical and temporal focus will vary.",
       "prerequisites": "Third-year standing or permission of the department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1166,7 +1154,7 @@
       "description": "A study of a selected topic in poetry.",
       "prerequisites": "fourth-year standing or permission of the department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1274,9 +1262,7 @@
       "credit": "0.5",
       "description": "A study of current issues and debates in the Digital Humanities.",
       "prerequisites": "ENGL 2401 and fourth-year standing, or permission of the English Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1297,8 +1283,7 @@
       "description": "A study of a selected topic in Renaissance literature.",
       "prerequisites": "fourth-year standing or permission of the department.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1341,9 +1326,7 @@
       "credit": "0.5",
       "description": "A study of a selected topic, 1770-1830.",
       "prerequisites": "fourth-year standing or permission of the department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1415,9 +1398,7 @@
       "credit": "0.5",
       "description": "An advanced study of dramatic texts from transnational, postcolonial, or European contexts. This course will offer sustained attention to specific theatre traditions, theatrical practice, and interpretation of texts. Topics and points of emphasis vary from year to year.",
       "prerequisites": "fourth-year standing or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1427,7 +1408,9 @@
       "credit": "0.5",
       "description": "A study of a selected topic in American literature.",
       "prerequisites": "fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1457,7 +1440,9 @@
       "credit": "0.5",
       "description": "A study of a selected topic in Canadian literature.",
       "prerequisites": "fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1497,9 +1482,7 @@
       "credit": "0.5",
       "description": "Independent creative writing, supervised by a Departmental faculty member, resulting in a poetry manuscript (10-15 poems), a one-act play, a 10,000-word novella, or two short stories.  A proposal, coordinated with the faculty supervisor, must be submitted to the Undergraduate Supervisor by July 31.",
       "prerequisites": "completion of required credits for the Creative Writing Concentration, fourth-year Honours standing in English with a CGPA of 10.00 in English courses, and permission of the Undergraduate Supervisor in conjunction with the faculty supervisor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1532,7 +1515,7 @@
       "description": "A study of a selected topic in postcolonial and/or diaspora literatures and theories. Themes, authors, and geographical and temporal focus will vary.",
       "prerequisites": "fourth-year standing or permission of the department.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1553,7 +1536,9 @@
       "credit": "0.5",
       "description": "A study of the contemporary period of Indigenous literature, examining the historical and mythic influences on the literature.",
       "prerequisites": "fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1574,7 +1559,7 @@
       "description": "A study of a selected topic in postcolonial literature and culture.",
       "prerequisites": "fourth-year standing or permission of the department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []

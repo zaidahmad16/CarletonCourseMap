@@ -91,7 +91,6 @@
       "description": "A lecture course on a special topic, theme, or period. Topic varies from year to year. (Field will depend on topic).",
       "prerequisites": "",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -137,7 +136,9 @@
       "credit": "0.5",
       "description": "A survey of the major social, political and cultural developments in continental Europe from the 14th to the 17th centuries. (Field a).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -169,7 +170,9 @@
       "credit": "0.5",
       "description": "From ancient civilizations to the era of Independence, this class follows conquest, colonization and development of national identity in the countries of Latin America. (Field d).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -179,7 +182,9 @@
       "credit": "0.5",
       "description": "From the Wars of Independence until the end of the twentieth century, this class follows the emergence of Latin American nations, their economies, politics, culture and international relations. (Field d).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -189,9 +194,7 @@
       "credit": "0.5",
       "description": "A survey of Canadian history considering nature, landscape and geography. Topics include the history of energy regimes and climate change; Indigenous ecological knowledge; colonization and settlement; resource extraction; commodity production; environmental policies and movements.(Field c or e).",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -201,7 +204,9 @@
       "credit": "0.5",
       "description": "The Indian Ocean is one of the oldest maritime highways in the history of humanity and also an epicentre of global economy in the pre-modern world. The aim of the course is to familiarize students with the non-Western antecedents of modern global history. (Field d).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -221,7 +226,9 @@
       "credit": "0.5",
       "description": "An exploration of histories of everyday life in Canada in the twentieth century. (Field c).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -265,9 +272,7 @@
       "credit": "0.5",
       "description": "A survey of significant political, social, economic, and cultural developments in Britain and its empire in the eighteenth and nineteenth centuries. (Field b).",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -278,7 +283,7 @@
       "description": "An introductory study of women's and gender history. Themes may include sexuality, masculinity, women's activism, consumer culture, religion, and reproductive rights. Geographic and temporal focus varies from year to year. (Field e).",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -299,7 +304,9 @@
       "credit": "0.5",
       "description": "The social, cultural, and political history and impact of German nationhood. Topics include the rise of social democracy and the feminist movements, alliance and empire building, scientific racism, sexology, and the emancipation and assimilation of German Jews into the body politic. (Field b).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -310,7 +317,7 @@
       "description": "A survey of social, cultural, and political tensions and developments in Germany from World War One to the Fall of the Berlin Wall. (Field b).",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -333,7 +340,9 @@
       "credit": "0.5",
       "description": "Ancient African cultures and civilizations, the trans-Saharan trade system, and the trans-Atlantic and Indian Ocean slave trades from 600 BCE to the 19th century. (Field d).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -343,9 +352,7 @@
       "credit": "0.5",
       "description": "The conquest and colonization of African polities by the European imperial powers from the late 19th century, the 20th century wars of decolonization, and the emergence of independent African nations, including their economies, politics, and culture. (Field d).",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -355,7 +362,9 @@
       "credit": "0.5",
       "description": "Introduction to the history of the Caribbean that examines the indigenous populations, the role of colonialism and slavery in the construction of plantation societies, the impact of emancipation, and the social, cultural, economic, and political dynamics of the Caribbean in the post-emancipation period. (Field d).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -459,9 +468,7 @@
       "credit": "0.5",
       "description": "The history of ancient Rome from the end of the Republic to the coming of Islam. (Field a).",
       "prerequisites": "second-year standing or permission of the unit.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -471,9 +478,7 @@
       "credit": "0.5",
       "description": "An introduction to the medieval and early modern East Slavic world, including the city-states of Kyivan Rus\u2019, the Mongol conquests, the rise of Moscow, village life and serfdom, and Russia\u2019s 18th century \u201cGreat\u201d monarchs. Emphasis on emerging autocracy and lives of ordinary people.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -493,9 +498,7 @@
       "credit": "0.5",
       "description": "A lecture course on a special topic, theme, or period. Topic varies from year to year. (Field will depend on topic).",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -526,7 +529,7 @@
       "description": "This survey begins with the Ottoman Empire and how WWI drew the map of the Middle East. It then analyzes some of the key issues that dominated the region in the 20th century such as Zionism, political Islam, wars, and revolutions, including the Arab Spring.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -571,9 +574,7 @@
       "credit": "0.5",
       "description": "A general examination of European religious life from the fourth to the fourteenth centuries, with special reference to the cultural and intellectual worlds of medieval monks, nuns, and clerics. (Field a or e).",
       "prerequisites": "a 2000-level history course, or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -583,9 +584,7 @@
       "credit": "0.5",
       "description": "Study of a period or theme in Greek History. (Field a).",
       "prerequisites": "CLCV 2902 and CLCV 2903 or HIST 2902 and HIST 2903 or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -595,7 +594,9 @@
       "credit": "0.5",
       "description": "The study of major developments - administrative, ecclesiastical, cultural and societal - of the later Roman Empire. (Field a).",
       "prerequisites": "a 2000-level Classical Civilization course.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -605,9 +606,7 @@
       "credit": "0.5",
       "description": "Study of a period or theme in Roman History. (Field a).",
       "prerequisites": "CLCV 2904 and CLCV 2905 or HIST 2904 and HIST 2905 or permission of the unit. Permission of the unit is required to repeat this course.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -617,7 +616,9 @@
       "credit": "0.5",
       "description": "Examination of the archival turn in historical and theoretical perspective with an emphasis on sexuality, race, and gender as subjectivities in queer, trans, and colonial archives. (Field e).",
       "prerequisites": "third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -637,7 +638,9 @@
       "credit": "0.5",
       "description": "Sexuality in Western society, Middle Ages to the present. Themes include attitudes and behaviour; regulation of sexuality; gender; heterosexuality and homosexuality; prostitution; pornography; the politics of sex: stresses continuities and changes and the understanding of sexuality in contexts of place, class, gender, culture. (Field e).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -659,7 +662,9 @@
       "credit": "0.5",
       "description": "Food in its agrarian, economic and cultural context from late antiquity to the nineteenth century; production, distribution, and consumption; health, diet and manners; the religious significance of food; food in art; the rise of the restaurant; the birth of gastronomy. (Field e).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -680,7 +685,7 @@
       "description": "A survey of the French Revolution (1789-99) focusing on attempts to regenerate France and the French through political, economic and cultural reforms. Themes include nationalism, republicanism, violence, legal reform, property redistribution, education, population and family policy, gender, and religion. (Field b).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -701,7 +706,9 @@
       "credit": "0.5",
       "description": "History of disability including the representation and understanding of disability as it changes over time and as it is portrayed and experienced in changing cultural contexts. (Field e).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history or in Disability Studies.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -721,9 +728,7 @@
       "credit": "0.5",
       "description": "An examination of sport as a way to view Cold War societies and rivalries (1945-1991). Topics include: nationalism, ideology, gender, race, class, ableism, sexuality, the Olympics, drug use and bans, boycotts, and the overall stakes of this battle between communist and capitalist worldviews.",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in History.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -733,7 +738,9 @@
       "credit": "0.5",
       "description": "An examination of the long history of antisemitism to understand how historical forms of antisemitism have endured into the present and evolved over time.  A variety of texts, images, media representations, and oral histories will be explored using methodologies from history and religious studies.",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in History.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -755,7 +762,9 @@
       "credit": "0.5",
       "description": "An exploration of selected topics in the history of one of Canada's regions. Topic varies from year to year. (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -795,9 +804,7 @@
       "credit": "0.5",
       "description": "A social, economic, political, cultural and intellectual history of Qu\u00e9bec with emphasis on the development of Qu\u00e9bec nationalism. (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -807,9 +814,7 @@
       "credit": "0.5",
       "description": "An examination of diplomatic, economic, cultural and military relations, with particular attention to the twentieth century. (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -881,9 +886,7 @@
       "credit": "0.5",
       "description": "A history of the United States, focusing on the interactions along and across its borders with Mexico, Canada, and the Pacific Rim. This course examines the contests that emerged over colonization, migration, and American state-making. (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -903,9 +906,7 @@
       "credit": "0.5",
       "description": "A study of migration and settlement in Canada from the 17th century to the present. (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -926,7 +927,7 @@
       "description": "A survey of indigenous histories in northern North America from earliest times to the present. The course will cover pre-contact histories; military, economic, social, and cultural encounters with newcomers; indigenous experiences with settler colonialism; and the struggle over decolonization. (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -937,7 +938,9 @@
       "credit": "0.5",
       "description": "Key themes in the history of North America\u2019s indigenous peoples. Topics may include land and treaties, religious encounters, the law, cultural identity, and transnational indigenous experiences(Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -957,7 +960,9 @@
       "credit": "0.5",
       "description": "This course studies the impact of Woodrow Wilson\u2019s advocacy of self-determination and of the League of Nations on the Post-Ottoman Middle East.  Focusing on particular case studies, the course analyzes characteristics, long-term consequences, and local responses to the Mandate system.",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in History.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -967,9 +972,7 @@
       "credit": "0.5",
       "description": "Focuses on moments in modern Egyptian history, as exemplified by the lives of particular Egyptians. Through their writings, the course analyses responses to European colonialism, Islamic reformism, Egyptian feminism, the Muslim Brotherhood, Egypt\u2019s cultural influence, the experience of the Coptic community, and the 2011 Revolution.",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in History.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1000,7 +1003,7 @@
       "description": "A history of the Protestant and Catholic Reformations of the sixteenth century, with special emphasis on the theological disputes of the protagonists and the impact of these disputes on the social, political and cultural developments of the era.  (Field a).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -1021,9 +1024,7 @@
       "credit": "0.5",
       "description": "An examination of the social and cultural history of Mexico from indigenous cultures to the problems of the 20th century. Themes include the continuities of indigenous structures, national identity, wars and political violence, and gender. (Field d).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1043,9 +1044,7 @@
       "credit": "0.5",
       "description": "Introduction to the historical and religious dimensions of the Holocaust. The foundations, perpetration and consequences of the Nazi Final Solution through primary sources including survivor testimony will be examined. (field b).",
       "prerequisites": "a 2000-level History course or third-year standing and 1.0 credit in History.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1055,7 +1054,9 @@
       "credit": "0.5",
       "description": "Key themes in South Asian history. Topics may include the Mughal empire, the British colonial era, the creation and development of states in India, Pakistan, Bangladesh, and Sri Lanka, and various 20th century historical phenomenon. (Field d).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1086,7 +1087,7 @@
       "description": "This class is an intensive introduction to the main political, socio-economic and foreign policy/security aspects of China\u2019s evolution from Republicanism through Maoism to \u201csocialism with Chinese characteristics in the new era,\u201d as represented by Sun Yat-sen/Chiang Kai-shek, Mao Zedong, Deng Xiaoping; Xi Jinping, respectively.",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -1098,7 +1099,7 @@
       "description": "A political, intellectual and economic history of Japan in the twentieth century, concentrating on the period since the end of the Pacific War. (Field d).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -1164,9 +1165,7 @@
       "credit": "0.5",
       "description": "This course applies the creative use of information and media/computing technologies to address the digital cultural heritage issues of public historians, archaeologists, and anthropologists. Topics may include webscraping, data mining, designing and implementing research databases, and visual storytelling of those results. (Field e).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1176,9 +1175,7 @@
       "credit": "0.5",
       "description": "A class-based group historical research project done in collaboration with an external institution under the supervision of the institution and the Department. Work includes readings, reports, and meetings. Students should be prepared to devote one full day per week to the project. (Field e).",
       "prerequisites": "third- or fourth-year standing in a History program and permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1201,7 +1198,9 @@
       "credit": "0.5",
       "description": "A lecture course on a special topic in European history. Topic varies from year to year. (Field will depend on topic.).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1221,7 +1220,9 @@
       "credit": "0.5",
       "description": "A lecture course on a special topic in United States history. Topic varies from year to year.  (Field c).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1231,7 +1232,9 @@
       "credit": "0.5",
       "description": "A lecture course on a special topic in African, Asian, Caribbean, or Latin American history. Topic varies from year to year. (Field d).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1241,7 +1244,9 @@
       "credit": "0.5",
       "description": "A lecture course on a special topic that takes a transnational approach to history. Course content will vary from year to year. (Field e).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1251,7 +1256,9 @@
       "credit": "0.5",
       "description": "A lecture course on a special topic that takes a thematic approach to history. Course content will vary from year to year. (Field e).",
       "prerequisites": "a 2000-level history course or third-year standing and 1.0 credit in history.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1262,6 +1269,7 @@
       "description": "A lecture course on a special topic, theme, or period in public history. Topic varies from year to year. (Field e).",
       "prerequisites": "a 2000-level history course, or third-year standing and 1.0 credit in history.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 3,
@@ -1303,7 +1311,10 @@
       "credit": "1.0",
       "description": "A study of a selected problem in the history of Europe during the early modern period.",
       "prerequisites": "HIST 3810 or HIST 3820 , fourth-year standing in Honours History or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1346,7 +1357,7 @@
       "description": "Intended for Honours students in History and Classics who should normally be in their third- or fourth-year.",
       "prerequisites": "CLCV 2902 ( HIST 2902 ) and CLCV 2903 ( HIST 2903 ) or CLCV 2904 ( HIST 2904 ) and CLCV 2905 ( HIST 2905 ) or CLCV 3201 ( HIST 3009 ) or CLCV 3202 ( HIST 3101 ) or permission of the Department.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1368,7 +1379,7 @@
       "description": "A 0.5 credit seminar course that examines a selected topic on ideas, culture, and society in Canada. The particular topic will be specified each year it is offered.",
       "prerequisites": "HIST 3810 or HIST 3820 , fourth-year standing in Honours History, or permission of the Department.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1411,7 +1422,9 @@
       "credit": "0.5",
       "description": "A 0.5 credit seminar course that examines a selected topic in the history of the United States. The particular topic will be specified each year it is offered.",
       "prerequisites": "HIST 3810 or HIST 3820 , fourth-year standing in Honours History or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1474,9 +1487,7 @@
       "credit": "0.5",
       "description": "Evolution and current status of Central Europe from periods of foreign control in the late nineteenth and twentieth centuries to independent statehood. Particular emphasis will be placed on national accommodations and conflicts.",
       "prerequisites": "HIST 3810 , fourth-year standing in Honours History or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1496,7 +1507,9 @@
       "credit": "0.5",
       "description": "History of contemporary Europe from 1945 to present covering both eastern and western halves of the continent and including social, cultural, political, and economic dimensions.",
       "prerequisites": "HIST 3810 , fourth-year standing in Honours History or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1506,9 +1519,7 @@
       "credit": "0.5",
       "description": "Examination of the expansion and downfall of tsarist Russia from the eighteenth century to the revolutionary era and the establishment of Bolshevik rule.  Topics include the relationship between the monarchy and subject peoples, social and economic change, and daily life.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1518,7 +1529,9 @@
       "credit": "0.5",
       "description": "Examination of the rise of the Soviet Union to a global power and subsequent tensions that promoted its collapse.  The course will analyze Stalinism, the Second World War, the Thaw, and Brezhnev and Gorbachev eras through the lens of the USSR\u2019s citizens.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1578,7 +1591,9 @@
       "credit": "0.5",
       "description": "A 0.5 credit seminar course that examines a selected topic in Caribbean and Latin American history. The particular topic will be specified each year it is offered.",
       "prerequisites": "HIST 3810 or HIST 3820 , fourth-year standing in Honours History or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1619,7 +1634,8 @@
       "description": "Selected topic in global and transnational history or on a thematic topic in history. The topic will be specified each year it is offered.",
       "prerequisites": "HIST 3810 or HIST 3820 , fourth-year standing in Honours History or permission of the Department.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1657,8 +1673,7 @@
       "description": "Topic varies from year to year.",
       "prerequisites": "HIST 3809 , HIST 3810 , or HIST 3820 , fourth-year standing in Honours History, or permission of the Department.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -1669,9 +1684,7 @@
       "credit": "0.5",
       "description": "Independent study of an historical topic or theme under the supervision of a faculty member. A course outline specifying readings, assignments, and name of faculty member must be submitted to the Undergraduate Supervisor during the first week of the semester.",
       "prerequisites": "Fourth-year standing in History, minimum History GPA of 9.0, a faculty supervisor, and permission of the Undergraduate Supervisor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -2761,7 +2774,7 @@
           "description": "a. 1.0 credit at the 1000-level"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "HIST 1301",
             "HIST 1302",
@@ -2770,8 +2783,8 @@
             "HIST 2313",
             "HIST 2314"
           ],
-          "credits": 0.5,
-          "description": "b. a minimum of 0.5 credit from HIST 1301 [0.5], HIST 1302 [0.5], HIST 2301 [0.5], HIST 2311 [0.5], HIST 2313 [0.5], HIST 2314 [0.5] if not already satisfied in a."
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3419,7 +3432,7 @@
           "description": "a. 1.0 credit in HIST at the 1000-level or FYSM 1405"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "HIST 1301",
             "HIST 1302",
@@ -3428,8 +3441,8 @@
             "HIST 2313",
             "HIST 2314"
           ],
-          "credits": 0.5,
-          "description": "b. a minimum of 0.5 credit from HIST 1301 [0.5], HIST 1302 [0.5], HIST 2301 [0.5], HIST 2311 [0.5], HIST 2313 [0.5], HIST 2314 [0.5] if not already satisfied in a."
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -4543,7 +4556,7 @@
           "description": "History of the Global South, 1850 to the present"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b.  1.0 credit from: Regional History: The Global South"
@@ -4613,7 +4626,7 @@
           "description": "History of the Modern Middle East"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "c. 1.0 credit from: Regional History: Europe and the World"
@@ -4689,7 +4702,7 @@
           "description": "The Historian's Craft"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "e. 2.5 credits from Themes in History, with no more than 0.5 credit at 2000-level"
@@ -4959,7 +4972,7 @@
           "description": "Thematic Topic"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "f. 0.5 credit from: Historical Theory"
@@ -4981,7 +4994,7 @@
           "description": "Explorations in Historical Theory"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "g. 1.5 credit from: Honours Seminars"
@@ -5216,13 +5229,13 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0  credits from: the Stream"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "a. 0.5 credit from: Foundations"
@@ -5244,7 +5257,7 @@
           "description": "History of the Global South, 1850 to the present"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b. 1.0 credit from: Regional History: the Global South"
@@ -5306,7 +5319,7 @@
           "description": "History of the Modern Middle East"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "c. 0.5 credit from: Regional History: Europe and the World"
@@ -5382,7 +5395,7 @@
           "description": "The Historian's Craft"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "e. 1.5 credits from Themes in History"

@@ -21,6 +21,7 @@
       "description": "A study of the global dynamics affecting Latin America and the Caribbean today. Themes addressed will include globalization,  neoliberalism, underdevelopment, populism, social movements, political ideas, and migration.",
       "prerequisites": "second-year standing.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 2,
@@ -33,8 +34,7 @@
       "description": "An examination of the major issues confronting Latin America and the Caribbean including democratization, economic integration, indigenous and women\u2019s movements, human rights, social justice, and political change.",
       "prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -195,7 +195,7 @@
           "description": "Latin America and the Caribbean in Global Context"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "b. 1.0 credit from: History"
@@ -233,7 +233,7 @@
           "description": "Caribbean and Latin American History"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "c. 0.5 credit from: Politics"
@@ -255,7 +255,7 @@
           "description": "Mexican Politics"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.5,
           "description": "d. 3.5 credits from: Courses with LACS Content"
@@ -422,7 +422,7 @@
           "description": "Colonialism and Post-Colonialism"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "e. 1.5 credits from: Context"
@@ -888,7 +888,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"

@@ -100,7 +100,9 @@
       "credit": "0.5",
       "description": "Introduction to pathogenic microorganisms, including fugal, bacterial, viral and prion.  Biochemical, genetic, pathological and epidemiological aspects in the human context; their interaction with host defense systems and strategies for antibiotic and vaccine development.",
       "prerequisites": "HLTH 1000 or HLTH 1001 or permission of the department - Not for Health Sciences major students.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -110,7 +112,9 @@
       "credit": "0.5",
       "description": "Statistics concepts and procedures used in the analysis of health data; techniques commonly used to analyze data collected from different types of epidemiological and experimental study designs; how to use statistical software, and how to interpret and present statistical findings.",
       "prerequisites": "HLTH 1000 and STAT 2507 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -177,7 +181,9 @@
       "credit": "0.5",
       "description": "Basic concepts of epidemiologic study designs and measures; inferences that are fundamental to the identification of causes and prevalence of diseases. Specialized issues within epidemiology including gene-environment interactions and the clustering of specific disease phenotypes.",
       "prerequisites": "STAT 2507 and HLTH 2001 , or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -235,9 +241,7 @@
       "credit": "0.5",
       "description": "Aging is accompanied by increased illness related to cardiovascular, immune and neurodegenerative processes. This course assesses the fundamental mechanisms that determine these pathological conditions. Molecular mechanisms and psychosocial determinants; intervention and therapeutic strategies.",
       "prerequisites": "HLTH 2002 and HLTH 2003 or permission of department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -305,9 +309,7 @@
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences.  They provide the opportunity to bring together knowledge from other courses and for skills development, including teamwork, communication and critical thinking.",
       "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -357,7 +359,9 @@
       "credit": "0.5",
       "description": "Introduction to concepts, principles and processes of evaluating health care programs and interventions. Methodological tools including needs assessment, project management skills, use of health information management databases. Issues in communication with stakeholders, including change management and decision making.",
       "prerequisites": "HLTH 2001 and STAT 2507 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -431,7 +435,9 @@
       "credit": "0.5",
       "description": "The role of gender on psychosocial and biological mechanisms that alter the course of disease and treatment; health issues unique to women (e.g., reproductive and maternal health); the role of gender across cultures.",
       "prerequisites": "HLTH 3101 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -441,7 +447,9 @@
       "credit": "0.5",
       "description": "Congenital and acquired disabilities related to sensory organs and processes, including visual and hearing impairments, vestibular and balance disorders, reflex problems, and others. Interdisciplinary approach to causes, mechanisms, accessibility, accommodations and interventions.",
       "prerequisites": "Either 1) HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ), or 2) NEUR 3206 , or 3) permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -451,9 +459,7 @@
       "credit": "0.5",
       "description": "Biomedical and psychosocial factors associated with trauma-related illnesses, stressors, injuries and disabilities, including traumatic brain injury, spinal cord injury, fractures, amputations, burns, post-traumatic stress disorder, and others. Short- and long-term considerations for care and rehabilitation.",
       "prerequisites": "HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ) or permission of the department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -906,12 +912,12 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 3306"
           ],
-          "credits": 0.5,
-          "description": "Human Anatomy and Physiology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1263,12 +1269,12 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 3306"
           ],
-          "credits": 0.5,
-          "description": "Human Anatomy and Physiology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1572,12 +1578,12 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 3306"
           ],
-          "credits": 0.5,
-          "description": "Human Anatomy and Physiology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1913,12 +1919,12 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 3306"
           ],
-          "credits": 0.5,
-          "description": "Human Anatomy and Physiology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2302,12 +2308,12 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOL 3306"
           ],
-          "credits": 0.5,
-          "description": "Human Anatomy and Physiology"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2982,44 +2988,23 @@
           "description": "Journalism  Now - and Next"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "JOUR 4003"
-          ],
-          "credits": 0.5,
-          "description": "The Digital Hub: Advanced Multimedia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 4004"
-          ],
-          "credits": 0.5,
-          "description": "The Digital Hub:  Advanced Audio"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "JOUR 4003",
+            "JOUR 4004",
             "JOUR 4005"
           ],
           "credits": 0.5,
-          "description": "The Digital Hub: Advanced Video"
+          "description": "0.5 credit from - Journalism Publications: 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "JOUR 4303"
-          ],
-          "credits": 0.5,
-          "description": "Specialized Journalism: Health and Science"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "JOUR 4303",
             "JOUR 4304"
           ],
           "credits": 0.5,
-          "description": "Specialized Journalism: Environment and Science"
+          "description": "0.5 credit from - Specialized Journalism: 0.5"
         },
         {
           "type": "required",
@@ -3182,76 +3167,27 @@
           "description": "Science Journalism Independent Project"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 1301"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Change in Early Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1302"
-          ],
-          "credits": 0.5,
-          "description": "Rethinking Modern Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2301"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Political History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2311"
-          ],
-          "credits": 0.5,
-          "description": "Environmental History of Canada (b. 0.5 credit from:)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2313"
-          ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Early Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 2301",
+            "HIST 2311",
+            "HIST 2313",
             "HIST 2314"
           ],
           "credits": 0.5,
-          "description": "Home, Work, and Play in Modern Canada"
+          "description": "12 a. 0.5 credit from: 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Ways of Knowing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 1011"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Indigenous-Settler Encounters"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 1010",
+            "INDG 1011",
             "INDG 2011"
           ],
           "credits": 0.5,
-          "description": "Critical Indigenous Studies"
+          "description": "b. 0.5 credit from: 0.5"
         },
         {
           "type": "elective",

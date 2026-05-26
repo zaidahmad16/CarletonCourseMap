@@ -20,9 +20,7 @@
       "credit": "0.5",
       "description": "The biochemistry and metabolic implications of popular diets and nutrition trends. May include Mediterranean, flexitarian, ketogenic, paleo, intermittent fasting, detox plans and more. Comparing claims to basic biochemical concepts in a social media age. Available only as a free elective for Science students.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -45,9 +43,7 @@
       "credit": "0.5",
       "description": "Energy of biological systems, molecular interactions, diffusion principles, introduction to protein folding, structure and thermodynamics, ligand binding and nucleic acid structures; experimental design and data management.",
       "prerequisites": "BIOC 2200 (can be taken concurrently with BIOC 2300 ) and MATH 1007 and MATH 1107 , and PHYS 1007 or PHYS 1003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "BIOC 2300"
@@ -179,7 +175,9 @@
       "credit": "0.5",
       "description": "The application of biochemistry to the production of biological compounds useful in nutrition, medicine, and the food and chemical industries. This course covers general strategies and tools of metabolic engineering for efficient production of these compounds at scale using living cells, enzymes, or cell-free systems.",
       "prerequisites": "BIOC 3101 and BIOC 3102 ( BIOC 3102 may be taken concurrently), or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "BIOC 3102"
@@ -212,7 +210,7 @@
       "description": "The biochemical basis of disease including genetic and metabolic disorders such as cancer, neurological degenerative conditions, diabetes, stroke and microbial infections.",
       "prerequisites": "BIOC 2200 or BIOL 2201 , and third-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -442,12 +440,12 @@
           "description": "Physical Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 2103"
           ],
-          "credits": 0.5,
-          "description": "Physical Chemistry I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -512,12 +510,12 @@
           "description": "Honours Essay and Research Proposal"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BIOC 4908"
           ],
-          "credits": 1.0,
-          "description": "Research Project"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -672,12 +670,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -873,7 +871,7 @@
           "description": "Food Processing"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credits from"
@@ -1240,12 +1238,12 @@
           "description": "Physical Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "CHEM 2103"
           ],
-          "credits": 0.5,
-          "description": "Physical Chemistry I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1462,12 +1460,12 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1003"
           ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",

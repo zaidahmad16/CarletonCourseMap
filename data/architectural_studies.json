@@ -174,9 +174,7 @@
       "credit": "0.5",
       "description": "Methods of heritage building documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
       "prerequisites": "second-year standing in B.A.S. Conservation and Sustainability.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -198,7 +196,9 @@
       "credit": "0.5",
       "description": "Fundamental concepts of line and line weight, light and shadow, perspective, contrast and composition. Exercises will include some mixed media and will introduce students to drawing as a way of translating ideas into images.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -316,7 +316,9 @@
       "credit": "1.0",
       "description": "Urbanism studio introducing, documenting, and analyzing forces producing urban environments. Students design a medium-scale public infrastructure project in a local urban context, foregrounding site analysis and urban design skills. Consideration given to accessibility, public realm, and to broad impact of infrastructural, environmental, and ecological systems.",
       "prerequisites": "A minimum grade of C- or above in ARCH 1111 and ARCH 1112 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -326,7 +328,9 @@
       "credit": "1.0",
       "description": "Design studio working with community with appropriate ethics training on a small to medium building project. Students use analog and digital methods to advance consideration of site, program, and materials as the means for shaping the built environment, understanding the settings, and their communities.",
       "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Design stream.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -336,7 +340,9 @@
       "credit": "1.0",
       "description": "Conservation & Sustainability studio working with community with appropriate ethics training on a small to medium building projects. Students test and study conservation methodologies through design exercises and historical research on existing architectures, cities, and landscapes, with emphasis on understanding the settings and its communities.",
       "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Conservation and Sustainability stream.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -346,7 +352,9 @@
       "credit": "1.0",
       "description": "Urbanism studio working with community with appropriate ethics training. Students design small scale projects exploring ramifications of practices, policies, and cultural preferences on urban cores. Consideration of intensification, revitalization, gentrification, brownfield redevelopment, development standards, form-based codes, and the larger impact of migration on urban density.",
       "prerequisites": "Minimum grade of C- or above in ARCH 2111 and Registration in the Bachelor of Architectural Studies (BAS) Urbanism stream.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -356,7 +364,9 @@
       "credit": "0.5",
       "description": "Lecture-based course considering buildings\u2019 ecological\u00a0 and climate change impacts. Course covers how regulations, material choices, siting, and assembly methods of small-scale buildings impact energy consumption, carbon footprints, and GHG emissions. Regulatory content includes applicable codes, regulations, best practices, universal design standards and life-safety systems principles.",
       "prerequisites": "ARCH 1221 and ARCH 1222 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -366,7 +376,9 @@
       "credit": "0.5",
       "description": "Fundamental structural principles and their building design applications. Concepts of equilibrium and mechanics of materials, including stress and strain. Structural calculations and qualitative understanding of static and dynamic loads, including gravitational and lateral forces. Includes consideration of wood, masonry, concrete, and steel structural systems.",
       "prerequisites": "ARCH 2221 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -376,7 +388,9 @@
       "credit": "0.5",
       "description": "Thematic survey of cities, modernist ideas, projects, and movements, considering their theoretical, historical, and practical expressions in urban morphology and housing typologies, and their relation to larger societal and environmental questions, locally and globally. Acquisition of critical reading, writing, and representation skills through case-study analysis.",
       "prerequisites": "ARTH 1201 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -386,7 +400,9 @@
       "credit": "0.5",
       "description": "Architectures in Canada, including Indigenous settlements, practices, and relationships to the land to this day. Survey of selected buildings to consider relational, symbolic, stylistic, and technological developments. Critical analysis or styles, methods, materials, and building typologies from social, cultural, economic, and constructional perspectives.",
       "prerequisites": "ARCH 2331 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -478,7 +494,9 @@
       "credit": "0.5",
       "description": "Methods of heritage building documentation including hand recording, photography, rectified photography, total station, gps, photogrammetry, and laser scanning.  Non-destructive testing techniques; environmental assessment tools for determining air quality and energy efficiency.  Multidisciplinary teams for all project work.",
       "prerequisites": "Second-year standing in B.A.S. Conservation and Sustainability stream.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -572,7 +590,9 @@
       "credit": "0.5",
       "description": "Study of housing as a function of social organization, demographics, market demand and public policy. Topics include the evolution of housing form, the role of the state, and the participation of architects in the housing marketplace in the 19th and 20th century. (Theory/History Elective).",
       "prerequisites": "third-year standing in the B.A.S. program or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -685,6 +705,7 @@
       "description": "An aspect of architecture in the area of theory and history. Topics vary from year to year. (Theory/History Elective).",
       "prerequisites": "ARCH 2300 or permission of the School.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -788,7 +809,9 @@
       "credit": "0.5",
       "description": "Course addresses cities such as Istanbul, Mexico City, Venice, Paris, Ottawa, Mumbai, and New Orleans. Topics presented by the instructor and guests include environmental resilience and climate change; social justice and informal settlement; smart cities and data privacy; and urban design, memory, and imagination.",
       "prerequisites": "Second-year standing or permission of the Instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -798,9 +821,7 @@
       "credit": "0.5",
       "description": "Contemporary urban theory and critical scholarship that engages evolving social, political, economic and environmental perspectives, addresses multiple scales, geographic contexts, and disciplinary boundaries, and investigates the expanding array of models, tools and techniques that have contributed to various theories of urbanism.",
       "prerequisites": "ARCU 3100 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -810,7 +831,9 @@
       "credit": "0.5",
       "description": "Urban utopias throughout history, with emphasis on the 20th century. Garden Cities, anti-urbanism and radical decentralization, the city in the region, Italian Rationalist cities, Le Corbusier and CIAM, post-WWII New Towns (England, Scandinavia and the US), Sustainable Urbanism.",
       "prerequisites": "third or fourth-year standing in B.A.S. Urbanism program or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -821,7 +844,7 @@
       "description": "Advanced seminar in selected topics related to urbanism.   Topics may include histories and theories related to urban systems, design, and planning. (Core course).",
       "prerequisites": "third-year standing in B.A.S. (Urbanism) or permission of the Instructor.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []

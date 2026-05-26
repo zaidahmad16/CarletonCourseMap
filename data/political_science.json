@@ -47,7 +47,7 @@
       "description": "Introduction to concepts and theories that help explain the complex phenomenon of human migration, including the social and political relevance of different types of migration to Canada and in other regions and the political responses to migration and mobility today.",
       "prerequisites": "",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -59,7 +59,7 @@
       "description": "An examination of the cultural, social, and economic context of Canadian politics, including interest groups and social movements, regionalism, language, ethnicity, and gender.",
       "prerequisites": "second-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -71,7 +71,7 @@
       "description": "An examination of Canadian political institutions, including federalism, Parliament, the constitution, political parties and the electoral system.",
       "prerequisites": "second-year standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -191,7 +191,8 @@
       "description": "This course focuses on key elements of the research process, including how to ask questions and find answers using ethically informed research design. Students learn to develop a research proposal, and how to critically analyze and write evidence-informed arguments.",
       "prerequisites": "second-year standing.",
       "offerings": [
-        "fall"
+        "fall",
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -203,6 +204,7 @@
       "description": "The interpretation and application of statistical techniques for data analysis in the study of politics.",
       "prerequisites": "PSCI 2701 or permission of the Department.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -224,9 +226,7 @@
       "credit": "0.5",
       "description": "A survey of the political process and political institutions in Ontario.",
       "prerequisites": "third-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -237,7 +237,7 @@
       "description": "The role of social forces in the Canadian political process, including interest groups, social movements, elites and classes.",
       "prerequisites": "third-year standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -248,9 +248,7 @@
       "credit": "0.5",
       "description": "The politics of the Canadian constitution. Particular attention to historical and contemporary constitutional reform.",
       "prerequisites": "third-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -260,7 +258,9 @@
       "credit": "0.5",
       "description": "Indigenous lived experience in North America, understanding that Indigenous people are active political agents influencing policies and narratives. The course is organized around case studies focused on the social determinants of health, such as income, housing, and social inclusion.",
       "prerequisites": "third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -312,9 +312,7 @@
       "credit": "0.5",
       "description": "Ideologies and practices of European/Western efforts to control Asia, Africa, and Latin America and resistance to them. Topics include the complexities of imperial control and colonial relationships, race and racism, economic impacts, and decolonization.",
       "prerequisites": "third-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -324,9 +322,7 @@
       "credit": "0.5",
       "description": "Alternate theories of the causes of war. Such alternate perspectives as biological, social and comparative historical approaches, including the results of peace research activities of the past two decades.",
       "prerequisites": "Third-year standing and PSCI 2601 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -418,7 +414,9 @@
       "credit": "0.5",
       "description": "The process of European integration; the European Union and its institutions; core EU policies, challenges to the integration process (e.g. democratic legitimacy, enlargement); theories of European integration.",
       "prerequisites": "third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -574,7 +572,9 @@
       "credit": "0.5",
       "description": "Theories about the origins and dynamics of public opinion, the ways in which public opinion influences government policy and decision-making, and how decision-makers are able to shape public opinion.",
       "prerequisites": "PSCI 2701 and PSCI 2702 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -606,7 +606,9 @@
       "credit": "0.5",
       "description": "A contemporary approach to the role of gender in political systems of the South. Topics may include gender and development, human rights, social policies, globalization, state-civil society relations, political participation and citizenship.",
       "prerequisites": "Third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -647,7 +649,7 @@
       "description": "The traditions, domestic influences, objectives, capabilities, and decision-making processes, and analysis of selected contemporary issues.",
       "prerequisites": "Third-year standing and one of PSCI 2002 , PSCI 2003 , PSCI 2601 or PSCI 2602 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -659,7 +661,7 @@
       "description": "Canadian defence policy as it pertains to Canada, North America, NORAD, the Arctic, NATO/Europe, and the Indo-Pacific.",
       "prerequisites": "third-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -670,9 +672,7 @@
       "credit": "0.5",
       "description": "Advanced introduction to the politics of human mobility and migration, including attempts by states and other actors to influence migration and mobility and emerging types of governance at the national, regional and global levels.",
       "prerequisites": "third-year standing or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -682,7 +682,9 @@
       "credit": "0.5",
       "description": "Drawing on theories of international relations, political economy, and public policy-making, this course examines the global, national and local politics of food production and distribution. Topics include food security, free trade versus fair trade, the environmental sustainability of food systems, food sovereignty and food aid.",
       "prerequisites": "third-year standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -724,9 +726,7 @@
       "credit": "0.5",
       "description": "Environmental issues in contemporary political argument. Topics include: environmental movements and green parties, environmental ethics and animal rights, economic approaches to environmental management, the politics of sustainable development, and the international politics of the environment.",
       "prerequisites": "third-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -749,7 +749,7 @@
       "description": "The meaning, sources and practice of racialism, as well as efforts to combat it, in a comparative context. Case studies will include South Africa, the United States, and Canada.",
       "prerequisites": "third-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -761,7 +761,7 @@
       "description": "A lecture course on a selected contemporary topic in Political Science. Topic may vary from year to year and will be announced in advance of the registration period by the Department of Political Science.",
       "prerequisites": "third-year standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -772,10 +772,7 @@
       "credit": "1.5",
       "description": "One-term internship at The Washington Center in D.C.; options in American politics, international affairs, and other areas. Evaluation by Washington Center faculty, but governed by Carleton University Political Science Department regulations. Graded Sat or Uns.",
       "prerequisites": "selection to The Washington Center Internship Program and one of PSCI 2200 , PSCI 3200 , or PSCI 3210 and permission of the department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -831,9 +828,7 @@
       "credit": "0.5",
       "description": "The role of the mass media in the Canadian political system from a comparative perspective.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -853,7 +848,9 @@
       "credit": "0.5",
       "description": "The evolution and contemporary operation of the Canadian federal system; the social, political, economic, and structural features underlying its operational performance, resilience in crisis, and potential for adaptation.",
       "prerequisites": "Fourth-year Honours standing or permission of the Department, and one of PSCI 2003 or PSCI 2101 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -885,9 +882,7 @@
       "credit": "0.5",
       "description": "Society, culture, economy and politics in Quebec. Special attention to the politically relevant changes since 1960 and the central place of Quebec within the Canadian federation.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -949,9 +944,7 @@
       "credit": "0.5",
       "description": "The genesis and impact of the Charter of Rights and Freedoms. Particular emphasis on the politics of aboriginal, language, and equality rights.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -971,9 +964,7 @@
       "credit": "0.5",
       "description": "Election campaign dynamics and election outcomes, with emphasis on the strategies and actions of voters, parties, and candidates. Attention to concepts of representation, accountability, and legitimacy.",
       "prerequisites": "Fourth-year Honours standing or permission of the Department, and one of PSCI 2003 , PSCI 2101 , PSCI 2102 , or ( PSCI 2701 and PSCI 2702 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -984,7 +975,7 @@
       "description": "Issues of governance regarding the original peoples of Canada, Mexico and the United States since the European invasion. Contemporary movements for restoration of cultural, political, socio-economic, land and self-governance rights, emphasizing domestic and international strategies.",
       "prerequisites": "Fourth-year Honours standing or permission of the Department, and one of PSCI 2002 , PSCI 2003 , PSCI 2101 , PSCI 2102 , PSCI 3013 , or PSCI 3205 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1077,9 +1068,7 @@
       "credit": "0.5",
       "description": "Examines major currents and themes in continental political thought since the early twentieth century. These may include existentialist, Critical Theory, feminist, and poststructural approaches in relation to topics, such as crises of modernity, (post-) modern reconfigurations of power, and perspectives for democracy.",
       "prerequisites": "Fourth-year Honours standing and ( PSCI 2301 and PSCI 2302 ) or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1111,7 +1100,9 @@
       "credit": "0.5",
       "description": "Joint implications of contemporary science, technology and demographics for the design of public policy. The main emphasis of the course will be general patterns of change and design relating to public policy.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1131,9 +1122,7 @@
       "credit": "0.5",
       "description": "An examination of the emergence, development and collapse of institutional collective action in a broad historical framework, with attention to probable future scenarios for change.  Readings are taken from anthropology, economics, history and empirical political theory.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1195,7 +1184,9 @@
       "credit": "0.5",
       "description": "Examination of the Caucasus and Central Asia, from Chechnya to former Soviet republics of the region, Afghanistan and Chinese Turkestan. Interests of Russia, China, and the United States. Emphasis on underdevelopment, oil and gas, terrorism, Islam.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1205,9 +1196,7 @@
       "credit": "0.5",
       "description": "Examination of the South Caucasus (Azerbaijan, Georgia, Armenia), the Russian-held North Caucasus, including Chechnya, and relations with Iran. Emphasis on state and society, oil and gas, transregional communications, interests of western powers, ethnic relations.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1239,9 +1228,7 @@
       "credit": "0.5",
       "description": "Selected topics in Balkan politics and society since the collapse of communism in 1989, focusing on the democratic transition and the EU accession process. The legacies of communist rule, democratization and the many national questions that still exist in the region.",
       "prerequisites": "fourth year Honours standing or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1261,7 +1248,9 @@
       "credit": "0.5",
       "description": "Various theoretical approaches to the study of the international political economy, with a focus on historical development and changing international structures.",
       "prerequisites": "Fourth-year Honours standing or permission of the Department, and one of PSCI 2602 , PSCI 3600 , or PSCI 3703 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1341,9 +1330,7 @@
       "credit": "0.5",
       "description": "Africa's international relations, analyzing interactions between states, the continent and the world, and Africa's diaspora considering history, theories, and current issues. Topics include diplomacy, security, political economy, and global governance.  Includes: Experiential Learning Activity.",
       "prerequisites": "Fourth-year Honours standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1363,9 +1350,7 @@
       "credit": "0.5",
       "description": "Research designs and statistical techniques primarily used in analyzing survey data. Selected topics may vary from year to year. Students doing Honours papers based on micro data are advised to take this course.",
       "prerequisites": "PSCI 2700 or ( PSCI 2701 and PSCI 2702 ), or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1375,7 +1360,9 @@
       "credit": "0.5",
       "description": "Applied methods for policy, politics and public affairs. Primarily quantitative, but may have qualitative elements.",
       "prerequisites": "PSCI 2700 or ( PSCI 2701 and PSCI 2702 ), or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1418,9 +1405,7 @@
       "credit": "0.5",
       "description": "An exploration of the organization of the global monetary and financial system. Issues covered include the relationship between global finance and the state, the politics of world money, and the problems associated with regulating internationally-active financial institutions.",
       "prerequisites": "Fourth-year Honours standing and one of PSCI 2602 , PSCI 3600 , or PSCI 3703 , or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1430,9 +1415,7 @@
       "credit": "0.5",
       "description": "NATO as a political and military alliance. NATO and 21st century threats. Security roles for the E.U. Broader translatlantic security issues.",
       "prerequisites": "Fourth-year Honours standing and one of PSCI 2601 , PSCI 3603 , or PSCI 3607 , or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1454,7 +1437,9 @@
       "credit": "0.5",
       "description": "Global politics of transboundary environmental issues such as biodiversity protection, climate change and desertification. The perspectives, actors, institutions and economic relationships affecting international policy responses to these issues.",
       "prerequisites": "fourth-year Honours standing or permission of the Department, and one of PSCI 2401 , PSCI 2601 , PSCI  2602, or PSCI 3801 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1464,7 +1449,9 @@
       "credit": "0.5",
       "description": "A seminar on a selected contemporary topic in Political Science. Topic may vary from year to year and will be announced in advance of the registration period by the Department of Political Science.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1484,7 +1471,9 @@
       "credit": "0.5",
       "description": "The relationship between international politics and the causes, consequences and responses to forced migration, internal displacement and refugees. Seminars and case studies are used to examine the evolution of the global refugee regime and the challenges it faces today.",
       "prerequisites": "fourth-year Honours standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1504,9 +1493,7 @@
       "credit": "0.5",
       "description": "Tutorials or reading courses on selected topics in which seminars are not available.",
       "prerequisites": "permission of the Department and agreement of an instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1516,9 +1503,7 @@
       "credit": "0.5",
       "description": "Tutorials or reading courses on selected topics in which seminars are not available.",
       "prerequisites": "permission of the Department and agreement of an instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1528,10 +1513,7 @@
       "credit": "0.5",
       "description": "A seminar offered by The Washington Center, governed by Carleton regulations, and co-ordinated by Carleton's Department of Political Science.",
       "prerequisites": "selection to The Washington Center Internship Program and one of PSCI 2200 , PSCI 3200 , or PSCI 3210 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1541,10 +1523,7 @@
       "credit": "0.5",
       "description": "A seminar offered by The Washington Center, governed by Carleton regulations, and co-ordinated by Carleton's Department of Political Science.",
       "prerequisites": "selection to The Washington Center Internship Program and one of PSCI 2200 , PSCI 3200 , or PSCI 3210 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1554,10 +1533,7 @@
       "credit": "1.0",
       "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader.  Students are responsible for locating a faculty member willing to supervise the essay. Departmental regulations apply.",
       "prerequisites": "fourth-year Honours standing in Political Science with a Political Science CGPA of 9.00 or better, or permission of the Supervisor of Undergraduate Studies.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     }
@@ -2554,7 +2530,7 @@
           "description": "A Statistical Toolkit for Political Scientists"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credits in courses in Canadian Politics and Policy /or International Relations and World Politics, of which at least 1.0 credit is at the 3000-level or above"
@@ -4471,7 +4447,7 @@
           "description": "Summer Field Research Course"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "g. 0.5 credits from: Capstone Seminar"
@@ -4485,7 +4461,7 @@
           "description": "Capstone Seminar in Global Politics"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "h. 1.5 credits from 4th Year Seminars and Honours Research Essay"
@@ -4992,7 +4968,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: The Stream"

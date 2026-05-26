@@ -9,8 +9,7 @@
       "description": "Review of elementary mathematics in preparation for undergraduate economics curriculum. Topics covered include manipulation of algebraic expressions, solving equations, working with inequalities, functions, and graphical visualization of magnitudes and relationships. Students will engage in problem-solving exercises in the context of basic economic applications.",
       "prerequisites": "Grade 11 Functions (University/College Preparation), or equivalent. Restricted to B.Econ students or permission of the Department.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -292,7 +291,7 @@
       "description": "Basic principles of labour economics including market, institutional, and sociological forces. Technology and labour demand, wage systems, human capital, internal wage structure, market discrimination, female labour-force entry, wage-price spiral, household labour supply, and wage determination.",
       "prerequisites": "ECON 1001 and ECON 1002 , or ECON 1000 or FYSM 1003 .",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -303,9 +302,7 @@
       "credit": "0.5",
       "description": "An introduction to the economic aspects of migration. Topics include, among others: the economics of migration within countries; the economics of host country integration of immigrants; the impact of immigration on outcomes in the host country; the impacts of emigration on the home country.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -335,9 +332,7 @@
       "credit": "0.5",
       "description": "The role and nature of the government sector in the economy, the theory of public goods, the equity and efficiency effects of public expenditures, voting rules and fiscal politics, techniques of public expenditure analysis, and intergovernmental fiscal relations.",
       "prerequisites": "ECON 1001 and ECON 1002 or ECON 1000 or FYSM 1003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -347,7 +342,9 @@
       "credit": "0.5",
       "description": "The role and nature of the government sector in the economy, principles of taxation, tax equity, incidence and excess burden of taxes, structure of taxes in the economy, role of personal, corporate, sales and wealth taxes, fiscal stabilization policy, and the economics of public debt.",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -357,9 +354,7 @@
       "credit": "0.5",
       "description": "An examination of the role of government in the economy, with  emphasis on alternate forms of social coordination and the advantages and disadvantages of each form in the Canadian system.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -369,7 +364,9 @@
       "credit": "0.5",
       "description": "",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -438,7 +435,7 @@
       "description": "The behaviour of financial intermediaries and institutions such as the Bank of Canada, banks and trust companies, and regulatory bodies such as the Canada Deposit Insurance Corporation and the Superintendent of Financial Institutions.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -459,7 +456,9 @@
       "credit": "0.5",
       "description": "The application of economic analysis to questions concerning natural-resource use, management and conservation, as well as market failures and environmental effects. Policy problems relating to natural resources are discussed.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -469,9 +468,7 @@
       "credit": "0.5",
       "description": "Microeconomic analysis of environmental issues. Frameworks for measuring environmental costs and benefits. The efficiency of alternative pollution control policies. Applications include air and water pollution and global environmental problems such as ozone depletion and global warming.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -533,9 +530,7 @@
       "credit": "0.5",
       "description": "Examination of housing markets, housing finance, and government housing policy using the tools of microeconomics. Models of demand, supply, and market equilibrium emphasizing the special characteristics of housing, including heterogeneity, durability, and spatial fixity. Relationships to other goods and markets and the wider macroeconomy.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -621,7 +616,7 @@
       "description": "Probability: including conditional probability, random variables and distributions, unconditional and conditional expectations. Distributions: including special distributions and their properties, and sampling distributions of estimators. Nonparametric methods and limit theorems; stochastic processes; simulation and bootstrap methods. Applications of these tools to economic theory.",
       "prerequisites": "ECON 2210 (or equivalent) with a grade of C+ or higher, and ECON 3210 (or equivalent) with a grade of C+ or higher.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -653,8 +648,7 @@
       "description": "Advanced theory of individual economic behaviour in production, consumption, and general equilibrium. Elementary tools of mathematics are employed in the exposition of most topics.",
       "prerequisites": "ECON 2020 (or ECON 2009 ) and ECON 3020 (or equivalent) each with a grade of C+ or higher; ECON 3001 (or MATH 2001 and MATH 2002 , or MATH 2004 ) with a grade of C+ or higher; and ECON 3210 (or ECON equivalent, or STAT 2605 or STAT 3502 ), which may be taken concurrently with ECON 4020 .",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": [
@@ -738,7 +732,7 @@
       "description": "Market efficiency and the limits of arbitrage. Heuristics and biases identified by behavioural decision theorists and their effect on the behaviour of managers and investors. Behavioural theories of market trading volume and asset prices. Behavioural approaches to corporate financial economics problems.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher, and ECON 3050 or BUSI 2501 with a grade of C- or higher.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -749,7 +743,9 @@
       "credit": "0.5",
       "description": "An introduction to the use of and insights gained from both laboratory- and field-type experimental methods in economic research. Topics include analysis of individual rationality, performance of markets, and design of economic systems. In-class experiments are an integral part of the course.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3210 (or equivalent) with a grade of C- or higher.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -779,9 +775,7 @@
       "credit": "0.5",
       "description": "Various theoretical and empirical studies of firm and market organization with emphasis on the pricing, advertising, investment and locational behaviour of firms in imperfectly competitive markets.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -870,7 +864,7 @@
       "description": "International trade theory and its implications for economic policy. Topics such as determinants of trade and specialization, gains from trade and commercial policy, international factor mobility, growth and development.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -962,9 +956,7 @@
       "credit": "0.5",
       "description": "Advanced topics of interest to upper-year Economics students. Topics may vary from year to year and are announced in advance of the registration period.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C+ or higher; ECON 3102 (or equivalent) with a grade of C+ or higher; and ECON 3706 or ECON 4706 , which may be taken concurrently with ECON 4880 or may be waived by permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "ECON 4880"
@@ -1019,9 +1011,7 @@
       "credit": "0.5",
       "description": "Development of fundamental research and writing skills pertinent to the discipline of economics. Writing summary reviews of economics texts of increasing sophistication; writing up empirical and/or theoretical results of increasing complexity.",
       "prerequisites": "registration in the Post-Baccalaureate Diploma in Economics program and/or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     }
@@ -1084,12 +1074,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1218,12 +1208,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1314,7 +1304,7 @@
           "description": "Honours Capstone Seminar (see Note 1 below)"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "One of the concentrations described after the Economics B.Econ. Honours with Concentrations program below, also included in the Major CGPA"
@@ -1358,12 +1348,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -1989,20 +1979,13 @@
           "description": "Survey of Accounting"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 1001"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Financial Accounting"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 1001",
             "BUSI 2008"
           ],
-          "credits": 0.5,
-          "description": "Management Accounting"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2097,12 +2080,12 @@
           "description": "International Monetary Problems"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 4602"
           ],
-          "credits": 0.5,
-          "description": "International Monetary Theory and Policy"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2248,12 +2231,12 @@
           "description": "Ordinary Differential Equations I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 2454"
           ],
-          "credits": 0.5,
-          "description": "Ordinary Differential Equations (Honours)"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2272,12 +2255,12 @@
           "description": "Functions of a Complex Variable"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 3057"
           ],
-          "credits": 0.5,
-          "description": "Functions of a Complex Variable (Honours)"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2304,12 +2287,12 @@
           "description": "Mathematical Modeling and Computational Methods"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 3806"
           ],
-          "credits": 0.5,
-          "description": "Scientific Computing I (Honours)"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2326,12 +2309,12 @@
           "description": "Operations Research: Linear Programming Models"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MATH 3801"
           ],
-          "credits": 0.5,
-          "description": "Linear Programming"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2386,12 +2369,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2514,12 +2497,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -2726,20 +2709,13 @@
           "description": "Intermediate Microeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 2009"
-          ],
-          "credits": 0.5,
-          "description": "Managerial Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 2009",
             "ECON 2020"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2756,12 +2732,12 @@
           "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2102"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Macroeconomics I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2778,12 +2754,12 @@
           "description": "Quantitative Approaches to Policy Analysis"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2210"
           ],
-          "credits": 0.5,
-          "description": "Introductory Statistics for Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -2824,7 +2800,7 @@
           "description": "International Monetary Problems"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.0,
           "description": "f. 3.0 credits from: International Economic Policy"
@@ -3019,7 +2995,7 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
@@ -3040,12 +3016,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3062,20 +3038,13 @@
           "description": "Intermediate Microeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 2009"
-          ],
-          "credits": 0.5,
-          "description": "Managerial Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 2009",
             "ECON 2020"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3092,12 +3061,12 @@
           "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2102"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Macroeconomics I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3114,12 +3083,12 @@
           "description": "Quantitative Approaches to Policy Analysis"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2210"
           ],
-          "credits": 0.5,
-          "description": "Introductory Statistics for Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -3274,12 +3243,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3290,20 +3259,13 @@
           "description": "Intermediate Microeconomics for Non-Mathematical Majors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 2009"
-          ],
-          "credits": 0.5,
-          "description": "Managerial Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 2009",
             "ECON 2020"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Microeconomics I: Producers and Market Structure"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -3314,12 +3276,12 @@
           "description": "Intermediate Macroeconomics for Non-Mathematical Majors (see Note, below)"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECON 2102"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Macroeconomics I"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",

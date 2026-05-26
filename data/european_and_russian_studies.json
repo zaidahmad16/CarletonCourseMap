@@ -20,7 +20,9 @@
       "credit": "0.5",
       "description": "An interdisciplinary examination of the domestic issues facing the countries of Europe, Russia and Eurasia and the position of these countries in a global context, including geopolitical, economic, security and human dimensions.",
       "prerequisites": "second year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -30,9 +32,7 @@
       "credit": "0.5",
       "description": "An exploration of the cultural borders and boundaries of contemporary Europe, Russia and Eurasia. Using literary and visual texts, the course explores issues such as migration, cultural and political borders and their transcendence, cultural responses to authoritarianism, the Cold War and its afterlives, and memory.",
       "prerequisites": "second year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -92,9 +92,7 @@
       "credit": "0.5",
       "description": "Selected topics in Balkan politics and society since the collapse of communism in 1989, focusing on the democratic transition and the EU accession process.  The legacies of communist rule, democratization and the many national questions that still exist in the region.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -147,8 +145,7 @@
       "description": "A seminar focusing on selected topics related to Europe.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -159,10 +156,7 @@
       "credit": "0.5",
       "description": "A seminar focusing on selected topics related to Russia and neighbouring countries.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -172,9 +166,7 @@
       "credit": "0.5",
       "description": "Evolution and current status of Central Europe from periods of foreign control in the late nineteenth and twentieth centuries to independent statehood, with  emphasis on national accommodations and conflicts.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -194,9 +186,7 @@
       "credit": "0.5",
       "description": "A seminar accompanying an unpaid internship placement to develop workplace and applied policy skills. Relating applied experience to academic literature. Writing skills for an applied policy setting. Internship placement: 12 days over l2 weeks.",
       "prerequisites": "open only to fourth-year EURUS B.A. Honours students with a minimum B+ average and placement in an internship position in the same semester or in the previous semester (based on a competitive application process).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -206,7 +196,9 @@
       "credit": "0.5",
       "description": "Examination of the Caucasus and Central Asia, from Chechnya to former Soviet republics of the region, Afghanistan and Chinese Turkestan. Interests of Russia, China, and the United States. Emphasis on underdevelopment, oil and gas, terrorism, Islam.",
       "prerequisites": "fourth year Honours standing or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -226,9 +218,7 @@
       "credit": "0.5",
       "description": "Examination of the South Caucasus (Azerbaijan, Georgia, Armenia), the Russian-held North Caucasus, including Chechnya, and relations with Iran. Emphasis on state and society, oil and gas, transregional communications, interests of western powers, ethnic relations.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -248,7 +238,9 @@
       "credit": "0.5",
       "description": "History of contemporary Europe from 1945 to present covering both eastern and western halves of the continent and including social, cultural, political, and economic dimensions.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -258,7 +250,9 @@
       "credit": "0.5",
       "description": "Europe\u2019s role in international migration. Topics to be discussed may include migration and mobility as both assets and challenges for sending, transit, and destination countries, changing geographies of migration, inclusion and exclusion, political mobilization, and responses of European states and other actors.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -268,9 +262,7 @@
       "credit": "0.5",
       "description": "Examination of the expansion and downfall of tsarist Russia from the eighteenth century to the revolutionary era and the establishment of Bolshevik rule.  Topics include the relationship between the monarchy and subject peoples, social and economic change, and daily life.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -280,7 +272,9 @@
       "credit": "0.5",
       "description": "Examination of the rise of the Soviet Union to a global power and subsequent tensions that promoted its collapse.  The course will analyze Stalinism, the Second World War, the Thaw, and Brezhnev and Gorbachev eras through the lens of the USSR\u2019s citizens.",
       "prerequisites": "fourth-year Honours standing or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -397,42 +391,42 @@
           "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credit from: Modern History category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.5,
           "description": "1.5 credits from: Politics and Economics category.  Must include credits in both PSCI and ECON"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from: Language, Art, Culture category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from: Contexts and Methods for Regional Studies category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.5,
           "description": "2.5 credits from: Approved Courses in European, Russian, and Eurasian Studies. May include EURR not used to fulfill another requirement. No more than 1.0 credit from the Contexts and Methods for Regional Studies category."
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "EURR 4908"
           ],
-          "credits": 2.0,
-          "description": "2.0 credits from: EURUS 4000-level Honours category.  At least 1.0 credit in EURR.  May include EURR 4908 (1.0) Honours Essay"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -444,12 +438,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -511,36 +505,36 @@
           "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from: Modern History category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from: Politics and Economics category.  Must include credits in both PSCI and ECON"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from: Language, Art, Culture category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR  not used to fulfill another requirement.  No more than 0.5 credit from the Contexts and Methods for Regional Studies category."
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "EURR 4908"
           ],
-          "credits": 1.0,
-          "description": "1.0 credit from: EURUS 4000-level Honours category. At least 0.5 credit in EURR. May include EURR 4908 (1.0) Honours Essay"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "required",
@@ -552,12 +546,12 @@
           "description": "Introduction to Microeconomics Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1003"
           ],
-          "credits": 1.0,
-          "description": "Introduction to Economics"
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -625,19 +619,19 @@
           "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from: Modern History category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from: Politics and Economics category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 3.5,
           "description": "3.5 credits from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR not used to fulfill another requirement.  No more than 1.0 credit from the Contexts and Methods for Regional Studies category."
@@ -800,36 +794,36 @@
           "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "d. 1.0 credit from: Modern History category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "e. 1.0 credit from: Politics and Economics category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "f. 0.5 credit from: Language, Art, Culture category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "g. 2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR not used to fulfill another requirement.  No more than 0.5 credit from the Contexts and Methods for Regional Studies category."
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "EURR 4908"
           ],
-          "credits": 1.5,
-          "description": "h. 1.5 credit from: EURUS 4000-level Honours Course category.  At least 1.0 credit in EURR.  May include EURR 4908 (1.0) Honours Essay."
+          "credits": null,
+          "description": ""
         },
         {
           "type": "elective",
@@ -919,18 +913,18 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 4.0,
           "description": "4.0 credits from: the Stream"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "EURR 1001"
           ],
-          "credits": 0.5,
-          "description": "Introduction to European and Russian Studies"
+          "credits": 1.0,
+          "description": "a. 1.0 credit from: EURUS Core Courses"
         },
         {
           "type": "required",
@@ -966,7 +960,7 @@
       "degree": "Minor in European and Russian Studies (4.0 credits)",
       "requirements": [
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 1.0,
           "description": "1.0 credit from: EURUS Core Courses"
@@ -996,19 +990,19 @@
           "description": "Europe, Russia and Eurasia Beyond Borders: Literature and Culture"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from: Modern History category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 0.5,
           "description": "0.5 credit from: Politics and Economics category"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [],
           "credits": 2.0,
           "description": "2.0 credit from: Approved Courses in European, Russian, and Eurasian Studies.  May include EURR courses not used to fulfill another requirement."

@@ -22,7 +22,7 @@
       "description": "Introduction to the analysis of oral language in use; distinctions between spoken and written language; theoretical and methodological approaches such as speech act theory, ethnography of communication, conversation analysis, and discourse analysis; classroom interaction; interaction in first- and second-language acquisition; analysis of spoken language corpora.",
       "prerequisites": "ALDS 1001 or permission of the instructor.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -34,7 +34,7 @@
       "description": "Introduction to the analysis of written language in use, including theoretical and methodological approaches such as rhetorical genre studies (including academic and workplace writing); adult literacy studies; text-structure analysis; discourse analysis (including critical discourse analysis); analysis of textual corpora.",
       "prerequisites": "ALDS 1001 or FYSM 1004 or COMS 1001 or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -57,7 +57,10 @@
       "credit": "0.5",
       "description": "Strategies for successful academic and professional writing with an emphasis on audience awareness, purpose, and context of writing. Approaches to peer review and time management for enhanced writing productivity. Practice with tools for the development of academic and professional text types.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -79,7 +82,9 @@
       "credit": "0.5",
       "description": "The linguistic nature of bilingualism. The structure of bilingual societies and the relation between societal and individual bilingualism. The role of bilingualism in language education.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -99,7 +104,9 @@
       "credit": "0.5",
       "description": "Introduction to intercultural communication with an emphasis on social interaction, multimodality, and identity construction. Application of theoretical perspectives to case studies through empirical inquiry and storytelling. Specific topics include cultural identity and food, gesture and nonverbal communication, and the structure of rhetoric.",
       "prerequisites": "third-year standing, and one of LING 1001 or ALDS 1001 , or permission of the School.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -110,7 +117,7 @@
       "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
       "prerequisites": "ALDS 1001 and third-year standing.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -163,9 +170,7 @@
       "credit": "0.5",
       "description": "Theory and practice of second language (L2) writing: how people learn to write in a second language, and how L2 writing courses for specific groups of learners can be designed.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -199,7 +204,9 @@
       "credit": "0.5",
       "description": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -219,7 +226,9 @@
       "credit": "0.5",
       "description": "Principles of and studies in discourse analysis, including both conversational and textual/documentary analysis. The major focus is on language use in structuring social relationships.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -430,7 +439,7 @@
       "description": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
       "prerequisites": "third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -452,7 +461,7 @@
       "description": "This course is intended to familiarize students with the structure of the English language, highlighting important contrasts between English and other languages as well as grammatical difficulties for ESL learners.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []

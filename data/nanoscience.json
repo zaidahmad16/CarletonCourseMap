@@ -147,60 +147,25 @@
           "description": "Research Project and Seminar"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "CHEM 2203"
-          ],
-          "credits": 0.5,
-          "description": "Organic Chemistry I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 2204"
-          ],
-          "credits": 0.5,
-          "description": "Organic Chemistry II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 2302"
-          ],
-          "credits": 0.5,
-          "description": "Analytical Chemistry I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHEM 2203",
+            "CHEM 2204",
+            "CHEM 2302",
             "CHEM 2303"
           ],
-          "credits": 0.5,
-          "description": "Analytical Chemistry II"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "CHEM 4103"
-          ],
-          "credits": 0.5,
-          "description": "Surface Chemistry and Nanostructures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 4104"
-          ],
-          "credits": 0.5,
-          "description": "Physical Methods of Nanotechnology"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHEM 4103",
+            "CHEM 4104",
             "CHEM 4201"
           ],
-          "credits": 0.5,
-          "description": "Macromolecular Nanotechnology"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -267,20 +232,13 @@
           "description": "Nanoscale Technology and Devices"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ELEC 2607"
-          ],
-          "credits": 0.5,
-          "description": "Switching Circuits"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ELEC 2607",
             "ELEC 3509"
           ],
           "credits": 0.5,
-          "description": "Electronics II"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -339,37 +297,18 @@
           "description": "Introductory Electromagnetism and Wave Motion"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in science at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in science at the 2000-level or higher (not CHEM)"
-        },
-        {
           "type": "required",
           "courses": [
             "ISAP 1000"
           ],
           "credits": 0.5,
           "description": "Seminar in Science"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives"
-        },
+        }
+      ]
+    },
+    {
+      "degree": "Experimental Science Requirement",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -977,24 +916,12 @@
         },
         {
           "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
           "courses": [
             "BIOL 4810",
             "BIOL 2005"
           ],
           "credits": null,
           "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
         },
         {
           "type": "elective",
@@ -1017,77 +944,11 @@
         },
         {
           "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
           "courses": [
             "PHYS 2903"
           ],
           "credits": null,
           "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
         },
         {
           "type": "elective",
@@ -1391,12 +1252,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     }

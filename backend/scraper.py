@@ -234,7 +234,8 @@ def _parse_sc_courselist(table):
     NUMBERED_PREFIX_RE = re.compile(r'^\s*[A-Z0-9]+\.\s+')
 
     requirements = []
-    current_type = "required"
+    section_type = "required"   # type set by the most recent areaheader
+    current_type = "required"   # may be overridden by inline sub-headers
     current_header_text = ""
     current_header_credits = None
 
@@ -245,6 +246,7 @@ def _parse_sc_courselist(table):
 
     def flush_choose():
         """Emit a single choose requirement from the buffer and reset it."""
+        nonlocal current_type
         if choose_buffer:
             requirements.append({
                 "type": "choose",
@@ -253,6 +255,8 @@ def _parse_sc_courselist(table):
                 "description": choose_desc,
             })
         choose_buffer.clear()
+        # after emitting an inline choose block, revert to the enclosing section type
+        current_type = section_type
 
     for row in table.find_all("tr"):
         classes = set(row.get("class") or [])
@@ -275,12 +279,15 @@ def _parse_sc_courselist(table):
             current_header_credits = float(m.group(1)) if m else None
 
             if _CHOOSE_HEADER_RE.search(lower):
+                section_type = "choose"
                 current_type = "choose"
                 choose_credits = current_header_credits
                 choose_desc = NUMBERED_PREFIX_RE.sub("", text).strip()
             elif "elective" in lower:
+                section_type = "elective"
                 current_type = "elective"
             else:
+                section_type = "required"
                 current_type = "required"
             continue
 
@@ -340,13 +347,16 @@ def _parse_sc_courselist(table):
             if not text.strip():
                 continue
 
-            if re.search(r":\s*$", text.strip()):
+            lower = text.lower()
+            is_choose_sub_header = _CHOOSE_HEADER_RE.search(lower) or re.search(r"\bchoose\b|\bselect\b", lower)
+            if re.search(r":\s*$", text.strip()) and not is_choose_sub_header:
+                # section sub-label — flush any open choose block and skip
+                flush_choose()
                 continue
 
-            lower = text.lower()
             if "elective" in lower:
                 row_type = "elective"
-            elif re.search(r"\bchoose\b|\bselect\b", lower) or _CHOOSE_HEADER_RE.search(lower):
+            elif is_choose_sub_header:
                 row_type = "choose"
             elif current_type != "required":
                 row_type = current_type
@@ -366,6 +376,17 @@ def _parse_sc_courselist(table):
 
             if row_type == "choose" and courses:
                 choose_buffer.extend(courses)
+            elif row_type == "choose" and not courses:
+                # description-only choose sub-header (e.g. "1.0 credit from:")
+                # flush any open block and switch to choose mode for subsequent rows
+                flush_choose()
+                current_type = "choose"
+                choose_credits = credits
+                choose_desc = clean_text
+            elif row_type == "elective" and not courses and section_type != "elective":
+                # numbered sub-label for a required section (e.g. "3.0 credits in:")
+                # flush any open choose block and revert to required; skip this label
+                flush_choose()
             else:
                 flush_choose()
                 requirements.append({

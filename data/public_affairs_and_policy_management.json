@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "The processes of policy-making, implementation and evaluation. Forces that shape policy deliberations and alternative tools for managing policy action and policy evaluation. Theoretical approaches to understanding the origins of policy, and methods by which programs are designed and assessed.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,9 +18,7 @@
       "credit": "0.5",
       "description": "Theoretical, philosophical and ethical foundations for the study of public affairs and policy management. Drawing from classic and contemporary texts in political philosophy and theory, students consider issues relating to the nature of democracy, civic society and social organizations, the public, public affairs, public interest.",
       "prerequisites": "PAPM 1001 , PSCI 2003 , and second-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -32,9 +28,7 @@
       "credit": "0.5",
       "description": "An examination of the history of economic thought, the context in which it developed, and its influence on public policy, from ancient to classical, neoclassical, and Keynesian approaches. Will also include a discussion of critical approaches such as Marxist, feminist, racial capitalist thought.",
       "prerequisites": "PAPM 1001 , PSCI 2003 , and second-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -44,9 +38,7 @@
       "credit": "0.5",
       "description": "An examination of the research strategies and techniques relevant to policy analysis and evaluation. Using the case study method, the role of research and research organizations in the policy process is discussed. The issue of ethical dilemmas in policy research is also considered.",
       "prerequisites": "PSCI 2701 and PSCI 2702 , or COMM 2001, or ECON 2201 and ECON 2202 and Good Standing in the Bachelor of Public Affairs and Policy Management program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -66,9 +58,7 @@
       "credit": "0.5",
       "description": "Policy workshop focusing on the application of public affairs analysis to develop problem solving and research skills. Seminar is policy-focused and organized by area of Specialization in the program. Students, working in small groups, examine concrete policy problems, actual or simulated, in specific institutional contexts.",
       "prerequisites": "PAPM 3000 and Good Standing in the Bachelor of Public Affairs and Policy Management program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -78,9 +68,7 @@
       "credit": "0.5",
       "description": "Students address a specific policy problem or problems, in interaction with local, national or international policy experts or practitioners. Emphasis on policy analysis, research, and communication skills.",
       "prerequisites": "PAPM 3000 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -100,10 +88,7 @@
       "credit": "1.0",
       "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader. Students are responsible for locating a faculty member willing to supervise the essay. Departmental regulations apply.",
       "prerequisites": "PAPM 3000 and fourth-year standing in the Bachelor of Public Affairs and Policy Management program with a Major CGPA or 9.0 or better, or permission of the Director of the Public Affairs and Policy Management program.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }
@@ -195,358 +180,78 @@
           "description": "Institutions and Power in Canadian Politics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMS 2005"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Communication Practice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 2200"
-          ],
-          "credits": 0.5,
-          "description": "Big Data and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 2300"
-          ],
-          "credits": 0.5,
-          "description": "Communication as Propaganda"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 2400"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change and Communication"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 2500"
-          ],
-          "credits": 0.5,
-          "description": "Communication and Science"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 2504"
-          ],
-          "credits": 0.5,
-          "description": "Language and Communication"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 2600"
-          ],
-          "credits": 0.5,
-          "description": "Communication and Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMS 2005",
+            "COMS 2200",
+            "COMS 2300",
+            "COMS 2400",
+            "COMS 2500",
+            "COMS 2504",
+            "COMS 2600",
             "COMS 2700"
           ],
           "credits": 0.5,
-          "description": "Global Media and Communication"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 2204"
-          ],
-          "credits": 0.5,
-          "description": "Basic Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 2204",
             "SOCI 2035"
           ],
           "credits": 0.5,
-          "description": "Technology, Culture and Society"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 3010"
-          ],
-          "credits": 0.5,
-          "description": "Language, Culture, and Globalization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Communications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3207"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Research"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3108"
-          ],
-          "credits": 0.5,
-          "description": "Media Industries and the Network Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3111"
-          ],
-          "credits": 0.5,
-          "description": "Racism and Digital Media"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3302"
-          ],
-          "credits": 0.5,
-          "description": "Political Communication"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3308"
-          ],
-          "credits": 0.5,
-          "description": "Critical Studies in Advertising and Consumer Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3310"
-          ],
-          "credits": 0.5,
-          "description": "Critical Perspectives of Public Relations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3311"
-          ],
-          "credits": 0.5,
-          "description": "Media and Communication in Regional Contexts"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3401"
-          ],
-          "credits": 0.5,
-          "description": "Communications Regulation in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3403"
-          ],
-          "credits": 0.5,
-          "description": "Communication, Technology and Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3411"
-          ],
-          "credits": 0.5,
-          "description": "Media and Social Activism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 3601"
-          ],
-          "credits": 0.5,
-          "description": "Communication Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3005"
-          ],
-          "credits": 0.5,
-          "description": "Law and Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3006"
-          ],
-          "credits": 0.5,
-          "description": "Alternative Dispute Resolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3201"
-          ],
-          "credits": 0.5,
-          "description": "Business Enterprise Frameworks"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3202"
-          ],
-          "credits": 0.5,
-          "description": "Intellectual Property"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3501"
-          ],
-          "credits": 0.5,
-          "description": "Law in the Information Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3503"
-          ],
-          "credits": 0.5,
-          "description": "Equality and Discrimination"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ANTH 3010",
+            "BUSI 3205",
+            "BUSI 3207",
+            "COMS 3108",
+            "COMS 3111",
+            "COMS 3302",
+            "COMS 3308",
+            "COMS 3310",
+            "COMS 3311",
+            "COMS 3401",
+            "COMS 3403",
+            "COMS 3411",
+            "COMS 3601",
+            "LAWS 3005",
+            "LAWS 3006",
+            "LAWS 3201",
+            "LAWS 3202",
+            "LAWS 3501",
+            "LAWS 3503",
             "POLM 3000",
             "COMS 3100",
-            "PSCI 3410"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Political Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3108"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Popular Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3402"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Public Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3405"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Public Policy Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3406"
-          ],
-          "credits": 0.5,
-          "description": "Public Affairs and Media Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 3410",
+            "PSCI 3108",
+            "PSCI 3402",
+            "PSCI 3405",
+            "PSCI 3406",
             "SOCI 3710"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Cultural Studies"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 4500"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Studies in Culture and Symbols"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 4316"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Media in Global Contexts"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 4401"
-          ],
-          "credits": 0.5,
-          "description": "Global Internet Policy and Governance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMS 4406"
-          ],
-          "credits": 0.5,
-          "description": "Open Government and Communication"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 4504"
-          ],
-          "credits": 0.5,
-          "description": "Investigating Journalism:  The Media and International Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4402"
-          ],
-          "credits": 0.5,
-          "description": "Employment Dispute Resolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4801"
-          ],
-          "credits": 0.5,
-          "description": "Risk and the Legal Process"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4003"
-          ],
-          "credits": 0.5,
-          "description": "Politics and the Media"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ANTH 4500",
+            "COMS 4316",
+            "COMS 4401",
+            "COMS 4406",
+            "JOUR 4504",
+            "LAWS 4402",
+            "LAWS 4801",
+            "PSCI 4003",
             "PSCI 4702"
           ],
-          "credits": 0.5,
-          "description": "Intermediate Research Methods for Applied Political Science"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1063,146 +768,42 @@
           "description": "Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 2002"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Politics and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2101"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global North"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 2002",
+            "PSCI 2101",
             "PSCI 2102"
           ],
           "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 1003"
-          ],
-          "credits": 0.5,
-          "description": "Empire, War, and Revolution in Europe, 1850-1939"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1004"
-          ],
-          "credits": 0.5,
-          "description": "Europe in War; Cold War"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1301"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Change in Early Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1302"
-          ],
-          "credits": 0.5,
-          "description": "Rethinking Modern Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1701"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1400-1850"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1702"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1850 to the present"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2301"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Political History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2308"
-          ],
-          "credits": 0.5,
-          "description": "Colonial Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2311"
-          ],
-          "credits": 0.5,
-          "description": "Environmental History of Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2313"
-          ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Early Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 1003",
+            "HIST 1004",
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 1701",
+            "HIST 1702",
+            "HIST 2301",
+            "HIST 2308",
+            "HIST 2309",
+            "HIST 2311",
+            "HIST 2313",
             "HIST 2314"
           ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Modern Canada"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Ways of Knowing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 1010",
             "INDG 1011"
           ],
           "credits": 0.5,
-          "description": "Introduction to Indigenous-Settler Encounters"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in free electives"
+          "description": "0.5 credit from:"
         }
       ]
     },
@@ -1290,124 +891,33 @@
           "description": "Community Development and Social Change in an International Context"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 3508"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3509"
-          ],
-          "credits": 0.5,
-          "description": "Development Planning and Project Evaluation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3601"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to International Trade"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3602"
-          ],
-          "credits": 0.5,
-          "description": "International Monetary Problems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 3508",
+            "ECON 3509",
+            "ECON 3601",
+            "ECON 3602",
+            "LAWS 2105",
             "PSCI 3307"
           ],
-          "credits": 0.5,
-          "description": "Politics of Human Rights"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4102"
-          ],
-          "credits": 0.5,
-          "description": "Controversies in Rights Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4200"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Economic Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4605"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4104"
-          ],
-          "credits": 0.5,
-          "description": "Development in the Global South - Theory and Practice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Selected Problems in Development in the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4505"
-          ],
-          "credits": 0.5,
-          "description": "Transitions to Democracy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4603"
-          ],
-          "credits": 0.5,
-          "description": "Analysis of International Political Economy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4604"
-          ],
-          "credits": 0.5,
-          "description": "Selected Problems in International Political Economy"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4102",
+            "LAWS 4200",
+            "LAWS 4605",
+            "PSCI 4104",
+            "PSCI 4105",
+            "PSCI 4505",
+            "PSCI 4603",
+            "PSCI 4604",
             "PSCI 4805"
           ],
-          "credits": 0.5,
-          "description": "Global Money Rules"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1424,12 +934,6 @@
           ],
           "credits": 0.5,
           "description": "Topics in Rights and Human Development"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credits in Indigenous Policy stream electives at the 4000-level"
         },
         {
           "type": "required",
@@ -3232,140 +2736,42 @@
           "description": "Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 2002"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Politics and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2101"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global North"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 2002",
+            "PSCI 2101",
             "PSCI 2102"
           ],
           "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 1003"
-          ],
-          "credits": 0.5,
-          "description": "Empire, War, and Revolution in Europe, 1850-1939"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1004"
-          ],
-          "credits": 0.5,
-          "description": "Europe in War; Cold War"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1301"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Change in Early Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1302"
-          ],
-          "credits": 0.5,
-          "description": "Rethinking Modern Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1701"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1400-1850"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1702"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1850 to the present"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2301"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Political History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2308"
-          ],
-          "credits": 0.5,
-          "description": "Colonial Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2311"
-          ],
-          "credits": 0.5,
-          "description": "Environmental History of Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2313"
-          ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Early Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 1003",
+            "HIST 1004",
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 1701",
+            "HIST 1702",
+            "HIST 2301",
+            "HIST 2308",
+            "HIST 2309",
+            "HIST 2311",
+            "HIST 2313",
             "HIST 2314"
           ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Modern Canada"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Ways of Knowing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 1010",
             "INDG 1011"
           ],
           "credits": 0.5,
-          "description": "Introduction to Indigenous-Settler Encounters"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -3422,12 +2828,6 @@
           ],
           "credits": 0.5,
           "description": "Law and Indigenous Peoples"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in free electives"
         }
       ]
     },
@@ -3507,68 +2907,33 @@
           "description": "Applied Policy in a Global Context"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 2601"
-          ],
-          "credits": 0.5,
-          "description": "International Relations: Global Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 2601",
             "PSCI 2602"
           ],
           "credits": 0.5,
-          "description": "International Relations: Global Political Economy"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 3601"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to International Trade"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 3601",
             "ECON 3602"
           ],
           "credits": 0.5,
-          "description": "International Monetary Problems"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3405"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Public Policy Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3603"
-          ],
-          "credits": 0.5,
-          "description": "Strategic Thought and International Security"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3606"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Foreign Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 3405",
+            "PSCI 3603",
+            "PSCI 3606",
             "PSCI 3607"
           ],
-          "credits": 0.5,
-          "description": "Canadian Defence Policy at Home and Abroad"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -4859,146 +4224,42 @@
           "description": "Designing Organizational Systems: An Overview"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 2002"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Politics and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2101"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global North"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 2002",
+            "PSCI 2101",
             "PSCI 2102"
           ],
           "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 1003"
-          ],
-          "credits": 0.5,
-          "description": "Empire, War, and Revolution in Europe, 1850-1939"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1004"
-          ],
-          "credits": 0.5,
-          "description": "Europe in War; Cold War"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1301"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Change in Early Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1302"
-          ],
-          "credits": 0.5,
-          "description": "Rethinking Modern Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1701"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1400-1850"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1702"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1850 to the present"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2301"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Political History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2308"
-          ],
-          "credits": 0.5,
-          "description": "Colonial Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2311"
-          ],
-          "credits": 0.5,
-          "description": "Environmental History of Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2313"
-          ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Early Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 1003",
+            "HIST 1004",
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 1701",
+            "HIST 1702",
+            "HIST 2301",
+            "HIST 2308",
+            "HIST 2309",
+            "HIST 2311",
+            "HIST 2313",
             "HIST 2314"
           ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Modern Canada"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Ways of Knowing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 1010",
             "INDG 1011"
           ],
           "credits": 0.5,
-          "description": "Introduction to Indigenous-Settler Encounters"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in free electives"
+          "description": "0.5 credit from:"
         },
         {
           "type": "elective",
@@ -5070,132 +4331,27 @@
           "description": "Institutions and Power in Canadian Politics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECON 2001"
-          ],
-          "credits": 0.5,
-          "description": "Intermediate Microeconomics for Non-Mathematical Majors"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 2101"
-          ],
-          "credits": 0.5,
-          "description": "Intermediate Macroeconomics for Non-Mathematical Majors"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3201"
-          ],
-          "credits": 0.5,
-          "description": "Economic Thought and Policy in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3220"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Economic History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3230"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Economic History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3300"
-          ],
-          "credits": 0.5,
-          "description": "Public Policy Toward Business"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3360"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Labour Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3370"
-          ],
-          "credits": 0.5,
-          "description": "The Economics of Migration"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3380"
-          ],
-          "credits": 0.5,
-          "description": "The Economics of Gender and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3460"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Health Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3803"
-          ],
-          "credits": 0.5,
-          "description": "The Economics of Natural Resources"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3804"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3820"
-          ],
-          "credits": 0.5,
-          "description": "Topics in Canadian Economic Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3850"
-          ],
-          "credits": 0.5,
-          "description": "Economics of Information and the Media"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3856"
-          ],
-          "credits": 0.5,
-          "description": "Housing Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ECON 2001",
+            "ECON 2101",
+            "ECON 3201",
+            "ECON 3220",
+            "ECON 3230",
+            "ECON 3300",
+            "ECON 3360",
+            "ECON 3370",
+            "ECON 3380",
+            "ECON 3460",
+            "ECON 3803",
+            "ECON 3804",
+            "ECON 3820",
+            "ECON 3850",
+            "ECON 3856",
             "HIST 3220"
           ],
-          "credits": 0.5,
-          "description": "Canadian Economic History"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -7056,146 +6212,42 @@
           "description": "Introduction to Macroeconomics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 2002"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Politics and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2101"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global North"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 2002",
+            "PSCI 2101",
             "PSCI 2102"
           ],
           "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 1003"
-          ],
-          "credits": 0.5,
-          "description": "Empire, War, and Revolution in Europe, 1850-1939"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1004"
-          ],
-          "credits": 0.5,
-          "description": "Europe in War; Cold War"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1301"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Change in Early Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1302"
-          ],
-          "credits": 0.5,
-          "description": "Rethinking Modern Canadian History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1701"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1400-1850"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 1702"
-          ],
-          "credits": 0.5,
-          "description": "History of the Global South, 1850 to the present"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2301"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Political History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2308"
-          ],
-          "credits": 0.5,
-          "description": "Colonial Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2311"
-          ],
-          "credits": 0.5,
-          "description": "Environmental History of Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2313"
-          ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Early Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 1003",
+            "HIST 1004",
+            "HIST 1301",
+            "HIST 1302",
+            "HIST 1701",
+            "HIST 1702",
+            "HIST 2301",
+            "HIST 2308",
+            "HIST 2309",
+            "HIST 2311",
+            "HIST 2313",
             "HIST 2314"
           ],
-          "credits": 0.5,
-          "description": "Home, Work, and Play in Modern Canada"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Ways of Knowing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 1010",
             "INDG 1011"
           ],
           "credits": 0.5,
-          "description": "Introduction to Indigenous-Settler Encounters"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in free electives"
+          "description": "0.5 credit from:"
         }
       ]
     }

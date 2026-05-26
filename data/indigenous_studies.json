@@ -18,9 +18,7 @@
       "credit": "0.5",
       "description": "This course centers Indigenous Creation Stories in relation to systems of power. Discussing Indigenous worldviews, knowledge making, ways of living, ecological relationships, and inter-Indigenous relations and diplomacy. Course materials are rooted in self-situated and collective understandings of Indigenous peoples.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -30,9 +28,7 @@
       "credit": "0.5",
       "description": "Interdisciplinary and critical engagement with the term \u201cencounter\u201d between various Indigenous communities and settler populations. Topic areas vary by year: introduction to Indigeneity across multiple geographies, cultural and literary practices, gender and the state, race, racialization, racism, place and space, food sovereignty, and education.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -82,9 +78,7 @@
       "credit": "0.5",
       "description": "Overview of Indigenous peoples\u2019 temporal, spatial, and social relationalities, kinship networks, and knowledge systems. Topics may include Indigenous cosmologies, knowledges, languages, water, land, and re-framing human and non-human relationships.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -114,9 +108,7 @@
       "credit": "0.5",
       "description": "Indigenous articulations of gender, sex, and sexualities. This may include a focus on specific embodied roles and responsibilities within Indigenous communities, individual and collective identities, gender-based violence and resistances, and complex relationships between external and lateral systems of power and privilege.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -126,9 +118,7 @@
       "credit": "0.5",
       "description": "Examination of politics and economics of land, waters and power. Topics may include: the study of labour, migrant workers, capitalist extraction; environmental racism and health; and Indigenous dispossession and resistance.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -138,9 +128,7 @@
       "credit": "0.5",
       "description": "A study of dramatic literatures and theatre practice from Indigenous theatre makers, including playwrights, directors and other practitioners.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -150,9 +138,7 @@
       "credit": "0.5",
       "description": "A gendered examination and discussion of Indigenous sovereignties. Topics will vary by year and may include: Indigenous ways of knowing, governance systems, embodied legal orders, community leadership, diplomatic relations, and struggles for self-determination.",
       "prerequisites": "second-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -162,9 +148,7 @@
       "credit": "0.5",
       "description": "Challenging notions of past, present, future, this course engages with media, cultural objects, and practices that imagine and enact alternate futures. Students will produce community-oriented research drawing on Indigenous knowledge making. Topics include: speculative fiction, bead work, visual art practices, and social media.",
       "prerequisites": "third-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -194,10 +178,7 @@
       "credit": "0.5",
       "description": "Topics vary from year to year.",
       "prerequisites": "second-year standing, or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -207,9 +188,7 @@
       "credit": "0.5",
       "description": "This course discusses urban spaces as Indigenous places and foregrounds theories and practices of Indigenous city making. Topics may include unsettling the urban, Indigenous place-making, the built environment and infrastructures, and decolonial articulations of towns and cities.",
       "prerequisites": "third-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -229,9 +208,7 @@
       "credit": "0.5",
       "description": "Students will study how Indigenous peoples have used cultural production in various forms (such as literature, film, television, visual arts, music, performance) to put forth their own visions of their peoples, worldviews, and lives.",
       "prerequisites": "third-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -271,9 +248,7 @@
       "credit": "0.5",
       "description": "Past and contemporary interconnections between Indigenous knowledge and entrepreneurship on a comparative basis. Distinguishing features of Indigenous entrepreneurship from traditional entrepreneurship such as its focus on community, connection to the land, and the role of women.",
       "prerequisites": "Third-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -283,9 +258,7 @@
       "credit": "0.5",
       "description": "Topics vary from year to year.",
       "prerequisites": "third-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -295,10 +268,7 @@
       "credit": "0.5",
       "description": "An optional course normally restricted to fourth-year Honours students in Canadian Studies or Indigenous Studies and to Qualifying-year Graduate students. Includes supervised reading and written work in an Indigenous Studies area.",
       "prerequisites": "fourth-year standing or permission of the Indigenous Studies program.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }
@@ -328,24 +298,12 @@
       "degree": "Indigenous Studies B.A. Honours (20.0 credits)",
       "requirements": [
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in INDG at the 1000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "INDG 1000"
           ],
           "credits": 1.0,
           "description": "Introduction to Indigenous Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
         },
         {
           "type": "required",
@@ -364,24 +322,12 @@
           "description": "Introduction to Indigenous-Settler Encounters"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
           "type": "required",
           "courses": [
             "FYSM 1900"
           ],
           "credits": 1.0,
           "description": "Selected Topics In the Study of Academic Discourses"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 2000-level"
         },
         {
           "type": "required",
@@ -464,12 +410,6 @@
           "description": "Indigenous Drama"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 3000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "INDG 3001"
@@ -508,12 +448,6 @@
           ],
           "credits": 0.5,
           "description": "Selected Topics in Indigenous Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 4000-level"
         },
         {
           "type": "required",
@@ -578,24 +512,6 @@
           ],
           "credits": 0.5,
           "description": "Directed Studies I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits from the list of Approved Indigenous Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit at the 4000-level from the list of Approved Indigenous Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 11.0,
-          "description": "11.0 credits in free electives"
         }
       ]
     },
@@ -603,12 +519,6 @@
       "degree": "Indigenous Studies B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in INDG at the 1000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "INDG 1000"
@@ -632,12 +542,6 @@
           ],
           "credits": 1.0,
           "description": "Selected Topics In the Study of Academic Discourses"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 2000-level"
         },
         {
           "type": "required",
@@ -720,12 +624,6 @@
           "description": "Indigenous Drama"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 3000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "INDG 3001"
@@ -764,12 +662,6 @@
           ],
           "credits": 0.5,
           "description": "Selected Topics in Indigenous Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 4000-level"
         },
         {
           "type": "required",
@@ -834,42 +726,12 @@
           ],
           "credits": 0.5,
           "description": "Directed Studies I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from the list of Approved INDG electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit at the 4000-level from the list of Approved INDG electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements for Combined Honours in the other discipline must be satisfied"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to achieve a total of 20.0 credits for the program"
         }
       ]
     },
     {
       "degree": "Indigenous Studies B.A. (15.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in INDG at the 1000-level"
-        },
         {
           "type": "required",
           "courses": [
@@ -894,12 +756,6 @@
           ],
           "credits": 1.0,
           "description": "Selected Topics In the Study of Academic Discourses"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in INDG at the 2000-level"
         },
         {
           "type": "required",
@@ -982,12 +838,6 @@
           "description": "Indigenous Drama"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in INDG at the 3000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "INDG 3001"
@@ -1026,24 +876,6 @@
           ],
           "credits": 0.5,
           "description": "Selected Topics in Indigenous Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits from the list of Approved Indigenous Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit at the 3000-level from the list of Approved Indigenous Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in free electives"
         }
       ]
     },
@@ -1067,120 +899,31 @@
           "description": "Introduction to Indigenous-Settler Encounters"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 2011"
-          ],
-          "credits": 0.5,
-          "description": "Critical Indigenous Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2012"
-          ],
-          "credits": 0.5,
-          "description": "Anishinaabe Ontologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2013"
-          ],
-          "credits": 0.5,
-          "description": "Haudenosaunee Ontologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2015"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Relationalities, Kinships, and Knowledges"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 2011",
+            "INDG 2012",
+            "INDG 2013",
+            "INDG 2015",
             "INDG 2020"
           ],
-          "credits": 0.5,
-          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 3001"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Sovereignties"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 3015"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Cosmologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 3901"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Indigenous Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 4001"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Urbanisms"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 4011"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Representations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 4015"
-          ],
-          "credits": 0.5,
-          "description": "Land as a Relation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 4020"
-          ],
-          "credits": 0.5,
-          "description": "Practicum"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 3001",
+            "INDG 3015",
+            "INDG 3901",
+            "INDG 4001",
+            "INDG 4011",
+            "INDG 4015",
+            "INDG 4020",
             "INDG 4905"
           ],
-          "credits": 0.5,
-          "description": "Directed Studies I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 1.0,
-          "description": "1.0 credit from the list of approved Indigenous Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "description": "1.0 credit from:"
         }
       ]
     },
@@ -1410,12 +1153,6 @@
           ],
           "credits": 1.0,
           "description": "Directed Studies III"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "(Provided they have Indigenous content)"
         },
         {
           "type": "required",
@@ -1872,12 +1609,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to a Language II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "(When the language offered is an Indigenous language of Canada)"
         },
         {
           "type": "required",

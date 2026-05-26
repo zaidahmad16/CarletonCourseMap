@@ -8,10 +8,7 @@
       "credit": "0.5",
       "description": "Engineering drawing techniques; fits and tolerances; working drawings; fasteners. Elementary descriptive geometry; true length, true view, and intersection of geometric entities; developments. Aerospace-specific CAD (Computer-Aided Design) assignments including production of detail and assembly drawings from actual aerospace physical models.",
       "prerequisites": "",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -21,9 +18,7 @@
       "credit": "0.5",
       "description": "Design approach and phases. Design integration. Influence of mission and other requirements on vehicle configuration. Trade-off studies, sizing and configuration layout. Flight vehicle loads, velocity-load factor diagram. Structural design: overall philosophy, role in design process, methods. Basic orbital mechanics; launch vehicle sizing.",
       "prerequisites": "AERO 2001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -33,9 +28,7 @@
       "credit": "0.5",
       "description": "Structural concepts; theory of elasticity; bending, torsion and shear in thin-walled beams having single or multi-cell sections; work and energy principles; deformation and force analysis of advanced structures, including stiffened thin-wall panels; finite element methods. Stability and buckling of thin-walled structures.",
       "prerequisites": "MAAE 3202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -45,9 +38,7 @@
       "credit": "0.5",
       "description": "Review of translational kinematics and dynamics.  Keplerian two-body problem: Kepler's laws, orbital elements, orbit determination.  Orbital perturbations: oblateness of the Earth, atmospheric drag.  Orbital maneuvers and interplanetary flights.  Advanced topics.",
       "prerequisites": "MAAE 2101 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -77,9 +68,7 @@
       "credit": "0.5",
       "description": "Properties, behaviour and manufacturing methods for metals, polymers and ceramics used in aerospace applications. Specialty alloys for gas turbines. Properties and manufacture of aerospace composites. Behaviour of materials in space.",
       "prerequisites": "MAAE 2700 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -89,9 +78,7 @@
       "credit": "0.5",
       "description": "Design of spacecraft and spacecraft subsystems with emphasis on mission requirements and current design methods: spacecraft configuration, payload, structural, attitude control, thermal, power, and other related subsystems. Spacecraft integration and testing.",
       "prerequisites": "AERO 3240 and ECOR 1032 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -101,9 +88,7 @@
       "credit": "0.5",
       "description": "Stress and deflection analysis; fatigue, safe life, damage tolerant design. Propulsion systems integration; landing gear; control and other subsystems. Mechanical component design. Airworthiness regulations and certification procedures. Weight and cost estimation and control. System reliability. Design studies of aircraft or spacecraft components.",
       "prerequisites": "AERO 3002 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -113,9 +98,7 @@
       "credit": "0.5",
       "description": "Product development, quality control. Strategic organizational analysis and design. Airworthiness, type certification and planning, delegation of authority, airplane flight manual. Aerospace system design and safety.",
       "prerequisites": "MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -125,9 +108,7 @@
       "credit": "0.5",
       "description": "Behaviour of compressible fluids, sound waves and properties of sound sources; measurement of sound; human perception of sound; prediction methods based on energy considerations; sound propagation in realistic environments: outdoors, rooms, ducts; absorption and transmission loss, noise control; case studies.",
       "prerequisites": "MAAE 3004 and ( MAAE 3300 or MECH 3310 ) and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -137,9 +118,7 @@
       "credit": "0.5",
       "description": "Study of viscous and inviscid flow regions, potential flow theory, and compressibility effects. Topics include shear layers, laminar and turbulent flow, energy equations, propellor theory, and aerodynamic performance. Emphasis on lift and drag prediction, stall, separation, and high-lift device analysis.",
       "prerequisites": "MAAE 3300 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -149,9 +128,7 @@
       "credit": "0.5",
       "description": "Governing equations of fluid motion (full & simplified). Discretization based on finite difference, finite volume, and finite element methods. Explicit and implicit integration schemes. Numerical stability. Numerical solutions of the Navier-Stokes equations: RANS, LES and DNS. Turbulence modeling. Programming-based assignments (convection/diffusion).",
       "prerequisites": "( MAAE 3300 or MECH 3310 ) and MATH 3705 . AERO 4302 recommended.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -161,9 +138,7 @@
       "credit": "0.5",
       "description": "Morphology of aircraft and spacecraft. Performance analysis of fixed wing aircraft: drag estimation, propulsion, take-off, climb and landing, endurance, payload/range, manoeuvres; operational economics. Performance analysis of rotor craft: rotor-blade motion, hovering and vertical ascent, forward flight, and autorotation. Rocket propulsion; escape velocity; orbital dynamics.",
       "prerequisites": "( MAAE 3300 or MECH 3310 ) and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -173,9 +148,7 @@
       "credit": "0.5",
       "description": "Static stability and control: equilibrium requirements; longitudinal stability requirements; neutral points; manoeuvring flight; control forces and control requirements; lateral static stability certification requirements. Dynamic stability: axis systems; governing equations; phugoid and short period modes; lateral dynamic modes. Closed-loop control.",
       "prerequisites": "MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -185,9 +158,7 @@
       "credit": "0.5",
       "description": "Propulsion requirements, effects of Mach Number, altitude, and application; basic propeller, turboshaft, turbojet, turbofan; cycle analysis and optimization for gas turbine power plant; inter-relations between thermodynamic, aerodynamic and mechanical designs; rocket propulsion; selection of aeroengines.",
       "prerequisites": "MAAE 2400 , MAAE 3300 and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -197,9 +168,7 @@
       "credit": "0.5",
       "description": "Planetary/interplanetary environments and effects. Launch and spacecraft propulsion: liquid/solid/hybrid rockets, ram/scramjets, combined cycle engines, electrothermal, electromagnetic, electrostatic, nuclear, and propellantless propulsion. Trajectory analysis, multi-staging, separation dynamics. Advanced engine concepts.",
       "prerequisites": "MAAE 2400 , ( MAAE 3300 OR MECH 3310 ) and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -209,9 +178,7 @@
       "credit": "0.5",
       "description": "Fundamentals of heat transfer with emphasis on aerospace systems design. Conduction, convection and radiation modes of heat transfer. Radiation exchange between surfaces and view factors. Radiation in spacecraft thermal control. High speed flight and reentry heating.",
       "prerequisites": "MAAE 2400 and ( MAAE 3300 or MECH 3310 ) and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -221,9 +188,7 @@
       "credit": "0.5",
       "description": "Inertial and satellite navigation systems, inertial sensor technology, design of inertial navigation systems, overview of GNSS and GPS positioning, aircraft control systems, fly-by-wire flight control, autopilot systems, EM waves and radio propagation, radio navigation aids, principles of radar, avionics communication systems and protocols.",
       "prerequisites": "AERO 3504 and MATH 3705 . Not open to students in Electrical Engineering, Computer Systems Engineering, Engineering Physics or Communications Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -233,9 +198,7 @@
       "credit": "0.5",
       "description": "Rigid body dynamics. The dynamic behavior of spacecraft. Environmental torques. The design of attitude control systems. Gravity gradient, spin, and dual spin stabilization. Attitude manoeuvres. The design of automatic control systems. Impacts of attitude stabilization techniques on mission performance.",
       "prerequisites": "AERO 3240 , MAAE 3500 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -245,9 +208,7 @@
       "credit": "0.5",
       "description": "Review of structural behaviour of lifting surface elements; structural dynamics, Laplace Transforms, dynamic stability; modal analysis; flutter, Theodorsen's theory; flutter of a typical section; wing flutter, T-tail flutter, propeller whirl flutter; gust response; buffeting, limit cycle flutter.",
       "prerequisites": "( MAAE 3300 or MECH 3310 ), MATH 3705 and SYSC 3600 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -267,9 +228,7 @@
       "credit": "0.5",
       "description": "Reinforcing mechanisms in composite materials; material properties. Strength and elastic constants of unidirectional composites; failure criteria. Analysis of laminated plates; bending and eigenvalue problems. Environmental effects and durability. Damage tolerance. Design of composite structures.",
       "prerequisites": "MAAE 2202 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -279,9 +238,7 @@
       "credit": "0.5",
       "description": "Design for joining: base material and component geometry. Selection of joining method and filler material; Adhesive bonding; Soldering; Brazing; Diffusion bonding; Resistance welding; Fusion welding (GTAW, EB, laser and plasma arc); Friction welding; NDE. Emphasis on Aerospace materials and applications.",
       "prerequisites": "MAAE 2700 and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -291,9 +248,7 @@
       "credit": "0.5",
       "description": "System view of spacecraft. Requirements definition.  Spacecraft payloads (remote sensing, imaging systems, astronomy instrumentation etc.).  Exploration missions.  Implications for systems and missions.  Space system design case studies.",
       "prerequisites": "AERO 3841 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -303,9 +258,7 @@
       "credit": "0.5",
       "description": "Engineering geometry and spatial graphics. Fundamentals of surveys. Digital surveying tools; total station, GPS. Computer-Aided Drafting (CAD). Geographic Information Systems (GIS). Spatial referencing. Building Information Modelling (BIM). Integrated design using digital tools. Field exercises using software to process and evaluate spatial data.",
       "prerequisites": "MATH 1004 or ( GEOM 1004 for students in BSc in Geomatics).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -325,9 +278,7 @@
       "credit": "0.5",
       "description": "Virtual work. Friction. Relative motion of particles. Kinematics of a rigid body: translation, rotation; general plane motion; absolute and relative motion. Kinetics of a rigid body: equations of motion; work-energy; impulse-momentum; conservation of momentum and energy. Conservative forces and potential energy.",
       "prerequisites": "ECOR 1033 , ECOR 1034 , MATH 1004 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -337,9 +288,7 @@
       "credit": "0.5",
       "description": "Stress and strain. Stress-strain relationship: Hooke's law. Torsion of circular shafts. Bending moment and shear force distribution. Flexural stresses. Deflection. Shear stress in beams. Stresses in thin- walled cylinders. Transformation of 2D stress and strain: Mohr's circle. Buckling of columns.",
       "prerequisites": "ECOR 1033 , MATH 1004 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -349,9 +298,7 @@
       "credit": "0.5",
       "description": "Introduction to material science. Structure of atoms. Crystallography. Crystal Imperfections. Characteristics, behaviour and use of Civil Engineering materials: steel, concrete, asphalt, wood, polymers, composites. Specifications. Physical, chemical and mechanical properties. Quality control and material tests. Fatigue. Corrosion. Applications in construction and rehabilitation of structures.",
       "prerequisites": "CHEM 1002 or CHEM 1101 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -361,9 +308,7 @@
       "credit": "0.5",
       "description": "Shear flow. Definition of shear centre, Saint Venant and warping torsional constants. Behaviour, governing differential equations and solutions for torsion, beam-columns, lateral torsional buckling of doubly symmetric beams, axially loaded doubly symmetric, singly symmetric and asymmetric columns. Failure criterion, fatigue and fracture.",
       "prerequisites": "CIVE 2200 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -373,9 +318,7 @@
       "credit": "0.5",
       "description": "Concepts and assumptions for structural analysis: framed structures; joints; supports; compatibility and equilibrium; stability and determinacy; generalized forces and displacements. Principle of Virtual Work: unknown force calculations; influence lines. Complementary Virtual Work: displacement calculations, indeterminate analysis. Introduction to the Stiffness Method of Analysis.",
       "prerequisites": "CIVE 2200 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -385,9 +328,7 @@
       "credit": "0.5",
       "description": "Building systems and structural form. Design Philosophy and design process. Limit states design. National Building Code of Canada. Determination of dead, live, snow, wind, and earthquake loads.",
       "prerequisites": "CIVE 2200 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -397,9 +338,7 @@
       "credit": "0.5",
       "description": "Introduction to CAN/CSA - S16, design and behaviour concepts; shear lag, block shear, local plate buckling, lateral torsional buckling, instantaneous centre, inelastic strength and stability. Design of tension members, axially loaded columns, beams, beam-columns, simple bolted and welded connections.",
       "prerequisites": "CIVE 2200 and CIVE 2700 . Recommended prerequisite: CIVE 3204 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -409,9 +348,7 @@
       "credit": "0.5",
       "description": "Introduction to CAN/CSA - A23.3; design and behaviour concepts; flexural analysis at service loads;  shear, bond, Whitney stress block, under, over reinforced behaviour, ultimate strength. Flexural design of singly reinforced, doubly reinforced T-beams, one-way slabs. Shear design for beams. One-way, two-way slab systems, columns.",
       "prerequisites": "CIVE 2200 and CIVE 2700 . Recommended prerequisite: CIVE 3204 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -431,9 +368,7 @@
       "credit": "0.5",
       "description": "Soil composition and soil classification. Soil properties, compaction, seepage and permeability. Concepts of pore water pressure, capillary pressure and hydraulic head. Principle of effective stress, stress-deformation and strength characteristics of soils, consolidation, stress distribution with soils, and settlement. Laboratory testing.",
       "prerequisites": "CIVE 2200 or permission of the department. Additional recommended background: ERTH 2404 or equivalent.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -453,10 +388,7 @@
       "credit": "0.5",
       "description": "Strength of soils, steady state seepage, flownets and piping. Stress distribution in soils. Earth pressures: at rest, active and passive. Design of flexible and rigid retaining structures. Stability of excavations, slopes and embankments. Settlement of foundations. Bearing capacity of footings.",
       "prerequisites": "CIVE 3208 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -466,9 +398,7 @@
       "credit": "0.5",
       "description": "Transportation and the socio-economic environment; modal and intermodal systems and components; vehicle motion, human factors, considerations for different modes of travel; sight distance requirements; fundamentals of traffic flow theory; transportation planning and travel demand; environmental impacts; traffic safety.",
       "prerequisites": "ECOR 2050 or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -478,9 +408,7 @@
       "credit": "0.5",
       "description": "Road functional classification, human factors of road design; geometric design; traffic engineering; highway capacity and level of service; highway materials; frost action; pavement mix design; structural design of rigid and flexible pavements; maintenance and rehabilitation.",
       "prerequisites": "CIVE 3304 or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -500,9 +428,7 @@
       "credit": "0.5",
       "description": "Introduction to fundamentals of municipal engineering. Water quality: physical, chemical and biological parameters. Water treatment: softening mixing, flocculation, sedimentation, filtration, disinfection, fluoridation. Biological processes. Wastewater treatment: primary, secondary and tertiary treatment. Sludge disposal and wastewater reuse. Solid waste management.",
       "prerequisites": "CHEM 1002 or CHEM 1101 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -522,9 +448,7 @@
       "credit": "0.5",
       "description": "Review of basic structural concepts. Betti's law and applications. Matrix flexibility method, flexibility influence coefficients. Development of stiffness influence coefficients. Stiffness method of analysis: beams; plane trusses and frames; space trusses and frames. Introduction to the finite element method.",
       "prerequisites": "CIVE 3203 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -534,9 +458,7 @@
       "credit": "0.5",
       "description": "Introduction to the theory and application of finite element methods. The relationship with virtual work, Rayleigh-Ritz, system of linear equations, polynomial interpolation, numerical integration, and theory of elasticity is explored. Isoparametric formulations of structural and plane elements are examined. Geotechnical and nonlinear problems are introduced.",
       "prerequisites": "CIVE 3203 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -546,9 +468,7 @@
       "credit": "0.5",
       "description": "Structural design in timber. Properties, anatomy of wood, wood products, factors affecting strength and behaviour, strength evaluation and testing. Design of columns, beams and beam-columns. Design of trusses, frames, glulam structures, plywood components, formwork, foundations, connections and connectors. Inspection, maintenance and repair.",
       "prerequisites": "CIVE 2200 , CIVE 2700 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -558,9 +478,7 @@
       "credit": "0.5",
       "description": "Pavement design methods, flexible pavement materials and mix designs, stresses and strains in flexible pavements; fatigue and rutting design considerations; traffic loading and design loads; design of flexible pavements using AASHTO, M-E and AI methods; rigid pavement designs, design of overlays.",
       "prerequisites": "CIVE 3305 or CIVE 4209 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -570,9 +488,7 @@
       "credit": "0.5",
       "description": "Introduction to principles of traffic engineering. Traffic operation concepts. Travel modes and modal characteristics. Traffic stream characteristics and queuing theory. Capacity and level of service analysis of roads and intersections.",
       "prerequisites": "CIVE 4209 or CIVE 3305 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -602,9 +518,7 @@
       "credit": "0.5",
       "description": "A critical study of the theories in soil mechanics and their application to the solution of geotechnical engineering problems. Field investigations, laboratory and field testing, shallow foundations, special footings, mat foundations, pile foundations and excavations. Discussion of new methods and current research.",
       "prerequisites": "CIVE 3210 or CIVE 4208 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -614,9 +528,7 @@
       "credit": "0.5",
       "description": "Reinforced concrete shear and torsion design. Two-way slab design by Direct Design and Equivalent Frame Method. Behaviour and design of slender reinforced concrete columns. Prestressed concrete concepts; flexural analysis and design; shear design; anchorage zone design; deflection and prestress loss determination.",
       "prerequisites": "CIVE 3203 and CIVE 3206 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -626,9 +538,7 @@
       "credit": "0.5",
       "description": "A systematic approach to urbanism; Sustainability in urban systems; Urban sprawl; Urban form; Urban theory, Population projections; Zoning; Integration of urban infrastructure components (waste, electricity water, transportation and buildings); Analysis of issues in Canadian urban areas; The future of cities.",
       "prerequisites": "ECOR 3800 , or second-year standing in B.A.S. (Urbanism), or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -638,9 +548,7 @@
       "credit": "0.5",
       "description": "Fluid flow fundamentals. Hydraulics of pipe systems. Open channel flow. Prediction of sanitary and storm sewage, flow rates. Design of water distribution systems, culverts, sanitary and storm sewers. Pumps and measuring devices. Hydraulic and flow control structures.",
       "prerequisites": "MAAE 2300 or ENVE 2300 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -650,9 +558,7 @@
       "credit": "0.5",
       "description": "Behaviour and design of open web steel joists, steel and composite decks, composite beams and columns, stud girders, and plate girders. Design of moment connections, base plates and anchor bolts, and bracing connections. Stability of rigid and braced frames. Design for lateral load effects.",
       "prerequisites": "CIVE 3205 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -662,9 +568,7 @@
       "credit": "0.5",
       "description": "Systems approach to project planning and control. PERT: activity diagrams, scheduling, CPM. Quantities and estimates. Economic and financial feasibility. Change and risk management. Construction practice: equipment classes and sizing. Legal, ethical and project management considerations in projects involving Indigenous interest. Case studies.",
       "prerequisites": "ECOR 3800 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -674,9 +578,7 @@
       "credit": "0.5",
       "description": "Introduction to structural design in masonry. Properties of masonry materials and assemblages. Behaviour and design of beams, walls and columns. Selected topics including veneer wall systems, differential movement, workmanship, specifications, inspection, maintenance and repair. Lowrise and highrise building design.",
       "prerequisites": "CIVE 3204 , CIVE 3206 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -716,9 +618,7 @@
       "credit": "0.5",
       "description": "Understanding fire-structure interaction and the concepts of fire severity and resistance; behaviour of steel, concrete, and timber buildings exposed to fires; compartment fire dynamics; correlations and computer models to predict fire dynamics; fire retardants; laboratory-scale fire experiments; performance-based approach for building fire safety design.",
       "prerequisites": "MAAE 2400 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -728,10 +628,7 @@
       "credit": "1.0",
       "description": "A research project in engineering analysis, design or development carried out by individual students or small teams, for an opportunity to develop initiative, self-reliance, creative ability and engineering judgment and is normally intended for students with high CGPAs and an interest in graduate studies.",
       "prerequisites": "fourth-year standing in Engineering and permission of the department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -741,10 +638,7 @@
       "credit": "0.5",
       "description": "Student carries out a study, analysis, and solution of an engineering problem which results in a written final report. Carried out under close supervision of a faculty member. Intended for students interested in pursuing graduate studies. Requires supervising faculty member and proposal from student.",
       "prerequisites": "permission of the Department and completion of, or concurrent registration in, CIVE 4918 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -754,10 +648,7 @@
       "credit": "1.0",
       "description": "Teams of students develop professional level experience through a design project that incorporates fundamentals acquired in previous mathematics, science, engineering, and complementary studies courses. A final report and oral presentations are required.",
       "prerequisites": "ECOR 3800 and fourth-year standing in Engineering. Certain projects may have additional requirements.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -767,9 +658,7 @@
       "credit": "0.5",
       "description": "Properties of signals. Basic circuit elements: voltage and current sources. Kirchhoff's laws, linearity, superposition. Thevenin and Norton's theorems. Circuit simplification. AC steady-state analysis: impedance, admittance, phasors, frequency response. Transient response of RL and RC circuits: form of response, initial and final conditions. RLC circuits: resonance.",
       "prerequisites": "MATH 1005 (may be taken concurrently) and ( PHYS 1004 or PHYS 1002 ), and ECOR 1032 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -779,9 +668,7 @@
       "credit": "0.5",
       "description": "Qualitative semiconductor physics, leading to the diode equation. Diode applications. Operational amplifiers and their application in feedback configurations including active filters. Introduction to bipolar transistors and MOSFETs, analysis of biasing circuits. Transistor applications including small signal amplifiers.",
       "prerequisites": "ELEC 2501 and MATH 1005 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -791,9 +678,7 @@
       "credit": "0.5",
       "description": "Modeling and analysis of basic electric power systems. Single-phase and three-phase circuits: real and reactive power, per-phase analysis, power factor correction. Electro-mechanical energy conversion: operation, characteristics and analysis of transformers, DC-, induction-, and synchronous electric machines. Motor and generator operation.",
       "prerequisites": "ELEC 2501 and PHYS 1004 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -803,10 +688,7 @@
       "credit": "0.5",
       "description": "Boolean algebra, gate, combinatorial circuits. DeMorgan notation, sum-of-product and product-of-sum forms. Logic arrays, PLAs and PALs. Flip-flops, latches, sequential circuits, state graphs and state minimization. Counters and controllers. Hazards. Asynchronous sequential circuits, race free assignment, realization.",
       "prerequisites": "ECOR 1032 , and ( PHYS 1004 or PHYS 1002 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -816,10 +698,7 @@
       "credit": "0.5",
       "description": "Vector calculus: gradient, divergence, curl, integration of vector fields. Electrostatics, magnetostatics. Boundary conditions. Poisson's and Laplace's equations: method of images, separation of variables, iterative method.  Electric and magnetic properties of matter.  Magnetic circuits. Lorentz force. Motional emf, electromagnetic induction.  Maxwell\u2019s equations.",
       "prerequisites": "MATH 1005 , MATH 2004 , and ( PHYS 1002 or PHYS 1004 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -829,10 +708,7 @@
       "credit": "0.5",
       "description": "Digital circuit design using verilog and logic synthesis, the electronic properties of logic gates, electrical interfacing between logic families, asynchronous to synchronous interfacing, clock distribution and timing, VLSI design options. Students implement substantial circuits with field-programmable gate arrays.",
       "prerequisites": "ELEC 2507 and ELEC 2607 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -842,9 +718,7 @@
       "credit": "0.5",
       "description": "Power semiconductor devices: Thyristor, GTO, IGBT, SiC, GaN. Converter circuits: controlled AC to DC rectifiers, choppers, DC to AC inverters, AC voltage controllers. Protection of conversion circuits. Applications to high-efficiency control of electric machines and electromechanical energy conversion devices.",
       "prerequisites": "ELEC 2507 and ELEC 2602 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -854,9 +728,7 @@
       "credit": "0.5",
       "description": "Introduction to semiconductor devices and ICs. DC, AC and switching properties of BJTs. Linear amplifiers; bandwidth considerations; two-port analysis. Large signal amplifiers; power amplifiers; transformerless circuits. Feedback and operational amplifiers; gain, sensitivity, distortion and stability. Filter design. Oscillators.",
       "prerequisites": "ELEC 2507 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -866,9 +738,7 @@
       "credit": "0.5",
       "description": "The electric power system. Components: power transformers and connections, transmission lines.  Analysis: balanced and unbalanced three-phase systems, symmetrical components, load flow, FACTS. Operation: frequency and voltage control, steady state and transient stability, fault protection. Distribution systems: utility, residential, commercial. Electrical safety: code, grounding/bonding.",
       "prerequisites": "ELEC 2602 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -878,9 +748,7 @@
       "credit": "0.5",
       "description": "DC circuits: elements, sources, analysis. Single phase AC circuits: phasors, RLC circuits, real and reactive power, impedance, network analysis, three phase systems. Power transformers. DC motors: operation and characteristics. AC motors: single phase and three phase.",
       "prerequisites": "ECOR 1032 , MATH 1005 , and ( PHYS 1004 or PHYS 1002 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -890,9 +758,7 @@
       "credit": "0.5",
       "description": "Student teams work on open-ended projects based on previously acquired knowledge. Lectures are devoted to discussing project-related issues and student presentations. A project proposal, a series of project reports, and oral presentations, and a comprehensive final report are required.",
       "prerequisites": "ELEC 2507 , ELEC 2607 , and enrolment in the Electrical Engineering or Engineering Physics program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -902,10 +768,7 @@
       "credit": "0.5",
       "description": "Fundamentals of device physics and operation of the pn junction, bipolar transistor and MOSFET. Basic integrated circuit processing and application to diodes, BJTs and MOSFETs. Correlation between processing, structure, operation and modeling. Consideration of parasitic and small-geometry effects, reliability and process variation.",
       "prerequisites": "ELEC 2507 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -915,10 +778,7 @@
       "credit": "0.5",
       "description": "Maxwell's equations and EM wave solutions. Polarization. Poynting vector. EM waves in dielectrics and conductors; skin depth. Reflection and refraction. Standing waves. Fresnel relations, Brewster angle. Transmission lines. Line termination, basic impedance matching and transformation. Smith charts. Introduction to guided waves; slab waveguide.",
       "prerequisites": "ELEC 3105 or permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -938,9 +798,7 @@
       "credit": "0.5",
       "description": "Introduction to microwave semiconductor devices, microwave passive components, microwave integrated circuit technology, and microwave circuit measurements. Basic network theory and scattering matrix description of circuits. Design of matching networks, filters, amplifiers and oscillators at microwave frequencies.",
       "prerequisites": "ELEC 3909 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -950,9 +808,7 @@
       "credit": "0.5",
       "description": "Introduction to distributed circuits, travelling and standing waves, reflection coefficient, SWR, impedance transformation, Smith charts. Introduction to transmission lines; coaxial, rectangular waveguide, resonators, optical fibers. Introduction to antennas; gain, directivity, effective area. Introduction to linear arrays.",
       "prerequisites": "ELEC 3909 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -962,9 +818,7 @@
       "credit": "0.5",
       "description": "A course of study of the commonly used circuit components in modern telecommunication systems. Both analog and digital systems are included. The design of the hardware is emphasized. Examples are drawn from broadcasting, telephony and satellite systems.",
       "prerequisites": "ELEC 3509 and ( SYSC 3501 or SYSC 3503 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -974,9 +828,7 @@
       "credit": "0.5",
       "description": "Basic principles of Computer-Aided Design tools used for analysis and design of communication circuits and systems. Frequency and time-domain analysis. Noise and distortion analysis. Transmission line effects. Sensitivity analysis and circuit performance optimization. Digital simulation.",
       "prerequisites": "fourth-year standing in Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -986,9 +838,7 @@
       "credit": "0.5",
       "description": "Thermal noise, intermodulation, 1dB compression, dynamic-range, SNR, noise-figure, noise temperature, antenna gain, EIRP, G/T. Wireless: Earth's bulge, Fresnel clearance, path-loss, rainfall, receiver threshold, multipath, diversity. Fiber: loss, dispersion, lasers, PIN detectors. Satellite: GEO, link calculations, FDMA, TDMA, satellite tracking, spherical trigonometry, antenna pointing, LEO.",
       "prerequisites": "fourth-year standing in Engineering or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -998,9 +848,7 @@
       "credit": "0.5",
       "description": "Surveillance radar: radar equation, minimum detectable signal, pulse integration, cross-section fluctuations, PRF, range ambiguities, staggered PRF. MTI radars: coherent operation, delay Line cancellers, FFT. Radio navigation: lines of position, NDB, VOR, DME, ILS. GPS: orbits, pseudo-ranges, position determination, GDOP, ionosphere. Geoide, coordinate frames.",
       "prerequisites": "fourth-year standing in Engineering or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1010,9 +858,7 @@
       "credit": "0.5",
       "description": "Interfacing aspects in microprocessor systems. Microprocessors and bus structures, internal architecture, instruction set and pin functions. Memory interfacing, input-output, interrupts, direct memory accesses, special processors and multiprocessor systems.",
       "prerequisites": "ELEC 2607 and ( SYSC 2320 or SYSC 3006 ), or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1022,9 +868,7 @@
       "credit": "0.5",
       "description": "The electric power system. Components: power transformers and connections, transmission lines.  Analysis: balanced and unbalanced three-phase systems, symmetrical components, load flow, FACTS. Operation: frequency and voltage control, steady state and transient stability, fault protection. Distribution systems: utility, residential, commercial. Electrical safety: code, grounding/bonding.",
       "prerequisites": "ELEC 2602 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1034,9 +878,7 @@
       "credit": "0.5",
       "description": "Introduction to nMOS IC design: static logic gates, noise margin, transmission gates, factors influencing switching speed, dynamic logic, input protection, output buffers, circuit simulation with SPICE. Laboratory work includes design and layout of a simple nMOS IC that is fabricated and returned for testing.",
       "prerequisites": "ELEC 3500 or ELEC 3908 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1046,9 +888,7 @@
       "credit": "0.5",
       "description": "Fabrication, operation and modeling of advanced devices for information technology. Topics: physics of materials, quantum mechanics of solids, optical transitions, physical analysis and models for state-of-the-art electronic/optical technologies and materials. Technologies: MOS and III-V based transistors, solid-state optical devices, MEMS and nano-technology based devices.",
       "prerequisites": "ELEC 3908 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1058,9 +898,7 @@
       "credit": "0.5",
       "description": "Fundamentals of optoelectronics with application to fiber optic communications. Optical fibre: modes, losses, dispersion, splices, coupling to sources. Optical sources: LEDs, laser diodes. Optical detectors: photoconductor, pin and avalanche photodiodes. Optical receiver design. Fiber optic communications systems: intensity modulation/direct detection; coherent homodyne or heterodyne detection.",
       "prerequisites": "ELEC 3908 and ELEC 3909 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1070,9 +908,7 @@
       "credit": "0.5",
       "description": "Semiconductor band structure, photogeneration, the solar spectrum. Detailed analysis of monocrystalline silicon solar cells. Solar cells based on thin film materials:  amorphous silicon, III-V materials, organics, titania-dye cells. Cells for concentrator systems. Photovoltaic power systems. Solar cells for building envelopes.",
       "prerequisites": "ELEC 2501 and ELEC 2507 and fourth-year standing in Sustainable and Renewable Energy Engineering, or ELEC 2501 and ELEC 2507 and fourth-year standing in Engineering with permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1082,9 +918,7 @@
       "credit": "0.5",
       "description": "Engineering at the nanoscale. Quantum confinement and the effect of scale. Analysis tools: microscopy, spectroscopy. Fabrication: thin films, nanoparticles, nanotubes, graphene, organics. Structures and properties: quantum wells, nanocrystals, nanostructuring. Applications and devices: electronics, optoelectronics, photonics.",
       "prerequisites": "ELEC 3908 , ELEC 3909 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1104,9 +938,7 @@
       "credit": "0.5",
       "description": "Challenges faced in designing high-speed electronic circuits and systems. Fundamentals of high-speed Tx/Rx architectures including: timing and HDL, PLL/DLL, Tx drivers, interface to photonic components, channel modelling, Rx channel, choice of modulation, equalization, clock and data recovery. VHDL hardware and CAD software laboratories.",
       "prerequisites": "ELEC 3500 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1116,9 +948,7 @@
       "credit": "0.5",
       "description": "Emphasis on integration of analog signal processing techniques in monolithic IC technology. Continuous active filter design. MOS IC technology. OP amp design. Basic sampled data concepts; Z-transform analysis, switched capacitor filters. Noise aspects. Bipolar technology: radio frequency IC design.",
       "prerequisites": "ELEC 3509 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1128,9 +958,7 @@
       "credit": "0.5",
       "description": "Advanced Verilog, test benches. VLSI design based on CMOS technology, characteristics of CMOS logic circuits, cell libraries, building blocks, structured design, testing, Computer-Aided Design tools. Laboratory emphasis on design synthesis from Verilog.",
       "prerequisites": "ELEC 3500 or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1140,9 +968,7 @@
       "credit": "0.5",
       "description": "Overview of sensor technologies with emphasis on devices suitable for integration with silicon integrated circuits. Sensor design and fabrication principles including signal conditioning; discussion of automotive, biomedical, and other instrumentation applications.",
       "prerequisites": "ELEC 2507 and fourth-year standing in Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1152,9 +978,7 @@
       "credit": "0.5",
       "description": "At the discretion of the Engineering Faculty Board, a course dealing with selected advanced topics of interest to students in Biomedical and Electrical, Communications, Computer Systems, Electrical and Software Engineering and Engineering Physics may be offered.",
       "prerequisites": "fourth-year standing in Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1164,10 +988,7 @@
       "credit": "1.0",
       "description": "Student teams develop professional-level experience by applying, honing, integrating, and extending previously acquired knowledge in a major design project. Lectures are devoted to discussing project-related issues and student presentations. A project proposal, interim report, oral presentations, and a comprehensive final report are required.",
       "prerequisites": "ECOR 3800 and ( ELEC 3907 or SYSC 3010 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1177,10 +998,7 @@
       "credit": "1.0",
       "description": "Student teams develop professional-level experience by applying, honing, integrating, and extending previously acquired knowledge in a major design project approved for Engineering Physics. Lectures devoted to discussing project-related issues and student presentations. A project proposal, interim report, oral presentations, and comprehensive final report are required.",
       "prerequisites": "ECOR 3800 . Certain projects may have additional prerequisites or corequisites.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1190,10 +1008,7 @@
       "credit": "0.5",
       "description": "Software development as an engineering discipline, modern programming language. Syntax and semantics. Tracing and visualizing program execution. Style and documentation. Testing and debugging. Binary number system. Container data types for data management. Introduction to designing and implementing numerical algorithms. Modules. Data files. Incremental, iterative development.",
       "prerequisites": "This course may not be taken concurrently with ESLA 1300 or ESLA 1500 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "ESLA 1300",
@@ -1206,10 +1021,7 @@
       "credit": "0.5",
       "description": "Electrical circuit fundamentals: resistance, capacitance, inductance, voltage and current sources, Ohm\u2019s law, nodal analysis, mesh analysis, source transformation, superposition. Components for mechatronics: filters, operational amplifiers, digital logic gates and combinatorial circuits, analog to digital converters, sensors, actuators, simple control schemes. Project in microcontroller-embedded mechatronic system:.",
       "prerequisites": "This course may not be taken concurrently with ESLA 1300 or ESLA 1500 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "ESLA 1300",
@@ -1222,10 +1034,7 @@
       "credit": "0.5",
       "description": "Force vectors, Dot product. Forces components and resultants. Particle equilibrium. Moments. Cross product. 2D Truss analysis. Centre of gravity and centroids. Rigid body equilibrium.  2D Frames and machines. Internal loads at a point.",
       "prerequisites": "This course may not be taken concurrently with ESLA 1300 or ESLA 1500 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "ESLA 1300",
@@ -1238,10 +1047,7 @@
       "credit": "0.5",
       "description": "Kinematics and Kinetics of a particle. Position velocity and acceleration using cartesian path and polar coordinates. Force and Acceleration. Mechanical work and energy conservation of energy. Principle of impulse and momentum, conservation of momentum. Systems of particles. Harmonic motion. Design Project on Projectile motion.",
       "prerequisites": "This course may not be taken concurrently with ESLA 1300 or ESLA 1500 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "ESLA 1300",
@@ -1254,9 +1060,7 @@
       "credit": "0.0",
       "description": "Overview of professional activities oriented to the student's discipline of study: Architectural Conservation and Sustainability. Civil and Environmental. Aerospace and Mechanical. Electrical. Engineering Physics. Computer Systems, Communications and Software. Biomedical (Electrical and Mechanical). Sustainable and Renewable Energy. Graded SAT/UNS.",
       "prerequisites": "This course may not be taken concurrently with ESLA 1300 or ESLA 1500 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "ESLA 1300",
@@ -1269,9 +1073,7 @@
       "credit": "0.0",
       "description": "Selected lectures designed to provide students with exposure to the breadth of Engineering disciplines. Graded SAT/UNS.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1281,9 +1083,7 @@
       "credit": "0.0",
       "description": "Professional Engineers Act. Engineering documentation. History of the profession. Engineering practice: system life cycle, practice within the discipline, designing with others. Health and safety. Engineering Ethics, Equity and Diversity. Introduction to engineering law : Business, Entrepreneurship and Intellectual Property. Graded SAT/UNS.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1293,10 +1093,7 @@
       "credit": "0.5",
       "description": "Statistics and the design of engineering experiments. Basic exploratory data analysis. Central limit theorem. Hypothesis testing: t-test, chi-square test, type-I and type-II errors, multiple-comparison problem.  Statistical bias.  Design of experiments: randomization, blocking and replication, randomized blocking designs, factorial design. Statistical software packages.",
       "prerequisites": "MATH 1004 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1316,10 +1113,7 @@
       "credit": "0.0",
       "description": "Students will be asked to reflect on their skills, strengths and weaknesses as preparation for the professional practice course. Engineering students must submit samples of their writing and communications (including, for example, laboratory reports and professional memos).",
       "prerequisites": "",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1329,10 +1123,7 @@
       "credit": "0.5",
       "description": "Introduction to engineering economics; cash flow calculations; methods of comparison of alternatives; structural analysis; replacement analysis; public projects; depreciation and income tax; effects of inflation; sensitivity analysis; break-even analysis; decision making under risk and uncertainty.",
       "prerequisites": "ECOR 1031 , ECOR 1032 , ECOR 1033 , ECOR 1034 , ECOR 1055 , ECOR 1056 , ECOR 1057 and third-year standing in Engineering.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1352,10 +1143,7 @@
       "credit": "0.5",
       "description": "Presentations by faculty and external lecturers on the Professional Engineers   Act, professional ethics and responsibilities, practice within the discipline and its relationship with other disciplines and to society, health and safety, environmental stewardship, principles and practice of sustainable development. Communication skills are emphasized.",
       "prerequisites": "ECOR 2995 (allowed concurrently) and fourth-year standing in Engineering.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1375,9 +1163,7 @@
       "credit": "0.5",
       "description": "Introduction to environmental engineering systems, variables, and processes. Material and energy balances for non-reacting and reacting systems. Fundamentals of thermodynamics with emphasis on environmental applications. Heat transfer including conduction, convection, and radiation for environmental systems.",
       "prerequisites": "CHEM 1002 or CHEM 1101 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1417,9 +1203,7 @@
       "credit": "0.5",
       "description": "Theoretical aspects of unit operations for water treatment with design applications. Topics include water characteristics and contaminants, coagulation, flocculation, sedimentation, filtration, adsorption, ion exchange, membrane processes, disinfection and disinfection by-products, and management of water treatment residuals. Laboratory procedures: settling operations, filtration, aeration, and adsorption.",
       "prerequisites": "ENVE 3002 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1429,9 +1213,7 @@
       "credit": "0.5",
       "description": "Engineered systems for pollution abatement; chemical reaction engineering; reaction kinetics and rate data analysis; design and modeling of reactors; single and multiple reactions; ideal and nonideal reactors; single and multi-parameter models; biochemical reaction engineering; process control. Laboratory procedures: reactor systems performance: Batch, CSTR and PFR.",
       "prerequisites": "( ENVE 2001 or ENVE 2100 ), MATH 2004 (or concurrent).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1441,9 +1223,7 @@
       "credit": "0.5",
       "description": "A quantitative analysis of natural water systems and the development of these systems as a resource. Components of the hydrologic cycle. Quantitative analysis of stream flow. Probability concepts in water resources. Reservoir design and operation. Hydraulic properties and availability  of groundwater. Storm water management.",
       "prerequisites": "ENVE 2300 or MAAE 2300 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1453,9 +1233,7 @@
       "credit": "0.5",
       "description": "Physical phenomenon governing the transport of contaminants in the environment: diffusion, advection, dispersion, sorption, interphase transfer. Derivation and application of transport equations in air, surface and groundwater pollution; analytical and numerical solutions. Equilibrium partitioning of contaminants among air, water, sediment, and biota.",
       "prerequisites": "ENVE 3002 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1505,9 +1283,7 @@
       "credit": "0.5",
       "description": "Landfill design; hydrogeologic principles, water budget, landfill liners, geosynthetics, landfill covers, quality control/quality assurance, clay leachate interaction, composite liner design and leak detection. Landfill operation, maintenance and monitoring. Case studies of landfill design and performance. Geotechnical design of environmental control and containment systems.",
       "prerequisites": "CIVE 3208 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1517,9 +1293,7 @@
       "credit": "0.5",
       "description": "Air pollutants, classification, sources, and effects. Ambient air quality objectives and monitoring. Pollutant formation mechanisms in combustion. Major pollutant categories and control methods. Indoor air quality. Laboratory procedures: emissions from boilers and IC engines, particulate size distribution and control, IAQ parameters.",
       "prerequisites": "MAAE 2400 or ENVE 2100 or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1529,9 +1303,7 @@
       "credit": "0.5",
       "description": "Theoretical aspects of unit operations and processes for wastewater treatment with design applications. Topics include wastewater characteristics, flow rates, primary treatment, chemical unit processes, biological treatment processes, advanced wastewater treatment, disinfection, biosolids treatment and disposal.  Laboratory procedures: activated sludge, anaerobic growth, chemical precipitation, disinfection.",
       "prerequisites": "ENVE 3001 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1541,9 +1313,7 @@
       "credit": "0.5",
       "description": "Theory of flow through porous media. Site investigation: geology, hydrology and chemistry. Contaminant transport. Unsaturated and multiphase flow. Numerical modeling. Site remediation and remediation technologies.",
       "prerequisites": "( ENVE 3004 or ENVE 3002 ) and ( ENVE 2300 or MAAE 2300 ). Recommended prerequisite: ENVE 3003 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1553,9 +1323,7 @@
       "credit": "0.5",
       "description": "Municipal, hazardous, and mine waste management. Waste composition and potential impacts, collection and transport, recycling and reuse, biological and thermal treatments, isolation. Integrated waste management planning.",
       "prerequisites": "CIVE 3208 (or concurrent).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1565,9 +1333,7 @@
       "credit": "0.5",
       "description": "Canada and U.S. environmental regulations. Framework for Environmental Impact Assessment, survey techniques for impact assessment and EIA review process. Case studies of selected engineering projects. Environmental planning, management of residuals and environmental standards. Risk assessment, policy development and decision-making. Fault-tree analysis.",
       "prerequisites": "ENVE 2001 . Recommended prerequisite: ENVE 3004 or ENVE 2100 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1607,9 +1373,7 @@
       "credit": "0.5",
       "description": "Survey of the physical science of climate change, impacts on the built environment, and climate adaptation in engineering. Greenhouse gases, global warming, paleoclimatology, and Earth system responses. Climate change impacts on structural, water, transportation, and energy systems. Climate vulnerability assessment, examples of design adaptation.",
       "prerequisites": "ENVE 2001 or MAAE 2400 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1619,10 +1383,7 @@
       "credit": "1.0",
       "description": "A research project in engineering analysis, design or development carried out by individual students or small teams, for an opportunity to develop initiative, self-reliance, creative ability and engineering judgment and is normally intended for students with high CGPAs and an interest in graduate studies.",
       "prerequisites": "fourth-year standing in Engineering and permission of the department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1632,10 +1393,7 @@
       "credit": "0.5",
       "description": "Student carries out a study, analysis, and solution of an engineering problem which results in a written final report. Carried out under close supervision of a faculty member. Intended for students interested in pursuing graduate studies. Requires supervising faculty member and proposal from student.",
       "prerequisites": "permission of the Department and completion of, or concurrent registration in, ENVE 4918 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1645,10 +1403,7 @@
       "credit": "1.0",
       "description": "Teams of students develop professional level experience through a design project that incorporates fundamentals acquired in previous mathematics, science, engineering, and complementary studies courses. A final report and oral presentations are required.",
       "prerequisites": "ECOR 3800 and fourth-year standing in Engineering. Certain projects may have additional requirements.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1668,9 +1423,7 @@
       "credit": "0.5",
       "description": "The design of mechanical machine elements is studied from theoretical and practical points of view. Topics covered include: design factors, fatigue, and discrete machine elements. Problem analysis emphasizes the application to practical mechanical engineering problems.",
       "prerequisites": "MAAE 2001 and MAAE 3202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1680,9 +1433,7 @@
       "credit": "0.5",
       "description": "Applications of fundamental fluid mechanics to human circulatory and respiratory systems. Basic viscous flow theory including: blood flow in the heart and large arteries, air flow in extra-thoracic (nose-mouth throat) airways and lungs.",
       "prerequisites": "MATH 2004 and MAAE 2300 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1692,9 +1443,7 @@
       "credit": "0.5",
       "description": "Manufacturing processes, materials. Casting: solidification and heat flow theory, defect formation, casting design. Metal forming: elementary plasticity theory, plastic failure criteria, force and work calculations. Bulk and sheet forming. Joining: heat flow and defect formation, residual stresses. Machining theory and methods. Hardening: diffusion, wear resistance.",
       "prerequisites": "MAAE 2700 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1704,9 +1453,7 @@
       "credit": "0.5",
       "description": "Materials used in biomedical applications: metals, polymers, ceramics and composites. Material response and degradation. Properties of biologic materials; bone, cartilage, soft tissue. Materials selection for biocompatibility.",
       "prerequisites": "MAAE 2700 and MECH 2600 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1716,9 +1463,7 @@
       "credit": "0.5",
       "description": "Design of mechanical systems: establishing design criteria, conceptual design, design economics, value analysis, synthesis and optimization. Mechanical elements/systems: gear and flexible drive systems, fluid power systems. These elements are utilized in group design projects.",
       "prerequisites": "MATH 3705 and MECH 3002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1728,9 +1473,7 @@
       "credit": "0.5",
       "description": "The course emphasizes the engineering and design principles of road transport vehicles. Topics to be covered include: performance characteristics, handling behaviour and ride quality of road vehicles.",
       "prerequisites": "MAAE 3004 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1740,9 +1483,7 @@
       "credit": "0.5",
       "description": "Engineering and design principles of off-road vehicles and air cushion technology. Topics include: mechanics of vehicle-terrain interaction - terramechanics, performance characteristics of off-road vehicles, steering of tracked vehicles, air cushion systems and their performance, applications of air cushion technology to transportation.",
       "prerequisites": "MAAE 3004 and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1752,9 +1493,7 @@
       "credit": "0.5",
       "description": "Medical Devices: the industry and its regulation. Design methodologies. Examination of specific medical devices: surgical equipment, orthopedic devices, rehabilitation engineering, life support, artificial organs. Case studies.",
       "prerequisites": "MAAE 3202 , MATH 3705 , MECH 3710 and MECH 4210 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1784,9 +1523,7 @@
       "credit": "0.5",
       "description": "Elastic and elasto-plastic fracture mechanics. Fatigue design methods, fatigue crack initiation and growth Paris law and strain-life methods. Fatigue testing, scatter, mean stress effects and notches. Welded and built up structures, real load histories and corrosion fatigue. Damage tolerant design and fracture control plans.",
       "prerequisites": "MAAE 3202 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1796,9 +1533,7 @@
       "credit": "0.5",
       "description": "Free and forced vibrations of one and two degree-of-freedom systems. Vibration measurement and isolation. Numerical methods for multi-degree-of-freedom systems. Modal analysis techniques. Dynamic vibration absorbers. Shaft whirling. Vibration of continuous systems: bars, plates, beams and shafts. Energy methods. Holzer method.",
       "prerequisites": "MAAE 3004 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1808,9 +1543,7 @@
       "credit": "0.5",
       "description": "Atomic theory, nuclear physics, radioactivity, photoelectric effect, mass defect, binding energy, nuclides, neutron diffusion and moderation.  Reactor theory, kinetics, control.   Reactor types, reactor poisoning, xenon oscillations. Reactor materials, corrosion, fuel and fuel cycle.  Nuclear medicine.  Radiation protection, reactor safety fundamentals.",
       "prerequisites": "MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1840,9 +1573,7 @@
       "credit": "0.5",
       "description": "The biomechanics of biological systems; muscles and movement, nerves and motor control. Measurements of motion, strain and neural signals. The hand and manipulation; locomotion and the leg.",
       "prerequisites": "MAAE 2101 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1882,10 +1613,7 @@
       "credit": "0.5",
       "description": "Mechanisms of heat transfer: fundamentals and solutions. Steady and transient conduction: solution and numerical and electrical analog techniques. Convective heat transfer: free and forced convection for laminar and turbulent flows; heat exchangers. Heat transfer between black and grey surfaces, radiation shields, gas radiation, radiation interchange.",
       "prerequisites": "( ENVE 2001 or MAAE 2400 ) and ( MAAE 3300 , MECH 3310 , or ENVE 3001 ) and MATH 3705 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1895,9 +1623,7 @@
       "credit": "0.5",
       "description": "Environmental demands for residential, commercial and industrial systems. Methods of altering and controlling environment. Air distribution. Refrigeration methods, equipment and controls. Integrated year-round air-conditioning and heating systems; heat pumps. Cooling load and air-conditioning calculations. Thermal radiation control. Component matching. System analysis and design.",
       "prerequisites": "( ACSE 3209 or MAAE 2400 ) and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1907,9 +1633,7 @@
       "credit": "0.5",
       "description": "Integration of fluid mechanics, thermodynamics, and heat transfer for design of energy conversion systems. Chemical kinetics and mass transfer. Efficient combustion, fuel cells and batteries. Efficient operation and design of engines, power generators, boilers, furnaces, incinerators, and co-generation systems. Emerging energy systems.",
       "prerequisites": "MAAE 3400 and MATH 3705 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1929,10 +1653,7 @@
       "credit": "0.5",
       "description": "History of robotics and typical applications. Robotic actuators and sensors. Kinematics of manipulators, inverse kinematics, differential relationships and the Jacobian. Manipulator dynamics. Trajectory generation and path planning. Robot control and performance evaluation. Force control and compliance. Applications in manufacturing and other industries.",
       "prerequisites": "( MAAE 3500 or SYSC 4505 ) and MATH 3705 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1982,10 +1703,7 @@
       "credit": "0.5",
       "description": "Introduction to the integration of mechanical, electronic and software components to build mechatronic devices. Mechanical and electrical systems modeling, simulation and implementation. Basic automation and computer requirements. Design tools and examples of mechatronic applications.",
       "prerequisites": "( MAAE 3500 or SYSC 4505 ) and MATH 3705 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1995,10 +1713,7 @@
       "credit": "0.5",
       "description": "Engineering drawing techniques; fits and tolerances; working drawings; fasteners. Elementary descriptive geometry; true length, true view, and intersection of geometric entities; developments. Assignments will make extensive use of Computer-Aided Design (CAD) and will include the production of detail and assembly drawings from actual physical models.",
       "prerequisites": "",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2008,10 +1723,7 @@
       "credit": "0.5",
       "description": "Review of kinematics and kinetics of particles: rectilinear and curvilinear motions; Newton's second law; energy and momentum methods. Kinematics and kinetics of rigid bodies: planar and spatial motion of rigid bodies; forces and accelerations; energy and momentum methods.",
       "prerequisites": "ECOR 1034 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2021,10 +1733,7 @@
       "credit": "0.5",
       "description": "Review of Principles of Statics; friction problems; Concepts of stress and strain at a point; statically determinate and indeterminate stress systems; torsion of circular sections; bending moment and shear force diagrams; stresses and deflections in bending; buckling instability.",
       "prerequisites": "ECOR 1033 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2044,10 +1753,7 @@
       "credit": "0.5",
       "description": "Fluid properties. Units. Kinematics, dynamics of fluid motion: concepts of streamline, control volume, steady and one-dimensional flows; continuity, Euler, Bernouilli, steady flow energy, momentum, moment of momentum equations; applications. Fluid statics; pressure distribution in fluid at rest; hydrostatic forces on plane and curved surfaces; buoyancy.",
       "prerequisites": "ECOR 1033 and ECOR 1034 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2057,10 +1763,7 @@
       "credit": "0.5",
       "description": "Basic concepts of thermodynamics: temperature, work, heat, internal energy and enthalpy. First law for closed and steady-flow open systems. Thermodynamic properties of pure substances; changes of phase; equation of state. Second law: entropy. Simple power and refrigeration cycles. Introduction to heat transfer: conduction, convection, radiation.",
       "prerequisites": "PHYS 1002 or PHYS 1004 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2080,10 +1783,7 @@
       "credit": "0.5",
       "description": "Materials (metals, alloys, polymers) in engineering service; relationship of interatomic bonding, crystal structure and defect structure (vacancies, dislocations) to material properties; polymers, phase diagrams and alloys; microstructure control (heat treatment) and mechanical properties; material failure; corrosion.",
       "prerequisites": "CHEM 1101 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2093,10 +1793,7 @@
       "credit": "0.5",
       "description": "Kinematic and dynamic analysis of mechanisms and machines. Mechanism force analysis. Static and dynamic balancing. Free and forced vibration of single-degree-of-freedom systems. Introduction to multibody dynamics and multi-degree-of-freedom systems.",
       "prerequisites": "MAAE 2101 and MATH 1005 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2106,10 +1803,7 @@
       "credit": "0.5",
       "description": "Stress and strain transformations: torsion of non-circular sections; unsymmetric bending and shear centre; energy methods; complex stresses and criteria of yielding; elementary theory of elasticity; axisymmetric deformations.",
       "prerequisites": "MAAE 2202 and MATH 1005 (co-req).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2119,10 +1813,7 @@
       "credit": "0.5",
       "description": "Review of control volume analysis. Dimensional analysis and similitude. Compressible flow: isentropic flow relations, flow in ducts and nozzles, effects of friction and heat transfer, normal and oblique shocks, two-dimensional isentropic expansion. Viscous flow theory: hydrodynamic lubrication and introduction to boundary layers.",
       "prerequisites": "MATH 2004 and MAAE 2300 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2132,9 +1823,7 @@
       "credit": "0.5",
       "description": "Gas and vapour power cycles: reheat, regeneration, combined gas/vapour cycles, cogeneration. Heat pump and refrigeration cycles: vapour compression cycles, absorption refrigeration and gas refrigeration. Mixtures of perfect gases and vapours: psychometry and combustion. Principles of turbomachinery.",
       "prerequisites": "MATH 1005 and MAAE 2400 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2144,9 +1833,7 @@
       "credit": "0.5",
       "description": "Introduction to the linear feedback control. Analysis and design of classical control systems. Stability and the Routh-Hurwitz criteria. Time and frequency domain performance criteria, robustness and sensitivity. Root locus, Bode and Nyquist design techniques. Control system components and industrial process automation.",
       "prerequisites": "MATH 3705 and ( SYSC 3600 or SYSC 3610 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2176,9 +1863,7 @@
       "credit": "0.5",
       "description": "Analysis and prevention of failures in metals; plasticity analysis and plastic collapse; micro-mechanisms of fracture, conditions leading to crack growth and transition temperature effects, fracture mechanics, fatigue, environmentally assisted cracking, non-destructive evaluation and testing.",
       "prerequisites": "MAAE 2202 , MAAE 2700 and MATH 3705 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2228,9 +1913,7 @@
       "credit": "0.5",
       "description": "At the discretion of the Faculty, a course may be offered that deals with selected advanced topics of interest to Aerospace and Mechanical Engineering students.",
       "prerequisites": "permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2240,10 +1923,7 @@
       "credit": "1.0",
       "description": "Team project in the design of an aerospace, biomedical, mechanical, or sustainable energy system. Opportunity to develop initiative, engineering judgement, self-reliance, and creativity in a team environment. Results submitted in a comprehensive report as well as through formal oral presentations.",
       "prerequisites": "ECOR 3800 , MATH 3705 , and (completion of or concurrent registration in AERO 4003 , AERO 4842 , MECH 4003 , MECH 4013 , or SREE 4001 , or permission of Department). Certain projects may have additional prerequisites.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2253,10 +1933,7 @@
       "credit": "0.5",
       "description": "Study, analysis, and solution of an engineering problem. Results presented in the form of a written report. Carried out under the close supervision of a faculty member. Intended for students interested in pursuing graduate studies. Requires supervising faculty member and proposal from student.",
       "prerequisites": "permission of the Department and completion of,  or concurrent registration in, MAAE 4907 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2386,9 +2063,7 @@
       "credit": "0.5",
       "description": "Primary energy sources and their associated fundamental physics of conversion. Renewables: wind, large hydro, solar radiation, solar thermal. Fossil and biofuels. Nuclear. Climate science: the carbon cycle and the role of anthropogenic GHG emissions in climate warming. Terrestrial, thermodynamic and electrical limitations.",
       "prerequisites": "ENVE 2001 and MAAE 2300 and ( ELEC 2602 or fourth-year status in Environmental Engineering).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2398,9 +2073,7 @@
       "credit": "0.5",
       "description": "Electricity Distribution: topology, load characteristics, load prediction, voltage regulation, power flow, power loss, capacitors, state estimation, system reliability, system protection. Distribution Automation: components and architectures, communication systems. Distributed Generation: guides and regulations, microgrids, case study.",
       "prerequisites": "SREE 3001 and ( ELEC 2602 or ELEC 3605 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2410,9 +2083,7 @@
       "credit": "0.5",
       "description": "Power system structures; photovoltaic cell: model, current\u2010voltage curves, maximum power point tracking, grid connection; grid connection of wind generator; DC\u2010AC and AC\u2010DC converter simulation and analysis; energy storage classification; battery: equivalent circuit model, charging and discharging; renewable generation; feed\u2010in tariff program.",
       "prerequisites": "SREE 3001 and ( ELEC 2602 or ELEC 3605 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2452,9 +2123,7 @@
       "credit": "0.5",
       "description": "Sustainable large-scale power generation. Geothermal, solar thermal, hydrogen power plants. Thermal grids and thermal energy storage. Environmental and economic aspects of power generation. Impacts of intermittent power generation. Sizing of wind, solar PV, run-of-river hydro, and offshore power plants. Current and future energy network topologies.",
       "prerequisites": "MAAE 2300 , MAAE 2400 and SREE 3001 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2464,9 +2133,7 @@
       "credit": "0.5",
       "description": "Energy technologies exist within a context of economic, policy, and behavioral choices that affect their adoption. This course will introduce engineering methods for analyzing risk, uncertainty, and system-level decision-making. We will investigate criteria that affect energy systems: reliability, resilience, economics, financing, health, and environmental impacts.",
       "prerequisites": "MATH 2004 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2486,10 +2153,7 @@
       "credit": "1.0",
       "description": "Student teams develop professional-level experience by applying, honing, integrating and extending previously acquired knowledge in a major design project. Lectures are devoted to discussing project-related issues and student presentations. A project proposal, interim report, oral presentations, and a comprehensive final report are required.",
       "prerequisites": "ECOR 3800 , SREE 3002 , and SREE 3003 .  Certain projects may have additional prerequisites or corequisites.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2499,10 +2163,7 @@
       "credit": "0.5",
       "description": "The imperative programming paradigm: assignment and state, types and variables, static and dynamic typing. Memory management and object lifetimes: static allocation, automatic allocation in activation frames, dynamic allocation. Function argument passing. Recursion. Data structures: dynamic arrays, linked lists, hash tables. Reading and writing from files.",
       "prerequisites": "ECOR 1031 or (ECOR 1041 and ECOR 1042), all with a minimum grade of C- .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2512,10 +2173,7 @@
       "credit": "0.5",
       "description": "Designing and implementing small-scale programs as communities of collaborating objects, using a dynamically-typed or statically-typed programming language. Fundamental concepts: classes, objects, encapsulation, information hiding, inheritance, polymorphism. Iterative, incremental development and test-driven development.",
       "prerequisites": "SYSC 1006 or SYSC 2006 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2535,9 +2193,7 @@
       "credit": "0.5",
       "description": "Programming, testing, and debugging of small team-based software projects that use data from sensors to display results graphically. Modern programming tools: frameworks, libraries, version control, package management, tool chains. Sensors, signal acquisition, display, and basic filtering. Introductory network programming.",
       "prerequisites": "ECOR 1031 with a minimum grade of C- , and enrolment in Biomedical and Electrical Engineering or Communications Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2547,10 +2203,7 @@
       "credit": "0.5",
       "description": "Thorough coverage of fundamental abstract collections: stacks, queues, lists, priority queues, dictionaries, sets, graphs. Data structures: review of arrays and linked lists; trees, heaps, hash tables. Specification, design, implementation of collections, complexity analysis of operations. Sorting algorithms.",
       "prerequisites": "SYSC 1006 or SYSC 2006 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2560,10 +2213,7 @@
       "credit": "0.5",
       "description": "Number systems: binary, decimal, hexadecimal. Digital representation of information. Computer arithmetic: integer, floating point, fixed point. Boolean logic, realization as basic digital circuits. Applications: simple memory circuits, synchronous sequential circuits for computer systems. Finite state machines, state graphs, counters, adders.  Asynchronous sequential circuits. Races.",
       "prerequisites": "ECOR 1031 , ECOR 1032 , MATH 1104 , PHYS 1004 and enrolment in Computer Systems Engineering, Communications Engineering, or Software Engineering.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2573,9 +2223,7 @@
       "credit": "0.5",
       "description": "Computer organization: processor, memory, input/output, system bus. Microarchitecture. Instruction set architecture. Assembly language programming: addressing modes, instruction encoding, execution. Assembler. Simple digital I/O, programmable timer. Input/output methods: polling, hardware interrupts.",
       "prerequisites": "ELEC 2607 or SYSC 2310 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2585,9 +2233,7 @@
       "credit": "0.5",
       "description": "Discrete and continuous random variables. Joint and conditional probabilities, independence, sums of random variables. Expectation, moments, laws of large numbers. Introduction to statistics. Stochastic processes, stationarity, additive white Gaussian noise, Poisson processes. Markov processes, transition probabilities and rates, birth death processes, introduction to queueing theory.",
       "prerequisites": "MATH 1004 and MATH 1104 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2597,9 +2243,7 @@
       "credit": "0.5",
       "description": "Computer organization: processor, memory, input/output, system bus. Number systems: binary, decimal, hexadecimal. Assembly language programming: representation of data, instruction encoding, execution. Devices: keyboard, programmable timer, parallel interface. Input/output methods: polling, hardware/software interrupts.",
       "prerequisites": "( SYSC 1006 or SYSC 2006 ) and ( SYSC 2310 or ELEC 2607 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2609,9 +2253,7 @@
       "credit": "0.5",
       "description": "Development of expertise in designing, implementing and testing industrial-quality embedded systems through team projects. Applying modern programming languages, system design practices, current development processes (refactoring, iterative and incremental development) as well as current team-management tools (communication, version control) to medium-scale projects.",
       "prerequisites": "SYSC 2100 and SYSC 3310 (may be taken concurrently), and enrolment in Computer Systems Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2621,9 +2263,7 @@
       "credit": "0.5",
       "description": "Introduction to software engineering principles, software development life-cycles. Modelling in software engineering. Current techniques, notations, methods, processes and tools used in software engineering. UML modelling. Introduction to software quality, software verification and validation, software testing.",
       "prerequisites": "SYSC 2004 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2633,9 +2273,7 @@
       "credit": "0.5",
       "description": "Principles underlying different kinds of programming languages (procedural, functional, logic programming) and their semantics. Overview of machinery needed for language support (compilers, interpreters and run-time systems).",
       "prerequisites": "SYSC 2004 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2645,10 +2283,7 @@
       "credit": "0.5",
       "description": "Development of expertise in designing, implementing and testing maintainable, reusable software through team projects. Applying modern programming languages, design patterns, frameworks, UML and modern development processes (detection of olfactible source code defects, refactoring, iterative and incremental development, version control techniques) to medium-scale projects.",
       "prerequisites": "SYSC 2004 and SYSC 2100 , and enrolment in Software Engineering.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2658,9 +2293,7 @@
       "credit": "0.5",
       "description": "Current techniques, notations, methods, processes and tools used in Requirements Engineering. Requirements elicitation, negotiation, modeling requirements, management, validation. Skills needed for Requirements Engineering and the many disciplines on which it draws. Requirements analysis: domain modeling, modeling object interactions; UML modeling. Introduction to software development processes.",
       "prerequisites": "SYSC 2004 and enrolment in Software Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2670,9 +2303,7 @@
       "credit": "0.5",
       "description": "Techniques of operations research for decision-making in complex engineering systems. Linear programming, network models, PERT, integer programming, dynamic programming, queuing systems and inventory models. Problem solving is emphasized.",
       "prerequisites": "MATH 1004 and MATH 1104.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2682,9 +2313,7 @@
       "credit": "0.5",
       "description": "Biomedical transducers, sensors, and biomedical actuators. Amplifier designs: inverting, noninverting, differential, and bioinstrumentation. Differentiators, integrators, and rectifiers. Oscillators and timers. Filter design. Sampling and quantization. Electrical machines. Electrical safety.",
       "prerequisites": "MATH 1005 and ( ELEC 2507 or ELEC 3605 ) and enrolment in Biomedical and Electrical Engineering or Biomedical and Mechanical Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2694,9 +2323,7 @@
       "credit": "0.5",
       "description": "Principles and practice of a systems engineering approach to the development of software for real-time, concurrent, distributed systems. Designing to achieve concurrency, performance, and robustness, using visual notations. Converting designs into programs. Introduction to hard real-time systems. Team project.",
       "prerequisites": "For students in the Faculty of Engineering and Design: SYSC 2100 , and SYSC 4001 , and enrolment in Software Engineering, or permission of the Department. For students in Computer Science: COMP 2401 , COMP 2402 , and COMP 3000 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2706,9 +2333,7 @@
       "credit": "0.5",
       "description": "Principles of event-driven systems. Microcontroller organization. Development of embedded applications. Programming external interfaces, programmable timer. Input/output methods: polling, interrupts. Real-time issues: concurrency, mutual exclusion, buffering. Introduction to concurrent processes.",
       "prerequisites": "( SYSC 1006 or SYSC 2006 ) with a minimum grade of C- and ( SYSC 2320 or SYSC 3006 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2718,9 +2343,7 @@
       "credit": "0.5",
       "description": "Principles and practice of a systems engineering approach to the development of software for real-time, concurrent, distributed systems. Designing to achieve concurrency, performance, and robustness, using modern software engineering principles. Converting designs into programs targeting embedded systems.  Team project.",
       "prerequisites": "SYSC 2100 and SYSC 4001 and enrolment in Computer Systems Engineering, or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2730,9 +2353,7 @@
       "credit": "0.5",
       "description": "System on Chip based computer system design, including internal organization, direct memory access, floating-point units, HDL and FPGAs. Interfacing and high-level systems design. Input/output interfaces, including serial communication protocols.",
       "prerequisites": "SYSC 3310 and enrolment in Computer Systems Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2752,9 +2373,7 @@
       "credit": "0.5",
       "description": "Review of signals, linear systems and Fourier theory; signal bandwidth and spectra; digital waveform coding; introduction to analog and digital modulation systems; synchronization; characterization and effects of noise; link budgets; communications media and circuits; applications to current communications systems.",
       "prerequisites": "SYSC 3600 or SYSC 3610 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2764,9 +2383,7 @@
       "credit": "0.5",
       "description": "Amplitude Modulation. Frequency Modulation. Performance of AM and FM in noise. Communication channels, channel models, noise sources, noise models. Digital modulation: ASK, FSK, PSK. Optimal reception, probability of error on the AWGN channel.",
       "prerequisites": "( SYSC 3500 or SYSC 3600 ) and SYSC 2510 , and enrolment in Communications Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2796,10 +2413,7 @@
       "credit": "0.5",
       "description": "Properties of linear systems. Linear dynamic models of engineering systems. Applications of the Laplace transform. Transfer functions. Block diagrams. Frequency and time response. System simulation with digital computers.",
       "prerequisites": "ECOR 1031 , ECOR 1032 , ECOR 1033 , ECOR 1034 , MATH 1005 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2809,9 +2423,7 @@
       "credit": "0.5",
       "description": "Properties of linear systems. Linear dynamic models of biomedical systems. Biomedical application of the Laplace transforms.  Transfer functions. Block diagram. Frequency and time response. Feedback, control, and stability. Biomedical systems modeling and control.",
       "prerequisites": "ECOR 1031 , ECOR 1032 , ECOR 1033 , ECOR 1034 , MATH 1005 , and enrolment in Biomedical and Electrical Engineering or Biomedical and Mechanical Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2831,9 +2443,7 @@
       "credit": "0.5",
       "description": "Introduction to operating system principles. Processes and threads. CPU scheduling. Managing concurrency: mutual exclusion and synchronization, deadlock and starvation. Managing memory and input/output. Concurrent programming, including interprocess communication in distributed systems.",
       "prerequisites": "( SYSC 1006 or SYSC 2006 ) with a minimum grade of C- , and ( SYSC 2320 or SYSC 3006 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2843,9 +2453,7 @@
       "credit": "0.5",
       "description": "Simulation as a problem solving tool. Random variable generation, general discrete simulation procedure: event table and statistical gathering. Analyses of simulation data: point and interval estimation. Confidence intervals. Overview of modeling, simulation, and problem solving using SIMSCRIPT, MODSIM, and other languages.",
       "prerequisites": "ECOR 1031 and ( ECOR 2050 or SYSC 2510 or STAT 2605 or STAT 3502 ), or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2865,9 +2473,7 @@
       "credit": "0.5",
       "description": "Techniques for the systematic testing of software systems. Software validation and verification, software debugging, quality assurance, measurement and prediction of software reliability. Emphasis on the treatment of these topics in the context of real-time and distributed systems.",
       "prerequisites": "SYSC 3120 or SYSC 3020 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2887,9 +2493,7 @@
       "credit": "0.5",
       "description": "Introduction to software project management and economics; Return on software investments; Software life cycle; Work breakdown structure, scheduling and planning; Risk analysis and management; Product size and cost estimation; Earn value management; Statistical process control; Managing project team and process improvement; Bidding and contract types.",
       "prerequisites": "ECOR 1031 , ECOR 1032 , ECOR 1033 , ECOR 1034 , ECOR 1055 , ECOR 1056 , and ECOR 1057 ; and SYSC 3120 (may be taken concurrently), enrolment in Software Engineering; or COMP 3004 and enrolment in the Bachelor of Computer Science.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2899,9 +2503,7 @@
       "credit": "0.5",
       "description": "Introduction to formal methods in software engineering with coverage of propositional and first-order logic (syntax, semantics, proof theory), formal specification languages, bounded analysis and validation, formal specification tools, and model checking with finite-state machines, temporal logic, and model checking tools.",
       "prerequisites": "COMP 1805 , SYSC 3120 , and SYSC 4001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2911,9 +2513,7 @@
       "credit": "0.5",
       "description": "Introduction and importance of software architectures and software system design in software engineering. Current techniques, modeling notations, methods, processes and tools used in software architecture and system design. Software architectures, architectural patterns, design patterns, software qualities, software reuse.",
       "prerequisites": "SYSC 3120 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2923,9 +2523,7 @@
       "credit": "0.5",
       "description": "User-centric design, evaluation, and implementation of interactive computing systems. Topics include: designing, prototyping, implementing, and evaluating user-facing systems and interfaces; data gathering, analysis, and interpretation; persuasive design; dark patterns; accessibility; design for security and privacy.",
       "prerequisites": "SYSC 3020 or SYSC 3120 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2935,9 +2533,7 @@
       "credit": "0.5",
       "description": "Ethical theories, ethical decision-making, biomedical research ethics: informed consent, confidentiality, privacy, research ethics boards; research methods: hypothesis formulation, data collection, sampling bias, experimental design, statistical literacy; regulations for design, manufacture, certification of medical devices; impact of technology and research (social, political, financial).",
       "prerequisites": "ECOR 2050 and third year standing in Biomedical and Electrical Engineering or Biomedical and Mechanical Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -2947,9 +2543,7 @@
       "credit": "0.5",
       "description": "Overview of the Canadian health care system; brief examples of other countries; clinical engineering and the management of technologies in industrialized and in developing countries; safety, reliability, quality assurance; introduction to biomedical sensor technologies; applications of telemedicine; impact of technology on health care.",
       "prerequisites": "fourth-year standing in Biomedical and Electrical Engineering or Biomedical and Mechanical Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -2959,9 +2553,7 @@
       "credit": "0.5",
       "description": "Bioinstrumentation and biological signals; instrumentation systems, electrical safety, and biocompatibility; bioelectric signals; biopotential electrodes: material properties, selection; data acquisition; signal processing; biomedical imaging technologies; bioamplifier systems performance and characteristics; major physiological systems and associated measurements.",
       "prerequisites": "SYSC 3610 and ( ELEC 3605 or SYSC 3203 ) and enrolment in Biomedical and Electrical Engineering or  Biomedical and Mechanical Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2971,9 +2563,7 @@
       "credit": "0.5",
       "description": "Two-dimensional signals, filters, and Fourier transforms. Image acquisition, sampling, quantization and representation. Image perception. Digital and film cameras. Medical imaging technologies. Image processing operations: histogram, convolution, morphological, segmentation, registration. Image compression and formats.",
       "prerequisites": "SYSC 3600 or SYSC 3610 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2983,9 +2573,7 @@
       "credit": "0.5",
       "description": "Surgical robotic system architecture, forward and inverse kinematics of articulated robot arms, force and position control, unilateral and bilateral teleoperation of surgical robots, haptics and force feedback, instrumentation, image-guided surgery, design and implementation of robotic systems for minimally invasive surgery.",
       "prerequisites": "SYSC 3600 or SYSC 3610 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -2995,9 +2583,7 @@
       "credit": "0.5",
       "description": "Evolution of computer systems architecture to improve performance, including memory hierarchy, hardware accelerators, and thread level parallelism. Advanced computer architecture topics such as instruction level parallelism, superscalar, out-of-order execution, speculative execution, multicore, many-core, heterogeneous systems, and virtualization.",
       "prerequisites": "SYSC 3320 , and enrolment in Computer Systems Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3007,9 +2593,7 @@
       "credit": "0.5",
       "description": "Examples of several modern computer systems are presented in a computer systems context: system objectives, software and hardware components, interactions. The case studies present computer systems trends emerging in practice.",
       "prerequisites": "SYSC 4310 , and enrolment in Computer Systems Engineering.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3019,9 +2603,7 @@
       "credit": "0.5",
       "description": "Discrete time signal and system representation: time domain, z-transform, frequency domain. Sampling theorem. Digital filters: design, response, implementation, computer-aided design. Spectral analysis: the discrete Fourier transform and the FFT. Applications of digital signal processing.",
       "prerequisites": "SYSC 3500 or SYSC 3600 or SYSC 3610 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3031,9 +2613,7 @@
       "credit": "0.5",
       "description": "Introduction to supervised and unsupervised machine learning (ML), including deeper knowledge of several algorithms of each type. Evaluation and quantification of predictive performance of ML systems. Use of one or more ML development environments.",
       "prerequisites": "( ECOR 2050 or STAT 3502 or STAT 2605 or SYSC 2510 ), ( SYSC 1006 or SYSC 2006 ) and third year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -3043,9 +2623,7 @@
       "credit": "0.5",
       "description": "Fundamental ideas and techniques underlying the design of intelligent computer systems. Topics include intelligent agents, problem solving by searching, uncertain knowledge and reasoning, introduction to machine learning, and selected AI applications. A special focus is given to engineering use cases and applications of AI.",
       "prerequisites": "( ECOR 2050 or STAT 2605 or STAT 3502 or SYSC 2510 ), ( SYSC 1006 or SYSC 2006 ) and third year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -3055,9 +2633,7 @@
       "credit": "0.5",
       "description": "Communications software architectures, protocols and operating systems. Application layer protocols, APIs and socket programming. P2P algorithms, network virtualization, SDN. Reliable data transfer algorithms, FSM, MSC. Network security. Multimedia applications, RTSP, CDN, DASH, RTP, RTCP. Packet scheduling algorithms, DiffServ, IntServ, RSVP. Traffic classification, cross-layer optimization.",
       "prerequisites": "( SYSC 1006 or SYSC 2006 ) with a minimum grade of C- , and SYSC 4602 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3067,9 +2643,7 @@
       "credit": "0.5",
       "description": "WWW architecture, web servers and browsers, core protocols. Web pages, their structure, interpretation and internal representation. Client-side and server-side programming. Data representation.  Interfacing with databases and other server-side services. Cookies, state management, and privacy issues. Security. Web services.",
       "prerequisites": "SYSC 2004 . Additional recommended background: SYSC 4602 or SYSC 3303 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3079,9 +2653,7 @@
       "credit": "0.5",
       "description": "Review of Laplace transform techniques. Effects of feedback: frequency response, pole-zero positions. Compensation: root locus, Bode plots. State variables: formulation, solution of linear systems, examples of simple second-order non-linear systems. Discrete time systems: z-transforms. Signal reconstruction.",
       "prerequisites": "MATH 2004 and ( SYSC 3500 or SYSC 3600 or SYSC 3610 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3111,9 +2683,7 @@
       "credit": "0.5",
       "description": "Layered network architectures, TCP/IP suite, circuit switching, packet switching. Physical media, data transmission, multiplexing. Data link controls, MAC protocols, random access, polling, IEEE 802 standards. Bridges, switched Ethernet, VLANs. Routing algorithms, Internet routing protocols, datagram networks, virtual circuit networks. Transport protocols.",
       "prerequisites": "ECOR 2050 or SYSC 2510 or STAT 2605 or STAT 3502 (may be taken concurrently), and third year standing in Biomedical and Electrical, Electrical, Communications, Computer Systems, Software, or Sustainable and Renewable Energy Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -3123,9 +2693,7 @@
       "credit": "0.5",
       "description": "Introduction to information theory, source coding and data compression, Error control coding, Trellis coded modulation, advanced topics of current interest: spread spectrum; digital wireless communications.",
       "prerequisites": "SYSC 3503 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3135,9 +2703,7 @@
       "credit": "0.5",
       "description": "Wireless radio channel characterization, diversity, equalization; cellular architecture, multiple access principles, spread spectrum systems, radio resource management; examples from modern wireless systems, networks, and standards, including cellular networks, WLANs, ad hoc networks, and satellite systems.",
       "prerequisites": "SYSC 3501 or SYSC 3503 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3147,9 +2713,7 @@
       "credit": "0.5",
       "description": "Contemporary and emerging topics in communications networks and technologies.\u00a0Communications as a national and international infrastructure. Systems view of network\u00a0architecture and management: transmission, access, interference, routing,\u00a0softwarization,\u00a0virtualization, security. Regulations and standards. Examples include cellular 5G/6G, Wi-Fi, terrestrial, optical, aerial, and\u00a0satellite networks.",
       "prerequisites": "SYSC 3501 or SYSC 3503 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3159,9 +2723,7 @@
       "credit": "0.5",
       "description": "Project-oriented level experience in the design of communication systems to meet user requirements. Lectures on teletraffic analysis; system specification and design: requirements analysis, solution alternatives, evaluation of alternative technologies, design, costing, implementation, test.",
       "prerequisites": "SYSC 4602 and enrolment in Communications Engineering or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3181,9 +2743,7 @@
       "credit": "0.5",
       "description": "Project-oriented experience in the design of embedded computer systems. Lectures will discuss practical aspects related to the design and development of embedded systems, starting from sensor data acquisition and processing to decision systems, testing and embedded-system based project management, with practical application examples.",
       "prerequisites": "SYSC 3310 and enrolment in Computer Systems Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3193,9 +2753,7 @@
       "credit": "0.5",
       "description": "Applying the full spectrum of engineering and programming knowledge acquired in the program through team projects in the laboratory. Practice in doing presentations and reviews. Lectures will discuss software engineering issues as they relate to the projects, from a mature point of view.",
       "prerequisites": "COMP 3005 , SYSC 3110 , and enrolment in Software Engineering, or permission of the department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3205,9 +2763,7 @@
       "credit": "0.5",
       "description": "Fundamental concepts, terminologies, and theories of computer security; principles underlying common security controls; various types of threats and attacks on networks and software systems, how they work, and controls for dealing with them; security risk assessment and management; legal and ethical aspects of computer security.",
       "prerequisites": "fourth-year standing in Communications, Computer Systems, or Software Engineering.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -3217,9 +2773,7 @@
       "credit": "0.5",
       "description": "At the discretion of the Department, a course dealing with selected advanced topics of interest to students in Biomedical and Electrical, Communications, Computer Systems, Electrical, Software Engineering, and Engineering Physics may be offered.",
       "prerequisites": "permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -3229,10 +2783,7 @@
       "credit": "1.0",
       "description": "Student teams develop professional-level experience by applying previously acquired knowledge to a major design project. Lectures discuss project-related issues and student presentations. A project proposal, interim report, oral presentations, and a comprehensive final report are required.",
       "prerequisites": "( ECOR 3800 or SYSC 4106 ), and ECOR 4995 (may be taken concurrently), and fourth-year standing.  Certain projects may have additional prerequisites.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -3250,7 +2801,7 @@
   "free_electives": [],
   "programs": [
     {
-      "degree": "Aerospace Engineering Bachelor of Engineering",
+      "degree": "Aerospace Engineering - Bachelor of Engineering Stream A: Aerodynamics, Propulsion and Vehicle Performance (21.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3341,18 +2892,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "AERO 2001"
@@ -3431,12 +2970,6 @@
           ],
           "credits": 0.5,
           "description": "Multivariable Calculus for Engineering or Physics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -3535,109 +3068,48 @@
           "description": "Systems and Simulation"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AERO 4003"
-          ],
-          "credits": 0.5,
-          "description": "Aerospace Systems Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 4302"
-          ],
-          "credits": 0.5,
-          "description": "Aircraft Aerodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 4306"
-          ],
-          "credits": 0.5,
-          "description": "Aerospace Vehicle Performance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 4308"
-          ],
-          "credits": 0.5,
-          "description": "Aircraft Stability and Control"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AERO 4003",
+            "AERO 4302",
+            "AERO 4306",
+            "AERO 4308",
             "ECOR 4995"
           ],
-          "credits": 0.5,
-          "description": "Professional Practice"
+          "credits": 2.5,
+          "description": "2.5 credits from:"
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in 4000-level Mechanical and Aerospace Engineering (MAAE, AERO, or MECH)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 4402"
-          ],
-          "credits": 0.5,
-          "description": "Aircraft Propulsion"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 4442"
-          ],
-          "credits": 0.5,
-          "description": "Transatmospheric and Spacecraft Propulsion"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AERO 4402",
+            "AERO 4442",
             "AERO 4607"
           ],
           "credits": 0.5,
-          "description": "Rotorcraft Aerodynamics and Performance"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
+          "description": "0.5 credit from:"
+        }
+      ]
+    },
+    {
+      "degree": "Aerospace Engineering - Bachelor of Engineering Stream B: Aerospace Structures, Systems and Vehicle Design (21.0 credits)",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -3727,18 +3199,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "AERO 2001"
@@ -3817,12 +3277,6 @@
           ],
           "credits": 0.5,
           "description": "Multivariable Calculus for Engineering or Physics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -3961,71 +3415,37 @@
           "description": "Materials: Strength and Fracture"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credits in 4000-level Mechanical and Aerospace Engineering (MAAE, AERO, or MECH)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 4609"
-          ],
-          "credits": 0.5,
-          "description": "Joining of Materials"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MECH 4103"
-          ],
-          "credits": 0.5,
-          "description": "Fatigue and Fracture Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MECH 4104"
-          ],
-          "credits": 0.5,
-          "description": "Vibration Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AERO 4609",
+            "MECH 4103",
+            "MECH 4104",
             "MECH 4604"
           ],
           "credits": 0.5,
-          "description": "Finite Element Methods"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
+          "description": "0.5 credits from:"
+        }
+      ]
+    },
+    {
+      "degree": "Aerospace Engineering - Bachelor of Engineering Stream C: Aerospace Electronics and Systems (21.0 credits)",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -4115,18 +3535,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Elective"
-        },
-        {
           "type": "required",
           "courses": [
             "AERO 2001"
@@ -4205,12 +3613,6 @@
           ],
           "credits": 0.5,
           "description": "Systems and Simulation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -4357,175 +3759,50 @@
           "description": "Communication Theory"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
-          "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credits from: 4000-level AERO, MAAE or MECH, or"
-        },
-        {
-          "type": "required",
           "courses": [
-            "AERO 3240"
-          ],
-          "credits": 0.5,
-          "description": "Orbital Mechanics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 3841"
-          ],
-          "credits": 0.5,
-          "description": "Spacecraft Design I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4502"
-          ],
-          "credits": 0.5,
-          "description": "Microwave Circuits"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4503"
-          ],
-          "credits": 0.5,
-          "description": "Radio Frequency Lines and Antennas"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4505"
-          ],
-          "credits": 0.5,
-          "description": "Telecommunication Circuits"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4506"
-          ],
-          "credits": 0.5,
-          "description": "Computer-Aided Design of Circuits and Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4509"
-          ],
-          "credits": 0.5,
-          "description": "Communication Links"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4600"
-          ],
-          "credits": 0.5,
-          "description": "Radar and Navigation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4609"
-          ],
-          "credits": 0.5,
-          "description": "Integrated Circuit Design and Fabrication"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4703"
-          ],
-          "credits": 0.5,
-          "description": "Solar Cells"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4706"
-          ],
-          "credits": 0.5,
-          "description": "High-Speed Electronics: Circuits and Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4707"
-          ],
-          "credits": 0.5,
-          "description": "Analog Integrated Electronics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4708"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Digital Integrated Circuit Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4709"
-          ],
-          "credits": 0.5,
-          "description": "Integrated Sensors"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4205"
-          ],
-          "credits": 0.5,
-          "description": "Image Processing for Medical Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4600"
-          ],
-          "credits": 0.5,
-          "description": "Digital Communications"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AERO 3240",
+            "AERO 3841",
+            "ELEC 4502",
+            "ELEC 4503",
+            "ELEC 4505",
+            "ELEC 4506",
+            "ELEC 4509",
+            "ELEC 4600",
+            "ELEC 4609",
+            "ELEC 4703",
+            "ELEC 4706",
+            "ELEC 4707",
+            "ELEC 4708",
+            "ELEC 4709",
+            "SYSC 4205",
+            "SYSC 4600",
             "SYSC 4607"
           ],
-          "credits": 0.5,
-          "description": "Wireless Communications"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
+          "credits": 1.0,
+          "description": "1.0 credits from: 4000-level AERO, MAAE or MECH, or"
+        }
+      ]
+    },
+    {
+      "degree": "Aerospace Engineering - Bachelor of Engineering Stream D: Space Systems Design (21.0 credits)",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -4615,18 +3892,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "AERO 2001"
@@ -4699,24 +3964,12 @@
           "description": "Systems and Simulation"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 2995"
           ],
           "credits": 0.0,
           "description": "Engineering Portfolio"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
         },
         {
           "type": "required",
@@ -4855,65 +4108,37 @@
           "description": "Communication Links"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
-          "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
           "type": "choose",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits from 4000-level MAAE, AERO or MECH, or"
-        },
-        {
-          "type": "required",
           "courses": [
-            "AERO 3101"
-          ],
-          "credits": 0.5,
-          "description": "Lightweight Structures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AERO 3700"
-          ],
-          "credits": 0.5,
-          "description": "Aerospace Materials"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4600"
-          ],
-          "credits": 0.5,
-          "description": "Radar and Navigation"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AERO 3101",
+            "AERO 3700",
+            "ELEC 4600",
             "ELEC 4709"
           ],
-          "credits": 0.5,
-          "description": "Integrated Sensors"
-        },
+          "credits": 1.5,
+          "description": "1.5 credits from 4000-level MAAE, AERO or MECH, or"
+        }
+      ]
+    },
+    {
+      "degree": "Architectural Conservation and Sustainability Engineering - Bachelor of Engineering (21.5 credits)",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -5009,12 +4234,6 @@
           ],
           "credits": 0.0,
           "description": "Engineering Profession"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
         },
         {
           "type": "required",
@@ -5250,215 +4469,49 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "ACSE 4918"
           ],
           "credits": 1.0,
-          "description": "Design Project"
+          "description": "1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ACSE 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Research Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ACSE 4917"
-          ],
-          "credits": 0.5,
-          "description": "Undergraduate Directed Study"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 3202"
-          ],
-          "credits": 0.5,
-          "description": "Mechanics of Solids II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 3208"
-          ],
-          "credits": 0.5,
-          "description": "Geotechnical Mechanics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 3307"
-          ],
-          "credits": 0.5,
-          "description": "Municipal Hydraulics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4200"
-          ],
-          "credits": 0.5,
-          "description": "Matrix Analysis of Framed Structures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4201"
-          ],
-          "credits": 0.5,
-          "description": "Finite Element Methods in Civil Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4302"
-          ],
-          "credits": 0.5,
-          "description": "Reinforced and Prestressed Concrete Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4303"
-          ],
-          "credits": 0.5,
-          "description": "Urban Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4308"
-          ],
-          "credits": 0.5,
-          "description": "Behaviour and Design of Steel Structures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4400"
-          ],
-          "credits": 0.5,
-          "description": "Construction/Project Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4403"
-          ],
-          "credits": 0.5,
-          "description": "Masonry Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4407"
-          ],
-          "credits": 0.5,
-          "description": "Municipal Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4500"
-          ],
-          "credits": 0.5,
-          "description": "Computer Methods in Civil Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4614"
-          ],
-          "credits": 0.5,
-          "description": "Building Fire Safety"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 3003"
-          ],
-          "credits": 0.5,
-          "description": "Water Resources Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 3100"
-          ],
-          "credits": 0.5,
-          "description": "Air Quality Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 3105"
-          ],
-          "credits": 0.5,
-          "description": "Engineering and Decision Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4003"
-          ],
-          "credits": 0.5,
-          "description": "Air Pollution and Emissions Control"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4101"
-          ],
-          "credits": 0.5,
-          "description": "Waste Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4200"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change and Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MECH 4407"
-          ],
-          "credits": 0.5,
-          "description": "Heating and Air Conditioning"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ACSE 4907",
+            "ACSE 4917",
+            "CIVE 3202",
+            "CIVE 3208",
+            "CIVE 3307",
+            "CIVE 4200",
+            "CIVE 4201",
+            "CIVE 4302",
+            "CIVE 4303",
+            "CIVE 4308",
+            "CIVE 4400",
+            "CIVE 4403",
+            "CIVE 4407",
+            "CIVE 4500",
+            "CIVE 4614",
+            "ENVE 3003",
+            "ENVE 3100",
+            "ENVE 3105",
+            "ENVE 4003",
+            "ENVE 4101",
+            "ENVE 4200",
+            "MECH 4407",
             "SREE 4002"
           ],
-          "credits": 0.5,
-          "description": "Modelling and Analysis of Energy Systems: Risk, Reliability, and Economics"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
@@ -5562,12 +4615,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives."
-        },
-        {
           "type": "required",
           "courses": [
             "CCDP 2100"
@@ -5646,12 +4693,6 @@
           ],
           "credits": 0.5,
           "description": "Probability, Statistics and Random Processes for Engineers"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -5742,12 +4783,6 @@
           "description": "Engineering Economics"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credits in Science Electives for BMEE"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4995"
@@ -5788,12 +4823,6 @@
           "description": "Engineering Project"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4907"
@@ -5802,60 +4831,15 @@
           "description": "Multidisciplinary Engineering Project"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Science Electives for BMEE"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ELEC 4709"
-          ],
-          "credits": 0.5,
-          "description": "Integrated Sensors"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4202"
-          ],
-          "credits": 0.5,
-          "description": "Clinical Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4205"
-          ],
-          "credits": 0.5,
-          "description": "Image Processing for Medical Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ELEC 4709",
+            "SYSC 4202",
+            "SYSC 4205",
             "SYSC 4206"
           ],
-          "credits": 0.5,
-          "description": "Surgical Robotics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BIOM at the 5000 level"
-        },
-        {
-          "type": "choose",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from SYSC or ELEC at the 3000 or 4000 level, or BIOM or SYSC at the 5000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         }
       ]
     },
@@ -5959,12 +4943,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 2050"
@@ -6051,12 +5029,6 @@
           ],
           "credits": 0.0,
           "description": "Engineering Portfolio"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
         },
         {
           "type": "required",
@@ -6196,16 +5168,17 @@
         },
         {
           "type": "choose",
-          "courses": [],
+          "courses": [
+            "ECOR 4907",
+            "SYSC 4202",
+            "SYSC 4203"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
           "type": "choose",
           "courses": [
-            "ECOR 4907",
-            "SYSC 4202",
-            "SYSC 4203",
             "BIOL 4201",
             "BIOL 4309",
             "BIOL 4319",
@@ -6215,13 +5188,7 @@
             "SYSC 4206"
           ],
           "credits": 1.0,
-          "description": "1.0 credit from 1.0"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in any 4000-level BIOL course"
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -6323,12 +5290,6 @@
           ],
           "credits": 0.0,
           "description": "Engineering Profession"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Elective"
         },
         {
           "type": "required",
@@ -6507,12 +5468,6 @@
           "description": "Engineering Economics"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4995"
@@ -6522,247 +5477,60 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "CIVE 4918"
           ],
           "credits": 1.0,
-          "description": "Design Project"
+          "description": "1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4202"
-          ],
-          "credits": 0.5,
-          "description": "Wood Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4301"
-          ],
-          "credits": 0.5,
-          "description": "Foundation Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CIVE 4202",
+            "CIVE 4301",
             "CIVE 4204"
           ],
           "credits": 0.5,
-          "description": "Pavement Design"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ACSE 3105"
-          ],
-          "credits": 0.5,
-          "description": "Green Building Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ACSE 4101"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Structural Assessment of Historic Masonry Buildings"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 3209"
-          ],
-          "credits": 0.5,
-          "description": "Building Science"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4200"
-          ],
-          "credits": 0.5,
-          "description": "Matrix Analysis of Framed Structures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4201"
-          ],
-          "credits": 0.5,
-          "description": "Finite Element Methods in Civil Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4202"
-          ],
-          "credits": 0.5,
-          "description": "Wood Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4204"
-          ],
-          "credits": 0.5,
-          "description": "Pavement Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4205"
-          ],
-          "credits": 0.5,
-          "description": "Traffic Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4301"
-          ],
-          "credits": 0.5,
-          "description": "Foundation Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4302"
-          ],
-          "credits": 0.5,
-          "description": "Reinforced and Prestressed Concrete Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4303"
-          ],
-          "credits": 0.5,
-          "description": "Urban Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4308"
-          ],
-          "credits": 0.5,
-          "description": "Behaviour and Design of Steel Structures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4400"
-          ],
-          "credits": 0.5,
-          "description": "Construction/Project Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4403"
-          ],
-          "credits": 0.5,
-          "description": "Masonry Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4407"
-          ],
-          "credits": 0.5,
-          "description": "Municipal Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4500"
-          ],
-          "credits": 0.5,
-          "description": "Computer Methods in Civil Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4614"
-          ],
-          "credits": 0.5,
-          "description": "Building Fire Safety"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Research Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4917"
-          ],
-          "credits": 0.5,
-          "description": "Undergraduate Directed Study"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 3003"
-          ],
-          "credits": 0.5,
-          "description": "Water Resources Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 3105"
-          ],
-          "credits": 0.5,
-          "description": "Engineering and Decision Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4101"
-          ],
-          "credits": 0.5,
-          "description": "Waste Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4200"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change and Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ACSE 3105",
+            "ACSE 4101",
+            "CIVE 3209",
+            "CIVE 4200",
+            "CIVE 4201",
+            "CIVE 4202",
+            "CIVE 4204",
+            "CIVE 4205",
+            "CIVE 4301",
+            "CIVE 4302",
+            "CIVE 4303",
+            "CIVE 4308",
+            "CIVE 4400",
+            "CIVE 4403",
+            "CIVE 4407",
+            "CIVE 4500",
+            "CIVE 4614",
+            "CIVE 4907",
+            "CIVE 4917",
+            "ENVE 3003",
+            "ENVE 3105",
+            "ENVE 4101",
+            "ENVE 4200",
             "MATH 3705"
           ],
-          "credits": 0.5,
-          "description": "Mathematical Methods I"
+          "credits": 3.0,
+          "description": "3.0 credits from:"
         }
       ]
     },
@@ -6864,12 +5632,6 @@
           ],
           "credits": 0.0,
           "description": "Engineering Profession"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
         },
         {
           "type": "required",
@@ -7040,18 +5802,6 @@
           "description": "Systems and Simulation"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4995"
@@ -7100,48 +5850,29 @@
           "description": "Introduction to Network and Software Security"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "SYSC 4415"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Machine Learning"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SYSC 4415",
             "SYSC 4416"
           ],
           "credits": 0.5,
-          "description": "Artificial Intelligence in Engineering"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "SYSC 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECOR 4907"
           ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "SYSC or ELEC at the 3000 level or above (may include 0.5 credit in SYSC at the 5000 level)"
+          "credits": null,
+          "description": "OR"
         }
       ]
     },
@@ -7245,12 +5976,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "CCDP 2100"
@@ -7331,24 +6056,12 @@
           "description": "Probability, Statistics and Random Processes for Engineers"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 2995"
           ],
           "credits": 0.0,
           "description": "Engineering Portfolio"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Science Electives for Computer Systems Engineering"
         },
         {
           "type": "required",
@@ -7431,12 +6144,6 @@
           "description": "Operating Systems"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4995"
@@ -7477,42 +6184,22 @@
           "description": "Introduction to Network and Software Security"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "SYSC 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Project (if supervisor is in Systems and Computer Engineering)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Project (if supervisor is in Electronics)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SYSC 4907",
+            "ELEC 4907",
             "ECOR 4907"
           ],
           "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "MECH 4503"
           ],
-          "credits": 0.5,
-          "description": "An Introduction to Robotics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "or SYSC or ELEC at the 3000 or 4000 level (may include up to 1.0 credit in SYSC or ELEC at the 5000 level)"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
@@ -7608,18 +6295,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "CCDP 2100"
@@ -7698,12 +6373,6 @@
           ],
           "credits": 0.5,
           "description": "Foundations of Imperative Programming"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -7826,86 +6495,26 @@
           "description": "Automatic Control Systems I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ELEC 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Project (if supervisor is in Electronics)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Project (if supervisor is in Systems and Computer Engineering)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ELEC 4907",
+            "SYSC 4907",
             "ECOR 4907"
           ],
           "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MECH 4503"
-          ],
-          "credits": 0.5,
-          "description": "An Introduction to Robotics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 3020"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Software Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 3200"
-          ],
-          "credits": 0.5,
-          "description": "Industrial Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 3508"
-          ],
-          "credits": 0.5,
-          "description": "Power Electronics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MECH 4503",
+            "SYSC 3020",
+            "SYSC 3200",
+            "ELEC 3508",
             "ELEC 3602"
           ],
-          "credits": 0.5,
-          "description": "Electrical Power Systems"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or ELEC OR SYSC at the 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Basic Science Electives, or"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENVE, CIVE, IDES, MAAE, AERO, MECH at the 2000 level or above, or"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         },
         {
           "type": "required",
@@ -7930,18 +6539,6 @@
           ],
           "credits": 0.5,
           "description": "Industrial Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or any ELEC or SYSC at the 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
         }
       ]
     },
@@ -8045,12 +6642,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ELEC 2501"
@@ -8137,12 +6728,6 @@
           ],
           "credits": 0.5,
           "description": "Communication Skills for Engineering Students"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -8282,96 +6867,36 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "ELEC 4908"
           ],
           "credits": 1.0,
-          "description": "Engineering Physics Project"
+          "description": "1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 4203"
-          ],
-          "credits": 0.5,
-          "description": "Physical Applications of Fourier Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 4208"
-          ],
-          "credits": 0.5,
-          "description": "Modern Optics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 4409"
-          ],
-          "credits": 0.5,
-          "description": "Thermodynamics and Statistical Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 4508"
-          ],
-          "credits": 0.5,
-          "description": "Solid State Physics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 4708"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Quantum Mechanics II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 4807"
-          ],
-          "credits": 0.5,
-          "description": "Statistical Data Analysis Techniques for Physics"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "PHYS 4203",
+            "PHYS 4208",
+            "PHYS 4409",
+            "PHYS 4508",
+            "PHYS 4708",
+            "PHYS 4807",
             "ELEC 4504",
             "ELEC 4600",
             "ELEC 4703",
             "ELEC 4705"
           ],
           "credits": 0.5,
-          "description": "0.5 credit in ELEC at the 4000 level excluding: ELEC 4504, ELEC 4600 , ELEC 4703 , and ELEC 4705"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "description": "0.5 credit from:"
         }
       ]
     },
@@ -8473,12 +6998,6 @@
           ],
           "credits": 0.0,
           "description": "Engineering Profession"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5  credit in Complementary Studies Electives"
         },
         {
           "type": "required",
@@ -8698,165 +7217,42 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "ENVE 4918"
           ],
           "credits": 1.0,
-          "description": "Design Project"
+          "description": "1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ACSE 3105"
-          ],
-          "credits": 0.5,
-          "description": "Green Building Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ACSE 3209"
-          ],
-          "credits": 0.5,
-          "description": "Building Science"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ACSE 4106"
-          ],
-          "credits": 0.5,
-          "description": "Indoor Environmental Quality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 3304"
-          ],
-          "credits": 0.5,
-          "description": "Transportation Engineering and Planning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 3210"
-          ],
-          "credits": 0.5,
-          "description": "Geotechnical Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4301"
-          ],
-          "credits": 0.5,
-          "description": "Foundation Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4303"
-          ],
-          "credits": 0.5,
-          "description": "Urban Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CIVE 4400"
-          ],
-          "credits": 0.5,
-          "description": "Construction/Project Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4002"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Geotechnical Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4907"
-          ],
-          "credits": 1.0,
-          "description": "Engineering Research Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4917"
-          ],
-          "credits": 0.5,
-          "description": "Undergraduate Directed Study"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MECH 4401"
-          ],
-          "credits": 0.5,
-          "description": "Power Plant Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MECH 4406"
-          ],
-          "credits": 0.5,
-          "description": "Heat Transfer"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MECH 4407"
-          ],
-          "credits": 0.5,
-          "description": "Heating and Air Conditioning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SREE 3001"
-          ],
-          "credits": 0.5,
-          "description": "Sustainable and Renewable Energy Sources"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ACSE 3105",
+            "ACSE 3209",
+            "ACSE 4106",
+            "CIVE 3304",
+            "CIVE 3210",
+            "CIVE 4301",
+            "CIVE 4303",
+            "CIVE 4400",
+            "ENVE 4002",
+            "ENVE 4907",
+            "ENVE 4917",
+            "MECH 4401",
+            "MECH 4406",
+            "MECH 4407",
+            "SREE 3001",
             "SYSC 3200"
           ],
-          "credits": 0.5,
-          "description": "Industrial Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "credits": 1.5,
+          "description": "1.5 credit from:"
         }
       ]
     },
@@ -8952,18 +7348,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 2050"
@@ -9042,12 +7426,6 @@
           ],
           "credits": 0.5,
           "description": "Multivariable Calculus for Engineering or Physics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -9179,43 +7557,19 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "7.0 1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "7.0 1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ECOR 4907"
           ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in 4000-level Mechanical and Aerospace Engineering (MAAE, AERO or MECH)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "credits": null,
+          "description": "OR"
         }
       ]
     },
@@ -9309,18 +7663,6 @@
           ],
           "credits": 0.0,
           "description": "Engineering Profession"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
         },
         {
           "type": "required",
@@ -9553,18 +7895,6 @@
           ],
           "credits": 1.0,
           "description": "Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Engineering Elective"
         }
       ]
     },
@@ -9668,12 +7998,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credits in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "CCDP 2100"
@@ -9762,12 +8086,6 @@
           "description": "Engineering Portfolio"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "COMP 3005"
@@ -9848,12 +8166,6 @@
           "description": "Software Engineering Lab"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4995"
@@ -9886,12 +8198,6 @@
           "description": "Engineering Project"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4907"
@@ -9900,44 +8206,13 @@
           "description": "Multidisciplinary Engineering Project"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ELEC 2501"
-          ],
-          "credits": 0.5,
-          "description": "Circuits and Signals"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ELEC 2501",
             "ELEC 2507"
           ],
-          "credits": 0.5,
-          "description": "Electronics I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "SYSC or ELEC courses at the 3000 or 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "up to 1.0 credit in Computer Science Electives for Software Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "up to 1.0 credit in SYSC at the 5000 level (with permission of the Department)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         }
       ]
     },
@@ -10041,12 +8316,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "CCDP 2100"
@@ -10135,12 +8404,6 @@
           "description": "Engineering Portfolio"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credits in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "COMP 3005"
@@ -10221,12 +8484,6 @@
           "description": "Software Engineering Lab"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credits in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4995"
@@ -10259,84 +8516,32 @@
           "description": "Engineering Project"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ELEC 2501"
-          ],
-          "credits": 0.5,
-          "description": "Circuits and Signals"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ELEC 2501",
             "ELEC 2507"
           ],
           "credits": 0.5,
-          "description": "Electronics I"
+          "description": "0.5 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "SYSC or ELEC courses at the 3000 or 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Computer Science Electives for Software Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "SYSC courses at the 5000 level (with the permission of the department)"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "SYSC 4415"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Machine Learning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SYSC 4416"
-          ],
-          "credits": 0.5,
-          "description": "Artificial Intelligence in Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SYSC 4415",
+            "SYSC 4416",
             "SYSC 5103"
           ],
-          "credits": 0.5,
-          "description": "Software Agents"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "SYSC 3200"
-          ],
-          "credits": 0.5,
-          "description": "Industrial Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SYSC 3200",
             "SYSC 4111"
           ],
           "credits": 0.5,
-          "description": "Formal Methods in Software Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "description": "0.5 credits from the list in item 10, or from:"
         }
       ]
     },
@@ -10432,18 +8637,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ELEC 2501"
@@ -10522,12 +8715,6 @@
           ],
           "credits": 0.5,
           "description": "Foundations of Imperative Programming"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -10690,30 +8877,12 @@
           "description": "Energy Engineering Project"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
           "type": "required",
           "courses": [
             "ECOR 4907"
           ],
           "credits": 1.0,
           "description": "Multidisciplinary Engineering Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in any 4000-level Engineering course for which prerequisites have been satisfied"
         }
       ]
     },
@@ -10809,18 +8978,6 @@
           "description": "Engineering Profession"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Basic Science Electives"
-        },
-        {
           "type": "required",
           "courses": [
             "ELEC 2501"
@@ -10899,12 +9056,6 @@
           ],
           "credits": 0.5,
           "description": "Fundamentals of Energy Conversion"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b) Successful completion of"
         },
         {
           "type": "required",
@@ -11036,108 +9187,37 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
             "MAAE 4907"
           ],
           "credits": 1.0,
-          "description": "Engineering Design Project"
+          "description": "1.0 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "ECOR 4907"
+          ],
           "credits": null,
           "description": "OR"
         },
         {
-          "type": "required",
-          "courses": [
-            "ECOR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Multidisciplinary Engineering Project"
-        },
-        {
           "type": "choose",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit from"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any 4000-level Engineering course for which prerequisites have been satisfied."
-        },
-        {
-          "type": "choose",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from"
-        },
-        {
-          "type": "required",
           "courses": [
-            "AERO 4302"
-          ],
-          "credits": 0.5,
-          "description": "Aircraft Aerodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 2507"
-          ],
-          "credits": 0.5,
-          "description": "Electronics I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ELEC 3508"
-          ],
-          "credits": 0.5,
-          "description": "Power Electronics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4003"
-          ],
-          "credits": 0.5,
-          "description": "Air Pollution and Emissions Control"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENVE 4105"
-          ],
-          "credits": 0.5,
-          "description": "Green Building Design"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AERO 4302",
+            "ELEC 2507",
+            "ELEC 3508",
+            "ENVE 4003",
+            "ENVE 4105",
             "MECH 4408"
           ],
           "credits": 0.5,
-          "description": "Thermofluids and Energy Systems Design"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Complementary Studies Electives"
+          "description": "0.5 credit from"
         }
       ]
     },
     {
-      "degree": "Undergraduate Co-operative Education Policy",
+      "degree": "Work Term Courses:",
       "requirements": [
         {
           "type": "required",
@@ -11218,12 +9298,6 @@
           ],
           "credits": 0.0,
           "description": "Co-operative Work Term"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "(depending on student's program)"
         }
       ]
     }

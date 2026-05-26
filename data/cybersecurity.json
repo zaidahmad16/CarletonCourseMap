@@ -18,10 +18,7 @@
       "credit": "0.5",
       "description": "Introduction to computer science and programming. Topics include: algorithm design; control structures; variables and types; linear collections; functions; debugging and testing. Special attention is given to procedural programming in a modern language, computational thinking skills, and problem decomposition.",
       "prerequisites": "",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -31,10 +28,7 @@
       "credit": "0.5",
       "description": "A second course in programming emphasizing problem solving and computational thinking in an object-oriented language. Topics include abstraction, mutable data structures, methods, inheritance, polymorphism, recursion, program efficiency, testing and debugging.",
       "prerequisites": "COMP 1005 or COMP 1405 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -44,9 +38,7 @@
       "credit": "0.5",
       "description": "Math for building 3D games. Points, vectors, normals. Dot and cross products. Transformations and inverses in left- and right-handed systems. Uses for controlling objects, cameras, and texture manipulation. Bounding boxes, planes, frustums for collision detection and visibility, fast billboarding techniques, point and sphere sweeping. Quaternions.",
       "prerequisites": "one Grade 12 university preparation mathematics course.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -56,10 +48,7 @@
       "credit": "0.5",
       "description": "Introduction to computer science and programming, for computer science students. Topics include: algorithm design; control structures; variables and types; linear collections; functions; debugging and testing. Special attention is given to procedural programming in a modern language, computational thinking skills, and problem decomposition.",
       "prerequisites": "restricted to students registered in the B.C.S. program, B.Cyber. program, B.D.S. program, combined Honours in Computer Science and Mathematics, Honours Computer Mathematics, and Honours Computer Statistics.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -69,10 +58,7 @@
       "credit": "0.5",
       "description": "A second course in programming for BCS students, emphasizing problem solving and computational thinking in an object-oriented language. Topics include abstraction, mutable data structures, methods, inheritance, polymorphism, recursion, program efficiency, testing and debugging.",
       "prerequisites": "COMP 1005 or COMP 1405 . Restricted to students registered in the B.C.S. program, B.Cyber. program, B.D.S. program, combined Honours in Computer Science and Mathematics, Honours Computer Mathematics, and Honours Computer Statistics.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -82,9 +68,7 @@
       "credit": "0.5",
       "description": "Introduction to game design and prototyping. Topics include: formal theories of fun; the mechanics-dynamics-aesthetics framework; game economies; game balance; statistical tools for analyzing game mechanics; game settings; and storytelling. Special attention is given to the attributes of games and what makes a game fun.",
       "prerequisites": "COMP 1005 or COMP 1405 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -104,10 +88,7 @@
       "credit": "0.5",
       "description": "Introduction to discrete mathematics and discrete structures. Topics include: propositional logic, predicate calculus, set theory, complexity of algorithms, mathematical reasoning and proof techniques, recurrences, induction, finite automata and graph theory. Material is illustrated through examples from computing.",
       "prerequisites": "one Grade 12 university preparation mathematics course.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -117,10 +98,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. This course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "Permission of the School and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -130,10 +108,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 1910 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -153,10 +128,7 @@
       "credit": "0.5",
       "description": "Practical aspects of cryptography. Topics include: stream and block ciphers; modes of operation; hash functions; message and user authentication; authenticated key establishment protocols; random number generation; entropy; proof of knowledge; secret sharing; key distribution; pitfalls deploying public-key encryption and digital signatures.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- , and COMP 2804 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -166,10 +138,7 @@
       "credit": "0.5",
       "description": "A tour of Internet security and privacy. Societal impacts and case studies. Topics from: protection goals of stakeholders; history of public key cryptography; programming languages and security; security engineering and testing; cybercrime and malware; Internet privacy and anonymity; government surveillance; regulation; ethics; blockchain applications.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- , and COMP 2401 with a minimum grade of C- .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -179,10 +148,7 @@
       "credit": "0.5",
       "description": "Introduction to system-level programming with fundamental OS concepts, procedures, primitive data types, user-defined types. Topics may include process management, memory management, process coordination and synchronization, inter-process communication, file systems, networking, pointers, heap and stack memory management, and system/library calls.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -192,10 +158,7 @@
       "credit": "0.5",
       "description": "Introduction to the design and implementation of abstract data types and to complexity analysis of data structures. Topics include: stacks, queues, lists, trees and graphs. Special attention is given to abstraction, interface specification and hierarchical design using an object-oriented programming language.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -205,10 +168,7 @@
       "credit": "0.5",
       "description": "Introduction to object-oriented software development, with emphasis on the design and implementation of maintainable, reusable software. Topics include abstraction, modularity, encapsulation, and an introduction to design patterns.",
       "prerequisites": "COMP 2401 with a minimum grade of C- .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -218,10 +178,7 @@
       "credit": "0.5",
       "description": "Introduction to Internet application development; emphasis on computer science fundamentals of technologies underlying web applications. Topics include: scripting and functional languages, language-based virtual machines, database query languages, remote procedure calls over the Internet, and performance and security concerns in modern distributed applications.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -231,9 +188,7 @@
       "credit": "0.5",
       "description": "Introduction to the practical development of computer games and engine architecture. Topics include: vector and matrix operations; coordinate systems and transformations; physical simulation; collision detection; AI; path planning; hardware-accelerated real-time rendering. Special attention is given to implementation of real-time rendering in a low-level language.",
       "prerequisites": "COMP 2401 with a minimum grade of C- , and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -253,9 +208,7 @@
       "credit": "0.5",
       "description": "A course on programming simulated mobile robots with various sensors such as wheel encoders, distance sensors, cameras, compasses, accelerometers, and laser range finders. Topics include: programming robot behaviour; performing position estimation; implementing algorithms related to navigation, mapping, path planning, area coverage, and localization.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -265,10 +218,7 @@
       "credit": "0.5",
       "description": "A second course in discrete mathematics and discrete structures. Topics include: counting, sequences and sums, discrete probability, basic statistics, recurrence relations, randomized algorithms. Material is illustrated through examples from computing.",
       "prerequisites": "COMP 1805 with a minimum grade of C- , or permission of the School of Computer Science for those in Combined Honours in Computer Science and Mathematics.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -278,10 +228,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 1911 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -291,10 +238,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 2910 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -304,10 +248,7 @@
       "credit": "0.5",
       "description": "Operating system implementation course stressing fundamental issues in design and how they relate to modern computer architectures. Assignments involve the modification and extension of a multitasking operating system.",
       "prerequisites": "COMP 2401 with a minimum grade of C- and COMP 2402 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -317,9 +258,7 @@
       "credit": "0.5",
       "description": "The structure, organization and design of the phases of a compiler are considered: lexical translators, syntactical translators, scope handlers, type checkers, code generators and optimizers. Components of a compiler will be implemented.",
       "prerequisites": "COMP 2402 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -329,10 +268,7 @@
       "credit": "0.5",
       "description": "Development of object-oriented software systems: theory and practice. Topics include: Computer ethics, software development processes, requirement specification, class and scenario modeling, state modeling, UML, design patterns, traceability. Students are to complete a team project.",
       "prerequisites": "COMP 2401 with a minimum grade of C- , ( COMP 2404 or SYSC 3010 or SYSC 3110 ) with a minimum grade of C- , and ( COMP 2406 or SYSC 4504 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -342,10 +278,7 @@
       "credit": "0.5",
       "description": "Introduction to the concepts of database management systems and database design. Topics may include: entity-relationship modelling, normalization, reduction to relational schemas, SQL, file and data organization, indexing, hash tables, join algorithms, query processing, query optimization, and concurrency control.",
       "prerequisites": "COMP 1805 with a minimum grade of C- , and either COMP 2402 or ( SYSC 2004 and SYSC 2100 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -355,10 +288,7 @@
       "credit": "0.5",
       "description": "An introduction to alternative programming paradigms such as functional, constraint-based, concurrent, and logic programming.",
       "prerequisites": "COMP 1805 with a minimum grade of C- , COMP 2401 with a minimum grade of C- , COMP 2402 , ( COMP 2404 or SYSC 3010 or SYSC 3110 ) and ( COMP 2406 or SYSC 4504 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -368,10 +298,7 @@
       "credit": "0.5",
       "description": "Concepts and principles related to building user interfaces, and applications in implementing interfaces in \u201cfront-end\u201d programming contexts. Topics may include: reactive programming, input and output factors, application interfaces and infrastructure, typical patterns used to implement them, and organization and management of these aspects within software.",
       "prerequisites": "( COMP 2404 or SYSC 3010 or SYSC 3110 ) and ( COMP 2406 or SYSC 4504 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -381,9 +308,7 @@
       "credit": "0.5",
       "description": "An introduction to methods for automated learning of relationships on the basis of empirical data. Includes topics in supervised and unsupervised machine learning and deeper knowledge of specific algorithms and their applications. Evaluation and quantification of performance of ML systems. Discussion of data ethics.",
       "prerequisites": "COMP 2402 and ( COMP 2404 or SYSC 3010 or SYSC 3110 ) and COMP 2804 and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -393,9 +318,7 @@
       "credit": "0.5",
       "description": "Principles and tools used in Artificial Intelligence. Fundamentals of Knowledge Representation and Reinforcement Learning and Nature-Based computing. Methods for non-adversarial problem solving including non-exhaustive and heuristic-based strategies for searching the state space. Methods for adversarial problem solving, modeled as two-person and multi-person games.",
       "prerequisites": "COMP 2402 and ( COMP 2404 or SYSC 3010 or SYSC 3110 ) and COMP 2804 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -405,10 +328,7 @@
       "credit": "0.5",
       "description": "This is an introductory course to the field of Network Computing. Topics include: Protocol Architectures and Internetworking, Types of Networks, Communication Protocols, End-System and Network Traffic Management, Structure of Routing and Congestion Control.",
       "prerequisites": "COMP 2401 with a minimum grade of C- , and COMP 2402 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -438,9 +358,7 @@
       "credit": "0.5",
       "description": "The theory and practice of 3D graphics for computer games. Topics include: vectors and quaternions; hierarchical transformations; camera and perspective; hardware-accelerated real-time rendering; texture and texture mapping; illumination; and particle systems. Additional topics may include rigid-body motion, character animation, shadows, and screen-space special effects.",
       "prerequisites": "COMP 2402 and ( COMP 2404 or SYSC 3010 or SYSC 3110 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -450,9 +368,7 @@
       "credit": "0.5",
       "description": "Theoretical aspects of computer science. Topics include: formal languages and automata theory, computability theory.",
       "prerequisites": "COMP 2804 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -462,10 +378,7 @@
       "credit": "0.5",
       "description": "An introduction to the design and analysis of algorithms. Topics include: divide-and-conquer, dynamic programming, linear programming, greedy algorithms, graph algorithms, NP-completeness.",
       "prerequisites": "COMP 2402 and one of ( COMP 2804 or COMP 3805 or MATH 3825 or MATH 3855 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -475,9 +388,7 @@
       "credit": "0.5",
       "description": "Enumeration: inclusion and exclusion, recurrence relations, generating functions and applications. Graph theory: connectivity, planarity, Hamilton paths and Euler trails. Error-correcting codes. Designs and finite geometries. Symmetry and counting.",
       "prerequisites": "MATH 2100 or a grade of B or higher in MATH 2108 or MATH 3101 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -497,10 +408,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 2911 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -510,10 +418,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 3910 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -533,9 +438,7 @@
       "credit": "0.5",
       "description": "An advanced course on the software infrastructure supporting large-scale cloud computing applications. Topics may include: distributed file systems, distributed databases, overlay networks, container orchestration, coordination services, security and privacy services, and large-scale AI pipelines.",
       "prerequisites": "( COMP 3000 or SYSC 4001 ) and ( COMP 3203 or SYSC 4602 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -545,9 +448,7 @@
       "credit": "0.5",
       "description": "Overview of distributed computing. Topics include: computational models, communication complexity, design and analysis of distributed algorithms and protocols, fault-tolerant protocols, synchronous computations. Applications may include: communication in data networks, control in distributed system (e.g., election, distributed mutual exclusion), manipulation of distributed data (e.g., ranking).",
       "prerequisites": "COMP 1805 with a minimum grade of C- , COMP 2401 with a minimum grade of C- , and ( COMP 2406 or SYSC 4504 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -577,9 +478,7 @@
       "credit": "0.5",
       "description": "Introduction to the theory and practice of Software Quality Assurance. Topics include: equivalence partitioning, test-driven testing, unit testing patterns, refactoring, software metrics, requirements engineering, scenario modeling and acceptance testing, model-based testing, state machine testing, software testing theory and tools.",
       "prerequisites": "COMP 3004 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -609,9 +508,7 @@
       "credit": "0.5",
       "description": "Learn about designing and programming reinforcement learning agents to perform complex tasks in interactive environments. Topics include Markov decision processes, dynamic programming methods, Monte Carlo methods, temporal difference learning, prediction/control with function approximation, policy gradient, and deep reinforcement learning algorithms.",
       "prerequisites": "COMP 2402 , ( COMP 2404 or SYSC 3010 or SYSC 3110 ), ( MATH 1004 or MATH  1007), ( MATH 1104 or MATH 1107 ), and ( DATA 1517 or STAT 2507 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -621,9 +518,7 @@
       "credit": "0.5",
       "description": "The basic ideas and techniques of computer vision. The central theme is reconstructing 3D models from 2D images. Topics include: image formation, image feature extraction, camera models, camera calibration, structure from motion, stereo, recognition, augmented reality, image searching.",
       "prerequisites": "( COMP 2404 or SYSC 3010 or SYSC 3110 ) and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -633,9 +528,7 @@
       "credit": "0.5",
       "description": "An introduction to neural networks and deep learning. Theory and application of Neural Networks to problems in machine learning. Various network architectures will be discussed. Methods for improving optimization and generalization of neural networks. Neural networks for unsupervised learning.",
       "prerequisites": "( COMP 3105 or SYSC 4415 ) and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -645,10 +538,7 @@
       "credit": "0.5",
       "description": "Information security in computer and communications systems. Topics include: design principles; operating system security and access control; web and software security; malicious software, security infrastructure; secure email; network authentication; firewalls; intrusion detection; IP security; network attacks; wireless security.",
       "prerequisites": "COMP 2108 and ( COMP 3000 or SYSC 4001 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -668,9 +558,7 @@
       "credit": "0.5",
       "description": "Introduction to the ideas and principles of quantum computing and information. Review of mathematical foundations. Discussion of quantum theory, architecture, and quantum gates. Basic algorithms in quantum computing. Theoretical computer science and computation. Applications of quantum computing to cryptography. Quantum information and error correction.",
       "prerequisites": "COMP 2804 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -690,9 +578,7 @@
       "credit": "0.5",
       "description": "Multiagent systems is a branch of artificial intelligence that explores the interactions between multiple rational entities, where each may have access to different information and possibly conflicting priorities. This course takes an approach founded on economic game theory.",
       "prerequisites": "COMP 3106 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -712,9 +598,7 @@
       "credit": "0.5",
       "description": "An introduction to wireless networks covering both networking issues and security aspects of modern wireless environments. Fundamentals of mobile LANs, ad hoc, sensor networks, secure routing, searching, clustering, multicasting, localization, mobile IP/TCP, confidentiality, key establishment, authentication, broadcasting, RFIDs, and rogue attacks.",
       "prerequisites": "COMP 3203 or SYSC 4602 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -734,9 +618,7 @@
       "credit": "0.5",
       "description": "A practical course on the design and implementation of modern game engines and advanced facilities provided by these engines. Such facilities include systems for rendering 3D scenes; simulating physics; playing animations; game AI; and enabling multi-player games. Students will undertake a significant game development project.",
       "prerequisites": "COMP 3501 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -746,9 +628,7 @@
       "credit": "0.5",
       "description": "An overview of computer graphics, with an emphasis on rendering. Topics include the following: visibility; ray tracing; graphics hardware; object and scene modeling; lighting, shading, and texture; animation.",
       "prerequisites": "COMP 2401 with a minimum grade of C- , COMP 2402 , ( MATH 1004 or MATH 1007 ), and ( MATH 1104 or MATH 1107 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -758,9 +638,7 @@
       "credit": "0.5",
       "description": "Introduction to the principles and practice of creation, delivery and analysis of multimedia content in web-based systems. Topics include analysis of webs of documents, social network analysis, recommender systems and problems of trust, reputation and influence in e-commerce systems.",
       "prerequisites": "( COMP 2404 or SYSC 3010 or SYSC 3110 ) and ( COMP 2406 or COMP 2601 or SYSC 4504 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -770,9 +648,7 @@
       "credit": "0.5",
       "description": "Introduction to virtual communities, overlay networks and social networking. Topics include architectural principles for heterogeneous social networking platforms, trust and reputation as social concepts, agent-based computing, and extraction of trends and patterns from information exchanged between community members.",
       "prerequisites": "(( COMP 2404 or SYSC 3010 or SYSC 3110 ) and ( COMP 2406 or SYSC 4504 )) or COMP 2601 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -782,9 +658,7 @@
       "credit": "0.5",
       "description": "This course examines ethical questions raised by computing technologies - both motivated by recent developments and through the lens of fiction. Students will identify possible ethical issues in future technologies and use formal ethics frameworks to evaluate the merits and pitfalls of different solutions.",
       "prerequisites": "Any two of COMP 2108 , COMP 3004 , COMP 3005 , COMP 3008 , ( COMP 3105 or SYSC 4415 ), COMP 3106 , COMP 3804 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -794,9 +668,7 @@
       "credit": "0.5",
       "description": "Algorithm design techniques for modern data sets arising in, for example, data mining, web analytics, search engines and social networks. Topics may include locality-sensitive hashing, data streaming, clustering, recommendation systems, link analysis, dimensionality reduction, online algorithms, social network analysis, graph partitioning, and randomized algorithms.",
       "prerequisites": "COMP 2804 with a minimum grade of B+ .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -816,9 +688,7 @@
       "credit": "0.5",
       "description": "A second course on the design and analysis of algorithms. Topics include: advanced recurrence relations, algebraic complexity, advanced graph algorithms, amortized analysis, algorithms for NP-complete problems, randomized algorithms.",
       "prerequisites": "COMP 3804 or MATH 3804 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -828,9 +698,7 @@
       "credit": "0.5",
       "description": "Finite automata and regular expressions, properties of regular sets, context-free grammars, pushdown automata, deterministic context-free languages. Turing machines, the Chomsky hierarchy. Undecidability, intractable problems.",
       "prerequisites": "COMP 3805 or MATH 3106 or MATH 3158 (or MATH 3100) or permission of the School.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -840,9 +708,7 @@
       "credit": "0.5",
       "description": "Computational methods in numerical linear algebra including solvers for large linear systems, numerical optimization and eigenvalue problems. Application to topics such as scientific machine learning or parallel computing. Focus on implementation in an efficient compiled language and standard numerical libraries.",
       "prerequisites": "i) MATH 3806 ; and ii) MATH 2152 or MATH 2107 with a grade of C- or higher, or permission of the school.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -852,10 +718,7 @@
       "credit": "0.5",
       "description": "Advanced topics in Computer Science offered by members of the School of Computer Science.",
       "prerequisites": "permission of the School of Computer Science.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -875,10 +738,7 @@
       "credit": "0.5",
       "description": "Under the supervision of a faculty member, Honours students complete a major Computer Science project in fourth year. Permission to register is granted once an approved project proposal is submitted to the Department. See deadlines and details on the School website.",
       "prerequisites": "fourth-year standing in an Honours program and permission of the School of Computer Science.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -888,10 +748,7 @@
       "credit": "1.0",
       "description": "Independent research under the direct supervision of a faculty advisor. Permission to register is granted once an approved thesis proposal is submitted to the School of Computer Science. Evaluation is based on a written thesis and a poster presentation.",
       "prerequisites": "fourth-year standing in an Honours program with a minimum CGPA of 9.0 in the major and permission of the School of Computer Science.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -901,10 +758,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 3911 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -914,10 +768,7 @@
       "credit": "0.5",
       "description": "The internship exposes students to industrial software development via placement in a local enterprise. The course may only be taken by students participating in one of the School's industrial partnerships and can only be used as a free elective in the B.C.S. program.",
       "prerequisites": "COMP 4910 and registration in internship option.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -927,9 +778,7 @@
       "credit": "0.5",
       "description": "Block ciphers and modes of operation; public-key encryption; cryptographic hash functions; digital signatures; password-based cryptography; randomness and guesswork; authentication and authenticated key establishment protocols; challenge-response protocols; elliptic curve cryptography; post-quantum algorithms.",
       "prerequisites": "( COMP 1006 or COMP 1406 ) with a minimum grade of C- , ( COMP 2804 or STAT 2507 ), and MATH 1104 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1199,18 +1048,6 @@
           "description": "Design and Analysis of Algorithms I"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 2000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -1227,30 +1064,12 @@
           "description": "Linear Algebra for Engineering or Science"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in MATH at the 2000-level or above"
-        },
-        {
           "type": "required",
           "courses": [
             "STAT 2507"
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives."
         }
       ]
     },
@@ -1394,12 +1213,6 @@
           "description": "Design and Analysis of Algorithms II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -1416,30 +1229,12 @@
           "description": "Linear Algebra for Engineering or Science"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in MATH at the 2000-level or above"
-        },
-        {
           "type": "required",
           "courses": [
             "STAT 2507"
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives"
         }
       ]
     },
@@ -1575,12 +1370,6 @@
           "description": "Neural Networks"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -1605,30 +1394,12 @@
           "description": "0.5 credit from: 0.5"
         },
         {
-          "type": "choose",
-          "courses": [],
-          "credits": 0.5,
-          "description": "or 0.5 credit in MATH at the 2000-level or above"
-        },
-        {
           "type": "required",
           "courses": [
             "STAT 2507"
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in free electives"
         }
       ]
     },
@@ -1756,58 +1527,17 @@
           "description": "Advanced Facilities for Real-Time Games"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 1501"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Game Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2501"
-          ],
-          "credits": 0.5,
-          "description": "Computer Game Design and Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3008"
-          ],
-          "credits": 0.5,
-          "description": "Software Structures for User Interfaces"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3106"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Artificial Intelligence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3203"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Computer Networks"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 1501",
+            "COMP 2501",
+            "COMP 3008",
+            "COMP 3106",
+            "COMP 3203",
             "COMP 4509"
           ],
-          "credits": 0.5,
-          "description": "Computer Graphics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in COMP at the 4000-level"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1826,30 +1556,12 @@
           "description": "Linear Algebra for Engineering or Science"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in MATH at the 2000-level or above"
-        },
-        {
           "type": "required",
           "courses": [
             "STAT 2507"
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives"
         }
       ]
     },
@@ -1993,12 +1705,6 @@
           "description": "Computer Systems Security"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -2015,30 +1721,12 @@
           "description": "Linear Algebra for Engineering or Science"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in MATH at the 2000-level or above"
-        },
-        {
           "type": "required",
           "courses": [
             "STAT 2507"
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives"
         }
       ]
     },
@@ -2150,18 +1838,6 @@
           "description": "Design and Analysis of Algorithms I"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 2000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -2176,12 +1852,6 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra for Engineering or Science"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in MATH at the 2000-level or above"
         },
         {
           "type": "required",
@@ -2256,18 +1926,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Macroeconomics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit in BUSI at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives."
         }
       ]
     },
@@ -2411,32 +2069,13 @@
           "description": "The Software Economy and Project Management"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in COMP at the 4000-level"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary Calculus I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1007",
             "MATH 1104"
           ],
-          "credits": 0.5,
-          "description": "Linear Algebra for Engineering or Science"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in MATH at the 2000-level or above"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -2445,18 +2084,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in free electives."
         }
       ]
     },
@@ -2592,12 +2219,6 @@
           "description": "Evaluation and Research Methods for Human-Computer Interaction"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -2628,18 +2249,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in free electives"
         }
       ]
     },
@@ -2812,18 +2421,6 @@
           "description": "Programming Paradigms"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in COMP at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -2846,18 +2443,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits in Breadth Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 6.0,
-          "description": "6.0 credits in free electives."
         }
       ]
     },
@@ -3025,20 +2610,13 @@
           "description": "Discrete Structures and Applications (Honours)"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 4905"
-          ],
-          "credits": 0.5,
-          "description": "Honours Project"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 4905",
             "MATH 4905"
           ],
           "credits": 0.5,
-          "description": "Honours Project (Honours)"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -3089,158 +2667,35 @@
           "description": "Design and Analysis of Algorithms II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 3001"
-          ],
-          "credits": 0.5,
-          "description": "Real Analysis I (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 3002"
-          ],
-          "credits": 0.5,
-          "description": "Real Analysis II (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 3003"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Differential Calculus (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 3057"
-          ],
-          "credits": 0.5,
-          "description": "Functions of a Complex Variable (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 3001",
+            "MATH 3002",
+            "MATH 3003",
+            "MATH 3057",
             "MATH 3008"
           ],
           "credits": 0.5,
-          "description": "Ordinary Differential Equations (Honours)"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 4109"
-          ],
-          "credits": 0.5,
-          "description": "Fields and Coding Theory (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4801"
-          ],
-          "credits": 0.5,
-          "description": "Topics in Combinatorics (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4802"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Mathematical Logic (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4803"
-          ],
-          "credits": 0.5,
-          "description": "Computable Functions (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4805"
-          ],
-          "credits": 0.5,
-          "description": "Theory of Automata (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4806"
-          ],
-          "credits": 0.5,
-          "description": "Scientific Computing II (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4807"
-          ],
-          "credits": 0.5,
-          "description": "Game Theory (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4808"
-          ],
-          "credits": 0.5,
-          "description": "Graph Theory and Algorithms (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4811"
-          ],
-          "credits": 0.5,
-          "description": "Combinatorial Design Theory (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4816"
-          ],
-          "credits": 0.5,
-          "description": "Numerical Analysis for Differential Equations (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 4821"
-          ],
-          "credits": 0.5,
-          "description": "Quantum Computing (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 4109",
+            "MATH 4801",
+            "MATH 4802",
+            "MATH 4803",
+            "MATH 4805",
+            "MATH 4806",
+            "MATH 4807",
+            "MATH 4808",
+            "MATH 4811",
+            "MATH 4816",
+            "MATH 4821",
             "MATH 4822"
           ],
-          "credits": 0.5,
-          "description": "Wavelets and Digital Signal Processing (Honours)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 3000 level or above."
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 1.0,
-          "description": "a.  1.0 credit in Natural Science electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "b. 3.0 credits from Natural Science, or Approved Arts and Social Sciences electives"
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -3448,20 +2903,13 @@
           "description": "Discrete Structures and Applications (Honours)"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 4905"
-          ],
-          "credits": 0.5,
-          "description": "Honours Project"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 4905",
             "STAT 4905"
           ],
           "credits": 0.5,
-          "description": "Honours Project (Honours)"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -3512,44 +2960,13 @@
           "description": "Mathematical Statistics (Honours)"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "STAT 3506"
-          ],
-          "credits": 0.5,
-          "description": "Stochastic Processes and Applications (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "STAT 3506",
             "STAT 3553"
           ],
           "credits": 0.5,
-          "description": "Regression Modeling (Honours)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in STAT at the 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "a.  1.0 credit in Natural Science electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "b. 2.5 credits from Natural Science, or Approved Arts and Social Sciences electives"
+          "description": "0.5 credit from:"
         }
       ]
     },
@@ -3677,44 +3094,16 @@
           "description": "Systems Security"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 3002"
-          ],
-          "credits": 0.5,
-          "description": "Compiler Construction"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3301"
-          ],
-          "credits": 0.5,
-          "description": "Technical Writing for Computer Science"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4004"
-          ],
-          "credits": 0.5,
-          "description": "Software Quality Assurance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4203"
-          ],
-          "credits": 0.5,
-          "description": "Wireless Networks and Security"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 3002",
+            "COMP 3301",
+            "COMP 4004",
+            "COMP 4203",
             "MATH 2108"
           ],
-          "credits": 0.5,
-          "description": "Abstract Algebra I"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -3787,12 +3176,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.0,
-          "description": "7.0 credits in free electives"
         }
       ]
     },
@@ -3840,30 +3223,12 @@
           "description": "Introduction to Software Engineering"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "COMP 1805"
           ],
-          "credits": 0.5,
-          "description": "Discrete Structures I (and/or COMP at the 2000-level or above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "Course equivalencies and transfer credits can be used for at most 2.0 credits of the minor; the remaining 2.0 credits must be courses listed in the COMP section of this Calendar"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         }
       ]
     }

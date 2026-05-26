@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "An interdisciplinary introduction to the history, culture, societies, and literatures of the region. Students will get a broad overview of the region and will be  introduced to the  disciplines used to study these societies.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,10 +18,7 @@
       "credit": "0.5",
       "description": "A study of the global dynamics affecting Latin America and the Caribbean today. Themes addressed will include globalization,  neoliberalism, underdevelopment, populism, social movements, political ideas, and migration.",
       "prerequisites": "second-year standing.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -33,9 +28,7 @@
       "credit": "0.5",
       "description": "An examination of the major issues confronting Latin America and the Caribbean including democratization, economic integration, indigenous and women\u2019s movements, human rights, social justice, and political change.",
       "prerequisites": "fourth-year standing or permission from Latin American and Caribbean Studies.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -68,12 +61,6 @@
     {
       "degree": "Specialization in Latin American and Caribbean Studies B.G.In.S. Honours (20.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in: Core Courses"
-        },
         {
           "type": "required",
           "courses": [
@@ -147,36 +134,12 @@
           "description": "Honours Seminar in Global and International Studies"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credit in: International Experience Requirement Preparation"
-        },
-        {
           "type": "required",
           "courses": [
             "GINS 1300"
           ],
           "credits": 0.0,
           "description": "International Experience Requirement Preparation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.5,
-          "description": "7.5 credits in: the Specialization"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Note: Language Requirement - Students choosing the Latin America and Caribbean Studies Specialization must fulfil their language requirement with a language relevant to Latin America and the Caribbean other than English. The Program Director will maintain a list of those languages suitable for meeting this requirement."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "a. 0.5 credit in : Foundations"
         },
         {
           "type": "required",
@@ -196,633 +159,117 @@
         },
         {
           "type": "choose",
-          "courses": [],
+          "courses": [
+            "HIST 2308",
+            "HIST 2309",
+            "HIST 2710",
+            "HIST 4704"
+          ],
           "credits": 1.0,
           "description": "b. 1.0 credit from: History"
         },
         {
-          "type": "required",
-          "courses": [
-            "HIST 2308"
-          ],
-          "credits": 0.5,
-          "description": "Colonial Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 4704"
-          ],
-          "credits": 0.5,
-          "description": "Caribbean and Latin American History"
-        },
-        {
           "type": "choose",
-          "courses": [],
+          "courses": [
+            "PSCI 3204",
+            "PSCI 3205"
+          ],
           "credits": 0.5,
           "description": "c. 0.5 credit from: Politics"
         },
         {
-          "type": "required",
-          "courses": [
-            "PSCI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Mexican Politics"
-        },
-        {
           "type": "choose",
-          "courses": [],
+          "courses": [
+            "ANTH 2640",
+            "ANTH 4730",
+            "ENGL 2956",
+            "ENGL 2957",
+            "GEOG 3023",
+            "GEOG 3025",
+            "GEOG 3030",
+            "GINS 4900",
+            "GINS 4908",
+            "HIST 3704",
+            "HIST 3710",
+            "HIST 3712",
+            "HIST 3713",
+            "HIST 4700",
+            "HIST 4915",
+            "LACS 1001",
+            "LACS 2001",
+            "LACS 4001",
+            "LACS 4819",
+            "PSCI 4819",
+            "SOCI 4730"
+          ],
           "credits": 3.5,
           "description": "d. 3.5 credits from: Courses with LACS Content"
         },
         {
-          "type": "required",
-          "courses": [
-            "ANTH 2640"
-          ],
-          "credits": 0.5,
-          "description": "Latin America and the Caribbean through Ethnography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 4730"
-          ],
-          "credits": 0.5,
-          "description": "Colonialism and Post-Colonialism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2956"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3023"
-          ],
-          "credits": 0.5,
-          "description": "Cities in a Global World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3025"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of Selected Regions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3030"
-          ],
-          "credits": 0.5,
-          "description": "Regional Field Excursion"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GINS 4900"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Global and International Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GINS 4908"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Essay"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3704"
-          ],
-          "credits": 0.5,
-          "description": "Aztecs"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3712"
-          ],
-          "credits": 0.5,
-          "description": "Mexico: Aztecs to Narcos"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3713"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Sexuality in Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 4700"
-          ],
-          "credits": 1.0,
-          "description": "Seminar in World History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 4915"
-          ],
-          "credits": 0.5,
-          "description": "Topics in History (topics in LACS)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 1001"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Latin American and Caribbean Studies I (if not used toward Item a. Foundations, above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 2001"
-          ],
-          "credits": 0.5,
-          "description": "Latin America and the Caribbean in Global Context (if not used toward Item a. Foundations, above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 4001"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Latin American and Caribbean Studies (if not used toward Item f. Capstone Seminar, below)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 4819",
-            "PSCI 4819"
-          ],
-          "credits": 0.5,
-          "description": "Latin America and the World (if not used toward Item f. Capstone Seminar, below)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 4730"
-          ],
-          "credits": 0.5,
-          "description": "Colonialism and Post-Colonialism"
-        },
-        {
           "type": "choose",
-          "courses": [],
+          "courses": [
+            "ANTH 2020",
+            "ANTH 2040",
+            "ANTH 2850",
+            "ANTH 3020",
+            "ANTH 3027",
+            "ANTH 3600",
+            "ECON 3508",
+            "ECON 4507",
+            "ECON 4508",
+            "ENGL 3965",
+            "ENGL 3972",
+            "ENGL 4802",
+            "ENGL 4947",
+            "ENGL 4975",
+            "ENGL 4976",
+            "GEOG 2200",
+            "GEOG 2300",
+            "GEOG 3021",
+            "GEOG 3024",
+            "GEOG 3209",
+            "GEOG 3404",
+            "GEOG 4024",
+            "HRSJ 2202",
+            "HRSJ 2401",
+            "HRSJ 3501",
+            "HRSJ 3503",
+            "HRSJ 4201",
+            "LAWS 3208",
+            "MGDS 2000",
+            "PSCI 2102",
+            "PSCI 2602",
+            "PSCI 3105",
+            "PSCI 3307",
+            "PSCI 3502",
+            "PSCI 3600",
+            "PSCI 3802",
+            "PSCI 4104",
+            "PSCI 4105",
+            "PSCI 4500",
+            "PSCI 4505",
+            "SOCI 2020",
+            "SOCI 3020",
+            "SOCI 3027"
+          ],
           "credits": 1.5,
           "description": "e. 1.5 credits from: Context"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2040"
-          ],
-          "credits": 0.5,
-          "description": "Anthropology and Gender"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2850"
-          ],
-          "credits": 0.5,
-          "description": "Anthropology of Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 3027"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 3600"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Anthropology and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3508"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4507"
-          ],
-          "credits": 0.5,
-          "description": "The Economics of Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4508"
-          ],
-          "credits": 0.5,
-          "description": "International Aspects of Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3965"
-          ],
-          "credits": 0.5,
-          "description": "Intro to Postcolonial Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3972"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Postcolonial Literature"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4802"
-          ],
-          "credits": 0.5,
-          "description": "Race, Ethnicity and Canadian Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4947"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Diaspora Literature"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4975"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Postcolonial Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4976"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Postcolonial Literature"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 2200"
-          ],
-          "credits": 0.5,
-          "description": "Global Connections"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 2300"
-          ],
-          "credits": 0.5,
-          "description": "Space, Place and Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3021"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of Culture and Identity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3024"
-          ],
-          "credits": 0.5,
-          "description": "Understanding Globalization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3209"
-          ],
-          "credits": 0.5,
-          "description": "Sustainability and Environment in the South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3404"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 4024"
-          ],
-          "credits": 0.5,
-          "description": "Seminar in Globalization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 2202"
-          ],
-          "credits": 0.5,
-          "description": "Power Relations and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 2401"
-          ],
-          "credits": 0.5,
-          "description": "Political Repression"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3501"
-          ],
-          "credits": 0.5,
-          "description": "Social, Economic and Cultural Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3503"
-          ],
-          "credits": 0.5,
-          "description": "Global Environmental Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4201"
-          ],
-          "credits": 0.5,
-          "description": "Citizenship and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3208"
-          ],
-          "credits": 0.5,
-          "description": "International Trade Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MGDS 2000"
-          ],
-          "credits": 0.5,
-          "description": "Global Migration and Transnationalism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2102"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2602"
-          ],
-          "credits": 0.5,
-          "description": "International Relations: Global Political Economy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3105"
-          ],
-          "credits": 0.5,
-          "description": "Imperialism and Decolonization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3307"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3502"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Politics: Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3600"
-          ],
-          "credits": 0.5,
-          "description": "International Institutions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3802"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4104"
-          ],
-          "credits": 0.5,
-          "description": "Development in the Global South - Theory and Practice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Selected Problems in Development in the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4500"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Globalization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4505"
-          ],
-          "credits": 0.5,
-          "description": "Transitions to Democracy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3027"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "f. 0.5 credit in: Capstone Seminar"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 4001"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Latin American and Caribbean Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LACS 4001",
             "LACS 4819",
             "PSCI 4819"
           ],
           "credits": 0.5,
-          "description": "Latin America and the World"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The International Experience requirement must be met"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The Language requirement must be met"
+          "description": "f. 0.5 credit in: Capstone Seminar"
         }
       ]
     },
     {
       "degree": "Stream in Latin American and Caribbean Studies B.G.In.S. (15.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in: Core Courses"
-        },
         {
           "type": "required",
           "courses": [
@@ -889,457 +336,88 @@
         },
         {
           "type": "choose",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits from: the Stream"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Note: Language Requirement - Students choosing the Latin America and Caribbean Studies Stream must fulfil their language requirement with a language relevant to Latin America and the Caribbean other than English. The Program Director will maintain a list of those languagages suitable for meeting this requirement."
-        },
-        {
-          "type": "elective",
-          "courses": [],
+          "courses": [
+            "LACS 1001",
+            "LACS 2001"
+          ],
           "credits": null,
           "description": "a. Foundations"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LACS 1001"
+            "HIST 2308",
+            "HIST 2309",
+            "HIST 2710"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Latin American and Caribbean Studies I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 2001"
-          ],
-          "credits": 0.5,
-          "description": "Latin America and the Caribbean in Global Context"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
           "description": "b. History"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 2308"
+            "PSCI 3204",
+            "PSCI 3205"
           ],
-          "credits": 0.5,
-          "description": "Colonial Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
           "description": "c. Politics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3204"
+            "ANTH 2640",
+            "ENGL 2956",
+            "ENGL 2957",
+            "GEOG 3023",
+            "GEOG 3025",
+            "GEOG 3030",
+            "HIST 3704",
+            "HIST 3710",
+            "HIST 3712",
+            "HIST 3713",
+            "LACS 1001",
+            "LACS 2001"
           ],
-          "credits": 0.5,
-          "description": "Politics of Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Mexican Politics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
           "description": "d. Courses with LACS Content"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 2640"
-          ],
-          "credits": 0.5,
-          "description": "Latin America and the Caribbean through Ethnography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2956"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3023"
-          ],
-          "credits": 0.5,
-          "description": "Cities in a Global World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3025"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of Selected Regions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3030"
-          ],
-          "credits": 0.5,
-          "description": "Regional Field Excursion"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3704"
-          ],
-          "credits": 0.5,
-          "description": "Aztecs"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3712"
-          ],
-          "credits": 0.5,
-          "description": "Mexico: Aztecs to Narcos"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3713"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Sexuality in Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 1001"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Latin American and Caribbean Studies I (if not used toward Item a. Foundations, above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LACS 2001"
-          ],
-          "credits": 0.5,
-          "description": "Latin America and the Caribbean in Global Context (if not used toward Item a. Foundations, above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "e. Context"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2040"
-          ],
-          "credits": 0.5,
-          "description": "Anthropology and Gender"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2850"
-          ],
-          "credits": 0.5,
-          "description": "Anthropology of Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 3027"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 3600"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Anthropology and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3508"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3965"
-          ],
-          "credits": 0.5,
-          "description": "Intro to Postcolonial Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3972"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Postcolonial Literature"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 2200"
-          ],
-          "credits": 0.5,
-          "description": "Global Connections"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 2300"
-          ],
-          "credits": 0.5,
-          "description": "Space, Place and Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3021"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of Culture and Identity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3024"
-          ],
-          "credits": 0.5,
-          "description": "Understanding Globalization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3209"
-          ],
-          "credits": 0.5,
-          "description": "Sustainability and Environment in the South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3404"
-          ],
-          "credits": 0.5,
-          "description": "Geographies of Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 2202"
-          ],
-          "credits": 0.5,
-          "description": "Power Relations and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 2401"
-          ],
-          "credits": 0.5,
-          "description": "Political Repression"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3501"
-          ],
-          "credits": 0.5,
-          "description": "Social, Economic and Cultural Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3503"
-          ],
-          "credits": 0.5,
-          "description": "Global Environmental Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3208"
-          ],
-          "credits": 0.5,
-          "description": "International Trade Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MGDS 2000"
-          ],
-          "credits": 0.5,
-          "description": "Global Migration and Transnationalism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2102"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2602"
-          ],
-          "credits": 0.5,
-          "description": "International Relations: Global Political Economy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3105"
-          ],
-          "credits": 0.5,
-          "description": "Imperialism and Decolonization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3307"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3502"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Politics: Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3600"
-          ],
-          "credits": 0.5,
-          "description": "International Institutions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3802"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ANTH 2020",
+            "ANTH 2040",
+            "ANTH 2850",
+            "ANTH 3020",
+            "ANTH 3027",
+            "ANTH 3600",
+            "ECON 3508",
+            "ENGL 3965",
+            "ENGL 3972",
+            "GEOG 2200",
+            "GEOG 2300",
+            "GEOG 3021",
+            "GEOG 3024",
+            "GEOG 3209",
+            "GEOG 3404",
+            "HRSJ 2202",
+            "HRSJ 2401",
+            "HRSJ 3501",
+            "HRSJ 3503",
+            "LAWS 3208",
+            "MGDS 2000",
+            "PSCI 2102",
+            "PSCI 2602",
+            "PSCI 3105",
+            "PSCI 3307",
+            "PSCI 3502",
+            "PSCI 3600",
+            "PSCI 3802",
+            "SOCI 2020",
+            "SOCI 3020",
             "SOCI 3027"
           ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.0,
-          "description": "7.0 credits in: Free Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
-          "description": "The Language requirement must be met."
+          "description": "e. Context"
         }
       ]
     },
@@ -1347,44 +425,13 @@
       "degree": "Minor in Latin American and Caribbean Studies (4.0 credits)",
       "requirements": [
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LACS 1001"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Latin American and Caribbean Studies I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LACS 1001",
             "LACS 2001"
           ],
           "credits": 0.5,
-          "description": "Latin America and the Caribbean in Global Context"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in Approved Latin American and Caribbean Studies Electives at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Approved Latin American and Caribbean Studies Electives at the 3000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "NOTE: Up to 1.5 credits in language courses relevant to Latin American and Caribbean Studies (Spanish, French, Portuguese) at any level may be substituted across items 2 and 3 above."
+          "description": "0.5 credit from:"
         }
       ]
     },

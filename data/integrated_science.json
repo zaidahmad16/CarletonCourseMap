@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "Interdisciplinary survey of current issues in science. Students will develop knowledge and skills in scientific inquiry, critical thinking, and communication. Structured around seminars, oral, and written presentations. Lectures and workshop three hours a week.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,9 +18,7 @@
       "credit": "0.5",
       "description": "Interdisciplinary survey of current issues in science, focusing on the challenges and opportunities for collaboration across scientific disciplines and beyond. Students will develop knowledge and skills in scientific inquiry, critical thinking, and communication, including an introduction to applied data science.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -52,9 +48,7 @@
       "credit": "0.5",
       "description": "What is science and the scientific method? Topics include the scientific method, credible sources of information, knowledge gaps, the impact of scientific discoveries, and discussion of their local and global implications.",
       "prerequisites": "Second year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -64,9 +58,7 @@
       "credit": "0.5",
       "description": "Exploring how research is conducted. Topics include publicly available databases, the role of communication in research, stakeholders and participants, and the process of identifying knowledge gaps and developing research questions.",
       "prerequisites": "Second year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -76,9 +68,7 @@
       "credit": "0.5",
       "description": "Data analysis strategies to tackle real-world, wicked problems. Includes a hands-on applied environmental data science project with a variety of partners. Topics include: obtaining and working with data, exploring causal relationships, data ethics, communicating data, and moving from data to information to action.",
       "prerequisites": "third-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -98,9 +88,7 @@
       "credit": "0.5",
       "description": "Making science accessible to non-experts is a fundamental goal of science communication. Students will learn practical skills in knowledge translation, tools for communicating science, theories of science communication, and more. Learning will take place through a combination of lectures, discussions, and project-based activities.",
       "prerequisites": "Third year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -110,9 +98,7 @@
       "credit": "0.5",
       "description": "Exploration of how science-related policy is developed and the impact of policy on science. Topics include policy frameworks, stakeholder roles, power relationships, commercialization and the funding of science.",
       "prerequisites": "Third year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -152,9 +138,7 @@
       "credit": "0.5",
       "description": "Learn how to make science matter beyond academia. Through hands-on exploration of co-production, knowledge mobilization, and participatory methods, students develop skills to connect research with communities, consider ethics and values, and design more inclusive, responsible, and impactful solutions to today\u2019s challenges.",
       "prerequisites": "Third year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -194,9 +178,7 @@
       "credit": "1.0",
       "description": "A substantial, independent essay or research proposal-based critical review and research proposal, using library, database and/or bioinformatic resources, under the direct supervision of the instructor. Topics include identification and critical review of resources, development of writing skills and formulation of research question and strategy.",
       "prerequisites": "fourth-year standing in the Interdisciplinary Science and Practice (ISAP) Honours program or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -206,10 +188,7 @@
       "credit": "1.0",
       "description": "An independent research project under the direct supervision of a faculty adviser. Evaluation is based on a written thesis and a poster presentation.",
       "prerequisites": "fourth-year standing in the Interdisciplinary Science and Practice (ISAP) Honours program, a major CGPA of 9.0 or higher, and permission of the Institute.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -317,36 +296,15 @@
           "description": "Science Policy"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ISAP 4906"
-          ],
-          "credits": 1.0,
-          "description": "Capstone Course - Group Research Project"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ISAP 4907"
-          ],
-          "credits": 1.0,
-          "description": "Capstone Course - Research Essay"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ISAP 4908"
-          ],
-          "credits": 1.0,
-          "description": "Capstone Course - Individual Research Project"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ISAP 4906",
+            "ISAP 4907",
+            "ISAP 4908",
             "ISAP 4909"
           ],
           "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -357,32 +315,13 @@
           "description": "Introduction to Statistical Modeling I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary Calculus I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1007",
             "MATH 1107"
           ],
           "credits": 0.5,
-          "description": "Linear Algebra I"
-        },
-        {
-          "type": "choose",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credit from the Faculty of Science at the 2000 level or higher"
-        },
-        {
-          "type": "choose",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits from the Faculty of Science at the 3000 level or higher"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -401,36 +340,12 @@
           "description": "Introduction to Macroeconomics"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Experimental Science Courses as defined in the Regulations for the Bachelor of Science"
-        },
-        {
           "type": "choose",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits from the Faculty of Science at the 2000 level or higher"
-        },
-        {
-          "type": "elective",
           "courses": [
             "ISAP 1000"
           ],
           "credits": 2.0,
-          "description": "2.0 credit in Approved courses outside the Faculties of Science and Engineering and Design, as defined in the Regulations for the Bachelor of Science.  Note: students in the ISAP program may not use ISAP 1000 in this category."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Students are required to complete one minor from the Faculty of Science.  A second minor (from any faculty, including Science) is encouraged. Students should consult with their academic advisor to ensure compliance with this requirement."
+          "description": "2.0 credits from the Faculty of Science at the 2000 level or higher"
         }
       ]
     },
@@ -510,32 +425,13 @@
           "description": "Introduction to Statistical Modeling I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary Calculus I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1007",
             "MATH 1107"
           ],
           "credits": 0.5,
-          "description": "Linear Algebra I"
-        },
-        {
-          "type": "choose",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credit from the Faculty of Science at the 2000 level or higher"
-        },
-        {
-          "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from the Faculty of Science at the 3000 level or higher"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -554,66 +450,18 @@
           "description": "Introduction to Macroeconomics"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Experimental Science Courses as defined in the Regulations for the Bachelor of Science"
-        },
-        {
           "type": "choose",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from the Faculty of Science at the 2000 level or higher"
-        },
-        {
-          "type": "elective",
           "courses": [
             "ISAP 1000"
           ],
           "credits": 1.0,
-          "description": "1.0 credit in Approved courses outside the Faculties of Science and Engineering and Design, as defined in the Regulations for the Bachelor of Science.  Note: students in the ISAP program may not use ISAP 1000 in this category."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Students are required to complete one Minor from the Faculty of Science.  A second Minor from outside the Faculty of Science may be possible. Students should consult with their academic advisor to ensure compliance with this requirement."
+          "description": "1.0 credit from the Faculty of Science at the 2000 level or higher"
         }
       ]
     },
     {
-      "degree": "Minor in Interdisciplinary Science Applications (4.0 credits)",
+      "degree": "Experimental Science Requirement",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in ISAP at the 1000- or 2000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in ISAP courses at the 3000- or 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation or Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied"
-        },
         {
           "type": "required",
           "courses": [

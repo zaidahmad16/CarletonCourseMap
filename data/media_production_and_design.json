@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "Introduction to Web development. Combining graphics, text, audio, and video to create Web sites; developing different, major working Web sites on an individual basis and in groups, using valid HTML5, cascading style sheets (CSS3), JavaScript and XML structures.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,9 +18,7 @@
       "credit": "0.5",
       "description": "Introduction to interactive multimedia and design, focused on the production and processes of animation, visual fx, game design and development, web design and development, and user experience/interfaces. Topics include: mark-up languages, design process/problem-solving tools, human-centered design, product development, ethics, and copyright and intellectual property.",
       "prerequisites": "For students not enrolled in CSIT programs.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -32,9 +28,7 @@
       "credit": "0.5",
       "description": "Introduction to basic concepts of procedural programming and algorithm design in C. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, structures, arrays, pointers, debugging, algorithmic thinking and pseudocode, computer architecture, operating systems, and libraries.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -44,9 +38,7 @@
       "credit": "0.5",
       "description": "Introduction to basic concepts of object-oriented scripting and algorithm design in Python. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, arrays, tuples, lists, debugging, algorithms and pseudocode, computer architecture, operating systems, and libraries.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -56,9 +48,7 @@
       "credit": "0.5",
       "description": "Issues involving the back-end organization of information focusing on databases and database design, server-side scripting, the structured query language (SQL), digital rights management, and watermarking.",
       "prerequisites": "BIT 1400 or ITEC 1400 or ITEC 1401 and IMD 1005 or IRM 1005 or ITEC 1005 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,9 +58,7 @@
       "credit": "0.5",
       "description": "Web-based data visualization techniques and systems. Good design practices for visualization, tools for visualization of data from a variety of fields, and programming of interactive web-based visualizations focusing on JavaScript, CSS, and related libraries.",
       "prerequisites": "ITEC 1005 and ITEC 1400 or ITEC 1401 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -80,9 +68,7 @@
       "credit": "0.5",
       "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching.",
       "prerequisites": "ITEC 1400 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -92,9 +78,7 @@
       "credit": "0.5",
       "description": "Introduction to advanced object-oriented scripting and algorithm design in Python. Topics include class design and encapsulation, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists, sorting, and searching.",
       "prerequisites": "ITEC 1401 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -104,9 +88,7 @@
       "credit": "0.5",
       "description": "The craft of digital storytelling, creating compelling online and game-engine packages. Using a variety of narrative formats, interactive tools, and digital content, including blogs and RSS feeds, developing an in-depth story using leading edge technologies and techniques.",
       "prerequisites": "MPAD 2004 or CCDP 3003 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -116,9 +98,7 @@
       "credit": "0.5",
       "description": "This course deals with the essentials of physics-based animations and dynamics; topics include basics of animation mechanics, collision detection, particle systems, and dynamic systems (cloth, fluid, and hair).",
       "prerequisites": "BIT 1100 and IMD 3002 or equivalent.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,9 +108,7 @@
       "credit": "0.5",
       "description": "This course covers the elements of rigging and advanced character animation; topics include the basics of forwards/inverse kinematics, controls, and weighting, essentials of human and creature rigging, retargeting, face and body motion capture, and motion studies for advanced keyframe animation.",
       "prerequisites": "IMD 3002 and IMD 3900 or equivalent.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -140,9 +118,7 @@
       "credit": "0.5",
       "description": "This course covers the essentials of Visual FX and compositing, topics include camera setups (motion control systems), set issues, match-moving, image-based lighting, chroma-keying and object extraction, colour correction, 2D tracking, and rotoscoping.",
       "prerequisites": "IMD 3002 or equivalent.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -152,9 +128,7 @@
       "credit": "0.5",
       "description": "This course covers the basics of artificial intelligence in games and animation, including behaviour and crowd systems (e.g. boids, reciprocal velocity obstacles, social forces, agent-based modelling, cellular automata), path finding and route planning, as well as procedural animation systems.",
       "prerequisites": "BIT 2400 or ITEC 2400 or ITEC 2401 or equivalent.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -164,9 +138,7 @@
       "credit": "0.5",
       "description": "A detailed look at web application frameworks, focusing client and server-side frameworks that enable more advanced user interactions, including configuration, understanding functionality, and develop with them effectively.",
       "prerequisites": "IMD 1005 or ITEC 1005 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -176,9 +148,7 @@
       "credit": "0.5",
       "description": "User experience (UX) of interactive systems, including product and service design, usability and UX research. Emphasis on accessibility, with topics including creating accessible systems for users with a range of abilities, accessibility standards, and validation of designs in a practical context.",
       "prerequisites": "IMD 3004 or MPAD 1002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -198,9 +168,7 @@
       "credit": "0.5",
       "description": "Design, development, and evaluation of virtual and augmented reality systems. Topics include VR/AR history, applications, hardware (display and input devices), software, interaction techniques for navigation, selection, manipulation, human factors, and empirical validation. Projects will use modern 3D game engines and VR/AR devices.",
       "prerequisites": "IMD 2006 or ITEC 3100 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -230,9 +198,7 @@
       "credit": "0.5",
       "description": "This course covers the basics of being a director in a digital storytelling environment, including the basics of direction, dealing with actors, following scripts, and dealing with elements of cinematography; including lighting, cameras, shade, and shadow.",
       "prerequisites": "Third-year standing in any degree program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -242,9 +208,7 @@
       "credit": "0.5",
       "description": "The course deals with the creation, development, and use of assets for digital environments; with specific focus on the workflows associated with scene construction and architectural modelling for a variety of real-time and non-real-time systems.",
       "prerequisites": "Third-year standing in any degree program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -264,9 +228,7 @@
       "credit": "0.5",
       "description": "Theories, origins and evolution of story within society as the digital age shapes the way we construct and consume narratives. How stories are conceived through words, sound and images, and how they resonate with and influence audiences.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -276,9 +238,7 @@
       "credit": "0.5",
       "description": "Finding and telling stories in engaging ways using interactive digital mediums.  Assignments build basic skills that may include research, interviewing, writing, storytelling, prototyping, editing, and ethics while focusing on how to structure and develop a fact-based digital media project for dissemination.",
       "prerequisites": "MPAD 1001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -288,9 +248,7 @@
       "credit": "0.5",
       "description": "Introducing visual storytelling through an array of print, digital, and /or interactive media.  Students will explore concepts such as visual literacy, rules of composition, and iconography while learning industry-standard software and tools.",
       "prerequisites": "MPAD 1002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -300,9 +258,7 @@
       "credit": "0.5",
       "description": "This course expands on the concepts introduced in while introducing additional visual storytelling theories and skills.  Students will explore how visual storytelling is incorporated within multimedia projects using a wide range of techniques and tools.",
       "prerequisites": "MPAD 2001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -312,9 +268,7 @@
       "credit": "0.5",
       "description": "Governments use data for tracking. Numbers guide public policy and can become powerful and important stories. Students will gain a theoretical understanding of the promise and pitfalls of data availability alongside the practical skills needed for powerful data-based storytelling.",
       "prerequisites": "MPAD 1002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -324,9 +278,7 @@
       "credit": "0.5",
       "description": "Honing of essential writing skills while building on students' baseline capabilities.  Coursework is based on the principle that the best way to improve technique is through regular writing and editing, supported by constructive critiques.",
       "prerequisites": "MPAD 1002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -336,9 +288,7 @@
       "credit": "0.5",
       "description": "Survey of Canadian laws and ethical issues that affect production and dissemination of digital media, including Charter of Rights and Freedoms, limitations on freedom of the press, including publication bans, libel and contempt of court. Different approaches to ethical decision-making and their applications.",
       "prerequisites": "JOUR 1001 , JOUR 1002 , COMS 1001 , COMS 1002 , or enrollment in the Bachelor of Media Production and Design, or enrollment in the  Minor in News Media and Information, or enrollment in the Communications and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -358,9 +308,7 @@
       "credit": "0.5",
       "description": "Exploring the different ways social media platforms can be used to tell stories.  Through production and/or critiquing of social media content and trends students will learn about social media's impact and how they can be responsible digital citizens.",
       "prerequisites": "MPAD 2004 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -370,9 +318,7 @@
       "credit": "0.5",
       "description": "This course offers an overview of key public institutions and civil society organizations in Canada to prepare aspiring journalists to effectively and critically engage with these actors in generating important and illuminating coverage of public affairs.",
       "prerequisites": "third-year standing in the Bachelor of Media Production and Design or the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -382,9 +328,7 @@
       "credit": "0.5",
       "description": "Drawing on the theory and case studies presented in the fall, students will create a multimedia project involving the various development stages that will be employed in the final-year capstone project, including research, project management and/or community engagement.",
       "prerequisites": "MPAD 2004 and MPAD 3002 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -394,9 +338,7 @@
       "credit": "0.5",
       "description": "An examination of ethical issues relating to production of news and other forms of information content, particularly as they relate to digital environments. Discussion of various approaches to ethical decision-making, application in contemporary settings.",
       "prerequisites": "MPAD 2400 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -436,10 +378,7 @@
       "credit": "1.0",
       "description": "Student groups work in collaboration with partner organizations from the community to develop capstone projects beginning with story development and planning, completion of a story design document including project description, research, key vistas and sketches/storyboards. Group presentations lead to final media project in second term.",
       "prerequisites": "MPAD 2002 , MPAD 3003 , ITEC 2100 , ITEC 2400 and fourth-year standing in the Bachelor of Media Production and Design program.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -449,9 +388,7 @@
       "credit": "0.5",
       "description": "Changes in the media, the public\u2019s relationship with the media and how journalists, news organizations and other media players respond. Practical issues and challenges in the professional life of an information producer.",
       "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -461,9 +398,7 @@
       "credit": "0.5",
       "description": "Preparation for freelancing to publications and production houses. Resumes, finding potential buyers, interviews, establishing and marketing an individual as a business. Pitching stories, ideas and services.",
       "prerequisites": "MPAD 2004 and fourth-year standing in the Bachelor of Media Production and Design program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -473,9 +408,7 @@
       "credit": "0.5",
       "description": "Students will choose a topic from a list of journalism options, to be announced each year.",
       "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -505,9 +438,7 @@
       "credit": "0.5",
       "description": "Examination of a topic in storytelling and media not covered in depth in other courses.",
       "prerequisites": "Fourth-year standing in the Bachelor of Media Production and Design program.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -616,12 +547,6 @@
           "description": "Introduction to Scripting and Problem Solving Intermediate Scripting"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Or"
-        },
-        {
           "type": "required",
           "courses": [
             "ITEC 1400",
@@ -727,226 +652,52 @@
           "description": ""
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MPAD 3000"
-          ],
-          "credits": 0.5,
-          "description": "Directed Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4001"
-          ],
-          "credits": 0.5,
-          "description": "Media Industries Now and Next"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4200"
-          ],
-          "credits": 0.5,
-          "description": "Freelance Media Survival Skills"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4300"
-          ],
-          "credits": 0.5,
-          "description": "Special Topic"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4400"
-          ],
-          "credits": 0.5,
-          "description": "Directed Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4403"
-          ],
-          "credits": 0.5,
-          "description": "Professional Skills: Strategic Communication"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4500"
-          ],
-          "credits": 0.5,
-          "description": "Special Topic"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4501"
-          ],
-          "credits": 0.5,
-          "description": "Gender, Identity and Inequality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4502"
-          ],
-          "credits": 0.5,
-          "description": "Journalism and Conflict"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MPAD 4503"
-          ],
-          "credits": 0.5,
-          "description": "Journalism, Indigenous Peoples and Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MPAD 3000",
+            "MPAD 4001",
+            "MPAD 4200",
+            "MPAD 4300",
+            "MPAD 4400",
+            "MPAD 4403",
+            "MPAD 4500",
+            "MPAD 4501",
+            "MPAD 4502",
+            "MPAD 4503",
             "MPAD 4504"
           ],
           "credits": 0.5,
-          "description": "The Media and International Development"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ITEC 4012"
-          ],
-          "credits": 0.5,
-          "description": "Web Application Frameworks"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ITEC 4014"
-          ],
-          "credits": 0.5,
-          "description": "User Experience Design and Accessibility"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ITEC 4015"
-          ],
-          "credits": 0.5,
-          "description": "Designing and Producing Sound"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ITEC 4016"
-          ],
-          "credits": 0.5,
-          "description": "Virtual and Augmented Reality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ITEC 4019"
-          ],
-          "credits": 0.5,
-          "description": "Directing and Cinematography for Digital Storytelling"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ITEC 4012",
+            "ITEC 4014",
+            "ITEC 4015",
+            "ITEC 4016",
+            "ITEC 4019",
             "ITEC 4021"
           ],
           "credits": 0.5,
-          "description": "Empirical Research Methods in HCI"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "INDG 1010"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Ways of Knowing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 1011"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Indigenous-Settler Encounters"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2011"
-          ],
-          "credits": 0.5,
-          "description": "Critical Indigenous Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2012"
-          ],
-          "credits": 0.5,
-          "description": "Anishinaabe Ontologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2013"
-          ],
-          "credits": 0.5,
-          "description": "Haudenosaunee Ontologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2015"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Relationalities, Kinships, and Knowledges"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2020"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Feminisms: Perspectives on Gender, Sex, and Sexualities"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 2709"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Drama"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "INDG 3001"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Sovereignties"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "INDG 1010",
+            "INDG 1011",
+            "INDG 2011",
+            "INDG 2012",
+            "INDG 2013",
+            "INDG 2015",
+            "INDG 2020",
+            "INDG 2709",
+            "INDG 3001",
             "INDG 3015"
           ],
           "credits": 0.5,
-          "description": "Indigenous Cosmologies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 9.5,
-          "description": "9.5 credits in free electives"
+          "description": "0.5 credit from:"
         }
       ]
     }

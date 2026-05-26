@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "An overview of mental health conditions, exploring biological, developmental, experiential and environmental factors that contribute to their onset and expression. Topics may include depressive and anxiety disorders, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, and substance use disorders.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,9 +18,7 @@
       "credit": "0.5",
       "description": "An overview of neurological conditions, examining biological, developmental, experiential and environmental contributions. Topics may include stroke, multiple sclerosis, seizure conditions, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -32,9 +28,7 @@
       "credit": "0.5",
       "description": "A general introduction to research process within neuroscience. Topics covered include research strategies, methods, and techniques; basic descriptive statistics; research communication; and responsible scientific conduct.",
       "prerequisites": "second-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -44,9 +38,7 @@
       "credit": "0.5",
       "description": "A general introduction to statistical techniques employed within contemporary neuroscience. Topics covered include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
       "prerequisites": "PSYC 2001 or NEUR 2001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -66,10 +58,7 @@
       "credit": "0.5",
       "description": "Introduction to various forms of scientific writing appropriate to neuroscience, with a focus in fundamental skills in scientific writing.",
       "prerequisites": "second-year standing in a Neuroscience program and one of NEUR 1201, NEUR 1202 or NEUR 1203 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -79,9 +68,7 @@
       "credit": "0.5",
       "description": "Core principles in cellular and molecular neuroscience, including signal transmission along and between neurons, ion channels and transporters, intracellular signaling pathways, and regulation of gene expression.",
       "prerequisites": "Either NEUR 1201 and NEUR 1203 , or NEUR 1202 and NEUR 1203 , or both BIOL 1103 and BIOL 1104 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -91,9 +78,7 @@
       "credit": "0.5",
       "description": "Core principles in nervous system development from embryogenesis to plasticity in the adult brain. Topics include neural induction, neurogenesis, apoptosis, neuronal migration and axon growth, synaptogenesis and synaptic pruning both under normal conditions and in psychopathology.",
       "prerequisites": "NEUR 1202 and NEUR 1203 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -113,9 +98,7 @@
       "credit": "0.5",
       "description": "Introducing various software for analyzing neuroscience data. Dealing with real data, drawing graphs, application of descriptive and inferential statistics through the general linear model, assumptions of parametric tests, robust statistics, confidence intervals, correlations, use of appropriate statistical methods and interpretation of results.",
       "prerequisites": "PSYC 2001 and PSYC 2002 , or NEUR 2001 and NEUR 2002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -125,9 +108,7 @@
       "credit": "0.5",
       "description": "Use of software for analyzing neuroscience data. Statistical techniques typically include nonparametric tests, t tests, and various forms of both ANOVA and regression including robust statistical tests, with a focus on the practical application of appropriate statistical methods and interpretation of results.",
       "prerequisites": "NEUR 3001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -157,9 +138,7 @@
       "credit": "0.5",
       "description": "Overview of chemical neurotransmission and key neurotransmitter systems.  A description of licit and illicit drugs covering topics that range from historical perspectives to pharmacology to mechanisms of action in the brain.  Discussion of neurochemical basis of psychiatric diseases including anxiety, depression and schizophrenia.",
       "prerequisites": "NEUR 2200 or NEUR 2201 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -169,9 +148,7 @@
       "credit": "0.5",
       "description": "Exploration of major topics in sensory processing and motor control, with a focus on underlying mechanisms and neurobiological principles. Topics include all sensory systems (such as vision, somatosensation and audition) plus motor system components including lower and upper motor neurons, basal ganglia, and cerebellum.",
       "prerequisites": "NEUR 1201 or both NEUR 1202 and NEUR 1203 , and either NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -181,9 +158,7 @@
       "credit": "0.5",
       "description": "Neural systems underlying complex behaviours including emotion, motivation, and sleep, and the role of association cortices in brain function.",
       "prerequisites": "NEUR 3206 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -213,9 +188,7 @@
       "credit": "0.5",
       "description": "The effects of hormones throughout life at all levels of the nervous system. The role of hormones in mediating behaviours that are both basic (feeding, reproduction and social interactions) and complex (motivation, emotion, learning and memory).",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -235,9 +208,7 @@
       "credit": "0.5",
       "description": "Healthy lifestyle choices and positive social interactions can reduce the incidence of pathological conditions such as depression, obesity, cardiovascular disease and impaired immunity. This course focuses on psychosocial and neurobiological mechanisms that underlie the relationship between lifestyle, social interactions and health.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -247,9 +218,7 @@
       "credit": "0.5",
       "description": "Stressful events can have profound repercussions on physical and psychological well-being. This course examines the psychosocial and biological processes by which stressors predispose to both physical (immune-related disorders, diabetes, heart disease) and psychological (acute stress disorder, posttraumatic stress disorder, depression, anxiety) pathologies.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -259,9 +228,7 @@
       "credit": "0.5",
       "description": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -271,9 +238,7 @@
       "credit": "0.5",
       "description": "Exploration of human brain development, from cell differentiation to complex neural networks. This course considers how variations in neurodevelopment may be associated with conditions such as dyslexia, ADHD, schizophrenia and autism.",
       "prerequisites": "NEUR 2200, or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -293,9 +258,7 @@
       "credit": "0.5",
       "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
       "prerequisites": "NEUR 3200, or NEUR 3204 and NEUR 3206 and NEUR 3207 , or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -325,9 +288,7 @@
       "credit": "0.5",
       "description": "Headline research in neuroscience. Topics may include technical and conceptual advances, ethical issues, medical improvement, and social impacts of neuroscience research.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -337,10 +298,7 @@
       "credit": "0.5",
       "description": "Recent research in clinical neuroscience including biological, developmental, experiential and environmental factors that contribute to mental health conditions. Topics may include depression, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, substance use disorders, and personality-related conditions.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -370,9 +328,7 @@
       "credit": "0.5",
       "description": "Neurobiological processes behind reproductive behaviours in various animal species including humans. Evaluation of data concerning neurobiological differences between sexes, biological determinants of sexual orientation, and relating to neurobiology of sex disorders.",
       "prerequisites": "NEUR 3304 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -382,9 +338,7 @@
       "credit": "0.5",
       "description": "Explores physical and mental health issues in Indigenous communities through cultural, environmental, developmental and biological perspectives, with attention to the impacts of colonialism, intergenerational trauma, and community resilience.",
       "prerequisites": "Third year standing or above.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -394,9 +348,7 @@
       "credit": "0.5",
       "description": "Communication between the brain and the immune system; messengers mediating the interaction. How disturbances of immune-brain signaling can lead to disease (multiple sclerosis, Parkinson\u2019s) and to changes in mood and cognition.",
       "prerequisites": "NEUR 3200 or NEUR 3207 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -406,9 +358,7 @@
       "credit": "0.5",
       "description": "Explores how substance use and behavioural addictions impact neural function, contributing to changes in the brain system involved in addiction. Contemporary neurobiological theories of addiction will also be addressed.",
       "prerequisites": "NEUR 3204 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -418,9 +368,7 @@
       "credit": "0.5",
       "description": "Advanced experiential learning in neuroanatomy, histology and microscopy.",
       "prerequisites": "NEUR 3200 or both NEUR 3206 and NEUR 3207 , fourth-year standing in a Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -440,10 +388,7 @@
       "credit": "0.5",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program.",
       "prerequisites": "third- or fourth- year standing and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -463,10 +408,7 @@
       "credit": "1.0",
       "description": "The course will focus on active learning in areas that include written and oral communication, evaluation and interpretation of results, statistics and data management, emphasizing transferable skills that will be most appropriate for non-research career paths.",
       "prerequisites": "fourth-year standing in an Honours Neuroscience program and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -486,10 +428,7 @@
       "credit": "1.0",
       "description": "An independent essay based critical review on a topic in neuroscience, using library resources, under the direct supervision of a Faculty advisor, typically from the Department of Neuroscience. Evaluation is based on a written report.",
       "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -499,10 +438,7 @@
       "credit": "1.0",
       "description": "An independent research project undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience. Evaluation is based on a written report and poster.",
       "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 10.0 and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }
@@ -704,210 +640,57 @@
           "description": "Foundations of Biology II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 3003"
-          ],
-          "credits": 0.5,
-          "description": "Epidemiology in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3301"
-          ],
-          "credits": 0.5,
-          "description": "Genetics of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3303"
-          ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3304"
-          ],
-          "credits": 0.5,
-          "description": "Hormones and Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3401"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Toxins and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3402"
-          ],
-          "credits": 0.5,
-          "description": "Impact of Lifestyle and Social Interactions on Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3403"
-          ],
-          "credits": 0.5,
-          "description": "Stress and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3501"
-          ],
-          "credits": 0.5,
-          "description": "Neurodegeneration and Aging"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 3003",
+            "NEUR 3301",
+            "NEUR 3303",
+            "NEUR 3304",
+            "NEUR 3401",
+            "NEUR 3402",
+            "NEUR 3403",
+            "NEUR 3501",
             "NEUR 3502"
           ],
-          "credits": 0.5,
-          "description": "Neurodevelopmental Determinants of Mental Health"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4001"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4002"
-          ],
-          "credits": 0.5,
-          "description": "Systematic Reviews and Meta-Analyses"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4301"
-          ],
-          "credits": 0.5,
-          "description": "Neurobiology of Energy Homeostasis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4302"
-          ],
-          "credits": 0.5,
-          "description": "Sex and the Brain"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4303"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Health & Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4305"
-          ],
-          "credits": 0.5,
-          "description": "Immune-Brain Interactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4306"
-          ],
-          "credits": 0.5,
-          "description": "The Neural Basis of Addiction"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4001",
+            "NEUR 4002",
+            "NEUR 4301",
+            "NEUR 4302",
+            "NEUR 4303",
+            "NEUR 4305",
+            "NEUR 4306",
             "NEUR 4600"
           ],
           "credits": 0.5,
-          "description": "Advanced Lab in Neuroanatomy"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4200"
-          ],
-          "credits": 0.5,
-          "description": "Seminar on Current Advances in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4202"
-          ],
-          "credits": 0.5,
-          "description": "Seminar on Current Research in Neuroscience and Psychiatric Conditions"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4200",
+            "NEUR 4202",
             "NEUR 4203"
           ],
           "credits": 0.5,
-          "description": "Seminar on Current Research in Neuroscience and Clinical Neurology"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4904"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis in Systematic Reviews or Meta-Analyses"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4905"
-          ],
-          "credits": 1.0,
-          "description": "Honours Workshop"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4906"
-          ],
-          "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4904",
+            "NEUR 4905",
+            "NEUR 4906",
+            "NEUR 4907",
             "NEUR 4908"
           ],
           "credits": 1.0,
-          "description": "Honours Research Thesis"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Advanced Science Faculty Electives"
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -919,58 +702,40 @@
           "description": "General Chemistry I General Chemistry II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "COMP 1005",
             "COMP 1006"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science I Introduction to Computer Science II"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1007",
             "PHYS 1008"
           ],
-          "credits": 0.5,
-          "description": "Elementary University Physics I Elementary University Physics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
           "description": "or"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PHYS 1107",
             "PHYS 1108"
           ],
-          "credits": 0.5,
-          "description": "Introductory University Physics I Introductory University Physics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
           "description": "or"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "PSYC 1001",
             "PSYC 1002"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Psychology I Introduction to Psychology II"
+          "credits": null,
+          "description": "or"
         },
         {
           "type": "required",
@@ -1010,13 +775,7 @@
             "BIOL 2200"
           ],
           "credits": null,
-          "description": ""
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation Courses"
+          "description": "or"
         },
         {
           "type": "elective",
@@ -1025,12 +784,6 @@
           ],
           "credits": 2.0,
           "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
         }
       ]
     },
@@ -1150,170 +903,45 @@
           "description": "Foundations of Biology II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 3003"
-          ],
-          "credits": 0.5,
-          "description": "Epidemiology in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3301"
-          ],
-          "credits": 0.5,
-          "description": "Genetics of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3303"
-          ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3304"
-          ],
-          "credits": 0.5,
-          "description": "Hormones and Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3401"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Toxins and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3402"
-          ],
-          "credits": 0.5,
-          "description": "Impact of Lifestyle and Social Interactions on Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3403"
-          ],
-          "credits": 0.5,
-          "description": "Stress and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3501"
-          ],
-          "credits": 0.5,
-          "description": "Neurodegeneration and Aging"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 3003",
+            "NEUR 3301",
+            "NEUR 3303",
+            "NEUR 3304",
+            "NEUR 3401",
+            "NEUR 3402",
+            "NEUR 3403",
+            "NEUR 3501",
             "NEUR 3502"
           ],
-          "credits": 0.5,
-          "description": "Neurodevelopmental Determinants of Mental Health"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4001"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4002"
-          ],
-          "credits": 0.5,
-          "description": "Systematic Reviews and Meta-Analyses"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4301"
-          ],
-          "credits": 0.5,
-          "description": "Neurobiology of Energy Homeostasis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4302"
-          ],
-          "credits": 0.5,
-          "description": "Sex and the Brain"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4303"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Health & Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4305"
-          ],
-          "credits": 0.5,
-          "description": "Immune-Brain Interactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4306"
-          ],
-          "credits": 0.5,
-          "description": "The Neural Basis of Addiction"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4001",
+            "NEUR 4002",
+            "NEUR 4301",
+            "NEUR 4302",
+            "NEUR 4303",
+            "NEUR 4305",
+            "NEUR 4306",
             "NEUR 4600"
           ],
-          "credits": 0.5,
-          "description": "Advanced Lab in Neuroanatomy"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4200"
-          ],
-          "credits": 0.5,
-          "description": "Seminar on Current Advances in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4202"
-          ],
-          "credits": 0.5,
-          "description": "Seminar on Current Research in Neuroscience and Psychiatric Conditions"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4200",
+            "NEUR 4202",
             "NEUR 4203"
           ],
-          "credits": 0.5,
-          "description": "Seminar on Current Research in Neuroscience and Clinical Neurology"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in Advanced Science Faculty Electives"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1334,12 +962,6 @@
           "description": "Introduction to Computer Science I Introduction to Computer Science II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
           "type": "required",
           "courses": [
             "PHYS 1007",
@@ -1347,12 +969,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary University Physics I Elementary University Physics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
         },
         {
           "type": "required",
@@ -1364,12 +980,6 @@
           "description": "Introductory University Physics I Introductory University Physics II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
           "type": "required",
           "courses": [
             "PSYC 1001",
@@ -1379,20 +989,13 @@
           "description": "Introduction to Psychology I Introduction to Psychology II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary Calculus I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1007",
             "MATH 1107"
           ],
           "credits": 0.5,
-          "description": "Linear Algebra I"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1415,14 +1018,8 @@
           "courses": [
             "BIOL 2200"
           ],
-          "credits": null,
-          "description": ""
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation courses (not in NEUR)"
+          "credits": 0.5,
+          "description": "0.5 credit from:"
         },
         {
           "type": "elective",
@@ -1431,12 +1028,6 @@
           ],
           "credits": 2.0,
           "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
         }
       ]
     },
@@ -1540,76 +1131,20 @@
           "description": "Foundations of Biology II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 3003"
-          ],
-          "credits": 0.5,
-          "description": "Epidemiology in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3301"
-          ],
-          "credits": 0.5,
-          "description": "Genetics of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3303"
-          ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3304"
-          ],
-          "credits": 0.5,
-          "description": "Hormones and Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3401"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Toxins and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3402"
-          ],
-          "credits": 0.5,
-          "description": "Impact of Lifestyle and Social Interactions on Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3403"
-          ],
-          "credits": 0.5,
-          "description": "Stress and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3501"
-          ],
-          "credits": 0.5,
-          "description": "Neurodegeneration and Aging"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 3003",
+            "NEUR 3301",
+            "NEUR 3303",
+            "NEUR 3304",
+            "NEUR 3401",
+            "NEUR 3402",
+            "NEUR 3403",
+            "NEUR 3501",
             "NEUR 3502"
           ],
-          "credits": 0.5,
-          "description": "Neurodevelopmental Determinants of Mental Health"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -1630,12 +1165,6 @@
           "description": "Introduction to Computer Science I Introduction to Computer Science II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
           "type": "required",
           "courses": [
             "PHYS 1007",
@@ -1643,12 +1172,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary University Physics I Elementary University Physics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
         },
         {
           "type": "required",
@@ -1660,12 +1183,6 @@
           "description": "Introductory University Physics I Introductory University Physics II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
           "type": "required",
           "courses": [
             "PSYC 1001",
@@ -1675,20 +1192,13 @@
           "description": "Introduction to Psychology I Introduction to Psychology II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary Calculus I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1007",
             "MATH 1107"
           ],
           "credits": 0.5,
-          "description": "Linear Algebra I"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1708,23 +1218,11 @@
         },
         {
           "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation courses (not in NEUR)"
-        },
-        {
-          "type": "elective",
           "courses": [
             "ISAP 1000"
           ],
           "credits": 2.0,
           "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives"
         }
       ]
     },
@@ -1868,298 +1366,68 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in BIOL or BIOC at the 3000 level or above"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 3301"
-          ],
-          "credits": 0.5,
-          "description": "Genetics of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3303"
-          ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3304"
-          ],
-          "credits": 0.5,
-          "description": "Hormones and Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3401"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Toxins and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3402"
-          ],
-          "credits": 0.5,
-          "description": "Impact of Lifestyle and Social Interactions on Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3403"
-          ],
-          "credits": 0.5,
-          "description": "Stress and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3501"
-          ],
-          "credits": 0.5,
-          "description": "Neurodegeneration and Aging"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3502"
-          ],
-          "credits": 0.5,
-          "description": "Neurodevelopmental Determinants of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4301"
-          ],
-          "credits": 0.5,
-          "description": "Neurobiology of Energy Homeostasis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4302"
-          ],
-          "credits": 0.5,
-          "description": "Sex and the Brain"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4303"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Health & Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4305"
-          ],
-          "credits": 0.5,
-          "description": "Immune-Brain Interactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4306"
-          ],
-          "credits": 0.5,
-          "description": "The Neural Basis of Addiction"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 3301",
+            "NEUR 3303",
+            "NEUR 3304",
+            "NEUR 3401",
+            "NEUR 3402",
+            "NEUR 3403",
+            "NEUR 3501",
+            "NEUR 3502",
+            "NEUR 4301",
+            "NEUR 4302",
+            "NEUR 4303",
+            "NEUR 4305",
+            "NEUR 4306",
             "NEUR 4600"
           ],
-          "credits": 0.5,
-          "description": "Advanced Lab in Neuroanatomy"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOC 4007"
-          ],
-          "credits": 0.5,
-          "description": "Membrane Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 2600"
-          ],
-          "credits": 0.5,
-          "description": "Ecology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 2301"
-          ],
-          "credits": 0.5,
-          "description": "Biotechnology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 2303"
-          ],
-          "credits": 0.5,
-          "description": "Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3307"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Human Anatomy and Physiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3605"
-          ],
-          "credits": 0.5,
-          "description": "Field Course I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3609"
-          ],
-          "credits": 0.5,
-          "description": "Evolutionary Concepts"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3802"
-          ],
-          "credits": 0.5,
-          "description": "Animal Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3804"
-          ],
-          "credits": 0.5,
-          "description": "Social Evolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4306"
-          ],
-          "credits": 0.5,
-          "description": "Animal Neurophysiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4317"
-          ],
-          "credits": 0.5,
-          "description": "Neuroethology: The Neural Basis of Animal Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4802"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Animal Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOC 4007",
+            "BIOL 2600",
+            "BIOL 2301",
+            "BIOL 2303",
+            "BIOL 3307",
+            "BIOL 3605",
+            "BIOL 3609",
+            "BIOL 3802",
+            "BIOL 3804",
+            "BIOL 4306",
+            "BIOL 4317",
+            "BIOL 4802",
             "CHEM 2204"
           ],
-          "credits": 0.5,
-          "description": "Organic Chemistry II"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4200"
-          ],
-          "credits": 0.5,
-          "description": "Seminar on Current Advances in Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4202"
-          ],
-          "credits": 0.5,
-          "description": "Seminar on Current Research in Neuroscience and Psychiatric Conditions"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4200",
+            "NEUR 4202",
             "NEUR 4203"
           ],
           "credits": 0.5,
-          "description": "Seminar on Current Research in Neuroscience and Clinical Neurology"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 4905"
-          ],
-          "credits": 1.0,
-          "description": "Honours Workshop"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4908"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4905"
-          ],
-          "credits": 1.0,
-          "description": "Honours Workshop"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 4905",
+            "NEUR 4907",
+            "NEUR 4908",
+            "BIOL 4905",
+            "BIOL 4907",
             "BIOL 4908"
           ],
           "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -2249,109 +1517,30 @@
           "description": "Neurodevelopment and Plasticity"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 3204"
-          ],
-          "credits": 0.5,
-          "description": "Neuropharmacology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3301"
-          ],
-          "credits": 0.5,
-          "description": "Genetics of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3303"
-          ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3304"
-          ],
-          "credits": 0.5,
-          "description": "Hormones and Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3401"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Toxins and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3402"
-          ],
-          "credits": 0.5,
-          "description": "Impact of Lifestyle and Social Interactions on Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3403"
-          ],
-          "credits": 0.5,
-          "description": "Stress and Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3501"
-          ],
-          "credits": 0.5,
-          "description": "Neurodegeneration and Aging"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3502"
-          ],
-          "credits": 0.5,
-          "description": "Neurodevelopmental Determinants of Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4301"
-          ],
-          "credits": 0.5,
-          "description": "Neurobiology of Energy Homeostasis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4302"
-          ],
-          "credits": 0.5,
-          "description": "Sex and the Brain"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 4303"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Health & Mental Health"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 3204",
+            "NEUR 3301",
+            "NEUR 3303",
+            "NEUR 3304",
+            "NEUR 3401",
+            "NEUR 3402",
+            "NEUR 3403",
+            "NEUR 3501",
+            "NEUR 3502",
+            "NEUR 4301",
+            "NEUR 4302",
+            "NEUR 4303",
             "NEUR 4306"
           ],
-          "credits": 0.5,
-          "description": "The Neural Basis of Addiction"
-        },
+          "credits": 2.0,
+          "description": "2.0 credits from:"
+        }
+      ]
+    },
+    {
+      "degree": "Experimental Science Requirement",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -2959,24 +2148,12 @@
         },
         {
           "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
           "courses": [
             "BIOL 4810",
             "BIOL 2005"
           ],
           "credits": null,
           "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
         },
         {
           "type": "elective",
@@ -2999,77 +2176,11 @@
         },
         {
           "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
           "courses": [
             "PHYS 2903"
           ],
           "credits": null,
           "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
         },
         {
           "type": "elective",
@@ -3373,12 +2484,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     }

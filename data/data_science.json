@@ -8,9 +8,7 @@
       "credit": "0.5",
       "description": "Introduction to formulating statistical problems and analyzing data using open-source software. Graphical and numerical descriptives. combinatorial formulae, Bayes' Theorem, probability, Discrete and continuous distributions, means and variances. Point and interval estimates, and hypothesis tests for one- and two-samples using Central Limit Theorem, and permutation tests.",
       "prerequisites": "An Ontario Grade 12 university-preparation Mathematics or equivalent, or permission of the Institute for Data Science.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,9 +18,7 @@
       "credit": "0.5",
       "description": "Introduction to modelling real phenomena from planning data collection or gathering observational data to analyzing and providing insights. Topics include experimental design from first principles and simulating the data generating process, linear regression and correlation, one- and two-way Analysis of Variance using open-source statistical software.",
       "prerequisites": "DATA 1517 or ( STAT 1500 and STAT 2507 ) or ( STAT 1500 and STAT 2655 ) or ( STAT 1500 and STAT 3502 ); or permission of the Institute for Data Science.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -32,9 +28,7 @@
       "credit": "0.5",
       "description": "Reproducible workflows from acquisition, to cleaning, manipulation, and visualization. Data are acquired from databases, APIs, and web scraping. Cleaning and manipulating Numeric, categorical, date, and text data are introduced including regular expressions. Data visualization and report generation using dynamic tools are emphasized.",
       "prerequisites": "( COMP 1005 or COMP 1405 ), STAT 1500 , and one of ( DATA 1517 , STAT 2507 , or STAT 2655 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -44,9 +38,7 @@
       "credit": "0.5",
       "description": "Technical communication and data visualization skills for data science majors, concentrating on writing and orally presenting scientific papers and technical reports. Principles of clarity and precision in writing and oral communication. Practical exercises and readings from recent technical publications will be used.",
       "prerequisites": "DATA 1517 or STAT 2507 or STAT 2559 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -397,12 +389,6 @@
         },
         {
           "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
-        },
-        {
-          "type": "elective",
           "courses": [
             "BIT 1000",
             "BIT 1001",
@@ -627,104 +613,22 @@
           "description": "Data Mining I (Honours)"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 4010"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Reinforcement Learning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4102"
-          ],
-          "credits": 0.5,
-          "description": "Computer Vision"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4115"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Natural Language Processing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4116"
-          ],
-          "credits": 0.5,
-          "description": "Multiagent Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3504"
-          ],
-          "credits": 0.5,
-          "description": "Analysis of Variance and Experimental Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3507"
-          ],
-          "credits": 0.5,
-          "description": "Sampling Methodology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4502"
-          ],
-          "credits": 0.5,
-          "description": "Survey Sampling (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4503"
-          ],
-          "credits": 0.5,
-          "description": "Applied Multivariate Analysis (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4504"
-          ],
-          "credits": 0.5,
-          "description": "Statistical Design and Analysis of Experiments (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4604"
-          ],
-          "credits": 0.5,
-          "description": "Statistical Computing (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 4010",
+            "COMP 4102",
+            "COMP 4115",
+            "COMP 4116",
+            "STAT 3504",
+            "STAT 3507",
+            "STAT 4502",
+            "STAT 4503",
+            "STAT 4504",
+            "STAT 4604",
             "STAT 4607"
           ],
-          "credits": 0.5,
-          "description": "Bayesian Statistical Analysis (Honours)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in COMP or STAT at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 6.5,
-          "description": "6.5 credits in free electives"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         }
       ]
     },
@@ -764,68 +668,19 @@
           "description": "Design and Analysis of Algorithms I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 4010"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Reinforcement Learning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4102"
-          ],
-          "credits": 0.5,
-          "description": "Computer Vision"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4115"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Natural Language Processing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4116"
-          ],
-          "credits": 0.5,
-          "description": "Multiagent Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4801"
-          ],
-          "credits": 0.5,
-          "description": "Algorithms for Data Mining, Web, and Social Networks"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4804"
-          ],
-          "credits": 0.5,
-          "description": "Design and Analysis of Algorithms II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 4905"
-          ],
-          "credits": 0.5,
-          "description": "Honours Project"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 4010",
+            "COMP 4102",
+            "COMP 4115",
+            "COMP 4116",
+            "COMP 4801",
+            "COMP 4804",
+            "COMP 4905",
             "COMP 4906"
           ],
-          "credits": 1.0,
-          "description": "Honours Thesis"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
@@ -865,60 +720,25 @@
           "description": "Learning from Big Data"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "STAT 3504"
-          ],
-          "credits": 0.5,
-          "description": "Analysis of Variance and Experimental Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4502"
-          ],
-          "credits": 0.5,
-          "description": "Survey Sampling (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4503"
-          ],
-          "credits": 0.5,
-          "description": "Applied Multivariate Analysis (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4504"
-          ],
-          "credits": 0.5,
-          "description": "Statistical Design and Analysis of Experiments (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "STAT 3504",
+            "STAT 4502",
+            "STAT 4503",
+            "STAT 4504",
             "STAT 4607"
           ],
-          "credits": 0.5,
-          "description": "Bayesian Statistical Analysis (Honours)"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "DATA 4848"
-          ],
-          "credits": null,
-          "description": "DATA 4848 [1.0], or"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "DATA 4848",
             "STAT 4905"
           ],
-          "credits": 0.5,
-          "description": "STAT 4905 [0.5] and 0.5 credits in STAT at the 4000-level"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         }
       ]
     }

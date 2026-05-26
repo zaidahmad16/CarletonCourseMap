@@ -145,7 +145,7 @@ export default function Home() {
           textTransform: 'uppercase',
           marginBottom: 'var(--space-sm)',
         }}>
-          2025–2026 Undergraduate Calendar
+          2026–2027 Undergraduate Calendar
         </div>
 
         <h1 style={{
@@ -367,8 +367,8 @@ export default function Home() {
             lineHeight: 1.6,
           }}>
             {stats.departments
-              ? `All ${stats.departments} departments · ${stats.programs} programs · 2025–2026 Undergraduate Calendar`
-              : 'Every department and program · 2025–2026 Undergraduate Calendar'}
+              ? `All ${stats.departments} departments · ${stats.programs} programs · 2026–2027 Undergraduate Calendar`
+              : 'Every department and program · 2026–2027 Undergraduate Calendar'}
           </p>
           <Link href="/map" className="cta-white" style={{
             display: 'inline-flex',
@@ -425,7 +425,7 @@ export default function Home() {
               maxWidth: 280,
             }}>
               Not affiliated with or endorsed by Carleton University.
-              Course data: 2025–2026 Undergraduate Calendar.
+              Course data: 2026–2027 Undergraduate Calendar.
             </p>
           </div>
 

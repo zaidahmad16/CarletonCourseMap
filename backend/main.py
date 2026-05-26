@@ -261,30 +261,43 @@ def get_program(request: Request, program_id: int):
         """, (program_id,))
         edges = cur.fetchall()
 
-        # for concentrations, merge in the base degree requirements so the full
-        # program path is visible alongside the concentration-specific courses
+        # for concentrations and streams, merge the full base degree so the
+        # complete program path is visible alongside the specific courses
         base_reqs  = []
         base_edges = []
-        if degree.lower().startswith("concentration in"):
-            cur.execute("""
-                SELECT program_id, degree FROM programs
-                WHERE dept_id = %s
-                  AND program_id != %s
-                  AND degree ILIKE ANY(ARRAY['%%B.A. Honours%%', '%%B.Sc. Honours%%', '%%B.Eng. Honours%%',
-                                             '%%Bachelor%%Honours%%'])
-                ORDER BY program_id
-                LIMIT 1
-            """, (dept_id, program_id))
+        deg_lower = degree.lower()
+        is_concentration = deg_lower.startswith("concentration in")
+        is_stream        = deg_lower.startswith("stream in")
+        if is_concentration or is_stream:
+            if is_stream:
+                # streams belong to the International Business Honours degree
+                base_query = """
+                    SELECT program_id, degree FROM programs
+                    WHERE dept_id = %s
+                      AND program_id != %s
+                      AND degree ILIKE '%%International Business%%Honours%%'
+                    ORDER BY program_id
+                    LIMIT 1
+                """
+            else:
+                # concentrations belong to the first honours degree in the department
+                base_query = """
+                    SELECT program_id, degree FROM programs
+                    WHERE dept_id = %s
+                      AND program_id != %s
+                      AND degree ILIKE ANY(ARRAY['%%B.A. Honours%%', '%%B.Sc. Honours%%', '%%B.Eng. Honours%%',
+                                                 '%%Bachelor%%Honours%%'])
+                    ORDER BY program_id
+                    LIMIT 1
+                """
+            cur.execute(base_query, (dept_id, program_id))
             base_row = cur.fetchone()
             if base_row:
                 base_prog_id = base_row[0]
-                # only pull year 1 and 2 courses from the base program — year 3+ are
-                # largely electives that the concentration already covers
                 cur.execute("""
                     SELECT type, courses, credits, description, layout_col, layout_row
                     FROM program_requirements
                     WHERE program_id = %s
-                      AND layout_col < 2
                     ORDER BY req_id
                 """, (base_prog_id,))
                 base_reqs = cur.fetchall()

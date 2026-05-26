@@ -37,6 +37,20 @@ const shortenProgram = (degree = '') => {
     return c.length > 30 ? c.slice(0, 28) + '…' : c
   }
 
+  // Standalone "Concentration in X (N credits)" — show just the topic
+  const concM = degree.match(/^Concentration\s+in\s+(.+?)(?:\s*\(|$)/i)
+  if (concM) {
+    const c = concM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+
+  // Standalone "Stream in X (N credits)" — show just the topic
+  const streamM = degree.match(/^Stream\s+in\s+(.+?)(?:\s*\(|$)/i)
+  if (streamM) {
+    const c = streamM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+
   const specifics = [
     [/artificial intelligence|machine learning/i, 'AI & Machine Learning'],
     [/cybersecurity|cyber security/i,             'Cybersecurity'],
@@ -51,8 +65,8 @@ const shortenProgram = (degree = '') => {
   ]
   for (const [re, label] of specifics) if (re.test(degree)) return label
 
-  // Cognitive Science concentrations — extract the concentration name
-  const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s{2,}|$)/i)
+  // Any remaining "Concentration in X" embedded in a longer degree name
+  const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s*\(|\s{2,}|$)/i)
   if (cogM) {
     const c = cogM[1].trim()
     return c.length > 30 ? c.slice(0, 28) + '…' : c
@@ -85,6 +99,10 @@ export default function MapPage() {
   const [nodes,           setNodes]           = useState([])
   const [edges,           setEdges]           = useState([])
   const [selectedNode,    setSelectedNode]    = useState(null)
+  const pillScrollRef = useRef(null)
+  const scrollPills = (dir) => {
+    if (pillScrollRef.current) pillScrollRef.current.scrollBy({ left: dir * 200, behavior: 'smooth' })
+  }
   const [showPicker,      setShowPicker]      = useState(false)
   const [showNotes,       setShowNotes]       = useState(false)
   const [showCompare,     setShowCompare]     = useState(false)
@@ -92,8 +110,30 @@ export default function MapPage() {
   const [highlightedId,   setHighlightedId]   = useState(null)
 
   const [chainIds,        setChainIds]        = useState(null)
+  const [isMobile,        setIsMobile]        = useState(false)
   const rfRef             = useRef(null)
   const initialProgram    = useRef(null)
+
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 640)
+    check()
+    window.addEventListener('resize', check)
+    return () => window.removeEventListener('resize', check)
+  }, [])
+
+  // Escape clears the selected node and chain highlight
+  useEffect(() => {
+    const handler = (e) => {
+      if (e.key !== 'Escape') return
+      if (selectedNode || chainIds) {
+        e.stopPropagation()
+        setSelectedNode(null)
+        setChainIds(null)
+      }
+    }
+    window.addEventListener('keydown', handler, true)
+    return () => window.removeEventListener('keydown', handler, true)
+  }, [selectedNode, chainIds])
 
   // load departments on mount
   useEffect(() => {
@@ -234,7 +274,21 @@ export default function MapPage() {
       background: 'var(--color-paper)',
     }}>
 
-      <style>{`.pill-scroll::-webkit-scrollbar { display: none; }`}</style>
+      <style>{`
+        .pill-scroll::-webkit-scrollbar { display: none; }
+        .scroll-arrow { background: none; border: none; cursor: pointer; padding: 0 4px; color: var(--color-ink-3); font-size: 16px; line-height: 1; flex-shrink: 0; user-select: none; }
+        .scroll-arrow:hover { color: var(--color-ink-1); }
+        .scroll-arrow:disabled { opacity: 0.2; cursor: default; }
+        @media (max-width: 640px) {
+          .map-row-label    { display: none !important; }
+          .map-search       { display: none !important; }
+          .map-course-badge { display: none !important; }
+          .map-legend-wrap  { display: none !important; }
+          .map-compare-btn  { display: none !important; }
+          .map-dept-select  { flex: 1; }
+          .map-dept-select select { min-width: 0 !important; width: 100%; }
+        }
+      `}</style>
 
       {/* nav bar */}
       <div style={{
@@ -260,7 +314,7 @@ export default function MapPage() {
         </a>
 
         {courseMap && (
-          <span style={{
+          <span className="map-course-badge" style={{
             background: 'var(--color-accent)',
             color: 'var(--color-accent-ink)',
             padding: '3px 10px',
@@ -277,7 +331,7 @@ export default function MapPage() {
         <div style={{ flex: 1 }} />
 
         {nodes.length > 0 && (
-          <div style={{ position: 'relative', display: 'inline-flex', alignItems: 'center', flexShrink: 0 }}>
+          <div className="map-search" style={{ position: 'relative', display: 'inline-flex', alignItems: 'center', flexShrink: 0 }}>
             <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true"
               style={{ position: 'absolute', left: 9, pointerEvents: 'none', color: 'var(--color-ink-3)' }}>
               <circle cx="5.5" cy="5.5" r="4" stroke="currentColor" strokeWidth="1.5" />
@@ -317,6 +371,35 @@ export default function MapPage() {
           </div>
         )}
 
+        <button
+          className="map-compare-btn"
+          onClick={() => setShowCompare(true)}
+          style={{
+            display: 'inline-flex', alignItems: 'center', gap: 6,
+            background: 'var(--color-paper-2)',
+            border: '1px solid var(--color-rule)',
+            borderRadius: 'var(--radius-input)',
+            padding: '5px 12px',
+            fontSize: 'var(--text-sm)',
+            fontFamily: 'var(--font-body)',
+            fontWeight: 500,
+            color: 'var(--color-ink)',
+            cursor: 'pointer',
+            whiteSpace: 'nowrap',
+            flexShrink: 0,
+            transition: 'background var(--dur-short) var(--ease-out), border-color var(--dur-short) var(--ease-out)',
+          }}
+          onMouseEnter={e => { e.currentTarget.style.background = 'var(--color-paper-3)'; e.currentTarget.style.borderColor = 'var(--color-ink-3)' }}
+          onMouseLeave={e => { e.currentTarget.style.background = 'var(--color-paper-2)'; e.currentTarget.style.borderColor = 'var(--color-rule)' }}
+        >
+          {/* two overlapping squares icon */}
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <rect x="1" y="4" width="8" height="9" rx="1.5" stroke="currentColor" strokeWidth="1.4"/>
+            <rect x="5" y="1" width="8" height="9" rx="1.5" stroke="currentColor" strokeWidth="1.4" fill="var(--color-paper-2)"/>
+          </svg>
+          Compare
+        </button>
+
         <MapMenubar
           onFitView={() => rfRef.current?.fitView({ padding: 0.07 })}
           onZoomIn={() => rfRef.current?.zoomIn()}
@@ -346,9 +429,9 @@ export default function MapPage() {
           height: 44,
           borderBottom: selectedDept ? '1px solid var(--color-rule)' : 'none',
         }}>
-          <span style={rowLabelStyle}>Department</span>
+          <span className="map-row-label" style={rowLabelStyle}>Department</span>
 
-          <div style={{ position: 'relative', display: 'inline-flex', alignItems: 'center' }}>
+          <div className="map-dept-select" style={{ position: 'relative', display: 'inline-flex', alignItems: 'center' }}>
             <select
               value={selectedDept ?? ''}
               onChange={e => setSelectedDept(e.target.value === '' ? null : e.target.value)}
@@ -410,9 +493,10 @@ export default function MapPage() {
             gap: 12,
             height: 44,
           }}>
-            <span style={rowLabelStyle}>Program</span>
+            <span className="map-row-label" style={rowLabelStyle}>Program</span>
 
-            <div className="pill-scroll" style={scrollRowStyle}>
+            <button className="scroll-arrow" onClick={() => scrollPills(-1)} aria-label="Scroll left">&#8249;</button>
+            <div className="pill-scroll" ref={pillScrollRef} style={scrollRowStyle}>
               {programs.length === 0 ? (
                 <span style={{ fontSize: 12, color: 'var(--color-ink-3)', fontStyle: 'italic' }}>
                   Loading programs…
@@ -429,12 +513,13 @@ export default function MapPage() {
                 ))
               )}
             </div>
+            <button className="scroll-arrow" onClick={() => scrollPills(1)} aria-label="Scroll right">&#8250;</button>
           </div>
         )}
       </div>
 
       {/* legend */}
-      {courseMap && <Legend degree={courseMap.degree} />}
+      {courseMap && <div className="map-legend-wrap"><Legend degree={courseMap.degree} /></div>}
 
       {/* notes sidebar */}
       {courseMap && (
@@ -502,8 +587,15 @@ export default function MapPage() {
         onProgramSelect={setSelectedProgram}
       />
 
+      {/* compare programs modal */}
+      <CompareModal
+        open={showCompare}
+        onClose={() => setShowCompare(false)}
+        departments={departments}
+      />
+
       {/* course detail panel */}
-      <CoursePanel node={selectedNode} onClose={() => setSelectedNode(null)} />
+      <CoursePanel node={selectedNode} onClose={() => setSelectedNode(null)} isMobile={isMobile} />
     </div>
   )
 }

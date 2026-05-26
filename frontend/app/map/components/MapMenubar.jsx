@@ -12,17 +12,17 @@ const triggerBase = {
   display: 'inline-flex',
   alignItems: 'center',
   gap: 4,
-  background: 'none',
-  border: 'none',
+  background: 'var(--color-paper-2)',
+  border: '1px solid var(--color-rule)',
   borderRadius: 'var(--radius-input)',
-  padding: '4px 10px',
+  padding: '5px 12px',
   fontSize: 'var(--text-sm)',
   fontFamily: 'var(--font-body)',
   fontWeight: 500,
   color: 'var(--color-ink)',
   cursor: 'pointer',
   lineHeight: 1,
-  transition: 'background var(--dur-short) var(--ease-out), color var(--dur-short) var(--ease-out)',
+  transition: 'background var(--dur-short) var(--ease-out), color var(--dur-short) var(--ease-out), border-color var(--dur-short) var(--ease-out)',
   outline: 'none',
   userSelect: 'none',
 }
@@ -72,14 +72,21 @@ const MenuTrigger = React.forwardRef(({ children, open, ...props }, ref) => (
     {...props}
     style={{
       ...triggerBase,
-      background: open ? 'var(--color-accent-soft)' : 'none',
+      background: open ? 'var(--color-accent-soft)' : 'var(--color-paper-2)',
+      borderColor: open ? 'var(--color-accent)' : 'var(--color-rule)',
       color: open ? 'var(--color-accent)' : 'var(--color-ink)',
     }}
     onMouseEnter={e => {
-      if (!open) e.currentTarget.style.background = 'var(--color-paper-2)'
+      if (!open) {
+        e.currentTarget.style.background = 'var(--color-paper-3)'
+        e.currentTarget.style.borderColor = 'var(--color-ink-3)'
+      }
     }}
     onMouseLeave={e => {
-      if (!open) e.currentTarget.style.background = 'none'
+      if (!open) {
+        e.currentTarget.style.background = 'var(--color-paper-2)'
+        e.currentTarget.style.borderColor = 'var(--color-rule)'
+      }
     }}
   >
     {children}

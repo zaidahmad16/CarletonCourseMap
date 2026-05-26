@@ -1,4 +1,5 @@
 /* course detail panel, always in the DOM and slides in from the right */
+import { useEffect } from 'react'
 
 export const CoursePanel = ({ node, onClose }) => {
   const isOpen = node != null && !node.data?.isElective

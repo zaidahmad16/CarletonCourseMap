@@ -122,7 +122,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   // fill every column up to MIN_ROWS with padding nodes
   const paddingNodes = []
   for (let col = 0; col < numCols; col++) {
-    for (let row = 0; row < gridRows; row++) {
+    for (let row = 0; row < MIN_ROWS; row++) {
       if (isOccupied(col, row)) continue
       // row 4 and above get Free Elective, everything earlier gets Breadth Elective
       const label = row >= 4 ? 'Free Elective' : 'Breadth Elective'

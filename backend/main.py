@@ -190,9 +190,8 @@ def get_programs(request: Request, dept:int=None):
         conn.close()
 
 @app.get("/programs/featured")
-def get_featured_programs():
-    conn = get_connection()
-    cur  = conn.cursor()
+@limiter.limit("60/minute")
+def get_featured_programs(request: Request):
     keywords = [
         'Software Engineering',
         'Artificial Intelligence',
@@ -201,34 +200,40 @@ def get_featured_programs():
         'Psychology',
         'Biology',
     ]
-    results  = []
-    seen_ids = set()
-    for kw in keywords:
-        cur.execute("""
-            SELECT p.program_id, p.dept_id, p.degree, d.name AS dept_name
-            FROM programs p
-            JOIN departments d USING(dept_id)
-            WHERE p.degree ILIKE %s
-            ORDER BY length(p.degree)
-            LIMIT 1
-        """, (f'%{kw}%',))
-        row = cur.fetchone()
-        if row and row[0] not in seen_ids:
-            seen_ids.add(row[0])
-            results.append({
-                "program_id": row[0],
-                "dept_id":    row[1],
-                "degree":     row[2],
-                "dept_name":  row[3],
-            })
-    cur.close()
-    conn.close()
-    return results[:6]
+    conn = get_connection()
+    try:
+        cur      = conn.cursor()
+        results  = []
+        seen_ids = set()
+        for kw in keywords:
+            cur.execute("""
+                SELECT p.program_id, p.dept_id, p.degree, d.name AS dept_name
+                FROM programs p
+                JOIN departments d USING(dept_id)
+                WHERE p.degree ILIKE %s
+                ORDER BY length(p.degree)
+                LIMIT 1
+            """, (f'%{kw}%',))
+            row = cur.fetchone()
+            if row and row[0] not in seen_ids:
+                seen_ids.add(row[0])
+                results.append({
+                    "program_id": row[0],
+                    "dept_id":    row[1],
+                    "degree":     row[2],
+                    "dept_name":  row[3],
+                })
+        cur.close()
+        return results[:6]
+    except Exception as e:
+        logger.error("GET /programs/featured failed: %s", e, exc_info=True)
+        raise HTTPException(status_code=500, detail="Internal server error")
+    finally:
+        conn.close()
 
 @app.get("/programs/{program_id}")
-
-def get_programs(program_id: int):
-
+@limiter.limit("60/minute")
+def get_program(request: Request, program_id: int):
     conn = get_connection()
     try:
         cur = conn.cursor()
@@ -237,7 +242,6 @@ def get_programs(program_id: int):
         row = cur.fetchone()
 
         if not row:
-            from fastapi import HTTPException
             raise HTTPException(status_code=404, detail="Program not found")
 
         prog_id, dept_id, degree, layout_cols, notes = row
@@ -293,35 +297,38 @@ def get_programs(program_id: int):
                 base_edges = cur.fetchall()
 
         cur.close()
+
+        all_reqs  = list(reqs) + [r for r in base_reqs if r not in reqs]
+        all_edges = list(edges) + [e for e in base_edges if e not in edges]
+
+        return {
+            "program_id": prog_id,
+            "dept_id": dept_id,
+            "degree": degree,
+            "layout_cols": layout_cols,
+            "requirements": [
+                {
+                    "type": r[0],
+                    "courses": r[1],
+                    "credits": float(r[2]) if r[2] else None,
+                    "description": r[3],
+                    "layout_col": r[4],
+                    "layout_row": r[5],
+                } for r in all_reqs
+            ],
+            "edges": [
+                {"source": e[0], "target": e[1], "type": e[2]}
+                for e in all_edges
+            ],
+            "notes": notes or [],
+        }
+    except HTTPException:
+        raise
+    except Exception as e:
+        logger.error("GET /programs/%s failed: %s", program_id, e, exc_info=True)
+        raise HTTPException(status_code=500, detail="Internal server error")
     finally:
         conn.close()
-
-    # concentration courses come first so their layout positions take priority;
-    # base program courses fill in the remaining slots
-    all_reqs  = list(reqs) + [r for r in base_reqs if r not in reqs]
-    all_edges = list(edges) + [e for e in base_edges if e not in edges]
-
-    return {
-        "program_id": prog_id,
-        "dept_id": dept_id,
-        "degree": degree,
-        "layout_cols": layout_cols,
-        "requirements": [
-            {
-                "type": r[0],
-                "courses": r[1],
-                "credits": float(r[2]) if r[2] else None,
-                "description": r[3],
-                "layout_col": r[4],
-                "layout_row": r[5],
-            } for r in all_reqs
-        ],
-        "edges": [
-            {"source": e[0], "target": e[1], "type": e[2]}
-            for e in all_edges
-        ],
-        "notes": notes or [],
-    }
 
 
 class Edge(BaseModel):

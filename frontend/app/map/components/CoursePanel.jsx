@@ -1,10 +1,16 @@
-/* Hallmark · component: CoursePanel · genre: modern-minimal · theme: custom (Carleton)
- * states: closed (off-screen right) · open (slides in) · close button hover/focus/active
- * animation: transform translateX — panel always in DOM, slides on/off screen
- */
+/* slide-in panel showing course details, closes on Escape or backdrop click */
+
+import { useEffect } from 'react'
 
 export const CoursePanel = ({ node, onClose }) => {
   const isOpen = node != null && !node.data?.isElective
+
+  useEffect(() => {
+    if (!isOpen) return
+    const handler = (e) => { if (e.key === 'Escape') onClose() }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+  }, [isOpen, onClose])
 
   const { code, name, description, credit, prerequisites, offerings } =
     isOpen ? node.data : {}
@@ -28,6 +34,18 @@ export const CoursePanel = ({ node, onClose }) => {
       }
 
   return (
+    <>
+    {isOpen && (
+      <div
+        aria-hidden="true"
+        onClick={onClose}
+        style={{
+          position: 'fixed',
+          inset: 0,
+          zIndex: 19,
+        }}
+      />
+    )}
     <div
       aria-hidden={!isOpen}
       style={{
@@ -132,6 +150,7 @@ export const CoursePanel = ({ node, onClose }) => {
         )}
       </div>
     </div>
+    </>
   )
 }
 

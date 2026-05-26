@@ -25,11 +25,38 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     .map(req => {
       const code   = req.courses[0]
       const course = detailMap.get(code)
-      if (!course) return null
 
       positionMap[code] = { col: req.layout_col, row: req.layout_row }
       occupy(req.layout_col, req.layout_row)
       colUsed[req.layout_col] = true
+
+      if (!course) {
+        return {
+          id: code,
+          type: 'course',
+          draggable: false,
+          selectable: false,
+          data: {
+            code,
+            name: 'Data unavailable',
+            description: '',
+            credit: null,
+            prerequisites: '',
+            offerings: null,
+            isMissing: true,
+            style: {
+              border: '2px dashed var(--color-ink-3)',
+              borderRadius: 'var(--radius-card)',
+              background: 'var(--color-paper-2)',
+              opacity: 0.6,
+            },
+          },
+          position: {
+            x: req.layout_col * COL_WIDTH,
+            y: HEADER_HEIGHT + req.layout_row * ROW_HEIGHT,
+          },
+        }
+      }
 
       return {
         id: code,

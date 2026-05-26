@@ -92,12 +92,18 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
       }
     })
 
-  // ── Padding: fill every column to MIN_ROWS ─────────────────────────────────
+  // figure out how tall the tallest column is, then pad every column to that height
+  let maxRow = MIN_ROWS - 1
+  for (const [key] of occupied) {
+    const row = parseInt(key.split('-')[1], 10)
+    if (row > maxRow) maxRow = row
+  }
+  const gridRows = maxRow + 1
+
   const paddingNodes = []
   for (let col = 0; col < numCols; col++) {
-    for (let row = 0; row < MIN_ROWS; row++) {
+    for (let row = 0; row < gridRows; row++) {
       if (isOccupied(col, row)) continue
-      // Match reference: row 4 = Free Elective, others = Breadth Elective
       const label = row >= 4 ? 'Free Elective' : 'Breadth Elective'
       paddingNodes.push({
         id: `pad-${col}-${row}`,

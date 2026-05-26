@@ -8,9 +8,7 @@
       "credit": "",
       "description": "Explore biochemistry's real-world applications, cutting-edge research, and transformative technologies. Learn through case studies and collaborative group work about how biochemistry revolutionizes industries, medicine, and environmental stewardship in this dynamic course.",
       "prerequisites": "Enrolled in a Biochemistry program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -30,10 +28,7 @@
       "credit": "",
       "description": "Cellular functions and their interrelationships. Introduction to thermodynamics, membrane structure and function, transport mechanisms, basic metabolic pathways, energy production and utilization, communications between cells.   It is strongly recommended that Biology Majors and Honours students take this course in their second year of study.",
       "prerequisites": "BIOL 1103 , BIOL 1104 , and (CHEM 1006 or CHEM 1002 ).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -55,10 +50,7 @@
       "credit": "",
       "description": "Students carry out a laboratory research project under the supervision of a faculty member from the Institute of Biochemistry. A research report must be submitted by the last day of classes for evaluation by the Director and Faculty supervisor.",
       "prerequisites": "restricted to Honours students of second-year standing in a Biochemistry program with a GPA of 10.0 or higher in first year, and approval of the Director and a Faculty supervisor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -68,9 +60,7 @@
       "credit": "",
       "description": "An introduction to research methods in biochemistry. Includes modern information literacy, study designs, descriptive and inferential statistics, and effective communication of research. Examples drawn from current issues in biochemistry.",
       "prerequisites": "2nd year standing in a Biochemistry program.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -80,9 +70,7 @@
       "credit": "",
       "description": "This course examines biological macromolecules as well as their chemistry, structure and function. Enzymatic reactions and their regulation, as well as carbohydrate, lipid and protein metabolism, is emphasized. Students apply knowledge of course concepts to relevant scientific problems (disease, development).",
       "prerequisites": "( BIOC 2200 or BIOL 2200 ), and ( CHEM 2203 and CHEM 2204 ) or ( CHEM 2207 and CHEM 2208 ).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -92,9 +80,7 @@
       "credit": "",
       "description": "This course examines secondary metabolism, membrane composition/synthesis, cell communication, and flow of genetic information within a biological system. Emphasis is on understanding molecular structures, the reactions/processes they facilitate, and their regulation. Students apply knowledge of course concepts to relevant scientific problems.",
       "prerequisites": "BIOC 3101 and BIOL 2104 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -104,9 +90,7 @@
       "credit": "",
       "description": "Introduction to experimental biochemistry and the theory and concepts dealt with in  BIOC 3101 .",
       "prerequisites": "BIOC 2200 / BIOL 2200 and CHEM 2203 . CHEM 2204 and ( BIOC 2300 or CHEM 2103 ) are also recommended. It is highly recommended that BIOC 3101 be taken concurrently.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -116,9 +100,7 @@
       "credit": "",
       "description": "Introduction to experimental biochemistry and the theory and concepts dealt with in  BIOC 3101  and  BIOC 3102 .",
       "prerequisites": "BIOC 3103 . It is highly recommended that BIOC 3102 be taken concurrently.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,9 +110,7 @@
       "credit": "",
       "description": "Biochemical principles of pharmacology, including receptor mechanisms, signal transduction, pharmacokinetics, and pharmacodynamics.  Genome-wide association studies, pharmacogenomics, and personalized medicine will also be included.",
       "prerequisites": "BIOC 2200 or BIOL 2200 or BIOL 2201 , or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -140,10 +120,7 @@
       "credit": "",
       "description": "Students carry out a laboratory research project under the supervision of faculty member from the Institute of Biochemistry. A research report must be submitted by the last day of classes for evaluation by the Director and Faculty supervisor.",
       "prerequisites": "restricted to Honours students of third-year standing in a Biochemistry program with a GPA of 10.0 or higher in second year, and approval of the Director and Faculty supervisor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -163,9 +140,7 @@
       "credit": "",
       "description": "Principles and applications of modern biochemical methodology, including ultracentrifugation, electrophoresis, ELISA, EMSA, experimental planning, ligand binding kinetics, fluorescence spectroscopy, affinity purification, and in vitro translation.",
       "prerequisites": "BIOC 3103 and BIOC 3104 or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -175,9 +150,7 @@
       "credit": "",
       "description": "The application of biochemistry to the production of biological compounds useful in nutrition, medicine, and the food and chemical industries. This course covers general strategies and tools of metabolic engineering for efficient production of these compounds at scale using living cells, enzymes, or cell-free systems.",
       "prerequisites": "BIOC 3101 and BIOC 3102 ( BIOC 3102 may be taken concurrently), or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": [
         "BIOC 3102"
@@ -209,9 +182,7 @@
       "credit": "",
       "description": "The biochemical basis of disease including genetic and metabolic disorders such as cancer, neurological degenerative conditions, diabetes, stroke and microbial infections.",
       "prerequisites": "BIOC 2200 or BIOL 2201 , and third-year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -221,9 +192,7 @@
       "credit": "",
       "description": "A project-based workshop at the intersection of data and biochemistry. Students will develop skills for autonomous learning and proficiency in database selection, computational tool integration, data management, introductory programming, statistical analysis, data visualization, and effective communication of biochemically-relevant information.",
       "prerequisites": "BIOC 3101 and BIOC 3102 , or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -233,9 +202,7 @@
       "credit": "",
       "description": "Theory and application of current techniques and developments in cell culture as applied to research questions in the field of stem cells and tissue engineering.",
       "prerequisites": "BIOL 3201 or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -255,9 +222,7 @@
       "credit": "",
       "description": "The course covers chemical and biosynthetic methods applied to the major classes of biomolecules and their derivatives, including: carbohydrates, amino acids, peptides, proteins, nucleic acids, lipids, terpenes, heterocycles and natural products. Content will focus on reactions and mechanisms that contribute to their biological activities.",
       "prerequisites": "CHEM 3201 or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -267,9 +232,7 @@
       "credit": "",
       "description": "Basic theorems of toxicology with examples of current research problems. Toxic risk is defined as the product of intensive hazard and extensive exposure. Each factor is assessed in scientific and social contexts and illustrated with many types of experimental material.",
       "prerequisites": "BIOC 3101 and fourth-year standing or permission of the Institute.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -279,10 +242,7 @@
       "credit": "",
       "description": "Independent or group study, open to third- and fourth-year students to explore a particular topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, or laboratory or field work.",
       "prerequisites": "permission of the Institute. Students normally may not offer more than 0.5 credit of Directed Special Studies in their program.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -302,10 +262,7 @@
       "credit": "",
       "description": "An independent research study using library resources. The candidate will prepare a critical review of a topic and research proposal approved by a faculty adviser. Evaluation will be based on a written report and a poster presentation of the project.",
       "prerequisites": "fourth-year standing in an Honours Biochemistry program and permission of the Institute.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -315,10 +272,7 @@
       "credit": "",
       "description": "Students carry out a research project approved by the Director, under the supervision of a faculty member of the Institute, in either the Biology or Chemistry departments. Evaluation is based on a written thesis and poster presentation.",
       "prerequisites": "( BIOC 3103 and BIOC 3104 ) and ( BIOC 3101 and BIOC 3102 ) or equivalent, and eligibility to continue in Honours Biochemistry or in Biochemistry and Biotechnology.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     }

@@ -42,10 +42,17 @@ const shortenProgram = (degree = '') => {
     [/computing theory/i,                         'Computing Theory'],
     [/data science/i,                             'Data Science'],
     [/bioinformatics/i,                           'Bioinformatics'],
-    [/cognitive science/i,                        'Cognitive Science'],
     [/network security|computer networking/i,     'Networking'],
   ]
   for (const [re, label] of specifics) if (re.test(degree)) return label
+
+  // Cognitive Science concentrations — extract the concentration name
+  const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s{2,}|$)/i)
+  if (cogM) {
+    const c = cogM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+  if (/cognitive science/i.test(degree)) return 'Cognitive Science'
 
   let s = degree
     .replace(/^(Honours\s+)?Bachelor\s+of\s+\S+\s+/i, '')

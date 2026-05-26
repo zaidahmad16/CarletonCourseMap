@@ -8,9 +8,7 @@
       "credit": "",
       "description": "An overview of mental health conditions, exploring biological, developmental, experiential and environmental factors that contribute to their onset and expression. Topics may include depressive and anxiety disorders, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, and substance use disorders.",
       "prerequisites": "",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -20,9 +18,7 @@
       "credit": "",
       "description": "An overview of neurological conditions, examining biological, developmental, experiential and environmental contributions. Topics may include stroke, multiple sclerosis, seizure conditions, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
       "prerequisites": "",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -32,9 +28,7 @@
       "credit": "",
       "description": "A general introduction to research process within neuroscience. Topics covered include research strategies, methods, and techniques; basic descriptive statistics; research communication; and responsible scientific conduct.",
       "prerequisites": "second-year standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -44,9 +38,7 @@
       "credit": "",
       "description": "A general introduction to statistical techniques employed within contemporary neuroscience. Topics covered include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
       "prerequisites": "PSYC 2001 or NEUR 2001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -66,10 +58,7 @@
       "credit": "",
       "description": "Introduction to various forms of scientific writing appropriate to neuroscience, with a focus in fundamental skills in scientific writing.",
       "prerequisites": "second-year standing in a Neuroscience program and one of NEUR 1201, NEUR 1202 or NEUR 1203 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -79,9 +68,7 @@
       "credit": "",
       "description": "Core principles in cellular and molecular neuroscience, including signal transmission along and between neurons, ion channels and transporters, intracellular signaling pathways, and regulation of gene expression.",
       "prerequisites": "Either NEUR 1201 and NEUR 1203 , or NEUR 1202 and NEUR 1203 , or both BIOL 1103 and BIOL 1104 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -91,9 +78,7 @@
       "credit": "",
       "description": "Core principles in nervous system development from embryogenesis to plasticity in the adult brain. Topics include neural induction, neurogenesis, apoptosis, neuronal migration and axon growth, synaptogenesis and synaptic pruning both under normal conditions and in psychopathology.",
       "prerequisites": "NEUR 1202 and NEUR 1203 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -113,9 +98,7 @@
       "credit": "",
       "description": "Introducing various software for analyzing neuroscience data. Dealing with real data, drawing graphs, application of descriptive and inferential statistics through the general linear model, assumptions of parametric tests, robust statistics, confidence intervals, correlations, use of appropriate statistical methods and interpretation of results.",
       "prerequisites": "PSYC 2001 and PSYC 2002 , or NEUR 2001 and NEUR 2002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -125,9 +108,7 @@
       "credit": "",
       "description": "Use of software for analyzing neuroscience data. Statistical techniques typically include nonparametric tests, t tests, and various forms of both ANOVA and regression including robust statistical tests, with a focus on the practical application of appropriate statistical methods and interpretation of results.",
       "prerequisites": "NEUR 3001 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -157,9 +138,7 @@
       "credit": "",
       "description": "Overview of chemical neurotransmission and key neurotransmitter systems.  A description of licit and illicit drugs covering topics that range from historical perspectives to pharmacology to mechanisms of action in the brain.  Discussion of neurochemical basis of psychiatric diseases including anxiety, depression and schizophrenia.",
       "prerequisites": "NEUR 2200 or NEUR 2201 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -169,9 +148,7 @@
       "credit": "",
       "description": "Exploration of major topics in sensory processing and motor control, with a focus on underlying mechanisms and neurobiological principles. Topics include all sensory systems (such as vision, somatosensation and audition) plus motor system components including lower and upper motor neurons, basal ganglia, and cerebellum.",
       "prerequisites": "NEUR 1201 or both NEUR 1202 and NEUR 1203 , and either NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -181,9 +158,7 @@
       "credit": "",
       "description": "Neural systems underlying complex behaviours including emotion, motivation, and sleep, and the role of association cortices in brain function.",
       "prerequisites": "NEUR 3206 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -213,9 +188,7 @@
       "credit": "",
       "description": "The effects of hormones throughout life at all levels of the nervous system. The role of hormones in mediating behaviours that are both basic (feeding, reproduction and social interactions) and complex (motivation, emotion, learning and memory).",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -235,9 +208,7 @@
       "credit": "",
       "description": "Healthy lifestyle choices and positive social interactions can reduce the incidence of pathological conditions such as depression, obesity, cardiovascular disease and impaired immunity. This course focuses on psychosocial and neurobiological mechanisms that underlie the relationship between lifestyle, social interactions and health.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -247,9 +218,7 @@
       "credit": "",
       "description": "Stressful events can have profound repercussions on physical and psychological well-being. This course examines the psychosocial and biological processes by which stressors predispose to both physical (immune-related disorders, diabetes, heart disease) and psychological (acute stress disorder, posttraumatic stress disorder, depression, anxiety) pathologies.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -259,9 +228,7 @@
       "credit": "",
       "description": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -271,9 +238,7 @@
       "credit": "",
       "description": "Exploration of human brain development, from cell differentiation to complex neural networks. This course considers how variations in neurodevelopment may be associated with conditions such as dyslexia, ADHD, schizophrenia and autism.",
       "prerequisites": "NEUR 2200, or both NEUR 2201 and NEUR 2202 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -293,9 +258,7 @@
       "credit": "",
       "description": "Each section of  NEUR 4001  deals with a different topic. Topics change yearly. Students may register in more than one section of  NEUR 4001  but can register in each section only once.",
       "prerequisites": "NEUR 3200, or NEUR 3204 and NEUR 3206 and NEUR 3207 , or permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -325,9 +288,7 @@
       "credit": "",
       "description": "Headline research in neuroscience. Topics may include technical and conceptual advances, ethical issues, medical improvement, and social impacts of neuroscience research.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -337,10 +298,7 @@
       "credit": "",
       "description": "Recent research in clinical neuroscience including biological, developmental, experiential and environmental factors that contribute to mental health conditions. Topics may include depression, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, substance use disorders, and personality-related conditions.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -370,21 +328,17 @@
       "credit": "",
       "description": "Neurobiological processes behind reproductive behaviours in various animal species including humans. Evaluation of data concerning neurobiological differences between sexes, biological determinants of sexual orientation, and relating to neurobiology of sex disorders.",
       "prerequisites": "NEUR 3304 .",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "NEUR 4303",
-      "name": "Indigenous Health &amp; Mental Health",
+      "name": "Indigenous Health & Mental Health",
       "credit": "",
       "description": "Explores physical and mental health issues in Indigenous communities through cultural, environmental, developmental and biological perspectives, with attention to the impacts of colonialism, intergenerational trauma, and community resilience.",
       "prerequisites": "Third year standing or above.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -394,9 +348,7 @@
       "credit": "",
       "description": "Communication between the brain and the immune system; messengers mediating the interaction. How disturbances of immune-brain signaling can lead to disease (multiple sclerosis, Parkinson\u2019s) and to changes in mood and cognition.",
       "prerequisites": "NEUR 3200 or NEUR 3207 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -406,9 +358,7 @@
       "credit": "",
       "description": "Explores how substance use and behavioural addictions impact neural function, contributing to changes in the brain system involved in addiction. Contemporary neurobiological theories of addiction will also be addressed.",
       "prerequisites": "NEUR 3204 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -418,9 +368,7 @@
       "credit": "",
       "description": "Advanced experiential learning in neuroanatomy, histology and microscopy.",
       "prerequisites": "NEUR 3200 or both NEUR 3206 and NEUR 3207 , fourth-year standing in a Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -440,10 +388,7 @@
       "credit": "",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program.",
       "prerequisites": "third- or fourth- year standing and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -463,10 +408,7 @@
       "credit": "",
       "description": "The course will focus on active learning in areas that include written and oral communication, evaluation and interpretation of results, statistics and data management, emphasizing transferable skills that will be most appropriate for non-research career paths.",
       "prerequisites": "fourth-year standing in an Honours Neuroscience program and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -486,10 +428,7 @@
       "credit": "",
       "description": "An independent essay based critical review on a topic in neuroscience, using library resources, under the direct supervision of a Faculty advisor, typically from the Department of Neuroscience. Evaluation is based on a written report.",
       "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -499,10 +438,7 @@
       "credit": "",
       "description": "An independent research project undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience. Evaluation is based on a written report and poster.",
       "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 10.0 and permission of the Department.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }

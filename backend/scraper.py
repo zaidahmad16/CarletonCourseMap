@@ -1,3 +1,4 @@
+import html
 import json
 import os
 import re
@@ -39,7 +40,6 @@ PROGRAMS = {
     "Geography": "https://calendar.carleton.ca/undergrad/undergradprograms/geography/",
     "Geomatics": "https://calendar.carleton.ca/undergrad/undergradprograms/geomatics/",
     "Global and International Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/gins/",
-    "Greek and Roman Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/greekandromanstudies/",
     "Health Sciences": "https://calendar.carleton.ca/undergrad/undergradprograms/healthsciences/",
     "History": "https://calendar.carleton.ca/undergrad/undergradprograms/history/",
     "Humanities": "https://calendar.carleton.ca/undergrad/undergradprograms/humanities/",
@@ -79,7 +79,7 @@ CHOOSE_RE       = re.compile(
 
 
 def _clean(text):
-    return text.replace("\xa0", " ").strip()
+    return html.unescape(text.replace("\xa0", " ")).strip()
 
 
 def _row_classes(row):
@@ -516,10 +516,19 @@ def scrape_offerings(all_programs):
 def main():
     os.makedirs(_DATA_DIR, exist_ok=True)
 
+    # For departments that share a URL with another dept, keep only matching programs
+    _PROGRAM_KEEP = {
+        "Cybersecurity":        lambda d: "cybersecurity" in d.lower(),
+        "International Business": lambda d: "international business" in d.lower(),
+    }
+
     results = []
     for name, url in PROGRAMS.items():
         print(f"Scraping: {name}")
         data = scrape_program(name, url)
+        if name in _PROGRAM_KEEP:
+            keep = _PROGRAM_KEEP[name]
+            data["programs"] = [p for p in data.get("programs", []) if keep(p.get("degree", ""))]
         results.append(data)
 
         slug = re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")

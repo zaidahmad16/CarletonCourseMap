@@ -141,6 +141,41 @@ export default function MapPage() {
       })
   }, [courseMap])
 
+  // find a matching node when the search query changes, highlight it, and pan to it
+  useEffect(() => {
+    if (!searchQuery || nodes.length === 0) { setHighlightedId(null); return }
+    const q = searchQuery.toLowerCase()
+    const match = nodes.find(n =>
+      n.type === 'course' && !n.data.isElective &&
+      (n.id.toLowerCase().includes(q) || n.data.name?.toLowerCase().includes(q))
+    )
+    if (match) {
+      setHighlightedId(match.id)
+      rfRef.current?.fitView({ nodes: [{ id: match.id }], padding: 0.5, duration: 300 })
+    } else {
+      setHighlightedId(null)
+    }
+  }, [searchQuery, nodes])
+
+  const displayNodes = useMemo(
+    () => nodes.map(n => {
+      const dimmed      = chainIds !== null && !chainIds.has(n.id)
+      const highlighted = !chainIds && highlightedId === n.id
+      if (!dimmed && !highlighted) return n
+      return { ...n, data: { ...n.data, highlighted, dimmed } }
+    }),
+    [nodes, highlightedId, chainIds]
+  )
+
+  const displayEdges = useMemo(
+    () => chainIds
+      ? edges.map(e => chainIds.has(e.source) && chainIds.has(e.target)
+          ? e
+          : { ...e, style: { ...e.style, opacity: 0.08 } })
+      : edges,
+    [edges, chainIds]
+  )
+
   // open the course panel when a non-elective node is clicked
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return

@@ -5,7 +5,7 @@
     {
       "code": "BUSI 1001",
       "name": "Principles of Financial Accounting",
-      "credit": "0.5",
+      "credit": "",
       "description": "Discussion of the concepts of asset valuation and income measurement underlying the preparations and interpretation of financial statements.",
       "prerequisites": "BUSI 1800 , or enrolment in Statistics with Concentration in Actuarial Science B.Math Honours.",
       "offerings": [
@@ -18,7 +18,7 @@
     {
       "code": "BUSI 1003",
       "name": "Survey of Accounting",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to accounting information, the basic accounting cycle, and consideration of selected financial statement topics. Analysis of cost behavior and the uses and limitations of accounting information in planning, controlling and decision-making processes.",
       "prerequisites": "",
       "offerings": [
@@ -31,21 +31,29 @@
     {
       "code": "BUSI 1004",
       "name": "Financial Accounting for Business Students",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to accounting for business organizations. The student will be introduced to the accounting process and the preparation and analysis of the balance sheet, income statement, and cash flow statement.",
       "prerequisites": "BUSI 1800 . Restricted to B.Com. and B.I.B. students.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 1005",
       "name": "Managerial Accounting for Business Students",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the development and use of accounting information within a business organization for effective management including: planning, directing, motivating, and controlling activities and behaviours.",
       "prerequisites": "BUSI 1004 . Restricted to B.Com. and B.I.B. students.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
+      "code": "BUSI 1011",
+      "name": "Financial Accounting for Business Students",
+      "credit": "",
+      "description": "Introduction to accounting for business organizations. The student will be introduced to the accounting process and the preparation and analysis of the balance sheet, income statement, and cash flow statement.",
+      "prerequisites": "BUSI 1800 . Restricted to B.Acc., B.Com., and B.I.B. students.",
       "offerings": [
         "fall",
         "winter"
@@ -54,21 +62,9 @@
       "concurrent_prerequisites": []
     },
     {
-      "code": "BUSI 1011",
-      "name": "Financial Accounting for Business Students",
-      "credit": "0.5",
-      "description": "Introduction to accounting for business organizations. The student will be introduced to the accounting process and the preparation and analysis of the balance sheet, income statement, and cash flow statement.",
-      "prerequisites": "BUSI 1800 . Restricted to B.Acc., B.Com., and B.I.B. students.",
-      "offerings": [
-        "winter"
-      ],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
       "code": "BUSI 1080",
       "name": "Accounting Fundamentals - The Language of Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to accounting for the planning and control of operations, the basic accounting cycle, and consideration of selected financial statement topics. Use of accounting within an organization for effective management including review and analysis of multiple business models when establishing a new venture.",
       "prerequisites": "",
       "offerings": [],
@@ -78,7 +74,7 @@
     {
       "code": "BUSI 1401",
       "name": "Foundations of Information Systems",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course helps student to understand the critical role of information systems in organizations and their impact on social and ethical issues. Covers fundamental tools and skills for the development and management of information systems and business analytics in organizations.",
       "prerequisites": "",
       "offerings": [
@@ -91,7 +87,7 @@
     {
       "code": "BUSI 1402",
       "name": "Introduction to Business Information and Communication Technologies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to ICT in organizations. Topics may include spreadsheets, databases, statistical software, website design and implementation, collaboration software including wikis, blogs and social networking, GPS, m-Commerce.",
       "prerequisites": "",
       "offerings": [
@@ -103,7 +99,7 @@
     {
       "code": "BUSI 1701",
       "name": "Introduction to International Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the principles and practices of international business. Topics include the impact of culture and the political, economic, and legal systems on global strategy, international institutions, theories of cross-border trade, and the characteristics and effects of regional trade blocs.",
       "prerequisites": "restricted to B.I.B. students.",
       "offerings": [
@@ -115,7 +111,7 @@
     {
       "code": "BUSI 1800",
       "name": "Introduction to Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to contemporary businesses in a complex economy, their role in the society, their history. The various functions that come together to define a business will be examined. All forms of business communications emphasized.",
       "prerequisites": "",
       "offerings": [
@@ -128,7 +124,7 @@
     {
       "code": "BUSI 1995",
       "name": "Employability Passport I",
-      "credit": "0.0",
+      "credit": "",
       "description": "An introduction to the knowledge and tools required for a career in Business.",
       "prerequisites": "Restricted to students registered in B. Acc., B.Com., or B.I.B.",
       "offerings": [
@@ -141,25 +137,21 @@
     {
       "code": "BUSI 2001",
       "name": "Intermediate Accounting I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of accounting and reporting issues related primarily to asset valuation and revenue recognition.",
       "prerequisites": "second-year standing, and BUSI 1011 or BUSI 1004 or BUSI 1001 (with a grade of C or higher in each).",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2002",
       "name": "Intermediate Accounting II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of accounting and reporting issues related primarily to liabilities and equities.",
       "prerequisites": "BUSI 2001 , and BUSI 2501 or BUSI 2503 (with a grade of C or higher in each).",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -167,7 +159,7 @@
     {
       "code": "BUSI 2005",
       "name": "Income Tax Fundamentals",
-      "credit": "0.5",
+      "credit": "",
       "description": "A foundation course that aims to introduce the fundamental concepts of income tax laws and regulations as significant elements in the planning and decision making process of taxpayers and managers. Problems, issues and planning associated with the Income Tax Act are discussed.",
       "prerequisites": "BUSI 1001 or BUSI 1004 or BUSI 1011 (with a grade of C- or higher in each).",
       "offerings": [
@@ -179,37 +171,46 @@
     {
       "code": "BUSI 2008",
       "name": "Management Accounting",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the use of accounting data for the purposes of planning and control of operations.",
       "prerequisites": "BUSI 1001 , or permission of the Sprott School of Business.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2011",
       "name": "Intermediate Financial Reporting I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application and measurement of routine accounting transactions related primarily to asset valuation and revenue recognition.",
       "prerequisites": "BUSI 1001 , BUSI 1004 , or BUSI 1011 (with a grade of C or better in each).",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2018",
       "name": "Managerial Accounting for Business Students",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the development and use of accounting information within a business organization for effective management including: planning, directing, motivating, and controlling activities and behaviours.",
       "prerequisites": "BUSI 1004 or BUSI 1011 . Restricted to B.Acc., B.Com., and B.I.B. students.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2101",
       "name": "Organizational Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Models of individual and small group behaviour in organizations. Topics include motivation, communication, job design, leadership and group dynamics to provide systematic explanations of employee and managerial behaviour in organizations.",
       "prerequisites": "second-year standing. Restricted to B.Com. students.",
       "offerings": [
@@ -222,7 +223,7 @@
     {
       "code": "BUSI 2121",
       "name": "Introduction to Organizational Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Individual and small group behaviors in organizations and management of the same.",
       "prerequisites": "second-year standing.",
       "offerings": [
@@ -235,7 +236,7 @@
     {
       "code": "BUSI 2204",
       "name": "Basic Marketing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Basic problems and practices in marketing. Marketing planning tools and strategies of firms.",
       "prerequisites": "",
       "offerings": [
@@ -248,7 +249,7 @@
     {
       "code": "BUSI 2208",
       "name": "Introduction to Marketing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Overview of the marketing function within the firm. Introduction to key marketing concepts and principles; business environment analysis, strategic decision making (segmentation, targeting, positioning), marketing mix planning (product, price, place promotion). Analysis of marketing problems using cases and major project.",
       "prerequisites": "BUSI 1011 (or BUSI 1004), ECON 1001 and ECON 1002 (or ECON 1000), and one of BUSI 1701, PSYC 1002, SOCI 1005.",
       "offerings": [
@@ -261,7 +262,7 @@
     {
       "code": "BUSI 2301",
       "name": "Introduction to Supply and Operations Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Concepts, models, and managerial issues in planning, designing, operating and controlling systems across supply chains for the provision of goods and services. Emphasis on basic ideas and tools.",
       "prerequisites": "second-year standing. Restricted to selected Sprott programs.",
       "offerings": [
@@ -274,7 +275,7 @@
     {
       "code": "BUSI 2401",
       "name": "Introduction to Data Analytics",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course prepares students to gather, manipulate, and clean data from a variety of sources within a programming environment. Students will be introduced to visual data exploration and the deployment of data-driven visual storytelling. Topics include: APIs, Data Science Programming, SQL, Relational/NoSQL databases, data visualization.",
       "prerequisites": "BUSI 1401 .",
       "offerings": [
@@ -287,7 +288,7 @@
     {
       "code": "BUSI 2402",
       "name": "Business Applications Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to programming. Fundamentals of structured and object-oriented programming using an OO programming language. Treatment of objects, abstraction and inheritance, event-driven programming, iteration, sequence and selection. Consideration of algorithms for searching, sorting, string processing and numerical analysis. Emphasis on the development of business applications.",
       "prerequisites": "second-year standing.",
       "offerings": [
@@ -299,7 +300,7 @@
     {
       "code": "BUSI 2501",
       "name": "Business Finance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Basic issues and practices in finance. Survey of business firms' financing, investment, and payout decisions. Emphasis on understanding the principles, resources, and trade-offs in the financial area of business.",
       "prerequisites": "BUSI 2018 (or BUSI 1005 ), and ECON 1001 and ECON 1002 (or ECOR 3800 ). Restricted to selected Sprott programs.",
       "offerings": [
@@ -312,7 +313,7 @@
     {
       "code": "BUSI 2503",
       "name": "Introduction to Finance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Basic issues and practices in finance. Survey of business firms' financing, investment, and payout decisions. Emphasis on understanding the principals, resources and trade-offs in the financial area of a business.",
       "prerequisites": "second-year standing.",
       "offerings": [
@@ -325,27 +326,31 @@
     {
       "code": "BUSI 2506",
       "name": "Financial Statement Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis and interpretation of an entity's financial statements and annual report from a user perspective. Ratio analysis is used to analyze firm performance and make forecasts of future performance.",
       "prerequisites": "BUSI 2501 with a grade of C or higher.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2535",
       "name": "Financial Planning I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Covers core financial management concepts, including budgeting, saving, and investing fundamentals, with emphasis on insurance and risk management. As the first in a three-course sequence, it builds the foundation for advanced financial planning studies.",
       "prerequisites": "BUSI 1011 , BUSI 2501 , BUSI 2601 and BUSI 3015 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2601",
       "name": "Business Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "The legal system and legal ordering as they affect those engaged in business activities. Emphasis on the law of tort, law of contract, agency and bailment, business associations (partnerships/proprietorships/corporations) and real estate.",
       "prerequisites": "",
       "offerings": [
@@ -358,7 +363,7 @@
     {
       "code": "BUSI 2701",
       "name": "Fundamentals of International Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the context and operation of international business. Topics include international trade theory, trade agreements and blocs, international finance, global marketing, international human resource management and global strategy.",
       "prerequisites": "BUSI 1800 .",
       "offerings": [
@@ -371,7 +376,7 @@
     {
       "code": "BUSI 2702",
       "name": "Introduction to International Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Applies principles of organizational behavior and organizational theory to the operations of international businesses. Introduces how culture can influence work and organizational life. Includes discussion of appropriate strategies and structures, processes in a multi-national and multi-cultural setting.",
       "prerequisites": "Second-year standing in B.Com., B.Acc, or B.I.B. and BUSI 1701 or BUSI 2701 .",
       "offerings": [
@@ -383,7 +388,7 @@
     {
       "code": "BUSI 2703",
       "name": "Introduction to International Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to contemporary businesses in a complex economy, their role in society and their history. Examination of the various functions that come together to define a business with an emphasis on all forms of business communications.",
       "prerequisites": "second-year standing. No credit for students in B.Com. or BIB.",
       "offerings": [
@@ -395,7 +400,7 @@
     {
       "code": "BUSI 2750",
       "name": "Intercultural Communications",
-      "credit": "0.5",
+      "credit": "",
       "description": "In our globalized world, effective communication is essential in our personal and professional lives. This course explores fundamental skills and principles for successful intercultural interactions, cross-cultural communication, and cultural competence. This course emphasizes diverse perspectives in a global context to enhance cultural intelligence.",
       "prerequisites": "second-year standing in B.I.B. and BUSI 1701 .",
       "offerings": [
@@ -407,17 +412,19 @@
     {
       "code": "BUSI 2755",
       "name": "Intercultural Skills",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores communications across diverse cultural contexts, emphasizing understanding cultural differences, effective communication strategies, and the development of intercultural competence within organizations. Students will enhance their ability to navigate and communicate effectively in multicultural settings through theoretical frameworks, case studies, and practical exercises.",
       "prerequisites": "No credit for students in B.I.B.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 2800",
       "name": "Entrepreneurship",
-      "credit": "0.5",
+      "credit": "",
       "description": "Overview of the basics of entrepreneurship, with emphasis on idea generation and identification, team building, business models, initial strategies and feasibility. A number of organization types will be studied.",
       "prerequisites": "Second-year standing.",
       "offerings": [
@@ -430,17 +437,19 @@
     {
       "code": "BUSI 2819",
       "name": "Sustainability Accounting and Social Finance",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course offers different avenues for in-depth explorations in sustainability accounting, impact measurement and social finance for undergraduate students.  Each module covers a special topic within responsible business, such as impact measurement, responsible finance, impact investing, responsible and ESG investing, sustainability accounting.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 3001",
       "name": "Accounting for Business Combinations",
-      "credit": "0.5",
+      "credit": "",
       "description": "Accounting problems associated with business combinations, with attention to the preparation of consolidated financial statements. Discussion may extend to financial reporting and diversified companies, reorganizations, etc. Selection of topics may vary from year to year.",
       "prerequisites": "BUSI 2002 with a grade of C- or higher.",
       "offerings": [
@@ -453,7 +462,7 @@
     {
       "code": "BUSI 3005",
       "name": "Taxation I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Federal income tax laws and regulations and their impact on an individual's financial and business decisions. Problems, issues and planning associated with the Income Tax Act and concerned with the computation of taxable income and taxes payable by an individual are discussed.",
       "prerequisites": "BUSI 2001 with a grade of C- or higher.",
       "offerings": [
@@ -466,7 +475,7 @@
     {
       "code": "BUSI 3007",
       "name": "Auditing I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Auditing theory, methodology and application.",
       "prerequisites": "BUSI 2001 .",
       "offerings": [
@@ -479,7 +488,7 @@
     {
       "code": "BUSI 3008",
       "name": "Intermediate Management Accounting and Control",
-      "credit": "0.5",
+      "credit": "",
       "description": "The use of accounting information for cost control and performance evaluation. Emphasis is on cost accumulation systems, performance evaluation, control models and analytical tools.",
       "prerequisites": "BUSI 1005 or BUSI 2008 or BUSI 2018 (with a grade of C- or higher in each).",
       "offerings": [
@@ -492,17 +501,19 @@
     {
       "code": "BUSI 3011",
       "name": "Intermediate Financial Reporting II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application and measurement of routine accounting transactions related primarily to investments, liabilities and shareholders\u2019 equity.",
       "prerequisites": "BUSI 2011 , and BUSI 2501 or BUSI 2503 (with a grade of C or better in each).",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 3013",
       "name": "Professionalism and Perspectives in Accounting",
-      "credit": "0.25",
+      "credit": "",
       "description": "Theories of professions, professionalism, Indigenous views and equity, diversity and inclusion (EDI) and application to accountancy.",
       "prerequisites": "BUSI 2011 (with a grade of C- or better).",
       "offerings": [],
@@ -512,7 +523,7 @@
     {
       "code": "BUSI 3014",
       "name": "Exploring Sustainability in Accounting",
-      "credit": "0.25",
+      "credit": "",
       "description": "Exploration of the application of how sustainability (including Environmental, Social and Governance) plays a role in accounting.",
       "prerequisites": "BUSI 2011 (with a grade of C- or better).",
       "offerings": [],
@@ -522,7 +533,7 @@
     {
       "code": "BUSI 3015",
       "name": "Taxation Concepts",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application and measurement of routine taxation transactions.",
       "prerequisites": "third-year standing, and BUSI 1001 , BUSI 1004 , or BUSI 1011 (with a grade of C- or better).",
       "offerings": [],
@@ -532,7 +543,7 @@
     {
       "code": "BUSI 3017",
       "name": "Auditing Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Auditing theory, methodology and application.",
       "prerequisites": "BUSI 2001 or 2011.",
       "offerings": [],
@@ -542,7 +553,7 @@
     {
       "code": "BUSI 3018",
       "name": "Cost Management and Decision Making",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application and measurement of accounting information for cost control and performance evaluation.",
       "prerequisites": "BUSI 1005 , BUSI 2008 , or BUSI 2018 , and BUSI 2501 or BUSI 2503 (with a grade of C- or better in each).",
       "offerings": [],
@@ -552,7 +563,7 @@
     {
       "code": "BUSI 3040",
       "name": "Data Analytics and Information Systems for Accounting",
-      "credit": "0.5",
+      "credit": "",
       "description": "Data analysis in accounting, working with and making sense of big data using various data analysis tools. Specific topics include; data collection, cleaning, analyzing, visualization, and decision making in different areas of accounting.",
       "prerequisites": "1. BUSI 1401 (or BUSI 2400), and BUSI 3017 or BUSI 3007 with a grade of C- or higher in each. or 2. Enrolment in the Post-Baccalaureate Diploma in Accounting, and BUSI 3017 or BUSI 3007 with a grade of C- or higher in either.",
       "offerings": [
@@ -565,7 +576,7 @@
     {
       "code": "BUSI 3102",
       "name": "Introduction to Human Resources Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Human Resource Management function in large formal organizations. Topics include human resources planning, recruitment, selection, performance evaluation, career development and training, compensation and benefits and the role of the professional personnel manager.",
       "prerequisites": "second-year standing, and one of BUSI 2101, BUSI 2121, BUSI 2702, BUSI 3602 , PSYC 2801.",
       "offerings": [
@@ -578,7 +589,7 @@
     {
       "code": "BUSI 3103",
       "name": "Introduction to Organization Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Macro-organization theory. Structuring of organizations in a complex global economy. Effects of the external environment, technology, culture and organizational goals on the structure, processes and effectiveness of the organization.",
       "prerequisites": "second-year standing, and one of BUSI 2101, BUSI 2121, BUSI 2702, PSYC 2801.",
       "offerings": [
@@ -591,7 +602,7 @@
     {
       "code": "BUSI 3104",
       "name": "Managing Individual Performance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Managing the performance of self and others. Topics include self awareness, motivation, leadership, communication, diversity, and creativity. Extensive use is made of self-assessments and experiential learning.",
       "prerequisites": "BUSI 2101, BUSI 2121, BUSI 2702, or PSYC 2801 (with a grade of C or higher in each).",
       "offerings": [
@@ -603,7 +614,7 @@
     {
       "code": "BUSI 3105",
       "name": "Managing and Motivating Teams",
-      "credit": "0.5",
+      "credit": "",
       "description": "Principles of working in and managing teams. Topics include self-awareness, team formation, team development, team dynamics, team leadership and team motivation.",
       "prerequisites": "BUSI 2101, BUSI 2121, BUSI 2702, or PSYC 2801 (with a grade of C or higher in each).",
       "offerings": [
@@ -615,7 +626,7 @@
     {
       "code": "BUSI 3106",
       "name": "Managing Conflict and Negotiation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis of the sources and forms of conflict and effective approaches to managing conflict. Exploration of the effectiveness of various strategies of negotiations.",
       "prerequisites": "BUSI 2101, BUSI 2121, BUSI 2702, or PSYC 2801 (with a grade of C- or higher in each).",
       "offerings": [
@@ -627,7 +638,7 @@
     {
       "code": "BUSI 3119",
       "name": "Business and Environmental Sustainability",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examining concepts of environmental sustainability within the business context. Exploring the complex interdependency between organizations, society and the natural environment.",
       "prerequisites": "third year standing.",
       "offerings": [
@@ -639,7 +650,7 @@
     {
       "code": "BUSI 3204",
       "name": "Digital Marketing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction and assessment of key new marketing tools and approaches, including internet marketing, relationship marketing, direct marketing; effective adoption and implementation of these tools and approaches across industries and organizations.",
       "prerequisites": "BUSI 2204 or BUSI 2208 (with a grade of C- or higher in each).",
       "offerings": [
@@ -652,7 +663,7 @@
     {
       "code": "BUSI 3205",
       "name": "Marketing Communications",
-      "credit": "0.5",
+      "credit": "",
       "description": "Promotion as communication process and marketing tool. Integrating advertising, direct/digital marketing, interactive media, sales promotion, public relations, personal selling  through strategic planning  (research, budgeting, organizing, creative and media strategy), execution, and campaign evaluation. Regulatory, ethical, social issues considerations.",
       "prerequisites": "BUSI 2208 or BUSI 2204 (with a grade of C- or higher in each).",
       "offerings": [
@@ -665,7 +676,7 @@
     {
       "code": "BUSI 3207",
       "name": "Marketing Research",
-      "credit": "0.5",
+      "credit": "",
       "description": "Concepts essential for understanding and conducting applied marketing research. Methods for collecting, analyzing, and interpreting data relevant to marketing decision-making. Experience in research techniques through case studies, exercises and project.",
       "prerequisites": "BUSI 2204 or BUSI 2208 (with a grade of C or higher in each), STAT 2601 or STAT 2606 (with a grade of C- or higher in each).",
       "offerings": [
@@ -677,7 +688,7 @@
     {
       "code": "BUSI 3208",
       "name": "Business-to-Business Marketing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theories and practice of marketing in business-to-business markets with emphasis on high technology businesses, including strategic marketing management, buyer behaviour and competitive analysis, sales management, new product management, and international issues.",
       "prerequisites": "BUSI 2204 or BUSI 2208 (with a grade of C- or higher in each).",
       "offerings": [],
@@ -687,7 +698,7 @@
     {
       "code": "BUSI 3209",
       "name": "Consumer Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the application of psychological theories and methodologies to consumer behaviour. How consumer behaviour is shaped by internal influences. Topics include perception, learning, memory, motivation, affect, personality, the self, attitudes and decision-making.",
       "prerequisites": "third-year standing, and BUSI 2204 or BUSI 2208 (with a grade of C or higher in each).",
       "offerings": [
@@ -700,7 +711,7 @@
     {
       "code": "BUSI 3210",
       "name": "Personal Selling",
-      "credit": "0.5",
+      "credit": "",
       "description": "Provides an introduction to and application of the principles of personal selling for persons pursuing any vocation, as well as those aspiring to careers in Marketing. Introduces basic concepts of professional selling including: customer analysis, communication skills, effective openings and closings, and customer relations.",
       "prerequisites": "BUSI 2204 or BUSI 2208 with a grade of C- or higher.",
       "offerings": [
@@ -712,7 +723,7 @@
     {
       "code": "BUSI 3301",
       "name": "Global Supply Chain Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to management of global supply chain. Topics include strategies for planning and coordinating of all activities involved in procurement, conversion, and logistics in the global environment.",
       "prerequisites": "second-year standing, and BUSI 2301 (with a grade of C or higher), and STAT 2601 or STAT 2606 (with a grade of C- or higher in each).",
       "offerings": [
@@ -724,7 +735,7 @@
     {
       "code": "BUSI 3305",
       "name": "Distribution Channels and Logistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth examination of distribution channels and logistics; roles and interrelations in the achievement of marketing mix objectives and in creating competitive advantage. Channels design and management, managing logistics, warehousing, packaging and material handling, new trends in channels and logistics.",
       "prerequisites": "third-year standing, and BUSI 2301 (with a grade of C or higher), and STAT 2601 or STAT 2606 (with a grade of C- or higher in each).",
       "offerings": [
@@ -736,7 +747,7 @@
     {
       "code": "BUSI 3309",
       "name": "Project Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Identification, selection, initiation, and organization of projects; risk assessment; project scheduling, performance monitoring and control, and termination. Emphases on foundations, principles and supporting techniques.",
       "prerequisites": "third-year standing, and STAT 2601 or STAT 2606.",
       "offerings": [
@@ -749,7 +760,7 @@
     {
       "code": "BUSI 3400",
       "name": "Database Design",
-      "credit": "0.5",
+      "credit": "",
       "description": "Information management, database administration, Entity-Relationship Model, database development life cycle: planning, analysis, design, implementation, and maintenance of database management systems. Construction of a database. Introduction to SQL, distributed databases, object-oriented databases, and data warehousing.",
       "prerequisites": "BUSI 1401 or BUSI 2400 (with a grade of C or higher in each).",
       "offerings": [
@@ -761,7 +772,7 @@
     {
       "code": "BUSI 3401",
       "name": "Applications Development for Online Environments",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis, design and implementation of electronic business systems. Topics include advanced object-oriented programming, advanced SQL programming, XML, using ASP.NET, MTS and SQL Server.",
       "prerequisites": "BUSI 2402 and BUSI 3400 , or COMP 3005 (with a grade of C- or higher in each).",
       "offerings": [],
@@ -771,7 +782,7 @@
     {
       "code": "BUSI 3402",
       "name": "Systems Analysis and Design",
-      "credit": "0.5",
+      "credit": "",
       "description": "Methods of analysis of computer-based information systems. The systems development life cycle, planning, analysis, design, implementation and maintenance. Structured and object-oriented methods will be used. Use of a CASE tool.",
       "prerequisites": "one of BUSI 1401 , BUSI 2400, COMP 2404, SYSC 2004 (with a grade of C or higher in each).",
       "offerings": [
@@ -783,7 +794,7 @@
     {
       "code": "BUSI 3405",
       "name": "Enterprise Architecture",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of the significance of cross-functional business processes in the context of e-business transformation. Includes process analysis and modeling techniques. Also considers the application of enterprise resource planning systems, workflow technologies, intranets, and extranets to facilitate process flows inside and outside the organization.",
       "prerequisites": "BUSI 1401 or 2400 (with a grade of C- or higher).",
       "offerings": [
@@ -795,7 +806,7 @@
     {
       "code": "BUSI 3406",
       "name": "Business Analytics Principles",
-      "credit": "0.5",
+      "credit": "",
       "description": "Evolution of Decision Support Systems. Decision Making. Business Intelligence. Foundation of Business Analytics. Lifecycle & Best Practices. Strategy, platforms and Architecture. Data Sensemaking. Model Development.",
       "prerequisites": "BUSI 2401 and STAT 2601 .",
       "offerings": [
@@ -807,7 +818,7 @@
     {
       "code": "BUSI 3434",
       "name": "Data Visualization",
-      "credit": "0.5",
+      "credit": "",
       "description": "Visual representation and presentation of data to facilitate understanding. This includes visual data exploration, perception, interpretation, and communication in exploratory and declarative situations. Practical skill development using current data visualization software.",
       "prerequisites": "BUSI 2401 , STAT 2601 .",
       "offerings": [
@@ -819,7 +830,7 @@
     {
       "code": "BUSI 3500",
       "name": "Applied Corporate Finance",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of the major issues in corporate finance and applied financial management. Topics include: introduction to portfolio theory, the capital asset pricing model, cost of capital, capital structure and dividend policy, lease financing, capital budgeting under uncertainty, mergers and consolidations.",
       "prerequisites": "BUSI 2501 or BUSI 2505 (with a grade of C+ or higher in each), and STAT 2601 or STAT 2559 , and ECON 1001 and ECON 1002 , and MATH 1009 or MATH 1052 (with a grade of C- or higher in each).",
       "offerings": [
@@ -832,9 +843,9 @@
     {
       "code": "BUSI 3502",
       "name": "Investments",
-      "credit": "0.5",
+      "credit": "",
       "description": "Procedures and methods of investment analysis. Stock and bond markets. Government regulation of securities markets. Valuation of common stocks and fixed income securities. Options, warrants, convertibles and commodities.",
-      "prerequisites": "BUSI 2501 or BUSI 2505 (with a grade of C+ or higher in each),  and STAT 2601 or STAT 2559 , and ECON 1001 and ECON 1002 , and MATH 1009 or MATH 1052 (with a grade of C- or higher in each).",
+      "prerequisites": "BUSI 2501 or BUSI 2505 (with a grade of C+ or higher in each), and STAT 2601 or STAT 2559 , and ECON 1001 and ECON 1002 , and MATH 1009 or MATH 1052 (with a grade of C- or higher in each).",
       "offerings": [
         "fall",
         "winter"
@@ -845,7 +856,7 @@
     {
       "code": "BUSI 3512",
       "name": "Derivatives",
-      "credit": "0.5",
+      "credit": "",
       "description": "Derivative instruments and their use for speculation and hedging. Analysis of different markets where instruments trade, and their characteristics. Pricing models highlighted to determine how individuals and corporations can better manage risk; exotics and newer innovations.",
       "prerequisites": "BUSI 2501 or BUSI 2505 (with a grade of C+ or higher in each), and STAT 2601 or STAT 2559 , and ECON 1001 and ECON 1002 , and MATH 1009 or MATH 1052 (with a grade of C- or higher in each).",
       "offerings": [
@@ -858,7 +869,7 @@
     {
       "code": "BUSI 3535",
       "name": "Financial Planning II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Focuses on retirement planning strategies and estate planning fundamentals, including wills, trusts, and taxation considerations. Students explore legal frameworks and practical tools to design effective plans that support long-term financial security and wealth transfer.",
       "prerequisites": "BUSI 2535 .",
       "offerings": [],
@@ -868,7 +879,7 @@
     {
       "code": "BUSI 3600",
       "name": "Entrepreneurial Strategies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Within the changing environment, an examination of entrepreneurial strategies related to different functional areas for new ventures and small businesses.",
       "prerequisites": "BUSI 2800 with a grade of C- or higher.",
       "offerings": [
@@ -880,7 +891,7 @@
     {
       "code": "BUSI 3602",
       "name": "Designing Organizational Systems: An Overview",
-      "credit": "0.5",
+      "credit": "",
       "description": "Key models and theories of organizational strategy, structure, processes, effectiveness, and individual and group behavior in organizations. Organizational structure, goals, and effectiveness; leadership, motivation and job design.",
       "prerequisites": "third-year standing in the B.P.A.P.M. program.",
       "offerings": [
@@ -892,7 +903,7 @@
     {
       "code": "BUSI 3611",
       "name": "Managing the Family Enterprise",
-      "credit": "0.5",
+      "credit": "",
       "description": "How family businesses are different, what makes them different and how to effectively manage these differences. Challenges arising from the tension between family and business pressures from governance, management and succession planning perspectives.",
       "prerequisites": "third year standing, and BUSI 2018 (or BUSI 2008 or BUSI 1005), and one of BUSI 2101, BUSI 2121, BUSI 2702.",
       "offerings": [
@@ -904,7 +915,7 @@
     {
       "code": "BUSI 3629",
       "name": "Corporate Governance and Strategy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The role of governance in organizations. Mission and vision  statements, values and objectives. Shaping, implementation and evaluation of corporate strategy. Management of risk and environmental analysis.",
       "prerequisites": "1) Enrolment in the Post-Baccalaureate Diploma in Accounting, or BUSI 1001 and BUSI 2008 , or equivalents. or 2) Enrolment in BIB, third-year standing, and BUSI 1004 or BUSI 1011 , and BUSI 1005 or BUSI 2018 , and permission of the School of Business.",
       "offerings": [
@@ -916,7 +927,7 @@
     {
       "code": "BUSI 3701",
       "name": "Practicum in International Business I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students will engage in an approved international experience, abroad or within Canada, that fosters the development of a global mindset. This experience will allow students to integrate and apply the material learned in previous International Business courses.",
       "prerequisites": "Third-year standing in BIB and permission of the Sprott School of Business.",
       "offerings": [
@@ -929,10 +940,11 @@
     {
       "code": "BUSI 3702",
       "name": "Practicum in International Business II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students will engage in an approved international experience, abroad or within Canada, that fosters the development of a global mindset. This experience will allow students to integrate and apply the material learned in previous International Business courses.",
       "prerequisites": "third-year standing in BIB and permission of the Sprott School of Business.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": 3,
@@ -941,7 +953,7 @@
     {
       "code": "BUSI 3703",
       "name": "International and Comparative Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "The management of large organizations spanning national boundaries, including domestic firms with international markets, and multinational corporations. Difficulties of maintaining communication and control in international operations in disparate cultural settings.",
       "prerequisites": "second-year standing, and BUSI 2101 or BUSI 2702 (with a grade of C or higher in each).",
       "offerings": [],
@@ -951,7 +963,7 @@
     {
       "code": "BUSI 3704",
       "name": "The Environment of International Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theories linking environmental factors and business strategy as a basis for study of some major factors and institutions shaping international business strategy. International trade patterns, regionalization, shifts in international finance, research and development and transnational data flows.",
       "prerequisites": "Third-year standing, BUSI 2701 or BUSI 2702 or BUSI 2703 .",
       "offerings": [
@@ -963,7 +975,7 @@
     {
       "code": "BUSI 3705",
       "name": "International Buyer Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Behaviour of end-consumers, business and government buyers, and investors in the international context. National, cross-national, and subnational segments and behaviour differences. Adaptation vs. standardisation strategies in the context of socio-psychological, legal, technological, international procurement rules, and other constraints and opportunities.",
       "prerequisites": "third-year standing, BUSI 2204 or BUSI 2208 , and BUSI 2702 or BUSI 2101 .",
       "offerings": [
@@ -975,7 +987,7 @@
     {
       "code": "BUSI 3706",
       "name": "International Business Negotiations",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to theory and practice of negotiation in the international business context. Analysis of techniques of conflict resolution and improving ways to reach agreements.",
       "prerequisites": "second-year standing, and BUSI 2701 or BUSI 2702 (with a grade of C- or higher in each).",
       "offerings": [
@@ -987,7 +999,7 @@
     {
       "code": "BUSI 3750",
       "name": "Intercultural Business Experiences",
-      "credit": "0.5",
+      "credit": "",
       "description": "Apply intercultural skills and international business strategies and/or practices through a business-focused experiential exercise.",
       "prerequisites": "BUSI 2750 . Restricted to B.I.B. students who are participating in the year abroad.",
       "offerings": [
@@ -1000,20 +1012,17 @@
     {
       "code": "BUSI 3800",
       "name": "Sprott Student Consulting I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introductory experiential work environment in which students interact with real clients on a project. Various types of client projects are possible depending on the company and their goals/needs. Companies may be internal (i.e. Carleton, Sprott), or external (i.e. not for profit, for profit, start-ups).",
       "prerequisites": "Permission of the Sprott School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 3810",
       "name": "Business Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Business development, growth and expansion through financing activities and new customer acquisition.",
       "prerequisites": "BUSI 2800 with a grade of C- or higher.",
       "offerings": [
@@ -1025,7 +1034,7 @@
     {
       "code": "BUSI 3820",
       "name": "Practicum in Business Design",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students will apply entrepreneurial concepts and engage in designing an entrepreneurial project. Students will prepare in groups a business plan, including in-depth analysis and recommendations.",
       "prerequisites": "third-year standing, and BUSI 2800 with a grade of C- or higher.",
       "offerings": [
@@ -1037,7 +1046,7 @@
     {
       "code": "BUSI 3995",
       "name": "Employability Passport II",
-      "credit": "0.0",
+      "credit": "",
       "description": "An advanced course in the knowledge and tools required for a career in Business.",
       "prerequisites": "BUSI 1995 .",
       "offerings": [
@@ -1050,7 +1059,7 @@
     {
       "code": "BUSI 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "This course covers the deliverables associated with the co-op work term such as the site visit, work term report submission and employer evaluation.",
       "prerequisites": "This course is for students on a university approved co-op work term.",
       "offerings": [],
@@ -1060,7 +1069,7 @@
     {
       "code": "BUSI 4003",
       "name": "Accounting: Relevance and Influence",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course focuses on the evolution and impact of accounting theory on decision making and standard setting. Students will develop an ability to critically evaluate current and proposed accounting practices and their impact on decision making within a broad conceptual framework.",
       "prerequisites": "BUSI 2002 and BUSI 2501 and STAT 2601 with a grade of C- or higher in each.",
       "offerings": [
@@ -1072,7 +1081,7 @@
     {
       "code": "BUSI 4005",
       "name": "Taxation II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An intensive review of federal income tax laws and regulations as significant elements in the planning and decision making process of taxable Canadian corporations. Emphasis on the tax planning function of corporate management and the associated accounting and reporting aspects.",
       "prerequisites": "BUSI 3005 with a grade of C- or higher.",
       "offerings": [
@@ -1085,7 +1094,7 @@
     {
       "code": "BUSI 4008",
       "name": "Management Control Systems",
-      "credit": "0.5",
+      "credit": "",
       "description": "Focuses on understanding control systems that can be used to implement firm strategies and oversee the firm. Integrates relevant issues from other functional areas: corporate governance, strategic uses of cost management, budgeting, internal controls, and performance evaluation systems in managerial planning and control.",
       "prerequisites": "fourth-year standing in B.Com. or B.I.B. or enrolment in the Post-Baccalaureate Diploma in Accounting with at least 2.0 credits completed in the program.",
       "offerings": [
@@ -1098,7 +1107,7 @@
     {
       "code": "BUSI 4011",
       "name": "Advanced Financial Reporting",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application and measurement of non-routine accounting transactions.",
       "prerequisites": "BUSI 3011 (with a grade of C- or higher).",
       "offerings": [],
@@ -1108,7 +1117,7 @@
     {
       "code": "BUSI 4015",
       "name": "Advanced Taxation Concepts",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application and measurement of non-routine or complex taxation transactions.",
       "prerequisites": "BUSI 3015 (with a grade of C+ or higher).",
       "offerings": [],
@@ -1118,7 +1127,7 @@
     {
       "code": "BUSI 4017",
       "name": "Advanced Auditing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced application of audit methodology and assurance engagements.",
       "prerequisites": "BUSI 3007 or BUSI 3017 (with a grade of C+ or higher).",
       "offerings": [],
@@ -1128,7 +1137,7 @@
     {
       "code": "BUSI 4018",
       "name": "Advanced Cost Management and Decision Making",
-      "credit": "0.5",
+      "credit": "",
       "description": "Strategic uses of cost information, budgeting and performance evaluation systems in managerial planning and control.",
       "prerequisites": "BUSI 3018 (with a grade of C+ or higher).",
       "offerings": [],
@@ -1138,7 +1147,7 @@
     {
       "code": "BUSI 4020",
       "name": "Accounting Capstone",
-      "credit": "0.5",
+      "credit": "",
       "description": "Integration of a variety of accounting disciplines. Experiential learning through cases and/or simulations that integrates financial reporting, managerial accounting, taxation concepts, assurance concepts, and data analytics. Accounting, taxation, and/or data analytics software may be used to enhance practical application of theoretical concepts.",
       "prerequisites": "BUSI 3011 , BUSI 3015 , BUSI 3017 , BUSI 3018 , and BUSI 3040 (with a grade of C- or better in each).",
       "offerings": [],
@@ -1148,7 +1157,7 @@
     {
       "code": "BUSI 4104",
       "name": "Strategic Human Resources Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Systems, strategies and practices used to effectively leverage human capital in organizations. How to think strategically about managing human assets, and what must be done to successfully implement these systems, strategies and practices.",
       "prerequisites": "BUSI 3102 and BUSI 3103 (with a grade of C- or higher in each).",
       "offerings": [],
@@ -1158,7 +1167,7 @@
     {
       "code": "BUSI 4105",
       "name": "Managing Change",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of current thinking about change management. Topics covered include understanding the forces for and barriers to change, diagnosing the environment around change and implementing change.",
       "prerequisites": "third-year standing, and one of BUSI 2101, BUSI 2702, BUSI 3602, PSYC 2801 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1170,7 +1179,7 @@
     {
       "code": "BUSI 4108",
       "name": "Organizational Learning",
-      "credit": "0.5",
+      "credit": "",
       "description": "Contemporary training and development challenges facing individuals, organizations, and communities and the role of information technology in enhancing individual and collective skills development, capabilities, core competencies, intellectual capital and competitiveness.",
       "prerequisites": "BUSI 3103 or BUSI 3602 (with a grade of C- or higher in each).",
       "offerings": [],
@@ -1180,20 +1189,17 @@
     {
       "code": "BUSI 4111",
       "name": "Training and Development",
-      "credit": "1.0",
+      "credit": "",
       "description": "Emphasizes contingency approach to training and development; relevant to organizations of all sizes and resource capacities. Effective training and development is conceptualized as a process that integrates extensive front and back-end planning, implementation, and evaluation activities.",
       "prerequisites": "third-year standing, and one of BUSI 2101, BUSI 2121, BUSI 2702 (with a grade of B- or higher in each), and permission of the Sprott School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4112",
       "name": "Organizational Leadership",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical examination of theories of leadership and trends in contemporary research; discussion of practical methods for building leadership capacity.",
       "prerequisites": "third-year standing, and one of BUSI 2101, BUSI 2702, BUSI 3602, PSYC 2801 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1206,30 +1212,29 @@
     {
       "code": "BUSI 4117",
       "name": "Creative Thinking",
-      "credit": "1.0",
+      "credit": "",
       "description": "Increases student skills in areas beyond technical expertise, with a focus on the importance of fluidity, risk taking, and idea generation. Emphasis on creativity as a process, with exposure to various techniques and concepts including Design Thinking at multiple levels (individual, group, organization).",
       "prerequisites": "third-year standing, and BUSI 2101 or BUSI 2702 (with a grade of C- or higher in each), and permission of the Sprott School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4120",
       "name": "Environmental Sustainability Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course involves guest lectures, class discussions and group assignments evaluating the role of business in environmental problems. The course will delve into current conundrums of the role of business models to mitigate harm and adapt to change in search for solutions to environmental issues.",
       "prerequisites": "BUSI 3119 and fourth-year standing. Restricted to BCom, BIB and students registered in any of Sprott's Minor in Business offerings.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4129",
       "name": "Managing the Arts",
-      "credit": "0.5",
+      "credit": "",
       "description": "Challenges of managing arts organizations with emphasis on the changing environment of arts consumption and funding. Tensions arising from blending artistic and aesthetic dimensions with functional considerations when judging organizational and personal issues form a continuing theme.",
       "prerequisites": "third year standing.",
       "offerings": [
@@ -1241,7 +1246,7 @@
     {
       "code": "BUSI 4201",
       "name": "Marketing Metrics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of essential marketing metrics used for enhancing marketing decisions. The course consists of seven core modules: share metrics, margins and profits, pricing, product and portfolio management, sales force management, promotion profitability, and customer profitability.",
       "prerequisites": "BUSI 2018 (or BUSI 1005 ) and BUSI 2208 .",
       "offerings": [
@@ -1253,19 +1258,17 @@
     {
       "code": "BUSI 4203",
       "name": "Marketing In Not-for-Profit Organizations",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theories and practices of marketing in not-for-profit organizations including government. Similarities and differences between marketing in not-for-profit and for-profit organizations, and the key issues faced by marketers in developing marketing strategies in not-for-profit organizations.",
       "prerequisites": "third-year standing, and BUSI 2204 or BUSI 2208 (with a grade of C or higher in each).",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4205",
       "name": "International Marketing Strategy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The marketing function in international markets from a strategic and managerial perspective. Environments of foreign markets in relation to marketing research, international branding and positioning, and product, price, distribution, and communication strategies. International expansion methods and foreign market evaluation and selection.",
       "prerequisites": "third-year standing, and BUSI 2204 or BUSI 2208 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1277,7 +1280,7 @@
     {
       "code": "BUSI 4208",
       "name": "Marketing Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "In depth analysis and applications of the managerial aspects of marketing. Marketing strategy development and implementation theory and practice.",
       "prerequisites": "third year standing, BUSI 2208, and one of BUSI 3205 or BUSI 3207 (with a grade of C or higher in each).",
       "offerings": [
@@ -1289,7 +1292,7 @@
     {
       "code": "BUSI 4209",
       "name": "Consumer Culture Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course takes a socio-cultural perspective towards consumption and consumers. A range of interpretive research methods are used throughout the course to allow students to better understand how various cultural, social, historical, and institutional forces both shape and are shaped by consumers and consumption.",
       "prerequisites": "third year standing, and BUSI 2208 or BUSI 2204 (with a grade of C\u2013 or higher in either).",
       "offerings": [
@@ -1301,7 +1304,7 @@
     {
       "code": "BUSI 4211",
       "name": "Sales Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores the strategic role of sales management within organizations, focusing on developing and implementing effective sales strategies, managing and motivating sales teams, and leveraging technology to optimize sales processes.",
       "prerequisites": "BUSI 2204 or BUSI 2208 with a grade of C- or higher.",
       "offerings": [
@@ -1313,7 +1316,7 @@
     {
       "code": "BUSI 4219",
       "name": "Sustainability Marketing",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of the roles of marketing in a sustainable society: advancing organizations\u2019 economic success while creating positive impacts on the environment and society; promoting consumers\u2019 sustainable lifestyle; advocating institutional change to facilitate sustainable production and consumption.",
       "prerequisites": "3rd year standing. Restricted to BCom, BIB and students registered in any of Sprott's Minor in Business offerings.",
       "offerings": [
@@ -1325,19 +1328,17 @@
     {
       "code": "BUSI 4229",
       "name": "Marketing in the Arts and Culture Sectors",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced study of marketing within the arts and culture sectors.  Facilitates sophisticated understanding of the knowledge and skills required for marketing managers to respond to changing market environments in order to bring arts and culture offerings to their target audiences.",
       "prerequisites": "third year standing, and BUSI 2204 or BUSI 2208 (with a grade of C or higher in each).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4300",
       "name": "Global Operations and Supply Chain Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to management of global operations and supply chain. Topics include strategies for planning and coordinating of all operations and supply chain activities involved in procurement, conversion, and logistics in the global environment.",
       "prerequisites": "STAT 2601 with a grade of C- or higher.",
       "offerings": [],
@@ -1347,7 +1348,7 @@
     {
       "code": "BUSI 4301",
       "name": "Artificial Intelligence and Business Decision Models",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course lays the foundations of Artificial Intelligence (AI) for business decision models using two currently dominant frameworks: Machine Learning and Deep Learning. This course discusses how to profit from AI through business model innovation in business domains including accounting, finance, marketing and supply chain.",
       "prerequisites": "third-year standing, BUSI 2401 , and STAT 2601 .",
       "offerings": [
@@ -1359,7 +1360,7 @@
     {
       "code": "BUSI 4302",
       "name": "Management of Quality",
-      "credit": "0.5",
+      "credit": "",
       "description": "Quality concepts and methods surrounding the definition, mapping, implementation, improvement of business processes in organizations and global supply chains.",
       "prerequisites": "third-year standing, BUSI 2301 (with a grade of C or higher), and STAT 2601 or STAT 2606 (with a grade of C- or higher in each).",
       "offerings": [],
@@ -1369,7 +1370,7 @@
     {
       "code": "BUSI 4304",
       "name": "Procurement and Contracting",
-      "credit": "0.5",
+      "credit": "",
       "description": "Core supply chain procurement processes in the private and public sectors involved in the acquisition of goods and services, including sourcing, purchasing, contracting, supplier collaboration and relationship development and management. Emphasis on concepts, principles, practices, and techniques.",
       "prerequisites": "third-year standing, and BUSI 2301 (with a C grade or higher).",
       "offerings": [
@@ -1381,17 +1382,19 @@
     {
       "code": "BUSI 4308",
       "name": "Simulation Modeling and Analytics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Concepts of computer simulation for predictive and prescriptive analytics through case studies, worked examples and hands-on projects. Emphasizes static simulations with spreadsheets, discrete-event, and agent-based simulations with specialized software. Input modeling, model design, experimental design, analysis of outputs.",
       "prerequisites": "third-year standing; STAT 2601 or STAT 2606 with a grade of C- or higher.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4331",
       "name": "Industry 4.0 Technologies and Applications",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course shows how Industry 4.0 employs the IoT and Al technologies to achieve self-thinking supply chains. It demonstrates the use of Industry 4.0 in the transformation to smart industries. Lectures, demonstrations and hands-on exercises allow students to design, deploy and manage custom IoT solutions.",
       "prerequisites": "third year standing, and BUSI 2301 (with a grade of C or higher).",
       "offerings": [
@@ -1403,7 +1406,7 @@
     {
       "code": "BUSI 4400",
       "name": "IS Management and Strategy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Comprehensive treatment of current trends and management issues associated with information systems within organizations of local, national and international scope. Issues and techniques of information systems planning, administration, resource management and new technology adoption. Case studies are used.",
       "prerequisites": "fourth-year standing, and BUSI 1401 or BUSI 2400 (with a grade of C- or higher).",
       "offerings": [
@@ -1415,7 +1418,7 @@
     {
       "code": "BUSI 4404",
       "name": "IT Infrastructure",
-      "credit": "0.5",
+      "credit": "",
       "description": "Challenges and issues managers face in assembling the infrastructure for IT service delivery.  IT Service levels, data communications, networks (LAN, MAN, WAN, wireless), internetworking, SOA, web services, SaaS, server and storage virtualization, network security, business continuity and disaster recovery.",
       "prerequisites": "third-year standing, and BUSI 1401 or BUSI 2400 (with a grade of C- or or higher each).",
       "offerings": [
@@ -1427,7 +1430,7 @@
     {
       "code": "BUSI 4407",
       "name": "Business Analytics Methods",
-      "credit": "0.5",
+      "credit": "",
       "description": "Frameworks and quantitative methods used in predictive and prescriptive business analytics for decision-making with less risk and better outcomes. Practical applications with various analytical tools across a range of industries. Data integration; model formulation, implementation, solutions, and managerial insights.",
       "prerequisites": "Third-year standing, BUSI 3406 (with a grade of C or higher), and STAT 2602 .",
       "offerings": [
@@ -1439,7 +1442,7 @@
     {
       "code": "BUSI 4408",
       "name": "Social Analytics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Covers the process, tool and techniques necessary to acquire, clean and analyze text that has been generated on social platforms. Social network analysis, sentiment analysis, topic extraction, co-occurrence analysis.",
       "prerequisites": "third year standing, BUSI 1401 or BUSI 2400, and BUSI 2208, and STAT 2601 or STAT 2606. Restricted to students enrolled in B.Com, BIB, and the B.Econ Economic Data Science Concentration.",
       "offerings": [
@@ -1451,7 +1454,7 @@
     {
       "code": "BUSI 4410",
       "name": "Responsible Business Analytics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Values in Technology, Data Governance, Data Anonymization and its limits, Ethical issues in HR and Talent Analytics, Disinformation, Misinformation, and Fake News, Bias & Fairness, Privacy, consent, and surveillance, Algorithm Colonialism, Legal Frameworks, The Nerd revolution.",
       "prerequisites": "Fourth-year standing and BUSI 2401 .",
       "offerings": [
@@ -1463,7 +1466,7 @@
     {
       "code": "BUSI 4414",
       "name": "Capstone in Business Analytics",
-      "credit": "0.5",
+      "credit": "",
       "description": "This is a capstone course for the Business Analytics concentration. The objective of this course is to be the concentration\u2019s culminating course allowing students to undertake a major BA project, while refining their knowledge by examining a set of advanced/specialized topics.",
       "prerequisites": "Fourth-year standing in Business Analytics concentration/stream, and successful completion of all 3000-level courses in the Business Analytics concentration/stream requirement.",
       "offerings": [
@@ -1475,7 +1478,7 @@
     {
       "code": "BUSI 4500",
       "name": "Advanced Corporate Finance",
-      "credit": "0.5",
+      "credit": "",
       "description": "An in-depth examination of some of the major theoretical issues in corporate finance. This course requires analyses and presentations of both articles from the finance literature and case studies.",
       "prerequisites": "fourth-year standing, BUSI 3500, BUSI 3502, BUSI 3512 (with a grade of C- or higher in each), and STAT 2602 or STAT 2607 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1488,7 +1491,7 @@
     {
       "code": "BUSI 4502",
       "name": "Portfolio Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis of investment requirements for individuals and institutional investors: liquidity, risk and return; portfolio design, construction, management and control; performance measurement; capital market theory.",
       "prerequisites": "fourth-year standing, BUSI 3500, BUSI 3502, and BUSI 3512 (with a grade of C- or higher in each), and STAT 2602 or STAT 2607 (with a grade of C- or higher).",
       "offerings": [
@@ -1501,7 +1504,7 @@
     {
       "code": "BUSI 4503",
       "name": "Applied Portfolio Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Participants of the Sprott Student Investment Fund will be exposed to equity research, analysis, valuation, and portfolio composition. The course allows fund members to fully understand stock selection and fund management, and expose them to the methods and techniques used by industry.",
       "prerequisites": "BUSI 3502 and permission of the Sprott School of Business.",
       "offerings": [],
@@ -1511,7 +1514,7 @@
     {
       "code": "BUSI 4504",
       "name": "International Finance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Management of corporate finance as it is affected by the requirements of international business. Issues related to international acquisitions, global investments, volatile exchange rates and hedging techniques. Role of international markets in financing corporate activity.",
       "prerequisites": "BUSI 2501 with a grade of C- or higher.",
       "offerings": [
@@ -1524,7 +1527,7 @@
     {
       "code": "BUSI 4505",
       "name": "Global Financial Markets and Institutions",
-      "credit": "0.5",
+      "credit": "",
       "description": "Comprehensive view of the world's financial markets and institutions. The primary focus will be on the purpose and practice of financial institutions, and the specifics of the financial instruments available to the firm and investor.",
       "prerequisites": "BUSI 2501 or BUSI 2505 (with a grade of C+ or higher in each), and STAT 2601 or STAT 2606 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1536,7 +1539,7 @@
     {
       "code": "BUSI 4510",
       "name": "Mergers and Acquisitions",
-      "credit": "0.5",
+      "credit": "",
       "description": "The theory and practice of mergers and acquisitions; the best ways to analyze, design and implement mergers and acquisitions transactions. A highly practical planning-based approach to managing the acquisition process will be employed.",
       "prerequisites": "BUSI 3500 and BUSI 3502 (with a grade of C- or higher in each), and STAT 2602 or STAT 2607 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1549,7 +1552,7 @@
     {
       "code": "BUSI 4511",
       "name": "Fixed Income Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "Valuation of fixed income securities and interest rate derivatives including bonds, mortgage- and asset-based securities. Analytic tools used in bond portfolio and interest rate risk management including yield curve construction, duration and convexity, and term structure models.",
       "prerequisites": "BUSI 3502 and BUSI 3512 (with a grade of C- or higher in each), and STAT 2602 or STAT 2607 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1562,7 +1565,7 @@
     {
       "code": "BUSI 4535",
       "name": "Financial Planning III",
-      "credit": "0.5",
+      "credit": "",
       "description": "Capstone course applying knowledge from FP-I and FP-II to real-world case studies. Students integrate financial management, insurance, retirement, and estate planning concepts to develop comprehensive financial plans and demonstrate professional judgment in practical client-focused scenarios.",
       "prerequisites": "BUSI 3535 .",
       "offerings": [],
@@ -1572,7 +1575,7 @@
     {
       "code": "BUSI 4601",
       "name": "Business Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Use of ethical reasoning to analyze business decisions. The ethical content of these decisions. The role of ethics in business situations. Practice in ethical reasoning. Major ethical systems.",
       "prerequisites": "fourth-year standing in B.Acc. or B.Com. Note that B.Com. concentration in International Business students require BUSI 4705 .",
       "offerings": [
@@ -1585,7 +1588,7 @@
     {
       "code": "BUSI 4607",
       "name": "Management of Technology and Innovation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Integration of technology and strategy; design of technological strategy; development of new business around new technology; and management of corporate research and development, including pre-competitive consortia.",
       "prerequisites": "third-year standing, and BUSI 2204 or BUSI 2208 (with a grade of C- or higher in each).",
       "offerings": [
@@ -1597,7 +1600,7 @@
     {
       "code": "BUSI 4608",
       "name": "Canadian Business History",
-      "credit": "0.5",
+      "credit": "",
       "description": "The place of business in Canadian society, economics and politics. The internal dynamics of Canadian business (organization, strategy, the rise of the manager), and its external implications (competition, foreign investment, business- government relations).",
       "prerequisites": "fourth-year standing in B.Com. or B.I.B.",
       "offerings": [
@@ -1609,7 +1612,7 @@
     {
       "code": "BUSI 4609",
       "name": "Strategic Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis and evaluation of the organization's corporate and business strategies; integration and synthesis of knowledge acquired in the program by application of acquired functional skills to strategic decision making.",
       "prerequisites": "At the time of registration students must have fourth-year standing in B.Acc. or B.Com., as well as successful completion of all 2000- and 3000- level courses in the Major requirement, normally completed within the last 10 years.",
       "offerings": [
@@ -1622,7 +1625,7 @@
     {
       "code": "BUSI 4704",
       "name": "The Business Environment in Europe",
-      "credit": "0.5",
+      "credit": "",
       "description": "The economic, political, legal, and cultural environment for doing business in the European Union and other regions in Europe. Patterns of foreign trade and investment, market characteristics, science and technology, regulation and European integration, and business culture.",
       "prerequisites": "third-year standing.",
       "offerings": [],
@@ -1632,7 +1635,7 @@
     {
       "code": "BUSI 4705",
       "name": "Ethics and Cross-cultural Interaction",
-      "credit": "0.5",
+      "credit": "",
       "description": "Perceptions and behaviors that characterize interactions among individuals from various cultural backgrounds, with emphasis on ethical issues that may arise when business crosses cultural boundaries. Various systems, both organizational and individual, for dealing with contrasting expectations are discussed.",
       "prerequisites": "fourth-year standing in B. Com. (International Business Concentration) or B.I.B., and BUSI 2702 .",
       "offerings": [
@@ -1644,7 +1647,7 @@
     {
       "code": "BUSI 4706",
       "name": "International Human Resource Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theoretical and process issues in the recruitment, selection, training, evaluation and repatriation of personnel in multi-country organizations. Issues are examined from the perspective of organizations, expatriates and local employees of multinational firms.",
       "prerequisites": "third-year standing, and BUSI 3102 or BUSI 2702 .",
       "offerings": [],
@@ -1654,19 +1657,17 @@
     {
       "code": "BUSI 4707",
       "name": "Regionalism and Globalization",
-      "credit": "0.5",
+      "credit": "",
       "description": "Trends in globalization versus supra- and sub-national regionalism. Role of international institutions (e.g. OECD, WTO). Strategy adaptation and integration within and across trade blocs (e.g. NAFTA, EU, Mercosur, ASEAN). Strategies for sub-national markets with similarities across different countries.",
       "prerequisites": "third-year standing in B.Com., B.I.B., or Minor in Business, and BUSI 2702 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4708",
       "name": "International Expansion and Operations",
-      "credit": "0.5",
+      "credit": "",
       "description": "Internationalization process. Methods of international expansion including exporting, greenfield investment, acquisition, joint venture, and licensing. Theories of international market selection, investment location, and market service.",
       "prerequisites": "fourth-year standing, and BUSI 2702 or BUSI 2101 .",
       "offerings": [],
@@ -1676,19 +1677,17 @@
     {
       "code": "BUSI 4709",
       "name": "Strategic Management for International Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Development and implementation of strategies within and across international markets. Emphasis on developing strategic perspectives that incorporate the environment, the state of the industry,and the capabilities of the firm. Integrates skills, concepts and theories learned in functional areas.",
-      "prerequisites": "fourth-year standing in B.Com. (International Business Concentration) or B.I.B., and  successful completion of all 2000- and 3000-level courses in the Major requirement, normally completed within the last 10 years.",
-      "offerings": [
-        "winter"
-      ],
+      "prerequisites": "fourth-year standing in B.Com. (International Business Concentration) or B.I.B., and successful completion of all 2000- and 3000-level courses in the Major requirement, normally completed within the last 10 years.",
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4710",
       "name": "International New Ventures",
-      "credit": "0.5",
+      "credit": "",
       "description": "Challenges facing entrepreneurs in the creation and growth of competitive knowledge-based new international ventures or \u2018born globals\u2019. Identification of opportunities abroad, strategies and logistics, sourcing, international deal making and business models.",
       "prerequisites": "third-year standing, and BUSI 2702.",
       "offerings": [],
@@ -1698,21 +1697,19 @@
     {
       "code": "BUSI 4717",
       "name": "Managing Globalization in Emerging Economies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical examination of the managerial and institutional issues of globalization from the perspectives of emerging economies. Indigenous and international institutions' role in the evolution of a competitive and inclusive global economy and society. Discerning lessons of experience for newly globalizing societies.",
       "prerequisites": "fourth year standing in B.Com, BIB, or Minor in Business, ECON 1001 and ECON 1002 (or ECON 1000 ).",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4719",
       "name": "Practicum in International Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students will engage in an approved international experience, abroad or within Canada (can include SSCG), that fosters the development of a global mindset. This experience will allow students to integrate and apply the material learned in previous International Business courses.",
-      "prerequisites": "third-year standing in B.Com. International Business concentration  and permission of the Sprott School of Business.",
+      "prerequisites": "third-year standing in B.Com. International Business concentration and permission of the Sprott School of Business.",
       "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -1720,17 +1717,19 @@
     {
       "code": "BUSI 4729",
       "name": "International Strategy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Provides theoretical insights and pragmatic tools that address strategic decisions concerning cross-border business activities. Examines how the multinational firm creates competitive advantage across countries and what principles and constraints guide strategic choices in various parts of the organization.",
-      "prerequisites": "1) Fourth-year standing in B.I.B, and successful completion of all 2000-and 3000-level courses in the Major requirement, normally completed within the last 10 years.  or 2) Fourth-year standing in B.Com, and successful completion of all 2000-and 3000-level courses in the Major requirement and BUSI 4609 , normally completed within the last 10 years.",
-      "offerings": [],
+      "prerequisites": "1) Fourth-year standing in B.I.B, and successful completion of all 2000-and 3000-level courses in the Major requirement, normally completed within the last 10 years. or 2) Fourth-year standing in B.Com, and successful completion of all 2000-and 3000-level courses in the Major requirement and BUSI 4609 , normally completed within the last 10 years.",
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4750",
       "name": "Current Topics in International Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores current and emerging issues impacting international and intercultural management. Topics will vary based on student interests and current trends. The focus will be on identifying, critically analyzing, and developing perspectives on emerging issues to prepare students for the future.",
       "prerequisites": "fourth-year standing.",
       "offerings": [],
@@ -1740,21 +1739,18 @@
     {
       "code": "BUSI 4800",
       "name": "Sprott Student Consulting II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An advanced experiential work environment in which students interact with real clients on a project. Various types of client projects are possible depending on the company and their goals/needs. Companies may be internal (i.e. Carleton, Sprott), or external (i.e. not for profit, for profit).",
       "prerequisites": "Permission of the Sprott School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4810",
       "name": "Practicum in Business Creation",
-      "credit": "0.5",
-      "description": "Students apply concepts and engage in groups to implement the design of an entrepreneurship project per their business plan developed in . The projects provide opportunities for experiential learning.",
+      "credit": "",
+      "description": "Students apply concepts and engage in groups to implement the design of an entrepreneurship project per their business plan developed in  BUSI 3820 . The projects provide opportunities for experiential learning.",
       "prerequisites": "BUSI 3820 .",
       "offerings": [
         "winter"
@@ -1765,7 +1761,7 @@
     {
       "code": "BUSI 4901",
       "name": "Topics in Business I",
-      "credit": "0.5",
+      "credit": "",
       "description": "A selected topics course may be offered. Topics may vary. Consult the School\u2019s website for available topics and prerequisite information. Eligibility for this course to serve as an option for specific concentrations is to be established by the School.",
       "prerequisites": "Vary based on section. Please refer to sprott.carleton.ca/registration for section specific prerequisites.",
       "offerings": [],
@@ -1775,7 +1771,7 @@
     {
       "code": "BUSI 4902",
       "name": "Topics in Business II",
-      "credit": "0.5",
+      "credit": "",
       "description": "A selected topics course may be offered. Topics may vary. Consult the School\u2019s website for available topics and prerequisite information. Eligibility for this course to serve as an option for specific concentrations is to be established by the School.",
       "prerequisites": "Vary based on section. Please refer to sprott.carleton.ca/registration for section specific prerequisites.",
       "offerings": [],
@@ -1785,39 +1781,30 @@
     {
       "code": "BUSI 4904",
       "name": "Directed Studies I",
-      "credit": "1.0",
+      "credit": "",
       "description": "Reading course on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
       "prerequisites": "fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4905",
       "name": "Directed Studies II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Reading course on select topics. Students interested in pursuing this course need to contact a faculty member to discuss a proposed directed study.",
       "prerequisites": "fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BUSI 4906",
       "name": "Research Project for Business",
-      "credit": "1.0",
+      "credit": "",
       "description": "Provides students with opportunity to conduct research in their area of interest and present the research in an undergraduate thesis format. Conducted under the supervision of a faculty advisor from Sprott, with the specific deliverable determined by Supervisor and student, and approved by Sprott School.",
       "prerequisites": "fourth-year standing in B.Com. or B.I.B. and permission of the School of Business.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }
@@ -1825,32 +1812,32 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Bachelor of Commerce Honours (20.0 credits)",
+      "degree": "Bachelor of Commerce  Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "11.  8.0 credits in free electives. 8.0"
+      "text": "11.  8.0 credits in  free electives. 8.0"
     },
     {
       "type": "requirement",
       "degree": "Bachelor of Commerce (20.0 credits)",
       "credits": "9.0",
-      "text": "10.  9.0 credits in free electives 9.0"
+      "text": "10.  9.0 credits in  free electives 9.0"
     },
     {
       "type": "requirement",
-      "degree": "Bachelor of Accounting Honours (20.0 credits)",
+      "degree": "Bachelor of Accounting  Honours (20.0 credits)",
       "credits": "1.5",
-      "text": "12.  1.5 credits in free electives. 1.5"
+      "text": "12.  1.5 credits in  free electives. 1.5"
     },
     {
       "type": "requirement",
-      "degree": "Bachelor of International Business Honours (20.0 credits)",
+      "degree": "Bachelor of International Business  Honours (20.0 credits)",
       "credits": "4.0",
-      "text": "10.  4.0 credits in free electives (see Note 2, below) 4.0"
+      "text": "10.  4.0 credits in  free electives (see Note 2, below) 4.0"
     }
   ],
   "programs": [
     {
-      "degree": "Bachelor of Commerce Honours (20.0 credits)",
+      "degree": "Bachelor of Commerce  Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2029,18 +2016,6 @@
           "description": "Strategic Management"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in: BUSI at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credits in: Business Career Preparation Requirement"
-        },
-        {
           "type": "required",
           "courses": [
             "BUSI 1995"
@@ -2055,12 +2030,6 @@
           ],
           "credits": 0.0,
           "description": "Employability Passport II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in free electives."
         }
       ]
     },
@@ -2140,36 +2109,15 @@
           "description": "Advanced Financial Reporting"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 4003"
-          ],
-          "credits": 0.5,
-          "description": "Accounting: Relevance and Influence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4015"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Taxation Concepts"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4017"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Auditing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 4003",
+            "BUSI 4015",
+            "BUSI 4017",
             "BUSI 4018"
           ],
           "credits": 0.5,
-          "description": "Advanced Cost Management and Decision Making"
+          "description": "0.5 credits from:"
         }
       ]
     },
@@ -2233,92 +2181,22 @@
           "description": "Capstone in Business Analytics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 2402"
-          ],
-          "credits": 0.5,
-          "description": "Business Applications Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3401"
-          ],
-          "credits": 0.5,
-          "description": "Applications Development for Online Environments"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3402"
-          ],
-          "credits": 0.5,
-          "description": "Systems Analysis and Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3405"
-          ],
-          "credits": 0.5,
-          "description": "Enterprise Architecture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4201"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Metrics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4301"
-          ],
-          "credits": 0.5,
-          "description": "Artificial Intelligence and Business Decision Models"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4308"
-          ],
-          "credits": 0.5,
-          "description": "Simulation Modeling and Analytics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4331"
-          ],
-          "credits": 0.5,
-          "description": "Industry 4.0 Technologies and Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4400"
-          ],
-          "credits": 0.5,
-          "description": "IS Management and Strategy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4404"
-          ],
-          "credits": 0.5,
-          "description": "IT Infrastructure"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 2402",
+            "BUSI 3401",
+            "BUSI 3402",
+            "BUSI 3405",
+            "BUSI 4201",
+            "BUSI 4301",
+            "BUSI 4308",
+            "BUSI 4331",
+            "BUSI 4400",
+            "BUSI 4404",
             "BUSI 4408"
           ],
-          "credits": 0.5,
-          "description": "Social Analytics"
+          "credits": 1.0,
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -2358,66 +2236,18 @@
           "description": "Practicum in Business Creation"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or an approved elective for Entrepreneurship programs"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3210"
-          ],
-          "credits": 0.5,
-          "description": "Personal Selling"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3611"
-          ],
-          "credits": 0.5,
-          "description": "Managing the Family Enterprise"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Managing Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4117"
-          ],
-          "credits": 1.0,
-          "description": "Creative Thinking"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4607"
-          ],
-          "credits": 0.5,
-          "description": "Management of Technology and Innovation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4708"
-          ],
-          "credits": 0.5,
-          "description": "International Expansion and Operations"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3210",
+            "BUSI 3611",
+            "BUSI 4105",
+            "BUSI 4117",
+            "BUSI 4607",
+            "BUSI 4708",
             "BUSI 4710"
           ],
-          "credits": 0.5,
-          "description": "International New Ventures"
+          "credits": 1.5,
+          "description": "1.5 credits from  a list of approved courses including the following:"
         }
       ]
     },
@@ -2550,76 +2380,20 @@
           "description": "IT Infrastructure"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3401"
-          ],
-          "credits": 0.5,
-          "description": "Applications Development for Online Environments"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3406"
-          ],
-          "credits": 0.5,
-          "description": "Business Analytics Principles"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3434"
-          ],
-          "credits": 0.5,
-          "description": "Data Visualization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4301"
-          ],
-          "credits": 0.5,
-          "description": "Artificial Intelligence and Business Decision Models"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4308"
-          ],
-          "credits": 0.5,
-          "description": "Simulation Modeling and Analytics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4407"
-          ],
-          "credits": 0.5,
-          "description": "Business Analytics Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4408"
-          ],
-          "credits": 0.5,
-          "description": "Social Analytics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4607"
-          ],
-          "credits": 0.5,
-          "description": "Management of Technology and Innovation"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3401",
+            "BUSI 3406",
+            "BUSI 3434",
+            "BUSI 4301",
+            "BUSI 4308",
+            "BUSI 4407",
+            "BUSI 4408",
+            "BUSI 4607",
             "STAT 2602"
           ],
-          "credits": 0.5,
-          "description": "Statistical Models for Business Analytics and Finance"
+          "credits": 1.0,
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -2659,68 +2433,19 @@
           "description": "International Strategy"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3301"
-          ],
-          "credits": 0.5,
-          "description": "Global Supply Chain Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3705"
-          ],
-          "credits": 0.5,
-          "description": "International Buyer Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4117"
-          ],
-          "credits": 1.0,
-          "description": "Creative Thinking"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4205"
-          ],
-          "credits": 0.5,
-          "description": "International Marketing Strategy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4504"
-          ],
-          "credits": 0.5,
-          "description": "International Finance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4706"
-          ],
-          "credits": 0.5,
-          "description": "International Human Resource Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4710"
-          ],
-          "credits": 0.5,
-          "description": "International New Ventures"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3301",
+            "BUSI 3705",
+            "BUSI 4117",
+            "BUSI 4205",
+            "BUSI 4504",
+            "BUSI 4706",
+            "BUSI 4710",
             "BUSI 4750"
           ],
-          "credits": 0.5,
-          "description": "Current Topics in International Management"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         }
       ]
     },
@@ -2776,68 +2501,19 @@
           "description": "Organizational Leadership"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3119"
-          ],
-          "credits": 0.5,
-          "description": "Business and Environmental Sustainability"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3611"
-          ],
-          "credits": 0.5,
-          "description": "Managing the Family Enterprise"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4104"
-          ],
-          "credits": 0.5,
-          "description": "Strategic Human Resources Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4108"
-          ],
-          "credits": 0.5,
-          "description": "Organizational Learning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4111"
-          ],
-          "credits": 1.0,
-          "description": "Training and Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4117"
-          ],
-          "credits": 1.0,
-          "description": "Creative Thinking"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4120"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Sustainability Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3119",
+            "BUSI 3611",
+            "BUSI 4104",
+            "BUSI 4108",
+            "BUSI 4111",
+            "BUSI 4117",
+            "BUSI 4120",
             "BUSI 4129"
           ],
-          "credits": 0.5,
-          "description": "Managing the Arts"
+          "credits": 1.0,
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -2877,92 +2553,22 @@
           "description": "Marketing Management"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Digital Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3208"
-          ],
-          "credits": 0.5,
-          "description": "Business-to-Business Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3210"
-          ],
-          "credits": 0.5,
-          "description": "Personal Selling"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4201"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Metrics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4203"
-          ],
-          "credits": 0.5,
-          "description": "Marketing In Not-for-Profit Organizations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4205"
-          ],
-          "credits": 0.5,
-          "description": "International Marketing Strategy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4209"
-          ],
-          "credits": 0.5,
-          "description": "Consumer Culture Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4219"
-          ],
-          "credits": 0.5,
-          "description": "Sustainability Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4229"
-          ],
-          "credits": 0.5,
-          "description": "Marketing in the Arts and Culture Sectors"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4331"
-          ],
-          "credits": 0.5,
-          "description": "Industry 4.0 Technologies and Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3204",
+            "BUSI 3208",
+            "BUSI 3210",
+            "BUSI 4201",
+            "BUSI 4203",
+            "BUSI 4205",
+            "BUSI 4209",
+            "BUSI 4219",
+            "BUSI 4229",
+            "BUSI 4331",
             "BUSI 4408"
           ],
-          "credits": 0.5,
-          "description": "Social Analytics"
+          "credits": 2.5,
+          "description": "2.5 credits from:"
         }
       ]
     },
@@ -3010,44 +2616,16 @@
           "description": "Management of Technology and Innovation"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Digital Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3706"
-          ],
-          "credits": 0.5,
-          "description": "International Business Negotiations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3207"
-          ],
-          "credits": 0.5,
-          "description": "International Transactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4301"
-          ],
-          "credits": 0.5,
-          "description": "Artificial Intelligence and Business Decision Models"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3204",
+            "BUSI 3706",
+            "LAWS 3207",
+            "BUSI 4301",
             "BUSI 4308"
           ],
-          "credits": 0.5,
-          "description": "Simulation Modeling and Analytics"
+          "credits": 1.5,
+          "description": "1.5 credit from:"
         }
       ]
     },
@@ -3231,12 +2809,6 @@
           "description": "Strategic Management"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credits in: Business Career Preparation Requirement"
-        },
-        {
           "type": "required",
           "courses": [
             "BUSI 1995"
@@ -3251,17 +2823,11 @@
           ],
           "credits": 0.0,
           "description": "Employability Passport II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 9.0,
-          "description": "9.0 credits in free electives"
         }
       ]
     },
     {
-      "degree": "Bachelor of Accounting Honours (20.0 credits)",
+      "degree": "Bachelor of Accounting  Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3552,18 +3118,6 @@
           "description": "Strategic Management"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in: BUSI at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credits in: Business Career Preparation Requirement"
-        },
-        {
           "type": "required",
           "courses": [
             "BUSI 1995"
@@ -3578,17 +3132,11 @@
           ],
           "credits": 0.0,
           "description": "Employability Passport II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in free electives."
         }
       ]
     },
     {
-      "degree": "Bachelor of International Business Honours (20.0 credits)",
+      "degree": "Bachelor of International Business  Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3711,75 +3259,15 @@
           "description": "Corporate Governance and Strategy"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or an approved 3000-level or higher course in Strategic Management taken during the year abroad at one of Carleton's approved exchange partner institutions"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 4300"
-          ],
-          "credits": 0.5,
-          "description": "Global Operations and Supply Chain Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4705"
-          ],
-          "credits": 0.5,
-          "description": "Ethics and Cross-cultural Interaction"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4729"
-          ],
-          "credits": 0.5,
-          "description": "International Strategy"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 4300",
+            "BUSI 4705",
+            "BUSI 4729",
             "BUSI 4750"
           ],
-          "credits": 0.5,
-          "description": "Current Topics in International Management"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
-          "description": "BUSI/ECON at the 2000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "BUSI 3701",
-            "BUSI 3702"
-          ],
-          "credits": null,
-          "description": "BUSI at the 3000-level or above (except for BUSI 3701 and BUSI 3702 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in: BUSI at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in: BIB language courses (French, German, Japanese, Mandarin, or Spanish), and/or in elective credits in culture and society approved by Sprott (See Note 3, below). A minimum grade of C is required in each individual BIB language course in order to be eligible for participation in the year abroad."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credits in: Business Career Preparation Requirement"
+          "description": "or an approved 3000-level or higher course in Strategic Management taken during the year abroad at one of Carleton's approved exchange partner institutions"
         },
         {
           "type": "required",
@@ -3796,12 +3284,6 @@
           ],
           "credits": 0.0,
           "description": "Employability Passport II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives (see Note 2, below)"
         }
       ]
     },
@@ -3814,7 +3296,7 @@
             "BUSI 3400"
           ],
           "credits": 0.5,
-          "description": "Database Design (or STAT 2602 for Students in the Concentration in Information Systems)"
+          "description": "Database Design (or  STAT 2602  for Students in the Concentration in Information Systems)"
         },
         {
           "type": "required",
@@ -3946,7 +3428,7 @@
             "BUSI 3400"
           ],
           "credits": 0.5,
-          "description": "Database Design (or BUSI 4404 for students in the Concentration in Business Analytics)"
+          "description": "Database Design (or  BUSI 4404  for students in the Concentration in Business Analytics)"
         },
         {
           "type": "required",
@@ -3970,44 +3452,16 @@
           "description": "The Environment of International Business"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 2702"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to International Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3706"
-          ],
-          "credits": 0.5,
-          "description": "International Business Negotiations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4710"
-          ],
-          "credits": 0.5,
-          "description": "International New Ventures"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4729"
-          ],
-          "credits": 0.5,
-          "description": "International Strategy"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 2702",
+            "BUSI 3706",
+            "BUSI 4710",
+            "BUSI 4729",
             "BUSI 4750"
           ],
-          "credits": 0.5,
-          "description": "Current Topics in International Management"
+          "credits": 1.0,
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -4023,28 +3477,14 @@
           "description": "Introduction to International Management"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3706"
-          ],
-          "credits": 0.5,
-          "description": "International Business Negotiations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4706"
-          ],
-          "credits": 0.5,
-          "description": "International Human Resource Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3706",
+            "BUSI 4706",
             "BUSI 4750"
           ],
-          "credits": 0.5,
-          "description": "Current Topics in International Management"
+          "credits": 1.0,
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -4232,144 +3672,34 @@
           "description": "Marketing in the Arts and Culture Sectors"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 1402"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Business Information and Communication Technologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 2301"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Supply and Operations Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3102"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Human Resources Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3104"
-          ],
-          "credits": 0.5,
-          "description": "Managing Individual Performance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3105"
-          ],
-          "credits": 0.5,
-          "description": "Managing and Motivating Teams"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3106"
-          ],
-          "credits": 0.5,
-          "description": "Managing Conflict and Negotiation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Digital Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Communications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3810"
-          ],
-          "credits": 0.5,
-          "description": "Business Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3820"
-          ],
-          "credits": 0.5,
-          "description": "Practicum in Business Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4205"
-          ],
-          "credits": 0.5,
-          "description": "International Marketing Strategy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4112"
-          ],
-          "credits": 0.5,
-          "description": "Organizational Leadership"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 1402",
+            "BUSI 2301",
+            "BUSI 3102",
+            "BUSI 3104",
+            "BUSI 3105",
+            "BUSI 3106",
+            "BUSI 3204",
+            "BUSI 3205",
+            "BUSI 3810",
+            "BUSI 3820",
+            "BUSI 4205",
+            "BUSI 4112",
             "BUSI 4117"
           ],
-          "credits": 1.0,
-          "description": "Creative Thinking"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ARTH 3705"
-          ],
           "credits": 0.5,
-          "description": "Selected Museum Exhibition"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ARTH 4705"
-          ],
-          "credits": 0.5,
-          "description": "Seminar: Selected Museum Exhibition"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ARTH 3705",
+            "ARTH 4705",
             "FILM 2101"
           ],
           "credits": 0.5,
-          "description": "The Film Industry"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "- or an additional 0.5 credit BUSI from the list in Item 2, above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline and degree must be satisfied."
+          "description": "0.5 credit from:"
         }
       ]
     },
@@ -4377,40 +3707,14 @@
       "degree": "Minor in Business (4.0 credits)",
       "requirements": [
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 1003"
-          ],
-          "credits": 0.5,
-          "description": "Survey of Accounting"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "and 0.5 credit in BUSI at the 2000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 1001"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Financial Accounting"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 1003",
+            "BUSI 1001",
             "BUSI 2008"
           ],
-          "credits": 0.5,
-          "description": "Management Accounting"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -4443,18 +3747,6 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Finance"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisified."
         }
       ]
     },
@@ -4502,58 +3794,17 @@
           "description": "Introduction to Finance"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 1401"
-          ],
-          "credits": 0.5,
-          "description": "Foundations of Information Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 2703"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to International Business"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 2800"
-          ],
-          "credits": 0.5,
-          "description": "Entrepreneurship"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3103"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Organization Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3309"
-          ],
-          "credits": 0.5,
-          "description": "Project Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 1401",
+            "BUSI 2703",
+            "BUSI 2800",
+            "BUSI 3103",
+            "BUSI 3309",
             "BUSI 4105"
           ],
-          "credits": 0.5,
-          "description": "Managing Change"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) must be satisfied."
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
@@ -4607,18 +3858,6 @@
           ],
           "credits": 0.5,
           "description": "Practicum in Business Creation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
         }
       ]
     },
@@ -4666,64 +3905,17 @@
           "description": "Investments"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit from"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3512"
-          ],
-          "credits": 0.5,
-          "description": "Derivatives"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4500"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Corporate Finance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4502"
-          ],
-          "credits": 0.5,
-          "description": "Portfolio Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4504"
-          ],
-          "credits": 0.5,
-          "description": "International Finance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4510"
-          ],
-          "credits": 0.5,
-          "description": "Mergers and Acquisitions"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3512",
+            "BUSI 4500",
+            "BUSI 4502",
+            "BUSI 4504",
+            "BUSI 4510",
             "BUSI 4511"
           ],
-          "credits": 0.5,
-          "description": "Fixed Income Analysis"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "credits": 1.5,
+          "description": "1.5 credit from"
         }
       ]
     },
@@ -4763,48 +3955,15 @@
           "description": "Entrepreneurship"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 2402"
-          ],
-          "credits": 0.5,
-          "description": "Business Applications Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3400"
-          ],
-          "credits": 0.5,
-          "description": "Database Design"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3402"
-          ],
-          "credits": 0.5,
-          "description": "Systems Analysis and Design"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 2402",
+            "BUSI 3400",
+            "BUSI 3402",
             "BUSI 4404"
           ],
-          "credits": 0.5,
-          "description": "IT Infrastructure"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "credits": 1.5,
+          "description": "1.5  credits from:"
         }
       ]
     },
@@ -4812,64 +3971,24 @@
       "degree": "Minor in Business (International Business) (4.0 credits)",
       "requirements": [
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 1800"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Business"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 2703"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to International Business"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 1800",
+            "BUSI 2703",
             "BUSI 2755"
           ],
-          "credits": 0.5,
-          "description": "Intercultural Skills"
+          "credits": 1.5,
+          "description": "1.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3704"
-          ],
-          "credits": 0.5,
-          "description": "The Environment of International Business"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3705"
-          ],
-          "credits": 0.5,
-          "description": "International Buyer Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3704",
+            "BUSI 3705",
             "BUSI 3706"
           ],
-          "credits": 0.5,
-          "description": "International Business Negotiations"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisified."
+          "credits": 1.0,
+          "description": "1.0 credits from:"
         }
       ]
     },
@@ -4901,64 +4020,17 @@
           "description": "Entrepreneurship"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Digital Marketing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Communications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3207"
-          ],
-          "credits": 0.5,
-          "description": "Marketing Research"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3209"
-          ],
-          "credits": 0.5,
-          "description": "Consumer Behaviour"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3210"
-          ],
-          "credits": 0.5,
-          "description": "Personal Selling"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3204",
+            "BUSI 3205",
+            "BUSI 3207",
+            "BUSI 3209",
+            "BUSI 3210",
             "BUSI 4219"
           ],
-          "credits": 0.5,
-          "description": "Sustainability Marketing"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         }
       ]
     },
@@ -4990,61 +4062,21 @@
           "description": "Entrepreneurship"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3301"
-          ],
-          "credits": 0.5,
-          "description": "Global Supply Chain Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3305"
-          ],
-          "credits": 0.5,
-          "description": "Distribution Channels and Logistics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4304"
-          ],
-          "credits": 0.5,
-          "description": "Procurement and Contracting"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4331"
-          ],
-          "credits": 0.5,
-          "description": "Industry 4.0 Technologies and Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3301",
+            "BUSI 3305",
+            "BUSI 4304",
+            "BUSI 4331",
             "BUSI 4607"
           ],
-          "credits": 0.5,
-          "description": "Management of Technology and Innovation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "credits": 2.0,
+          "description": "2.0  credits from:"
         }
       ]
     },
     {
-      "degree": "Minor in Business (Sustainability) (4.0 credits)",
+      "degree": "Minor in  Business (Sustainability)  (4.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -5093,18 +4125,6 @@
           ],
           "credits": 0.5,
           "description": "Sustainability Marketing"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BUSI at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
         }
       ]
     },
@@ -5144,52 +4164,17 @@
           "description": "Introduction to Organization Theory"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 3104"
-          ],
-          "credits": 0.5,
-          "description": "Managing Individual Performance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3105"
-          ],
-          "credits": 0.5,
-          "description": "Managing and Motivating Teams"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3106"
-          ],
-          "credits": 0.5,
-          "description": "Managing Conflict and Negotiation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4104"
-          ],
-          "credits": 0.5,
-          "description": "Strategic Human Resources Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Managing Change"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 3104",
+            "BUSI 3105",
+            "BUSI 3106",
+            "BUSI 4104",
+            "BUSI 4105",
             "BUSI 4112"
           ],
-          "credits": 0.5,
-          "description": "Organizational Leadership"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         },
         {
           "type": "required",
@@ -5200,20 +4185,13 @@
           "description": "Basic Marketing"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 2800"
-          ],
-          "credits": 0.5,
-          "description": "Entrepreneurship"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 2800",
             "BUSI 3209"
           ],
           "credits": 0.5,
-          "description": "Consumer Behaviour"
+          "description": "0.5 credit from:"
         }
       ]
     },

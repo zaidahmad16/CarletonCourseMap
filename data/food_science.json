@@ -5,7 +5,7 @@
     {
       "code": "FOOD 1001",
       "name": "Introduction to Food Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Overview of the food industry. Production, processing, product development, packaging, chemistry, analysis, microbiology. Elements risk assessment, policy making and regulation.",
       "prerequisites": "",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "FOOD 2001",
       "name": "Principles of Nutrition",
-      "credit": "0.5",
+      "credit": "",
       "description": "Roles of nutrients, lipids, proteins, carbohydrates, fluids and electrolytes. Digestion, absorption, transport, energy metabolism. Disorders including diabetes, cardiovascular disease and osteoporosis. Nutrition through the life cycle.",
       "prerequisites": "CHEM 1002 , BIOL 1103 .",
       "offerings": [
@@ -29,19 +29,17 @@
     {
       "code": "FOOD 2002",
       "name": "Food Processing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Principles of major techniques used in food processing and preservation. Processing of specific food groups including cereals, oilseeds, dairy, beverages and frozen foods. Effects of processing on physico-chemical, rheological, and sensory characteristics. Role of research and development in food industry.",
       "prerequisites": "FOOD 1001 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 2003",
       "name": "Regulation of the Canadian Food Industry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Regulation of the Canadian food industry including regulators, regulatory powers, the process of enacting laws/regulation and food safety requirements. Food composition, standardization, advertising, labeling, packaging, ingredients, additives, and fortification requirements. Inspection, enforcement and compliance powers and policies.",
       "prerequisites": "Second year standing.",
       "offerings": [],
@@ -51,7 +49,7 @@
     {
       "code": "FOOD 2004",
       "name": "Scientific Communication in Food Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Principles of effective scientific communication for scientific and non-scientific audiences. Applicable to laboratory reports, literature reviews, posters, presentations, and briefing notes.",
       "prerequisites": "FOOD 1001 or second-year standing in Food Science or Chemistry.",
       "offerings": [],
@@ -61,7 +59,7 @@
     {
       "code": "FOOD 3001",
       "name": "Food Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Chemistry of the major components of foods such as proteins, lipids, carbohydrates and of the minor components such as enzymes, vitamins and various additives and their relationships to food stability and degradation.",
       "prerequisites": "FOOD 1001 , FOOD 2001 , CHEM 2204 , BIOC 2200 .",
       "offerings": [
@@ -73,7 +71,7 @@
     {
       "code": "FOOD 3002",
       "name": "Food Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth principles and practices of food proximate analysis. Introductory concepts of food adulteration and detection. Major techniques such as chromatography, colorimetry, spectroscopy, rheology.",
       "prerequisites": "FOOD 3001 .",
       "offerings": [
@@ -85,19 +83,17 @@
     {
       "code": "FOOD 3003",
       "name": "Food Packaging and Shelf Life",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the materials used for food packaging, including their chemical and physical characteristics. Interactions of these materials with food products, and their effects on shelf life of food.",
       "prerequisites": "FOOD 2002 .",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3005",
       "name": "Food Microbiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Foodborne diseases, microbial growth and survival, food spoilage, food fermentation. Techniques for detecting and quantifying microorganisms in foods.",
       "prerequisites": "FOOD 1001 , FOOD 2001 , BIOL 2303 .",
       "offerings": [
@@ -109,17 +105,19 @@
     {
       "code": "FOOD 3006",
       "name": "Upcycling and Sustainable Food Systems",
-      "credit": "0.5",
+      "credit": "",
       "description": "Food processing and upcycling in the context of sustainable food systems. Case studies to assess social, economic, and environmental impacts of food processing and upcycling on communities and the food industry. Transdisciplinary perspectives to propose a food rescue product.",
       "prerequisites": "third year standing in a BSc or BHSc program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "Provides practical experience for students enrolled in the Co-operative option. Students must receive satisfactory evaluations from their work term employer. Written and oral reports will be required. Graded as SAT or UNS.",
       "prerequisites": "Registration in the Food Science Co-operative Education option and permission of the Department.",
       "offerings": [],
@@ -129,17 +127,19 @@
     {
       "code": "FOOD 4001",
       "name": "Food Quality Control",
-      "credit": "0.5",
+      "credit": "",
       "description": "Factors affecting quality in manufacturing and processing of foods and principles of quality control and quality assurance. Sampling plans and statistical methods. Applications of physical, chemical, biological and microbiological tests in quality control. Quality systems and standards.",
       "prerequisites": "FOOD 2002 , FOOD 2003 , and third or fourth year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4002",
       "name": "Analysis of Food Contaminants",
-      "credit": "0.5",
+      "credit": "",
       "description": "Official methods to identify food contaminants and adulterated foods. Includes agricultural chemicals, veterinary drugs, toxins, metals, and allergens. Interpretation of results in the context of current Canadian and international food safety regulations.",
       "prerequisites": "BIOC 3101 or CHEM 3205 or CHEM 3305 , and third or fourth year standing.",
       "offerings": [],
@@ -149,7 +149,7 @@
     {
       "code": "FOOD 4102",
       "name": "Current Issues in Canadian Food Governance, Regulation and Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Focus on the ever-changing and evolving issues in Canadian food governance, regulation and policy.  Topical food safety, governance, policies, enforcement, trade and import/export issues and developments.",
       "prerequisites": "FOOD 2003 , and third or fourth year standing.",
       "offerings": [],
@@ -159,7 +159,7 @@
     {
       "code": "FOOD 4103",
       "name": "Food Safety Risk Assessment",
-      "credit": "0.5",
+      "credit": "",
       "description": "The role of risk management in providing science-based approaches to solving food safety problems. Risk management models and practical applications in critical risk management. An examination of actual risk assessments. Risk communication is addressed.",
       "prerequisites": "BIOC 3101 , and third or fourth-year standing.",
       "offerings": [
@@ -171,19 +171,17 @@
     {
       "code": "FOOD 4201",
       "name": "Advanced Nutrition and Metabolism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Metabolism of macronutrients in the human body. Detailed catabolic and anabolic reactions of carbohydrates, lipids and proteins. Regulatory control points in healthy and diseased states. Discussion of the literature pertaining to nutrition, metabolism and chronic disease.",
       "prerequisites": "FOOD 2001 , BIOC 3101 and fourth year standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "FOOD 4202",
       "name": "Micronutrients and Health",
-      "credit": "0.5",
+      "credit": "",
       "description": "Use of scientific literature to examine human metabolism of vitamins and minerals and associated diseases throughout the life cycle. Development of advanced scientific literacy skills, with an emphasis on systematic reviews.",
       "prerequisites": "BIOC 2200 or BIOL 2200 and third- or fourth-year standing.",
       "offerings": [],
@@ -193,7 +191,7 @@
     {
       "code": "FOOD 4203",
       "name": "Functional Foods and Natural Health Products",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of the bioactive components of functional foods and natural health products, for the improvement of health and nutrition. Sources and chemistry of bioactives, mechanisms of actions, process technology, efficacy and safety. Role of research and development in industry in commercialization of new products.",
       "prerequisites": "BIOC 2200 or BIOL 2200 or BIOL 2201 , and third or fourth year standing.",
       "offerings": [],
@@ -203,7 +201,7 @@
     {
       "code": "FOOD 4905",
       "name": "Food Science Honours Workshop",
-      "credit": "1.0",
+      "credit": "",
       "description": "Active learning in areas that include information literacy, critical evaluation of scientific literature, written and oral communication, evaluation and interpretation of results, statistics and data management. Emphasizes transferable skills that are most appropriate for non-research career paths.",
       "prerequisites": "Fourth-year standing in Food Science and a minimum of 1.5 credits in FOOD at the 3000 level.",
       "offerings": [],
@@ -213,7 +211,7 @@
     {
       "code": "FOOD 4907",
       "name": "Food Science Honours Essay and Research Proposal",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students conduct an independent research study using library resources, and prepare a critical review and study proposal on a topic approved by a faculty supervisor. A written report and an oral poster presentation of the work are required before a grade can be assigned.",
       "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
       "offerings": [
@@ -226,7 +224,7 @@
     {
       "code": "FOOD 4908",
       "name": "Food Science  Research Project",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students in Food Science carry out a research project under the direction of a faculty member. A written report and an oral presentation of the work are required before a grade can be assigned.",
       "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
       "offerings": [
@@ -240,45 +238,45 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Food Science B.Sc. Honours (20.0 credits)",
+      "degree": "Food Science   B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "14.  1.0 credit in free electives 1.0"
+      "text": "14.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -307,7 +305,7 @@
   ],
   "programs": [
     {
-      "degree": "Food Science B.Sc. Honours (20.0 credits)",
+      "degree": "Food Science   B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -406,68 +404,26 @@
           "description": "Advanced Nutrition and Metabolism"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "FOOD 3003"
-          ],
-          "credits": 0.5,
-          "description": "Food Packaging and Shelf Life"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 3006"
-          ],
-          "credits": 0.5,
-          "description": "Upcycling and Sustainable Food Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 4002"
-          ],
-          "credits": 0.5,
-          "description": "Analysis of Food Contaminants"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 4202"
-          ],
-          "credits": 0.5,
-          "description": "Micronutrients and Health"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "FOOD 3003",
+            "FOOD 3006",
+            "FOOD 4002",
+            "FOOD 4202",
             "FOOD 4203"
           ],
-          "credits": 0.5,
-          "description": "Functional Foods and Natural Health Products"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 4905"
-          ],
           "credits": 1.0,
-          "description": "Food Science Honours Workshop"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "FOOD 4907"
-          ],
-          "credits": 1.0,
-          "description": "Food Science Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "FOOD 4905",
+            "FOOD 4907",
             "FOOD 4908"
           ],
           "credits": 1.0,
-          "description": "Food Science  Research Project"
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -494,20 +450,13 @@
           "description": "Principles of Toxicology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PHIL 1550"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Ethics and Social Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PHIL 1550",
             "PHIL 2408"
           ],
           "credits": 0.5,
-          "description": "Bioethics"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -526,18 +475,12 @@
           "description": "Introduction to Macroeconomics"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in ECON at the 3000 level, or"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "BUSI 2204"
           ],
           "credits": 0.5,
-          "description": "Basic Marketing"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -644,74 +587,26 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOC 3102"
-          ],
-          "credits": 0.5,
-          "description": "Biochemical Signals and Structures: The Molecular Language of Cells"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOC 3102",
             "BIOL 3104"
           ],
           "credits": 0.5,
-          "description": "Molecular Genetics"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOC 3102"
-          ],
-          "credits": 0.5,
-          "description": "Biochemical Signals and Structures: The Molecular Language of Cells"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 3203"
-          ],
-          "credits": 0.5,
-          "description": "Biochemical Pharmacology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4004"
-          ],
-          "credits": 0.5,
-          "description": "Industrial Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3104"
-          ],
-          "credits": 0.5,
-          "description": "Molecular Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4106"
-          ],
-          "credits": 0.5,
-          "description": "Advances in Molecular Biology"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOC 3102",
+            "BIOC 3203",
+            "BIOC 4004",
+            "BIOL 3104",
+            "BIOL 4106",
             "CHEM 3201"
           ],
-          "credits": 0.5,
-          "description": "Structure Elucidation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives"
+          "credits": null,
+          "description": "Courses listed in but not used to fulfill item 12 above, one of:"
         }
       ]
     },
@@ -727,33 +622,19 @@
           "description": "Introduction to Food Science"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "FOOD 2001"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Nutrition"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "FOOD 2001",
             "FOOD 2002"
           ],
           "credits": 0.5,
-          "description": "Food Processing"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in FOOD at 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
-        },
+          "description": "0.5 credit from:"
+        }
+      ]
+    },
+    {
+      "degree": "Experimental Science Requirement",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -1360,277 +1241,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",
@@ -1775,12 +1423,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     }

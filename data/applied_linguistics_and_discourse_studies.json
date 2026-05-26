@@ -5,7 +5,7 @@
     {
       "code": "ALDS 1001",
       "name": "Language Matters: Introduction to ALDS",
-      "credit": "0.5",
+      "credit": "",
       "description": "Core topics in applied linguistics and discourse studies. First and second language acquisition; sign language; language teaching and assessment; language in society; language, identity and power; discourse analysis; written language and literacy.",
       "prerequisites": "",
       "offerings": [
@@ -18,21 +18,9 @@
     {
       "code": "ALDS 2201",
       "name": "Analysis of Oral Language Use",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the analysis of oral language in use; distinctions between spoken and written language; theoretical and methodological approaches such as speech act theory, ethnography of communication, conversation analysis, and discourse analysis; classroom interaction; interaction in first- and second-language acquisition; analysis of spoken language corpora.",
       "prerequisites": "ALDS 1001 or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "ALDS 2202",
-      "name": "Analysis of Written Language Use",
-      "credit": "0.5",
-      "description": "Introduction to the analysis of written language in use, including theoretical and methodological approaches such as rhetorical genre studies (including academic and workplace writing); adult literacy studies; text-structure analysis; discourse analysis (including critical discourse analysis); analysis of textual corpora.",
-      "prerequisites": "ALDS 1001 or FYSM 1004 or COMS 1001 or permission of the instructor.",
       "offerings": [
         "fall"
       ],
@@ -40,9 +28,21 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "ALDS 2202",
+      "name": "Analysis of Written Language Use",
+      "credit": "",
+      "description": "Introduction to the analysis of written language in use, including theoretical and methodological approaches such as rhetorical genre studies (including academic and workplace writing); adult literacy studies; text-structure analysis; discourse analysis (including critical discourse analysis); analysis of textual corpora.",
+      "prerequisites": "ALDS 1001 or FYSM 1004 or COMS 1001 or permission of the instructor.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "ALDS 2203",
       "name": "Linguistic Theory and Second-Language Learning",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical study of linguistic theory and description applied to second-language learning; a brief consideration of similarities and differences in first- and second-language development, bilingualism and types of linguistic error and their significance.",
       "prerequisites": "second-year standing.",
       "offerings": [
@@ -54,17 +54,20 @@
     {
       "code": "ALDS 2204",
       "name": "Strategies for Successful Writers",
-      "credit": "0.5",
+      "credit": "",
       "description": "Strategies for successful academic and professional writing with an emphasis on audience awareness, purpose, and context of writing. Approaches to peer review and time management for enhanced writing productivity. Practice with tools for the development of academic and professional text types.",
       "prerequisites": "second-year standing or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
     {
       "code": "ALDS 2604",
       "name": "Communication Differences and Disabilities I",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey course highlighting a variety of communication differences and disabilities. Specific topics vary from year to year but typically will include speech, language, fluency and hearing differences and disabilities.",
       "prerequisites": "LING 1001 and second-year standing, or permission of the instructor.",
       "offerings": [
@@ -76,17 +79,19 @@
     {
       "code": "ALDS 2704",
       "name": "Bilingualism",
-      "credit": "0.5",
+      "credit": "",
       "description": "The linguistic nature of bilingualism. The structure of bilingual societies and the relation between societal and individual bilingualism. The role of bilingualism in language education.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
     {
       "code": "ALDS 2705",
       "name": "Language and Power",
-      "credit": "0.5",
+      "credit": "",
       "description": "How social conditions engender different linguistic choices. Attention to linguistic resources for expressing ideological beliefs and for maintaining and reinforcing power structures in institutional and social sites.",
       "prerequisites": "second-year standing.",
       "offerings": [],
@@ -96,19 +101,9 @@
     {
       "code": "ALDS 3201",
       "name": "Intercultural Communication",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to intercultural communication with an emphasis on social interaction, multimodality, and identity construction. Application of theoretical perspectives to case studies through empirical inquiry and storytelling. Specific topics include cultural identity and food, gesture and nonverbal communication, and the structure of rhetoric.",
       "prerequisites": "third-year standing, and one of LING 1001 or ALDS 1001 , or permission of the School.",
-      "offerings": [],
-      "year_standing": 3,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "ALDS 3202",
-      "name": "Sociolinguistics",
-      "credit": "0.5",
-      "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
-      "prerequisites": "ALDS 1001 and third-year standing.",
       "offerings": [
         "winter"
       ],
@@ -116,9 +111,21 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "ALDS 3202",
+      "name": "Sociolinguistics",
+      "credit": "",
+      "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
+      "prerequisites": "ALDS 1001 and third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "ALDS 3205",
       "name": "English as a Global Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "The origins, development and globalization of the English language. Establishment of Standard English; spread of English in the Inner circle and in expanding circles; world Englishes; linguistic features of English varieties. English as a global language; learning and teaching English as an international language.",
       "prerequisites": "ALDS 1001 and LING 1001 .",
       "offerings": [],
@@ -128,7 +135,7 @@
     {
       "code": "ALDS 3301",
       "name": "Introduction to Deaf Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "A critical introduction to Deaf community and culture as they relate to a social model of disability, to ethnicity, and to issues of diversity and inclusion. Discourse analysis of research and policy in education for Deaf students from early childhood and beyond.",
       "prerequisites": "third-year standing in Linguistics or Applied Linguistics and Discourse Studies or enrolment in the Minor in Disability Studies.",
       "offerings": [],
@@ -138,7 +145,7 @@
     {
       "code": "ALDS 3401",
       "name": "Research and Theory in Academic Writing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of contemporary research and theory (1970s to present) on academic writing in elementary, secondary and post-secondary school, with emphasis on writing in university. Consideration of what academic writing entails, how writing fosters learning, and how instruction can help students develop their writing abilities.",
       "prerequisites": "third-year standing or permission of the instructor.",
       "offerings": [
@@ -150,7 +157,7 @@
     {
       "code": "ALDS 3402",
       "name": "Research and Theory in Workplace Writing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of contemporary research and theory (1980s to present) in writing in workplace settings. Consideration of how writing is used in accomplishing work, how novices learn to write effectively, and what the implications are for pedagogy.",
       "prerequisites": "third-year standing or permission of the instructor.",
       "offerings": [],
@@ -160,19 +167,17 @@
     {
       "code": "ALDS 3405",
       "name": "Second Language Writing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theory and practice of second language (L2) writing: how people learn to write in a second language, and how L2 writing courses for specific groups of learners can be designed.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "ALDS 3414",
       "name": "Introduction to Professional Writing and Editing",
-      "credit": "0.5",
+      "credit": "",
       "description": "The fundamental skills of professional writing and editing, including writing for specific audiences, document design, revision strategies, copyediting.",
       "prerequisites": "third-year standing or permission of the instructor.",
       "offerings": [
@@ -184,7 +189,7 @@
     {
       "code": "ALDS 3604",
       "name": "Communication Differences and Disabilities II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An in-depth examination of select topics in the field of communication differences and disabilities. An emphasis is placed on theoretical accounts of specific differences and disabilities and the cross-linguistic evidence for these accounts. Specific topics may vary from year to year.",
       "prerequisites": "LING 1001 and one of ALDS 2604 or LING 2604 .",
       "offerings": [
@@ -196,17 +201,19 @@
     {
       "code": "ALDS 3701",
       "name": "Corpus Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "ALDS 3705",
       "name": "Adult Literacy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The extent and social contexts of restricted literacy in Canadian society; approaches to and debates surrounding the teaching and learning of adult literacy.",
       "prerequisites": "third-year standing or permission of the instructor.",
       "offerings": [],
@@ -216,17 +223,19 @@
     {
       "code": "ALDS 3706",
       "name": "Discourse Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "Principles of and studies in discourse analysis, including both conversational and textual/documentary analysis. The major focus is on language use in structuring social relationships.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "ALDS 3801",
       "name": "Beyond the BA",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students explore personal and professional transitions from undergraduate to entering the workforce or graduate school. Topics may include self-assessments, career management skills, and networking. Both academic and practical work, featuring interaction from career specialists, graduate schools, professionals, and employed ALDS graduates.",
       "prerequisites": "Third-year standing in ALDS or LING or permission of the School.",
       "offerings": [],
@@ -236,7 +245,7 @@
     {
       "code": "ALDS 3802",
       "name": "Introduction to Forensic Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of language use as legal evidence and in court proceedings. Consideration of oral, written, and multimodal linguistic evidence in a variety of forensic contexts including authorship profiling, asylum seeking, plagiarism, police interviews, etc. Application of selected data analysis methods to real-world forensic linguistic data.",
       "prerequisites": "third-year standing or permission of instructor.",
       "offerings": [],
@@ -246,7 +255,7 @@
     {
       "code": "ALDS 3900",
       "name": "Independent Study",
-      "credit": "1.0",
+      "credit": "",
       "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Applied Linguistics and Discourse Studies.",
       "prerequisites": "permission of the instructor.",
       "offerings": [
@@ -259,7 +268,7 @@
     {
       "code": "ALDS 3901",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Applied Linguistics and Discourse Studies.",
       "prerequisites": "permission of the instructor.",
       "offerings": [
@@ -272,7 +281,7 @@
     {
       "code": "ALDS 3903",
       "name": "Special Topic in Applied Linguistics and Discourse Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected topics in Applied Linguistics and Discourse Studies not ordinarily treated in the regular course program.",
       "prerequisites": "",
       "offerings": [
@@ -285,7 +294,7 @@
     {
       "code": "ALDS 4201",
       "name": "Language Assessment and Testing",
-      "credit": "0.5",
+      "credit": "",
       "description": "The principles of test construction as applied to testing language proficiency, achievement and aptitude. Structural, notional, discrete point and integrative tests. Diagnostic assessment of language development, language disorders, and literacy. Students are expected to create, analyze and evaluate language tests.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [],
@@ -295,7 +304,7 @@
     {
       "code": "ALDS 4203",
       "name": "Methods and Practice in Language Pedagogy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Integrates theory and description of language learning and teaching with practical work in one of the languages offered by the School. Requires observation in a language classroom, along with practical work facilitating in-class or language lab activities, or developing teaching materials.",
       "prerequisites": "permission of the language instructor for the language class in which practical work will be conducted; proficiency in the language in question, as determined by either completion of the prerequisites for 4010 of that language, or assessment by the language instructor; or permission of the School.",
       "offerings": [],
@@ -305,8 +314,8 @@
     {
       "code": "ALDS 4206",
       "name": "Practicum in Teaching ESL",
-      "credit": "1.0",
-      "description": "Investigates the processes of classroom learning with observation and some teaching experience in ESL classes. Normally taken concurrently with and .",
+      "credit": "",
+      "description": "Investigates the processes of classroom learning with observation and some teaching experience in ESL classes. Normally taken concurrently with  ALDS 4305  and  ALDS 4306 .",
       "prerequisites": "fourth-year standing in the concurrent CTESL program, or enrolment in the post-graduate CTESL program.",
       "offerings": [
         "fall",
@@ -318,7 +327,7 @@
     {
       "code": "ALDS 4207",
       "name": "ESL Literacy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The nature of everyday literacy and literacy skills. Analyzing the structure of everyday literacy texts and demands. Issues in literacy for second-language learners.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [],
@@ -328,7 +337,7 @@
     {
       "code": "ALDS 4208",
       "name": "Languages for Specific Purposes",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to Languages for Specific Purposes  - language instruction tailored to specific groups of learners, e.g. English for Science, for Business, for the Workplace, for Academic Purposes. Research and teaching methodology. Emphasis on EAP/ESP research and instruction at Carleton.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [],
@@ -338,7 +347,7 @@
     {
       "code": "ALDS 4209",
       "name": "Teaching English as a Foreign Language: Methodology for Global Contexts",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the principles of teaching language in a foreign-language context; review of teaching approaches; practical examination, development and evaluation of instructional materials.",
       "prerequisites": "ALDS 4305 and fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, the BGInS Specialization in Teaching English in Global Contexts, or permission of the instructor.",
       "offerings": [
@@ -350,7 +359,7 @@
     {
       "code": "ALDS 4305",
       "name": "Teaching English Language: Methodology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Classification of classroom teaching methods and materials; adaptation of teaching materials for particular situations; creation of teaching materials; teaching techniques and strategies.",
       "prerequisites": "fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, or the BGInS Specialization in Teaching English in Global Contexts, or permission of the instructor.",
       "offerings": [
@@ -362,7 +371,7 @@
     {
       "code": "ALDS 4306",
       "name": "Teaching English as a Second Language: Methodology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Classification of classroom teaching methods and materials used in an international context; adaptation of teaching materials for particular situations; creation of teaching materials for global English language education; teaching techniques and strategies.",
       "prerequisites": "ALDS 4305 and fourth-year standing in the concurrent CTESL program, enrolment in the post-graduate CTESL program, or permission of the instructor.",
       "offerings": [
@@ -374,7 +383,7 @@
     {
       "code": "ALDS 4308",
       "name": "English for Specific Purposes",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to English for Specific Purposes \u2013 English language instruction tailored to specific groups of learners (e.g., English for Academic Purposes, and English for a range of specific occupational and professional purposes). This course explores effective practices in course and materials design.",
       "prerequisites": "ALDS 2203 or ALDS 4602 and third-year standing in the BGInS Honours Specialization in Teaching English in Global Contexts, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [],
@@ -384,7 +393,7 @@
     {
       "code": "ALDS 4403",
       "name": "Writing and Knowledge-Making in the Disciplines",
-      "credit": "0.5",
+      "credit": "",
       "description": "The role of writing in constructing knowledge in academic disciplines, as viewed from contemporary socio-cultural perspectives. Consideration of how the goals, values, and assumptions of different disciplines shape their writing in distinctive ways and what implications this holds for pedagogy.",
       "prerequisites": "third-year standing.",
       "offerings": [],
@@ -394,7 +403,7 @@
     {
       "code": "ALDS 4404",
       "name": "Writing and Knowledge-Making in the Professions",
-      "credit": "0.5",
+      "credit": "",
       "description": "The role of writing in constructing knowledge in the professions, as viewed from contemporary socio-cultural perspectives. How the goals, values, and assumptions of different professions shape their writing in distinctive ways and the implications for theory, research, and practice.",
       "prerequisites": "third-year standing or permission of the instructor.",
       "offerings": [],
@@ -404,7 +413,7 @@
     {
       "code": "ALDS 4405",
       "name": "Teaching Writing in School and the Workplace",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to approaches for teaching writing in elementary and secondary school, in university, and in the workplace, with a focus on socio-cultural theories of language and learning. Discussion of applications of these approaches to classroom and workplace teaching.",
       "prerequisites": "third-year standing, or permission of the instructor.",
       "offerings": [],
@@ -414,7 +423,7 @@
     {
       "code": "ALDS 4602",
       "name": "Second Language Acquisition",
-      "credit": "0.5",
+      "credit": "",
       "description": "Current issues in second language acquisition; factors influencing success in acquiring a second or additional language, discourse and culture. Emphasis on theoretical concepts, empirical research, and practical implications for language teaching.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [
@@ -426,11 +435,11 @@
     {
       "code": "ALDS 4606",
       "name": "Statistics for Language Research",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
       "prerequisites": "third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -438,7 +447,7 @@
     {
       "code": "ALDS 4709",
       "name": "Systemic-Functional Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Functions of language in the exchange of meanings between people in a wide variety of communicative situations. Semantic and syntactic resources at risk in these different contexts. Interactions between language and the social context.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or Linguistics, or Journalism, or Communication Studies, or permission of the instructor.",
       "offerings": [],
@@ -448,11 +457,11 @@
     {
       "code": "ALDS 4801",
       "name": "Major Structures of English",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course is intended to familiarize students with the structure of the English language, highlighting important contrasts between English and other languages as well as grammatical difficulties for ESL learners.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -460,7 +469,7 @@
     {
       "code": "ALDS 4900",
       "name": "Independent Study",
-      "credit": "1.0",
+      "credit": "",
       "description": "Permits fourth-year Honours students to pursue their interests in a selected area of applied linguistics and discourse studies.",
       "prerequisites": "permission of the instructor.",
       "offerings": [
@@ -473,7 +482,7 @@
     {
       "code": "ALDS 4901",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Permits fourth-year Honours students to pursue their interests in a selected area of applied linguistics and discourse studies.",
       "prerequisites": "permission of the instructor.",
       "offerings": [
@@ -486,7 +495,7 @@
     {
       "code": "ALDS 4906",
       "name": "Special Topic in Applied Linguistics and Discourse Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected topics in applied linguistics and discourse studies. Contents of this course vary from year to year.",
       "prerequisites": "",
       "offerings": [
@@ -499,7 +508,7 @@
     {
       "code": "ALDS 4908",
       "name": "Honours Project in Applied Linguistics and Discourse Studies",
-      "credit": "1.0",
+      "credit": "",
       "description": "Individually designed intensive practicum or research experience. May involve (a) practicum or work study placement in writing or literacy studies, language syllabus design or test development; (b) intensive research activity in an area of Applied Linguistics and Discourse Studies. All projects include substantial written work.",
       "prerequisites": "fourth-year standing in Applied Linguistics and Discourse Studies, a CGPA of 9.00 or better, or permission of the School.",
       "offerings": [
@@ -513,32 +522,32 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Linguistics and Discourse Studies B.A. Combined Honours (20.0 credits)",
+      "degree": "Linguistics and Discourse Studies  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "10.  Sufficient free electives to make a total of 20.0 credits for the program"
     },
     {
       "type": "requirement",
-      "degree": "Applied Linguistics and Discourse Studies B.A. Honours (20.0 credits)",
+      "degree": "Applied Linguistics and Discourse Studies  B.A. Honours (20.0 credits)",
       "credits": "6.0",
-      "text": "8.  6.0 credits in free electives (maximum 2.5 in ALDS) 6.0"
+      "text": "8.  6.0 credits in  free electives (maximum 2.5 in ALDS) 6.0"
     },
     {
       "type": "requirement",
-      "degree": "Applied Linguistics and Discourse Studies B.A. Combined Honours (20.0 credits)",
+      "degree": "Applied Linguistics and Discourse Studies  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "6.  Sufficient free electives to make a total of 20.0 credits for the program"
     },
     {
       "type": "requirement",
-      "degree": "Applied Linguistics and Discourse Studies B.A. (15.0 credits)",
+      "degree": "Applied Linguistics and Discourse Studies  B.A. (15.0 credits)",
       "credits": "3.0",
-      "text": "8.  3.0 credits in free electives 3.0"
+      "text": "8.  3.0 credits in  free electives  3.0"
     }
   ],
   "programs": [
     {
-      "degree": "Linguistics and Discourse Studies B.A. Combined Honours (20.0 credits)",
+      "degree": "Linguistics and Discourse Studies  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -581,50 +590,16 @@
           "description": "Phonetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 3004"
-          ],
-          "credits": 0.5,
-          "description": "Syntax I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3005"
-          ],
-          "credits": 0.5,
-          "description": "Morphology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3007"
-          ],
-          "credits": 0.5,
-          "description": "Phonology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3505"
-          ],
-          "credits": 0.5,
-          "description": "Semantics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 3004",
+            "LING 3005",
+            "LING 3007",
+            "LING 3505",
             "LING 1100"
           ],
           "credits": 1.5,
-          "description": "1.5 credits in LING, excluding LING 1100"
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -641,41 +616,11 @@
           ],
           "credits": 0.5,
           "description": "Analysis of Written Language Use"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in ALDS at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in ALDS at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in ALDS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make a total of 20.0 credits for the program"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Applied Linguistics and Discourse Studies B.A. Honours (20.0 credits)",
+      "degree": "Applied Linguistics and Discourse Studies  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -718,96 +663,24 @@
           "description": "Linguistic Theory and Second-Language Learning"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ALDS 2604"
-          ],
-          "credits": 0.5,
-          "description": "Communication Differences and Disabilities I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ALDS 2704"
-          ],
-          "credits": 0.5,
-          "description": "Bilingualism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ALDS 2705"
-          ],
-          "credits": 0.5,
-          "description": "Language and Power"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 2007"
-          ],
-          "credits": 0.5,
-          "description": "Phonetics"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ALDS 2604",
+            "ALDS 2704",
+            "ALDS 2705",
+            "LING 2007",
             "ALDS 3900",
-            "ALDS 3901"
-          ],
-          "credits": 1.5,
-          "description": "1.5 credits in ALDS at the 3000-level, excluding ALDS 3900 and ALDS 3901 ."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Applied Linguistics and Discourse Studies at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in Applied Linguistics and Discourse Studies, which may include"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FYSM 1204"
-          ],
-          "credits": 1.0,
-          "description": "Language and Identity"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ALDS 3901",
+            "FYSM 1204",
             "FYSM 1205"
           ],
-          "credits": 1.0,
-          "description": "Language and Power"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits not in ALDS or LING"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 6.0,
-          "description": "6.0 credits in free electives (maximum 2.5 in ALDS)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied."
+          "credits": 0.5,
+          "description": "0.5 credit from:"
         }
       ]
     },
     {
-      "degree": "Applied Linguistics and Discourse Studies B.A. Combined Honours (20.0 credits)",
+      "degree": "Applied Linguistics and Discourse Studies  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -850,12 +723,6 @@
           "description": "Linguistic Theory and Second-Language Learning"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in ALDS at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "FYSM 1204"
@@ -870,29 +737,11 @@
           ],
           "credits": 1.0,
           "description": "Language and Power"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements for the other discipline must be met"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make a total of 20.0 credits for the program"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied."
         }
       ]
     },
     {
-      "degree": "Applied Linguistics and Discourse Studies B.A. (15.0 credits)",
+      "degree": "Applied Linguistics and Discourse Studies  B.A. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -935,91 +784,19 @@
           "description": "Linguistic Theory and Second-Language Learning"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ALDS 2604"
-          ],
-          "credits": 0.5,
-          "description": "Communication Differences and Disabilities I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ALDS 2704"
-          ],
-          "credits": 0.5,
-          "description": "Bilingualism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ALDS 2705"
-          ],
-          "credits": 0.5,
-          "description": "Language and Power"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 2007"
-          ],
-          "credits": 0.5,
-          "description": "Phonetics"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ALDS 2604",
+            "ALDS 2704",
+            "ALDS 2705",
+            "LING 2007",
             "ALDS 3900",
-            "ALDS 3901"
-          ],
-          "credits": 1.5,
-          "description": "1.5 credits in ALDS at the 3000-level, excluding ALDS 3900 and ALDS 3901 ."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in ALDS, which may include"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FYSM 1204"
-          ],
-          "credits": 1.0,
-          "description": "Language and Identity"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ALDS 3901",
+            "FYSM 1204",
             "FYSM 1205"
           ],
-          "credits": 1.0,
-          "description": "Language and Power"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 5.0,
-          "description": "5.0 credits not in ALDS or LING"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credits not in ALDS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied."
+          "credits": 0.5,
+          "description": "0.5 credit from:"
         }
       ]
     },
@@ -1057,24 +834,6 @@
           ],
           "credits": 0.5,
           "description": "Analysis of Written Language Use"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in ALDS at the 2000-level or higher."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in ALDS at the 3000-level or higher."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
         }
       ]
     },
@@ -1096,15 +855,6 @@
           ],
           "credits": 0.5,
           "description": "Language Matters: Introduction to ALDS"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "LING 1001",
-            "ALDS 1001"
-          ],
-          "credits": null,
-          "description": "Note: LING 1001 and ALDS 1001 must be taken before or concurrently with other required courses."
         },
         {
           "type": "required",

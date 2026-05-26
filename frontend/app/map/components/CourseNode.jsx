@@ -1,34 +1,42 @@
 /* course node card, electives are non-interactive */
 
+import { useState } from 'react'
 import { Handle, Position } from 'reactflow'
 import { NODE_WIDTH, NODE_HEIGHT, COL_WIDTH } from '../utils/constants'
 
 export const CourseNode = ({ data }) => {
-  const { style, code, name, isElective, highlighted, dimmed } = data
+  const { style, code, name, isElective, isMissing, highlighted, dimmed } = data
   const bg = style?.background ?? 'var(--color-paper)'
+  const [hovered, setHovered] = useState(false)
 
   return (
-    <div style={{
-      ...style,
-      background: bg,
-      width: NODE_WIDTH,
-      height: NODE_HEIGHT,
-      display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'center',
-      alignItems: 'center',
-      textAlign: 'center',
-      padding: '8px 10px',
-      boxSizing: 'border-box',
-      fontFamily: 'var(--font-body)',
-      position: 'relative',
-      cursor: isElective ? 'default' : 'pointer',
-      opacity: dimmed ? 0.15 : 1,
-      boxShadow: highlighted
-        ? '0 0 0 2px var(--color-accent), 0 4px 12px rgba(0,0,0,0.14)'
-        : '0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04)',
-      transition: 'box-shadow var(--dur-short) var(--ease-out), opacity var(--dur-medium) var(--ease-out)',
-    }}>
+    <div
+      onMouseEnter={() => { if (!isElective) setHovered(true) }}
+      onMouseLeave={() => setHovered(false)}
+      style={{
+        ...style,
+        background: bg,
+        width: NODE_WIDTH,
+        height: NODE_HEIGHT,
+        display: 'flex',
+        flexDirection: 'column',
+        justifyContent: 'center',
+        alignItems: 'center',
+        textAlign: 'center',
+        padding: '8px 10px',
+        boxSizing: 'border-box',
+        fontFamily: 'var(--font-body)',
+        position: 'relative',
+        cursor: isElective ? 'default' : 'pointer',
+        opacity: dimmed ? 0.15 : 1,
+        boxShadow: highlighted
+          ? '0 0 0 2px var(--color-accent), 0 4px 12px rgba(0,0,0,0.14)'
+          : hovered
+          ? '0 4px 12px rgba(0,0,0,0.13), 0 1px 4px rgba(0,0,0,0.08)'
+          : '0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.04)',
+        transition: 'box-shadow var(--dur-short) var(--ease-out), opacity var(--dur-medium) var(--ease-out)',
+      }}
+    >
       {!isElective && (
         <>
           <Handle
@@ -56,6 +64,22 @@ export const CourseNode = ({ data }) => {
             }}
           />
         </>
+      )}
+
+      {!isElective && !isMissing && hovered && (
+        <div style={{
+          position: 'absolute',
+          top: 4,
+          right: 5,
+          fontSize: 9,
+          fontWeight: 600,
+          color: 'var(--color-accent)',
+          opacity: 0.7,
+          pointerEvents: 'none',
+          letterSpacing: '0.03em',
+        }}>
+          click for info
+        </div>
       )}
 
       <div style={{

@@ -5,7 +5,7 @@
     {
       "code": "AFRI 1001",
       "name": "Introduction to African Studies I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to African studies, including history, geography, literature, and the arts.",
       "prerequisites": "",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "AFRI 1002",
       "name": "Introduction to African Studies II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to contemporary political, economic, and social dimensions of Africa.",
       "prerequisites": "",
       "offerings": [
@@ -29,17 +29,19 @@
     {
       "code": "AFRI 2002",
       "name": "The Horn of Africa",
-      "credit": "0.5",
+      "credit": "",
       "description": "The economic, social and political challenges facing the Horn of Africa, placing them in historical and global context.  These countries may be discussed: Djibouti, Eritrea, Ethiopia, Somalia, Sudan, South Sudan.",
       "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2003",
       "name": "The Great Lakes Region of Africa",
-      "credit": "0.5",
+      "credit": "",
       "description": "The economic, social and political challenges facing the Great Lake Regions of Africa, including the 1994 Rwanda genocide and its aftermath. These countries may be discussed: Burundi, Democratic Republic of Congo, Kenya, Rwanda, Tanzania, Uganda.",
       "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
       "offerings": [
@@ -51,7 +53,7 @@
     {
       "code": "AFRI 2004",
       "name": "North Africa",
-      "credit": "0.5",
+      "credit": "",
       "description": "The economic, social and political challenges facing Egypt and the Maghreb countries of North Africa, including the \u201cArab Spring\u201d.  These countries may be discussed: Algeria, Egypt, Libya, Morocco, Mauritania, Tunisia, Western Sahara.",
       "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
       "offerings": [],
@@ -61,41 +63,39 @@
     {
       "code": "AFRI 2005",
       "name": "West Africa",
-      "credit": "0.5",
+      "credit": "",
       "description": "The economic, social and political challenges facing countries of West Africa, including domestic issues and regional relations.  These countries may be discussed: Benin, Burkina Faso, Cape Verde, Cote d\u2019Ivoire, Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo.",
       "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 2006",
       "name": "Southern Africa",
-      "credit": "0.5",
+      "credit": "",
       "description": "The economic, social and political challenges facing the  countries of southern Africa, including the legacies of apartheid. These countries may be discussed: Angola, Botswana, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Swaziland, Tanzania, Zambia, Zimbabwe.",
       "prerequisites": "AFRI 1001 or AFRI 1002 or FYSM 1901 or permission of the Institute of African Studies.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3001",
       "name": "Globalization and Popular Culture in Africa",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course examines new popular life-worlds in Africa. Though potentially \"elusive\" to conceptualize, this course shows how these forms of popular culture are related to the role of youth culture and social media in an age of globalization and democratization.",
       "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3002",
       "name": "Regions in Africa: Cultures, Society, Politics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Using dominant linguistic borderlines that have shaped much of the African experience in the last century, this course will look at themes cutting across culture, geography, society and politics in francophone, anglophone, lusophone and arabophone Africa.",
       "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
       "offerings": [],
@@ -105,11 +105,11 @@
     {
       "code": "AFRI 3003",
       "name": "African Social and Political Thought",
-      "credit": "0.5",
+      "credit": "",
       "description": "The African communitarian tradition.  Contemporary African social and political thought, situated in their broad historical contexts.",
       "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -117,7 +117,7 @@
     {
       "code": "AFRI 3004",
       "name": "The African City",
-      "credit": "0.5",
+      "credit": "",
       "description": "Historical emergence and contemporary issues of the African city.",
       "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
       "offerings": [],
@@ -127,19 +127,17 @@
     {
       "code": "AFRI 3005",
       "name": "African Migrations and Diasporas",
-      "credit": "0.5",
+      "credit": "",
       "description": "Movements of African peoples, from the slave trade era to the present.  African diaspora communities around the world and their relationship with Africa.",
       "prerequisites": "third year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "AFRI 3007",
       "name": "Special Topics in African Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "A special topic related to African Studies, through one or more disciplinary lenses.  Course content will vary from year to year.",
       "prerequisites": "a 2000-level AFRI course or third-year standing and 1.0 credit in AFRI.",
       "offerings": [],
@@ -149,7 +147,7 @@
     {
       "code": "AFRI 3100",
       "name": "African Studies Abroad: Selected Topics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Based at one of Carleton's partner universities in Africa, course will include lectures, seminars, guest speakers, field visits and group research projects to examine a topic in African studies, as selected by the instructor.  Topic and location may change annually.",
       "prerequisites": "third-year standing and approval by the Director of the Institute of African Studies.",
       "offerings": [],
@@ -159,7 +157,7 @@
     {
       "code": "AFRI 3200",
       "name": "Thematic Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "A special topic that takes a thematic approach to African Studies. Course content will vary from year to year.",
       "prerequisites": "a 2000-level AFRI course or third-year standing and 1.0 credit in AFRI.",
       "offerings": [],
@@ -169,7 +167,7 @@
     {
       "code": "AFRI 3609",
       "name": "African Cinema",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major moments, debates, figures and movements in African cinema around such categories as the colonial, the anti-colonial, the postcolonial, the national, the continental, the diasporic, the global, race, Afro-futurism, and world cinema, interrogating in the process the very category of \u201cAfrican cinema.\u201d.",
       "prerequisites": "1.0 credit in FILM and third year standing or permission of instructor.",
       "offerings": [
@@ -181,7 +179,7 @@
     {
       "code": "AFRI 3900",
       "name": "Placement",
-      "credit": "0.5",
+      "credit": "",
       "description": "Placement for one term with an African focus.",
       "prerequisites": "permission of the Institute of African Studies.",
       "offerings": [
@@ -194,7 +192,7 @@
     {
       "code": "AFRI 3916",
       "name": "Spoken Word Poetry Workshop",
-      "credit": "0.5",
+      "credit": "",
       "description": "This intermediate-level workshop-based course explores traditions of spoken words poetry while requiring students to create and perform their own spoken word poems.",
       "prerequisites": "a grade of B+ or higher in one of: ENGL 2901 , ENGL 2903 , ENGL 2915 ; or departmental permission.",
       "offerings": [],
@@ -204,19 +202,9 @@
     {
       "code": "AFRI 4000",
       "name": "Advanced Topics in African Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Seminar examining a specialized topic in African studies.  The topic will vary from year to year.",
       "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
-      "offerings": [],
-      "year_standing": 4,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "AFRI 4003",
-      "name": "History of 'The African Child'",
-      "credit": "0.5",
-      "description": "Students will analyze the history of the figure of 'the African child' using a range of visual, sources from colonial officials, anthropologists, historians, advertisers, charity and development workers, and African children themselves.",
-      "prerequisites": "fourth-year standing.",
       "offerings": [
         "winter"
       ],
@@ -224,9 +212,19 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "AFRI 4003",
+      "name": "History of 'The African Child'",
+      "credit": "",
+      "description": "Students will analyze the history of the figure of 'the African child' using a range of visual, sources from colonial officials, anthropologists, historians, advertisers, charity and development workers, and African children themselves.",
+      "prerequisites": "fourth-year standing.",
+      "offerings": [],
+      "year_standing": 4,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "AFRI 4005",
       "name": "Comparative Indigenous Knowledge and Entrepreneurship",
-      "credit": "0.5",
+      "credit": "",
       "description": "Past and contemporary interconnections between Indigenous knowledge and entrepreneurship on a comparative basis. Distinguishing features of Indigenous entrepreneurship from traditional entrepreneurship such as its focus on community, connection to the land, and the role of women.",
       "prerequisites": "Third-year standing.",
       "offerings": [
@@ -238,11 +236,11 @@
     {
       "code": "AFRI 4050",
       "name": "Selected Topics in African Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected topics in African studies not ordinarily treated in the regular course program.  The choice of topic varies from year to year.  Students should check with the institute regarding the topic offered.",
       "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 4,
       "concurrent_prerequisites": []
@@ -250,7 +248,7 @@
     {
       "code": "AFRI 4060",
       "name": "African Feminisms",
-      "credit": "0.5",
+      "credit": "",
       "description": "African feminisms as theoretical interventions and as political practice, and as diverse forms. Gender as a marker of power: status, hierarchy, social capability, and as a system of distribution of resources, responsibilities and solidarities.",
       "prerequisites": "fourth-year standing and at least 1.0 credit in AFRI or permission of the Institute of African Studies.",
       "offerings": [],
@@ -260,7 +258,7 @@
     {
       "code": "AFRI 4900",
       "name": "Tutorial in African Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "A tutorial on selected topics in which seminars are not available.",
       "prerequisites": "Permission of the Institute of African Studies and agreement of an instructor.",
       "offerings": [],
@@ -271,702 +269,184 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "African Studies B.A. Combined Honours (20.0 credits)",
+      "degree": "African Studies  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "13. Sufficient free electives to make 20.0 credits for the degree."
     },
     {
       "type": "requirement",
-      "degree": "African Studies B.A. (15.0 credits)",
+      "degree": "African Studies  B.A. (15.0 credits)",
       "credits": "",
       "text": "10.\t9.0 credits in free electives."
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Africa and Globalization B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Africa and Globalization  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: Free Electives 8.0"
+      "text": "4.  8.0 credits in:  Free Electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Africa and Globalization B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Africa and Globalization  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "3.  7.0 credits in  free electives 7.0"
     }
   ],
   "programs": [
     {
-      "degree": "African Studies B.A. Combined Honours (20.0 credits)",
+      "degree": "African Studies  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "AFRI 1001",
-            "AFRI 1002"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to African Studies I Introduction to African Studies II"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 1002",
             "FYSM 1901"
           ],
           "credits": 1.0,
-          "description": "Selected Topics in African Studies"
+          "description": "1.0 credit from: Foundations 1.0"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 2002"
-          ],
-          "credits": 0.5,
-          "description": "The Horn of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2003"
-          ],
-          "credits": 0.5,
-          "description": "The Great Lakes Region of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2004"
-          ],
-          "credits": 0.5,
-          "description": "North Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2005"
-          ],
-          "credits": 0.5,
-          "description": "West Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 2002",
+            "AFRI 2003",
+            "AFRI 2004",
+            "AFRI 2005",
             "AFRI 2006"
           ],
-          "credits": 0.5,
-          "description": "Southern Africa"
+          "credits": 1.0,
+          "description": "1.0 credit from: African Regions 1.0"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3001"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Popular Culture in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3002"
-          ],
-          "credits": 0.5,
-          "description": "Regions in Africa: Cultures, Society, Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3003"
-          ],
-          "credits": 0.5,
-          "description": "African Social and Political Thought"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3004"
-          ],
-          "credits": 0.5,
-          "description": "The African City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3005"
-          ],
-          "credits": 0.5,
-          "description": "African Migrations and Diasporas"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3007"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3100"
-          ],
-          "credits": 0.5,
-          "description": "African Studies Abroad: Selected Topics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3200"
-          ],
-          "credits": 0.5,
-          "description": "Thematic Topic"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3900"
-          ],
-          "credits": 0.5,
-          "description": "Placement"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 3001",
+            "AFRI 3002",
+            "AFRI 3003",
+            "AFRI 3004",
+            "AFRI 3005",
+            "AFRI 3007",
+            "AFRI 3100",
+            "AFRI 3200",
+            "AFRI 3900",
             "AFRI 3916"
           ],
-          "credits": 0.5,
-          "description": "Spoken Word Poetry Workshop"
+          "credits": 1.0,
+          "description": "1.0 credit from: Intermediate African Studies 1.0"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 2706"
-          ],
-          "credits": 0.5,
-          "description": "Ancient and Pre-Colonial Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2707"
-          ],
-          "credits": 0.5,
-          "description": "Modern Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3717"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Sexuality in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 2706",
+            "HIST 2707",
+            "HIST 3717",
             "HIST 3906"
           ],
-          "credits": 0.5,
-          "description": "Topics in World History (African topic)"
+          "credits": 1.0,
+          "description": "1.0 credit from: History 1.0"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3100"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3101"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Security in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4203"
-          ],
-          "credits": 0.5,
-          "description": "Southern Africa After Apartheid"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 3100",
+            "PSCI 3101",
+            "PSCI 4203",
             "PSCI 4207"
           ],
           "credits": 0.5,
-          "description": "Globalization, Adjustment and Democracy in Africa"
+          "description": "0.5 credit from: Politics 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 2620"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of sub-Saharan Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2660"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of North Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ANTH 2620",
+            "ANTH 2660",
             "ANTH 4620"
           ],
           "credits": 0.5,
-          "description": "Special Topics in Ethnography of Contemporary Africa"
+          "description": "0.5 credit from: Anthropology 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "AFRI 3609",
-            "FILM 3609"
-          ],
-          "credits": 0.5,
-          "description": "African Cinema"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2926"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2927"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FREN 4212"
-          ],
-          "credits": 0.5,
-          "description": "Litt\u00e9ratures francophones"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "FILM 3609",
+            "ENGL 2926",
+            "ENGL 2927",
+            "FREN 4212",
             "MUSI 4105"
           ],
           "credits": 0.5,
-          "description": "Issues in African Music Studies"
+          "description": "0.5 credit from: Literature and Culture 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3100"
-          ],
-          "credits": 0.5,
-          "description": "African Studies Abroad: Selected Topics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3900"
-          ],
-          "credits": 0.5,
-          "description": "Placement"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 4900"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 3100",
+            "AFRI 3900",
+            "AFRI 4900",
             "ANTH 2020",
-            "SOCI 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2850"
-          ],
-          "credits": 0.5,
-          "description": "Anthropology of Development"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SOCI 2020",
+            "ANTH 2850",
             "ANTH 3020",
-            "SOCI 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SOCI 3020",
             "ANTH 4020",
-            "SOCI 4020"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHST 3303"
-          ],
-          "credits": 0.5,
-          "description": "Children\u2019s Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3508"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3509"
-          ],
-          "credits": 0.5,
-          "description": "Development Planning and Project Evaluation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3510"
-          ],
-          "credits": 0.5,
-          "description": "African Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4507"
-          ],
-          "credits": 0.5,
-          "description": "The Economics of Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4508"
-          ],
-          "credits": 0.5,
-          "description": "International Aspects of Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3940"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Diaspora Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4802"
-          ],
-          "credits": 0.5,
-          "description": "Race, Ethnicity and Canadian Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4975"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Postcolonial Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 2200"
-          ],
-          "credits": 0.5,
-          "description": "Global Connections"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3209"
-          ],
-          "credits": 0.5,
-          "description": "Sustainability and Environment in the South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2312"
-          ],
-          "credits": 0.5,
-          "description": "History of the Indian Ocean World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3111"
-          ],
-          "credits": 0.5,
-          "description": "History of Humanitarian Aid"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3406"
-          ],
-          "credits": 0.5,
-          "description": "African-American Women"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3001"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Human Rights and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3301"
-          ],
-          "credits": 0.5,
-          "description": "Structural Racism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3303"
-          ],
-          "credits": 0.5,
-          "description": "Children's Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3401"
-          ],
-          "credits": 0.5,
-          "description": "Histories of Persecution and Genocide"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3602"
-          ],
-          "credits": 0.5,
-          "description": "International Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 2005"
-          ],
-          "credits": 0.5,
-          "description": "Jazz History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 2008"
-          ],
-          "credits": 0.5,
-          "description": "Music of the World's Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 3106"
-          ],
-          "credits": 0.5,
-          "description": "Global Popular Music"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 4005"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Jazz Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2102"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3502"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Politics: Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3805"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Race"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4104"
-          ],
-          "credits": 0.5,
-          "description": "Development in the Global South - Theory and Practice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Selected Problems in Development in the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4505"
-          ],
-          "credits": 0.5,
-          "description": "Transitions to Democracy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "RELI 2230"
-          ],
-          "credits": 0.5,
-          "description": "Global Christianity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOWK 3206"
-          ],
-          "credits": 0.5,
-          "description": "Community Development and Social Change in an International Context"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOWK 3207"
-          ],
-          "credits": 0.5,
-          "description": "Human Rights Practice in Civil Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "TSES 4011"
-          ],
-          "credits": 0.5,
-          "description": "Technology and Society: Development"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SOCI 4020",
+            "CHST 3303",
+            "ECON 3508",
+            "ECON 3509",
+            "ECON 3510",
+            "ECON 4507",
+            "ECON 4508",
+            "ENGL 2957",
+            "ENGL 3940",
+            "ENGL 4802",
+            "ENGL 4975",
+            "GEOG 2200",
+            "GEOG 3209",
+            "HIST 2312",
+            "HIST 2710",
+            "HIST 3111",
+            "HIST 3406",
+            "HIST 3710",
+            "HRSJ 3001",
+            "HRSJ 3301",
+            "HRSJ 3303",
+            "HRSJ 3401",
+            "LAWS 3602",
+            "LAWS 4603",
+            "MUSI 2005",
+            "MUSI 2008",
+            "MUSI 3106",
+            "MUSI 4005",
+            "PSCI 2102",
+            "PSCI 3502",
+            "PSCI 3805",
+            "PSCI 4104",
+            "PSCI 4105",
+            "PSCI 4505",
+            "RELI 2230",
+            "SOWK 3206",
+            "SOWK 3207",
+            "TSES 4011",
             "WGST 2800"
           ],
           "credits": 0.5,
-          "description": "Intersectional Identities"
+          "description": "0.5 credit from: Context for African Studies 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "AFRI 4003",
-            "CHST 4003"
-          ],
-          "credits": 0.5,
-          "description": "History of 'The African Child'"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 4050"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 4620"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Ethnography of Contemporary Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4203"
-          ],
-          "credits": 0.5,
-          "description": "Southern Africa After Apartheid"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHST 4003",
+            "AFRI 4050",
+            "ANTH 4620",
+            "PSCI 4203",
             "PSCI 4207"
           ],
           "credits": 0.5,
-          "description": "Globalization, Adjustment and Democracy in Africa"
+          "description": "0.5 credit from: Honours Seminars 0.5"
         },
         {
           "type": "required",
@@ -975,29 +455,11 @@
           ],
           "credits": 0.5,
           "description": "Advanced Topics in African Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements of the other discipline must be satisfied."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The Institute language requirement must be met."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make 20.0 credits for the degree."
         }
       ]
     },
     {
-      "degree": "African Studies B.A. (15.0 credits)",
+      "degree": "African Studies  B.A. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1006,498 +468,137 @@
             "AFRI 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to African Studies I Introduction to African Studies II"
+          "description": "Introduction to African Studies I  Introduction to African Studies II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1901"
           ],
-          "credits": 1.0,
-          "description": "Selected Topics in African Studies"
+          "credits": null,
+          "description": ""
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 2002"
-          ],
-          "credits": 0.5,
-          "description": "The Horn of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2003"
-          ],
-          "credits": 0.5,
-          "description": "The Great Lakes Region of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2004"
-          ],
-          "credits": 0.5,
-          "description": "North Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2005"
-          ],
-          "credits": 0.5,
-          "description": "West Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 2002",
+            "AFRI 2003",
+            "AFRI 2004",
+            "AFRI 2005",
             "AFRI 2006"
           ],
-          "credits": 0.5,
-          "description": "Southern Africa"
+          "credits": 1.0,
+          "description": "1.0 credit from: African Regions 1.0"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3001"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Popular Culture in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3002"
-          ],
-          "credits": 0.5,
-          "description": "Regions in Africa: Cultures, Society, Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3003"
-          ],
-          "credits": 0.5,
-          "description": "African Social and Political Thought"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3004"
-          ],
-          "credits": 0.5,
-          "description": "The African City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3005"
-          ],
-          "credits": 0.5,
-          "description": "African Migrations and Diasporas"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3007"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3100"
-          ],
-          "credits": 0.5,
-          "description": "African Studies Abroad: Selected Topics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3200"
-          ],
-          "credits": 0.5,
-          "description": "Thematic Topic"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3900"
-          ],
-          "credits": 0.5,
-          "description": "Placement"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 3001",
+            "AFRI 3002",
+            "AFRI 3003",
+            "AFRI 3004",
+            "AFRI 3005",
+            "AFRI 3007",
+            "AFRI 3100",
+            "AFRI 3200",
+            "AFRI 3900",
             "AFRI 3916"
           ],
-          "credits": 0.5,
-          "description": "Spoken Word Poetry Workshop"
+          "credits": 1.0,
+          "description": "1.0 credit from: Intermediate African Studies 1.0"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 2706"
-          ],
-          "credits": 0.5,
-          "description": "Ancient and Pre-Colonial Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2707"
-          ],
-          "credits": 0.5,
-          "description": "Modern Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 2706",
+            "HIST 2707",
             "HIST 3717"
           ],
           "credits": 0.5,
-          "description": "Gender and Sexuality in Africa"
+          "description": "0.5 credit from: History 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3100"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 3100",
             "PSCI 3101"
           ],
           "credits": 0.5,
-          "description": "Conflict and Security in Africa"
+          "description": "0.5 credit from: Politics 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 2620"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of sub-Saharan Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ANTH 2620",
             "ANTH 2660"
           ],
           "credits": 0.5,
-          "description": "Ethnography of North Africa"
+          "description": "0.5 credit from: Anthropology 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "AFRI 3609",
-            "FILM 3609"
-          ],
-          "credits": 0.5,
-          "description": "African Cinema"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2926"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "FILM 3609",
+            "ENGL 2926",
             "ENGL 2927"
           ],
           "credits": 0.5,
-          "description": "African Literatures II"
+          "description": "0.5 credit from: Literature and Culture 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3940"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Diaspora Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3406"
-          ],
-          "credits": 0.5,
-          "description": "African-American Women"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ENGL 2957",
+            "ENGL 3940",
+            "HIST 2710",
+            "HIST 3406",
+            "HIST 3710",
             "MUSI 2005"
           ],
           "credits": 0.5,
-          "description": "Jazz History"
+          "description": "0.5 credit from: African Diaspora 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "ANTH 2020",
-            "SOCI 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2850"
-          ],
-          "credits": 0.5,
-          "description": "Anthropology of Development"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SOCI 2020",
+            "ANTH 2850",
             "ANTH 3020",
-            "SOCI 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHST 3303"
-          ],
-          "credits": 0.5,
-          "description": "Children\u2019s Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3508"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3509"
-          ],
-          "credits": 0.5,
-          "description": "Development Planning and Project Evaluation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3510"
-          ],
-          "credits": 0.5,
-          "description": "African Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 2200"
-          ],
-          "credits": 0.5,
-          "description": "Global Connections"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3209"
-          ],
-          "credits": 0.5,
-          "description": "Sustainability and Environment in the South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2312"
-          ],
-          "credits": 0.5,
-          "description": "History of the Indian Ocean World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3111"
-          ],
-          "credits": 0.5,
-          "description": "History of Humanitarian Aid"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3406"
-          ],
-          "credits": 0.5,
-          "description": "African-American Women"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3001"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Human Rights and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3301"
-          ],
-          "credits": 0.5,
-          "description": "Structural Racism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3303"
-          ],
-          "credits": 0.5,
-          "description": "Children's Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3401"
-          ],
-          "credits": 0.5,
-          "description": "Histories of Persecution and Genocide"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3602"
-          ],
-          "credits": 0.5,
-          "description": "International Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 2008"
-          ],
-          "credits": 0.5,
-          "description": "Music of the World's Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 3106"
-          ],
-          "credits": 0.5,
-          "description": "Global Popular Music"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 2102"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Politics of the Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3502"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Politics: Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3805"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Race"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "RELI 2230"
-          ],
-          "credits": 0.5,
-          "description": "Global Christianity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOWK 3206"
-          ],
-          "credits": 0.5,
-          "description": "Community Development and Social Change in an International Context"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOWK 3207"
-          ],
-          "credits": 0.5,
-          "description": "Human Rights Practice in Civil Society"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SOCI 3020",
+            "CHST 3303",
+            "ECON 3508",
+            "ECON 3509",
+            "ECON 3510",
+            "GEOG 2200",
+            "GEOG 3209",
+            "HIST 2312",
+            "HIST 3111",
+            "HIST 3406",
+            "HRSJ 3001",
+            "HRSJ 3301",
+            "HRSJ 3303",
+            "HRSJ 3401",
+            "LAWS 3602",
+            "MUSI 2008",
+            "MUSI 3106",
+            "PSCI 2102",
+            "PSCI 3502",
+            "PSCI 3805",
+            "RELI 2230",
+            "SOWK 3206",
+            "SOWK 3207",
             "WGST 2800"
           ],
           "credits": 0.5,
-          "description": "Intersectional Identities"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 9.0,
-          "description": "9.0 credits in free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The Institute language requirement must be met."
+          "description": "0.5 credit from: Context for African Studies 0.5"
         }
       ]
     },
     {
-      "degree": "Specialization in Africa and Globalization B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Africa and Globalization  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in: Core Courses"
-        },
         {
           "type": "required",
           "courses": [
@@ -1571,36 +672,12 @@
           "description": "Honours Seminar in Global and International Studies"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credit in: International Experience Requirement Preparation"
-        },
-        {
           "type": "required",
           "courses": [
             "GINS 1300"
           ],
           "credits": 0.0,
           "description": "International Experience Requirement Preparation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.5,
-          "description": "7.5 credits in: the Specialization"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Note: Language Requirement -  Students choosing the Africa and Globalisation Specialization must fulfil their language requirement with a language relevant to Africa other than English. The Program Director will maintain a list of those languages suitable for this requirement."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "a. 1.0 credit in: Foundations"
         },
         {
           "type": "required",
@@ -1619,453 +696,118 @@
           "description": "Introduction to African Studies II"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "AFRI 2002",
+            "AFRI 2003",
+            "AFRI 2004",
+            "AFRI 2005",
+            "AFRI 2006"
+          ],
           "credits": 1.0,
           "description": "b. 1.0 credit from: African Regions"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 2002"
+            "AFRI 3001",
+            "AFRI 3002",
+            "AFRI 3003",
+            "AFRI 3004",
+            "AFRI 3005",
+            "AFRI 3007",
+            "AFRI 3200"
           ],
-          "credits": 0.5,
-          "description": "The Horn of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2003"
-          ],
-          "credits": 0.5,
-          "description": "The Great Lakes Region of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2004"
-          ],
-          "credits": 0.5,
-          "description": "North Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2005"
-          ],
-          "credits": 0.5,
-          "description": "West Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2006"
-          ],
-          "credits": 0.5,
-          "description": "Southern Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 1.0,
           "description": "c. 1.0 credit from: Intermediate African Studies"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3001"
+            "AFRI 3100",
+            "AFRI 3900"
           ],
-          "credits": 0.5,
-          "description": "Globalization and Popular Culture in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3002"
-          ],
-          "credits": 0.5,
-          "description": "Regions in Africa: Cultures, Society, Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3003"
-          ],
-          "credits": 0.5,
-          "description": "African Social and Political Thought"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3004"
-          ],
-          "credits": 0.5,
-          "description": "The African City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3005"
-          ],
-          "credits": 0.5,
-          "description": "African Migrations and Diasporas"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3007"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3200"
-          ],
-          "credits": 0.5,
-          "description": "Thematic Topic"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
           "description": "d. 0.5 credit from: African Experience"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3100"
+            "HIST 2706",
+            "HIST 2707",
+            "HIST 3717",
+            "HIST 3906"
           ],
-          "credits": 0.5,
-          "description": "African Studies Abroad: Selected Topics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3900"
-          ],
-          "credits": 0.5,
-          "description": "Placement"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "or 0.5 credit  on an approved exchange program at an African university or research institution"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
           "description": "e. 0.5 credit from: History"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 2706"
+            "PSCI 3100",
+            "PSCI 3101"
           ],
-          "credits": 0.5,
-          "description": "Ancient and Pre-Colonial Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2707"
-          ],
-          "credits": 0.5,
-          "description": "Modern Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3717"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Sexuality in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3906"
-          ],
-          "credits": 0.5,
-          "description": "Topics in World History (topic on Africa)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
           "description": "f. 0.5 credit from: Politics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3100"
+            "ANTH 2620",
+            "ANTH 2660"
           ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3101"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Security in Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
           "description": "g. 0.5 credit from Anthropology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 2620"
+            "AFRI 3609",
+            "AFRI 3916",
+            "ENGL 2926",
+            "ENGL 3940",
+            "FREN 4212",
+            "MUSI 4105"
           ],
-          "credits": 0.5,
-          "description": "Ethnography of sub-Saharan Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2660"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of North Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
           "description": "h. 0.5 credit from: Literature and Culture"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3609"
+            "ENGL 2957",
+            "ENGL 3940",
+            "ENGL 4975",
+            "HIST 2710",
+            "HIST 3406",
+            "HIST 3710",
+            "MUSI 2005",
+            "MUSI 4005",
+            "AFRI 4000"
           ],
-          "credits": 0.5,
-          "description": "African Cinema"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3916"
-          ],
-          "credits": 0.5,
-          "description": "Spoken Word Poetry Workshop"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2926"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3940"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Diaspora Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FREN 4212"
-          ],
-          "credits": 0.5,
-          "description": "Litt\u00e9ratures francophones"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Issues in African Music Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
           "description": "i. 0.5 credit from: African Diaspora"
         },
         {
-          "type": "required",
-          "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3940"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Diaspora Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 4975"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Postcolonial Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3406"
-          ],
-          "credits": 0.5,
-          "description": "African-American Women"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 2005"
-          ],
-          "credits": 0.5,
-          "description": "Jazz History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 4005"
-          ],
-          "credits": 0.5,
-          "description": "Issues in Jazz Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "j. 0.5 credit in: Core Honours Seminar"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 4000"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Topics in African Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "k. 1.0 credit from: Honours Seminars and Honours Research Essay"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "AFRI 4003",
-            "CHST 4003"
-          ],
-          "credits": 0.5,
-          "description": "History of 'The African Child'"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 4050"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 4060"
-          ],
-          "credits": 0.5,
-          "description": "African Feminisms"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 4620"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Ethnography of Contemporary Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GINS 4908"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Essay"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 4203"
-          ],
-          "credits": 0.5,
-          "description": "Southern Africa After Apartheid"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHST 4003",
+            "AFRI 4050",
+            "AFRI 4060",
+            "ANTH 4620",
+            "GINS 4908",
+            "PSCI 4203",
             "PSCI 4207"
           ],
-          "credits": 0.5,
-          "description": "Globalization, Adjustment and Democracy in Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in: Free Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The International Experience requirement must be met."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The Language requirement must be met."
+          "credits": 1.0,
+          "description": "k. 1.0 credit from: Honours Seminars and Honours Research Essay"
         }
       ]
     },
     {
-      "degree": "Stream in Africa and Globalization B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Africa and Globalization  B.G.In.S. (15.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in: Core Courses"
-        },
         {
           "type": "required",
           "courses": [
@@ -2131,370 +873,47 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits from: the Stream"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Note: Language Requirement -- Students choosing the Africa and Globalisation Stream must fulfill their language requirement with a language relevant to Africa other than English. The Program Director will maintain a list of those languages suitable for this requirement."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 1001"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to African Studies I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 1002"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to African Studies II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b. African Regions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2002"
-          ],
-          "credits": 0.5,
-          "description": "The Horn of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2003"
-          ],
-          "credits": 0.5,
-          "description": "The Great Lakes Region of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2004"
-          ],
-          "credits": 0.5,
-          "description": "North Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2005"
-          ],
-          "credits": 0.5,
-          "description": "West Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2006"
-          ],
-          "credits": 0.5,
-          "description": "Southern Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "c. Intermediate African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3001"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Popular Culture in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3002"
-          ],
-          "credits": 0.5,
-          "description": "Regions in Africa: Cultures, Society, Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3003"
-          ],
-          "credits": 0.5,
-          "description": "African Social and Political Thought"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3004"
-          ],
-          "credits": 0.5,
-          "description": "The African City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3005"
-          ],
-          "credits": 0.5,
-          "description": "African Migrations and Diasporas"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3007"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3200"
-          ],
-          "credits": 0.5,
-          "description": "Thematic Topic"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "d. African Experience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3100"
-          ],
-          "credits": 0.5,
-          "description": "African Studies Abroad: Selected Topics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3900"
-          ],
-          "credits": 0.5,
-          "description": "Placement"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "e. History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2706"
-          ],
-          "credits": 0.5,
-          "description": "Ancient and Pre-Colonial Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2707"
-          ],
-          "credits": 0.5,
-          "description": "Modern Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3717"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Sexuality in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3906"
-          ],
-          "credits": 0.5,
-          "description": "Topics in World History (African topic)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "f. Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3100"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3101"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Security in Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "g. Anthropology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2620"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of sub-Saharan Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ANTH 2660"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of North Africa"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "h. Literature and Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3609"
-          ],
-          "credits": 0.5,
-          "description": "African Cinema"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3916"
-          ],
-          "credits": 0.5,
-          "description": "Spoken Word Poetry Workshop"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2926"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2927"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FREN 4212"
-          ],
-          "credits": 0.5,
-          "description": "Litt\u00e9ratures francophones"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MUSI 4105"
-          ],
-          "credits": 0.5,
-          "description": "Issues in African Music Studies"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "i. African Diaspora"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3940"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Diaspora Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3406"
-          ],
-          "credits": 0.5,
-          "description": "African-American Women"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 1001",
+            "AFRI 1002",
+            "AFRI 2002",
+            "AFRI 2003",
+            "AFRI 2004",
+            "AFRI 2005",
+            "AFRI 2006",
+            "AFRI 3001",
+            "AFRI 3002",
+            "AFRI 3003",
+            "AFRI 3004",
+            "AFRI 3005",
+            "AFRI 3007",
+            "AFRI 3200",
+            "AFRI 3100",
+            "AFRI 3900",
+            "HIST 2706",
+            "HIST 2707",
+            "HIST 3717",
+            "HIST 3906",
+            "PSCI 3100",
+            "PSCI 3101",
+            "ANTH 2620",
+            "ANTH 2660",
+            "AFRI 3609",
+            "AFRI 3916",
+            "ENGL 2926",
+            "ENGL 2927",
+            "FREN 4212",
+            "MUSI 4105",
+            "ENGL 2957",
+            "ENGL 3940",
+            "HIST 2710",
+            "HIST 3406",
+            "HIST 3710",
             "MUSI 2005"
           ],
-          "credits": 0.5,
-          "description": "Jazz History"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.0,
-          "description": "7.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The language requirement must be met."
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
@@ -2508,262 +927,88 @@
             "AFRI 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to African Studies I Introduction to African Studies II"
+          "description": "Introduction to African Studies I  Introduction to African Studies II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "FYSM 1901"
           ],
-          "credits": 1.0,
-          "description": "Selected Topics in African Studies"
+          "credits": null,
+          "description": ""
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 2002"
-          ],
-          "credits": 0.5,
-          "description": "The Horn of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2003"
-          ],
-          "credits": 0.5,
-          "description": "The Great Lakes Region of Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2004"
-          ],
-          "credits": 0.5,
-          "description": "North Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 2005"
-          ],
-          "credits": 0.5,
-          "description": "West Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 2002",
+            "AFRI 2003",
+            "AFRI 2004",
+            "AFRI 2005",
             "AFRI 2006"
           ],
           "credits": 0.5,
-          "description": "Southern Africa"
+          "description": "0.5 credit from: African Regions 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "AFRI 3001"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Popular Culture in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3002"
-          ],
-          "credits": 0.5,
-          "description": "Regions in Africa: Cultures, Society, Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3003"
-          ],
-          "credits": 0.5,
-          "description": "African Social and Political Thought"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3004"
-          ],
-          "credits": 0.5,
-          "description": "The African City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3005"
-          ],
-          "credits": 0.5,
-          "description": "African Migrations and Diasporas"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3007"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in African Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "AFRI 3001",
+            "AFRI 3002",
+            "AFRI 3003",
+            "AFRI 3004",
+            "AFRI 3005",
+            "AFRI 3007",
             "AFRI 3200"
           ],
           "credits": 0.5,
-          "description": "Thematic Topic"
+          "description": "0.5 credit from: Intermediate African Studies 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HIST 2706"
-          ],
-          "credits": 0.5,
-          "description": "Ancient and Pre-Colonial Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2707"
-          ],
-          "credits": 0.5,
-          "description": "Modern Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3717"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Sexuality in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "HIST 2706",
+            "HIST 2707",
+            "HIST 3717",
             "HIST 3906"
           ],
           "credits": 0.5,
-          "description": "Topics in World History (African Topic)"
+          "description": "0.5 credit from: History 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3100"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 3100",
             "PSCI 3101"
           ],
           "credits": 0.5,
-          "description": "Conflict and Security in Africa"
+          "description": "0.5 credit from: Politics 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ANTH 2620"
-          ],
-          "credits": 0.5,
-          "description": "Ethnography of sub-Saharan Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ANTH 2620",
             "ANTH 2660"
           ],
           "credits": 0.5,
-          "description": "Ethnography of North Africa"
+          "description": "0.5 credit from: Anthropology 0.5"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "AFRI 3609",
-            "FILM 3609"
-          ],
-          "credits": 0.5,
-          "description": "African Cinema"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "AFRI 3916"
-          ],
-          "credits": 0.5,
-          "description": "Spoken Word Poetry Workshop"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2926"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2927"
-          ],
-          "credits": 0.5,
-          "description": "African Literatures II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 2957"
-          ],
-          "credits": 0.5,
-          "description": "Literatures of the Americas II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENGL 3940"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Diaspora Lit."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 2710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3406"
-          ],
-          "credits": 0.5,
-          "description": "African-American Women"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HIST 3710"
-          ],
-          "credits": 0.5,
-          "description": "Themes in Caribbean History"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "FILM 3609",
+            "AFRI 3916",
+            "ENGL 2926",
+            "ENGL 2927",
+            "ENGL 2957",
+            "ENGL 3940",
+            "HIST 2710",
+            "HIST 3406",
+            "HIST 3710",
             "MUSI 2005"
           ],
           "credits": 0.5,
-          "description": "Jazz History"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "description": "0.5 credit from: Literature, Culture and Diaspora Studies 0.5"
         }
       ]
     }

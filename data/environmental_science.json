@@ -5,7 +5,7 @@
     {
       "code": "ENSC 1500",
       "name": "Environmental Science Seminar",
-      "credit": "0.5",
+      "credit": "",
       "description": "The purpose and nature of the program; society's view on the natural and human-modified environment; major environmental issues and their scientific aspects.",
       "prerequisites": "enrolment in the Environmental Science program.",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "ENSC 2000",
       "name": "Environmental Science Field Methods",
-      "credit": "0.5",
+      "credit": "",
       "description": "A field-based course introducing students to practical methods in environmental science. Topics will include earth sciences, geography, biology, and chemistry related aspects of environmental sciences and will focus on quantitative techniques to assess environmental impacts and management. A supplementary fee will apply.",
       "prerequisites": "ERTH 1002 , BIOL 1104 , CHEM 1001 , CHEM 1002 , and permission of the Institute.",
       "offerings": [
@@ -29,7 +29,7 @@
     {
       "code": "ENSC 2001",
       "name": "Earth Resources and Natural Hazards: Environmental Impacts",
-      "credit": "0.5",
+      "credit": "",
       "description": "Environmental impact of mineral, energy and water resource exploitation and impact of hazardous Earth processes such as volcanic eruptions, earthquakes and others: their prediction and mitigation.",
       "prerequisites": "",
       "offerings": [
@@ -41,7 +41,7 @@
     {
       "code": "ENSC 2002",
       "name": "Methods and Analysis in Environmental Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study and application of qualitative and quantitative techniques in environmental science, including study design, data collection and assembly, database manipulation, data analysis, and critically evaluating scientific information.",
       "prerequisites": "STAT 2507 or permission from the Institute.",
       "offerings": [
@@ -53,17 +53,19 @@
     {
       "code": "ENSC 3000",
       "name": "Environmental Science and Management: Theory and Practice",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theoretical and practical perspectives related to environmental science and management; Emphasis on real-world problems associated with human activities and development of solutions in natural and built environments; Hands-on experience with environmental monitoring and restoration. A supplementary fee will apply.",
       "prerequisites": "third-year standing in Environmental Science or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3002",
       "name": "Applied Data Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "Data analysis strategies to tackle real-world, wicked problems. Includes a hands-on applied environmental data science project with a variety of partners. Topics include: obtaining and working with data, exploring causal relationships, data ethics, communicating data, and moving from data to information to action.",
       "prerequisites": "third year standing.",
       "offerings": [
@@ -75,19 +77,17 @@
     {
       "code": "ENSC 3106",
       "name": "Aquatic Science and Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Fundamentals of aquatic science. The physical, chemical, and biotic aspects of lake, river, and estuary systems including human impacts, management and conservation.",
       "prerequisites": "third-year standing and a second year science or engineering course.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 3509",
       "name": "Group Research in Environmental Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major project relating to an issue involving environmental science; effective methods of team research and presentation of group work. May include field work during class time or on weekends.",
       "prerequisites": "third-year standing in the Honours Environmental Science program or permission of the Institute.",
       "offerings": [
@@ -99,7 +99,7 @@
     {
       "code": "ENSC 3700",
       "name": "Topics in Environmental Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Specific topics of current interest.  Topics may vary from year to year.",
       "prerequisites": "Third year standing in the Environmental Science program or permission of the Institute.",
       "offerings": [],
@@ -109,7 +109,7 @@
     {
       "code": "ENSC 3906",
       "name": "Project Planning for Environmental Research",
-      "credit": "0.5",
+      "credit": "",
       "description": "Independent or group study on the fundamentals of scientific investigation, which may include use of literature, learning of research techniques, and development of a research proposal, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "Good standing in third year Environmental Science and permission of the Institute.",
       "offerings": [],
@@ -119,7 +119,7 @@
     {
       "code": "ENSC 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "Practical experience for students enrolled in the Co-operative Option. To receive course credit a student must receive satisfactory evaluations from their work term employer. Written reports describing the work term project will be required. Graded Sat or Uns.",
       "prerequisites": "registration in the Environmental Science Co-operative Option and permission of the Institute. Four-month work term.",
       "offerings": [],
@@ -129,7 +129,7 @@
     {
       "code": "ENSC 4001",
       "name": "Environmental Science Practicum",
-      "credit": "0.5",
+      "credit": "",
       "description": "Experience working in the environmental science sector, applying academic training to practical environmental issues.  Graded Sat/Uns.",
       "prerequisites": "fourth-year standing in the Environmental Science program.",
       "offerings": [],
@@ -139,7 +139,7 @@
     {
       "code": "ENSC 4002",
       "name": "Environmental Decisions",
-      "credit": "0.5",
+      "credit": "",
       "description": "The regulatory and scientific aspects of environmental management decisions, including risk analysis and mitigation, managing chronic and acute environmental impacts, and conservation of species and landscapes. Students will use real-world case studies to learn traditional and cutting-edge decision-making tools.",
       "prerequisites": "third-year standing in any B.Sc. program or permission of the Institute.",
       "offerings": [
@@ -151,7 +151,7 @@
     {
       "code": "ENSC 4003",
       "name": "Food Systems and the Environment",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores issues of food systems and their sustainability. We will discuss aspects of food systems, including production, distribution, consumption, waste management, and their impact on communities and the environment.",
       "prerequisites": "third year standing in B.Sc. or B.HSc. program or permission of the Institute.",
       "offerings": [
@@ -163,7 +163,7 @@
     {
       "code": "ENSC 4005",
       "name": "Environmental Solutions and Sustainability Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Focus on conceptualization and application of different knowledges and knowledge systems to complex, interdisciplinary real-world problems through an environmental lens.  Development of skills and mindset needed to generate creative solutions that will be embraced by diverse publics and decision makers.",
       "prerequisites": "Third year standing in B.Sc. programs in Environmental Science, Interdisciplinary Science and Practice, Earth Science, Biology, and Geography and B.A. programs in Biology and Geography, or permission of the Institute.",
       "offerings": [],
@@ -173,29 +173,29 @@
     {
       "code": "ENSC 4207",
       "name": "Environmental Isotopes",
-      "credit": "0.5",
+      "credit": "",
       "description": "Isotope applications in environmental and Earth sciences. Emphasis is placed current and novel environmental applications including contaminant tracing, hydrogeological studies, and (bio)geochemical cycling of elements. Mechanisms of stable isotope fractionation and analysis are presented. Student-led projects will explore the broad realm of isotope studies.",
       "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4700",
       "name": "Topics in Environmental Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
-      "prerequisites": "third-year standing in the  Environmental Science program or permission of the Institute.",
-      "offerings": [
-        "winter"
-      ],
+      "prerequisites": "third-year standing in the Environmental Science program or permission of the Institute.",
+      "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "ENSC 4901",
       "name": "Directed Projects",
-      "credit": "0.5",
+      "credit": "",
       "description": "Independent or group study, for fourth-year students to explore a particular project, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "permission of the Institute. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
       "offerings": [
@@ -208,7 +208,7 @@
     {
       "code": "ENSC 4906",
       "name": "Honours Research Project",
-      "credit": "1.0",
+      "credit": "",
       "description": "An independent investigation into an aspect of environmental science supervised by a member of the faculty. Approval of the topic and the research schedule must be obtained from the project supervisor and the course coordinator before the last date for registration.",
       "prerequisites": "fourth-year standing in the Honours Environmental Science program, a major CGPA 8.0 and permission of the Institute.",
       "offerings": [
@@ -221,7 +221,7 @@
     {
       "code": "ENSC 4909",
       "name": "Translational Approach to Indigenous Community Wellness",
-      "credit": "1.0",
+      "credit": "",
       "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner. Includes: Experiential Learning Activity.",
       "prerequisites": "Fourth-year standing with a minimum Major CGPA of 10.0 in the Honours Environmental Science program and permission of the instructor.",
       "offerings": [],
@@ -244,75 +244,75 @@
     },
     {
       "type": "requirement",
-      "degree": "Environmental Science B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science  B.Sc. Honours (20.0 credits)",
       "credits": "3.0",
-      "text": "13.  3.0 credits in free electives. 3.0"
+      "text": "13.  3.0 credits in  free electives. 3.0"
     },
     {
       "type": "requirement",
-      "degree": "Environmental Science with Concentration in Chemistry B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Chemistry  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "14.  1.0 credit in free elective 1.0"
+      "text": "14.  1.0 credit in  free elective 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Environmental Science with Concentration in Earth Sciences B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Earth Sciences  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "11.  1.0 credit in free elective 1.0"
+      "text": "11.  1.0 credit in  free elective 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Environmental Science with Concentration in Ecology, Biodiversity and Conservation B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Ecology, Biodiversity and Conservation  B.Sc. Honours (20.0 credits)",
       "credits": "1.5",
-      "text": "13.  1.5 credit in free electives. 1.5"
+      "text": "13.  1.5 credit in  free electives. 1.5"
     },
     {
       "type": "requirement",
-      "degree": "Environmental Science with Concentration in Geomatics B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Geomatics  B.Sc. Honours (20.0 credits)",
       "credits": "0.5",
-      "text": "13.  0.5 credit in free elective 0.5"
+      "text": "13.  0.5 credit in  free elective 0.5"
     },
     {
       "type": "requirement",
-      "degree": "Environmental Science B.Sc. Major (20.0 credits)",
+      "degree": "Environmental Science  B.Sc. Major (20.0 credits)",
       "credits": "4.5",
-      "text": "12.  4.5 credits in free electives. 4.5"
+      "text": "12.  4.5 credits in  free electives. 4.5"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -341,7 +341,7 @@
   ],
   "programs": [
     {
-      "degree": "Environmental Science B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -392,40 +392,14 @@
           "description": "Group Research in Environmental Science"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENSC 4906"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 4909"
-          ],
-          "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ENSC 4906",
+            "ENSC 4909",
             "ENSC 4901"
           ],
-          "credits": 0.5,
-          "description": "Directed Projects (and [0.5] credit Science faculty elective or science continuation at the 4000 level)"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -460,144 +434,41 @@
           "description": "Weather and Water"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOG 3102"
-          ],
-          "credits": 0.5,
-          "description": "Geomorphology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3103"
-          ],
-          "credits": 0.5,
-          "description": "Watershed Hydrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3104"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Biogeography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3105"
-          ],
-          "credits": 0.5,
-          "description": "Climate and Atmospheric Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3106"
-          ],
-          "credits": 0.5,
-          "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOG 3102",
+            "GEOG 3103",
+            "GEOG 3104",
+            "GEOG 3105",
+            "GEOG 3106",
             "GEOG 3108"
           ],
-          "credits": 0.5,
-          "description": "Soil Properties"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ERTH 2102"
-          ],
-          "credits": 0.5,
-          "description": "Mineralogy to Petrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2105"
-          ],
-          "credits": 0.5,
-          "description": "Geodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2312"
-          ],
-          "credits": 0.5,
-          "description": "Paleontology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2314"
-          ],
-          "credits": 0.5,
-          "description": "Sedimentation and Stratigraphy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2402"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: An Earth Sciences Perspective"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2403"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Oceanography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3113"
-          ],
-          "credits": 0.5,
-          "description": "Geology of Human Origins"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ERTH 2102",
+            "ERTH 2105",
+            "ERTH 2312",
+            "ERTH 2314",
+            "ERTH 2402",
+            "ERTH 2403",
+            "ERTH 3113",
             "ERTH 3205"
           ],
-          "credits": 0.5,
-          "description": "Physical Hydrogeology"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2201"
-          ],
-          "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2201",
             "BIOL 2107"
           ],
           "credits": 0.5,
-          "description": "Fundamentals of Genetics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit from Science Faculty Electives or Science Continuation Courses at the 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits from Science Faculty Electives or Science Continuation Courses"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -662,25 +533,11 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Environmental Ethics"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 1.5,
-          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives."
         }
       ]
     },
     {
-      "degree": "Environmental Science with Concentration in Chemistry B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Chemistry  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -731,40 +588,14 @@
           "description": "Group Research in Environmental Science"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENSC 4906"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 4909"
-          ],
-          "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ENSC 4906",
+            "ENSC 4909",
             "ENSC 4901"
           ],
-          "credits": 0.5,
-          "description": "ENSC 4901 [0.5] and a 0.5 credit Science faculty elective or science continuation at the 4000-level"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -799,132 +630,41 @@
           "description": "Weather and Water"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOG 3102"
-          ],
-          "credits": 0.5,
-          "description": "Geomorphology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3103"
-          ],
-          "credits": 0.5,
-          "description": "Watershed Hydrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3104"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Biogeography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3105"
-          ],
-          "credits": 0.5,
-          "description": "Climate and Atmospheric Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3106"
-          ],
-          "credits": 0.5,
-          "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOG 3102",
+            "GEOG 3103",
+            "GEOG 3104",
+            "GEOG 3105",
+            "GEOG 3106",
             "GEOG 3108"
           ],
-          "credits": 0.5,
-          "description": "Soil Properties"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ERTH 2102"
-          ],
-          "credits": 0.5,
-          "description": "Mineralogy to Petrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2105"
-          ],
-          "credits": 0.5,
-          "description": "Geodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2312"
-          ],
-          "credits": 0.5,
-          "description": "Paleontology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2314"
-          ],
-          "credits": 0.5,
-          "description": "Sedimentation and Stratigraphy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2402"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: An Earth Sciences Perspective"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2403"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Oceanography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3113"
-          ],
-          "credits": 0.5,
-          "description": "Geology of Human Origins"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ERTH 2102",
+            "ERTH 2105",
+            "ERTH 2312",
+            "ERTH 2314",
+            "ERTH 2402",
+            "ERTH 2403",
+            "ERTH 3113",
             "ERTH 3205"
           ],
           "credits": 0.5,
-          "description": "Physical Hydrogeology"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2107"
-          ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2107",
             "BIOL 2201"
           ],
           "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -999,12 +739,6 @@
           "description": "Experimental Organic Chemistry"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 3503"
@@ -1019,12 +753,6 @@
           ],
           "credits": 0.5,
           "description": "Inorganic Chemistry II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "ii) 0.5 credit in CHEM at the 4000-level"
         },
         {
           "type": "required",
@@ -1105,109 +833,34 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Environmental Ethics"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 1.5,
-          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free elective"
         }
       ]
     },
     {
-      "degree": "Environmental Science with Concentration in Earth Sciences B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Earth Sciences  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENSC 1500"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Science Seminar"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 2000"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Science Field Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 2001"
-          ],
-          "credits": 0.5,
-          "description": "Earth Resources and Natural Hazards: Environmental Impacts"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 2002"
-          ],
-          "credits": 0.5,
-          "description": "Methods and Analysis in Environmental Science"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 3000"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Science and Management: Theory and Practice"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ENSC 1500",
+            "ENSC 2000",
+            "ENSC 2001",
+            "ENSC 2002",
+            "ENSC 3000",
             "ENSC 3509"
           ],
-          "credits": 0.5,
-          "description": "Group Research in Environmental Science"
+          "credits": 3.0,
+          "description": "3.0 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENSC 4906"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 4909"
-          ],
-          "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ENSC 4906",
+            "ENSC 4909",
             "ENSC 4901"
           ],
-          "credits": null,
-          "description": "ENSC 4901 [0.5] and [0.5] credit Science faculty elective or science continuation at the 4000 level"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1298,12 +951,6 @@
           "description": "Geophysical Methods"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in ERTH at the 4000-level"
-        },
-        {
           "type": "required",
           "courses": [
             "MATH 1007"
@@ -1376,116 +1023,25 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "CHEM 2302"
-          ],
-          "credits": 0.5,
-          "description": "Analytical Chemistry I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2402"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: An Earth Sciences Perspective"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2403"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Oceanography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2802"
-          ],
-          "credits": 0.5,
-          "description": "Field Geology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2312"
-          ],
-          "credits": 0.5,
-          "description": "Paleontology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3204"
-          ],
-          "credits": 0.5,
-          "description": "Mineral Deposits"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3207"
-          ],
-          "credits": 0.5,
-          "description": "Metamorphic Petrology and Processes"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3102"
-          ],
-          "credits": 0.5,
-          "description": "Geomorphology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3103"
-          ],
-          "credits": 0.5,
-          "description": "Watershed Hydrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3104"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Biogeography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3105"
-          ],
-          "credits": 0.5,
-          "description": "Climate and Atmospheric Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3106"
-          ],
-          "credits": 0.5,
-          "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOM 3002"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Remote Sensing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHEM 2302",
+            "ERTH 2402",
+            "ERTH 2403",
+            "ERTH 2802",
+            "ERTH 2312",
+            "ERTH 3204",
+            "ERTH 3207",
+            "GEOG 3102",
+            "GEOG 3103",
+            "GEOG 3104",
+            "GEOG 3105",
+            "GEOG 3106",
+            "GEOM 3002",
             "GEOM 3005"
           ],
-          "credits": 0.5,
-          "description": "Geospatial Analysis"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -1510,17 +1066,11 @@
           ],
           "credits": 0.5,
           "description": "Raster GIS: Pixels and Grids"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free elective"
         }
       ]
     },
     {
-      "degree": "Environmental Science with Concentration in Ecology, Biodiversity and Conservation B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Ecology, Biodiversity and Conservation  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1571,40 +1121,14 @@
           "description": "Group Research in Environmental Science"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENSC 4906"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 4909"
-          ],
-          "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ENSC 4906",
+            "ENSC 4909",
             "ENSC 4901"
           ],
-          "credits": null,
-          "description": "ENSC 4901 [0.5] and [0.5] credit Science faculty elective or science continuation at the 4000 level"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1639,122 +1163,32 @@
           "description": "Weather and Water"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOG 3102"
-          ],
-          "credits": 0.5,
-          "description": "Geomorphology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3103"
-          ],
-          "credits": 0.5,
-          "description": "Watershed Hydrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3104"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Biogeography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3105"
-          ],
-          "credits": 0.5,
-          "description": "Climate and Atmospheric Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3106"
-          ],
-          "credits": 0.5,
-          "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOG 3102",
+            "GEOG 3103",
+            "GEOG 3104",
+            "GEOG 3105",
+            "GEOG 3106",
             "GEOG 3108"
           ],
-          "credits": 0.5,
-          "description": "Soil Properties"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ERTH 2102"
-          ],
-          "credits": 0.5,
-          "description": "Mineralogy to Petrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2105"
-          ],
-          "credits": 0.5,
-          "description": "Geodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2312"
-          ],
-          "credits": 0.5,
-          "description": "Paleontology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2314"
-          ],
-          "credits": 0.5,
-          "description": "Sedimentation and Stratigraphy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2402"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: An Earth Sciences Perspective"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2403"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Oceanography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3113"
-          ],
-          "credits": 0.5,
-          "description": "Geology of Human Origins"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ERTH 2102",
+            "ERTH 2105",
+            "ERTH 2312",
+            "ERTH 2314",
+            "ERTH 2402",
+            "ERTH 2403",
+            "ERTH 3113",
             "ERTH 3205"
           ],
-          "credits": 0.5,
-          "description": "Physical Hydrogeology"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from Science faculty elective or science continuation at the 4000 level"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1781,28 +1215,14 @@
           "description": "Cell Biology and Biochemistry"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2303"
-          ],
-          "credits": 0.5,
-          "description": "Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3004"
-          ],
-          "credits": 0.5,
-          "description": "Insect Diversity"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2303",
+            "BIOL 3004",
             "BIOL 3102"
           ],
           "credits": 0.5,
-          "description": "Mycology"
+          "description": "b.  0.5 credit from:"
         },
         {
           "type": "required",
@@ -1813,94 +1233,34 @@
           "description": "Statistics for Biologists"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 3601"
-          ],
-          "credits": 0.5,
-          "description": "Ecosystems and Environmental Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3602"
-          ],
-          "credits": 0.5,
-          "description": "Conservation Biology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3605"
-          ],
-          "credits": 0.5,
-          "description": "Field Course I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 3601",
+            "BIOL 3602",
+            "BIOL 3605",
             "BIOL 3606"
           ],
-          "credits": 0.5,
-          "description": "Field Course II"
+          "credits": 1.0,
+          "description": "ii) 1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "iii) 0.5 credit BIOL at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 3104"
-          ],
-          "credits": 0.5,
-          "description": "Molecular Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 3104",
             "BIOL 4103"
           ],
-          "credits": 0.5,
-          "description": "Population Genetics"
+          "credits": 1.0,
+          "description": "i) 1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2303"
-          ],
-          "credits": 0.5,
-          "description": "Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3102"
-          ],
-          "credits": 0.5,
-          "description": "Mycology"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2303",
+            "BIOL 3102",
             "BIOL 3303"
           ],
           "credits": 0.5,
-          "description": "Experimental Microbiology"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "iii) 0.5 credit BIOL at the 4000-level"
+          "description": "ii) 0.5 credit from:"
         },
         {
           "type": "required",
@@ -1967,31 +1327,18 @@
           "description": "Introduction to Environmental Ethics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2107"
-          ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2107",
             "ISAP 1000"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit in free electives."
+          "credits": 0.5,
+          "description": "0.5 credit from:"
         }
       ]
     },
     {
-      "degree": "Environmental Science with Concentration in Geomatics B.Sc. Honours (20.0 credits)",
+      "degree": "Environmental Science with Concentration in Geomatics  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2042,60 +1389,15 @@
           "description": "Group Research in Environmental Science"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ENSC 4906"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Project"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 4909"
-          ],
-          "credits": 1.0,
-          "description": "Translational Approach to Indigenous Community Wellness"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ENSC 4901"
-          ],
-          "credits": 0.5,
-          "description": "Directed Projects"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ENSC 4906",
+            "ENSC 4909",
+            "ENSC 4901",
             "GEOM 4005"
           ],
-          "credits": 0.5,
-          "description": "Directed Studies in Geomatics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "and 0.5 credit 4000-level Approved Science for Environmental Science"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -2130,116 +1432,32 @@
           "description": "Weather and Water"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOG 3102"
-          ],
-          "credits": 0.5,
-          "description": "Geomorphology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3103"
-          ],
-          "credits": 0.5,
-          "description": "Watershed Hydrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3104"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Biogeography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3105"
-          ],
-          "credits": 0.5,
-          "description": "Climate and Atmospheric Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3106"
-          ],
-          "credits": 0.5,
-          "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOG 3102",
+            "GEOG 3103",
+            "GEOG 3104",
+            "GEOG 3105",
+            "GEOG 3106",
             "GEOG 3108"
           ],
-          "credits": 0.5,
-          "description": "Soil Properties"
+          "credits": 1.0,
+          "description": "1.0  credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ERTH 2312"
-          ],
-          "credits": 0.5,
-          "description": "Paleontology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2102"
-          ],
-          "credits": 0.5,
-          "description": "Mineralogy to Petrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2105"
-          ],
-          "credits": 0.5,
-          "description": "Geodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2314"
-          ],
-          "credits": 0.5,
-          "description": "Sedimentation and Stratigraphy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2402"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: An Earth Sciences Perspective"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2403"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Oceanography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3113"
-          ],
-          "credits": 0.5,
-          "description": "Geology of Human Origins"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ERTH 2312",
+            "ERTH 2102",
+            "ERTH 2105",
+            "ERTH 2314",
+            "ERTH 2402",
+            "ERTH 2403",
+            "ERTH 3113",
             "ERTH 3205"
           ],
-          "credits": 0.5,
-          "description": "Physical Hydrogeology"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -2298,36 +1516,15 @@
           "description": "Quantitative Geography"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOM 4001"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Geomatics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOM 4003"
-          ],
-          "credits": 0.5,
-          "description": "Remote Sensing of the Environment"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOM 4008"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Topics in Geographic Information Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOM 4001",
+            "GEOM 4003",
+            "GEOM 4008",
             "GEOM 4009"
           ],
-          "credits": 0.5,
-          "description": "Custom Geomatics Applications"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -2354,12 +1551,12 @@
           "description": "Introduction to Statistical Modeling I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "GEOG 2006"
           ],
-          "credits": 0.5,
-          "description": "Introduction to Quantitative Research"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -2410,39 +1607,19 @@
           "description": "Introduction to Environmental Ethics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2107"
-          ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 2201"
-          ],
-          "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2107",
+            "BIOL 2201",
             "ISAP 1000"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 0.5,
-          "description": "0.5 credit in free elective"
+          "description": "0.5 credit from:"
         }
       ]
     },
     {
-      "degree": "Environmental Science B.Sc. Major (20.0 credits)",
+      "degree": "Environmental Science  B.Sc. Major (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2517,150 +1694,41 @@
           "description": "Weather and Water"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "GEOG 3102"
-          ],
-          "credits": 0.5,
-          "description": "Geomorphology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3103"
-          ],
-          "credits": 0.5,
-          "description": "Watershed Hydrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3104"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Biogeography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3105"
-          ],
-          "credits": 0.5,
-          "description": "Climate and Atmospheric Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GEOG 3106"
-          ],
-          "credits": 0.5,
-          "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GEOG 3102",
+            "GEOG 3103",
+            "GEOG 3104",
+            "GEOG 3105",
+            "GEOG 3106",
             "GEOG 3108"
           ],
-          "credits": 0.5,
-          "description": "Soil Properties"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "ERTH 2102"
-          ],
-          "credits": 0.5,
-          "description": "Mineralogy to Petrology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2105"
-          ],
-          "credits": 0.5,
-          "description": "Geodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2312"
-          ],
-          "credits": 0.5,
-          "description": "Paleontology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2314"
-          ],
-          "credits": 0.5,
-          "description": "Sedimentation and Stratigraphy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2402"
-          ],
-          "credits": 0.5,
-          "description": "Climate Change: An Earth Sciences Perspective"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 2403"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Oceanography"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ERTH 3113"
-          ],
-          "credits": 0.5,
-          "description": "Geology of Human Origins"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "ERTH 2102",
+            "ERTH 2105",
+            "ERTH 2312",
+            "ERTH 2314",
+            "ERTH 2402",
+            "ERTH 2403",
+            "ERTH 3113",
             "ERTH 3205"
           ],
-          "credits": 0.5,
-          "description": "Physical Hydrogeology"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2107"
-          ],
-          "credits": 0.5,
-          "description": "Fundamentals of Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2107",
             "BIOL 2201"
           ],
           "credits": 0.5,
-          "description": "Cell Biology and Biochemistry"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credits from Science faculty electives or science continuation at the 4000 level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0  credits from Science faculty electives or science continuation courses"
+          "description": "0.5 credit from"
         },
         {
           "type": "required",
@@ -2725,21 +1793,12 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Environmental Ethics"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 1.5,
-          "description": "1.5 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in free electives."
-        },
+        }
+      ]
+    },
+    {
+      "degree": "Experimental Science Requirement",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -3346,277 +2405,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",
@@ -3761,12 +2587,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     }

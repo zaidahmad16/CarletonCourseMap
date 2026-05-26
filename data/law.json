@@ -5,7 +5,7 @@
     {
       "code": "LAWS 1001",
       "name": "Introduction to Legal Studies 1",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to legal studies: concepts, sources, nature and functions of law; historical, cultural and constitutional foundations of Canadian legal system; common and civil law traditions; statutory interpretation; precedent; legal institutions; frameworks for analyzing formal and informal conceptions of law and its role in society.",
       "prerequisites": "",
       "offerings": [
@@ -18,7 +18,7 @@
     {
       "code": "LAWS 1002",
       "name": "Introduction to Legal Studies 2",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to legal rules and theoretical approaches for critically understanding the creation, interpretation and enforcement of those rules; the role of judges, juries, lawyers, and lay persons; adjudication and alternative dispute resolution; relationship of law with social change and justice; challenges of access to justice.",
       "prerequisites": "",
       "offerings": [
@@ -31,7 +31,7 @@
     {
       "code": "LAWS 2105",
       "name": "Social Justice and Human Rights",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theories and practices of law and social justice. Issues examined may include: civil democracy and repression; global governance and the rule of law; democratic movements and social power; human rights instruments, regimes and remedies; armed conflict; and humanitarian intervention.",
       "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 , or HRSJ 1101 and HRSJ 1102 , or PAPM 1001 and PSCI 2003 .",
       "offerings": [
@@ -44,7 +44,7 @@
     {
       "code": "LAWS 2201",
       "name": "Persons and Property",
-      "credit": "0.5",
+      "credit": "",
       "description": "Origins and scope of the concept of person in law and how concepts of legal personality change over time.  Origins and scope of the concept of property and how concepts of property change over time.",
       "prerequisites": "LAWS 1001 and LAWS 1002 .",
       "offerings": [
@@ -57,7 +57,7 @@
     {
       "code": "LAWS 2202",
       "name": "Obligations",
-      "credit": "0.5",
+      "credit": "",
       "description": "The concepts employed by the law for creating and enforcing legal obligations between persons within society, including contract, tort, fiduciary obligation and restitution.  Consideration is given to the role of persons and the role of the state in ordering private legal obligations.",
       "prerequisites": "LAWS 1001 and LAWS 1002 .",
       "offerings": [
@@ -70,7 +70,7 @@
     {
       "code": "LAWS 2301",
       "name": "Criminal Justice System",
-      "credit": "0.5",
+      "credit": "",
       "description": "The institutional and social production of criminal law in Canada. Processes, personnel, and agencies. The role of discretion. The accused and the place of the victim. Issues in sentencing and punishment. Particular attention to racialization, Indigenous experiences, and discrimination in the operations of criminal law.",
       "prerequisites": "LAWS 1001 and LAWS 1002 .",
       "offerings": [
@@ -83,7 +83,7 @@
     {
       "code": "LAWS 2302",
       "name": "Criminal Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "The legal and social dimensions of criminal liability and responsibility in Canada, including issues and problems surrounding mens rea, actus reus, and the attachment of liability. Excuses and justifications, the Canadian Criminal Code and the role of the Charter in the criminal legal system.",
       "prerequisites": "LAWS 1001 and LAWS 1002 .",
       "offerings": [
@@ -96,7 +96,7 @@
     {
       "code": "LAWS 2501",
       "name": "Law, State and Constitution",
-      "credit": "0.5",
+      "credit": "",
       "description": "Law relating to the state, society and the constitution, with a focus on the historical framework, federalism, and constitutional reform in Canada.",
       "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 .",
       "offerings": [
@@ -109,10 +109,11 @@
     {
       "code": "LAWS 2502",
       "name": "Law, State and Citizen",
-      "credit": "0.5",
+      "credit": "",
       "description": "Law relating to the state and its relationship to individuals and groups in society, with a focus on the administrative process, basic values and the Charter.",
       "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 .",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -121,7 +122,7 @@
     {
       "code": "LAWS 2601",
       "name": "Public International Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of the role of law in contemporary international relations.  Nature, history and sources of international law; international personality of states; status of international organizations and individuals; creation and effect of international obligations; importance and functions of law in the settlement of international disputes.",
       "prerequisites": "1.0 credit from LAWS 1001 and LAWS 1002 or PAPM 1001 and PSCI 2003 .",
       "offerings": [
@@ -134,7 +135,7 @@
     {
       "code": "LAWS 2908",
       "name": "Methodological Approaches in Legal Studies 1",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the legal research process and analysis of legal methodology; finding and analyzing primary and secondary legal sources. Students are strongly encouraged to take this course in the second year of their program.",
       "prerequisites": "LAWS 1001 and LAWS 1002 .",
       "offerings": [
@@ -147,7 +148,7 @@
     {
       "code": "LAWS 3001",
       "name": "Women and the Legal Process",
-      "credit": "0.5",
+      "credit": "",
       "description": "How the legal process has affected the status of women. Areas of concentration within the Canadian context include the criminal law, citizenship and immigration, education, employment, and welfare and social services.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [
@@ -159,7 +160,7 @@
     {
       "code": "LAWS 3003",
       "name": "Contracts",
-      "credit": "0.5",
+      "credit": "",
       "description": "The enforcement of promises and agreements; basic doctrines and underlying principles of the law of contract are studied from formation of the contract to remedies for breach of contract; role of contract for economic and social purposes is also considered.",
       "prerequisites": "LAWS 2202 and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
@@ -171,11 +172,11 @@
     {
       "code": "LAWS 3005",
       "name": "Law and Regulation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Definitions and goals of regulation; contemporary theories and debates about legal and non-legal approaches to regulation. Approaches studied may include market mechanisms, public agency regulation, self-regulation and governance in co-operation with associations in civil society.",
       "prerequisites": "1.0 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -183,7 +184,7 @@
     {
       "code": "LAWS 3006",
       "name": "Alternative Dispute Resolution",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to theories and practices of alternative dispute resolution, including, negotiation, mediation, arbitration, and restorative justice; contrasts with formal litigation; issues of social and legal control; critiques grounded in critical theories; application to contemporary issues and disputes.",
       "prerequisites": "( LAWS 1001 and LAWS 1002 ) and (1.0 credit in LAWS at the 2000 level or 0.5 credit in LAWS at the 2000 level and BUSI 2601 ).",
       "offerings": [
@@ -195,7 +196,7 @@
     {
       "code": "LAWS 3101",
       "name": "Philosophy of Law: The Nature of Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "The concept of law, leading theories of law and related concepts such as rules and obligations, power and authority, coercion, and justice.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [],
@@ -205,29 +206,29 @@
     {
       "code": "LAWS 3103",
       "name": "Law, Culture, and the Humanities:  A Foundation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Themes, approaches and debates in the field of law, culture and the humanities. Primary materials considered may include theoretical writings/cultural criticism/literary texts/films/video/photography and music. These texts present different modes and means of inquiring into the assumptions and aspirations that we ascribe to law.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3104",
       "name": "Critical Theory for Legal Studies: An Introduction",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the general contours of critical theory as it pertains to law and legal studies. The course will introduce key concepts and controversies in the field, identify specific theoretical debates, and consider what conceptual consequences follow from the elaboration of specific positions or arguments.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3201",
       "name": "Business Enterprise Frameworks",
-      "credit": "0.5",
+      "credit": "",
       "description": "Forms of carrying on business activity: proprietorships, partnerships, corporations and Crown entities. The rights and obligations of such business enterprises both internally and in relation with other persons. The relationship between legal form and economic function. The role of state intervention.",
       "prerequisites": "LAWS 2201 and LAWS 2202 .",
       "offerings": [
@@ -239,11 +240,11 @@
     {
       "code": "LAWS 3202",
       "name": "Intellectual Property",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical assessment of copyright, patents, trademarks, trade secrets and other forms of intellectual property; regulation and governance of information technology including self-regulation, standard setting, licensing, competition policy and international dimensions.",
       "prerequisites": "1.0 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 .",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -251,17 +252,19 @@
     {
       "code": "LAWS 3205",
       "name": "Consumer Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Need for consumer protection in the provision of goods and services; traditional legal protection by statute and common law; legislative responses to consumer pressures; judicial response in recent Canadian, English and American law; reform of consumer law.",
       "prerequisites": "( LAWS 2202 or BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3207",
       "name": "International Transactions",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics may include: the international sale of goods, finance of transnational transactions, international carriage of goods, insurance, agency and trading houses; other forms of trade, e.g., counter-trade, foreign investment; settlement of international disputes by litigation and arbitration.",
       "prerequisites": "( LAWS 2202 or BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [],
@@ -271,7 +274,7 @@
     {
       "code": "LAWS 3208",
       "name": "International Trade Regulation",
-      "credit": "0.5",
+      "credit": "",
       "description": "International regulation of trade and investment through bilateral, regional and multilateral treaties and agreements. Topics may include: WTO, NAFTA, the EU, UNCTAD, intergovernmental commodity agreements, dispute settlement.",
       "prerequisites": "(0.5 credit from LAWS 2202 , LAWS 2501 , LAWS 2601 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
@@ -283,7 +286,7 @@
     {
       "code": "LAWS 3305",
       "name": "Crime and State in History",
-      "credit": "0.5",
+      "credit": "",
       "description": "The history of the relationship between the criminal law system and society. Changing issues in the criminal law and the nature of institutional responses, covering medieval to early nineteenth-century England and nineteenth to early twentieth-century Canada.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level, or 0.5 credit in LAWS at the 2000 level and 0.5 credit in HIST at the 2000 level.",
       "offerings": [
@@ -295,7 +298,7 @@
     {
       "code": "LAWS 3306",
       "name": "Crime, Law, Process and Politics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Criminal law process in Canada; structure and use of the process examined for fairness, defects, and possible reform initiatives. Issues concerning Indigeneity, gender, race and class bias in the implementation and application of the criminal law.",
       "prerequisites": "LAWS 2301 and LAWS 2302 .",
       "offerings": [
@@ -308,7 +311,7 @@
     {
       "code": "LAWS 3307",
       "name": "Youth and Criminal Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "A review of the Youth Criminal Justice Act within the framework of the Canadian justice system, with particular emphasis on historical and philosophical developments and objectives. Current topics include: constitutional issues, procedure, confessions, transfers, sentencing options, alternative measures, reviews, and possible amendments.",
       "prerequisites": "LAWS 2301 and LAWS 2302 .",
       "offerings": [
@@ -321,7 +324,7 @@
     {
       "code": "LAWS 3308",
       "name": "Punishment and the Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores justifications and practices of punishment and social control from a socio-legal perspective. Rationalizations and justifications for punishment are considered. Different forms of punishment and control within the law will be examined as well as different theoretical perspectives of punishment.",
       "prerequisites": "LAWS 2301 and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
@@ -334,11 +337,10 @@
     {
       "code": "LAWS 3309",
       "name": "Public and Private Policing",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of the foundations, politics, deployments and legal context of public and private policing.  Theoretical and strategic themes related to corporate and state surveillance and security provision are analyzed in the context of class, race, and gender in contemporary and historical context.",
       "prerequisites": "LAWS 2301 and LAWS 2302 .",
       "offerings": [
-        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -347,11 +349,11 @@
     {
       "code": "LAWS 3310",
       "name": "Race and Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores theorizations and intersections of race and law in legal studies. Particular attention to case studies, institutional, structural, and systemic racism, the currency of \u201crace\u201d in legal categories and in the work of legal actors in multiple areas of law.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -359,17 +361,19 @@
     {
       "code": "LAWS 3401",
       "name": "Employment Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal regulation of the employment relationship; its contractual basis; defining employment; rights and duties of employees and employers; termination of employment; statutory regulation through employment standards legislation, human rights codes, workers' compensation acts, occupational health and safety and related statutes.",
       "prerequisites": "(0.5 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3405",
       "name": "Labour Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Role of law in industrial relations; effect of law on collective bargaining relationships; recognition of bargaining agent; regulation of bargaining; administration of the collective agreement; methods of conflict resolution.",
       "prerequisites": "(0.5 credit from LAWS 2201 , LAWS 2202 , LAWS 2501 , LAWS 2502 , BUSI 2601 ) and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
@@ -381,7 +385,7 @@
     {
       "code": "LAWS 3500",
       "name": "Constitutional Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "An investigation of the Canadian constitution. Sovereignty, the nature and units of executive, legislative, and judicial power in Canada as interpreted by the courts. The distribution of powers under the Canadian constitution, including an investigation of contemporary problems of federalism. Problems of judicial review.",
       "prerequisites": "( LAWS 2501 or PSCI 2003 ) and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [],
@@ -391,33 +395,19 @@
     {
       "code": "LAWS 3501",
       "name": "Law in the Information Society",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal responses to challenges of the information society. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, control of objectionable content, Charter and human rights issues, and security.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3502",
       "name": "Regulating Freedom of Expression in Canada",
-      "credit": "0.5",
+      "credit": "",
       "description": "The claimed relationship between freedom of expression and Canadian democracy, including the historical development of the right and various limits on it, and the regulatory structures governing contemporary media, criminalized and commercial expression, and use of media in the courtroom.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [
-        "winter"
-      ],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 3503",
-      "name": "Equality and Discrimination",
-      "credit": "0.5",
-      "description": "Human rights issues and law in Canada; history and present day experiences of discrimination; critical exploration of laws effectiveness in responding to discrimination; meaning(s) of equality and discrimination; focus on Human Rights Codes - interpretation, administration, enforcement with some reference to s.15 of the Charter.",
-      "prerequisites": "(0.5 credit from LAWS 2105 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
         "fall"
       ],
@@ -425,9 +415,21 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "LAWS 3503",
+      "name": "Equality and Discrimination",
+      "credit": "",
+      "description": "Human rights issues and law in Canada; history and present day experiences of discrimination; critical exploration of laws effectiveness in responding to discrimination; meaning(s) of equality and discrimination; focus on Human Rights Codes - interpretation, administration, enforcement with some reference to s.15 of the Charter.",
+      "prerequisites": "(0.5 credit from LAWS 2105 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LAWS 3504",
       "name": "Law and Indigenous Peoples",
-      "credit": "0.5",
+      "credit": "",
       "description": "The relationship between settler colonialist law and Indigenous people in Canada, including the legal, constitutional and legislative framework shaping the relationship between the Crown and Indigenous people, Indigenous rights and claims, Indigenous identities, treaties and self-determination, among others.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [],
@@ -437,11 +439,11 @@
     {
       "code": "LAWS 3506",
       "name": "Administrative Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Structure and procedure of Canadian administrative authorities; policy, statutory and judicial environments in which they operate. Topics include techniques for implementing public policy and structuring public authorities; statutory interpretation; procedural safeguards; exercise of statutory discretion; reconciling efficiency and fairness.",
       "prerequisites": "LAWS 2502 and 0.5 credit in LAWS at the 2000 level.",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -449,7 +451,7 @@
     {
       "code": "LAWS 3508",
       "name": "Health Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal/ethical issues in health care regulation. Topics may include: regulation of health professions; economics of health care; informed consent/choice; regulation of drugs, devices and research; medical malpractice and other liability; mental health issues; patient/client records.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [
@@ -461,17 +463,19 @@
     {
       "code": "LAWS 3509",
       "name": "Selected Topics in The Charter of Rights",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected issues in the Canadian Charter of Rights and Freedoms. The topics of this course may vary from year to year, and are announced in advance of registration.",
       "prerequisites": "(0.5 Credit from LAWS 2105 , LAWS 2201 , LAWS 2302 , LAWS 2502 ) and 0.5 credit in LAWS at the 2000 level.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3602",
       "name": "International Human Rights",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the law, theory, and historical context of international human rights. The course examines key doctrinal, theoretical, political, and institutional elements of international human rights law, past and present debates about human rights practices and politics.",
       "prerequisites": "(0.5 credit from LAWS 2105 , LAWS 2502 , LAWS 2601 or HRSJ 2001 ) and 0.5 credit in LAWS at the 2000 level or PAPM 1001 and PSCI 2003 .",
       "offerings": [
@@ -484,12 +488,11 @@
     {
       "code": "LAWS 3604",
       "name": "International Organizations",
-      "credit": "0.5",
+      "credit": "",
       "description": "Nature, character, legal status and jurisdiction of intergovernmental international organizations. Rights and duties of states arising from membership in international organizations. Distinction between international and supra-national institutions. United Nations system, selected subsidiary organs, and specialized agencies; non-governmental organizations at times of crisis.",
       "prerequisites": "LAWS 2601 and 0.5 credit in LAWS at the 2000 level or PAPM 1001 and PSCI 2003 .",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -497,8 +500,30 @@
     {
       "code": "LAWS 3800",
       "name": "Environmental Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to theories and practices of environment law, including, international, administrative, civil, criminal, constitutional, and Indigenous aspects; enforcement, compliance, litigation, and law reform; political and socio-economic aspects; market-based and rights-based approaches; environmental justice; critiques grounded in critical theories.",
+      "prerequisites": "1.0 credit in LAWS at the 2000 level.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
+      "code": "LAWS 3804",
+      "name": "Law of the Family",
+      "credit": "",
+      "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
+      "prerequisites": "LAWS 2201 and LAWS 2202 .",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
+      "code": "LAWS 3903",
+      "name": "Special Topics in Legal Studies",
+      "credit": "",
+      "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
       "prerequisites": "1.0 credit in LAWS at the 2000 level.",
       "offerings": [
         "fall"
@@ -507,39 +532,21 @@
       "concurrent_prerequisites": []
     },
     {
-      "code": "LAWS 3804",
-      "name": "Law of the Family",
-      "credit": "0.5",
-      "description": "Legal framework surrounding the family and family relationships in Canadian society. Topics include marriage and cohabitation, matrimonial support, custody and access, and dissolution of marriage. State interventions through law; law and change in family structures; equality issues; dispute resolution processes.",
-      "prerequisites": "LAWS 2201 and LAWS 2202 .",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 3903",
-      "name": "Special Topics in Legal Studies",
-      "credit": "0.5",
-      "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
-      "prerequisites": "1.0 credit in LAWS at the 2000 level.",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
       "code": "LAWS 3904",
       "name": "Special Topics in Legal Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "The topics of this course may vary from year to year, and are announced in advance of registration.",
       "prerequisites": "1.0 credit in LAWS at the 2000-level.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 3908",
       "name": "Methodological Approaches in Legal Studies 2",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced approaches to interdisciplinary research and analysis in law and legal studies. Methodological approaches considered will vary by section, and may include theoretical, quantitative, qualitative, literary, or historical approaches.",
       "prerequisites": "LAWS 2908 and third-year Honours standing. Honours students are strongly encouraged to take this course in the third year of their program.",
       "offerings": [
@@ -552,7 +559,7 @@
     {
       "code": "LAWS 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "",
       "prerequisites": "registration in the B.A. Honours (concentration in Business Law or concentration in Law, Policy and Government) Cooperative Program, completion of Co-op preparation classes offered by the Co-op office and permission of the Department.",
       "offerings": [],
@@ -562,19 +569,9 @@
     {
       "code": "LAWS 4001",
       "name": "Law, Family and Gender",
-      "credit": "0.5",
+      "credit": "",
       "description": "Relationship between family law and ideology of the family, gender roles and the reproduction of family structures. Social ramifications of family law; potential for family law reform as an agency of social change.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3001 or LAWS 3804 , and fourth-year Honours standing.",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 4002",
-      "name": "Feminist Theories of Law",
-      "credit": "0.5",
-      "description": "The literature comprising feminist perspectives on law; theoretical bases of these perspectives; place of feminist theories within other critiques of law; significance of different feminist theories for equality theory and law reform strategies; unique contributions of the various perspectives.",
-      "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
         "fall"
       ],
@@ -582,19 +579,31 @@
       "concurrent_prerequisites": []
     },
     {
-      "code": "LAWS 4006",
-      "name": "Religion and State in Canada",
-      "credit": "0.5",
-      "description": "Legal nature of the interaction of religion and state within an historical framework. Emphasis on Canada after the Charter of Rights and Freedoms and on religious pluralism and resistance to state intervention in religion. Interdisciplinary readings drawn from legal, historical and theological sources.",
+      "code": "LAWS 4002",
+      "name": "Feminist Theories of Law",
+      "credit": "",
+      "description": "The literature comprising feminist perspectives on law; theoretical bases of these perspectives; place of feminist theories within other critiques of law; significance of different feminist theories for equality theory and law reform strategies; unique contributions of the various perspectives.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
+      "code": "LAWS 4006",
+      "name": "Religion and State in Canada",
+      "credit": "",
+      "description": "Legal nature of the interaction of religion and state within an historical framework. Emphasis on Canada after the Charter of Rights and Freedoms and on religious pluralism and resistance to state intervention in religion. Interdisciplinary readings drawn from legal, historical and theological sources.",
+      "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
+      "offerings": [
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LAWS 4100",
       "name": "Modern Legal Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Realist and post-realist legal scholarship; emphasis on Canadian, American and British approaches. Topics include the Canadian treatise tradition, American legal realism, empirical approaches to legal problems, the sociological movement in law, critical and Canadian feminist legal scholarship, Marxian theories of law, normative economic theory.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
@@ -606,39 +615,42 @@
     {
       "code": "LAWS 4101",
       "name": "Contemporary Justice Theories",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected major contemporary theories of justice such as those associated with Rawls, Walzer, and Habermas, with emphasis on both their procedural and substantive elements and their concrete ramifications for law, policy and political practice.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 4102",
-      "name": "Controversies in Rights Theory",
-      "credit": "0.5",
-      "description": "This course examines selected controversies in rights theories, practices, and/or historiography. Illustrative questions may include: Are rights universal or culturally relative? Can rights be justified after the demise of natural rights philosophy? Do rights undermine difference? Do communities benefit from a rights-based culture?.",
-      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 4105",
-      "name": "Global Justice Theory",
-      "credit": "0.5",
-      "description": "Selected theories of global justice as they pertain to legality, which may include questions such as the justice of military force and just war theory, global social justice and global inequality, sovereignty and cosmopolitan conceptions of justice, demands for global democracy and human rights.",
-      "prerequisites": "LAWS 2105 , LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
+      "code": "LAWS 4102",
+      "name": "Controversies in Rights Theory",
+      "credit": "",
+      "description": "This course examines selected controversies in rights theories, practices, and/or historiography. Illustrative questions may include: Are rights universal or culturally relative? Can rights be justified after the demise of natural rights philosophy? Do rights undermine difference? Do communities benefit from a rights-based culture?.",
+      "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
+      "code": "LAWS 4105",
+      "name": "Global Justice Theory",
+      "credit": "",
+      "description": "Selected theories of global justice as they pertain to legality, which may include questions such as the justice of military force and just war theory, global social justice and global inequality, sovereignty and cosmopolitan conceptions of justice, demands for global democracy and human rights.",
+      "prerequisites": "LAWS 2105 , LAWS 2908 and fourth-year Honours standing.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LAWS 4106",
       "name": "Law and Violence",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of how law defines,  justifies,  and addresses individual,  collective and state violence: contemporary and historical case studies; theoretical inquiries into the relationship between law, legality and different forms of violence.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
       "offerings": [
@@ -651,29 +663,29 @@
     {
       "code": "LAWS 4107",
       "name": "Law in Modern Society",
-      "credit": "0.5",
+      "credit": "",
       "description": "Sociological and legal theory accounts of the changing role and function of law in modern society with particular reference to advanced capitalist societies. Topics include: the welfare state and the use of regulatory law; juridification and legalization; counter-trends, deregulation, informalism, legal pluralism.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 4200",
       "name": "Selected Topics in International Economic Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected topics in international economic law. May include: the legal regulation of international economic activity; methods of dispute settlement; standardization and development of an autonomous international trade law; and selected conventions and institutions governing international economic law.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3207 or LAWS 3208 , and fourth-year Honours standing.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 4202",
       "name": "Accountability of Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Role, function, and legal regulation of persons managing business enterprises. Status, social responsibility, fiduciary obligations and rights. Control and accountability of managers, obligations owed to the enterprise unit itself, constitutional rights of members, standards imposed by statutory regulation.",
       "prerequisites": "LAWS 2908 , LAWS 3201 and fourth-year Honours standing.",
       "offerings": [
@@ -685,19 +697,17 @@
     {
       "code": "LAWS 4204",
       "name": "Legal Issues in eCommerce",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of selected legal topics relevant to the conduct of electronic commerce. Topics include types of regulation, government support, jurisdiction challenges, contract disputes and consumer protection. Court and alternative dispute resolution policy of Domain Names challenges are also included.",
       "prerequisites": "LAWS 2908 , LAWS 2201 , LAWS 2202 and fourth-year Honours standing.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 4209",
       "name": "Selected Topics in Business Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a selected advanced topic in business law. The topics of this course may vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 2201 or LAWS 2202 , and fourth-year Honours standing.",
       "offerings": [
@@ -709,7 +719,7 @@
     {
       "code": "LAWS 4302",
       "name": "Regulation of Corporate Crime and Misconduct",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal, policy and theoretical perspectives on the regulation of corporate crime. Nature and causes of corporate crime and corporate misconduct. Selected case studies on the role of the state in regulating corporate behaviour and the criminal justice system\u2019s response to corporate crime.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and fourth-year Honours standing.",
       "offerings": [
@@ -722,7 +732,7 @@
     {
       "code": "LAWS 4303",
       "name": "Drugs, The User and The State",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores the state's attempts to control drugs and drug users by exploring different aspects of national and international drug control. The Canadian experience of drug control, viewed from different perspectives, will be explored within a broader socio-legal context.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 , and 0.5 credit from LAWS 2301 or LAWS 2302 , and fourth-year Honours standing.",
       "offerings": [
@@ -735,12 +745,11 @@
     {
       "code": "LAWS 4304",
       "name": "Policing and Social Surveillance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theoretical consideration of the emergence and transformation of \u201cpolicing\u201d activities through an examination of law and changes in social relations, with  special attention to the myriad agencies involved in contemporary security provision. Evolving notions of risk, surveillance, the state, and the private-public dichotomy.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 , and 0.5 credit from LAWS 2301 or LAWS 2302 , and fourth-year Honours standing.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -748,7 +757,7 @@
     {
       "code": "LAWS 4305",
       "name": "Criminal Justice Reform",
-      "credit": "0.5",
+      "credit": "",
       "description": "Social transformation and criminal justice reform. Theoretical and practical reasons for the use of criminal law as an instrument of social control. Specific reform initiatives and processes. Alternate responses to social problems.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [
@@ -760,20 +769,8 @@
     {
       "code": "LAWS 4306",
       "name": "Selected Topics in Criminal Law Issues",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected issues and problems in the area of criminal law. The topics may vary from year to year depending on demand and interest and are announced in advance of registration.",
-      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
-      "offerings": [
-        "fall"
-      ],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 4307",
-      "name": "Medical Criminal Law Issues",
-      "credit": "0.5",
-      "description": "Legal-medical issues, conflicts and relationships in the field of social control. Topics include mental disorder and criminal liability, diversion of offenders to civil commitment in hospital, insanity, automatism, fitness to stand trial, prediction of dangerousness, regulation of psychoactive drugs.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [
         "winter"
@@ -782,9 +779,21 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "LAWS 4307",
+      "name": "Medical Criminal Law Issues",
+      "credit": "",
+      "description": "Legal-medical issues, conflicts and relationships in the field of social control. Topics include mental disorder and criminal liability, diversion of offenders to civil commitment in hospital, insanity, automatism, fitness to stand trial, prediction of dangerousness, regulation of psychoactive drugs.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LAWS 4308",
       "name": "Sentencing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theories of sentencing, current sentencing laws and practices, perceptions of sentencing. Data on sentencing practice across Canada. Reforms in other jurisdictions. Critical review of the Canadian Sentencing Commission. Multidisciplinary approach using research and theory in law, criminology, social psychology and sociology.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [
@@ -797,19 +806,9 @@
     {
       "code": "LAWS 4309",
       "name": "State Security and Dissent",
-      "credit": "0.5",
+      "credit": "",
       "description": "Historical and contemporary analysis of legal responses of Canadian governments to dissent, political opposition, insurrection, etc. Includes trial of political offences (treason, sedition, riot), national security measures (War Measures/Emergencies Act, Official Secrets Act), and other special powers (police, labour, immigration, parliamentary privilege, etc.).",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and 0.5 credit from LAWS 3305 , LAWS 3503 , LAWS 3509 , and fourth-year Honours standing.",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LAWS 4311",
-      "name": "Human Rights in Canadian Prisons",
-      "credit": "0.5",
-      "description": "Correctional law in the Canadian criminal justice system; competing objectives of punishment and rehabilitation in the context of respect for the rule of law and human rights; protection of human rights of prisoners in Canada and in in international and comparative contexts.",
-      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and fourth-year Honours standing.",
       "offerings": [
         "winter"
       ],
@@ -817,19 +816,31 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "LAWS 4311",
+      "name": "Human Rights in Canadian Prisons",
+      "credit": "",
+      "description": "Correctional law in the Canadian criminal justice system; competing objectives of punishment and rehabilitation in the context of respect for the rule of law and human rights; protection of human rights of prisoners in Canada and in in international and comparative contexts.",
+      "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and fourth-year Honours standing.",
+      "offerings": [],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LAWS 4402",
       "name": "Employment Dispute Resolution",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theory and practice of dispute resolution in employment relations; analysis of such techniques as negotiation, grievance and interest arbitration, mediation, investigation and litigation applied to a range of employment disputes such as collective agreements, termination of employment, discrimination, harassment, occupational health and safety.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3006 , LAWS 3401 , LAWS 3405 , and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 4503",
       "name": "Law, Disability and Society",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of the ways in which law promotes or hinders the inclusion of disabled persons in society.  Consideration of different theories of 'disability' and the creation of barriers faced by disabled persons. Topics may include barriers affecting education, employment, transportation, benefits, and life/death decisions.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
@@ -842,7 +853,7 @@
     {
       "code": "LAWS 4504",
       "name": "Indigenous Criminal Justice",
-      "credit": "0.5",
+      "credit": "",
       "description": "Indigenous peoples and the administration of Canadian criminal justice including policing, courts, corrections and aftercare. Content and effects of past and present policies, processes and laws. Alternatives such as self-government and self-determination; potential approaches to an appropriate justice system for Indigenous peoples.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [],
@@ -852,7 +863,7 @@
     {
       "code": "LAWS 4510",
       "name": "Selected Topics in Law, Policy and Government",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a selected advanced topic in the area of law, policy and government. The topics of this course may vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2501 , LAWS 2502 , LAWS 2908 and fourth-year Honours standing.",
       "offerings": [],
@@ -862,7 +873,7 @@
     {
       "code": "LAWS 4601",
       "name": "Transnational Law and Human Rights",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of the role of law in addressing human rights issues that transcend traditional categories of domestic and international law; the potential and limits of law in addressing human rights issues; the growth of transnational approaches to law and human rights.",
       "prerequisites": "LAWS 2908 , 0.5 credit from LAWS 3503 or LAWS 3602 , and fourth-year Honours standing.",
       "offerings": [
@@ -874,22 +885,23 @@
     {
       "code": "LAWS 4602",
       "name": "Is Religious Freedom a Human Right?",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal, theoretical, and theological interconnections between religion and human rights. Evaluation of concepts including religious freedom, secularism, public sphere, accommodation and neutrality. Examination of religion and culture, interdependence of legal and religious perspectives, boundaries of religion and state, and religious compulsion. Use of case studies.",
       "prerequisites": "LAWS 2908 , LAWS 3602 , and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 4603",
       "name": "Transitional Justice",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal and ethical responses to human rights violations in the transition to democracy. Dilemmas of the rule of law; truth and reconciliation; prosecution and punishment; amnesty; retribution and revenge; restorative justice; administrative remedy; reparations; International case studies. Theoretical arguments about justice in context of country.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -897,7 +909,7 @@
     {
       "code": "LAWS 4605",
       "name": "Selected Topics in International Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics vary from year to year and are announced in advance. May include transnational environmental issues; the international law of armed conflict, peacekeeping and neutrality; the law of international treaties and transnational agreements; state responsibility under international law.",
       "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing.",
       "offerings": [
@@ -909,10 +921,11 @@
     {
       "code": "LAWS 4606",
       "name": "International Law of Armed Conflict",
-      "credit": "0.5",
+      "credit": "",
       "description": "UN Charter prohibition of the use of force. Exceptional, permissible uses of armed force. Role of Security Council in determining legality of armed intervention. Collective security, peacemaking, peacekeeping, neutrality, prohibited means of warfare. Humanitarian International Law, Geneva Red Cross Conventions, war crimes, International Criminal Court.",
       "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing.",
       "offerings": [
+        "fall",
         "winter"
       ],
       "year_standing": null,
@@ -921,7 +934,7 @@
     {
       "code": "LAWS 4607",
       "name": "Immigration and Refugee Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Immigrants and refugees; demographics; Canadian, international and human rights law and policy. The Canadian Immigration Act. Legal and social problems including entry and removal, family reunion, citizenship, remedies, the rights of clandestine migrants; settlement rights; non-discrimination; asylum; a nation's right to determine membership.",
       "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2502 and fourth-year Honours standing.",
       "offerings": [
@@ -934,7 +947,7 @@
     {
       "code": "LAWS 4610",
       "name": "Selected Topics in Transnational Law and Human Rights",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a selected advanced topic in the area of transnational law and human rights. The topics of this course may vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 or PAPM 3000 , LAWS 2601 and fourth-year Honours standing.",
       "offerings": [],
@@ -944,7 +957,7 @@
     {
       "code": "LAWS 4702",
       "name": "Special Topic in Criminal Justice and Social Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a selected topic in criminal justice and social policy. Topics to be announced.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
@@ -956,7 +969,7 @@
     {
       "code": "LAWS 4800",
       "name": "Environment and Social Justice",
-      "credit": "0.5",
+      "credit": "",
       "description": "The potential of environmental law to protect the environment and people while promoting opportunities for informed participation in environmental decision making by groups traditionally excluded from these processes; contemporary issues of social justice raised by legal regulation of the environment.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
@@ -968,7 +981,7 @@
     {
       "code": "LAWS 4801",
       "name": "Risk and the Legal Process",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application of risk assessment and management in various legal arenas including insurance, liability and tort, litigation management, environmental protection, and sentencing and parole.",
       "prerequisites": "LAWS 2908 or PAPM 3000 and fourth-year Honours standing.",
       "offerings": [
@@ -981,7 +994,7 @@
     {
       "code": "LAWS 4802",
       "name": "Criminal Jury Trials",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical analysis of the criminal jury system including its history and context, the role of the judge, jury dynamics and jury composition. Perspectives and roles of the accused, victims, police, defence counsel, Crown attorney, judges, juries, media, politicians and the public.",
       "prerequisites": "LAWS 2908 , CRCJ 3001 , or CRCJ 3002 and LAWS 2301 , LAWS 2302 and fourth-year Honours standing.",
       "offerings": [
@@ -994,7 +1007,7 @@
     {
       "code": "LAWS 4901",
       "name": "Tutorial in Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department).",
       "prerequisites": "LAWS 3908 , fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor.",
       "offerings": [
@@ -1007,7 +1020,7 @@
     {
       "code": "LAWS 4902",
       "name": "Tutorial in Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Tutorials or reading courses conducted under the supervision of a faculty member of the Department of Law on a selected topic in which advanced courses are not available (guidelines are posted by the Department).",
       "prerequisites": "LAWS 3908 , fourth-year Honours standing, written acceptance by a faculty member and permission of the Undergraduate Supervisor.",
       "offerings": [
@@ -1020,12 +1033,11 @@
     {
       "code": "LAWS 4903",
       "name": "Advanced Special Topics in Legal Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "The topics of this course vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
       "offerings": [
-        "fall",
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -1033,17 +1045,19 @@
     {
       "code": "LAWS 4904",
       "name": "Advanced Special Topics in Legal Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "The topics of this course vary from year to year and are announced in advance of registration.",
       "prerequisites": "LAWS 2908 and fourth-year Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LAWS 4905",
       "name": "Full-Year Service Learning Placement",
-      "credit": "1.0",
+      "credit": "",
       "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
       "prerequisites": "LAWS 2908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.",
       "offerings": [
@@ -1056,7 +1070,7 @@
     {
       "code": "LAWS 4906",
       "name": "Service Learning Placement",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
       "prerequisites": "LAWS 2908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.",
       "offerings": [
@@ -1069,7 +1083,7 @@
     {
       "code": "LAWS 4907",
       "name": "Service Learning Placement",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course gives students the opportunity to work with an organization whose focus relates to law. Participating  students must identify a host organization and a faculty member to provide supervision (guidelines are posted by the Department).",
       "prerequisites": "LAWS 2908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher, written acceptance by a faculty member, permission of the Undergraduate Supervisor and the host organization.",
       "offerings": [
@@ -1082,7 +1096,7 @@
     {
       "code": "LAWS 4908",
       "name": "Honours Paper",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students in the BA Honours Law program may write an Honours paper under the supervision of a faculty member of the Department of Law (guidelines are posted by the Department). Students intending to undertake graduate studies are encouraged to complete an Honours paper.",
       "prerequisites": "LAWS 3908 , fourth-year Honours standing in Law with a Law GPA of 9.00 or higher and written acceptance by a faculty member.",
       "offerings": [
@@ -1096,86 +1110,86 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Law B.A. Honours (20.0 credits)",
+      "degree": "Law  B.A. Honours (20.0 credits)",
       "credits": "3.0",
-      "text": "10.  3.0 credits in free electives 3.0"
+      "text": "10.  3.0 credits in  free electives 3.0"
     },
     {
       "type": "requirement",
-      "degree": "Law B.A. Combined Honours (20.0 credits)",
+      "degree": "Law  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "10.  Sufficient free electives to make up 20.0 credits total for the program."
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Law, Policy and Government B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Law, Policy and Government  B.A. Honours (20.0 credits)",
       "credits": "2.5",
-      "text": "12.  2.5 credits in free electives 2.5"
+      "text": "12.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Law, Policy and Government B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Law, Policy and Government  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "11.  Sufficient free electives to total 20.0 credits for the program."
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Business Law B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Business Law  B.A. Honours (20.0 credits)",
       "credits": "2.5",
-      "text": "13.  2.5 credits in free electives 2.5"
+      "text": "13.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Business Law B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Business Law  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "12.  Sufficient free electives to make up 20.0 credits total for the program"
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Transnational Law and Human Rights B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Transnational Law and Human Rights  B.A. Honours (20.0 credits)",
       "credits": "2.5",
-      "text": "13.  2.5 credits in free electives 2.5"
+      "text": "13.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Transnational Law and Human Rights B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Transnational Law and Human Rights  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "11.  Sufficient free electives to make up 20.0 credits total for the program"
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Criminal Law and Social Order B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Criminal Law and Social Order  B.A. Honours (20.0 credits)",
       "credits": "2.5",
-      "text": "13.  2.5 credits in free electives 2.5"
+      "text": "13.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Law with Concentration in Criminal Law and Social Order B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Criminal Law and Social Order  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "11.  Sufficient free electives to make up 20.0 credits total for the program"
     },
     {
       "type": "requirement",
-      "degree": "Law B.A. (15.0 credits)",
+      "degree": "Law  B.A. (15.0 credits)",
       "credits": "2.5",
-      "text": "7.  2.5 credits in free electives 2.5"
+      "text": "7.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Law and Social Justice B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Law and Social Justice  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Law and Social Justice B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Law and Social Justice  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     }
   ],
   "programs": [
     {
-      "degree": "Law B.A. Honours (20.0 credits)",
+      "degree": "Law  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1194,74 +1208,33 @@
           "description": "Introduction to Legal Studies 2"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
             "LAWS 2302"
           ],
           "credits": 0.5,
-          "description": "Criminal Law"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2502"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Citizen"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
+            "LAWS 2501",
+            "LAWS 2502",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from Items 2-4 not already used to fulfil those items"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1278,37 +1251,11 @@
           ],
           "credits": 0.5,
           "description": "Methodological Approaches in Legal Studies 2"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "IPAF 4900"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in LAWS at the 4000-level or above or in IPAF 4900 (with permission of the department)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in electives not in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives"
         }
       ]
     },
     {
-      "degree": "Law B.A. Combined Honours (20.0 credits)",
+      "degree": "Law  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1327,74 +1274,33 @@
           "description": "Introduction to Legal Studies 2"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
             "LAWS 2302"
           ],
           "credits": 0.5,
-          "description": "Criminal Law"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2502"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Citizen"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
+            "LAWS 2501",
+            "LAWS 2502",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from Items 2-4 not already used to fulfil those items."
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1411,35 +1317,11 @@
           ],
           "credits": 0.5,
           "description": "Methodological Approaches in Legal Studies 2"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000 level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in LAWS at the 4000 level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements from the other discipline must be satisfied"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make up 20.0 credits total for the program."
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Law, Policy and Government B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Law, Policy and Government  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1474,58 +1356,31 @@
           "description": "Law, State and Citizen"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
             "LAWS 2302"
           ],
           "credits": 0.5,
-          "description": "Criminal Law"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1568,163 +1423,40 @@
           "description": "Risk and the Legal Process"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3405"
-          ],
-          "credits": 0.5,
-          "description": "Labour Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3500"
-          ],
-          "credits": 0.5,
-          "description": "Constitutional Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3502"
-          ],
-          "credits": 0.5,
-          "description": "Regulating Freedom of Expression in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3503"
-          ],
-          "credits": 0.5,
-          "description": "Equality and Discrimination"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3504"
-          ],
-          "credits": 0.5,
-          "description": "Law and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3509"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in The Charter of Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3405",
+            "LAWS 3500",
+            "LAWS 3502",
+            "LAWS 3503",
+            "LAWS 3504",
+            "LAWS 3509",
             "LAWS 3800"
           ],
-          "credits": 0.5,
-          "description": "Environmental Law"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4006"
-          ],
-          "credits": 0.5,
-          "description": "Religion and State in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4101"
-          ],
-          "credits": 0.5,
-          "description": "Contemporary Justice Theories"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4102"
-          ],
-          "credits": 0.5,
-          "description": "Controversies in Rights Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4510"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Law, Policy and Government"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4607"
-          ],
-          "credits": 0.5,
-          "description": "Immigration and Refugee Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4800"
-          ],
-          "credits": 0.5,
-          "description": "Environment and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4006",
+            "LAWS 4101",
+            "LAWS 4102",
+            "LAWS 4510",
+            "LAWS 4603",
+            "LAWS 4607",
+            "LAWS 4800",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
           "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 4000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in electives not in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
+          "description": "1.0 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Law, Policy and Government B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Law, Policy and Government  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1759,58 +1491,31 @@
           "description": "Law, State and Citizen"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
             "LAWS 2302"
           ],
           "credits": 0.5,
-          "description": "Criminal Law"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1853,157 +1558,40 @@
           "description": "Risk and the Legal Process"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3405"
-          ],
-          "credits": 0.5,
-          "description": "Labour Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3500"
-          ],
-          "credits": 0.5,
-          "description": "Constitutional Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3502"
-          ],
-          "credits": 0.5,
-          "description": "Regulating Freedom of Expression in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3503"
-          ],
-          "credits": 0.5,
-          "description": "Equality and Discrimination"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3504"
-          ],
-          "credits": 0.5,
-          "description": "Law and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3509"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in The Charter of Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3405",
+            "LAWS 3500",
+            "LAWS 3502",
+            "LAWS 3503",
+            "LAWS 3504",
+            "LAWS 3509",
             "LAWS 3800"
           ],
           "credits": 0.5,
-          "description": "Environmental Law"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4006"
-          ],
-          "credits": 0.5,
-          "description": "Religion and State in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4101"
-          ],
-          "credits": 0.5,
-          "description": "Contemporary Justice Theories"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4102"
-          ],
-          "credits": 0.5,
-          "description": "Controversies in Rights Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4510"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Law, Policy and Government"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4607"
-          ],
-          "credits": 0.5,
-          "description": "Immigration and Refugee Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4800"
-          ],
-          "credits": 0.5,
-          "description": "Environment and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4006",
+            "LAWS 4101",
+            "LAWS 4102",
+            "LAWS 4510",
+            "LAWS 4603",
+            "LAWS 4607",
+            "LAWS 4800",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements for B.A. Combined Honours in the other discipline"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to total 20.0 credits for the program."
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Business Law B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Business Law  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2038,58 +1626,24 @@
           "description": "Obligations"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
             "LAWS 2302"
           ],
           "credits": 0.5,
-          "description": "Criminal Law"
+          "description": "0.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2502"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Citizen"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
+            "LAWS 2501",
+            "LAWS 2502",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from Items 3-4 not already used to fulfil those items."
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -2124,201 +1678,44 @@
           "description": "Business Enterprise Frameworks"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3006"
-          ],
-          "credits": 0.5,
-          "description": "Alternative Dispute Resolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3202"
-          ],
-          "credits": 0.5,
-          "description": "Intellectual Property"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3205"
-          ],
-          "credits": 0.5,
-          "description": "Consumer Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3207"
-          ],
-          "credits": 0.5,
-          "description": "International Transactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3208"
-          ],
-          "credits": 0.5,
-          "description": "International Trade Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3401"
-          ],
-          "credits": 0.5,
-          "description": "Employment Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3405"
-          ],
-          "credits": 0.5,
-          "description": "Labour Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3501"
-          ],
-          "credits": 0.5,
-          "description": "Law in the Information Society"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3006",
+            "LAWS 3202",
+            "LAWS 3205",
+            "LAWS 3207",
+            "LAWS 3208",
+            "LAWS 3401",
+            "LAWS 3405",
+            "LAWS 3501",
             "LAWS 3800"
           ],
-          "credits": 0.5,
-          "description": "Environmental Law"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4200"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Economic Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4202"
-          ],
-          "credits": 0.5,
-          "description": "Accountability of Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4204"
-          ],
-          "credits": 0.5,
-          "description": "Legal Issues in eCommerce"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4209"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Business Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4302"
-          ],
-          "credits": 0.5,
-          "description": "Regulation of Corporate Crime and Misconduct"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4402"
-          ],
-          "credits": 0.5,
-          "description": "Employment Dispute Resolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4503"
-          ],
-          "credits": 0.5,
-          "description": "Law, Disability and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4800"
-          ],
-          "credits": 0.5,
-          "description": "Environment and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4801"
-          ],
-          "credits": 0.5,
-          "description": "Risk and the Legal Process"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4200",
+            "LAWS 4202",
+            "LAWS 4204",
+            "LAWS 4209",
+            "LAWS 4302",
+            "LAWS 4402",
+            "LAWS 4503",
+            "LAWS 4800",
+            "LAWS 4801",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in electives not in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Business Law B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Business Law  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2353,58 +1750,24 @@
           "description": "Obligations"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
             "LAWS 2302"
           ],
           "credits": 0.5,
-          "description": "Criminal Law"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2502"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Citizen"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
+            "LAWS 2501",
+            "LAWS 2502",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit from Items 3-4 not already used to fulfil those items."
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -2439,129 +1802,28 @@
           "description": "Business Enterprise Frameworks"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4200"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Economic Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4202"
-          ],
-          "credits": 0.5,
-          "description": "Accountability of Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4204"
-          ],
-          "credits": 0.5,
-          "description": "Legal Issues in eCommerce"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4209"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Business Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4302"
-          ],
-          "credits": 0.5,
-          "description": "Regulation of Corporate Crime and Misconduct"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4402"
-          ],
-          "credits": 0.5,
-          "description": "Employment Dispute Resolution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4503"
-          ],
-          "credits": 0.5,
-          "description": "Law, Disability and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4800"
-          ],
-          "credits": 0.5,
-          "description": "Environment and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4801"
-          ],
-          "credits": 0.5,
-          "description": "Risk and the Legal Process"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4200",
+            "LAWS 4202",
+            "LAWS 4204",
+            "LAWS 4209",
+            "LAWS 4302",
+            "LAWS 4402",
+            "LAWS 4503",
+            "LAWS 4800",
+            "LAWS 4801",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements from the other discipline must be satisfied"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make up 20.0 credits total for the program"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Transnational Law and Human Rights B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Transnational Law and Human Rights  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2604,44 +1866,23 @@
           "description": "Law, State and Citizen"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2302"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
+            "LAWS 2302",
             "LAWS 2501"
           ],
           "credits": 0.5,
-          "description": "Law, State and Constitution"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -2684,217 +1925,46 @@
           "description": "Transnational Law and Human Rights"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3001"
-          ],
-          "credits": 0.5,
-          "description": "Women and the Legal Process"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3207"
-          ],
-          "credits": 0.5,
-          "description": "International Transactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3208"
-          ],
-          "credits": 0.5,
-          "description": "International Trade Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3504"
-          ],
-          "credits": 0.5,
-          "description": "Law and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3509"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in The Charter of Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3001",
+            "LAWS 3207",
+            "LAWS 3208",
+            "LAWS 3504",
+            "LAWS 3509",
             "LAWS 3604"
           ],
-          "credits": 0.5,
-          "description": "International Organizations"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4001"
-          ],
-          "credits": 0.5,
-          "description": "Law, Family and Gender"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4002"
-          ],
-          "credits": 0.5,
-          "description": "Feminist Theories of Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4006"
-          ],
-          "credits": 0.5,
-          "description": "Religion and State in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4100"
-          ],
-          "credits": 0.5,
-          "description": "Modern Legal Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4101"
-          ],
-          "credits": 0.5,
-          "description": "Contemporary Justice Theories"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4102"
-          ],
-          "credits": 0.5,
-          "description": "Controversies in Rights Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4105"
-          ],
-          "credits": 0.5,
-          "description": "Global Justice Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4106"
-          ],
-          "credits": 0.5,
-          "description": "Law and Violence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4602"
-          ],
-          "credits": 0.5,
-          "description": "Is Religious Freedom a Human Right?"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4605"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4606"
-          ],
-          "credits": 0.5,
-          "description": "International Law of Armed Conflict"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4607"
-          ],
-          "credits": 0.5,
-          "description": "Immigration and Refugee Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4610"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Transnational Law and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4001",
+            "LAWS 4002",
+            "LAWS 4006",
+            "LAWS 4100",
+            "LAWS 4101",
+            "LAWS 4102",
+            "LAWS 4105",
+            "LAWS 4106",
+            "LAWS 4602",
+            "LAWS 4603",
+            "LAWS 4605",
+            "LAWS 4606",
+            "LAWS 4607",
+            "LAWS 4610",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
           "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in electives not in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
+          "description": "1.0 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Transnational Law and Human Rights B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Transnational Law and Human Rights  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2937,44 +2007,23 @@
           "description": "Law, State and Citizen"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2302"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2301",
+            "LAWS 2302",
             "LAWS 2501"
           ],
           "credits": 0.5,
-          "description": "Law, State and Constitution"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -3017,163 +2066,33 @@
           "description": "Transnational Law and Human Rights"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4001"
-          ],
-          "credits": 0.5,
-          "description": "Law, Family and Gender"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4002"
-          ],
-          "credits": 0.5,
-          "description": "Feminist Theories of Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4006"
-          ],
-          "credits": 0.5,
-          "description": "Religion and State in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4100"
-          ],
-          "credits": 0.5,
-          "description": "Modern Legal Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4101"
-          ],
-          "credits": 0.5,
-          "description": "Contemporary Justice Theories"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4102"
-          ],
-          "credits": 0.5,
-          "description": "Controversies in Rights Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4105"
-          ],
-          "credits": 0.5,
-          "description": "Global Justice Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4106"
-          ],
-          "credits": 0.5,
-          "description": "Law and Violence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4602"
-          ],
-          "credits": 0.5,
-          "description": "Is Religious Freedom a Human Right?"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4605"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4606"
-          ],
-          "credits": 0.5,
-          "description": "International Law of Armed Conflict"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4607"
-          ],
-          "credits": 0.5,
-          "description": "Immigration and Refugee Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4610"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Transnational Law and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4001",
+            "LAWS 4002",
+            "LAWS 4006",
+            "LAWS 4100",
+            "LAWS 4101",
+            "LAWS 4102",
+            "LAWS 4105",
+            "LAWS 4106",
+            "LAWS 4602",
+            "LAWS 4603",
+            "LAWS 4605",
+            "LAWS 4606",
+            "LAWS 4607",
+            "LAWS 4610",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000 level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements for B.A. Combined Honours in the other discipline"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make up 20.0 credits total for the program"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Criminal Law and Social Order B.A. Honours (20.0 credits)",
+      "degree": "Law with Concentration in Criminal Law and Social Order  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3208,58 +2127,31 @@
           "description": "Criminal Law"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2501",
             "LAWS 2502"
           ],
           "credits": 0.5,
-          "description": "Law, State and Citizen"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -3278,249 +2170,57 @@
           "description": "Methodological Approaches in Legal Studies 2"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3306"
-          ],
-          "credits": 0.5,
-          "description": "Crime, Law, Process and Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3305"
-          ],
-          "credits": 0.5,
-          "description": "Crime and State in History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3308"
-          ],
-          "credits": 0.5,
-          "description": "Punishment and the Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4305"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice Reform"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4308"
-          ],
-          "credits": 0.5,
-          "description": "Sentencing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3306",
+            "LAWS 3305",
+            "LAWS 3308",
+            "LAWS 4305",
+            "LAWS 4308",
             "LAWS 4504"
           ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3305"
-          ],
-          "credits": 0.5,
-          "description": "Crime and State in History (if not used above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3307"
-          ],
-          "credits": 0.5,
-          "description": "Youth and Criminal Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3308"
-          ],
-          "credits": 0.5,
-          "description": "Punishment and the Law (if not used above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3309"
-          ],
-          "credits": 0.5,
-          "description": "Public and Private Policing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3305",
+            "LAWS 3307",
+            "LAWS 3308",
+            "LAWS 3309",
             "LAWS 3310"
           ],
-          "credits": 0.5,
-          "description": "Race and Law"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4106"
-          ],
-          "credits": 0.5,
-          "description": "Law and Violence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4302"
-          ],
-          "credits": 0.5,
-          "description": "Regulation of Corporate Crime and Misconduct"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4303"
-          ],
-          "credits": 0.5,
-          "description": "Drugs, The User and The State"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4304"
-          ],
-          "credits": 0.5,
-          "description": "Policing and Social Surveillance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4305"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice Reform (if not used above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4306"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Criminal Law Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4307"
-          ],
-          "credits": 0.5,
-          "description": "Medical Criminal Law Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4308"
-          ],
-          "credits": 0.5,
-          "description": "Sentencing (if not used above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4309"
-          ],
-          "credits": 0.5,
-          "description": "State Security and Dissent"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4311"
-          ],
-          "credits": 0.5,
-          "description": "Human Rights in Canadian Prisons"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4504"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice (if not used above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4702"
-          ],
-          "credits": 0.5,
-          "description": "Special Topic in Criminal Justice and Social Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4802"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Jury Trials"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4106",
+            "LAWS 4302",
+            "LAWS 4303",
+            "LAWS 4304",
+            "LAWS 4305",
+            "LAWS 4306",
+            "LAWS 4307",
+            "LAWS 4308",
+            "LAWS 4309",
+            "LAWS 4311",
+            "LAWS 4504",
+            "LAWS 4702",
+            "LAWS 4802",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
           "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 4000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in electives not in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
+          "description": "1.0 credits from:"
         }
       ]
     },
     {
-      "degree": "Law with Concentration in Criminal Law and Social Order B.A. Combined Honours (20.0 credits)",
+      "degree": "Law with Concentration in Criminal Law and Social Order  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3555,58 +2255,31 @@
           "description": "Criminal Law"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2201",
             "LAWS 2202"
           ],
           "credits": 0.5,
-          "description": "Obligations"
+          "description": "0.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2501",
             "LAWS 2502"
           ],
           "credits": 0.5,
-          "description": "Law, State and Citizen"
+          "description": "0.5 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
             "LAWS 2601"
           ],
           "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "(or 0.5 credit from Items 3-4 not already used to fulfil those items)"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -3625,203 +2298,45 @@
           "description": "Methodological Approaches in Legal Studies 2"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 3306"
-          ],
-          "credits": 0.5,
-          "description": "Crime, Law, Process and Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3305"
-          ],
-          "credits": 0.5,
-          "description": "Crime and State in History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3308"
-          ],
-          "credits": 0.5,
-          "description": "Punishment and the Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4305"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice Reform"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4308"
-          ],
-          "credits": 0.5,
-          "description": "Sentencing"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 3306",
+            "LAWS 3305",
+            "LAWS 3308",
+            "LAWS 4305",
+            "LAWS 4308",
             "LAWS 4504"
           ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 4106"
-          ],
-          "credits": 0.5,
-          "description": "Law and Violence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4302"
-          ],
-          "credits": 0.5,
-          "description": "Regulation of Corporate Crime and Misconduct"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4303"
-          ],
-          "credits": 0.5,
-          "description": "Drugs, The User and The State"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4304"
-          ],
-          "credits": 0.5,
-          "description": "Policing and Social Surveillance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4305"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice Reform (if not used above)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4306"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Criminal Law Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4307"
-          ],
-          "credits": 0.5,
-          "description": "Medical Criminal Law Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4308"
-          ],
-          "credits": 0.5,
-          "description": "Sentencing"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4309"
-          ],
-          "credits": 0.5,
-          "description": "State Security and Dissent"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4311"
-          ],
-          "credits": 0.5,
-          "description": "Human Rights in Canadian Prisons"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4504"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4702"
-          ],
-          "credits": 0.5,
-          "description": "Special Topic in Criminal Justice and Social Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4802"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Jury Trials"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 4106",
+            "LAWS 4302",
+            "LAWS 4303",
+            "LAWS 4304",
+            "LAWS 4305",
+            "LAWS 4306",
+            "LAWS 4307",
+            "LAWS 4308",
+            "LAWS 4309",
+            "LAWS 4311",
+            "LAWS 4504",
+            "LAWS 4702",
+            "LAWS 4802",
+            "LAWS 4901",
+            "LAWS 4902",
             "LAWS 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Paper"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in LAWS at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The requirements for the other discipline must be satisfied"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 20.0,
-          "description": "Sufficient free electives to make up 20.0 credits total for the program"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         }
       ]
     },
     {
-      "degree": "Law B.A. (15.0 credits)",
+      "degree": "Law  B.A. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3840,68 +2355,19 @@
           "description": "Introduction to Legal Studies 2"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2202"
-          ],
-          "credits": 0.5,
-          "description": "Obligations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2302"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2502"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Citizen"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
+            "LAWS 2201",
+            "LAWS 2202",
+            "LAWS 2301",
+            "LAWS 2302",
+            "LAWS 2501",
+            "LAWS 2502",
             "LAWS 2601"
           ],
-          "credits": 0.5,
-          "description": "Public International Law"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         },
         {
           "type": "required",
@@ -3910,42 +2376,12 @@
           ],
           "credits": 0.5,
           "description": "Methodological Approaches in Legal Studies 1"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LAWS at the 3000-level or above"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 6.0,
-          "description": "6.0 credits in electives not in LAWS"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in free electives"
         }
       ]
     },
     {
-      "degree": "Specialization in Global Law and Social Justice B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Law and Social Justice  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.5,
-          "description": "4.5 credits in: Core Courses"
-        },
         {
           "type": "required",
           "courses": [
@@ -4019,30 +2455,12 @@
           "description": "Honours Seminar in Global and International Studies"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.0,
-          "description": "0.0 credit in: International Experience Requirement Preparation"
-        },
-        {
           "type": "required",
           "courses": [
             "GINS 1300"
           ],
           "credits": 0.0,
           "description": "International Experience Requirement Preparation"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.5,
-          "description": "7.5 credits in: the Specialization"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "a. 1.0 credit in: Law Foundations"
         },
         {
           "type": "required",
@@ -4061,24 +2479,12 @@
           "description": "Introduction to Legal Studies 2"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "b. 0.5 credit in: Research Methodologies"
-        },
-        {
           "type": "required",
           "courses": [
             "LAWS 2908"
           ],
           "credits": 0.5,
           "description": "Methodological Approaches in Legal Studies 1"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "c. 1.0 credit in: Second Year Core Courses"
         },
         {
           "type": "required",
@@ -4089,18 +2495,12 @@
           "description": "Social Justice and Human Rights"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
             "HRSJ 2001"
           ],
-          "credits": 0.5,
-          "description": "Human Rights: Theories and Foundations"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": null,
-          "description": "and"
+          "description": ""
         },
         {
           "type": "required",
@@ -4111,468 +2511,83 @@
           "description": "Public International Law"
         },
         {
-          "type": "elective",
-          "courses": [],
+          "type": "choose",
+          "courses": [
+            "LAWS 3602",
+            "LAWS 3604"
+          ],
           "credits": 0.5,
           "description": "d. 0.5 credit from: Third Year Core Courses"
         },
         {
-          "type": "required",
-          "courses": [
-            "LAWS 3602"
-          ],
-          "credits": 0.5,
-          "description": "International Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3604"
-          ],
-          "credits": 0.5,
-          "description": "International Organizations"
-        },
-        {
           "type": "choose",
-          "courses": [],
+          "courses": [
+            "HRSJ 3002",
+            "HRSJ 3301",
+            "HRSJ 3302",
+            "HRSJ 3303",
+            "HRSJ 3401",
+            "HRSJ 3501",
+            "HRSJ 3503",
+            "HRSJ 3504",
+            "HRSJ 4201",
+            "HRSJ 4401",
+            "HRSJ 4502",
+            "LAWS 3207",
+            "LAWS 3208",
+            "LAWS 3502",
+            "LAWS 3503",
+            "LAWS 3504",
+            "LAWS 3509",
+            "LAWS 3602",
+            "LAWS 3604",
+            "LAWS 3800",
+            "LAWS 4101",
+            "LAWS 4102",
+            "LAWS 4105",
+            "LAWS 4106",
+            "LAWS 4200",
+            "LAWS 4311",
+            "LAWS 4503",
+            "LAWS 4504",
+            "LAWS 4601",
+            "LAWS 4602",
+            "LAWS 4603",
+            "LAWS 4605",
+            "LAWS 4606",
+            "LAWS 4607",
+            "LAWS 4610",
+            "LAWS 4800",
+            "LAWS 4901",
+            "LAWS 4902",
+            "LAWS 4903",
+            "LAWS 4904"
+          ],
           "credits": 3.5,
           "description": "e. 3.5 credits from: Global Law and Social Justice (students must select at least 0.5 credit at the 4000 level from this list)"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "HRSJ 3002"
-          ],
-          "credits": 0.5,
-          "description": "Right to the City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3301"
-          ],
-          "credits": 0.5,
-          "description": "Structural Racism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3302"
-          ],
-          "credits": 0.5,
-          "description": "Culture, Religion, and Gender Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3303"
-          ],
-          "credits": 0.5,
-          "description": "Children's Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3401"
-          ],
-          "credits": 0.5,
-          "description": "Histories of Persecution and Genocide"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3501"
-          ],
-          "credits": 0.5,
-          "description": "Social, Economic and Cultural Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3503"
-          ],
-          "credits": 0.5,
-          "description": "Global Environmental Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3504"
-          ],
-          "credits": 0.5,
-          "description": "Public Health and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4201"
-          ],
-          "credits": 0.5,
-          "description": "Citizenship and Human Rights (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4401"
-          ],
-          "credits": 0.5,
-          "description": "Gender, Citizenship and Social Justice in a Transnational World (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4502"
-          ],
-          "credits": 0.5,
-          "description": "Global Indigenous Knowledges and Movements (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3207"
-          ],
-          "credits": 0.5,
-          "description": "International Transactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3208"
-          ],
-          "credits": 0.5,
-          "description": "International Trade Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3502"
-          ],
-          "credits": 0.5,
-          "description": "Regulating Freedom of Expression in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3503"
-          ],
-          "credits": 0.5,
-          "description": "Equality and Discrimination"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3504"
-          ],
-          "credits": 0.5,
-          "description": "Law and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3509"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in The Charter of Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3602"
-          ],
-          "credits": 0.5,
-          "description": "International Human Rights (if not used in d)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3604"
-          ],
-          "credits": 0.5,
-          "description": "International Organizations (if not used in d)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3800"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4101"
-          ],
-          "credits": 0.5,
-          "description": "Contemporary Justice Theories"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4102"
-          ],
-          "credits": 0.5,
-          "description": "Controversies in Rights Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4105"
-          ],
-          "credits": 0.5,
-          "description": "Global Justice Theory (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4106"
-          ],
-          "credits": 0.5,
-          "description": "Law and Violence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4200"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Economic Law (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4311"
-          ],
-          "credits": 0.5,
-          "description": "Human Rights in Canadian Prisons"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4503"
-          ],
-          "credits": 0.5,
-          "description": "Law, Disability and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4504"
-          ],
-          "credits": 0.5,
-          "description": "Indigenous Criminal Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4601"
-          ],
-          "credits": 0.5,
-          "description": "Transnational Law and Human Rights (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4602"
-          ],
-          "credits": 0.5,
-          "description": "Is Religious Freedom a Human Right?"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4605"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4606"
-          ],
-          "credits": 0.5,
-          "description": "International Law of Armed Conflict (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "GINS 4908",
+            "HRSJ 4201",
+            "HRSJ 4401",
+            "HRSJ 4502",
+            "LAWS 4105",
+            "LAWS 4200",
+            "LAWS 4601",
+            "LAWS 4603",
+            "LAWS 4606",
             "LAWS 4607"
           ],
-          "credits": 0.5,
-          "description": "Immigration and Refugee Law (if not used in f)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4610"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in Transnational Law and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4800"
-          ],
-          "credits": 0.5,
-          "description": "Environment and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4901"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law (topic in Global Law and Social Justice)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4902"
-          ],
-          "credits": 0.5,
-          "description": "Tutorial in Law (topic in Global Law and Social Justice)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4903"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Special Topics in Legal Studies (topic in Global Law and Social Justice)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4904"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Special Topics in Legal Studies (topic in Global Law and Social Justice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 1.0,
           "description": "f. 1.0 credit from: Core Honours Seminars and Honours Research Essay"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "GINS 4908"
-          ],
-          "credits": 1.0,
-          "description": "Honours Research Essay (topic in Global Law and Social Justice)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4201"
-          ],
-          "credits": 0.5,
-          "description": "Citizenship and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4401"
-          ],
-          "credits": 0.5,
-          "description": "Gender, Citizenship and Social Justice in a Transnational World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 4502"
-          ],
-          "credits": 0.5,
-          "description": "Global Indigenous Knowledges and Movements"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4105"
-          ],
-          "credits": 0.5,
-          "description": "Global Justice Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4200"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in International Economic Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4601"
-          ],
-          "credits": 0.5,
-          "description": "Transnational Law and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4603"
-          ],
-          "credits": 0.5,
-          "description": "Transitional Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4606"
-          ],
-          "credits": 0.5,
-          "description": "International Law of Armed Conflict"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 4607"
-          ],
-          "credits": 0.5,
-          "description": "Immigration and Refugee Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 8.0,
-          "description": "8.0 credits in: free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The International Experience requirement must be met."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The Language requirement must be met."
         }
       ]
     },
     {
-      "degree": "Stream in Global Law and Social Justice B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Law and Social Justice  B.G.In.S. (15.0 credits)",
       "requirements": [
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in: Core Courses"
-        },
         {
           "type": "required",
           "courses": [
@@ -4638,228 +2653,33 @@
           "description": "Places, Boundaries, Movements and Global Environmental Change"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits from: the Stream"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 1001"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Legal Studies 1"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 1002"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Legal Studies 2"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "b. Research Methodologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2908"
-          ],
-          "credits": 0.5,
-          "description": "Methodological Approaches in Legal Studies 1"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "c. Second Year Core Courses"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 2001"
-          ],
-          "credits": 0.5,
-          "description": "Human Rights: Theories and Foundations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2601"
-          ],
-          "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "d. Third Year Core Courses"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3602"
-          ],
-          "credits": 0.5,
-          "description": "International Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3604"
-          ],
-          "credits": 0.5,
-          "description": "International Organizations"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "e. Global Law and Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3002"
-          ],
-          "credits": 0.5,
-          "description": "Right to the City"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3301"
-          ],
-          "credits": 0.5,
-          "description": "Structural Racism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3302"
-          ],
-          "credits": 0.5,
-          "description": "Culture, Religion, and Gender Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3401"
-          ],
-          "credits": 0.5,
-          "description": "Histories of Persecution and Genocide"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3501"
-          ],
-          "credits": 0.5,
-          "description": "Social, Economic and Cultural Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3503"
-          ],
-          "credits": 0.5,
-          "description": "Global Environmental Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HRSJ 3504"
-          ],
-          "credits": 0.5,
-          "description": "Public Health and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3207"
-          ],
-          "credits": 0.5,
-          "description": "International Transactions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3208"
-          ],
-          "credits": 0.5,
-          "description": "International Trade Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3502"
-          ],
-          "credits": 0.5,
-          "description": "Regulating Freedom of Expression in Canada"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3503"
-          ],
-          "credits": 0.5,
-          "description": "Equality and Discrimination"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3504"
-          ],
-          "credits": 0.5,
-          "description": "Law and Indigenous Peoples"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 3509"
-          ],
-          "credits": 0.5,
-          "description": "Selected Topics in The Charter of Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 1001",
+            "LAWS 1002",
+            "LAWS 2908",
+            "HRSJ 2001",
+            "LAWS 2105",
+            "LAWS 2601",
+            "LAWS 3602",
+            "LAWS 3604",
+            "HRSJ 3002",
+            "HRSJ 3301",
+            "HRSJ 3302",
+            "HRSJ 3401",
+            "HRSJ 3501",
+            "HRSJ 3503",
+            "HRSJ 3504",
+            "LAWS 3207",
+            "LAWS 3208",
+            "LAWS 3502",
+            "LAWS 3503",
+            "LAWS 3504",
+            "LAWS 3509",
             "LAWS 3800"
           ],
-          "credits": 0.5,
-          "description": "Environmental Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 7.0,
-          "description": "7.0 credits in: Free Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The language requirement must be met."
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
@@ -4883,85 +2703,24 @@
           "description": "Introduction to Legal Studies 2"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LAWS 2105"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2201"
-          ],
-          "credits": 0.5,
-          "description": "Persons and Property"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2202"
-          ],
-          "credits": 0.5,
-          "description": "Obligations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2301"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Justice System"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2302"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Law"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2501"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Constitution"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LAWS 2502"
-          ],
-          "credits": 0.5,
-          "description": "Law, State and Citizen"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "LAWS 2105",
+            "LAWS 2201",
+            "LAWS 2202",
+            "LAWS 2301",
+            "LAWS 2302",
+            "LAWS 2501",
+            "LAWS 2502",
             "LAWS 2601"
           ],
-          "credits": 0.5,
-          "description": "Public International Law"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LAWS at the 3000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "The remaining requirements of the major discipline(s) and degree must be satisfied."
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         }
       ]
     },
     {
-      "degree": "Mention : fran\u00e7ais : Law (4.0 credits)",
+      "degree": "Mention : fran\u00e7ais  : Law (4.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4994,18 +2753,6 @@
           ],
           "credits": 1.0,
           "description": "Introduction \u00e0 la linguistique fran\u00e7aise"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit at the 2000 or 3000 level in law or legal studies taught in French at the university level, and approved by the Undergraduate Supervisor"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "In addition, for B.A. (Honours) Law, Combined B.A. (Honours) Law, or B.G.In.S. (Honours) with a Specialization in Global Law and Social Justice, 1.0 credit at the 4000 level in law or legal studies taught in French at the university level, and approved by the Undergraduate Supervisor"
         }
       ]
     }

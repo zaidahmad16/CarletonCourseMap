@@ -25,11 +25,38 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     .map(req => {
       const code   = req.courses[0]
       const course = detailMap.get(code)
-      if (!course) return null
 
       positionMap[code] = { col: req.layout_col, row: req.layout_row }
       occupy(req.layout_col, req.layout_row)
       colUsed[req.layout_col] = true
+
+      if (!course) {
+        return {
+          id: code,
+          type: 'course',
+          draggable: false,
+          selectable: false,
+          data: {
+            code,
+            name: 'Data unavailable',
+            description: '',
+            credit: null,
+            prerequisites: '',
+            offerings: null,
+            isMissing: true,
+            style: {
+              border: '2px dashed var(--color-ink-3)',
+              borderRadius: 'var(--radius-card)',
+              background: 'var(--color-paper-2)',
+              opacity: 0.6,
+            },
+          },
+          position: {
+            x: req.layout_col * COL_WIDTH,
+            y: HEADER_HEIGHT + req.layout_row * ROW_HEIGHT,
+          },
+        }
+      }
 
       return {
         id: code,
@@ -78,7 +105,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         draggable: false,
         selectable: false,
         data: {
-          code: 'Elective',
+          code: req.type === 'choose' ? 'Choose' : 'Elective',
           name: simplifyDesc(req.description),
           style: req.description
             ? getElectiveStyle(req.description)
@@ -95,7 +122,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   // fill every column up to MIN_ROWS with padding nodes
   const paddingNodes = []
   for (let col = 0; col < numCols; col++) {
-    for (let row = 0; row < MIN_ROWS; row++) {
+    for (let row = 0; row < gridRows; row++) {
       if (isOccupied(col, row)) continue
       // row 4 and above get Free Elective, everything earlier gets Breadth Elective
       const label = row >= 4 ? 'Free Elective' : 'Breadth Elective'
@@ -119,6 +146,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   // edges from the API
   const nodeIds = new Set(courseNodes.map(n => n.id))
 
+  const seenEdgeIds = new Set()
   const edgeList = (edges || [])
     .filter(e => nodeIds.has(e.source) && nodeIds.has(e.target))
     .map(e => ({
@@ -133,6 +161,11 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         ...(e.type === 'concurrent' ? { strokeDasharray: '6,4' } : {}),
       },
     }))
+    .filter(e => {
+      if (seenEdgeIds.has(e.id)) return false
+      seenEdgeIds.add(e.id)
+      return true
+    })
 
   return {
     nodes: [...courseNodes, ...electiveNodes, ...paddingNodes],

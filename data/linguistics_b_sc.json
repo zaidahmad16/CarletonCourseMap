@@ -5,7 +5,7 @@
     {
       "code": "LING 1001",
       "name": "Introduction to Linguistics I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Nature of language and linguistic knowledge. Formal description and analysis of language: phonetics, phonology, morphology, syntax and semantics.",
       "prerequisites": "",
       "offerings": [
@@ -18,7 +18,7 @@
     {
       "code": "LING 1002",
       "name": "Introduction to Linguistics II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Survey of topics in linguistics: language change, sociolinguistics, language acquisition and processing. May include language typology, language contact and writing systems.",
       "prerequisites": "LING 1001 (may be taken concurrently).",
       "offerings": [
@@ -30,7 +30,7 @@
     {
       "code": "LING 1100",
       "name": "The Mysteries of Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores some intriguing mysteries of language  - whether it is unique to humans, how children master its complexities so easily, how the brain handles language, how languages are born and die. These questions lead us to interesting discoveries about the human mind.",
       "prerequisites": "",
       "offerings": [
@@ -42,7 +42,7 @@
     {
       "code": "LING 2005",
       "name": "Linguistic Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "Phonological, morphological and syntactic analysis of linguistic data. Coursework consists primarily of practical exercises in data analysis.",
       "prerequisites": "LING 1001 .",
       "offerings": [
@@ -55,7 +55,7 @@
     {
       "code": "LING 2007",
       "name": "Phonetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Description of speech sounds; transcription systems; articulation; acoustics of speech sounds; perception of speech sounds; cross-linguistic diversity and phonetic universals; the role of phonetics in grammar.",
       "prerequisites": "LING 1001 .",
       "offerings": [
@@ -68,11 +68,11 @@
     {
       "code": "LING 2504",
       "name": "Language and Communication",
-      "credit": "0.5",
+      "credit": "",
       "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. Topics include: the nature of meaning; the connections between language, communication and cognition; language as a social activity.",
       "prerequisites": "second-year standing.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -80,7 +80,7 @@
     {
       "code": "LING 2604",
       "name": "Communication Differences and Disabilities I",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey course highlighting a variety of communication differences and disabilities. Specific topics vary from year to year but typically will include speech, language, fluency and hearing differences and disabilities.",
       "prerequisites": "LING 1001 and second year standing, or permission of the instructor.",
       "offerings": [
@@ -92,7 +92,7 @@
     {
       "code": "LING 2802",
       "name": "History of the English Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "A historical study of the English language, its structure, variety, and cultural contexts,with an introduction to grammatical terminology and constructions.",
       "prerequisites": "second-year standing or permission of the department.",
       "offerings": [],
@@ -102,7 +102,7 @@
     {
       "code": "LING 3004",
       "name": "Syntax I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to syntactic theory. Representation and analysis of sentence structure, syntactic relations and syntactic dependencies. Testing of grammatical hypotheses.",
       "prerequisites": "LING 2005 .",
       "offerings": [
@@ -114,7 +114,7 @@
     {
       "code": "LING 3005",
       "name": "Morphology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to word structure and morphological theory. Topics include inflectional and derivational morphology, morphological processes, and interaction of morphology with phonology and syntax.",
       "prerequisites": "LING 2005 and LING 2007 .",
       "offerings": [
@@ -126,7 +126,7 @@
     {
       "code": "LING 3007",
       "name": "Phonology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "The sound-systems of languages, analysis of phonological structure; generative phonology; phonological rules and derivations; cross-linguistic diversity and universals; segmental phonology; stress; tone.",
       "prerequisites": "LING 2001 (no longer offered) or LING 2007 .",
       "offerings": [
@@ -138,11 +138,11 @@
     {
       "code": "LING 3009",
       "name": "Special Topic in Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected topics in general linguistics not ordinarily treated in the regular course program. Contents of the course vary from year to year.",
       "prerequisites": "",
       "offerings": [
-        "winter"
+        "fall"
       ],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -150,7 +150,7 @@
     {
       "code": "LING 3504",
       "name": "Pragmatics",
-      "credit": "0.5",
+      "credit": "",
       "description": "The study of language in its conversational and cultural contexts. Topics include: conversational implicature; deixis; the semantics-pragmatics boundary; speaker's reference; speech acts. May include cross-cultural pragmatics.",
       "prerequisites": "third-year standing, and one of LING 1001 , PHIL 2001 , PHIL 2504 / COMS 2504 / LING 2504 or PHIL 3506 , or LING 3505 or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
       "offerings": [],
@@ -160,7 +160,7 @@
     {
       "code": "LING 3505",
       "name": "Semantics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of language meaning. Lexical meaning and meanings of larger linguistic expressions, including nominal units, verbal units, and sentences. Meaning relationships between utterances. Relationship between linguistic meaning (semantics) and contextual meaning (pragmatics). Basic formal treatments of semantics.",
       "prerequisites": "third-year standing, and one of LING 1001 , PHIL 2001 , PHIL 2504 / LING 2504 / COMS 2504 or PHIL 3504 / LING 3504 , or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
       "offerings": [],
@@ -170,7 +170,7 @@
     {
       "code": "LING 3601",
       "name": "Language Processing and the Brain",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies.",
       "prerequisites": "LING 1001 or PSYC 2700 and second-year standing, or permission of the instructor.",
       "offerings": [
@@ -182,11 +182,11 @@
     {
       "code": "LING 3603",
       "name": "Child Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "Milestones associated with the development of grammatical, pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
       "prerequisites": "LING 1001 and second-year standing, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 2,
       "concurrent_prerequisites": []
@@ -194,7 +194,7 @@
     {
       "code": "LING 3604",
       "name": "Communication Differences and Disabilities II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An in-depth examination of select topics in the field of communication differences and disabilities. An emphasis is placed on theoretical accounts of specific differences and disabilities and the cross-linguistic evidence for these accounts. Specific topics may vary from year to year.",
       "prerequisites": "LING 1001 and one of ALDS 2604 or LING 2604 .",
       "offerings": [
@@ -206,19 +206,9 @@
     {
       "code": "LING 3701",
       "name": "Corpus Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Computer-assisted analysis of electronic collections of naturally occurring language.  Applications in such areas as language variation, grammar, lexicology, phraseology, translation, and learner language.",
       "prerequisites": "third-year standing in Applied Linguistics and Discourse Studies, or in Linguistics, or enrolment in the CTESL program, or permission of the instructor.",
-      "offerings": [],
-      "year_standing": 3,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LING 3702",
-      "name": "Sociolinguistics",
-      "credit": "0.5",
-      "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
-      "prerequisites": "ALDS 1001 and third-year standing.",
       "offerings": [
         "winter"
       ],
@@ -226,9 +216,21 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "LING 3702",
+      "name": "Sociolinguistics",
+      "credit": "",
+      "description": "The place of language within society; bilingual and multilingual communities; language, social mobility and social stratification; sociolinguistic factors in language change.",
+      "prerequisites": "ALDS 1001 and third-year standing.",
+      "offerings": [
+        "fall"
+      ],
+      "year_standing": 3,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LING 3801",
       "name": "Structure of a Specific Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "Description and analysis of the structure of a specific language applying phonology, morphology, syntax, and semantics. Language to be studied will be announced in advance by the School.",
       "prerequisites": "LING 2001 (no longer offered) or LING 2005 or LING 2007 .",
       "offerings": [],
@@ -238,7 +240,7 @@
     {
       "code": "LING 3802",
       "name": "Beyond the BA",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students explore personal and professional transitions from undergraduate to entering the workforce or graduate school. Topics may include self-assessments, career management skills, and networking. Both academic and practical work, featuring interaction from career specialists, graduate schools, professionals, and employed LING graduates.",
       "prerequisites": "third-year standing in ALDS or LING or permission of the School.",
       "offerings": [],
@@ -248,7 +250,7 @@
     {
       "code": "LING 3810",
       "name": "Historical Linguistics I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Language change; sound change; analogy; the comparative method; internal reconstruction; the philological method; historical linguistics and pre-history; language change and theories of grammar.",
       "prerequisites": "LING 2007 .",
       "offerings": [],
@@ -258,7 +260,7 @@
     {
       "code": "LING 3811",
       "name": "Language Typology and Universals",
-      "credit": "0.5",
+      "credit": "",
       "description": "Cross-linguistic survey of syntactic and morphological patterns found in the languages of the world. Typological classification and identification of language universals.",
       "prerequisites": "LING 2005 .",
       "offerings": [],
@@ -268,43 +270,39 @@
     {
       "code": "LING 3900",
       "name": "Independent Study",
-      "credit": "1.0",
+      "credit": "",
       "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 3901",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Research under the supervision of a member of the School. Normally available only to third- and fourth-year students in Linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4004",
       "name": "Syntax II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics in syntax.",
       "prerequisites": "LING 3004 and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4005",
       "name": "Morphology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics in morphology.",
       "prerequisites": "LING 3005 and third-year standing.",
       "offerings": [],
@@ -314,7 +312,7 @@
     {
       "code": "LING 4007",
       "name": "Phonology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics in phonology.",
       "prerequisites": "LING 3007 , and third-year standing.",
       "offerings": [],
@@ -324,7 +322,7 @@
     {
       "code": "LING 4009",
       "name": "Special Topic in Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic or more specialized area in linguistics or language study. Topic to be announced. Repeatable for credit when the topic changes.",
       "prerequisites": "third- or fourth-year standing in Linguistics or permission of the instructor.",
       "offerings": [
@@ -337,17 +335,19 @@
     {
       "code": "LING 4412",
       "name": "Diversit\u00e9 du fran\u00e7ais",
-      "credit": "0.5",
+      "credit": "",
       "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4413",
       "name": "Diachronie du fran\u00e7ais",
-      "credit": "0.5",
+      "credit": "",
       "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions historiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. The course is taught in French, but students will submit written assignments in English.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
       "offerings": [],
@@ -357,7 +357,7 @@
     {
       "code": "LING 4414",
       "name": "Analyse du fran\u00e7ais",
-      "credit": "0.5",
+      "credit": "",
       "description": "\u00c9tude du fran\u00e7ais, dans ses dimensions morphologiques, syntaxiques ou phonologiques. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students will submit written assignments in English.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
       "offerings": [],
@@ -367,19 +367,17 @@
     {
       "code": "LING 4415",
       "name": "Variation du fran\u00e7ais",
-      "credit": "0.5",
+      "credit": "",
       "description": "\u00c9tude des variations internes de la langue, dans des dimensions orales/\u00e9crites. Le contenu pr\u00e9cis de ce cours varie selon les ann\u00e9es. Consulter le site web du D\u00e9partement de fran\u00e7ais pour obtenir les d\u00e9tails. Course is taught in French, but students submit assignments in English.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [
-        "fall"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4505",
       "name": "Formal Semantics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics in compositional semantics and its interfaces. Topics may include: logic, semantic types, lambda calculus, intentional contexts, possible world semantics, interfaces with syntax and pragmatics quantification, anaphora, presupposition, implicatures, scope and binding, and model theory.",
       "prerequisites": "LING 3505 or PHIL 3506 , and third-year standing, or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
       "offerings": [],
@@ -389,7 +387,7 @@
     {
       "code": "LING 4510",
       "name": "Lexical Semantics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of the meaning of words. Topics may include lexical decomposition, meaning variation, lexical relations, and lexical aspect.",
       "prerequisites": "LING 3505 or PHIL 3506 , and third-year standing.",
       "offerings": [],
@@ -399,31 +397,19 @@
     {
       "code": "LING 4601",
       "name": "Cognitive Neuroscience of Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "Further study of psychological and neurolinguistic mechanisms of adult language processing. May include topics from first language acquisition.",
       "prerequisites": "LING 3601 or permission of the instructor.",
-      "offerings": [
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4603",
       "name": "First Language Acquisition",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics in language acquisition and development and the relative contributions of the environment, cognitive development, and inborn knowledge.",
       "prerequisites": "LING 1001 and LING 3603 .",
-      "offerings": [],
-      "year_standing": null,
-      "concurrent_prerequisites": []
-    },
-    {
-      "code": "LING 4604",
-      "name": "Practicum in Speech Language Pathology",
-      "credit": "0.5",
-      "description": "Through field placements, students pursue personal learning objectives related to speech-language pathology, with a focus on the clinical application of knowledge gained in the Psycholinguistics and Communication Differences concentration.",
-      "prerequisites": "LING 3604 , fourth-year Honours standing in B.A. or B.Sc. in Linguistics with a Concentration in Psycholinguistics and Communication Disorders with a CGPA of 10.0 in the major, and permission from the School of Linguistics and Language Studies.",
       "offerings": [
         "fall"
       ],
@@ -431,9 +417,22 @@
       "concurrent_prerequisites": []
     },
     {
+      "code": "LING 4604",
+      "name": "Practicum in Speech Language Pathology",
+      "credit": "",
+      "description": "Through field placements, students pursue personal learning objectives related to speech-language pathology, with a focus on the clinical application of knowledge gained in the Psycholinguistics and Communication Differences concentration.",
+      "prerequisites": "LING 3604 , fourth-year Honours standing in B.A. or B.Sc. in Linguistics with a Concentration in Psycholinguistics and Communication Disorders with a CGPA of 10.0 in the major, and permission from the School of Linguistics and Language Studies.",
+      "offerings": [
+        "fall",
+        "winter"
+      ],
+      "year_standing": null,
+      "concurrent_prerequisites": []
+    },
+    {
       "code": "LING 4605",
       "name": "Psycholinguistic Research Methods",
-      "credit": "0.5",
+      "credit": "",
       "description": "Experimental methodologies used in current psycholinguistic studies. Topics include experimental design and techniques, descriptive statistics, and interpreting and reporting research findings.",
       "prerequisites": "third- or fourth-year standing and LING 3601 , or permission of the instructor.",
       "offerings": [
@@ -445,11 +444,11 @@
     {
       "code": "LING 4606",
       "name": "Statistics for Language Research",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application of statistical procedures to analysis of language data and to problems of measurement in experimental linguistics, applied linguistics, psycholinguistics, and related fields.",
       "prerequisites": "Third-year standing in Linguistics or Applied Linguistics and Discourse Studies or Cognitive Science, or permission of the instructor.",
       "offerings": [
-        "fall"
+        "winter"
       ],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -457,7 +456,7 @@
     {
       "code": "LING 4801",
       "name": "Linguistic Field Methods",
-      "credit": "0.5",
+      "credit": "",
       "description": "With a language consultant, students discover the phonological, morphological, and syntactic structures of the target language using linguistic elicitation. Language will vary from year to year, but will normally be a non-European language.  Language documentation, data management, ethical issues surrounding research in Indigenous communities.",
       "prerequisites": "LING 2005 and LING 2007 .",
       "offerings": [],
@@ -467,7 +466,7 @@
     {
       "code": "LING 4802",
       "name": "Historical Linguistics: English",
-      "credit": "0.5",
+      "credit": "",
       "description": "A theory-intensive course that will study the development of English starting with Proto-Indo-European progressing through Common Germanic to the stages of English itself. Topics include phonological sound changes, phonemic inventories, and morphological and syntactic typology.",
       "prerequisites": "LING 2005 and LING 2007 , and one of LING 3005 , LING 3810 or LING 3811 .",
       "offerings": [],
@@ -477,7 +476,7 @@
     {
       "code": "LING 4805",
       "name": "Old English",
-      "credit": "0.5",
+      "credit": "",
       "description": "Studies in Old English literature and its cultural and historical contexts. Instruction in grammar to facilitate reading knowledge of the Old English language.",
       "prerequisites": "fourth-year standing or permission of the department.",
       "offerings": [],
@@ -487,33 +486,27 @@
     {
       "code": "LING 4900",
       "name": "Independent Study in Linguistics",
-      "credit": "1.0",
+      "credit": "",
       "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4901",
       "name": "Independent Study in Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Permits fourth-year Honours students to pursue their interests in a selected area of linguistics.",
       "prerequisites": "permission of the instructor.",
-      "offerings": [
-        "fall",
-        "winter"
-      ],
+      "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "LING 4905",
       "name": "Honours Project in Experimental Linguistics",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students choose existing study in linguistic literature, replicate the study, present findings, compare to original study. Practical experience gathering and preparing materials, running experiments, analyzing data, interpreting findings; real, important contributions to the field of linguistics via replication studies (as mandated by the scientific method).",
       "prerequisites": "fourth-year Honours standing in Linguistics, with a Major CGPA of 9.0, and permission of the instructor.",
       "offerings": [
@@ -526,7 +519,7 @@
     {
       "code": "LING 4910",
       "name": "Honours Thesis in Linguistics",
-      "credit": "1.0",
+      "credit": "",
       "description": "A thesis project selected in consultation with the School and carried out under the direction of a faculty supervisor.",
       "prerequisites": "fourth-year Honours standing in Linguistics with a CGPA of 10.0 in the major; one of LING 3004 , LING 3007 , LING 3505 , or LING 3601 ; and permission of the instructor.",
       "offerings": [
@@ -540,87 +533,87 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Linguistics B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  B.Sc. Honours (20.0 credits)",
       "credits": "6.0",
-      "text": "10.  6.0 credits in free electives 6.0"
+      "text": "10.  6.0 credits in  free electives 6.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics with Concentration in Computer Science B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  with Concentration in Computer Science  B.Sc. Honours (20.0 credits)",
       "credits": "3.5",
-      "text": "10.  3.5 credits in free electives 3.5"
+      "text": "10.  3.5 credits in  free electives 3.5"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics with Concentration in Neuroscience B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  with Concentration in Neuroscience  B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
-      "text": "10.  4.0 credits in free electives 4.0"
+      "text": "10.  4.0 credits in  free electives 4.0"
     },
     {
       "type": "requirement",
-      "degree": "Linguistics with Concentration in Psychology B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  with Concentration in Psychology  B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
-      "text": "10.  4.0 credits in free electives 4.0"
+      "text": "10.  4.0 credits in  free electives 4.0"
     },
     {
       "type": "requirement",
-      "degree": "Psycholinguistics and Communication Differences B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  B.Sc. Honours (20.0 credits)",
       "credits": "6.0",
-      "text": "11.  6.0 credits in free electives 6.0"
+      "text": "11.  6.0 credits in  free electives 6.0"
     },
     {
       "type": "requirement",
-      "degree": "Psycholinguistics and Communication Differences with Concentration in Computer Science B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  with Concentration in Computer Science  B.Sc. Honours (20.0 credits)",
       "credits": "3.5",
-      "text": "11.  3.5 credits in free electives 3.5"
+      "text": "11.  3.5 credits in  free electives 3.5"
     },
     {
       "type": "requirement",
-      "degree": "Psycholinguistics and Communication Differences with Concentration in Neuroscience B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  with Concentration in Neuroscience  B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
-      "text": "11.  4.0 credits in free electives 4.0"
+      "text": "11.  4.0 credits in  free electives 4.0"
     },
     {
       "type": "requirement",
-      "degree": "Psycholinguistics and Communication Differences with Concentration in Psychology B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  with Concentration in Psychology  B.Sc. Honours (20.0 credits)",
       "credits": "4.0",
-      "text": "11.  4.0 credits in free electives 4.0"
+      "text": "11.  4.0 credits in  free electives 4.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -649,7 +642,7 @@
   ],
   "programs": [
     {
-      "degree": "Linguistics B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -692,50 +685,16 @@
           "description": "Phonetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 3004"
-          ],
-          "credits": 0.5,
-          "description": "Syntax I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3005"
-          ],
-          "credits": 0.5,
-          "description": "Morphology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3007"
-          ],
-          "credits": 0.5,
-          "description": "Phonology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3505"
-          ],
-          "credits": 0.5,
-          "description": "Semantics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 3004",
+            "LING 3005",
+            "LING 3007",
+            "LING 3505",
             "LING 1100"
           ],
-          "credits": 3.0,
-          "description": "3.0 credits in LING, excluding LING 1100"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -792,29 +751,11 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in Science Continuation (not LING)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 6.0,
-          "description": "6.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Linguistics with Concentration in Computer Science B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  with Concentration in Computer Science  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -857,56 +798,16 @@
           "description": "Phonetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 3004"
-          ],
-          "credits": 0.5,
-          "description": "Syntax I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3005"
-          ],
-          "credits": 0.5,
-          "description": "Morphology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3007"
-          ],
-          "credits": 0.5,
-          "description": "Phonology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3505"
-          ],
-          "credits": 0.5,
-          "description": "Semantics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 3004",
+            "LING 3005",
+            "LING 3007",
+            "LING 3505",
             "LING 1100"
           ],
-          "credits": 3.0,
-          "description": "3.0 credits in LING, excluding LING 1100"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in the Computer Science Concentration"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -957,68 +858,19 @@
           "description": "Introduction to Software Engineering"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 2406"
-          ],
-          "credits": 0.5,
-          "description": "Fundamentals of Web Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2804"
-          ],
-          "credits": 0.5,
-          "description": "Discrete Structures II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3000"
-          ],
-          "credits": 0.5,
-          "description": "Operating Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3002"
-          ],
-          "credits": 0.5,
-          "description": "Compiler Construction"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3004"
-          ],
-          "credits": 0.5,
-          "description": "Object-Oriented Software Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3005"
-          ],
-          "credits": 0.5,
-          "description": "Database Management Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3007"
-          ],
-          "credits": 0.5,
-          "description": "Programming Paradigms"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 2406",
+            "COMP 2804",
+            "COMP 3000",
+            "COMP 3002",
+            "COMP 3004",
+            "COMP 3005",
+            "COMP 3007",
             "COMP 3008"
           ],
-          "credits": 0.5,
-          "description": "Software Structures for User Interfaces"
+          "credits": 1.0,
+          "description": "c. 1.0 credit from:"
         },
         {
           "type": "required",
@@ -1075,23 +927,11 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Linguistics with Concentration in Neuroscience B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  with Concentration in Neuroscience  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1134,50 +974,16 @@
           "description": "Phonetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 3004"
-          ],
-          "credits": 0.5,
-          "description": "Syntax I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3005"
-          ],
-          "credits": 0.5,
-          "description": "Morphology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3007"
-          ],
-          "credits": 0.5,
-          "description": "Phonology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3505"
-          ],
-          "credits": 0.5,
-          "description": "Semantics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 3004",
+            "LING 3005",
+            "LING 3007",
+            "LING 3505",
             "LING 1100"
           ],
-          "credits": 3.0,
-          "description": "3.0 credits in LING, excluding LING 1100"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -1212,44 +1018,16 @@
           "description": "Introduction to Statistics in Neuroscience"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 2201"
-          ],
-          "credits": 0.5,
-          "description": "Cellular and Molecular Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 2202"
-          ],
-          "credits": 0.5,
-          "description": "Neurodevelopment and Plasticity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3206"
-          ],
-          "credits": 0.5,
-          "description": "Sensory and Motor Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3207"
-          ],
-          "credits": 0.5,
-          "description": "Systems Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 2201",
+            "NEUR 2202",
+            "NEUR 3206",
+            "NEUR 3207",
             "NEUR 3303"
           ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         },
         {
           "type": "required",
@@ -1306,23 +1084,11 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Linguistics with Concentration in Psychology B.Sc. Honours (20.0 credits)",
+      "degree": "Linguistics  with Concentration in Psychology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1365,50 +1131,16 @@
           "description": "Phonetics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 3004"
-          ],
-          "credits": 0.5,
-          "description": "Syntax I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3005"
-          ],
-          "credits": 0.5,
-          "description": "Morphology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3007"
-          ],
-          "credits": 0.5,
-          "description": "Phonology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 3505"
-          ],
-          "credits": 0.5,
-          "description": "Semantics"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 3004",
+            "LING 3005",
+            "LING 3007",
+            "LING 3505",
             "LING 1100"
           ],
-          "credits": 3.0,
-          "description": "3.0 credits in LING, excluding LING 1100"
+          "credits": 1.5,
+          "description": "1.5 credits from:"
         },
         {
           "type": "required",
@@ -1443,117 +1175,49 @@
           "description": "Introduction to Statistics in Psychology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSYC 2307"
-          ],
-          "credits": 0.5,
-          "description": "Human Neuropsychology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2700"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Cognitive Psychology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3307"
-          ],
-          "credits": 0.5,
-          "description": "Human Neuropsychology II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3506"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Development"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSYC 2307",
+            "PSYC 2700",
+            "PSYC 3307",
+            "PSYC 3506",
             "PSYC 3702"
           ],
-          "credits": 0.5,
-          "description": "Perception"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 1103"
-          ],
-          "credits": 0.5,
-          "description": "Foundations of Biology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 1104"
-          ],
-          "credits": 0.5,
-          "description": "Foundations of Biology II"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 1103",
+            "BIOL 1104",
             "BIOL 3306"
           ],
-          "credits": 0.5,
-          "description": "Human Anatomy and Physiology"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "CHEM 1001"
-          ],
-          "credits": 0.5,
-          "description": "General Chemistry I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHEM 1001",
             "CHEM 1002"
           ],
-          "credits": 0.5,
-          "description": "General Chemistry II"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "MATH 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary Calculus I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "MATH 1007",
             "MATH 1107"
           ],
-          "credits": 0.5,
-          "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         }
       ]
     },
     {
-      "degree": "Psycholinguistics and Communication Differences B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1644,50 +1308,16 @@
           "description": "Communication Differences and Disabilities II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 4601"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Neuroscience of Language"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4603"
-          ],
-          "credits": 0.5,
-          "description": "First Language Acquisition"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4605"
-          ],
-          "credits": 0.5,
-          "description": "Psycholinguistic Research Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4606"
-          ],
-          "credits": 0.5,
-          "description": "Statistics for Language Research"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 4601",
+            "LING 4603",
+            "LING 4605",
+            "LING 4606",
             "LING 1100"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in LING, excluding LING 1100"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1744,29 +1374,11 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in Science Continuation (not LING)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 6.0,
-          "description": "6.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Psycholinguistics and Communication Differences with Concentration in Computer Science B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  with Concentration in Computer Science  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1857,56 +1469,16 @@
           "description": "Communication Differences and Disabilities II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 4601"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Neuroscience of Language"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4603"
-          ],
-          "credits": 0.5,
-          "description": "First Language Acquisition"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4605"
-          ],
-          "credits": 0.5,
-          "description": "Psycholinguistic Research Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4606"
-          ],
-          "credits": 0.5,
-          "description": "Statistics for Language Research"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 4601",
+            "LING 4603",
+            "LING 4605",
+            "LING 4606",
             "LING 1100"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in LING, excluding LING 1100"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in the Computer Science Concentration"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1957,68 +1529,19 @@
           "description": "Introduction to Software Engineering"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 2406"
-          ],
-          "credits": 0.5,
-          "description": "Fundamentals of Web Applications"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2804"
-          ],
-          "credits": 0.5,
-          "description": "Discrete Structures II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3000"
-          ],
-          "credits": 0.5,
-          "description": "Operating Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3002"
-          ],
-          "credits": 0.5,
-          "description": "Compiler Construction"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3004"
-          ],
-          "credits": 0.5,
-          "description": "Object-Oriented Software Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3005"
-          ],
-          "credits": 0.5,
-          "description": "Database Management Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3007"
-          ],
-          "credits": 0.5,
-          "description": "Programming Paradigms"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "COMP 2406",
+            "COMP 2804",
+            "COMP 3000",
+            "COMP 3002",
+            "COMP 3004",
+            "COMP 3005",
+            "COMP 3007",
             "COMP 3008"
           ],
-          "credits": 0.5,
-          "description": "Software Structures for User Interfaces"
+          "credits": 1.0,
+          "description": "c. 1.0 credit from:"
         },
         {
           "type": "required",
@@ -2075,23 +1598,11 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Psycholinguistics and Communication Differences with Concentration in Neuroscience B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  with Concentration in Neuroscience  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2182,50 +1693,16 @@
           "description": "Communication Differences and Disabilities II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 4601"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Neuroscience of Language"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4603"
-          ],
-          "credits": 0.5,
-          "description": "First Language Acquisition"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4605"
-          ],
-          "credits": 0.5,
-          "description": "Psycholinguistic Research Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4606"
-          ],
-          "credits": 0.5,
-          "description": "Statistics for Language Research"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 4601",
+            "LING 4603",
+            "LING 4605",
+            "LING 4606",
             "LING 1100"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in LING, excluding LING 1100"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -2260,44 +1737,16 @@
           "description": "Introduction to Statistics in Neuroscience"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "NEUR 2201"
-          ],
-          "credits": 0.5,
-          "description": "Cellular and Molecular Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 2202"
-          ],
-          "credits": 0.5,
-          "description": "Neurodevelopment and Plasticity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3206"
-          ],
-          "credits": 0.5,
-          "description": "Sensory and Motor Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "NEUR 3207"
-          ],
-          "credits": 0.5,
-          "description": "Systems Neuroscience"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "NEUR 2201",
+            "NEUR 2202",
+            "NEUR 3206",
+            "NEUR 3207",
             "NEUR 3303"
           ],
-          "credits": 0.5,
-          "description": "The Neuroscience of Consciousness"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         },
         {
           "type": "required",
@@ -2354,23 +1803,11 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
         }
       ]
     },
     {
-      "degree": "Psycholinguistics and Communication Differences with Concentration in Psychology B.Sc. Honours (20.0 credits)",
+      "degree": "Psycholinguistics and Communication Differences  with Concentration in Psychology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2461,50 +1898,16 @@
           "description": "Communication Differences and Disabilities II"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "LING 4601"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Neuroscience of Language"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4603"
-          ],
-          "credits": 0.5,
-          "description": "First Language Acquisition"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4605"
-          ],
-          "credits": 0.5,
-          "description": "Psycholinguistic Research Methods"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "LING 4606"
-          ],
-          "credits": 0.5,
-          "description": "Statistics for Language Research"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in LING at the 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "LING 4601",
+            "LING 4603",
+            "LING 4605",
+            "LING 4606",
             "LING 1100"
           ],
-          "credits": 1.5,
-          "description": "1.5 credits in LING, excluding LING 1100"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -2539,44 +1942,16 @@
           "description": "Introduction to Statistics in Psychology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSYC 2307"
-          ],
-          "credits": 0.5,
-          "description": "Human Neuropsychology I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2700"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Cognitive Psychology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3307"
-          ],
-          "credits": 0.5,
-          "description": "Human Neuropsychology II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3506"
-          ],
-          "credits": 0.5,
-          "description": "Cognitive Development"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSYC 2307",
+            "PSYC 2700",
+            "PSYC 3307",
+            "PSYC 3506",
             "PSYC 3702"
           ],
-          "credits": 0.5,
-          "description": "Perception"
+          "credits": 1.5,
+          "description": "b.  1.5 credits from:"
         },
         {
           "type": "required",
@@ -2603,20 +1978,13 @@
           "description": "Human Anatomy and Physiology"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "CHEM 1001"
-          ],
-          "credits": 0.5,
-          "description": "General Chemistry I"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "CHEM 1001",
             "CHEM 1002"
           ],
-          "credits": 0.5,
-          "description": "General Chemistry II"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -2633,19 +2001,12 @@
           ],
           "credits": 0.5,
           "description": "Linear Algebra I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 4.0,
-          "description": "4.0 credits in free electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "School Language Proficiency Requirement must be satisfied"
-        },
+        }
+      ]
+    },
+    {
+      "degree": "Experimental Science Requirement",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -3252,277 +2613,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",
@@ -3667,12 +2795,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     }

@@ -30,6 +30,13 @@ const edgeTypes = { clean: CleanEdge }
 // shortens program names to fit the pill strip
 
 const shortenProgram = (degree = '') => {
+  // Merged programs ("Parent — Concentration in X") — show just the concentration name
+  const mergedM = degree.match(/—\s*concentration\s+in\s+(.+?)(?:\s*\(|$)/i)
+  if (mergedM) {
+    const c = mergedM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+
   const specifics = [
     [/artificial intelligence|machine learning/i, 'AI & Machine Learning'],
     [/cybersecurity|cyber security/i,             'Cybersecurity'],
@@ -40,10 +47,17 @@ const shortenProgram = (degree = '') => {
     [/computing theory/i,                         'Computing Theory'],
     [/data science/i,                             'Data Science'],
     [/bioinformatics/i,                           'Bioinformatics'],
-    [/cognitive science/i,                        'Cognitive Science'],
     [/network security|computer networking/i,     'Networking'],
   ]
   for (const [re, label] of specifics) if (re.test(degree)) return label
+
+  // Cognitive Science concentrations — extract the concentration name
+  const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s{2,}|$)/i)
+  if (cogM) {
+    const c = cogM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+  if (/cognitive science/i.test(degree)) return 'Cognitive Science'
 
   let s = degree
     .replace(/^(Honours\s+)?Bachelor\s+of\s+\S+\s+/i, '')

@@ -5,7 +5,7 @@
     {
       "code": "BTEC 2301",
       "name": "Biotechnology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introductory course on the science, technology, entrepreneurial skills and business considerations related to biotechnology. The course will survey broadly across the disciplines of Biology, including applications in agriculture, health, environment and industry.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
       "offerings": [],
@@ -15,7 +15,7 @@
     {
       "code": "BTEC 3301",
       "name": "Biotechnology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An interdisciplinary course on interactions between science, invention and innovation in biotechnology. Case studies related to regional biotechnology opportunities; social and ethical issues impacting biotechnology.",
       "prerequisites": "BIOL 2301 , BIOL 2104 , or BIOL 2107 , and BIOL 2200 / BIOC 2200 or BIOL 2201 , or permission of the Institute.",
       "offerings": [],
@@ -25,7 +25,7 @@
     {
       "code": "BTEC 3302",
       "name": "Regulations and Intellectual Property",
-      "credit": "0.5",
+      "credit": "",
       "description": "Regulatory frameworks and intellectual property processes in biotechnology industries. Case studies and discussions of regulatory approval, compliance requirements, patentability criteria, IP protection, and ethical consideration in biotechnology innovation and commercialization.",
       "prerequisites": "BIOC 2200 or permission of the Institute.",
       "offerings": [],
@@ -35,7 +35,7 @@
     {
       "code": "BTEC 3303",
       "name": "Quality Control and Quality Assurance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Quality control (QC) and quality assurance (QA) in biotechnology. Case studies and discussions of Quality Management Systems (QMS) and methodologies, risk assessment and mitigation strategies, data integrity, and trends to ensure high-quality standards in biotechnological products and processes.",
       "prerequisites": "BIOC 2200 or CHEM 2303 .",
       "offerings": [],
@@ -45,7 +45,7 @@
     {
       "code": "BTEC 3501",
       "name": "Agrifood Technologies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Role of biotechnology in agriculture. Includes crop and animal biotechnology concepts for enhanced crop yield, pest resistance, nutritional quality, and livestock health. Principles of sustainable agriculture to promote environmentally friendly farming practices, ensuring a balance between productivity and ecological integrity.",
       "prerequisites": "BIOC 2200 or BIOL 2104 .",
       "offerings": [],
@@ -55,7 +55,7 @@
     {
       "code": "BTEC 4501",
       "name": "Food Bio-Innovation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Biotechnological advancements transforming the food industry with emphasis on new food sources, new ingredients, and new production and processing methods.",
       "prerequisites": "BIOC 2200 .",
       "offerings": [],
@@ -65,7 +65,7 @@
     {
       "code": "BTEC 4601",
       "name": "Regenerative Medicine",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of regeneration medicine, focusing on the mechanisms, techniques, and applications involved in repairing or replacing damaged tissues and organs. Students engage with cutting-edge research and innovative approaches in the field.",
       "prerequisites": "BIOL 3201 or HLTH 3303 .",
       "offerings": [],
@@ -75,7 +75,7 @@
     {
       "code": "BTEC 4602",
       "name": "Biotherapeutics and Vaccines",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of protein and mRNA-based biotherapeutics and vaccines in biotechnology. Emphasizes modern technologies, focusing on design principles, production challenges, and commercial scaling, equipping students with essential knowledge about scientific and technological aspects critical for effective biotherapeutic and vaccine development.",
       "prerequisites": "BIOL 2104 or HLTH 2004 .",
       "offerings": [],
@@ -85,7 +85,7 @@
     {
       "code": "BTEC 4701",
       "name": "Environmental Bioremediation",
-      "credit": "0.5",
+      "credit": "",
       "description": "The use of living organisms to remediate contaminated soils and waters. Case studies and discussions of bioremediation processes from a chemical and biological perspective, environmental factors that influence the selection of bioremediation technologies, limits of bioremediation strategies and techniques, and current advances in the field.",
       "prerequisites": "BIOL 2303 or HLTH 2004 or CHEM 2800 or FOOD 3005 .",
       "offerings": [],
@@ -95,7 +95,7 @@
     {
       "code": "BTEC 4702",
       "name": "Industrial Microbiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Industrial use of native and engineered microorganisms for generating products like traditional beverages, biopharmaceuticals, hormones, organic acids, biofuels, biopesticides, food additives and more. Critical reasoning skills applied to case studies and project development.",
       "prerequisites": "BIOL 2303 or HLTH 2004 or FOOD 3005 .",
       "offerings": [],
@@ -105,7 +105,7 @@
     {
       "code": "BTEC 4908",
       "name": "Research Thesis",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students carry out a research project approved by the Director, under the supervision of a faculty member of the Institute, in either the Biology or Chemistry departments. Evaluation based on a written thesis and presentation.",
       "prerequisites": "Fourth-year standing in Honours Biotechnology program.",
       "offerings": [],
@@ -115,7 +115,7 @@
     {
       "code": "BTEC 4909",
       "name": "Practicum",
-      "credit": "1.0",
+      "credit": "",
       "description": "Field placement in private sector providing practical experience in a biotechnology-related field. Sites may vary each year. Evaluation based on a written report and presentation.",
       "prerequisites": "Fourth-year standing in Honours Biotechnology program.",
       "offerings": [],
@@ -125,7 +125,7 @@
     {
       "code": "BTEC 4910",
       "name": "Consulting Project",
-      "credit": "1.0",
+      "credit": "",
       "description": "This course is designed to give students practical experience as a biotechnology consultant by working on a concrete issue brought forward by a biotechnology partner. Evaluation based on a written report and presentation.",
       "prerequisites": "Fourth-year standing in Honours Biotechnology program.",
       "offerings": [],
@@ -136,51 +136,51 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biotechnology  B.Sc. Honours  (20.0 credits)",
       "credits": "0.5",
-      "text": "14.  0.5 credit in free electives 0.5"
+      "text": "14.  0.5 credit in  free electives 0.5"
     },
     {
       "type": "requirement",
-      "degree": "Biology and Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology and Biotechnology  B.Sc. Honours  (20.0 credits)",
       "credits": "1.0",
-      "text": "9.  1.0 credit in free electives. 1.0"
+      "text": "9.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -209,7 +209,7 @@
   ],
   "programs": [
     {
-      "degree": "Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biotechnology  B.Sc. Honours  (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -244,248 +244,61 @@
           "description": "Quality Control and Quality Assurance"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BTEC 4908"
-          ],
-          "credits": 1.0,
-          "description": "Research Thesis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BTEC 4909"
-          ],
-          "credits": 1.0,
-          "description": "Practicum"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BTEC 4908",
+            "BTEC 4909",
             "BTEC 4910"
           ],
           "credits": 1.0,
-          "description": "Consulting Project"
+          "description": "1.0 credit from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BTEC 3501"
-          ],
-          "credits": 0.5,
-          "description": "Agrifood Technologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BTEC 4501"
-          ],
-          "credits": 0.5,
-          "description": "Food Bio-Innovation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BTEC 4601"
-          ],
-          "credits": 0.5,
-          "description": "Regenerative Medicine"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BTEC 4602"
-          ],
-          "credits": 0.5,
-          "description": "Biotherapeutics and Vaccines"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BTEC 4701"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Bioremediation"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BTEC 3501",
+            "BTEC 4501",
+            "BTEC 4601",
+            "BTEC 4602",
+            "BTEC 4701",
             "BTEC 4702"
           ],
-          "credits": 0.5,
-          "description": "Industrial Microbiology"
+          "credits": 2.0,
+          "description": "2.0 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 2001"
-          ],
-          "credits": 0.5,
-          "description": "Animals: Form and Function"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 2002"
-          ],
-          "credits": 0.5,
-          "description": "Plants: Form and Function"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 2204"
-          ],
-          "credits": 0.5,
-          "description": "Organic Chemistry II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 2501"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Inorganic and Bioinorganic Chemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 2800"
-          ],
-          "credits": 0.5,
-          "description": "Foundations for Environmental Chemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 2001",
+            "BIOL 2002",
+            "CHEM 2204",
+            "CHEM 2501",
+            "CHEM 2800",
             "FOOD 2002"
           ],
-          "credits": 0.5,
-          "description": "Food Processing"
-        },
-        {
-          "type": "elective",
-          "courses": [],
           "credits": 1.5,
-          "description": "1.5 credits from"
+          "description": "1.5 credits from:"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOC 3103"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Biochemistry I: Principles and Practices"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 3104"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Biochemistry II: Research Experience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 3203"
-          ],
-          "credits": 0.5,
-          "description": "Biochemical Pharmacology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3201"
-          ],
-          "credits": 0.5,
-          "description": "Cell Biology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3205"
-          ],
-          "credits": 0.5,
-          "description": "Plant Biochemistry and Physiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3303"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 3201"
-          ],
-          "credits": 0.5,
-          "description": "Structure Elucidation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 3205"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Organic Chemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 3800"
-          ],
-          "credits": 0.5,
-          "description": "The Chemistry of Environmental Pollutants"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 3001"
-          ],
-          "credits": 0.5,
-          "description": "Food Chemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 3002"
-          ],
-          "credits": 0.5,
-          "description": "Food Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 3003"
-          ],
-          "credits": 0.5,
-          "description": "Food Packaging and Shelf Life"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 3005"
-          ],
-          "credits": 0.5,
-          "description": "Food Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOC 3103",
+            "BIOC 3104",
+            "BIOC 3203",
+            "BIOL 3201",
+            "BIOL 3205",
+            "BIOL 3303",
+            "CHEM 3201",
+            "CHEM 3205",
+            "CHEM 3800",
+            "FOOD 3001",
+            "FOOD 3002",
+            "FOOD 3003",
+            "FOOD 3005",
             "FOOD 3006"
           ],
-          "credits": 0.5,
-          "description": "Upcycling and Sustainable Food Systems"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BIOC, BIOL, BTEC CHEM, FOOD at 4000 level"
+          "credits": 1.5,
+          "description": "1.5 credits from"
         },
         {
           "type": "required",
@@ -512,36 +325,15 @@
           "description": "Bioethics"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BUSI 2301"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Supply and Operations Management"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3119"
-          ],
-          "credits": 0.5,
-          "description": "Business and Environmental Sustainability"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 3600"
-          ],
-          "credits": 0.5,
-          "description": "Entrepreneurial Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BUSI 2301",
+            "BUSI 3119",
+            "BUSI 3600",
             "BUSI 3810"
           ],
           "credits": 0.5,
-          "description": "Business Development"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -672,39 +464,19 @@
           "description": "Elementary University Physics I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 1105"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Biological Data"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 2500"
-          ],
-          "credits": 0.5,
-          "description": "Research Methods and Skills in Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 1105",
+            "BIOC 2500",
             "STAT 2507"
           ],
           "credits": 0.5,
-          "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in free electives"
+          "description": "0.5 credit from:"
         }
       ]
     },
     {
-      "degree": "Biology and Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology and Biotechnology  B.Sc. Honours  (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -835,252 +607,42 @@
           "description": "Biochemical Signals and Structures: The Molecular Language of Cells"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOC 2300"
-          ],
-          "credits": 0.5,
-          "description": "Physical Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 2103"
-          ],
-          "credits": 0.5,
-          "description": "Physical Chemistry I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 3103"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Biochemistry I: Principles and Practices"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 3104"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Biochemistry II: Research Experience"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3004"
-          ],
-          "credits": 0.5,
-          "description": "Insect Diversity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3102"
-          ],
-          "credits": 0.5,
-          "description": "Mycology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3205"
-          ],
-          "credits": 0.5,
-          "description": "Plant Biochemistry and Physiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3303"
-          ],
-          "credits": 0.5,
-          "description": "Experimental Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3305"
-          ],
-          "credits": 0.5,
-          "description": "Human and Comparative Physiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3501"
-          ],
-          "credits": 0.5,
-          "description": "Biomechanics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 3901"
-          ],
-          "credits": 0.5,
-          "description": "Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 3700"
-          ],
-          "credits": 0.5,
-          "description": "Industrial Applications of Chemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "CHEM 3800"
-          ],
-          "credits": 0.5,
-          "description": "The Chemistry of Environmental Pollutants"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "FOOD 3005"
-          ],
-          "credits": 0.5,
-          "description": "Food Microbiology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4001"
-          ],
-          "credits": 0.5,
-          "description": "Methods in Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4004"
-          ],
-          "credits": 0.5,
-          "description": "Industrial Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4005"
-          ],
-          "credits": 0.5,
-          "description": "Biochemical Regulation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4007"
-          ],
-          "credits": 0.5,
-          "description": "Membrane Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4009"
-          ],
-          "credits": 0.5,
-          "description": "Biochemistry of Disease"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4203"
-          ],
-          "credits": 0.5,
-          "description": "Secondary Metabolism and Natural Products Biochemistry"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOC 4708"
-          ],
-          "credits": 0.5,
-          "description": "Principles of Toxicology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4106"
-          ],
-          "credits": 0.5,
-          "description": "Advances in Molecular Biology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4109"
-          ],
-          "credits": 0.5,
-          "description": "Laboratory Techniques in Molecular Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4200"
-          ],
-          "credits": 0.5,
-          "description": "Immunology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4201"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Cell Culture and Tissue Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4202"
-          ],
-          "credits": 0.5,
-          "description": "Mutagenesis and DNA Repair"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4206"
-          ],
-          "credits": 0.5,
-          "description": "Human Genetics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4304"
-          ],
-          "credits": 0.5,
-          "description": "Forensic Biology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "BIOL 4901"
-          ],
-          "credits": 0.5,
-          "description": "Directed Special Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "TSES 4001"
-          ],
-          "credits": 0.5,
-          "description": "Technology and Society: Risk"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOC 2300",
+            "CHEM 2103",
+            "BIOC 3103",
+            "BIOC 3104",
+            "BIOL 3004",
+            "BIOL 3102",
+            "BIOL 3205",
+            "BIOL 3303",
+            "BIOL 3305",
+            "BIOL 3501",
+            "BIOL 3901",
+            "CHEM 3700",
+            "CHEM 3800",
+            "FOOD 3005",
+            "BIOC 4001",
+            "BIOC 4004",
+            "BIOC 4005",
+            "BIOC 4007",
+            "BIOC 4009",
+            "BIOC 4203",
+            "BIOC 4708",
+            "BIOL 4106",
+            "BIOL 4109",
+            "BIOL 4200",
+            "BIOL 4201",
+            "BIOL 4202",
+            "BIOL 4206",
+            "BIOL 4304",
+            "BIOL 4901",
+            "TSES 4001",
             "TSES 4002"
           ],
-          "credits": 0.5,
-          "description": "Technology and Society: Forecasting"
+          "credits": 4.0,
+          "description": "4.0 credits from:"
         },
         {
           "type": "required",
@@ -1091,20 +653,13 @@
           "description": "Honours Workshop"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "BIOL 4907"
-          ],
-          "credits": 1.0,
-          "description": "Honours Essay and Research Proposal"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4907",
             "BIOL 4908"
           ],
-          "credits": 1.0,
-          "description": "Honours Research Thesis"
+          "credits": 4.0,
+          "description": "4.0 credits from:"
         },
         {
           "type": "required",
@@ -1113,7 +668,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -1122,7 +677,7 @@
             "CHEM 2204"
           ],
           "credits": 0.5,
-          "description": "Organic Chemistry I Organic Chemistry II (See Note, below)"
+          "description": "Organic Chemistry I  Organic Chemistry II  (See Note, below)"
         },
         {
           "type": "required",
@@ -1133,83 +688,26 @@
           "description": "Elementary Calculus I"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "COMP 1005"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1006"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 1107"
-          ],
-          "credits": 0.5,
-          "description": "Linear Algebra I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 1007"
-          ],
-          "credits": 0.5,
-          "description": "Elementary University Physics I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 1003"
-          ],
-          "credits": 0.5,
-          "description": "Introductory Mechanics and Thermodynamics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 1008"
-          ],
-          "credits": 0.5,
-          "description": "Elementary University Physics II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHYS 1004"
-          ],
-          "credits": 0.5,
-          "description": "Introductory Electromagnetism and Wave Motion"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 2507"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Statistical Modeling I"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "COMP 1005",
+            "COMP 1006",
+            "MATH 1107",
+            "PHYS 1007",
+            "PHYS 1003",
+            "PHYS 1008",
+            "PHYS 1004",
+            "STAT 2507",
             "ISAP 1000"
           ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
-        },
+          "credits": 1.5,
+          "description": "1.5 credits from:"
+        }
+      ]
+    },
+    {
+      "degree": "Experimental Science Requirement",
+      "requirements": [
         {
           "type": "required",
           "courses": [
@@ -1816,277 +1314,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",
@@ -2231,17 +1496,11 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     },
     {
-      "degree": "Undergraduate Co-operative Education Policy",
+      "degree": "Co-op Work Term Courses",
       "requirements": [
         {
           "type": "required",

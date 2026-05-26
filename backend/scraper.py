@@ -1,9 +1,10 @@
+import html
 import json
 import os
 import re
 import time
 import requests
-from bs4 import BeautifulSoup, NavigableString
+from parsel import Selector
 
 _DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
@@ -39,19 +40,15 @@ PROGRAMS = {
     "Geography": "https://calendar.carleton.ca/undergrad/undergradprograms/geography/",
     "Geomatics": "https://calendar.carleton.ca/undergrad/undergradprograms/geomatics/",
     "Global and International Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/gins/",
-    "Greek and Roman Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/greekandromanstudies/",
     "Health Sciences": "https://calendar.carleton.ca/undergrad/undergradprograms/healthsciences/",
     "History": "https://calendar.carleton.ca/undergrad/undergradprograms/history/",
-    "Human Rights and Social Justice": "https://calendar.carleton.ca/undergrad/undergradprograms/humanrights/",
     "Humanities": "https://calendar.carleton.ca/undergrad/undergradprograms/humanities/",
     "Indigenous Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/indigenousstudies/",
     "Industrial Design": "https://calendar.carleton.ca/undergrad/undergradprograms/industrialdesign/",
     "Information Technology": "https://calendar.carleton.ca/undergrad/undergradprograms/informationtechnology/",
-    "Integrated Science": "https://calendar.carleton.ca/undergrad/undergradprograms/integratedscience/",
     "International Business": "https://calendar.carleton.ca/undergrad/undergradprograms/business/#Bachelor_of_International_Business__Honours",
     "Journalism": "https://calendar.carleton.ca/undergrad/undergradprograms/journalism/",
     "Journalism and Humanities": "https://calendar.carleton.ca/undergrad/undergradprograms/journalismandhumanities/",
-    "Latin American and Caribbean Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/latinamericanandcaribbeanstudies/",
     "Law": "https://calendar.carleton.ca/undergrad/undergradprograms/law/",
     "Linguistics (B.A.)": "https://calendar.carleton.ca/undergrad/undergradprograms/linguistics-ba/",
     "Linguistics (B.Sc.)": "https://calendar.carleton.ca/undergrad/undergradprograms/linguistics-bsc/",
@@ -65,40 +62,36 @@ PROGRAMS = {
     "Physics": "https://calendar.carleton.ca/undergrad/undergradprograms/physics/",
     "Political Science": "https://calendar.carleton.ca/undergrad/undergradprograms/politicalscience/",
     "Psychology": "https://calendar.carleton.ca/undergrad/undergradprograms/psychology/",
-    "Public Affairs and Policy Management": "https://calendar.carleton.ca/undergrad/undergradprograms/publicaffairsandpolicymanagement/",
-    "Religion": "https://calendar.carleton.ca/undergrad/undergradprograms/religion/",
     "Social Work": "https://calendar.carleton.ca/undergrad/undergradprograms/socialwork/",
     "Sociology": "https://calendar.carleton.ca/undergrad/undergradprograms/sociology/",
-    "Women's and Gender Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/womensandgenderstudies/",
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CarletonCourseMapBot/1.0)"}
 
+COURSE_RE       = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
+CREDIT_RE       = re.compile(r'(\d+\.?\d*)\s+credit', re.IGNORECASE)
+CREDIT_BRACKET  = re.compile(r'\[([0-9.]+)\]')
+NUMBERED_PREFIX = re.compile(r'^\s*[A-Z0-9]+\.\s+')
+CHOOSE_RE       = re.compile(
+    r'choose|select|one of|from the following|complete\s+\d|credits?\s+from|at least\s+\d',
+    re.IGNORECASE,
+)
 
-def _br_lines(tag):
-    """Split a tag's content into text lines using <br/> as the delimiter."""
-    lines = []
-    current = []
-    for child in tag.children:
-        if child.name == "br":
-            text = " ".join(current).replace("\xa0", " ").strip()
-            if text:
-                lines.append(text)
-            current = []
-        elif hasattr(child, "get_text"):
-            t = child.get_text(" ", strip=True).replace("\xa0", " ")
-            if t:
-                current.append(t)
-        elif isinstance(child, NavigableString):
-            t = child.strip().replace("\xa0", " ")
-            if t:
-                current.append(t)
-    if current:
-        text = " ".join(current).replace("\xa0", " ").strip()
-        if text:
-            lines.append(text)
-    return lines
 
+def _clean(text):
+    return html.unescape(text.replace("\xa0", " ")).strip()
+
+
+def _row_classes(row):
+    return set(row.attrib.get("class", "").split())
+
+
+def _credits_from_text(text):
+    m = CREDIT_RE.search(text)
+    return float(m.group(1)) if m else None
+
+
+# ── Course catalogue scraping ─────────────────────────────────────────────────
 
 def scrape_program(name, url):
     base_url = url.split("#")[0]
@@ -109,66 +102,50 @@ def scrape_program(name, url):
         print(f"  ERROR fetching {name}: {e}")
         return {"name": name, "url": url, "courses": [], "error": str(e)}
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    sel = Selector(text=response.text)
     courses = []
 
-    for block in soup.select(".courseblock"):
-        code_tag = block.select_one(".courseblockcode")
-        title_tag = block.select_one(".courseblocktitle")
-
-        if not code_tag or not title_tag:
+    for block in sel.css(".courseblock"):
+        code = _clean(block.css(".courseblockcode::text").get(""))
+        if not code:
             continue
 
-        code = code_tag.get_text(strip=True).replace("\xa0", " ")
+        title_sel = block.css(".courseblocktitle")
 
-        # course name is the text node after <br/> inside the title span
-        name_parts = []
-        after_br = False
-        for child in title_tag.children:
-            if child.name == "br":
-                after_br = True
-            elif after_br and isinstance(child, NavigableString):
-                text = child.strip()
-                if text:
-                    name_parts.append(text)
-        course_name = " ".join(name_parts)
+        # course name = text node(s) after the first <br> inside the title
+        title_html = title_sel.get("")
+        after_br = title_html.split("<br>", 1)[-1] if "<br>" in title_html else ""
+        course_name = _clean(re.sub(r"<[^>]+>", " ", after_br))
 
-        # credit is the bracketed value in the title e.g. [0.5 credit]
-        credit_match = re.search(r"\[([0-9.]+)\s+credit", title_tag.get_text())
-        credit = credit_match.group(1) if credit_match else ""
+        credit_m = re.search(r"\[([0-9.]+)\s+credit", title_sel.css("::text").get(""))
+        credit = credit_m.group(1) if credit_m else ""
 
-        # description is the bare text node inside .courseblock after the <strong>
-        desc_parts = []
-        after_strong = False
-        for child in block.children:
-            if child.name == "strong":
-                after_strong = True
-                continue
-            if after_strong:
-                if child.name == "div":
-                    break
-                if isinstance(child, NavigableString):
-                    text = child.strip()
-                    if text:
-                        desc_parts.append(text)
-        description = " ".join(desc_parts)
+        # description = text after <strong> and before first <div>
+        block_html = block.get() or ""
+        desc = ""
+        m = re.search(r"</strong>(.*?)(?:<div|$)", block_html, re.DOTALL)
+        if m:
+            desc = _clean(re.sub(r"<[^>]+>", " ", m.group(1)))
 
-        # prerequisites, offerings, year standing, and concurrent prereqs
-        # are all in .coursedescadditional
         prerequisites = ""
         offerings = []
         year_standing = None
         concurrent_prerequisites = []
 
-        additional = block.select_one(".coursedescadditional")
+        additional = block.css(".coursedescadditional")
         if additional:
-            for line in _br_lines(additional):
+            # split on <br> tags to get individual lines
+            add_html = additional.get("")
+            raw_lines = re.split(r"<br\s*/?>", add_html, flags=re.IGNORECASE)
+            for raw in raw_lines:
+                line = _clean(re.sub(r"<[^>]+>", " ", raw))
+                line = re.sub(r"\s{2,}", " ", line).strip()
+                if not line:
+                    continue
                 ll = line.lower()
 
                 if ll.startswith("prerequisite"):
                     prerequisites = re.sub(r"^prerequisite\(s\):\s*", "", line, flags=re.IGNORECASE).strip()
-
-                # "Also offered:" / "Offered:" / "Also Offered in:" lines
                 elif re.match(r"(also\s+)?offered", ll):
                     term_text = re.sub(r"^(also\s+)?offered[\w\s]*:\s*", "", line, flags=re.IGNORECASE)
                     for token in re.split(r"[,/;]", term_text):
@@ -180,11 +157,10 @@ def scrape_program(name, url):
                         if "summer" in token:
                             offerings.append("summer")
 
-        # year standing from prerequisite text
         if prerequisites:
-            ys_match = re.search(r"\b(second|third|fourth|2nd|3rd|4th)[- ]year\s+standing", prerequisites, re.IGNORECASE)
-            if ys_match:
-                word = ys_match.group(1).lower()
+            ys = re.search(r"\b(second|third|fourth|2nd|3rd|4th)[- ]year\s+standing", prerequisites, re.IGNORECASE)
+            if ys:
+                word = ys.group(1).lower()
                 year_standing = {"second": 2, "2nd": 2, "third": 3, "3rd": 3, "fourth": 4, "4th": 4}[word]
 
         # concurrent prerequisites are course codes that appear in a concurrent clause
@@ -200,81 +176,98 @@ def scrape_program(name, url):
             )
             for item in concurrent_raw:
                 concurrent_prerequisites.extend(COURSE_RE.findall(item))
-            concurrent_prerequisites = list(dict.fromkeys(concurrent_prerequisites))  # deduplicate, preserve order
+            concurrent_prerequisites = list(dict.fromkeys(concurrent_prerequisites))
 
         courses.append({
             "code": code,
             "name": course_name,
             "credit": credit,
-            "description": description,
+            "description": desc,
             "prerequisites": prerequisites,
             "offerings": offerings,
             "year_standing": year_standing,
             "concurrent_prerequisites": concurrent_prerequisites,
         })
 
-    free_electives = scrape_free_electives(soup)
-    programs = scrape_program_requirements(soup)
+    free_electives = scrape_free_electives(sel)
+    programs = scrape_program_requirements(sel)
 
     print(f"  {name}: {len(courses)} courses, {len(free_electives)} free elective entries, {len(programs)} degree/stream programs")
     return {"name": name, "url": url, "courses": courses, "free_electives": free_electives, "programs": programs}
 
 
-def _parse_sc_courselist(table):
-    """Parse a single sc_courselist table into a list of requirement dicts."""
-    COURSE_RE = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
-    CREDIT_BRACKET_RE = re.compile(r'\[([0-9.]+)\]')
-    NUMBERED_PREFIX_RE = re.compile(r'^\s*[A-Z0-9]+\.\s+')
+# ── Program requirements scraping ─────────────────────────────────────────────
 
+def _parse_sc_courselist(table_sel):
+    """Parse a single sc_courselist table (parsel Selector) into requirement dicts."""
     requirements = []
-    current_type = "required"
+    section_type = "required"
+    current_type  = "required"
 
-    for row in table.find_all("tr"):
-        classes = set(row.get("class") or [])
+    choose_buffer  = []
+    choose_credits = None
+    choose_desc    = ""
+
+    def flush_choose():
+        nonlocal current_type
+        if choose_buffer:
+            requirements.append({
+                "type": "choose",
+                "courses": list(choose_buffer),
+                "credits": choose_credits,
+                "description": choose_desc,
+            })
+        choose_buffer.clear()
+        current_type = section_type
+
+    for row in table_sel.css("tr"):
+        classes = _row_classes(row)
 
         if "listsum" in classes:
             continue
-
-        tds = row.find_all("td")
-        if not tds:
+        if not row.css("td"):
             continue
 
         # section header, updates the type context for subsequent rows
         if "areaheader" in classes:
-            text = row.get_text(" ", strip=True).replace("\xa0", " ").lower()
-            if re.search(r"choose|select|one of", text):
-                current_type = "choose"
-            elif "elective" in text:
-                current_type = "elective"
+            flush_choose()
+            text  = _clean(" ".join(row.css("::text").getall()))
+            lower = text.lower()
+
+            cred = _credits_from_text(text)
+
+            if CHOOSE_RE.search(lower):
+                section_type = current_type = "choose"
+                choose_credits = cred
+                choose_desc    = NUMBERED_PREFIX.sub("", text).strip()
+            elif "elective" in lower:
+                section_type = current_type = "elective"
             else:
-                current_type = "required"
+                section_type = current_type = "required"
             continue
 
-        hours_td = row.select_one("td.hourscol")
-        credits_text = hours_td.get_text(strip=True) if hours_td else ""
+        # ── Credit value from hourscol ────────────────────────────────────────
+        credits_text = row.css("td.hourscol::text").get("").strip()
         try:
             credits = float(credits_text)
-        except (ValueError, TypeError):
+        except ValueError:
             credits = None
 
-        code_td = row.select_one("td.codecol")
+        code_td = row.css("td.codecol")
 
+        # ── Row with a course code cell ───────────────────────────────────────
         if code_td:
-            # Specific course row
-            code_text = code_td.get_text(" ", strip=True).replace("\xa0", " ")
-            courses = COURSE_RE.findall(code_text)
+            code_text = _clean(" ".join(code_td.css("::text").getall()))
+            courses   = COURSE_RE.findall(code_text)
 
-            # Course name is in the td that is neither codecol nor hourscol
-            name_td = next(
-                (td for td in tds
-                 if "codecol" not in (td.get("class") or [])
-                 and "hourscol" not in (td.get("class") or [])),
-                None,
+            # title td = first td that isn't codecol or hourscol
+            title_td = row.xpath(
+                'td[not(contains(@class,"codecol")) and not(contains(@class,"hourscol"))][1]'
             )
-            description = name_td.get_text(" ", strip=True).replace("\xa0", " ") if name_td else ""
+            description = _clean(" ".join(title_td.css("::text").getall())) if title_td else ""
 
-            # Credit is bracketed in the code column, e.g. "COMP 1405 [0.5]"
-            m = CREDIT_BRACKET_RE.search(code_text)
+            # credit may be encoded as [0.5] in the code cell
+            m = CREDIT_BRACKET.search(code_text)
             if m:
                 try:
                     credits = float(m.group(1))
@@ -284,77 +277,102 @@ def _parse_sc_courselist(table):
             if not courses:
                 continue
 
-            requirements.append({
-                "type": current_type,
-                "courses": courses,
-                "credits": credits,
-                "description": description,
-            })
-        else:
-            # sub-requirement row with no specific course code
-            desc_td = next(
-                (td for td in tds if "hourscol" not in (td.get("class") or [])),
-                tds[0],
-            )
-            text = desc_td.get_text(" ", strip=True).replace("\xa0", " ")
+            row_type = "choose" if "orclass" in classes else current_type
 
-            if not text.strip():
-                continue
+            if row_type == "choose":
+                choose_buffer.extend(courses)
+            else:
+                flush_choose()
+                requirements.append({
+                    "type": row_type,
+                    "courses": courses,
+                    "credits": credits,
+                    "description": description,
+                })
+
+        # ── Description-only row (no codecol) ────────────────────────────────
+        else:
+            desc_td = row.xpath('td[not(contains(@class,"hourscol"))][1]')
+            text = _clean(" ".join(desc_td.css("::text").getall())) if desc_td else ""
 
             # group header rows like "1.  6.5 credits in:" just label a block, skip them
             if re.search(r":\s*$", text.strip()):
                 continue
 
-            # Determine type from text when not already in a choose/elective section
             lower = text.lower()
-            if "elective" in lower:
-                row_type = "elective"
-            elif re.search(r"\bchoose\b|\bselect\b", lower):
-                row_type = "choose"
-            elif current_type != "required":
-                row_type = current_type
-            else:
-                # Vague credit requirements (e.g. "2.0 credits in COMP at the 4000-level")
-                row_type = "elective"
+            is_choose_hdr = bool(CHOOSE_RE.search(lower) or re.search(r"\bchoose\b|\bselect\b", lower))
 
-            # Credits may be embedded in text when hourscol is empty
+            # pure section sub-label ending with ":" — flush and skip
+            if text.strip().endswith(":") and not is_choose_hdr:
+                flush_choose()
+                continue
+
+            courses    = COURSE_RE.findall(text)
+
+            # skip pure annotation rows — but not choose sub-headers or rows with embedded
+            # course codes inside an active choose/elective section
+            if row.css(".courselistcomment") and not row.css("td.areaheader") \
+                    and not is_choose_hdr and not (current_type != "required" and courses):
+                continue
+
             if credits is None:
-                m = re.search(r'\b(\d+\.?\d*)\s+credit', lower)
-                if m:
-                    try:
-                        credits = float(m.group(1))
-                    except ValueError:
-                        pass
+                credits = _credits_from_text(lower)
+            clean_text = NUMBERED_PREFIX.sub("", text).strip()
 
-            courses = COURSE_RE.findall(text)
-            clean_text = NUMBERED_PREFIX_RE.sub("", text).strip()
+            if is_choose_hdr:
+                if courses:
+                    choose_buffer.extend(courses)
+                else:
+                    # description-only choose sub-header ("1.0 credit from:") —
+                    # flush current block and start a new one
+                    flush_choose()
+                    current_type   = "choose"
+                    choose_credits = credits
+                    choose_desc    = clean_text
+            elif current_type != "required" and courses:
+                # description row that embeds course codes inside a choose/elective section
+                choose_buffer.extend(courses)
+            else:
+                flush_choose()
+                row_type = "elective" if "elective" in lower else "elective"
+                requirements.append({
+                    "type": row_type,
+                    "courses": courses,
+                    "credits": credits,
+                    "description": clean_text,
+                })
 
-            requirements.append({
-                "type": row_type,
-                "courses": courses,
-                "credits": credits,
-                "description": clean_text,
-            })
-
+    flush_choose()
     return requirements
 
 
-def scrape_program_requirements(soup):
-    """Extract structured degree/stream requirements from sc_courselist tables."""
-    programs = []
-    degree_index = {}  # degree text -> index in programs list
+def scrape_program_requirements(sel):
+    """Extract structured degree/stream requirements from all sc_courselist tables."""
+    programs     = []
+    degree_index = {}
 
-    for table in soup.select("table.sc_courselist"):
-        # Walk backward to find the nearest plain h3 (no toggle/red class) = degree heading
+    for table in sel.css("table.sc_courselist"):
+        # Nearest preceding plain h3/h4 (no toggle/red class) = degree heading.
+        # preceding:: axis is in document order so last element = nearest.
         degree = ""
-        for prev in table.find_all_previous("h3"):
-            prev_classes = set(prev.get("class") or [])
-            if not prev_classes & {"toggle", "red"}:
-                degree = prev.get_text(" ", strip=True).replace("\xa0", " ").strip()
+        headings = table.xpath(
+            "preceding::*[self::h3 or self::h4]"
+            "[not(contains(@class,'toggle'))]"
+            "[not(contains(@class,'red'))]"
+        )
+        for heading in reversed(list(headings)):
+            text = _clean(" ".join(heading.css("::text").getall()))
+            if text:
+                degree = text
                 break
 
         if not degree:
-            continue  # category or ancillary table, skip
+            continue
+
+        # skip pure note tables (courselistcomment first row, no areaheader, no course rows)
+        first_row = table.css("tr:first-child")
+        if first_row.css(".courselistcomment") and not table.css("tr.areaheader") and not table.css("td.codecol"):
+            continue
 
         requirements = _parse_sc_courselist(table)
         if not requirements:
@@ -369,44 +387,36 @@ def scrape_program_requirements(soup):
     return programs
 
 
-def scrape_free_electives(soup):
+def scrape_free_electives(sel):
     entries = []
 
-    # h3.toggle sections labelled "Free Electives", these describe what qualifies
-    for h3 in soup.find_all("h3", class_="toggle"):
-        if "free elective" not in h3.get_text(strip=True).lower():
+    for h3 in sel.css("h3.toggle"):
+        if "free elective" not in h3.css("::text").get("").lower():
             continue
         desc_parts = []
-        for sib in h3.next_siblings:
-            if sib.name in ("h3", "h2", "h1"):
+        for sib in h3.xpath("following-sibling::*"):
+            if sib.root.tag in ("h3", "h2", "h1"):
                 break
-            if hasattr(sib, "get_text"):
-                text = sib.get_text(" ", strip=True)
-                if text:
-                    desc_parts.append(text)
+            t = _clean(" ".join(sib.css("::text").getall()))
+            if t:
+                desc_parts.append(t)
         if desc_parts:
-            text = " ".join(desc_parts).replace("\xa0", " ")
+            text = " ".join(desc_parts)
             if not any(e["text"] == text for e in entries):
                 entries.append({"type": "definition", "text": text})
 
-    # 2. sc_courselist table rows that state free elective credit requirements
     seen = set()
-    for row in soup.select("table.sc_courselist tr"):
-        text = row.get_text(" ", strip=True)
+    for row in sel.css("table.sc_courselist tr"):
+        text = _clean(" ".join(row.css("::text").getall()))
         if "free elective" not in text.lower():
             continue
 
-        # credit amount is in the hourscol td
-        hours_td = row.select_one("td.hourscol")
-        credits = hours_td.get_text(strip=True) if hours_td else ""
+        credits = row.css("td.hourscol::text").get("").strip()
 
-        # nearest preceding degree-title heading (h3 with an id)
+        # nearest preceding h3 with text
         degree = ""
-        for prev in row.find_all_previous("h3"):
-            prev_text = prev.get_text(" ", strip=True)
-            if prev_text:
-                degree = prev_text
-                break
+        for h in row.xpath("preceding::h3[1]"):
+            degree = _clean(" ".join(h.css("::text").getall()))
 
         key = (degree, text)
         if key in seen:
@@ -417,29 +427,30 @@ def scrape_free_electives(soup):
             "type": "requirement",
             "degree": degree,
             "credits": credits,
-            "text": text.replace("\xa0", " "),
+            "text": text,
         })
 
     return entries
 
 
-_SCHEDULE_BASE = "https://central.carleton.ca/prod/bwckctlg.p_disp_listcrse"
+# ── Offerings scraping (class schedule) ──────────────────────────────────────
+
+_SCHEDULE_BASE  = "https://central.carleton.ca/prod/bwckctlg.p_disp_listcrse"
 _COURSE_CODE_RE = re.compile(r"\b([A-Z]{2,4} \d{4}[A-Z]?)\b")
 
 
 def _get_term_codes():
-    """Return (fall_code, winter_code) for the most recent available fall and winter terms."""
     resp = requests.get(
         "https://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT",
         headers=HEADERS, timeout=15,
     )
-    soup = BeautifulSoup(resp.text, "html.parser")
+    sel = Selector(text=resp.text)
     fall_code = winter_code = None
-    for opt in soup.select("select[name=term_code] option"):
-        val = opt.get("value", "")
+    for opt in sel.css("select[name=term_code] option"):
+        val  = opt.attrib.get("value", "")
+        text = opt.css("::text").get("").lower()
         if not val:
             continue
-        text = opt.get_text(strip=True).lower()
         if "fall" in text and fall_code is None:
             fall_code = val
         elif "winter" in text and winter_code is None:
@@ -448,7 +459,6 @@ def _get_term_codes():
 
 
 def _fetch_subject_offerings(term_code, subject):
-    """Return set of course codes offered for a given term + subject."""
     try:
         resp = requests.get(
             _SCHEDULE_BASE,
@@ -459,27 +469,16 @@ def _fetch_subject_offerings(term_code, subject):
         resp.raise_for_status()
     except requests.RequestException:
         return set()
-    soup = BeautifulSoup(resp.text, "html.parser")
+    sel   = Selector(text=resp.text)
     codes = set()
-    for th in soup.find_all("th", class_="ddtitle"):
-        m = _COURSE_CODE_RE.search(th.get_text(strip=True))
+    for th in sel.css("th.ddtitle"):
+        m = _COURSE_CODE_RE.search(th.css("::text").get(""))
         if m:
             codes.add(m.group(1))
     return codes
 
 
 def scrape_offerings(all_programs):
-    """
-    Scrape fall/winter offerings from Carleton's class schedule.
-
-    Uses bwckctlg.p_disp_listcrse which is publicly accessible without login.
-    Derives subject codes from the already-scraped course data so we only
-    query subjects that actually appear in our dataset.
-
-    Returns dict mapping course_code -> list of terms, e.g.
-      {"COMP 1405": ["fall", "winter"], "COMP 4905": ["fall"]}
-    """
-    # Collect all subject codes present in the scraped data
     subjects = set()
     for program in all_programs:
         for course in program.get("courses", []):
@@ -494,11 +493,11 @@ def scrape_offerings(all_programs):
 
     print(f"  Offerings: fall={fall_code}, winter={winter_code}, {len(subjects)} subjects to fetch")
 
-    fall_offered: set = set()
+    fall_offered:   set = set()
     winter_offered: set = set()
 
     for i, subj in enumerate(sorted(subjects), 1):
-        fall_offered |= _fetch_subject_offerings(fall_code, subj)
+        fall_offered   |= _fetch_subject_offerings(fall_code, subj)
         winter_offered |= _fetch_subject_offerings(winter_code, subj)
         if i % 10 == 0:
             print(f"    {i}/{len(subjects)} subjects done")
@@ -517,13 +516,24 @@ def scrape_offerings(all_programs):
     return offerings
 
 
+# ── Entry point ───────────────────────────────────────────────────────────────
+
 def main():
     os.makedirs(_DATA_DIR, exist_ok=True)
+
+    # For departments that share a URL with another dept, keep only matching programs
+    _PROGRAM_KEEP = {
+        "Cybersecurity":        lambda d: "cybersecurity" in d.lower(),
+        "International Business": lambda d: "international business" in d.lower(),
+    }
 
     results = []
     for name, url in PROGRAMS.items():
         print(f"Scraping: {name}")
         data = scrape_program(name, url)
+        if name in _PROGRAM_KEEP:
+            keep = _PROGRAM_KEEP[name]
+            data["programs"] = [p for p in data.get("programs", []) if keep(p.get("degree", ""))]
         results.append(data)
 
         slug = re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
@@ -535,13 +545,11 @@ def main():
     print("\nFetching semester offerings from class schedule...")
     offerings = scrape_offerings(results)
 
-    # Merge offerings into every course object across all programs
     for program in results:
         for course in program.get("courses", []):
             code = course.get("code", "")
             course["offerings"] = offerings.get(code, [])
 
-    # Re-save individual department files with offerings merged in
     for program in results:
         name = program["name"]
         slug = re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
@@ -551,10 +559,8 @@ def main():
     with open(os.path.join(_DATA_DIR, "courses.json"), "w") as f:
         json.dump(results, f, indent=2)
 
-    total = sum(len(p["courses"]) for p in results)
-    with_offerings = sum(
-        1 for p in results for c in p["courses"] if c.get("offerings")
-    )
+    total          = sum(len(p["courses"]) for p in results)
+    with_offerings = sum(1 for p in results for c in p["courses"] if c.get("offerings"))
     print(f"\nDone. {total} courses across {len(results)} programs saved to data/")
     print(f"      {with_offerings} courses have fall/winter offerings data")
 

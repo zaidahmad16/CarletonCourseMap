@@ -38,10 +38,12 @@ Pick a program. The map shows every course requirement, organized by year and se
 - **Backend:** FastAPI with rate limiting, input validation, and API key protection
 - **Data:** PostgreSQL on Neon, handling 50+ program structures and 10,000+ courses
 - **Visualization:** ReactFlow + Dagre for interactive course dependency diagrams
+- **Scraper:** Python with parsel (XPath + CSS) — scrapes the Carleton undergraduate calendar and the Registrar's class schedule for Fall 2026 / Winter 2027 offerings
 
 The backend includes production-grade security: rate limiting, SQL injection protection, CORS restrictions, API authentication, and comprehensive error handling.
 
 ---
+
 
 ## Status
 

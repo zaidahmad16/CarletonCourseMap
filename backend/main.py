@@ -226,15 +226,22 @@ def get_featured_programs():
     return results[:6]
 
 @app.get("/programs/{program_id}")
-@limiter.limit("60/minute")
-def get_program(request: Request, program_id: int):
+
+def get_programs(program_id: int):
+
     conn = get_connection()
     try:
         cur = conn.cursor()
+
         cur.execute("SELECT program_id, dept_id, degree, layout_cols, notes FROM programs WHERE program_id = %s", (program_id,))
         row = cur.fetchone()
+
         if not row:
+            from fastapi import HTTPException
             raise HTTPException(status_code=404, detail="Program not found")
+
+        prog_id, dept_id, degree, layout_cols, notes = row
+
         cur.execute("""
             SELECT type, courses, credits, description, layout_col, layout_row
             FROM program_requirements
@@ -249,35 +256,72 @@ def get_program(request: Request, program_id: int):
             ORDER BY edge_id
         """, (program_id,))
         edges = cur.fetchall()
+
+        # for concentrations, merge in the base degree requirements so the full
+        # program path is visible alongside the concentration-specific courses
+        base_reqs  = []
+        base_edges = []
+        if degree.lower().startswith("concentration in"):
+            cur.execute("""
+                SELECT program_id, degree FROM programs
+                WHERE dept_id = %s
+                  AND program_id != %s
+                  AND degree ILIKE ANY(ARRAY['%%B.A. Honours%%', '%%B.Sc. Honours%%', '%%B.Eng. Honours%%',
+                                             '%%Bachelor%%Honours%%'])
+                ORDER BY program_id
+                LIMIT 1
+            """, (dept_id, program_id))
+            base_row = cur.fetchone()
+            if base_row:
+                base_prog_id = base_row[0]
+                # only pull year 1 and 2 courses from the base program — year 3+ are
+                # largely electives that the concentration already covers
+                cur.execute("""
+                    SELECT type, courses, credits, description, layout_col, layout_row
+                    FROM program_requirements
+                    WHERE program_id = %s
+                      AND layout_col < 2
+                    ORDER BY req_id
+                """, (base_prog_id,))
+                base_reqs = cur.fetchall()
+                cur.execute("""
+                    SELECT source_code, target_code, edge_type
+                    FROM program_edges
+                    WHERE program_id = %s
+                    ORDER BY edge_id
+                """, (base_prog_id,))
+                base_edges = cur.fetchall()
+
         cur.close()
-        return {
-            "program_id": row[0],
-            "dept_id": row[1],
-            "degree": row[2],
-            "layout_cols": row[3],
-            "requirements": [
-                {
-                    "type": r[0],
-                    "courses": r[1],
-                    "credits": float(r[2]) if r[2] else None,
-                    "description": r[3],
-                    "layout_col": r[4],
-                    "layout_row": r[5],
-                } for r in reqs
-            ],
-            "edges": [
-                {"source": e[0], "target": e[1], "type": e[2]}
-                for e in edges
-            ],
-            "notes": row[4] or [],
-        }
-    except HTTPException:
-        raise
-    except Exception as e:
-        logger.error("GET /programs/%s failed: %s", program_id, e, exc_info=True)
-        raise HTTPException(status_code=500, detail="Internal server error")
     finally:
         conn.close()
+
+    # concentration courses come first so their layout positions take priority;
+    # base program courses fill in the remaining slots
+    all_reqs  = list(reqs) + [r for r in base_reqs if r not in reqs]
+    all_edges = list(edges) + [e for e in base_edges if e not in edges]
+
+    return {
+        "program_id": prog_id,
+        "dept_id": dept_id,
+        "degree": degree,
+        "layout_cols": layout_cols,
+        "requirements": [
+            {
+                "type": r[0],
+                "courses": r[1],
+                "credits": float(r[2]) if r[2] else None,
+                "description": r[3],
+                "layout_col": r[4],
+                "layout_row": r[5],
+            } for r in all_reqs
+        ],
+        "edges": [
+            {"source": e[0], "target": e[1], "type": e[2]}
+            for e in all_edges
+        ],
+        "notes": notes or [],
+    }
 
 
 class Edge(BaseModel):

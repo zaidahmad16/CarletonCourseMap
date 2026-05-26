@@ -5,7 +5,7 @@
     {
       "code": "HUMS 1000",
       "name": "Foundational Myths and Histories",
-      "credit": "1.0",
+      "credit": "",
       "description": "Recurring symbols in myth, epic and ritual representing the relation between the sacred and the profane, the origin of the cosmos, the basis of community, and formative human experiences. Primary sources drawn from ancient India and China, Mesopotamia, the Hebrew Bible, and Indigenous cultures.",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -18,7 +18,7 @@
     {
       "code": "HUMS 1200",
       "name": "Humanities and Classical Civilization",
-      "credit": "0.5",
+      "credit": "",
       "description": "The ideas which animated ancient Greek and Roman civilization and which influenced later western cultural movements through a reading of literary, historical, and philosophical works. Authors include Homer, Herodotus, Thucydides, the Greek Tragedians, Plato, Vergil, and Cicero.",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -30,7 +30,7 @@
     {
       "code": "HUMS 1300",
       "name": "Classical Literature and Its Reception",
-      "credit": "0.5",
+      "credit": "",
       "description": "The study of different types of ancient literature and the reception of Classical works in later periods. A focus on writing a research essay.",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -42,7 +42,7 @@
     {
       "code": "HUMS 1500",
       "name": "Introduction to the Humanities: Great Books - Big Ideas",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to major ideas in the Humanities, through some of the most influential and exciting texts from Antiquity to the present day. Works may include the Bible, the Bhagavad Gita, Homer\u2019s Odyssey, Plato\u2019s Republic, Dante\u2019s Inferno, Machiavelli\u2019s The Prince, Shakespeare\u2019s Hamlet, Shelley\u2019s Frankenstein.",
       "prerequisites": "Students in the Bachelor of Humanities are not eligible to register in this course.",
       "offerings": [],
@@ -52,9 +52,9 @@
     {
       "code": "HUMS 2000",
       "name": "Reason and Revelation",
-      "credit": "1.0",
+      "credit": "",
       "description": "The origins of philosophy in ancient Greece and its pursuit in the medieval West, with special attention to knowledge, happiness, and love. Readings include works by Plato, Aristotle, Plotinus, Augustine, Boethius, Aquinas, and Dante.",
-      "prerequisites": "HUMS 1000 and enrolment  in the Bachelor of Humanities program.",
+      "prerequisites": "HUMS 1000 and enrolment in the Bachelor of Humanities program.",
       "offerings": [
         "fall",
         "winter"
@@ -65,7 +65,7 @@
     {
       "code": "HUMS 2101",
       "name": "Art from Antiquity to the Medieval World",
-      "credit": "0.5",
+      "credit": "",
       "description": "A chronological and thematic survey of the Arts from the earliest times to ca. 1400.",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -77,7 +77,7 @@
     {
       "code": "HUMS 2102",
       "name": "Modern European Art 1527-2000",
-      "credit": "0.5",
+      "credit": "",
       "description": "A chronological and thematic survey of the Arts from the sixteenth to the twenty-first century.",
       "prerequisites": "HUMS 2101 and restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -89,7 +89,7 @@
     {
       "code": "HUMS 3000",
       "name": "Culture and Imagination",
-      "credit": "1.0",
+      "credit": "",
       "description": "Major forms of literary, artistic, and philosophical expression from 1500-1800. Sources drawn from renaissance humanism, reformation theology, enlightenment and romantic philosophy.",
       "prerequisites": "HUMS 2000 and enrolment in the Bachelor of Humanities program.",
       "offerings": [
@@ -102,7 +102,7 @@
     {
       "code": "HUMS 3102",
       "name": "Western Music 1000-1850",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to basic theory, harmony, history and interpretation of Western music including the Medieval, Renaissance, Baroque, Classical and early Romantic periods.",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -114,7 +114,7 @@
     {
       "code": "HUMS 3103",
       "name": "Western Music 1850-2000",
-      "credit": "0.5",
+      "credit": "",
       "description": "Western music from the mid-nineteenth century to the present with emphasis on the seminal contributions of Liszt, Wagner, Mahler, Debussy, Stravinsky, Sch\u00f6nberg and others.",
       "prerequisites": "HUMS 3102 and restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -126,7 +126,7 @@
     {
       "code": "HUMS 3200",
       "name": "European Literature",
-      "credit": "1.0",
+      "credit": "",
       "description": "Major movements and works from Dante's Divine Comedy through Voltaire's Candide. Themes include the New Humanism vs. old Chivalry in the Renaissance and Baroque periods; the rise of the modern novel and drama; reason, nature, and the Enlightenment project.",
       "prerequisites": "HUMS 2000 and third-year standing in the Bachelor of Humanities program.",
       "offerings": [
@@ -139,7 +139,7 @@
     {
       "code": "HUMS 3500",
       "name": "Ancient and Medieval Intellectual History",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of some of the major philosophical, religious, political, artistic, and/or literary ideas, works, and movements from Archaic Greece to the High Middle Ages.",
       "prerequisites": "third-year standing in the Bachelor of Humanities program, or permission of the instructor.",
       "offerings": [],
@@ -149,7 +149,7 @@
     {
       "code": "HUMS 3550",
       "name": "Renaissance and Early Modern Intellectual History",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of some of the major philosophical, religious, political, artistic, and/or literary ideas, works, and movements from the Early Renaissance to 1800.",
       "prerequisites": "third-year standing in the Bachelor of Humanities program, or permission of the instructor.",
       "offerings": [],
@@ -159,7 +159,7 @@
     {
       "code": "HUMS 3800",
       "name": "Humanities in Context",
-      "credit": "0.5",
+      "credit": "",
       "description": "Designed for students studying humanities, this travel course explores art, literature, politics, philosophy, architecture, religions, and cultures in their historical and contemporary contexts in a particular geographic locale. Travel destinations and themes vary from year to year.",
       "prerequisites": "2.0 credits in HUMS and permission of the department. Permission of the unit is required to repeat this course.",
       "offerings": [],
@@ -169,7 +169,7 @@
     {
       "code": "HUMS 4000",
       "name": "Politics, Modernity and the Common Good",
-      "credit": "1.0",
+      "credit": "",
       "description": "Modern and post-modern ways of thinking and doing, including revolutionary new ideas in politics, philosophy, culture, economics, and international relations. Thinkers considered include Arendt, Foucault, Hegel, Heidegger, Hobbes, Kant, Marx, Nietzsche, Polanyi, Rousseau, Said, and Taylor.",
       "prerequisites": "HUMS3000 and enrolment in the Bachelor of Humanities program.",
       "offerings": [
@@ -182,7 +182,7 @@
     {
       "code": "HUMS 4001",
       "name": "Directed Studies in the Humanities",
-      "credit": "0.5",
+      "credit": "",
       "description": "A course for independent study and writing, under the supervision of a College designated faculty member. This course involves supervised readings and written essays.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [],
@@ -192,7 +192,7 @@
     {
       "code": "HUMS 4002",
       "name": "Directed Studies in the Humanities",
-      "credit": "0.5",
+      "credit": "",
       "description": "A course for independent study and writing, under the supervision of a College designated faculty member. This course involves supervised readings and written essays.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program and Good Standing in the program.",
       "offerings": [],
@@ -202,7 +202,7 @@
     {
       "code": "HUMS 4103",
       "name": "Science in the Modern World",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the major scientific ideas of our time (such as Big Bang theory, molecular genetics, evolution, atomic structure), and the impact of technology on society (e.g. global warming, pollution, genetically modified foods, viral infections).",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -214,7 +214,7 @@
     {
       "code": "HUMS 4500",
       "name": "Modern Intellectual History",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of some of the major ideas and ideologies from 1800 to the present, including romanticism, liberalism, nationalism, symbolism, socialism, Freudianism, communism, feminism, and postmodernism.",
       "prerequisites": "restricted to students in the Bachelor of Humanities program.",
       "offerings": [
@@ -226,7 +226,7 @@
     {
       "code": "HUMS 4901",
       "name": "Research Seminar: Antiquity to the Middle Ages",
-      "credit": "0.5",
+      "credit": "",
       "description": "An interdisciplinary seminar on a selected topic in the humanities from Antiquity to the Middle Ages. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [
@@ -238,7 +238,7 @@
     {
       "code": "HUMS 4902",
       "name": "Research Seminar: Renaissance to Enlightenment",
-      "credit": "0.5",
+      "credit": "",
       "description": "An interdisciplinary seminar on a selected topic in the humanities from the Renaissance to the Enlightenment. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [
@@ -250,7 +250,7 @@
     {
       "code": "HUMS 4903",
       "name": "Research Seminar: Romanticism to the Present",
-      "credit": "0.5",
+      "credit": "",
       "description": "An interdisciplinary seminar on a selected topic in the humanities from Romanticism to the present. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [
@@ -262,7 +262,7 @@
     {
       "code": "HUMS 4904",
       "name": "Research Seminar: Non-Western Traditions",
-      "credit": "0.5",
+      "credit": "",
       "description": "An interdisciplinary seminar on a selected topic in the humanities as expressed in aboriginal and Non-Western cultures. The topic will vary from year to year.",
       "prerequisites": "fourth-year standing in the Bachelor of Humanities program.",
       "offerings": [],
@@ -272,7 +272,7 @@
     {
       "code": "JOUR 1001",
       "name": "Foundations: Journalism in Context",
-      "credit": "0.5",
+      "credit": "",
       "description": "Charting evolution of journalism in the West from roots as community creator to guardian of democracy, including greatest scoops and worst misdeeds.  From ancient news-sharing to 21st Century digital journalism, surveying ethical, political, economic and technological contexts that shaped news media as institutions/industries.",
       "prerequisites": "Open to all programs, with priority to BJ students.",
       "offerings": [
@@ -284,7 +284,7 @@
     {
       "code": "JOUR 1002",
       "name": "Foundations: Practicing Journalism in a Diverse Society",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduces students to concepts, issues and challenges in the contemporary Canadian media environment that shapes their professional role as practicing journalists. Also provides students with initial opportunity to practice basic writing, editing and reporting skills in preparation for professional online journalism, media or fact-driven fields.",
       "prerequisites": "Registration in the BJ or BJHUM program or the minor in News Media and Information.",
       "offerings": [
@@ -296,7 +296,7 @@
     {
       "code": "JOUR 1004",
       "name": "Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "",
       "offerings": [],
@@ -306,7 +306,7 @@
     {
       "code": "JOUR 1101",
       "name": "Indigenous Storytelling",
-      "credit": "0.5",
+      "credit": "",
       "description": "Storytelling is a traditional method used in Indigenous cultures that teaches cultural beliefs, values, customs, history, and ways of life. In this course, storytelling will be the foundation for experiential/holistic learning and relationship-building. You'll examine how Indigenous storytelling traditions intersect and contrast with Western journalism.",
       "prerequisites": "Enrolment in Journalism in Indigenous Communities Certificate program.",
       "offerings": [
@@ -318,7 +318,7 @@
     {
       "code": "JOUR 1102",
       "name": "Foundations of Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course introduces you to the context, concepts, issues and challenges in contemporary Canadian media that will shape your professional role as practicing journalist.  You'll examine the state of the media, advocacy, social media and ethics, plus discuss Indigenous representation in the mainstream media.",
       "prerequisites": "Enrolment in Certificate in Journalism in Indigenous Communities program.",
       "offerings": [
@@ -330,7 +330,7 @@
     {
       "code": "JOUR 1103",
       "name": "Fundamentals of Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Learn how to think and work like a journalist in this course.  You'll receive detailed feedback, mentoring from experienced journalist-instructors and teaching assistants.  You'll build skills in interviewing, writing, storytelling, editing and ethics while covering wide scope of topics in your Indigenous community.",
       "prerequisites": "Enrolment in Certificate in Journalism in Indigenous Communities program.",
       "offerings": [
@@ -342,7 +342,7 @@
     {
       "code": "JOUR 1104",
       "name": "Introduction to Audio Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Radio is a popular media format in Indigenous communities.  In this intensive workshop course, you will learn to pitch stories, report from the field, write conversationally, record voice and natural sound, edit audio files and produce compelling audio reports, radio newscasts and podcasts.",
       "prerequisites": "Enrolment in Journalism in Indigenous Communities Certificate program and JOUR 1102 and JOUR 1103 .",
       "offerings": [
@@ -354,7 +354,7 @@
     {
       "code": "JOUR 1105",
       "name": "Digital and Photojournalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Further development of your digital journalism skills.  Students will receive instruction in online reporting and publishing, as well as learn the fundamentals of news storytelling through smartphone photography, including how to find visually newsworthy stories, and the ethics of photojournalism in Indigenous settings.",
       "prerequisites": "Enrolment in Journalism in Indigenous Communities Certificate program and JOUR 1102 and JOUR 1103 .",
       "offerings": [
@@ -366,7 +366,7 @@
     {
       "code": "JOUR 1106",
       "name": "Entrepreneurial Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Beginning with freelancer's toolkit, you'll learn to compete in a workforce that increasingly values an entrepreneurial mindset.  You'll be trained to find and sell real stories and grow your brand.  You'll explore innovative ways to reach audiences, fund your career as media professional.",
       "prerequisites": "Enrolment in Journalism in Indigenous Communities Certificate program and JOUR 1102 and JOUR 1103 .",
       "offerings": [
@@ -378,7 +378,7 @@
     {
       "code": "JOUR 1107",
       "name": "Internships",
-      "credit": "1.0",
+      "credit": "",
       "description": "During a two-week internship in a news or media organization, you'll have an opportunity to apply what you learned in the classroom to actual day-to-day work of reporting, writing, and producing news for an audience.  Evaluations and student reflections round out the internship experience.",
       "prerequisites": "Enrolment in Journalism in Indigenous Communities Certificate program and JOUR 1102 and JOUR 1103 .",
       "offerings": [
@@ -390,7 +390,7 @@
     {
       "code": "JOUR 1108",
       "name": "Introduction to Video Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Pictures are powerful, and this is where you'll learn how to handle them.  As you master visual literacy skills, you'll report, shoot and edit video stories.  You'll work \"live\" in studio and from field, producing range of material using smartphones and DSLR cameras.",
       "prerequisites": "Enrolment in Journalism in Indigenous Communities Certificate program and JOUR 1102 and JOUR 1103 .",
       "offerings": [],
@@ -400,7 +400,7 @@
     {
       "code": "JOUR 2003",
       "name": "Delivering Journalism: Innovators v. Imposters",
-      "credit": "0.5",
+      "credit": "",
       "description": "Activists, imposters and innovators increasingly crowd in on traditional journalism\u2019s role of presenting reliable news and fair discussion. How is public awareness now shaped \u2013 and misshaped \u2013 and how must journalism reshape, update and defend its borders to serve communities better?.",
       "prerequisites": "JOUR 1001 , JOUR 1002 , or permission of the School of Journalism and Communication.",
       "offerings": [],
@@ -410,7 +410,7 @@
     {
       "code": "JOUR 2106",
       "name": "The Documentary",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of the work of individual film makers, of documentary styles and of organizations and institutions in the context of the history of documentary film making, including documentaries made for television. Non-fiction films other than documentaries may be considered.",
       "prerequisites": "FILM 1101 or FILM 1120 , or second-year standing, or permission of the Discipline.",
       "offerings": [
@@ -422,7 +422,7 @@
     {
       "code": "JOUR 2201",
       "name": "Fundamentals of Reporting",
-      "credit": "1.0",
+      "credit": "",
       "description": "Intro to techniques journalists use gathering information quickly, accurately and ethically, to present reports and features in clear, engaging ways. Newsroom exercises provide experience in reporting, writing, editing, using digital tools, including audio editing software, spreadsheets, digital cameras, social media and emerging web-based digital tools.",
       "prerequisites": "JOUR 1001 and JOUR 1002 and second year standing in the Bachelor of Journalism program.",
       "offerings": [
@@ -435,7 +435,7 @@
     {
       "code": "JOUR 2203",
       "name": "Civics for Journalists",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course offers an overview of key public institutions and civil society organizations in Canada to prepare aspiring journalists to effectively and critically engage with these actors in generating important and illuminating coverage of public affairs.",
       "prerequisites": "JOUR 1001 and JOUR 1002 and second year standing in the BJ program or BJHUM program or the minor in News Media and Information.",
       "offerings": [
@@ -447,7 +447,7 @@
     {
       "code": "JOUR 2400",
       "name": "Media Law and Ethics in a Digital World",
-      "credit": "0.5",
+      "credit": "",
       "description": "Survey of Canadian laws and ethical issues that affect production and dissemination of digital media, including Charter of Rights and Freedoms, limitations on freedom of the press, including publication bans, libel and contempt of court.  Different approaches to ethical decision-making and their applications.",
       "prerequisites": "JOUR 1001 , JOUR 1002 , COMS 1001 , COMS 1002 , or enrollment in the Minor in News Media and Information, or enrollment in the Communications and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.",
       "offerings": [
@@ -459,7 +459,7 @@
     {
       "code": "JOUR 3105",
       "name": "Questions of Documentary Practice",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theoretical implications of documentary film and documentary television practice.",
       "prerequisites": "1.0 credit in Film Studies at the 2000-level, or permission of the School.",
       "offerings": [],
@@ -469,8 +469,8 @@
     {
       "code": "JOUR 3207",
       "name": "Audio Journalism",
-      "credit": "0.5",
-      "description": "In this workshop students will build on the principles and practices of audio journalism to produce stories and audio  in various formats suitable for radio and digital publication.  Note: and may not be taken in the same term.",
+      "credit": "",
+      "description": "In this workshop students will build on the principles and practices of audio journalism to produce stories and audio  in various formats suitable for radio and digital publication.  Note:  JOUR 3207  and  JOUR 3208  may not be taken in the same term.",
       "prerequisites": "JOUR 2201 , JOUR 2202, and JOUR 2400 with a grade of C or higher in each.",
       "offerings": [
         "fall",
@@ -482,8 +482,8 @@
     {
       "code": "JOUR 3208",
       "name": "Video Journalism",
-      "credit": "0.5",
-      "description": "In this workshop students will build on the principles and practices of video journalism to produce stories and video in various formats suitable for television and digital publication.  Note: and may not be taken in the same term.",
+      "credit": "",
+      "description": "In this workshop students will build on the principles and practices of video journalism to produce stories and video in various formats suitable for television and digital publication.  Note:  JOUR 3207  and  JOUR 3208  may not be taken in the same term.",
       "prerequisites": "JOUR 2201 , JOUR 2202, and JOUR 2400 with a grade of C or higher in each.",
       "offerings": [
         "fall",
@@ -495,7 +495,7 @@
     {
       "code": "JOUR 3225",
       "name": "Reporting in Depth",
-      "credit": "0.5",
+      "credit": "",
       "description": "Long-form journalistic writing skills development; techniques for thorough investigation of timely public issues. Study of outstanding feature and investigative writing examples. Students will pursue their own reporting projects.",
       "prerequisites": "JOUR 2201 , JOUR 2202, and JOUR 2400 with a grade of C or higher in each.",
       "offerings": [
@@ -508,7 +508,7 @@
     {
       "code": "JOUR 3235",
       "name": "Digital Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Further development of digital journalism skills. Students will produce journalism for online audiences using formats including written and spoken language, still and moving images.",
       "prerequisites": "JOUR 2201 , JOUR 2202, and JOUR 2400 with a grade of C or higher in each.",
       "offerings": [
@@ -521,7 +521,7 @@
     {
       "code": "JOUR 3300",
       "name": "Media Ethics in a Digital World",
-      "credit": "0.5",
+      "credit": "",
       "description": "Ethical issues related to production and dissemination of news and other forms of content as they relate to digital environments. Different approaches to ethical decision-making and their application in contemporary settings.",
       "prerequisites": "JOUR 2201 , JOUR 2202 and JOUR 2501 with a grade of C or higher in each, or JOUR 2003 and JOUR 2501 with a grade of C or higher in each and enrollment in the Minor in News Media and Information.",
       "offerings": [
@@ -534,7 +534,7 @@
     {
       "code": "JOUR 3400",
       "name": "Selected Topic in Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "third-year standing in the Bachelor of Journalism or permission of the School of Journalism and Communication.",
       "offerings": [],
@@ -544,7 +544,7 @@
     {
       "code": "JOUR 3401",
       "name": "Selected Topic in Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.",
       "offerings": [],
@@ -554,7 +554,7 @@
     {
       "code": "JOUR 3402",
       "name": "Selected Topic in Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.",
       "offerings": [],
@@ -564,7 +564,7 @@
     {
       "code": "JOUR 3407",
       "name": "Comparative Media Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "The comparative study of one or more media organizations and/or types of media content with reference to their operation, audiences, and impacts.",
       "prerequisites": "third-year standing in B.J. Hons. or permission of the School of Journalism and Communication.",
       "offerings": [],
@@ -574,7 +574,7 @@
     {
       "code": "JOUR 4001",
       "name": "Journalism  Now - and Next",
-      "credit": "0.5",
+      "credit": "",
       "description": "Changes occurring in the media, in the public\u2019s relationship with the media and how journalists and news organizations respond. Practical issues and challenges in the professional life of a journalist.",
       "prerequisites": "fourth-year standing in the Bachelor of Journalism or in the Bachelor of Media Production and Design, or fourth-year standing and enrollment in the Minor in News Media and Information, or fourth-year standing in the Strategic Public Opinion stream of the Communication and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management.",
       "offerings": [
@@ -586,7 +586,7 @@
     {
       "code": "JOUR 4003",
       "name": "The Digital Hub: Advanced Multimedia",
-      "credit": "0.5",
+      "credit": "",
       "description": "A workshop designed to give students instruction in digital reporting and publishing as they produce stories from across the city and beyond.",
       "prerequisites": "JOUR 3235 with a grade of C or higher and fourth-year standing in B.J. Hons.",
       "offerings": [
@@ -599,7 +599,7 @@
     {
       "code": "JOUR 4004",
       "name": "The Digital Hub:  Advanced Audio",
-      "credit": "0.5",
+      "credit": "",
       "description": "A workshop designed to give students instruction in audio journalism as they produce stories from across the city and beyond.",
       "prerequisites": "JOUR 3207 with a grade of C or higher and fourth-year standing in B.J. Hons.",
       "offerings": [
@@ -612,7 +612,7 @@
     {
       "code": "JOUR 4005",
       "name": "The Digital Hub: Advanced Video",
-      "credit": "0.5",
+      "credit": "",
       "description": "A workshop designed to give students instruction in video journalism as they produce stories from across the city and beyond.",
       "prerequisites": "JOUR 3208 with a grade of C or higher and fourth-year standing in B.J. Hons.",
       "offerings": [
@@ -624,7 +624,7 @@
     {
       "code": "JOUR 4100",
       "name": "Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses. Seminar three hours a week.",
       "prerequisites": "",
       "offerings": [],
@@ -634,7 +634,7 @@
     {
       "code": "JOUR 4101",
       "name": "Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of a topic in journalism not covered in depth in other courses. Topics may vary from year to year.",
       "prerequisites": "",
       "offerings": [],
@@ -644,7 +644,7 @@
     {
       "code": "JOUR 4300",
       "name": "Specialized Journalism:  Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic not covered in depth in other specialized journalism courses. Topics may vary from year to year. Emphasis on explanatory/analytical reporting, culminating in an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [
@@ -656,7 +656,7 @@
     {
       "code": "JOUR 4301",
       "name": "Specialized Journalism: Business and the Markets",
-      "credit": "0.5",
+      "credit": "",
       "description": "Core skills development for business journalism: reading financial documents, covering activities of corporations, functioning of stock and other markets, trade policy and the broader economy, focus on contemporary business news and local publicly-traded companies. Emphasis on explanatory/analytical reporting, production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [],
@@ -666,7 +666,7 @@
     {
       "code": "JOUR 4302",
       "name": "Specialized Journalism: Business and Canadian Society",
-      "credit": "0.5",
+      "credit": "",
       "description": "The intersection between business and public policy, from climate change to taxation, pensions, labour and corporate social responsibility. What business does and how the media covers it. Emphasis on explanatory/analytical reporting, production of a related data project as an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [],
@@ -676,7 +676,7 @@
     {
       "code": "JOUR 4303",
       "name": "Specialized Journalism: Health and Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "The culture of health science research and major trends; key challenges confronting researchers and health science journalists around the world. Emphasis on explanatory/analytical reporting, production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [
@@ -688,7 +688,7 @@
     {
       "code": "JOUR 4304",
       "name": "Specialized Journalism: Environment and Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major trends and research culture in climate and environmental sciences, focusing on key global concerns. Issues facing researchers and journalists. Focus on explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [],
@@ -698,7 +698,7 @@
     {
       "code": "JOUR 4305",
       "name": "Specialized Journalism: Canada and the U.S.",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of the unique issues in Canada-U.S. relations, from diplomacy to trade. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [],
@@ -708,7 +708,7 @@
     {
       "code": "JOUR 4306",
       "name": "Specialized Journalism: Canada and the World",
-      "credit": "0.5",
+      "credit": "",
       "description": "Diplomacy, war, terrorism, migration, the international economy, development and other issues of interest to journalists who want to write about Canada and international affairs. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [],
@@ -718,7 +718,7 @@
     {
       "code": "JOUR 4308",
       "name": "Specialized Journalism: Sports and Sport Culture",
-      "credit": "0.5",
+      "credit": "",
       "description": "Workshop equipping students with the skills to move beyond the clich\u00e9s of sports writing and live event coverage. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
@@ -730,7 +730,7 @@
     {
       "code": "JOUR 4309",
       "name": "Specialized Journalism: Arts and Culture",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students are introduced to arts and culture journalism, exploring issues and trends that are key to understanding and covering the arts and related cultural policy in Canada. Emphasis on explanatory/analytical reporting, culminating in an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
@@ -743,7 +743,7 @@
     {
       "code": "JOUR 4311",
       "name": "Specialized Journalism: Justice and The Supreme Court",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of the Supreme Court of Canada, and the role of journalists in covering it. Students attend hearings and gain insight into the court\u2019s role in the making and shaping of Canada. Emphasis on explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
@@ -755,7 +755,7 @@
     {
       "code": "JOUR 4313",
       "name": "Specialized Journalism: Reporting in Indigenous Communities",
-      "credit": "0.5",
+      "credit": "",
       "description": "Working in teams to produce multimedia news stories from Indigenous communities in the city of Ottawa and Ottawa Valley region, students will be challenged to confront misrepresentation in the news media and learn to consider new strategies and ethical frameworks for covering Indigenous Peoples.",
       "prerequisites": "",
       "offerings": [
@@ -767,7 +767,7 @@
     {
       "code": "JOUR 4314",
       "name": "Specialized Journalism: Parliament, Policy and the Press",
-      "credit": "0.5",
+      "credit": "",
       "description": "This seminar course is designed to make students familiar with the way government works; how political parties function within the overall political system; how policies are formulated and implemented; and most importantly, how to report on all of these processes, institutions and events.",
       "prerequisites": "Third or Fourth year B.J. Honours standing, or permission of the School.",
       "offerings": [
@@ -779,7 +779,7 @@
     {
       "code": "JOUR 4400",
       "name": "Professional Skills: Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "third- or fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
@@ -791,7 +791,7 @@
     {
       "code": "JOUR 4401",
       "name": "Professional Skills:  Data Storytelling",
-      "credit": "0.5",
+      "credit": "",
       "description": "Instruction in telling stories from data. Focus on searching for, analyzing and mapping data, turning numbers into powerful narratives.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing.",
       "offerings": [],
@@ -801,7 +801,7 @@
     {
       "code": "JOUR 4402",
       "name": "Professional Skills: Longform Writing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Instruction in longform story production. Focus on researching and writing, including the art and craft of writing for magazines.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing.",
       "offerings": [
@@ -813,7 +813,7 @@
     {
       "code": "JOUR 4403",
       "name": "Professional Skills: Strategic Communication",
-      "credit": "0.5",
+      "credit": "",
       "description": "Workshop pairing student teams with non-profit groups that are in need of strategic communication advice. Instruction in planning and implementation.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing.",
       "offerings": [],
@@ -823,7 +823,7 @@
     {
       "code": "JOUR 4404",
       "name": "Professional Skills: Freelancing for Media Professionals",
-      "credit": "0.5",
+      "credit": "",
       "description": "Workshop preparing students to compete in a market that values the skills and mindset of entrepreneurial media workers.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year standing.",
       "offerings": [
@@ -835,7 +835,7 @@
     {
       "code": "JOUR 4500",
       "name": "Investigating Journalism:  Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of a topic in journalism not covered in depth in other courses.",
       "prerequisites": "third- or fourth-year standing in B.J. Honours or permission of the School.",
       "offerings": [
@@ -847,7 +847,7 @@
     {
       "code": "JOUR 4501",
       "name": "Investigating Journalism:  Gender, Identity and Inequality",
-      "credit": "0.5",
+      "credit": "",
       "description": "How social concepts of gender, identity and inequality influence journalism. Theoretical and textual analysis. Historical and contemporary case studies from mainstream and alternative media exploring journalistic expression, professional practices, status and expectations, and cultural representations.",
       "prerequisites": "third- or fourth-year standing in B.J. Hons. or permission of the School.",
       "offerings": [],
@@ -857,7 +857,7 @@
     {
       "code": "JOUR 4502",
       "name": "Investigating Journalism: Journalism and Conflict",
-      "credit": "0.5",
+      "credit": "",
       "description": "For as long as there has been conflict between peoples, there have been those who bear witness and recount their observations. This course examines journalism and conflict with an emphasis on journalistic perspectives but also through discussion of interdisciplinary literature and academic research.",
       "prerequisites": "fourth-year B.J. Honours standing, or permission of the School.",
       "offerings": [],
@@ -867,7 +867,7 @@
     {
       "code": "JOUR 4504",
       "name": "Investigating Journalism:  The Media and International Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "A critical examination of the use of journalism as an instrument of international development, historically and currently. To what extent have these efforts been successful? On what grounds are they justified? In what regard have they been instruments of propaganda?.",
       "prerequisites": "third-year standing in the Bachelor of Journalism, or third-year standing and enrollment in the Minor in News Media and Information, or permission of the School of Journalism and Communication.",
       "offerings": [],
@@ -877,7 +877,7 @@
     {
       "code": "JOUR 4505",
       "name": "Investigating Journalism:  The Power and Politics of Government",
-      "credit": "1.0",
+      "credit": "",
       "description": "In-depth exploration of Canada's government, public policy and politics; parliamentary debate and committee hearings.  Explanatory/analytical reporting; production of an extended work of journalism.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year B.J. Honours standing, or permission of the School.",
       "offerings": [],
@@ -887,7 +887,7 @@
     {
       "code": "JOUR 4506",
       "name": "Investigating Journalism: Trauma-Informed Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Journalists often swoop in at the most difficult moments of a person's life- aftermath of violent incident/catastrophe, tragic death of loved one, or culmination of painful criminal trial. Students will be prepared for ethical, practical and emotional challenges of reporting accurately, sensitively to traumatic events.",
       "prerequisites": "",
       "offerings": [],
@@ -897,7 +897,7 @@
     {
       "code": "JOUR 4507",
       "name": "Investigating Journalism: History of Black Journalism",
-      "credit": "0.5",
+      "credit": "",
       "description": "Charts the development of Canada's Black press from its beginnings in the 1850s to present day.  The course explores the role Canada's Black press has played in Black communities and considers how Black media outlets have covered the most significant stories of the day.",
       "prerequisites": "Third or Fourth-year B.J. Honours standing, or permission of the school.",
       "offerings": [
@@ -909,7 +909,7 @@
     {
       "code": "JOUR 4508",
       "name": "Investigating Journalism: Inclusive Reporting in Practice",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students will learn strategies for inclusive journalism through practical application, focusing on diversity, inclusion, and belonging in Canadian media. Learn to identify biases, self-reflection, and apply inclusive reporting techniques. Write stories that foster belonging, reflect diverse voices, and report with respect, care and cultural awareness.",
       "prerequisites": "JOUR 3225 with a grade of C or higher and fourth-year B.J. Honours standing, or permission of the School.",
       "offerings": [],
@@ -919,7 +919,7 @@
     {
       "code": "JOUR 4900",
       "name": "Honours Tutorial",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students analyze some major achievements in contemporary journalism, through individual or group research. Students also have the opportunity to acquire background and experience in the managerial aspects and production of print and broadcast journalism.",
       "prerequisites": "fourth-year B.J. (Honours) standing.",
       "offerings": [],
@@ -929,7 +929,7 @@
     {
       "code": "JOUR 4999",
       "name": "Science Communication Certificate Professional Development Workshop",
-      "credit": "0.0",
+      "credit": "",
       "description": "A one-day workshop providing practical skills development for becoming an effective science communicator. Topics for discussion will include defining the audience and framing of information, reviews of effective science communication, career opportunities for science communicators, and one-to-one analysis of participants writing skills. Graded SAT/UNS.",
       "prerequisites": "This course is restricted to students enrolled in the Certificate of Science Communication, and who have completed at least 2.0 credits towards the certificate, including one of COMS 2500 or ISAP 3003 .",
       "offerings": [],
@@ -939,287 +939,6 @@
   ],
   "free_electives": [],
   "programs": [
-    {
-      "degree": "Bachelor of Journalism and Humanities B.J. Hum. Honours (20.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 1001"
-          ],
-          "credits": 0.5,
-          "description": "Foundations: Journalism in Context"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 1002"
-          ],
-          "credits": 0.5,
-          "description": "Foundations: Practicing Journalism in a Diverse Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 2201"
-          ],
-          "credits": 1.0,
-          "description": "Fundamentals of Reporting"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 2203"
-          ],
-          "credits": 0.5,
-          "description": "Civics for Journalists"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 2400"
-          ],
-          "credits": 0.5,
-          "description": "Media Law and Ethics in a Digital World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 3207"
-          ],
-          "credits": 0.5,
-          "description": "Audio Journalism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 3208"
-          ],
-          "credits": 0.5,
-          "description": "Video Journalism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 3225"
-          ],
-          "credits": 0.5,
-          "description": "Reporting in Depth"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 3235"
-          ],
-          "credits": 0.5,
-          "description": "Digital Journalism"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "JOUR 4001"
-          ],
-          "credits": 0.5,
-          "description": "Journalism  Now - and Next"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "JOUR 4003",
-            "JOUR 4004",
-            "JOUR 4005"
-          ],
-          "credits": null,
-          "description": "Journalism Publications"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "JOUR 4300",
-            "JOUR 4301",
-            "JOUR 4302",
-            "JOUR 4303",
-            "JOUR 4304",
-            "JOUR 4305",
-            "JOUR 4306",
-            "JOUR 4308",
-            "JOUR 4309",
-            "JOUR 4311",
-            "JOUR 4313",
-            "JOUR 4314"
-          ],
-          "credits": null,
-          "description": "Specialized Journalism"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "JOUR 4400",
-            "JOUR 4401",
-            "JOUR 4402",
-            "JOUR 4403",
-            "JOUR 4404"
-          ],
-          "credits": null,
-          "description": "Professional Skills"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "JOUR 4500",
-            "JOUR 4501",
-            "JOUR 4502",
-            "JOUR 4504",
-            "JOUR 4505",
-            "JOUR 4506",
-            "JOUR 4507",
-            "JOUR 4508"
-          ],
-          "credits": null,
-          "description": "Investigating Journalism"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "HIST 1301",
-            "HIST 1302",
-            "HIST 2301",
-            "HIST 2311",
-            "HIST 2313",
-            "HIST 2314"
-          ],
-          "credits": 0.5,
-          "description": "6.a. 0.5 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "INDG 1010",
-            "INDG 1011",
-            "INDG 2011"
-          ],
-          "credits": 0.5,
-          "description": "b. 0.5 credit from:"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 1000"
-          ],
-          "credits": 1.0,
-          "description": "Foundational Myths and Histories"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 2000"
-          ],
-          "credits": 1.0,
-          "description": "Reason and Revelation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 3000"
-          ],
-          "credits": 1.0,
-          "description": "Culture and Imagination"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 4000"
-          ],
-          "credits": 1.0,
-          "description": "Politics, Modernity and the Common Good"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 1200"
-          ],
-          "credits": 0.5,
-          "description": "Humanities and Classical Civilization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 1300"
-          ],
-          "credits": 0.5,
-          "description": "Classical Literature and Its Reception"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 3200"
-          ],
-          "credits": 1.0,
-          "description": "European Literature"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 2101",
-            "HUMS 2102"
-          ],
-          "credits": 0.5,
-          "description": "Art from Antiquity to the Medieval World Modern European Art 1527-2000"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 3102",
-            "HUMS 3103"
-          ],
-          "credits": 0.5,
-          "description": "Western Music 1000-1850 Western Music 1850-2000"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "RELI 2710"
-          ],
-          "credits": 1.0,
-          "description": "Maccabees to Muhammad"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 4500"
-          ],
-          "credits": 0.5,
-          "description": "Modern Intellectual History"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "HUMS 4103"
-          ],
-          "credits": 0.5,
-          "description": "Science in the Modern World"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "HUMS 4901",
-            "HUMS 4902",
-            "HUMS 4903",
-            "HUMS 4904"
-          ],
-          "credits": 0.5,
-          "description": "0.5 credit from:"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "RELI 1731"
-          ],
-          "credits": 0.5,
-          "description": "Religion and Culture"
-        }
-      ]
-    },
     {
       "degree": "Academic Continuation Evaluation for Bachelor of Journalism and Humanities",
       "requirements": [

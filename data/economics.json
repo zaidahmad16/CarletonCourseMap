@@ -5,7 +5,7 @@
     {
       "code": "ECON 0005",
       "name": "Preparatory Mathematics for Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Review of elementary mathematics in preparation for undergraduate economics curriculum. Topics covered include manipulation of algebraic expressions, solving equations, working with inequalities, functions, and graphical visualization of magnitudes and relationships. Students will engage in problem-solving exercises in the context of basic economic applications.",
       "prerequisites": "Grade 11 Functions (University/College Preparation), or equivalent. Restricted to B.Econ students or permission of the Department.",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "ECON 1000",
       "name": "Introduction to Economics",
-      "credit": "1.0",
+      "credit": "",
       "description": "An introduction to the major tools and policy problems of economics. Economic analysis is applied to a variety of contemporary problems such as pollution, poverty, the control of monopoly, unemployment, inflation, and international economic problems.",
       "prerequisites": "",
       "offerings": [],
@@ -27,7 +27,7 @@
     {
       "code": "ECON 1001",
       "name": "Introduction to Microeconomics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the major tools and policy problems of microeconomics.  Economic analysis is applied to a variety of contemporary issues such as taxation, pollution, wage determination, poverty, market power, and international trade.",
       "prerequisites": "",
       "offerings": [
@@ -40,7 +40,7 @@
     {
       "code": "ECON 1002",
       "name": "Introduction to Macroeconomics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the major tools and policy problems of macroeconomics.  Economic analysis is applied to a variety of contemporary problems such as: saving, investment and interest rates; unemployment; money and inflation; exchange rates;  fiscal and monetary policy.",
       "prerequisites": "",
       "offerings": [
@@ -52,7 +52,7 @@
     {
       "code": "ECON 1401",
       "name": "Elementary Mathematics for Economics I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Elementary mathematical tools required for economic analysis: Topics include linear and non-linear functions (cost, revenue, profit, demand and supply), matrices, and mathematics of finance and growth, graphing economic magnitudes, applied algebra, solving systems of linear equations. In class participation in solving practice problems is emphasized.",
       "prerequisites": "Ontario Grade-12 U Advanced Functions, or ECON 0005 with a minimum grade of C- or higher, or MATH 0005 with a minimum grade of C- or higher, or equivalent; and ECON 1001 or FYSM 1003 , which may be taken concurrently with ECON 1401 .",
       "offerings": [
@@ -67,7 +67,7 @@
     {
       "code": "ECON 1402",
       "name": "Elementary Mathematics for Economics II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Elementary methods of calculus for economic analysis: Topics include derivatives of univariate functions, partial derivatives of multivariate functions, concavity and convexity, elasticity, and optimization (profit and utility maximization and cost minimization subject to a budget constraint). In class participation in solving practice problems is emphasized.",
       "prerequisites": "ECON 1001 or FYSM 1003 with a grade of C- or higher, and ECON 1401 or MATH 1401 with a grade of C- or higher.",
       "offerings": [
@@ -80,7 +80,7 @@
     {
       "code": "ECON 2001",
       "name": "Intermediate Microeconomics for Non-Mathematical Majors",
-      "credit": "0.5",
+      "credit": "",
       "description": "The main topics in microeconomic theory presented in a relatively non-technical manner (e.g., without requiring the knowledge of calculus) with illustrations of their applications. Not open to students in any Economics, B.Com., B.C.S., B.Eng., B.I.D., B.I.T., B.I.B., B.Math., or B.Sc. program.",
       "prerequisites": "ECON 1001 or FYSM 1003 , or permission of the Department.",
       "offerings": [
@@ -92,7 +92,7 @@
     {
       "code": "ECON 2009",
       "name": "Managerial Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An economic analysis of managerial decision-making. Elements of production and cost; price and output determination under perfectly and imperfectly competitive market structures; the role of information; topics in business strategy; and the impact of government intervention.",
       "prerequisites": "ECON 1001 or FYSM 1003 with a grade of C- or higher; MATH 1009 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -102,7 +102,7 @@
     {
       "code": "ECON 2020",
       "name": "Intermediate Microeconomics I: Producers and Market Structure",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theory of the firm: elements of production and cost; input allocation, pricing, and firm behaviour under perfectly and imperfectly competitive market structures; the role of information; game theory and public policy, including basic competition policy.",
       "prerequisites": "ECON 1001 or FYSM 1003 with a grade of C- or higher; ECON 1401 (with a grade of C- or higher) and ECON 1402 , (or equivalent department-approved MATH course pair with a grade of C- or higher in each). May be taken concurrently with ECON 1402 .",
       "offerings": [
@@ -117,7 +117,7 @@
     {
       "code": "ECON 2101",
       "name": "Intermediate Macroeconomics for Non-Mathematical Majors",
-      "credit": "0.5",
+      "credit": "",
       "description": "The main topics in macroeconomic theory presented in a relatively non-technical manner (e.g., without requiring the knowledge of calculus) with illustrations of their application. Not open to students in any Economics, B.Com., B.C.S., B.Eng., B.I.D., B.I.T., B.Math., or B.Sc. program.",
       "prerequisites": "ECON 1002 or FYSM 1003 , or permission of the Department.",
       "offerings": [
@@ -129,7 +129,7 @@
     {
       "code": "ECON 2102",
       "name": "Intermediate Macroeconomics I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the macroeconomic modeling of output in the short and long run, and to fixed-price models of the closed and open economy over the business cycle. Policy prescriptions in relation to the business cycle are analysed.",
       "prerequisites": "ECON 1002 or FYSM 1003 with a grade of C- or higher; ECON 1401 (with a grade of C- or higher) and ECON 1402 , (or equivalent department-approved MATH course pair). May be taken concurrently with ECON 1402 .",
       "offerings": [
@@ -144,7 +144,7 @@
     {
       "code": "ECON 2210",
       "name": "Introductory Statistics for Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Basic statistical methods for the study of economics. Topics include descriptive statistics, elementary probability theory, sampling distributions, estimation and hypothesis testing for one and two population parameters.",
       "prerequisites": "ECON 1401 (with a grade of C- or higher) and ECON 1402 , (or equivalent department-approved MATH course pair). May be taken concurrently with ECON 1402 .",
       "offerings": [
@@ -159,7 +159,7 @@
     {
       "code": "ECON 2708",
       "name": "Applied Data Analysis",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to concepts and tools for using various forms of data to study applied economic problems. Topics may include identifying relevant datasets, collecting and cleaning both research-ready and user-assembled data sets, data visualization, and summary statistics.",
       "prerequisites": "ECON 1401 and ECON 1402 , with a grade of C- or higher (or an equivalent department-approved MATH course pair with a grade of C- or higher in each); and ECON 2210 (or equivalent), with a grade of C+ or higher.",
       "offerings": [
@@ -171,7 +171,7 @@
     {
       "code": "ECON 2900",
       "name": "Professional Practice of Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Development of skills used by professional economists, including writing professional documents such as policy briefs and memos, data visualization, communication of economic ideas in non-technical terms, presentation skills, and team-based problem solving.",
       "prerequisites": "ECON 1001 and ECON 1002 or FYSM 1003 with a grade of C- or higher, and ECON 1401 and ECON 1402 with a grade of C- or higher in each, (or equivalent department approved MATH course pair with a grade of C- or higher in each), and ECON 2210 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -184,7 +184,7 @@
     {
       "code": "ECON 3001",
       "name": "Mathematical Methods of Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Constrained optimization via Lagrange and Kuhn-Tucker conditions; implicit functions and implicit differentiation; comparative static methods applied to models such as utility maximization and least-cost production; homogeneous functions; concave and convex functions; compounding and exponential functions; economic models involving integration; differential equations.",
       "prerequisites": "ECON 1001 or FYSM 1003 with a grade of C- or higher; and ECON 1401 and ECON 1402 with a grade of C- or higher in each, (or an equivalent department-approved MATH course pair with a grade of C- or higher in each); and a combined grade point average in ECON 1401 and ECON 1402 of 6.50 or higher.",
       "offerings": [
@@ -196,7 +196,7 @@
     {
       "code": "ECON 3020",
       "name": "Intermediate Microeconomics II: Consumers and General Equilibrium",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theory of consumer choice and demand; applications to intertemporal choice, labour supply, and/or choice under uncertainty; welfare analysis; general equilibrium theory; externalities and the role of government.",
       "prerequisites": "ECON 2020 with a grade of C- or higher or ECON 2009 with a grade of C+ or higher, and ECON 1401 and ECON 1402 with a grade of C- or higher, (or equivalent department-approved MATH course pair with a grade of C- or higher in each).",
       "offerings": [
@@ -209,7 +209,7 @@
     {
       "code": "ECON 3050",
       "name": "Introduction to Financial Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major theories underlying financial economics: arbitrage, market efficiency, Fisher\u2019s separation theorem. Topics include: impact of cyclical fluctuations on consumption, investment, and financial decisions of consumers/firms, monetary policy and interest rate determination, loans for durables, mortgage loans, bond/stock valuation, investment-decision criteria, risk-return trade-offs, cost-of-capital analysis.",
       "prerequisites": "ECON 1001 and ECON 1002 each with a grade of C- or higher, or FYSM 1003 with a grade of C- or higher, ECON 1401 and ECON 1402 , (or equivalent department-approved MATH course pair with a grade of C- or higher in each), and one of ( BUSI 1001 , BUSI 1003 , BUSI 1005 , BUSI 2008 ) with a grade of C- or higher.",
       "offerings": [
@@ -221,7 +221,7 @@
     {
       "code": "ECON 3102",
       "name": "Intermediate Macroeconomics II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An extension of macroeconomic modeling to the dynamics of wage-price adjustment in the intermediate and long run, to the theoretical foundations of basic macroeconomic relationships, and to contemporary policy issues arising in relation to the business cycle and long-run growth.",
       "prerequisites": "ECON 2102 with a grade of C- or higher, ECON 1001 with a grade of C- or higher, and ECON 1401 and ECON 1402 with a grade of C- or higher, (or equivalent department-approved MATH course pair with a grade of C- or higher in each).",
       "offerings": [
@@ -234,7 +234,7 @@
     {
       "code": "ECON 3201",
       "name": "Economic Thought and Policy in Canada",
-      "credit": "0.5",
+      "credit": "",
       "description": "An account of the interrelationship between economic theories expounded in Canada and their issue in national policy.",
       "prerequisites": "an introductory course in one of the social sciences or Canadian history.",
       "offerings": [],
@@ -244,7 +244,7 @@
     {
       "code": "ECON 3210",
       "name": "Introductory Econometrics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics include correlation, simple and multiple linear regression, and an introduction to statistical computing using an econometrics package. Emphasis on understanding appropriate methods and their properties, as distinct from their formal theoretical development. Empirical applications.",
       "prerequisites": "ECON 2210 (or equivalent) with a grade of C- or higher, and ECON 1401 and ECON 1402 with a grade of C- or higher (or an equivalent department approved MATH course pair with a grade of C- or higher in each), or permission of the Department.",
       "offerings": [
@@ -257,7 +257,7 @@
     {
       "code": "ECON 3220",
       "name": "Canadian Economic History",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey of Canadian economic history from the sixteenth century to the present.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [],
@@ -267,7 +267,7 @@
     {
       "code": "ECON 3230",
       "name": "Selected Topics in Economic History",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of the economic development of North America or Europe or other possible selected sets of countries. Countries examined vary from year to year.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 , or permission of the Department.",
       "offerings": [],
@@ -277,7 +277,7 @@
     {
       "code": "ECON 3300",
       "name": "Public Policy Toward Business",
-      "credit": "0.5",
+      "credit": "",
       "description": "The interaction of government and business in the Canadian economy. Reasons for government involvement in selected public policy areas. Topics covered may include competition policy, regulation of firms by boards and commissions, environmental regulation, and public enterprise.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -287,7 +287,7 @@
     {
       "code": "ECON 3360",
       "name": "Introduction to Labour Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Basic principles of labour economics including market, institutional, and sociological forces. Technology and labour demand, wage systems, human capital, internal wage structure, market discrimination, female labour-force entry, wage-price spiral, household labour supply, and wage determination.",
       "prerequisites": "ECON 1001 and ECON 1002 , or ECON 1000 or FYSM 1003 .",
       "offerings": [
@@ -299,7 +299,7 @@
     {
       "code": "ECON 3370",
       "name": "The Economics of Migration",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the economic aspects of migration. Topics include, among others: the economics of migration within countries; the economics of host country integration of immigrants; the impact of immigration on outcomes in the host country; the impacts of emigration on the home country.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -309,7 +309,7 @@
     {
       "code": "ECON 3380",
       "name": "The Economics of Gender and Ethnicity",
-      "credit": "0.5",
+      "credit": "",
       "description": "The impact of gender and ethnicity on labour-market outcomes. Topics may include: employment, work, earnings, and poverty; discrimination and policy responses; immigration; the economics of the household; gender and development; micro-credit; labour standards.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -319,7 +319,7 @@
     {
       "code": "ECON 3400",
       "name": "History of Economic Thought",
-      "credit": "0.5",
+      "credit": "",
       "description": "The development of economic ideas from ancient times to the modern era. The course will explore contributions of key economic thinkers and examine the evolution of concepts, such as, value, markets, and the role of government in shaping economic policy.",
       "prerequisites": "ECON 1001 and ECON 1002 or FYSM 1003 .",
       "offerings": [],
@@ -329,7 +329,7 @@
     {
       "code": "ECON 3403",
       "name": "Introduction to Public Economics: Expenditures",
-      "credit": "0.5",
+      "credit": "",
       "description": "The role and nature of the government sector in the economy, the theory of public goods, the equity and efficiency effects of public expenditures, voting rules and fiscal politics, techniques of public expenditure analysis, and intergovernmental fiscal relations.",
       "prerequisites": "ECON 1001 and ECON 1002 or ECON 1000 or FYSM 1003 .",
       "offerings": [],
@@ -339,7 +339,7 @@
     {
       "code": "ECON 3405",
       "name": "Introduction to Public Economics: Taxation",
-      "credit": "0.5",
+      "credit": "",
       "description": "The role and nature of the government sector in the economy, principles of taxation, tax equity, incidence and excess burden of taxes, structure of taxes in the economy, role of personal, corporate, sales and wealth taxes, fiscal stabilization policy, and the economics of public debt.",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
       "offerings": [
@@ -351,7 +351,7 @@
     {
       "code": "ECON 3450",
       "name": "Political Economy in the Modern State",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of the role of government in the economy, with  emphasis on alternate forms of social coordination and the advantages and disadvantages of each form in the Canadian system.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [],
@@ -361,7 +361,7 @@
     {
       "code": "ECON 3460",
       "name": "Introduction to Health Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
       "offerings": [
@@ -373,7 +373,7 @@
     {
       "code": "ECON 3508",
       "name": "Introduction to Economic Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "A discussion of the principles of economic development. Application to the problems of the developing countries.",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
       "offerings": [
@@ -385,7 +385,7 @@
     {
       "code": "ECON 3509",
       "name": "Development Planning and Project Evaluation",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the tools used in the planning and evaluation of development projects. Topics include the theory, application, strengths and limitations of cost-benefit analysis and competing approaches, and an examination of project evaluation techniques.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [
@@ -397,7 +397,7 @@
     {
       "code": "ECON 3510",
       "name": "African Economic Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Domestic and international aspects of development problems and policies in the African context. Topics may include human resource development, growth and poverty reduction, domestic resource mobilization, the implications of ethnic diversity, governance, and institutions, and issues of trade, investment, aid, migration, and health.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [],
@@ -407,7 +407,7 @@
     {
       "code": "ECON 3601",
       "name": "Introduction to International Trade",
-      "credit": "0.5",
+      "credit": "",
       "description": "An extension of the basic principles of economics to international trade. Topics covered include the theory of international specialization, tariffs and other barriers to trade, trade liberalization and economic integration, international movements of labour and capital, trade and development.",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
       "offerings": [
@@ -419,7 +419,7 @@
     {
       "code": "ECON 3602",
       "name": "International Monetary Problems",
-      "credit": "0.5",
+      "credit": "",
       "description": "A discussion of the theory and institutions of the international monetary system, and the related balance of payments problems of nation states.",
       "prerequisites": "ECON 1001 and ECON 1002 , or ECON 1000 or FYSM 1003 .",
       "offerings": [
@@ -431,7 +431,7 @@
     {
       "code": "ECON 3607",
       "name": "Monetary and Financial Institutions",
-      "credit": "0.5",
+      "credit": "",
       "description": "The behaviour of financial intermediaries and institutions such as the Bank of Canada, banks and trust companies, and regulatory bodies such as the Canada Deposit Insurance Corporation and the Superintendent of Financial Institutions.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [
@@ -443,7 +443,7 @@
     {
       "code": "ECON 3706",
       "name": "Applied Econometrics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to applied econometric methods with emphasis on the use of the regression model for empirical research. Real-world examples are used extensively to illustrate key concepts. Hands-on computer exercises are an integral part of the course.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 , ECON 2210 (or equivalent) with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C+ or higher.",
       "offerings": [],
@@ -453,7 +453,7 @@
     {
       "code": "ECON 3803",
       "name": "The Economics of Natural Resources",
-      "credit": "0.5",
+      "credit": "",
       "description": "The application of economic analysis to questions concerning natural-resource use, management and conservation, as well as market failures and environmental effects. Policy problems relating to natural resources are discussed.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [
@@ -465,7 +465,7 @@
     {
       "code": "ECON 3804",
       "name": "Environmental Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Microeconomic analysis of environmental issues. Frameworks for measuring environmental costs and benefits. The efficiency of alternative pollution control policies. Applications include air and water pollution and global environmental problems such as ozone depletion and global warming.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -475,7 +475,7 @@
     {
       "code": "ECON 3807",
       "name": "European Economic Integration",
-      "credit": "0.5",
+      "credit": "",
       "description": "A discussion of the theories of free trade areas and customs, monetary, and economic unions, and the related historical experience of Europe. Topics include: currency area and the euro, coordination of fiscal policy and the EU budget, common agricultural policy, labour mobility, and regional policy.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [],
@@ -485,7 +485,7 @@
     {
       "code": "ECON 3808",
       "name": "The Economics of Transition",
-      "credit": "0.5",
+      "credit": "",
       "description": "The transition from state ownership and central planning to mixed ownership structure with resource allocation by market mechanisms. \u201cClassical socialism\u201d is criticized and the processes of transition in countries of Central and Eastern Europe, the former Soviet Union, and Asia are compared.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [
@@ -497,7 +497,7 @@
     {
       "code": "ECON 3820",
       "name": "Topics in Canadian Economic Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Economic analysis applied to selected policy areas, issues or institutions. One or more of the following topics may be dealt with: decision-making by bureaucratic institutions, policy problems arising from poverty, the economics of natural resources and pollution, urban economics.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [],
@@ -507,7 +507,7 @@
     {
       "code": "ECON 3840",
       "name": "An Economic Analysis of Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the application of economic principles and methodology to a variety of legal problems with  emphasis on the theory of property rights and the allocation of resources.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -517,7 +517,7 @@
     {
       "code": "ECON 3850",
       "name": "Economics of Information and the Media",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the economics of information and the media, with a focus on the analysis of production and distribution of information, the application of theory to selected communications-media industries in Canada, and the analysis of existing Canadian policies.",
       "prerequisites": "ECON 1001 or ECON 1000 or FYSM 1003 .",
       "offerings": [],
@@ -527,7 +527,7 @@
     {
       "code": "ECON 3856",
       "name": "Housing Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of housing markets, housing finance, and government housing policy using the tools of microeconomics. Models of demand, supply, and market equilibrium emphasizing the special characteristics of housing, including heterogeneity, durability, and spatial fixity. Relationships to other goods and markets and the wider macroeconomy.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -537,7 +537,7 @@
     {
       "code": "ECON 3860",
       "name": "Agricultural Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of the agricultural industry in the national economy and in low-income societies, with emphasis on the working out of the basic forces that determine supply and demand for the industry, and the functional distribution of income among the factors of production.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -547,7 +547,7 @@
     {
       "code": "ECON 3870",
       "name": "Comparative Economic Systems",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis of the structure, institutions, and performance of alternative economic systems, including capitalism, socialism, and communism. Selected countries are studied as examples of these systems.",
       "prerequisites": "ECON 1001 or FYSM 1003 .",
       "offerings": [],
@@ -557,7 +557,7 @@
     {
       "code": "ECON 3878",
       "name": "Contemporary Economic Issues",
-      "credit": "0.5",
+      "credit": "",
       "description": "Content may vary from year to year and is announced in advance of the registration period.",
       "prerequisites": "",
       "offerings": [],
@@ -567,7 +567,7 @@
     {
       "code": "ECON 3880",
       "name": "Special Studies in Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Content may vary from year to year and is announced in advance of the registration period.",
       "prerequisites": "ECON 1001 and ECON 1002 , or FYSM 1003 .",
       "offerings": [],
@@ -577,7 +577,7 @@
     {
       "code": "ECON 3900",
       "name": "Research Methods in Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "The process of doing basic research in economics: development of the research proposal, finding and critically evaluating relevant literature, model development, methods for locating and collecting economic data, analytical methods, and writing mechanics. This course has a strong practical focus.",
       "prerequisites": "ECON 3020 with a grade of C+ or higher, ECON 3102 with a grade of C+ or higher, ECON 2210 (or equivalent) with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C+ or higher.",
       "offerings": [
@@ -590,7 +590,7 @@
     {
       "code": "ECON 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "Graded Sat/Uns.",
       "prerequisites": "registration in the Honours Economics or Applied Economics Co-operative Education option, satisfactory completion of the Co-op preparation classes offered by the Co-operative Education Office, and permission of the Department.",
       "offerings": [],
@@ -600,7 +600,7 @@
     {
       "code": "ECON 4001",
       "name": "Mathematical Analysis in Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analysis and algebra: set theory, sequences and series, quadratic forms, separation and fixed-point theorems. Static optimization: the Weierstrass, Lagrange, and Kuhn-Tucker theorems; convexity and quasi-convexity; the envelope theorem. Dynamic optimization: the Maximum Principle and Bellman's equation. Applications of these tools to economic theory.",
       "prerequisites": "ECON 3001 with a grade of C+ or higher.",
       "offerings": [
@@ -612,7 +612,7 @@
     {
       "code": "ECON 4002",
       "name": "Statistical Analysis in Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Probability: including conditional probability, random variables and distributions, unconditional and conditional expectations. Distributions: including special distributions and their properties, and sampling distributions of estimators. Nonparametric methods and limit theorems; stochastic processes; simulation and bootstrap methods. Applications of these tools to economic theory.",
       "prerequisites": "ECON 2210 (or equivalent) with a grade of C+ or higher, and ECON 3210 (or equivalent) with a grade of C+ or higher.",
       "offerings": [
@@ -624,7 +624,7 @@
     {
       "code": "ECON 4004",
       "name": "Operations Research: Linear Programming Models",
-      "credit": "0.5",
+      "credit": "",
       "description": "Linear programming, duality, sensitivity analysis, transportation and network problems. Both theory and a wide range of applications are studied.",
       "prerequisites": "ECON 1402 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -634,7 +634,7 @@
     {
       "code": "ECON 4005",
       "name": "Operations Research: Stochastic Models",
-      "credit": "0.5",
+      "credit": "",
       "description": "Dynamic programming, inventory models, queuing, simulation, and non-linear programming.",
       "prerequisites": "ECON 1402 (or equivalent) with a grade of C- or higher, and ECON 2210 (or equivalent) or STAT 2605 or STAT 3502 with a grade of C- or higher.",
       "offerings": [],
@@ -644,7 +644,7 @@
     {
       "code": "ECON 4020",
       "name": "Advanced Microeconomic Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced theory of individual economic behaviour in production, consumption, and general equilibrium. Elementary tools of mathematics are employed in the exposition of most topics.",
       "prerequisites": "ECON 2020 (or ECON 2009 ) and ECON 3020 (or equivalent) each with a grade of C+ or higher; ECON 3001 (or MATH 2001 and MATH 2002 , or MATH 2004 ) with a grade of C+ or higher; and ECON 3210 (or ECON equivalent, or STAT 2605 or STAT 3502 ), which may be taken concurrently with ECON 4020 .",
       "offerings": [
@@ -658,7 +658,7 @@
     {
       "code": "ECON 4021",
       "name": "Advanced Macroeconomic Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to advanced macroeconomic models. Topics may include analysis of business cycles, inflation, unemployment, economic growth, fiscal and monetary policy, consumption decisions of households, and investment decisions of firms.",
       "prerequisites": "ECON 2102 with a grade of C+ or higher; ECON 3102 (or equivalent) with a grade of C+ or higher; ECON 3001 (or MATH 2001 and MATH 2002 , or MATH 2004 ) with a grade of C+ or higher; and ECON 3210 (or ECON equivalent, or STAT 2605 or STAT 3502 ), which may be taken concurrently with ECON 4021 .",
       "offerings": [
@@ -672,7 +672,7 @@
     {
       "code": "ECON 4026",
       "name": "Macroeconomic Dynamics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Dynamic models as applied to topics such as economic growth, business cycles, consumption, investment, inflation, and real-financial linkages. Empirical and/or policy issues may also be discussed.",
       "prerequisites": "ECON 2102 with a grade of C+ or higher; ECON 3102 (or equivalent) with a grade of C+ or higher; ECON 3001 (or MATH 2001 and MATH 2002 , or MATH 2004 ) with a grade of C+ or higher; and ECON 3210 (or ECON equivalent, or STAT 2605 or STAT 3502 ), which may be taken concurrently with ECON 4026 .",
       "offerings": [],
@@ -684,7 +684,7 @@
     {
       "code": "ECON 4030",
       "name": "Economics of Uncertainty and Information",
-      "credit": "0.5",
+      "credit": "",
       "description": "Uncertainty, imperfect information, and asymmetric information in the allocation of resources and the performance of markets. Applications to insurance and financial markets are emphasized.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -694,7 +694,7 @@
     {
       "code": "ECON 4051",
       "name": "Financial Asset Pricing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Factors that drive security prices and models that attempt to account for aspects of security returns, including the generic arbitrage pricing model, the capital asset pricing model (CAPM), the consumption CAPM, and the intertemporal CAPM.",
       "prerequisites": "ECON 3050 with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -706,7 +706,7 @@
     {
       "code": "ECON 4052",
       "name": "Corporate Financial Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Optimization and corporate finance. Corporate governance and managerial compensation. Capital structure and the Modigliani-Miller theorem. Agency theory and asymmetric information. The issue of equity, debt, and other securities. Dividend policy. Investment and capital budgeting, NPV, and real options.",
       "prerequisites": "ECON 3050 with a grade of C- or higher, and ECON 3020 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -718,7 +718,7 @@
     {
       "code": "ECON 4053",
       "name": "Financial Market Modeling",
-      "credit": "0.5",
+      "credit": "",
       "description": "The modeling of the evolution of prices in (near) efficient markets and the evaluation of functions of these prices such as guarantees, options, warrants, futures, and other types of derivatives. Arrow-Debreu state-contingent claims. Notions of complete and incomplete markets.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3001 with a grade of C- or higher.",
       "offerings": [],
@@ -728,7 +728,7 @@
     {
       "code": "ECON 4057",
       "name": "Behavioural Financial Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Market efficiency and the limits of arbitrage. Heuristics and biases identified by behavioural decision theorists and their effect on the behaviour of managers and investors. Behavioural theories of market trading volume and asset prices. Behavioural approaches to corporate financial economics problems.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher, and ECON 3050 or BUSI 2501 with a grade of C- or higher.",
       "offerings": [
@@ -740,7 +740,7 @@
     {
       "code": "ECON 4109",
       "name": "Experimental Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the use of and insights gained from both laboratory- and field-type experimental methods in economic research. Topics include analysis of individual rationality, performance of markets, and design of economic systems. In-class experiments are an integral part of the course.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -752,7 +752,7 @@
     {
       "code": "ECON 4120",
       "name": "Strategy and Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Intersection of modern game theory and behavioral economics. Students will learn about (bounded) rationality and analyze strategic situations by applying concepts such as rationalizability and equilibrium. Applications to market behavior, institutional design, and policy interventions will be discussed.",
       "prerequisites": "ECON 2020 (or ECON 2009 ) and ECON 3020 or ECON 2030 (no longer offered) each with a grade of C+ or higher; and ECON 2210 (or equivalent, or STAT 2507 or STAT 2606 or STAT 3502 ).",
       "offerings": [],
@@ -762,7 +762,7 @@
     {
       "code": "ECON 4230",
       "name": "Economic History",
-      "credit": "0.5",
+      "credit": "",
       "description": "The application of economic theory and quantitative techniques to selected topics in economic history, which may include historical patterns of growth and welfare, nineteenth-century globalization, technological change, the development of agriculture, industrialization, the Great Depression, and the origins of central banks.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher, ECON 3102 (or equivalent) with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -772,7 +772,7 @@
     {
       "code": "ECON 4301",
       "name": "Market Structure and Firm Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Various theoretical and empirical studies of firm and market organization with emphasis on the pricing, advertising, investment and locational behaviour of firms in imperfectly competitive markets.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -782,7 +782,7 @@
     {
       "code": "ECON 4302",
       "name": "Competition and Regulatory Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Public policies relating to competition and regulation. Topics may include: Ramsey pricing, peak-load pricing, cross-subsidization, access pricing (ECPR), multi-part pricing and price discrimination, predatory and targeted pricing, vertical restrictions, traditional regulation (including rate-of-return regulation), incentive regulation (including price caps), and the political economy of regulation.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -792,7 +792,7 @@
     {
       "code": "ECON 4360",
       "name": "Labour Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "The application of price theory to the labour market. Topics include models of labour supply and labour demand, human capital and the economics of education, and unions and their impact on the labour market.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -804,7 +804,7 @@
     {
       "code": "ECON 4404",
       "name": "Public Economics: Taxation",
-      "credit": "0.5",
+      "credit": "",
       "description": "A discussion of the theory of taxation and an examination of empirical attempts to quantify the theory. Some topics of current interest, such as the redistribution of income in Canada and tax reform, are examined.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -814,7 +814,7 @@
     {
       "code": "ECON 4407",
       "name": "Project Evaluation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Techniques and problems in the evaluation of public and private projects. Examination of alternative approaches to public decision-making including cost-benefit analysis, cost-effectiveness analysis, and multiple-objective frameworks. Case studies of projects in various areas such as natural resources, the environment, human resources, public services, and transportation.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3210 (or equivalent), or STAT 2605 or STAT 3502 with a grade of C- or higher.",
       "offerings": [],
@@ -824,7 +824,7 @@
     {
       "code": "ECON 4460",
       "name": "Health Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Economic analysis of the organization, financing, and utilization of health-care services. Topics include supply and demand of health care, the impact of private and social health insurance on demand, and policy issues in the provision of health care in Canada.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -836,7 +836,7 @@
     {
       "code": "ECON 4507",
       "name": "The Economics of Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of some theoretical approaches to the economics of development, together with analysis of some economic policy issues of a largely internal character, such as intersectoral investment allocation, income distribution, unemployment, and investment in human development.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3102 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -848,7 +848,7 @@
     {
       "code": "ECON 4508",
       "name": "International Aspects of Economic Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "An analysis of the international economic policy problems of development in Asia, Africa and Latin America, focusing on international trade, direct foreign investment, technological transfer, regional integration, debt and development financing, and international migration.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher and ECON 3102 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -860,7 +860,7 @@
     {
       "code": "ECON 4601",
       "name": "International Trade Theory and Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "International trade theory and its implications for economic policy. Topics such as determinants of trade and specialization, gains from trade and commercial policy, international factor mobility, growth and development.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -872,7 +872,7 @@
     {
       "code": "ECON 4602",
       "name": "International Monetary Theory and Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "International monetary theory and its implications for economic policy. Topics such as sources of disequilibrium and adjustment in the balance of payments under fixed versus flexible exchange rates, international capital movements, and international monetary reform.",
       "prerequisites": "ECON 3102 (or equivalent) with a grade of C- or higher.",
       "offerings": [
@@ -884,7 +884,7 @@
     {
       "code": "ECON 4700",
       "name": "Measurement Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "National accounting and index numbers. Topics may include: the measurement of output and income, capital and depreciation, productivity, employment and unemployment, poverty and inequality, household production, pollution and resource depletion, and the balance of payments; price indexes; standard-of-living indexes; and international comparisons.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C- or higher, ECON 3102 (or equivalent) with a grade of C- or higher, and ECON 3210 (or equivalent) with a grade of C- or higher.",
       "offerings": [],
@@ -894,7 +894,7 @@
     {
       "code": "ECON 4706",
       "name": "Econometrics I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to econometric theory and analysis of the classical normal linear regression model. Topics include estimation methods, hypothesis testing, multicollinearity,  indicator variables, heteroscedasticity, and an introduction to time-series methods.",
       "prerequisites": "ECON 2210 (or equivalent) with a grade of C+ or higher, and ECON 3210 (or equivalent) with a grade of C+ or higher.",
       "offerings": [
@@ -907,8 +907,8 @@
     {
       "code": "ECON 4707",
       "name": "Econometrics II",
-      "credit": "0.5",
-      "description": "An extension of . Topics include model specification, diagnostic checks, qualitative and limited dependent variables, panel data, and simultaneous equations models.",
+      "credit": "",
+      "description": "An extension of  ECON 4706 . Topics include model specification, diagnostic checks, qualitative and limited dependent variables, panel data, and simultaneous equations models.",
       "prerequisites": "ECON 4706 with a grade of C+ or higher, or STAT 3503 with a grade of C+ or higher.",
       "offerings": [
         "winter"
@@ -919,7 +919,7 @@
     {
       "code": "ECON 4708",
       "name": "Economic Data Science - Analytics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to methods of statistical and machine learning analytics for economic analysis.  Tools relevant for both small and large data sets will be covered.  Topics may include approaches to classification, dimension reduction strategies, and prediction models and tools.",
       "prerequisites": "ECON 2708 with a grade of C+ or higher; and ECON 3210 (or equivalent) with a grade of C+ or higher.",
       "offerings": [
@@ -931,7 +931,7 @@
     {
       "code": "ECON 4709",
       "name": "Economic Data Science - Applications",
-      "credit": "0.5",
+      "credit": "",
       "description": "Application of data science and machine learning methods to real-world economic problems. Students will apply their data science knowledge in hands-on projects to answer topical research questions. This course has a strong practical focus.",
       "prerequisites": "ECON 4708 with a grade of C+ or higher.",
       "offerings": [
@@ -943,7 +943,7 @@
     {
       "code": "ECON 4713",
       "name": "Time-Series Econometrics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the basic concepts and tools of time-series econometrics. Topics include stationary and non-stationary time series, identification, estimation and forecasting, unit root testing, cointegration analysis, error-correction models and ARCH models, together with relevant economic applications.",
       "prerequisites": "ECON 4706 with a grade of C- or higher, or STAT 3503 with a grade of C- or higher.",
       "offerings": [],
@@ -953,7 +953,7 @@
     {
       "code": "ECON 4880",
       "name": "Special Topics in Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics of interest to upper-year Economics students. Topics may vary from year to year and are announced in advance of the registration period.",
       "prerequisites": "ECON 3020 (or equivalent) with a grade of C+ or higher; ECON 3102 (or equivalent) with a grade of C+ or higher; and ECON 3706 or ECON 4706 , which may be taken concurrently with ECON 4880 or may be waived by permission of the Department.",
       "offerings": [],
@@ -965,8 +965,8 @@
     {
       "code": "ECON 4903",
       "name": "Tutorial in Economics",
-      "credit": "0.5",
-      "description": "An additional tutorial in economics may be taken subsequent to, or concurrently with .",
+      "credit": "",
+      "description": "An additional tutorial in economics may be taken subsequent to, or concurrently with  ECON 4905 .",
       "prerequisites": "permission of the Department.",
       "offerings": [],
       "year_standing": null,
@@ -975,8 +975,8 @@
     {
       "code": "ECON 4904",
       "name": "Tutorial in Economics",
-      "credit": "0.5",
-      "description": "An additional tutorial in economics may be taken subsequent to, or concurrently with, .",
+      "credit": "",
+      "description": "An additional tutorial in economics may be taken subsequent to, or concurrently with,  ECON 4905 .",
       "prerequisites": "permission of the Department.",
       "offerings": [],
       "year_standing": null,
@@ -985,7 +985,7 @@
     {
       "code": "ECON 4905",
       "name": "Honours Capstone Seminar",
-      "credit": "0.5",
+      "credit": "",
       "description": "The development of individual research projects in suitable economics topic areas with the exchange of results at each stage through in-class discussions and written and oral reports and culminating in a major research paper by each course registrant.",
       "prerequisites": "ECON 2900 with a grade of C+ or higher, ECON 3900 with a grade of C+ or higher, and registration in an Honours Economics program.",
       "offerings": [
@@ -998,7 +998,7 @@
     {
       "code": "ECON 4908",
       "name": "Honours Essay",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students taking Honours in Economics or Applied Economics may write an Honours essay during their final year. This essay counts for one credit. Students work under an individual faculty adviser.",
       "prerequisites": "permission of the Department.",
       "offerings": [],
@@ -1008,7 +1008,7 @@
     {
       "code": "ECON 4990",
       "name": "Research and Writing in Economics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Development of fundamental research and writing skills pertinent to the discipline of economics. Writing summary reviews of economics texts of increasing sophistication; writing up empirical and/or theoretical results of increasing complexity.",
       "prerequisites": "registration in the Post-Baccalaureate Diploma in Economics program and/or permission of the Department.",
       "offerings": [],
@@ -1019,50 +1019,50 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Economics B.Econ. Honours (20.0 credits)",
+      "degree": "Economics  B.Econ. Honours (20.0 credits)",
       "credits": "4.5",
-      "text": "5.  4.5 credits in free electives (May include ECON courses) 4.5"
+      "text": "5.  4.5 credits in  free electives (May include ECON courses) 4.5"
     },
     {
       "type": "requirement",
-      "degree": "Economics B.Econ. Honours with Concentration (20.0 credits)",
+      "degree": "Economics  B.Econ. Honours  with Concentration (20.0 credits)",
       "credits": "3.5",
-      "text": "6.  3.5 credits in free electives. 3.5"
+      "text": "6.  3.5 credits in  free electives. 3.5"
     },
     {
       "type": "requirement",
-      "degree": "Economics B. Econ. Honours with Concentrations (20.0 credits)",
+      "degree": "Economics  B. Econ. Honours  with Concentrations (20.0 credits)",
       "credits": "2.5",
-      "text": "4.  2.5 credits in free electives (may include ECON courses) 2.5"
+      "text": "4.  2.5 credits in  free electives (may include ECON courses) 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Economics B.Econ. Combined Honours (20.0 credits)",
+      "degree": "Economics  B.Econ. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "4.  Sufficient credits in free electives to make 20.0 credits for the degree."
     },
     {
       "type": "requirement",
-      "degree": "Economics B.Econ. (15.0 credits)",
+      "degree": "Economics  B.Econ. (15.0 credits)",
       "credits": "2.0",
-      "text": "4.  2.0 credits in free electives. 2.0"
+      "text": "4.  2.0 credits in  free electives. 2.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in International Economic Policy B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in International Economic Policy  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in free electives 8.0"
+      "text": "4.  8.0 credits in  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in International Economic Policy B.G.In.S. (15.0 credits)",
+      "degree": "Stream in International Economic Policy  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     }
   ],
   "programs": [
     {
-      "degree": "Economics B.Econ. Honours (20.0 credits)",
+      "degree": "Economics  B.Econ. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1071,7 +1071,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "choose",
@@ -1172,7 +1172,7 @@
       ]
     },
     {
-      "degree": "Economics B.Econ. Honours with Concentration (20.0 credits)",
+      "degree": "Economics  B.Econ. Honours  with Concentration (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1181,7 +1181,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "choose",
@@ -1282,7 +1282,7 @@
       ]
     },
     {
-      "degree": "Economics B. Econ. Honours with Concentrations (20.0 credits)",
+      "degree": "Economics  B. Econ. Honours  with Concentrations (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1291,7 +1291,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "choose",
@@ -1392,374 +1392,7 @@
       ]
     },
     {
-      "degree": "Concentration in Advanced Economic Analysis (4.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3001"
-          ],
-          "credits": 0.5,
-          "description": "Mathematical Methods of Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4001"
-          ],
-          "credits": 0.5,
-          "description": "Mathematical Analysis in Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4002"
-          ],
-          "credits": 0.5,
-          "description": "Statistical Analysis in Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4020"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Microeconomic Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4021"
-          ],
-          "credits": 0.5,
-          "description": "Advanced Macroeconomic Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4706"
-          ],
-          "credits": 0.5,
-          "description": "Econometrics I"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Computational Analysis (4.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1005"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1006"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2401"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Systems Programming"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2402"
-          ],
-          "credits": 0.5,
-          "description": "Abstract Data Types and Algorithms"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1805"
-          ],
-          "credits": 0.5,
-          "description": "Discrete Structures I (see Note 2 below)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2804"
-          ],
-          "credits": 0.5,
-          "description": "Discrete Structures II"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "COMP 2404",
-            "COMP 3005",
-            "COMP 4111",
-            "COMP 4003",
-            "COMP 3803",
-            "COMP 3804",
-            "COMP 4801"
-          ],
-          "credits": 1.0,
-          "description": "2c.  1.0 credit from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Development and Environment (4.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3508"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Economic Development"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 3804"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Economics"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "ECON 3509",
-            "ECON 3601",
-            "ECON 3602",
-            "ECON 3803",
-            "ECON 4507",
-            "ECON 4508"
-          ],
-          "credits": 2.0,
-          "description": "2b.  2.0 credits from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "ECON 3220",
-            "ECON 3230",
-            "ECON 3450",
-            "ECON 3510",
-            "ECON 3807",
-            "ECON 3808",
-            "ECON 3870",
-            "ECON 4407",
-            "ECON 4601",
-            "ECON 4602",
-            "PSCI 2102",
-            "PSCI 3801",
-            "PSCI 4104",
-            "PSCI 4105",
-            "PSCI 4808",
-            "TSES 4001"
-          ],
-          "credits": 1.0,
-          "description": "2c 1.0 credit from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Economic Data Science (4.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "BUSI 1401"
-          ],
-          "credits": 0.5,
-          "description": "Foundations of Information Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1005"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 2708"
-          ],
-          "credits": 0.5,
-          "description": "Applied Data Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4002"
-          ],
-          "credits": 0.5,
-          "description": "Statistical Analysis in Economics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4706"
-          ],
-          "credits": 0.5,
-          "description": "Econometrics I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4708"
-          ],
-          "credits": 0.5,
-          "description": "Economic Data Science - Analytics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "ECON 4709"
-          ],
-          "credits": 0.5,
-          "description": "Economic Data Science - Applications"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "BUSI 4408",
-            "ECON 3706",
-            "ECON 4109",
-            "ECON 4707",
-            "ECON 4713",
-            "ECON 4880"
-          ],
-          "credits": 0.5,
-          "description": "2c. 0.5 credit from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Financial Economics (4.0 credits)",
-      "requirements": [
-        {
-          "type": "choose",
-          "courses": [
-            "BUSI 1003",
-            "BUSI 1001",
-            "BUSI 2008",
-            "ECON 3050",
-            "ECON 3607",
-            "ECON 4051",
-            "ECON 4052"
-          ],
-          "credits": 2.5,
-          "description": "2a.  2.5 credits from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "BUSI 1001",
-            "BUSI 2008",
-            "BUSI 2501",
-            "BUSI 3500",
-            "BUSI 3502"
-          ],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "ECON 3602",
-            "ECON 4602",
-            "ECON 3706",
-            "ECON 4030",
-            "ECON 4053",
-            "ECON 4057",
-            "PSCI 4805",
-            "BUSI 3512",
-            "BUSI 4500",
-            "BUSI 4502"
-          ],
-          "credits": 1.5,
-          "description": "2b.  1.5 credits from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Mathematics and Quantitative Economics (4.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "MATH 1800"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Mathematical Reasoning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2052"
-          ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2152"
-          ],
-          "credits": 0.5,
-          "description": "Introductory Algebra II"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "MATH 2001",
-            "MATH 2002"
-          ],
-          "credits": 1.0,
-          "description": "2b.  1.0 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "MATH 2108",
-            "MATH 2404",
-            "MATH 2454",
-            "MATH 3001",
-            "MATH 3007",
-            "MATH 3057",
-            "MATH 3107",
-            "MATH 3705",
-            "MATH 3800",
-            "MATH 3806"
-          ],
-          "credits": 1.0,
-          "description": "2c.  1.0 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "ECON 4004",
-            "MATH 3801",
-            "ECON 4005",
-            "ECON 4700",
-            "MATH 4007",
-            "MATH 4205"
-          ],
-          "credits": 0.5,
-          "description": "2d.  0.5 credit from:"
-        }
-      ]
-    },
-    {
-      "degree": "Economics B.Econ. Combined Honours (20.0 credits)",
+      "degree": "Economics  B.Econ. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1768,7 +1401,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "choose",
@@ -1869,7 +1502,7 @@
       ]
     },
     {
-      "degree": "Economics B.Econ. (15.0 credits)",
+      "degree": "Economics  B.Econ. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1878,7 +1511,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "choose",
@@ -1931,7 +1564,7 @@
       ]
     },
     {
-      "degree": "Specialization in International Economic Policy B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in International Economic Policy  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2020,7 +1653,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "required",
@@ -2140,7 +1773,7 @@
       ]
     },
     {
-      "degree": "Stream in International Economic Policy B.G.In.S. (15.0 credits)",
+      "degree": "Stream in International Economic Policy  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2211,42 +1844,14 @@
           "courses": [
             "ECON 1001",
             "ECON 1002",
-            "FYSM 1003"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "FYSM 1003",
             "ECON 2001",
             "ECON 2009",
-            "ECON 2020"
-          ],
-          "credits": null,
-          "description": "b. Microeconomics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 2020",
             "ECON 2101",
-            "ECON 2102"
-          ],
-          "credits": null,
-          "description": "c. Macroeconomics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 2102",
             "IPAF 2000",
-            "ECON 2210"
-          ],
-          "credits": null,
-          "description": "d. Research Methodologies"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 2210",
             "ECON 3403",
             "ECON 3405",
             "ECON 3508",
@@ -2270,8 +1875,8 @@
             "ECON 1401",
             "ECON 1402"
           ],
-          "credits": null,
-          "description": "e. International Economic Policy"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
@@ -2285,7 +1890,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "choose",
@@ -2327,14 +1932,6 @@
           ],
           "credits": null,
           "description": ""
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "IPAF 2000"
-          ],
-          "credits": null,
-          "description": "or IPAF 2000 [0.5]"
         }
       ]
     },
@@ -2372,15 +1969,6 @@
           ],
           "credits": 0.5,
           "description": "Research and Writing in Economics"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ESLA 1900",
-            "ECON 3001"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in electives approved by the Department, normally in ECON at the 4000-level but may include ESLA 1900 and/or ECON 3001"
         }
       ]
     }

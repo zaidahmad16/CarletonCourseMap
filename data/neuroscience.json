@@ -5,7 +5,7 @@
     {
       "code": "NEUR 1202",
       "name": "Neuroscience of Mental Health and Psychiatric Conditions",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of mental health conditions, exploring biological, developmental, experiential and environmental factors that contribute to their onset and expression. Topics may include depressive and anxiety disorders, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, and substance use disorders.",
       "prerequisites": "",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "NEUR 1203",
       "name": "Neuroscience of Mental Health and Neurological Conditions",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of neurological conditions, examining biological, developmental, experiential and environmental contributions. Topics may include stroke, multiple sclerosis, seizure conditions, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
       "prerequisites": "",
       "offerings": [
@@ -29,7 +29,7 @@
     {
       "code": "NEUR 2001",
       "name": "Introduction to Research Methods in Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "A general introduction to research process within neuroscience. Topics covered include research strategies, methods, and techniques; basic descriptive statistics; research communication; and responsible scientific conduct.",
       "prerequisites": "second-year standing.",
       "offerings": [
@@ -41,7 +41,7 @@
     {
       "code": "NEUR 2002",
       "name": "Introduction to Statistics in Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "A general introduction to statistical techniques employed within contemporary neuroscience. Topics covered include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
       "prerequisites": "PSYC 2001 or NEUR 2001 .",
       "offerings": [
@@ -53,7 +53,7 @@
     {
       "code": "NEUR 2003",
       "name": "Introduction to Techniques in Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to common techniques used in neuroscience research. Brain imaging, animal behaviour, electrophysiology, immunohistochemistry and microscopy, genomics, transgenics, cell culture, and DSM-IV-based clinical assessment.",
       "prerequisites": "one of PSYC 1001 , NEUR 1201, NEUR 1202 or NEUR 1203 .",
       "offerings": [],
@@ -63,7 +63,7 @@
     {
       "code": "NEUR 2004",
       "name": "Fundamentals of Scientific Writing in Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to various forms of scientific writing appropriate to neuroscience, with a focus in fundamental skills in scientific writing.",
       "prerequisites": "second-year standing in a Neuroscience program and one of NEUR 1201, NEUR 1202 or NEUR 1203 .",
       "offerings": [
@@ -76,7 +76,7 @@
     {
       "code": "NEUR 2201",
       "name": "Cellular and Molecular Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Core principles in cellular and molecular neuroscience, including signal transmission along and between neurons, ion channels and transporters, intracellular signaling pathways, and regulation of gene expression.",
       "prerequisites": "Either NEUR 1201 and NEUR 1203 , or NEUR 1202 and NEUR 1203 , or both BIOL 1103 and BIOL 1104 .",
       "offerings": [
@@ -88,7 +88,7 @@
     {
       "code": "NEUR 2202",
       "name": "Neurodevelopment and Plasticity",
-      "credit": "0.5",
+      "credit": "",
       "description": "Core principles in nervous system development from embryogenesis to plasticity in the adult brain. Topics include neural induction, neurogenesis, apoptosis, neuronal migration and axon growth, synaptogenesis and synaptic pruning both under normal conditions and in psychopathology.",
       "prerequisites": "NEUR 1202 and NEUR 1203 .",
       "offerings": [
@@ -100,7 +100,7 @@
     {
       "code": "NEUR 2801",
       "name": "Neuroscience and Creativity",
-      "credit": "0.5",
+      "credit": "",
       "description": "Altered brain function related to mental health or substance use has often inspired cultural works including films, music, visual art and literature. This course explores the neurobiological basis of creativity in individuals with and without mental health conditions.",
       "prerequisites": "one of PSYC 1001 , NEUR 1201, NEUR 1202 or NEUR 1203 .",
       "offerings": [],
@@ -110,7 +110,7 @@
     {
       "code": "NEUR 3001",
       "name": "Data Analysis in Neuroscience I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introducing various software for analyzing neuroscience data. Dealing with real data, drawing graphs, application of descriptive and inferential statistics through the general linear model, assumptions of parametric tests, robust statistics, confidence intervals, correlations, use of appropriate statistical methods and interpretation of results.",
       "prerequisites": "PSYC 2001 and PSYC 2002 , or NEUR 2001 and NEUR 2002 .",
       "offerings": [
@@ -122,7 +122,7 @@
     {
       "code": "NEUR 3002",
       "name": "Data Analysis in Neuroscience II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Use of software for analyzing neuroscience data. Statistical techniques typically include nonparametric tests, t tests, and various forms of both ANOVA and regression including robust statistical tests, with a focus on the practical application of appropriate statistical methods and interpretation of results.",
       "prerequisites": "NEUR 3001 .",
       "offerings": [
@@ -134,7 +134,7 @@
     {
       "code": "NEUR 3003",
       "name": "Epidemiology in Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the principles and methods of epidemiology, study designs, measures of effect, sources of error, confounding, bias, internal and external validity, and causality. The course also will provide an overview of the epidemiological features, and risk factors for common neurological disorders.",
       "prerequisites": "NEUR 2002 .",
       "offerings": [],
@@ -144,8 +144,8 @@
     {
       "code": "NEUR 3203",
       "name": "Field Course in Animal Behaviour",
-      "credit": "0.5",
-      "description": "Offered in the Department of Biology as . Only those modules dealing with animal behaviour topics may be offered for Neuroscience credit.",
+      "credit": "",
+      "description": "Offered in the Department of Biology as  BIOL 3605 . Only those modules dealing with animal behaviour topics may be offered for Neuroscience credit.",
       "prerequisites": "permission of the department.",
       "offerings": [],
       "year_standing": null,
@@ -154,7 +154,7 @@
     {
       "code": "NEUR 3204",
       "name": "Neuropharmacology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Overview of chemical neurotransmission and key neurotransmitter systems.  A description of licit and illicit drugs covering topics that range from historical perspectives to pharmacology to mechanisms of action in the brain.  Discussion of neurochemical basis of psychiatric diseases including anxiety, depression and schizophrenia.",
       "prerequisites": "NEUR 2200 or NEUR 2201 .",
       "offerings": [
@@ -166,7 +166,7 @@
     {
       "code": "NEUR 3206",
       "name": "Sensory and Motor Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of major topics in sensory processing and motor control, with a focus on underlying mechanisms and neurobiological principles. Topics include all sensory systems (such as vision, somatosensation and audition) plus motor system components including lower and upper motor neurons, basal ganglia, and cerebellum.",
       "prerequisites": "NEUR 1201 or both NEUR 1202 and NEUR 1203 , and either NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
       "offerings": [
@@ -178,7 +178,7 @@
     {
       "code": "NEUR 3207",
       "name": "Systems Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Neural systems underlying complex behaviours including emotion, motivation, and sleep, and the role of association cortices in brain function.",
       "prerequisites": "NEUR 3206 .",
       "offerings": [
@@ -190,7 +190,7 @@
     {
       "code": "NEUR 3301",
       "name": "Genetics of Mental Health",
-      "credit": "0.5",
+      "credit": "",
       "description": "Many common mental health conditions have a genetic component. This course explores how genetic susceptibility is identified and examines the genetic, genomic and epigenetic mechanisms that may influence vulnerability to these conditions.",
       "prerequisites": "BIOL 2104 or BIOL 2107 , and NEUR 2200 or NEUR 2201 .",
       "offerings": [],
@@ -200,7 +200,7 @@
     {
       "code": "NEUR 3303",
       "name": "The Neuroscience of Consciousness",
-      "credit": "0.5",
+      "credit": "",
       "description": "Consciousness remains one of the least understood aspects of the nervous system. This course explores neural mechanisms underlying consciousness, changes in consciousness associated with sleep, coma, vegetative states, drugs, and other stimuli, and considers the evolutionary basis of consciousness, and its relationship with awareness.",
       "prerequisites": "NEUR 2200 or NEUR 2202 .",
       "offerings": [],
@@ -210,7 +210,7 @@
     {
       "code": "NEUR 3304",
       "name": "Hormones and Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "The effects of hormones throughout life at all levels of the nervous system. The role of hormones in mediating behaviours that are both basic (feeding, reproduction and social interactions) and complex (motivation, emotion, learning and memory).",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
       "offerings": [
@@ -222,7 +222,7 @@
     {
       "code": "NEUR 3401",
       "name": "Environmental Toxins and Mental Health",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exposure to environmental toxins from the air, water or food can interfere with neuronal function, alter neurodevelopment, and damage the brain. This course will explore associations between toxins and diseases such as Parkinson\u2019s disease, multiple sclerosis and depression, focusing on mechanisms underlying development of pathology.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
       "offerings": [],
@@ -232,7 +232,7 @@
     {
       "code": "NEUR 3402",
       "name": "Impact of Lifestyle and Social Interactions on Mental Health",
-      "credit": "0.5",
+      "credit": "",
       "description": "Healthy lifestyle choices and positive social interactions can reduce the incidence of pathological conditions such as depression, obesity, cardiovascular disease and impaired immunity. This course focuses on psychosocial and neurobiological mechanisms that underlie the relationship between lifestyle, social interactions and health.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
       "offerings": [
@@ -244,7 +244,7 @@
     {
       "code": "NEUR 3403",
       "name": "Stress and Mental Health",
-      "credit": "0.5",
+      "credit": "",
       "description": "Stressful events can have profound repercussions on physical and psychological well-being. This course examines the psychosocial and biological processes by which stressors predispose to both physical (immune-related disorders, diabetes, heart disease) and psychological (acute stress disorder, posttraumatic stress disorder, depression, anxiety) pathologies.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
       "offerings": [
@@ -256,7 +256,7 @@
     {
       "code": "NEUR 3501",
       "name": "Neurodegeneration and Aging",
-      "credit": "0.5",
+      "credit": "",
       "description": "Perspectives on aging and neurodegeneration from psychosocial and neuroscience points of view.  How factors including TBI, stroke and alcohol make the brain vulnerable and contribute to neurodegeneration.  Clinical overview of Alzheimer\u2019s, Parkinson\u2019s, Huntington\u2019s and ALS and the underlying pathology that differentiates these diseases.",
       "prerequisites": "NEUR 2200 or both NEUR 2201 and NEUR 2202 .",
       "offerings": [
@@ -268,7 +268,7 @@
     {
       "code": "NEUR 3502",
       "name": "Neurodevelopmental Determinants of Mental Health",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of human brain development, from cell differentiation to complex neural networks. This course considers how variations in neurodevelopment may be associated with conditions such as dyslexia, ADHD, schizophrenia and autism.",
       "prerequisites": "NEUR 2200, or both NEUR 2201 and NEUR 2202 .",
       "offerings": [
@@ -280,7 +280,7 @@
     {
       "code": "NEUR 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "",
       "prerequisites": "",
       "offerings": [],
@@ -290,8 +290,8 @@
     {
       "code": "NEUR 4001",
       "name": "Special Topics in Neuroscience",
-      "credit": "0.5",
-      "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
+      "credit": "",
+      "description": "Each section of  NEUR 4001  deals with a different topic. Topics change yearly. Students may register in more than one section of  NEUR 4001  but can register in each section only once.",
       "prerequisites": "NEUR 3200, or NEUR 3204 and NEUR 3206 and NEUR 3207 , or permission of the Department.",
       "offerings": [
         "winter"
@@ -302,7 +302,7 @@
     {
       "code": "NEUR 4002",
       "name": "Systematic Reviews and Meta-Analyses",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the methods used in conducting systematic reviews and meta-analyses. Topics include: conducting literature searches, extracting relevant literature, assessing quality of studies, synthesizing findings across studies, and the statistical methods used to carry out a meta-analysis.",
       "prerequisites": "NEUR 3003 or both NEUR 3001 and NEUR 3002 .",
       "offerings": [],
@@ -312,7 +312,7 @@
     {
       "code": "NEUR 4003",
       "name": "Knowledge Mobilization",
-      "credit": "0.5",
+      "credit": "",
       "description": "Knowledge mobilization concepts, tools, and frameworks, the challenges and value of translational research, and processes involved in integrated knowledge mobilization. Skills to maximize research impacts will be developed.",
       "prerequisites": "fourth year standing in a Neuroscience program OR permission of the department.",
       "offerings": [],
@@ -322,7 +322,7 @@
     {
       "code": "NEUR 4200",
       "name": "Seminar on Current Advances in Neuroscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Headline research in neuroscience. Topics may include technical and conceptual advances, ethical issues, medical improvement, and social impacts of neuroscience research.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
       "offerings": [
@@ -334,7 +334,7 @@
     {
       "code": "NEUR 4202",
       "name": "Seminar on Current Research in Neuroscience and Psychiatric Conditions",
-      "credit": "0.5",
+      "credit": "",
       "description": "Recent research in clinical neuroscience including biological, developmental, experiential and environmental factors that contribute to mental health conditions. Topics may include depression, schizophrenia, autism, ADHD, eating disorders, sleep-related conditions, substance use disorders, and personality-related conditions.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
       "offerings": [
@@ -347,7 +347,7 @@
     {
       "code": "NEUR 4203",
       "name": "Seminar on Current Research in Neuroscience and Clinical Neurology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Recent research in neurological disease, including biological, developmental, experiential and environmental factors that contribute to disease. Topics may include stroke, multiple sclerosis, migraine, seizure disorder, Parkinson\u2019s disease, ALS, chronic pain, Alzheimer\u2019s disease and concussion.",
       "prerequisites": "fourth year standing and one of NEUR 3200, NEUR 3206 or NEUR 3207 .",
       "offerings": [],
@@ -357,7 +357,7 @@
     {
       "code": "NEUR 4301",
       "name": "Neurobiology of Energy Homeostasis",
-      "credit": "0.5",
+      "credit": "",
       "description": "Focus on neuroanatomical and molecular mechanisms underlying how mammals adapt to changes and challenges in the environment. Topics include regulation of feeding, energy expenditure, water balance, and temperature regulation.",
       "prerequisites": "NEUR 3304 .",
       "offerings": [],
@@ -367,7 +367,7 @@
     {
       "code": "NEUR 4302",
       "name": "Sex and the Brain",
-      "credit": "0.5",
+      "credit": "",
       "description": "Neurobiological processes behind reproductive behaviours in various animal species including humans. Evaluation of data concerning neurobiological differences between sexes, biological determinants of sexual orientation, and relating to neurobiology of sex disorders.",
       "prerequisites": "NEUR 3304 .",
       "offerings": [
@@ -378,8 +378,8 @@
     },
     {
       "code": "NEUR 4303",
-      "name": "Indigenous Health & Mental Health",
-      "credit": "0.5",
+      "name": "Indigenous Health &amp; Mental Health",
+      "credit": "",
       "description": "Explores physical and mental health issues in Indigenous communities through cultural, environmental, developmental and biological perspectives, with attention to the impacts of colonialism, intergenerational trauma, and community resilience.",
       "prerequisites": "Third year standing or above.",
       "offerings": [
@@ -391,7 +391,7 @@
     {
       "code": "NEUR 4305",
       "name": "Immune-Brain Interactions",
-      "credit": "0.5",
+      "credit": "",
       "description": "Communication between the brain and the immune system; messengers mediating the interaction. How disturbances of immune-brain signaling can lead to disease (multiple sclerosis, Parkinson\u2019s) and to changes in mood and cognition.",
       "prerequisites": "NEUR 3200 or NEUR 3207 .",
       "offerings": [
@@ -403,7 +403,7 @@
     {
       "code": "NEUR 4306",
       "name": "The Neural Basis of Addiction",
-      "credit": "0.5",
+      "credit": "",
       "description": "Explores how substance use and behavioural addictions impact neural function, contributing to changes in the brain system involved in addiction. Contemporary neurobiological theories of addiction will also be addressed.",
       "prerequisites": "NEUR 3204 .",
       "offerings": [
@@ -415,7 +415,7 @@
     {
       "code": "NEUR 4600",
       "name": "Advanced Lab in Neuroanatomy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced experiential learning in neuroanatomy, histology and microscopy.",
       "prerequisites": "NEUR 3200 or both NEUR 3206 and NEUR 3207 , fourth-year standing in a Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
       "offerings": [
@@ -427,7 +427,7 @@
     {
       "code": "NEUR 4801",
       "name": "Neuroethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Ethical issues of key importance to current neurobiological research. Topics may include the use of animals in research, stem cell research, genetic diagnosis and gene therapy, neuroimaging, and the effect on identity and autonomy of manipulations such as psychopharmaceuticals and psychosurgery.",
       "prerequisites": "NEUR 3200 or both NEUR 3206 and NEUR 3207 .",
       "offerings": [],
@@ -437,7 +437,7 @@
     {
       "code": "NEUR 4900",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally students may not offer more than one credit of independent study in their total program.",
       "prerequisites": "third- or fourth- year standing and permission of the Department.",
       "offerings": [
@@ -450,7 +450,7 @@
     {
       "code": "NEUR 4904",
       "name": "Honours Research Thesis in Systematic Reviews or Meta-Analyses",
-      "credit": "1.0",
+      "credit": "",
       "description": "An independent systematic review or meta-analyses undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience.",
       "prerequisites": "NEUR 3003 or both NEUR 3001 and NEUR 3002 and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
       "offerings": [],
@@ -460,7 +460,7 @@
     {
       "code": "NEUR 4905",
       "name": "Honours Workshop",
-      "credit": "1.0",
+      "credit": "",
       "description": "The course will focus on active learning in areas that include written and oral communication, evaluation and interpretation of results, statistics and data management, emphasizing transferable skills that will be most appropriate for non-research career paths.",
       "prerequisites": "fourth-year standing in an Honours Neuroscience program and permission of the Department.",
       "offerings": [
@@ -473,7 +473,7 @@
     {
       "code": "NEUR 4906",
       "name": "Translational Approach to Indigenous Community Wellness",
-      "credit": "1.0",
+      "credit": "",
       "description": "This course involves co-developing an Indigenous community-led process or product that addresses a current and specific mental health issue. Involves working in interdisciplinary groups with a community partner.",
       "prerequisites": "Fourth-year standing with a minimum Major CGPA of 10.0 and a grade of A- or higher in one of NEUR 3401 , NEUR 3402 or NEUR 3403 and permission of instructor. Prior completion of NEUR 4303 recommended.",
       "offerings": [],
@@ -483,7 +483,7 @@
     {
       "code": "NEUR 4907",
       "name": "Honours Essay",
-      "credit": "1.0",
+      "credit": "",
       "description": "An independent essay based critical review on a topic in neuroscience, using library resources, under the direct supervision of a Faculty advisor, typically from the Department of Neuroscience. Evaluation is based on a written report.",
       "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 9.0 and permission of the Department.",
       "offerings": [
@@ -496,7 +496,7 @@
     {
       "code": "NEUR 4908",
       "name": "Honours Research Thesis",
-      "credit": "1.0",
+      "credit": "",
       "description": "An independent research project undertaken under the direct supervision of a faculty advisor typically from the Department of Neuroscience. Evaluation is based on a written report and poster.",
       "prerequisites": "NEUR 3200, or both NEUR 3206 and NEUR 3207 , and fourth-year standing in an Honours Neuroscience program, a minimum Major CGPA of 10.0 and permission of the Department.",
       "offerings": [
@@ -510,57 +510,57 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Neuroscience and Mental Health B.Sc. Honours (20.0 credits)",
+      "degree": "Neuroscience and Mental Health  B.Sc. Honours (20.0 credits)",
       "credits": "2.5",
-      "text": "14.  2.5 credits in free electives 2.5"
+      "text": "14.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Neuroscience and Mental Health B.Sc. Major (20.0 credits)",
+      "degree": "Neuroscience and Mental Health  B.Sc. Major (20.0 credits)",
       "credits": "2.5",
-      "text": "13.  2.5 credits in free electives 2.5"
+      "text": "13.  2.5 credits in  free electives 2.5"
     },
     {
       "type": "requirement",
-      "degree": "Neuroscience and Mental Health B.Sc. (15.0 credits)",
+      "degree": "Neuroscience and Mental Health  B.Sc. (15.0 credits)",
       "credits": "1.0",
-      "text": "10.  1.0 credit in free electives 1.0"
+      "text": "10.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -589,7 +589,7 @@
   ],
   "programs": [
     {
-      "degree": "Neuroscience and Mental Health B.Sc. Honours (20.0 credits)",
+      "degree": "Neuroscience and Mental Health  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -763,43 +763,22 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "choose",
           "courses": [
             "COMP 1005",
-            "COMP 1006"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "COMP 1006",
             "PHYS 1007",
-            "PHYS 1008"
-          ],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PHYS 1008",
             "PHYS 1107",
-            "PHYS 1108"
-          ],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PHYS 1108",
             "PSYC 1001",
             "PSYC 1002"
           ],
-          "credits": null,
-          "description": "or"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -838,21 +817,13 @@
           "courses": [
             "BIOL 2200"
           ],
-          "credits": null,
-          "description": "or"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         }
       ]
     },
     {
-      "degree": "Neuroscience and Mental Health B.Sc. Major (20.0 credits)",
+      "degree": "Neuroscience and Mental Health  B.Sc. Major (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1014,7 +985,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -1023,7 +994,7 @@
             "COMP 1006"
           ],
           "credits": 0.5,
-          "description": "Introduction to Computer Science I Introduction to Computer Science II"
+          "description": "Introduction to Computer Science I  Introduction to Computer Science II"
         },
         {
           "type": "required",
@@ -1032,7 +1003,7 @@
             "PHYS 1008"
           ],
           "credits": 0.5,
-          "description": "Elementary University Physics I Elementary University Physics II"
+          "description": "Elementary University Physics I  Elementary University Physics II"
         },
         {
           "type": "required",
@@ -1041,7 +1012,7 @@
             "PHYS 1108"
           ],
           "credits": 0.5,
-          "description": "Introductory University Physics I Introductory University Physics II"
+          "description": "Introductory University Physics I  Introductory University Physics II"
         },
         {
           "type": "required",
@@ -1050,7 +1021,7 @@
             "PSYC 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Psychology I Introduction to Psychology II"
+          "description": "Introduction to Psychology I  Introduction to Psychology II"
         },
         {
           "type": "choose",
@@ -1084,19 +1055,11 @@
           ],
           "credits": 0.5,
           "description": "0.5 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
         }
       ]
     },
     {
-      "degree": "Neuroscience and Mental Health B.Sc. (15.0 credits)",
+      "degree": "Neuroscience and Mental Health  B.Sc. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1217,7 +1180,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -1226,7 +1189,7 @@
             "COMP 1006"
           ],
           "credits": 0.5,
-          "description": "Introduction to Computer Science I Introduction to Computer Science II"
+          "description": "Introduction to Computer Science I  Introduction to Computer Science II"
         },
         {
           "type": "required",
@@ -1235,7 +1198,7 @@
             "PHYS 1008"
           ],
           "credits": 0.5,
-          "description": "Elementary University Physics I Elementary University Physics II"
+          "description": "Elementary University Physics I  Elementary University Physics II"
         },
         {
           "type": "required",
@@ -1244,7 +1207,7 @@
             "PHYS 1108"
           ],
           "credits": 0.5,
-          "description": "Introductory University Physics I Introductory University Physics II"
+          "description": "Introductory University Physics I  Introductory University Physics II"
         },
         {
           "type": "required",
@@ -1253,7 +1216,7 @@
             "PSYC 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Psychology I Introduction to Psychology II"
+          "description": "Introduction to Psychology I  Introduction to Psychology II"
         },
         {
           "type": "choose",
@@ -1279,19 +1242,11 @@
           ],
           "credits": 0.5,
           "description": "Cell Biology and Biochemistry"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
         }
       ]
     },
     {
-      "degree": "Neuroscience and Biology B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Neuroscience and Biology  B.Sc. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1516,7 +1471,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -1533,15 +1488,7 @@
             "PHYS 1008"
           ],
           "credits": 0.5,
-          "description": "Elementary University Physics I Elementary University Physics II"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses outside of the faculties of Science and Engineering and Design (may include ISAP 1000 )"
+          "description": "Elementary University Physics I  Elementary University Physics II"
         }
       ]
     },
@@ -2211,199 +2158,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",

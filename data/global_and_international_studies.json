@@ -5,7 +5,7 @@
     {
       "code": "GINS 1000",
       "name": "Global History",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to political, social, cultural, economic and military developments in global and international history.",
       "prerequisites": "",
       "offerings": [
@@ -18,7 +18,7 @@
     {
       "code": "GINS 1010",
       "name": "International Law and Politics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the evolution of the international system, including the rise of the state, sovereignty, and the challenge of international cooperation. The role of international law in addressing global issues such as human rights, security and trade.",
       "prerequisites": "",
       "offerings": [
@@ -31,7 +31,7 @@
     {
       "code": "GINS 1020",
       "name": "Ethnography, Globalization and Culture",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the intersection of globalization processes with social and cultural diversity as examined through ethnography and ethnographic methods. Topics may include cultural survival, growing economic inequality, ecological vulnerabilities, health practices, human rights, and shifting racialized, gendered, religious, ethnic, and national identities.",
       "prerequisites": "",
       "offerings": [
@@ -44,7 +44,7 @@
     {
       "code": "GINS 1100",
       "name": "Global Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to key questions and issues in development studies, taught from an inter-disciplinary perspective.",
       "prerequisites": "",
       "offerings": [
@@ -56,7 +56,7 @@
     {
       "code": "GINS 1300",
       "name": "International Experience Requirement Preparation",
-      "credit": "0.0",
+      "credit": "",
       "description": "This mandatory course introduces BGInS students to the International Experience Requirement (IER) and to the various policies and procedures associated with it.  Graded SAT/UNS.",
       "prerequisites": "first-year standing in BGInS.",
       "offerings": [
@@ -69,7 +69,7 @@
     {
       "code": "GINS 2000",
       "name": "Ethics and Globalization",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to global ethical issues, focusing on alternative lines of ethical argument. Topics may include poverty and unequal development, climate change, war and terrorism, reparations for colonialism and slavery, international relief services, ill effects of globalization, trafficking and forced labour, democracy and global governance.",
       "prerequisites": "Second-year standing.",
       "offerings": [
@@ -82,7 +82,7 @@
     {
       "code": "GINS 2010",
       "name": "Globalization and International Economic Issues",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the world economy, international trade and finance, and economic development. Social and economic implications for both rich and poor countries of lowered barriers to the international flows of goods, services, capital, labour, and information in the age of globalization.",
       "prerequisites": "Second-year standing.",
       "offerings": [
@@ -95,7 +95,7 @@
     {
       "code": "GINS 2020",
       "name": "Global Literatures",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of the global dynamics of the contemporary literary imagination and literary production; literature as cultural practice; the politics of literary circulation; the politics of language and translation.",
       "prerequisites": "Second-year standing.",
       "offerings": [
@@ -108,7 +108,7 @@
     {
       "code": "GINS 3010",
       "name": "Global and International Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced analysis of global and international theories from a variety of perspectives, including realism, liberalism, postmodernism, constructivism, post-structuralism, literary and critical approaches.",
       "prerequisites": "third-year standing in B.G.In.S.",
       "offerings": [
@@ -121,7 +121,7 @@
     {
       "code": "GINS 3020",
       "name": "Places, Boundaries, Movements and Global Environmental Change",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of the relationship between individual places and global social and environmental processes. The changing nature of regions, states and political boundaries in the context of political and economic globalization and international migration. Social science perspectives on climate change vulnerability, adaptation and mitigation.",
       "prerequisites": "third-year standing in B.G.In.S.",
       "offerings": [
@@ -132,8 +132,8 @@
     },
     {
       "code": "GINS 3100",
-      "name": "Global & International Experiential Learning Course",
-      "credit": "0.5",
+      "name": "Global &amp; International Experiential Learning Course",
+      "credit": "",
       "description": "Students work on a project related to Global and International Experiential learning. Sessions are devoted to discussing project- related issues and student presentations. Course design may vary according to the professor's instructions.    Includes: Experiential Learning Activity.",
       "prerequisites": "third-year standing.",
       "offerings": [
@@ -145,7 +145,7 @@
     {
       "code": "GINS 3300",
       "name": "Global and International Studies Abroad: Selected Topics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Based at a partner university around the world, and taught by a Carleton faculty member, the course will include lectures, seminars, guest speakers, field visits and group research projects to examine a topic in global and international studies. Topic and location will change annually.",
       "prerequisites": "third-year standing and approval by the BGInS Program Director.",
       "offerings": [],
@@ -155,7 +155,7 @@
     {
       "code": "GINS 3910",
       "name": "BGInS International Placement",
-      "credit": "0.5",
+      "credit": "",
       "description": "Placement for six weeks with a global and international focus.",
       "prerequisites": "third-year standing in BGINS.",
       "offerings": [],
@@ -165,7 +165,7 @@
     {
       "code": "GINS 3911",
       "name": "BGInS International Placement",
-      "credit": "1.0",
+      "credit": "",
       "description": "Placement for twelve weeks with a global and international focus.",
       "prerequisites": "third-year standing in BGInS.",
       "offerings": [],
@@ -175,7 +175,7 @@
     {
       "code": "GINS 3930",
       "name": "Carleton International Placement",
-      "credit": "0.5",
+      "credit": "",
       "description": "Placement for six weeks with a global and international focus for students outside of the BGInS Program.  Graded Sat/Uns.",
       "prerequisites": "Third-year standing and minimum CGPA of 9.0.",
       "offerings": [],
@@ -185,7 +185,7 @@
     {
       "code": "GINS 3931",
       "name": "Carleton International Placement",
-      "credit": "1.0",
+      "credit": "",
       "description": "Placement for twelve weeks with a global and international focus for students outside of the BGInS Program.",
       "prerequisites": "Third-year standing and minimum CGPA of 9.0.",
       "offerings": [],
@@ -195,7 +195,7 @@
     {
       "code": "GINS 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "",
       "prerequisites": "",
       "offerings": [],
@@ -205,7 +205,7 @@
     {
       "code": "GINS 4090",
       "name": "Honours Seminar in Global and International Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of key debates in global and international studies from a variety of disciplinary and interdisciplinary perspectives. Integration of knowledge from different areas of emphasis in global studies. A major research paper is required that undertakes to focus theoretical insight on practical concerns.",
       "prerequisites": "fourth-year Honours standing in B.G.In.S.",
       "offerings": [
@@ -218,7 +218,7 @@
     {
       "code": "GINS 4900",
       "name": "Tutorial in Global and International Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "A tutorial on selected topics in which seminars are not available.",
       "prerequisites": "fourth-year Honours standing in B.G.In.S. and permission of the Program Director.",
       "offerings": [],
@@ -228,7 +228,7 @@
     {
       "code": "GINS 4908",
       "name": "Honours Research Essay",
-      "credit": "1.0",
+      "credit": "",
       "description": "Individual research project resulting in a major essay, completed under the supervision of a faculty member and evaluated by both the supervisor and an appointed reader.  B.G.In.S. regulations apply.",
       "prerequisites": "fourth-year Honours standing in B.G.In.S. with a CGPA of 9.00 or higher, or permission of the Program Director.",
       "offerings": [],
@@ -239,171 +239,171 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Specialization in Africa and Globalization B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Africa and Globalization  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: Free Electives 8.0"
+      "text": "4.  8.0 credits in:  Free Electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Europe and Russia in the World B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Europe and Russia in the World  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
       "text": "4. 8.0 credits in: free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global and Transnational History B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global and Transnational History  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in free electives 8.0"
+      "text": "4.  8.0 credits in  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Development B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Development  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: Free Electives 8.0"
+      "text": "4.  8.0 credits in:  Free Electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Genders and Sexualities B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Genders and Sexualities   B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Inequalities and Social Change B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Inequalities and Social Change  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: Free Electives 8.0"
+      "text": "4.  8.0 credits in:  Free Electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Law and Social Justice B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Law and Social Justice  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Media and Communication B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Media and Communication  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Politics B.G.In.S. Honours (20.0 Credits)",
+      "degree": "Specialization in Global Politics  B.G.In.S. Honours (20.0 Credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Global Religions: Identity and Community B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Religions: Identity and Community  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in free electives 8.0"
+      "text": "4.  8.0 credits in  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Globalization and the Environment B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Globalization and the Environment  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Globalization, Culture and Power B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Globalization, Culture and Power  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in: free electives 8.0"
+      "text": "4.  8.0 credits in:  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in International Economic Policy B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in International Economic Policy  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in free electives 8.0"
+      "text": "4.  8.0 credits in  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Specialization in Latin American and Caribbean Studies B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Latin American and Caribbean Studies  B.G.In.S. Honours (20.0 credits)",
       "credits": "8.0",
-      "text": "4.  8.0 credits in free electives 8.0"
+      "text": "4.  8.0 credits in  free electives 8.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Africa and Globalization B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Africa and Globalization  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "3.  7.0 credits in  free electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Europe and Russia in the World B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Europe and Russia in the World  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global and Transnational History B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global and Transnational History  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "3.  7.0 credits in  free electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Development B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Development  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "3.  7.0 credits in  free electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Genders and Sexualities B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Genders and Sexualities  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "3.  7.0 credits in  free electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Inequalities and Social Change B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Inequalities and Social Change  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Law and Social Justice B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Law and Social Justice  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Media and Communication B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Media and Communication  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: free electives 7.0"
+      "text": "3.  7.0 credits in:  free electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Politics B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Politics  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Global Religions: Identity and Community B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Religions: Identity and Community  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in free electives 7.0"
+      "text": "3.  7.0 credits in  free electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Globalization and the Environment B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Globalization and the Environment  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Globalization, Culture and Power B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Globalization, Culture and Power  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in International Economic Policy B.G.In.S. (15.0 credits)",
+      "degree": "Stream in International Economic Policy  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     },
     {
       "type": "requirement",
-      "degree": "Stream in Latin American and Caribbean Studies B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Latin American and Caribbean Studies  B.G.In.S. (15.0 credits)",
       "credits": "7.0",
-      "text": "3.  7.0 credits in: Free Electives 7.0"
+      "text": "3.  7.0 credits in:  Free Electives 7.0"
     }
   ],
   "programs": [
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "degree": "Specialization in Africa and Globalization B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Africa and Globalization  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -735,18 +735,11 @@
             "HIST 3406",
             "HIST 3710",
             "MUSI 2005",
-            "MUSI 4005"
-          ],
-          "credits": 0.5,
-          "description": "i. 0.5 credit from: African Diaspora"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "MUSI 4005",
             "AFRI 4000"
           ],
           "credits": 0.5,
-          "description": "j. 0.5 credit in: Core Honours Seminar"
+          "description": "i. 0.5 credit from: African Diaspora"
         },
         {
           "type": "choose",
@@ -766,7 +759,7 @@
       ]
     },
     {
-      "degree": "Specialization in Europe and Russia in the World B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Europe and Russia in the World  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2067,7 +2060,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global and Transnational History B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global and Transnational History  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2189,18 +2182,11 @@
             "HIST 2206",
             "HIST 2508",
             "HIST 2510",
-            "HIST 2511"
+            "HIST 2511",
+            "HIST 2809"
           ],
           "credits": 1.0,
           "description": "c. 1.0 credit from: Regional History: Europe and the World"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "HIST 2809"
-          ],
-          "credits": 0.5,
-          "description": "d. 0.5 credit in Historical Method"
         },
         {
           "type": "choose",
@@ -2278,7 +2264,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global Development B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Development  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2399,47 +2385,26 @@
             "ANTH 3027",
             "ANTH 3040",
             "ANTH 3045",
-            "ANTH 3355"
-          ],
-          "credits": null,
-          "description": "And one of:"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ANTH 3355",
             "ECON 1001",
             "ECON 1002",
-            "ECON 3508"
-          ],
-          "credits": 1.5,
-          "description": "c. 1.5 credits in: Economics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 3508",
             "GEOG 2200",
             "GEOG 3404"
           ],
-          "credits": 1.5,
-          "description": "d. 1.5 credits in: Geography"
+          "credits": null,
+          "description": "And one of:"
         },
         {
           "type": "choose",
           "courses": [
             "GEOG 2023",
             "GEOG 3023",
-            "GEOG 3209"
+            "GEOG 3209",
+            "PSCI 2102"
           ],
           "credits": null,
           "description": "And one of:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "PSCI 2102"
-          ],
-          "credits": 1.5,
-          "description": "e. 1.5 credits in: Political Science"
         },
         {
           "type": "choose",
@@ -2456,18 +2421,11 @@
           "type": "choose",
           "courses": [
             "PSCI 4104",
-            "PSCI 4105"
+            "PSCI 4105",
+            "IPAF 2000"
           ],
           "credits": null,
           "description": "And one of:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "IPAF 2000"
-          ],
-          "credits": 0.5,
-          "description": "f. 0.5 credit in: Research Methodologies"
         },
         {
           "type": "choose",
@@ -2495,26 +2453,19 @@
             "PSCI 4605",
             "PSCI 4800",
             "PSCI 4805",
-            "PSCI 4808"
-          ],
-          "credits": 0.5,
-          "description": "g. 0.5 credits from: Advanced courses"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "PSCI 4808",
             "ECON 1401",
             "ECON 1402",
             "ECON 3020",
             "ECON 3102"
           ],
-          "credits": null,
-          "description": "Note: To meet the prerequisite requirements for the economics courses listed among the 4000-level Global Development electives above, students must have obtained a grade of C- or higher in ECON 1401 and ECON 1402 and C- or higher in one or both of ECON 3020 and ECON 3102 ."
+          "credits": 0.5,
+          "description": "g. 0.5 credits from: Advanced courses"
         }
       ]
     },
     {
-      "degree": "Specialization in Global Genders and Sexualities B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Genders and Sexualities   B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2659,7 +2610,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global Inequalities and Social Change B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Inequalities and Social Change  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2748,7 +2699,7 @@
             "SOCI 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Sociology I Introduction to Sociology II"
+          "description": "Introduction to Sociology I  Introduction to Sociology II"
         },
         {
           "type": "required",
@@ -2858,7 +2809,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global Law and Social Justice B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Law and Social Justice  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3064,7 +3015,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global Media and Communication B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Media and Communication  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3175,21 +3126,14 @@
           "courses": [
             "COMS 2003",
             "COMS 2004",
-            "COMS 2005"
-          ],
-          "credits": 1.0,
-          "description": "b. 1.0 credit from: Introductory Theory and Methods"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "COMS 2005",
             "COMS 3001",
             "COMS 3002",
             "COMS 3400",
             "COMS 3500"
           ],
-          "credits": 2.0,
-          "description": "c. 2.0 credits in: Advanced Theory and Methods"
+          "credits": 1.0,
+          "description": "b. 1.0 credit from: Introductory Theory and Methods"
         },
         {
           "type": "choose",
@@ -3214,7 +3158,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global Politics B.G.In.S. Honours (20.0 Credits)",
+      "degree": "Specialization in Global Politics  B.G.In.S. Honours (20.0 Credits)",
       "requirements": [
         {
           "type": "required",
@@ -3425,308 +3369,49 @@
           "description": "A Statistical Toolkit for Political Scientists"
         },
         {
-          "type": "required",
+          "type": "choose",
           "courses": [
-            "PSCI 3100"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3101"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Security in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3102"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development of China"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3103"
-          ],
-          "credits": 0.5,
-          "description": "State, Society and Economy in Northeast Asia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3105"
-          ],
-          "credits": 0.5,
-          "description": "Imperialism and Decolonization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3107"
-          ],
-          "credits": 0.5,
-          "description": "The Causes of War"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3108"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Popular Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3109"
-          ],
-          "credits": 0.5,
-          "description": "The Politics of Law and Morality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3200"
-          ],
-          "credits": 0.5,
-          "description": "U.S. Constitutional Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3203"
-          ],
-          "credits": 0.5,
-          "description": "Government and Politics in the Middle East"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Mexican Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3206"
-          ],
-          "credits": 0.5,
-          "description": "European Democracies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3207"
-          ],
-          "credits": 0.5,
-          "description": "Politics of the European Union"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3208"
-          ],
-          "credits": 0.5,
-          "description": "Politics in Russia and Ukraine: Power and Contestation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3209"
-          ],
-          "credits": 0.5,
-          "description": "Reconstruction and Transformation in Europe and Eurasia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3210"
-          ],
-          "credits": 0.5,
-          "description": "Electoral Politics in the U.S."
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3307"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3309"
-          ],
-          "credits": 0.5,
-          "description": "Modern Ideologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3310"
-          ],
-          "credits": 0.5,
-          "description": "Global Indigenous Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3405"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Public Policy Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3406"
-          ],
-          "credits": 0.5,
-          "description": "Public Affairs and Media Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3407"
-          ],
-          "credits": 0.5,
-          "description": "Public Opinion and Public Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3502"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Politics: Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3600"
-          ],
-          "credits": 0.5,
-          "description": "International Institutions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3601"
-          ],
-          "credits": 0.5,
-          "description": "Theories of International Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3603"
-          ],
-          "credits": 0.5,
-          "description": "Strategic Thought and International Security"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3606"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Foreign Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3607"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Defence Policy at Home and Abroad"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3608"
-          ],
-          "credits": 0.5,
-          "description": "Migration Governance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3609"
-          ],
-          "credits": 0.5,
-          "description": "Global Politics of Food"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3700"
-          ],
-          "credits": 0.5,
-          "description": "Government and Politics of South Asia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3702"
-          ],
-          "credits": 0.5,
-          "description": "The Politics of Israel/Palestine"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3703"
-          ],
-          "credits": 0.5,
-          "description": "Governing in the Global Economy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3801"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3802"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3805"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Race"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 3100",
+            "PSCI 3101",
+            "PSCI 3102",
+            "PSCI 3103",
+            "PSCI 3105",
+            "PSCI 3107",
+            "PSCI 3108",
+            "PSCI 3109",
+            "PSCI 3200",
+            "PSCI 3203",
+            "PSCI 3204",
+            "PSCI 3205",
+            "PSCI 3206",
+            "PSCI 3207",
+            "PSCI 3208",
+            "PSCI 3209",
+            "PSCI 3210",
+            "PSCI 3307",
+            "PSCI 3309",
+            "PSCI 3310",
+            "PSCI 3405",
+            "PSCI 3406",
+            "PSCI 3407",
+            "PSCI 3502",
+            "PSCI 3600",
+            "PSCI 3601",
+            "PSCI 3603",
+            "PSCI 3606",
+            "PSCI 3607",
+            "PSCI 3608",
+            "PSCI 3609",
+            "PSCI 3700",
+            "PSCI 3702",
+            "PSCI 3703",
+            "PSCI 3801",
+            "PSCI 3802",
+            "PSCI 3805",
             "PSCI 3908"
           ],
-          "credits": 0.5,
-          "description": "Summer Field Research Course"
+          "credits": 2.5,
+          "description": "f. 2.5 credits from: Global Politics Electives"
         },
         {
           "type": "choose",
@@ -3797,7 +3482,7 @@
       ]
     },
     {
-      "degree": "Specialization in Global Religions: Identity and Community B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Global Religions: Identity and Community  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3905,7 +3590,7 @@
       ]
     },
     {
-      "degree": "Specialization in Globalization and the Environment B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Globalization and the Environment  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3990,28 +3675,14 @@
         {
           "type": "choose",
           "courses": [
-            "ENST 1000"
-          ],
-          "credits": 0.5,
-          "description": "a.  0.5 credit from: Foundations I"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ENST 1000",
             "GEOG 1020",
-            "ENST 1020"
-          ],
-          "credits": null,
-          "description": "OR"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ENST 1020",
             "GEOG 1010",
             "GEOG 2200"
           ],
-          "credits": 1.0,
-          "description": "b. 1.0 credit in: Foundations II"
+          "credits": 0.5,
+          "description": "a.  0.5 credit from: Foundations I"
         },
         {
           "type": "choose",
@@ -4039,21 +3710,14 @@
             "GEOG 3209",
             "HRSJ 3503",
             "PSCI 3801",
-            "TSES 3002"
-          ],
-          "credits": 2.0,
-          "description": "d.  2.0 credits from: Global Environment"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "TSES 3002",
             "GEOG 2005",
             "ENST 2005",
             "GEOG 2006",
             "ENST 2006"
           ],
-          "credits": 1.0,
-          "description": "e. 1.0 credit in: Research Methodologies"
+          "credits": 2.0,
+          "description": "d.  2.0 credits from: Global Environment"
         },
         {
           "type": "choose",
@@ -4072,7 +3736,7 @@
       ]
     },
     {
-      "degree": "Specialization in Globalization, Culture and Power B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Globalization, Culture and Power  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4581,7 +4245,7 @@
       ]
     },
     {
-      "degree": "Specialization in International Economic Policy B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in International Economic Policy  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4670,7 +4334,7 @@
             "ECON 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Microeconomics Introduction to Macroeconomics"
+          "description": "Introduction to Microeconomics  Introduction to Macroeconomics"
         },
         {
           "type": "required",
@@ -4790,7 +4454,7 @@
       ]
     },
     {
-      "degree": "Specialization in Latin American and Caribbean Studies B.G.In.S. Honours (20.0 credits)",
+      "degree": "Specialization in Latin American and Caribbean Studies  B.G.In.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4981,25 +4645,18 @@
             "PSCI 4505",
             "SOCI 2020",
             "SOCI 3020",
-            "SOCI 3027"
-          ],
-          "credits": 1.5,
-          "description": "e. 1.5 credits from: Context"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "SOCI 3027",
             "LACS 4001",
             "LACS 4819",
             "PSCI 4819"
           ],
-          "credits": 0.5,
-          "description": "f. 0.5 credit in: Capstone Seminar"
+          "credits": 1.5,
+          "description": "e. 1.5 credits from: Context"
         }
       ]
     },
     {
-      "degree": "Stream in Africa and Globalization B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Africa and Globalization  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -5069,91 +4726,35 @@
           "type": "choose",
           "courses": [
             "AFRI 1001",
-            "AFRI 1002"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "AFRI 1002",
             "AFRI 2002",
             "AFRI 2003",
             "AFRI 2004",
             "AFRI 2005",
-            "AFRI 2006"
-          ],
-          "credits": null,
-          "description": "b. African Regions"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "AFRI 2006",
             "AFRI 3001",
             "AFRI 3002",
             "AFRI 3003",
             "AFRI 3004",
             "AFRI 3005",
             "AFRI 3007",
-            "AFRI 3200"
-          ],
-          "credits": null,
-          "description": "c. Intermediate African Studies"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "AFRI 3200",
             "AFRI 3100",
-            "AFRI 3900"
-          ],
-          "credits": null,
-          "description": "d. African Experience"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "AFRI 3900",
             "HIST 2706",
             "HIST 2707",
             "HIST 3717",
-            "HIST 3906"
-          ],
-          "credits": null,
-          "description": "e. History"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "HIST 3906",
             "PSCI 3100",
-            "PSCI 3101"
-          ],
-          "credits": null,
-          "description": "f. Politics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 3101",
             "ANTH 2620",
-            "ANTH 2660"
-          ],
-          "credits": null,
-          "description": "g. Anthropology"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ANTH 2660",
             "AFRI 3609",
             "AFRI 3916",
             "ENGL 2926",
             "ENGL 2927",
             "FREN 4212",
-            "MUSI 4105"
-          ],
-          "credits": null,
-          "description": "h. Literature and Culture"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "MUSI 4105",
             "ENGL 2957",
             "ENGL 3940",
             "HIST 2710",
@@ -5161,13 +4762,13 @@
             "HIST 3710",
             "MUSI 2005"
           ],
-          "credits": null,
-          "description": "i. African Diaspora"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Europe and Russia in the World B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Europe and Russia in the World  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -6444,7 +6045,7 @@
       ]
     },
     {
-      "degree": "Stream in Global and Transnational History B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global and Transnational History  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -6542,18 +6143,11 @@
             "HIST 2206",
             "HIST 2508",
             "HIST 2510",
-            "HIST 2511"
-          ],
-          "credits": 0.5,
-          "description": "c. 0.5 credit from: Regional History: Europe and the World"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "HIST 2511",
             "HIST 2809"
           ],
           "credits": 0.5,
-          "description": "d. 0.5 credit in Historical Method"
+          "description": "c. 0.5 credit from: Regional History: Europe and the World"
         },
         {
           "type": "choose",
@@ -6596,7 +6190,7 @@
       ]
     },
     {
-      "degree": "Stream in Global Development B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Development  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -6665,14 +6259,7 @@
         {
           "type": "choose",
           "courses": [
-            "GINS 1100"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "GINS 1100",
             "ANTH 1001",
             "ANTH 1002",
             "ANTH 2850",
@@ -6680,59 +6267,31 @@
             "ANTH 3027",
             "ANTH 3040",
             "ANTH 3045",
-            "ANTH 3355"
-          ],
-          "credits": null,
-          "description": "b. Anthropology"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ANTH 3355",
             "ECON 1001",
             "ECON 1002",
             "ECON 3508",
             "ECON 3509",
-            "ECON 3510"
-          ],
-          "credits": null,
-          "description": "c. Economics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 3510",
             "GEOG 2023",
             "GEOG 2200",
             "GEOG 3023",
             "GEOG 3209",
-            "GEOG 3404"
-          ],
-          "credits": null,
-          "description": "d. Geography"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "GEOG 3404",
             "PSCI 2102",
             "PSCI 3100",
             "PSCI 3204",
             "PSCI 3502",
-            "PSCI 3700"
-          ],
-          "credits": null,
-          "description": "d. Political Science"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 3700",
             "IPAF 2000"
           ],
-          "credits": null,
-          "description": "e. Research Methodologies"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Global Genders and Sexualities B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Genders and Sexualities  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -6802,14 +6361,7 @@
           "type": "choose",
           "courses": [
             "SXST 2101",
-            "WGST 1808"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "WGST 1808",
             "CRST 2001",
             "CRST 4001",
             "SXST 2102",
@@ -6818,14 +6370,7 @@
             "SXST 3106",
             "WGST 2803",
             "WGST 2811",
-            "WGST 3001"
-          ],
-          "credits": null,
-          "description": "b. Theorizing Bodies and Borders"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "WGST 3001",
             "HRSJ 2202",
             "HRSJ 2301",
             "HRSJ 3202",
@@ -6836,13 +6381,13 @@
             "WGST 3807",
             "WGST 3812"
           ],
-          "credits": null,
-          "description": "c. Advocacy and Activism"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Global Inequalities and Social Change B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Inequalities and Social Change  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -6915,7 +6460,7 @@
             "SOCI 1002"
           ],
           "credits": 0.5,
-          "description": "Introduction to Sociology I Introduction to Sociology II"
+          "description": "Introduction to Sociology I  Introduction to Sociology II"
         },
         {
           "type": "required",
@@ -6937,287 +6482,49 @@
           "type": "choose",
           "courses": [
             "SOCI 2001",
-            "SOCI 2004"
-          ],
-          "credits": 0.5,
-          "description": "and 0.5 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "SOCI 2005"
-          ],
-          "credits": 1.0,
-          "description": "c. 1.0 credit in: Theory"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2010"
-          ],
-          "credits": 0.5,
-          "description": "Critical Approaches to Economic Inequality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2020"
-          ],
-          "credits": 0.5,
-          "description": "Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2035"
-          ],
-          "credits": 0.5,
-          "description": "Technology, Culture and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2040"
-          ],
-          "credits": 0.5,
-          "description": "Food, Culture and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2045"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2060"
-          ],
-          "credits": 0.5,
-          "description": "Girlhood in Contemporary Contexts: Anthropological and Sociological Perspectives"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2160"
-          ],
-          "credits": 0.5,
-          "description": "War and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2170"
-          ],
-          "credits": 0.5,
-          "description": "Foundations in Social Justice"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2702"
-          ],
-          "credits": 0.5,
-          "description": "Power and Social Change"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2705"
-          ],
-          "credits": 0.5,
-          "description": "Popular Culture in the Digital Age"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2810"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Sociology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 2820"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Sociology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3004"
-          ],
-          "credits": 0.5,
-          "description": "Qualitative Research: Approaches and Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3006"
-          ],
-          "credits": 0.5,
-          "description": "Thinking the Social: Theories and Approaches"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3008"
-          ],
-          "credits": 0.5,
-          "description": "Data Analysis for Social Sciences"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3010"
-          ],
-          "credits": 0.5,
-          "description": "Power, Oppression and Resistance"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3019"
-          ],
-          "credits": 0.5,
-          "description": "Sociology of International Migration"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3020"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Race and Ethnicity"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3027"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3030"
-          ],
-          "credits": 0.5,
-          "description": "Work, Industry, and Occupations"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3035"
-          ],
-          "credits": 0.5,
-          "description": "Science, Culture and Society: Social Studies of Science"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3038"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Urban Sociology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3040"
-          ],
-          "credits": 0.5,
-          "description": "Studies in the Sociology of Gender"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3044"
-          ],
-          "credits": 0.5,
-          "description": "Sociology of Sex and Sexuality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3045"
-          ],
-          "credits": 0.5,
-          "description": "Children and Childhood in a Globalized World"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3160"
-          ],
-          "credits": 0.5,
-          "description": "Political Violence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3170"
-          ],
-          "credits": 0.5,
-          "description": "Social Justice in Action"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3210"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Sociology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3220"
-          ],
-          "credits": 0.5,
-          "description": "Special Topics in Sociology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3430"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Collective Action and Social Movements"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3570"
-          ],
-          "credits": 0.5,
-          "description": "Studies in Art, Culture and Society"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "SOCI 3710"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Cultural Studies"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "SOCI 2004",
+            "SOCI 2005",
+            "SOCI 2010",
+            "SOCI 2020",
+            "SOCI 2035",
+            "SOCI 2040",
+            "SOCI 2045",
+            "SOCI 2060",
+            "SOCI 2160",
+            "SOCI 2170",
+            "SOCI 2702",
+            "SOCI 2705",
+            "SOCI 2810",
+            "SOCI 2820",
+            "SOCI 3004",
+            "SOCI 3006",
+            "SOCI 3008",
+            "SOCI 3010",
+            "SOCI 3019",
+            "SOCI 3020",
+            "SOCI 3027",
+            "SOCI 3030",
+            "SOCI 3035",
+            "SOCI 3038",
+            "SOCI 3040",
+            "SOCI 3044",
+            "SOCI 3045",
+            "SOCI 3160",
+            "SOCI 3170",
+            "SOCI 3210",
+            "SOCI 3220",
+            "SOCI 3430",
+            "SOCI 3570",
+            "SOCI 3710",
             "SOCI 3805"
           ],
           "credits": 0.5,
-          "description": "Studies in Population"
+          "description": "and 0.5 credit from:"
         }
       ]
     },
     {
-      "degree": "Stream in Global Law and Social Justice B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Law and Social Justice  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -7287,41 +6594,13 @@
           "type": "choose",
           "courses": [
             "LAWS 1001",
-            "LAWS 1002"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "LAWS 2908"
-          ],
-          "credits": null,
-          "description": "b. Research Methodologies"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "LAWS 1002",
+            "LAWS 2908",
             "HRSJ 2001",
             "LAWS 2105",
-            "LAWS 2601"
-          ],
-          "credits": null,
-          "description": "c. Second Year Core Courses"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "LAWS 2601",
             "LAWS 3602",
-            "LAWS 3604"
-          ],
-          "credits": null,
-          "description": "d. Third Year Core Courses"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "LAWS 3604",
             "HRSJ 3002",
             "HRSJ 3301",
             "HRSJ 3302",
@@ -7337,13 +6616,13 @@
             "LAWS 3509",
             "LAWS 3800"
           ],
-          "credits": null,
-          "description": "e. Global Law and Social Justice"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Global Media and Communication B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Media and Communication  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -7415,45 +6694,24 @@
             "COMS 1001",
             "COMS 1002",
             "COMS 2005",
-            "COMS 2700"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "COMS 2700",
             "COMS 2003",
-            "COMS 2004"
-          ],
-          "credits": null,
-          "description": "b. Introductory Theory and Methods"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "COMS 2004",
             "COMS 3001",
             "COMS 3002",
-            "COMS 3500"
-          ],
-          "credits": null,
-          "description": "c. Advanced Theory and Methods"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "COMS 3500",
             "COMS 3108",
             "COMS 3109",
             "COMS 3311",
             "COMS 3601"
           ],
-          "credits": null,
-          "description": "d. Advanced Core"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Global Politics B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Politics  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -7522,326 +6780,60 @@
         {
           "type": "choose",
           "courses": [
-            "PSCI 1200"
-          ],
-          "credits": null,
-          "description": "a. Introduction"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 1200",
             "PSCI 2101",
-            "PSCI 2102"
-          ],
-          "credits": null,
-          "description": "b. Comparative Politics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 2102",
             "PSCI 2601",
-            "PSCI 2602"
-          ],
-          "credits": null,
-          "description": "International Relations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 2602",
             "PSCI 2002",
             "PSCI 2003",
             "PSCI 2200",
             "PSCI 2401",
-            "PSCI 2500"
-          ],
-          "credits": null,
-          "description": "d. Political Science at the 2000 level"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 2500",
             "PSCI 2701",
-            "PSCI 2702"
-          ],
-          "credits": null,
-          "description": "e.  Research Methodologies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3100"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3101"
-          ],
-          "credits": 0.5,
-          "description": "Conflict and Security in Africa"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3102"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Development of China"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3103"
-          ],
-          "credits": 0.5,
-          "description": "State, Society and Economy in Northeast Asia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3105"
-          ],
-          "credits": 0.5,
-          "description": "Imperialism and Decolonization"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3107"
-          ],
-          "credits": 0.5,
-          "description": "The Causes of War"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3108"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Popular Culture"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3109"
-          ],
-          "credits": 0.5,
-          "description": "The Politics of Law and Morality"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3200"
-          ],
-          "credits": 0.5,
-          "description": "U.S. Constitutional Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3203"
-          ],
-          "credits": 0.5,
-          "description": "Government and Politics in the Middle East"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3204"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Latin America"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3205"
-          ],
-          "credits": 0.5,
-          "description": "Mexican Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3206"
-          ],
-          "credits": 0.5,
-          "description": "European Democracies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3207"
-          ],
-          "credits": 0.5,
-          "description": "Politics of the European Union"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3208"
-          ],
-          "credits": 0.5,
-          "description": "Politics in Russia and Ukraine: Power and Contestation"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3209"
-          ],
-          "credits": 0.5,
-          "description": "Reconstruction and Transformation in Europe and Eurasia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3307"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3310"
-          ],
-          "credits": 0.5,
-          "description": "Global Indigenous Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3405"
-          ],
-          "credits": 0.5,
-          "description": "Comparative Public Policy Analysis"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3406"
-          ],
-          "credits": 0.5,
-          "description": "Public Affairs and Media Strategies"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3407"
-          ],
-          "credits": 0.5,
-          "description": "Public Opinion and Public Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3502"
-          ],
-          "credits": 0.5,
-          "description": "Gender and Politics: Global South"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3600"
-          ],
-          "credits": 0.5,
-          "description": "International Institutions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3601"
-          ],
-          "credits": 0.5,
-          "description": "Theories of International Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3603"
-          ],
-          "credits": 0.5,
-          "description": "Strategic Thought and International Security"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3606"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Foreign Policy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3607"
-          ],
-          "credits": 0.5,
-          "description": "Canadian Defence Policy at Home and Abroad"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3700"
-          ],
-          "credits": 0.5,
-          "description": "Government and Politics of South Asia"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3702"
-          ],
-          "credits": 0.5,
-          "description": "The Politics of Israel/Palestine"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3703"
-          ],
-          "credits": 0.5,
-          "description": "Governing in the Global Economy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3801"
-          ],
-          "credits": 0.5,
-          "description": "Environmental Politics"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3802"
-          ],
-          "credits": 0.5,
-          "description": "Globalization and Human Rights"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSCI 3805"
-          ],
-          "credits": 0.5,
-          "description": "Politics of Race"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "PSCI 2702",
+            "PSCI 3100",
+            "PSCI 3101",
+            "PSCI 3102",
+            "PSCI 3103",
+            "PSCI 3105",
+            "PSCI 3107",
+            "PSCI 3108",
+            "PSCI 3109",
+            "PSCI 3200",
+            "PSCI 3203",
+            "PSCI 3204",
+            "PSCI 3205",
+            "PSCI 3206",
+            "PSCI 3207",
+            "PSCI 3208",
+            "PSCI 3209",
+            "PSCI 3307",
+            "PSCI 3310",
+            "PSCI 3405",
+            "PSCI 3406",
+            "PSCI 3407",
+            "PSCI 3502",
+            "PSCI 3600",
+            "PSCI 3601",
+            "PSCI 3603",
+            "PSCI 3606",
+            "PSCI 3607",
+            "PSCI 3700",
+            "PSCI 3702",
+            "PSCI 3703",
+            "PSCI 3801",
+            "PSCI 3802",
+            "PSCI 3805",
             "PSCI 3908"
           ],
-          "credits": 0.5,
-          "description": "Summer Field Research Course"
+          "credits": 4.0,
+          "description": "4.0 credits from:  The Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Global Religions: Identity and Community B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Global Religions: Identity and Community  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -7933,7 +6925,7 @@
       ]
     },
     {
-      "degree": "Stream in Globalization and the Environment B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Globalization and the Environment  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -8005,27 +6997,13 @@
             "GEOG 1010",
             "GEOG 1020",
             "ENST 1020",
-            "GEOG 2200"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "GEOG 2200",
             "GEOG 2023",
             "GEOG 2300",
             "GEOG 3023",
             "GEOG 3024",
             "GEOG 3025",
-            "GEOG 3404"
-          ],
-          "credits": null,
-          "description": "b. Globalization"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "GEOG 3404",
             "ANTH 3355",
             "GEOG 2500",
             "ENST 2500",
@@ -8035,26 +7013,19 @@
             "GEOG 3209",
             "HRSJ 3503",
             "PSCI 3801",
-            "TSES 3002"
-          ],
-          "credits": null,
-          "description": "c. Global Environment"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "TSES 3002",
             "GEOG 2005",
             "ENST 2005",
             "GEOG 2006",
             "ENST 2006"
           ],
-          "credits": null,
-          "description": "d. Research Methodologies"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Globalization, Culture and Power B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Globalization, Culture and Power  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -8127,28 +7098,14 @@
             "ANTH 1002",
             "ANTH 1050",
             "ANTH 2001",
-            "ANTH 3005"
-          ],
-          "credits": 2.5,
-          "description": "a. 2.5 credits in Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ANTH 3005",
             "ANTH 2850",
             "ANTH 3010",
             "ANTH 3027",
             "ANTH 3040",
             "ANTH 3045",
             "GEOG 2300",
-            "GEOG 3021"
-          ],
-          "credits": 0.5,
-          "description": "b. 0.5 credit in Culture and Globalization"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "GEOG 3021",
             "ANTH 2610",
             "ANTH 2620",
             "ANTH 2630",
@@ -8157,14 +7114,7 @@
             "ANTH 2645",
             "ANTH 2660",
             "ANTH 2680",
-            "ANTH 2690"
-          ],
-          "credits": 0.5,
-          "description": "c. 0.5 credit in Ethnography"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ANTH 2690",
             "ANTH 2020",
             "ANTH 2040",
             "ANTH 2060",
@@ -8180,13 +7130,13 @@
             "ANTH 3580",
             "ANTH 3600"
           ],
-          "credits": 0.5,
-          "description": "d. 0.5 credit in Topical Explorations in Anthropology"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in International Economic Policy B.G.In.S. (15.0 credits)",
+      "degree": "Stream in International Economic Policy  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -8257,42 +7207,14 @@
           "courses": [
             "ECON 1001",
             "ECON 1002",
-            "FYSM 1003"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "FYSM 1003",
             "ECON 2001",
             "ECON 2009",
-            "ECON 2020"
-          ],
-          "credits": null,
-          "description": "b. Microeconomics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 2020",
             "ECON 2101",
-            "ECON 2102"
-          ],
-          "credits": null,
-          "description": "c. Macroeconomics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 2102",
             "IPAF 2000",
-            "ECON 2210"
-          ],
-          "credits": null,
-          "description": "d. Research Methodologies"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ECON 2210",
             "ECON 3403",
             "ECON 3405",
             "ECON 3508",
@@ -8316,13 +7238,13 @@
             "ECON 1401",
             "ECON 1402"
           ],
-          "credits": null,
-          "description": "e. International Economic Policy"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     },
     {
-      "degree": "Stream in Latin American and Caribbean Studies B.G.In.S. (15.0 credits)",
+      "degree": "Stream in Latin American and Caribbean Studies  B.G.In.S. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -8392,33 +7314,12 @@
           "type": "choose",
           "courses": [
             "LACS 1001",
-            "LACS 2001"
-          ],
-          "credits": null,
-          "description": "a. Foundations"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "LACS 2001",
             "HIST 2308",
             "HIST 2309",
-            "HIST 2710"
-          ],
-          "credits": null,
-          "description": "b. History"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "HIST 2710",
             "PSCI 3204",
-            "PSCI 3205"
-          ],
-          "credits": null,
-          "description": "c. Politics"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PSCI 3205",
             "ANTH 2640",
             "ENGL 2956",
             "ENGL 2957",
@@ -8430,14 +7331,7 @@
             "HIST 3712",
             "HIST 3713",
             "LACS 1001",
-            "LACS 2001"
-          ],
-          "credits": null,
-          "description": "d. Courses with LACS Content"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "LACS 2001",
             "ANTH 2020",
             "ANTH 2040",
             "ANTH 2850",
@@ -8470,8 +7364,8 @@
             "SOCI 3020",
             "SOCI 3027"
           ],
-          "credits": null,
-          "description": "e. Context"
+          "credits": 4.0,
+          "description": "4.0 credits from:  the Stream"
         }
       ]
     }

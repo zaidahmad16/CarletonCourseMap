@@ -5,157 +5,189 @@
     {
       "code": "BIOL 1010",
       "name": "Biotechnology and Society",
-      "credit": "0.5",
+      "credit": "",
       "description": "A course for students interested in the science behind recent advances in biotechnology. The different ways in which biotechnology is being applied in agriculture, health care,  and the environment will be examined.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 1103",
       "name": "Foundations of Biology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "A research-oriented course focusing on the scientific process of biological exploration at the cellular level. Topics include cell organization, metabolism, genetics, and reproduction.",
       "prerequisites": "Ontario 4U/M in Biology (or equivalent), or Ontario 4U/M in Chemistry (or equivalent).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 1104",
       "name": "Foundations of Biology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "A research-oriented course focusing on the scientific process of biological exploration at the macroscale. Topics include evolution, diversity of life, and ecological relationships.",
       "prerequisites": "Ontario 4U/M in Biology (or equivalent) or BIOL 1103 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 1105",
       "name": "Introduction to Biological Data",
-      "credit": "0.5",
+      "credit": "",
       "description": "Formulation of biological research questions, development of hypotheses and predictions, design of experiments, collection and analysis of data, interpretation and presentation of results.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 1902",
       "name": "Natural History",
-      "credit": "0.5",
+      "credit": "",
       "description": "A course designed primarily for students in non-biology programs to investigate the natural history of plants and animals, and the communities in which they occur. Particular attention is paid to the Ottawa region, but appropriate examples from other locales are also included.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2001",
       "name": "Animals: Form and Function",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the diverse structures of animals (both invertebrates and vertebrates) in relationship to their functions, discussed within an evolutionary framework.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2002",
       "name": "Plants: Form and Function",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the structure and development of higher plants (at cellular, morphological and organism levels) discussed in relation to their function.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2005",
       "name": "Human Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A course for non-specialists interested in how the human body works. Topics will include biological molecules, cells, genetics, and various organ systems. Examples will be used to connect concepts taught in the course with general knowledge of human health and disease.",
       "prerequisites": "BIOL 1103 , CHEM 1001 , and CHEM 1002 . Students in Biology and Biochemistry programs may only take this course as a free elective.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2104",
       "name": "Introductory Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Lecture/laboratory course on the mechanisms of inheritance and the nature of gene structure, composition and function, introducing both classical Mendelian genetics and modern molecular genetics.  It is strongly recommended that this course be taken by Biology majors in their second year of study.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2107",
       "name": "Fundamentals of Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Mechanisms of inheritance and the nature of gene structure, composition and function, introducing both classical Mendelian genetics and modern molecular genetics.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2200",
       "name": "Cellular Biochemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Cellular functions and their interrelationships. Introduction to thermodynamics, membrane structure and function, transport mechanisms, basic metabolic pathways, energy production and utilization, communications between cells. It is strongly recommended that Biology Majors and Honours students take this course in their second year of study.",
       "prerequisites": "BIOL 1103 , BIOL 1104 , CHEM 1001 , and CHEM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2201",
       "name": "Cell Biology and Biochemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of the molecular, metabolic and structural organization of cells in relation to function. This course is recommended for students not taking upper year Biology laboratory courses for which BIOL/BIOC laboratories are prerequisites.",
       "prerequisites": "BIOL 1103 and CHEM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2301",
       "name": "Biotechnology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introductory course on the science, technology, entrepreneurial skills and business considerations related to biotechnology. The course will survey broadly across the disciplines of Biology, including applications in agriculture, health, environment and industry.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2303",
       "name": "Microbiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The biology of the bacteria, Archaea, Viruses and Protozoans, from the fundamentals of cell chemistry, molecular biology, structure and function, to their involvement in ecological and industrial processes and human disease.",
       "prerequisites": "BIOL 1103 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2600",
       "name": "Ecology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The scientific study of interactions of living organisms and their environment, and how these affect the distribution and abundance of life. Topics include energy transformation and flow, nutrient cycling, population and community dynamics, human impacts on ecosystems, conservation issues. Laboratory includes field and computer exercises.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 2903",
       "name": "Natural History and Ecology of Ontario",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the remarkable diversity and ecological relationships of Ontario's flora and fauna, which are explored in a habitat context.",
       "prerequisites": "BIOL 1104 or BIOL 1902 .",
       "offerings": [],
@@ -165,157 +197,187 @@
     {
       "code": "BIOL 3004",
       "name": "Insect Diversity",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introductory course dealing with the taxonomic diversity, anatomy, behavior and physiology of insects, as well as their impacts on ecosystems, agriculture and animal and human health.",
       "prerequisites": "BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3008",
       "name": "Bioinformatics",
-      "credit": "0.5",
+      "credit": "",
       "description": "A practical exploration in the application of information technology to biochemistry and molecular biology. Insight into biological knowledge discovery via molecular structure and function prediction, comparative genomics and biological information management.",
       "prerequisites": "BIOC 2200 or BIOL 2200 , or BIOL 2201 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3102",
       "name": "Mycology",
-      "credit": "0.5",
+      "credit": "",
       "description": "This introductory course will cover the morphology, physiology, life cycles, evolution, ecology and biotechnology of the fungi.",
       "prerequisites": "BIOL 2104 or BIOL 2107 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3104",
       "name": "Molecular Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "A lecture course dealing with modern advances in molecular genetics.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3110",
       "name": "Origin of Life",
-      "credit": "0.5",
+      "credit": "",
       "description": "An exploration of the main hypotheses, lines of evidence, and open questions to the origin of life.  Topics include thermodynamics of life, the Oparin-Haldane hypothesis, the Miller-Urey experiment, the RNA world hypothesis, panspermia hypotheses, and a special focus on the alkaline hydrothermal vent hypothesis.",
       "prerequisites": "BIOL 2200 or BIOL 2201 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3111",
       "name": "Vertebrate Evolution: Mammals, Reptiles, and Birds",
-      "credit": "0.5",
+      "credit": "",
       "description": "Evolution of mammals, reptiles and birds. Emphasis on surveying amniote diversity, and the origin of key amniote transformations, as evidenced by the fossil record.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3112",
       "name": "Vertebrate Evolution: Fish and Amphibians",
-      "credit": "0.5",
+      "credit": "",
       "description": "Evolution of fish and amphibians. Emphasis on surveying fish and amphibian diversity, and the origin of key transformations of these groups, as evidenced by the fossil record.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3201",
       "name": "Cell Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A lecture and laboratory course on the structure, composition, and function of eukaryotic cells.",
       "prerequisites": "BIOL 2104 and BIOL 2200 / BIOC 2200 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3202",
       "name": "Principles of Developmental Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the underlying principles and mechanisms governing development in multicellular animals and plants. Differentiation, growth, morphogenesis, and patterning will be examined at the organismal, cellular, and molecular levels to provide a balanced view of developmental phenomena in key model organisms.",
       "prerequisites": "BIOL 2104 or BIOL 2107 and one of BIOL 2001 or BIOL 2002 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3205",
       "name": "Plant Biochemistry and Physiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A lecture and laboratory course consisting of selected topics in metabolism and physiology of plants, including photosynthesis, nutrient uptake and transport, intermediary and secondary metabolism, germination, growth and development.",
       "prerequisites": "BIOL 2002 and BIOL 2200 / BIOC 2200 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3301",
       "name": "Biotechnology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An interdisciplinary course on interactions between science, invention and innovation in biotechnology. Case studies related to regional biotechnology opportunities; social and ethical issues impacting biotechnology.",
       "prerequisites": "BIOL 2301 , BIOL 2104 or BIOL 2107 , and BIOL 2200 / BIOC 2200 or BIOL 2201 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3303",
       "name": "Experimental Microbiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Intensive training in laboratory techniques in microbiology, using bacteria and other microorganisms to demonstrate processes of cell growth, metabolism, gene expression, rapid evolution, gene transfer, microbial community dynamics and interactions with other organisms.",
       "prerequisites": "BIOL 2104 , BIOL 2200 / BIOC 2200 and BIOL 2303 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3305",
       "name": "Human and Comparative Physiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The properties of physiological systems and components of humans and other animals with an emphasis on physical and chemical bases.",
       "prerequisites": "BIOL 2200 / BIOC 2200 and BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3306",
       "name": "Human Anatomy and Physiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The anatomy and physiology of the neuromuscular, cardiovascular, respiratory, and excretory systems of humans with comparison to other animals.",
       "prerequisites": "BIOL 1103 , BIOL 1104 , CHEM 1001 , CHEM 1002 , and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3307",
       "name": "Advanced Human Anatomy and Physiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The anatomy and physiology of the endocrine, skeletal, digestive, immunological, and reproductive systems, with additional emphasis on the embryological origins of the major physiological systems.",
       "prerequisites": "BIOL 3305 or BIOL 3306 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3501",
       "name": "Biomechanics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Properties of muscles, tendons, bones, joints and the co-ordinated use of these structures. Human and other animal locomotion and fitness, bird flight, especially the soaring of the vulture and the albatross, and animal migration are covered in detail.",
       "prerequisites": "BIOL 1103 , BIOL 1104 , and third-year standing.",
       "offerings": [],
@@ -325,7 +387,7 @@
     {
       "code": "BIOL 3601",
       "name": "Ecosystems and Environmental Change",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of the unique contribution of the ecosystem approach to ecology, and of early key literature in ecosystem ecology through to current work on global environmental change.",
       "prerequisites": "BIOL 2600 .",
       "offerings": [],
@@ -335,7 +397,7 @@
     {
       "code": "BIOL 3602",
       "name": "Conservation Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The science of biology as applied to the problem of maintaining species diversity. Topics include: history of conservation biology, valuation of species, indices of biodiversity, extinction, conservation genetics, conservation planning in parks and reserves, landscape ecology and case studies of conservation problems.",
       "prerequisites": "BIOL 2600 or permission of the Department.",
       "offerings": [],
@@ -345,37 +407,45 @@
     {
       "code": "BIOL 3604",
       "name": "Statistics for Biologists",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the analysis of biological data. Students analyze real biological data sets in weekly laboratory sessions. Methods introduced include simple linear, polynomial, and multiple regression analysis, analysis of variance, nonparametric tests, tests of independence and logistic regression analysis.",
       "prerequisites": "BIOL 1105 or STAT 2507 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3605",
       "name": "Field Course I",
-      "credit": "0.5",
+      "credit": "",
       "description": "An intensive study of living organisms under natural conditions. Credit is based on two weeks of full-time fieldwork with attendant assignments. Transportation and room and board costs are borne by the student. Ontario Universities Program in Field Biology; see offered modules for specific prerequisites.",
       "prerequisites": "at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL 3605 and BIOL 3606 for credit, but neither may be used to repeat a particular module.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3606",
       "name": "Field Course II",
-      "credit": "0.5",
+      "credit": "",
       "description": "An intensive study of living organisms under natural conditions. Credit is based on two weeks of full-time fieldwork with attendant assignments. Transportation and room and board costs are borne by the student. Ontario Universities Program in Field Biology; see offered modules for specific prerequisites.",
       "prerequisites": "at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL 3605 and BIOL 3606 for credit, but neither can be used to repeat a particular module.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3608",
       "name": "Principles of Biogeography",
-      "credit": "0.5",
+      "credit": "",
       "description": "Contemporary and past controls on distribution of plants and animals at global, regional and local scales; significance of these distributions.",
       "prerequisites": "BIOL 2600 or GEOG 1010 or permission of the Department.",
       "offerings": [],
@@ -385,7 +455,7 @@
     {
       "code": "BIOL 3609",
       "name": "Evolutionary Concepts",
-      "credit": "0.5",
+      "credit": "",
       "description": "Evolution is the change in population properties across generations. Genetic variation, mutation, selection, drift, gene flow, genome evolution, speciation, development, biodiversity, fossils, and macro-evolution.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the instructor.",
       "offerings": [],
@@ -395,17 +465,19 @@
     {
       "code": "BIOL 3611",
       "name": "Evolutionary Ecology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The term \u201cadaptation\u201d is meaningful only with respect to an ecological context. Ecological contexts lead to evolutionary outcomes such as diverse mating systems, ageing, sexual reproduction, sexual dimorphism, geographic variation, phenotypic plasticity, and diverse life histories.",
       "prerequisites": "BIOL 2600 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3612",
       "name": "Computational Methods in Ecology and Evolution",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the development and use of computer programs to address biological problems. Topics  include the development of programs to analyse ecological data, models of population dynamics, deterministic chaos, cellular automata, simulations of foraging behaviour and evolutionary computation.",
       "prerequisites": "BIOL 2600 or permission of the Department.",
       "offerings": [],
@@ -415,47 +487,56 @@
     {
       "code": "BIOL 3801",
       "name": "Plants and Herbivores",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of the chemical, physiological, ecological and evolutionary interactions that underlie the relationship between plants and their insect herbivores.",
       "prerequisites": "BIOL 2001 and BIOL 2002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3802",
       "name": "Animal Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced study of animal behaviour including the environmental, genetic, and neural influences on behaviour. Topics such as predator-prey interactions, mating behaviour, migration, parental care and social interactions are interpreted in an evolutionary context.",
       "prerequisites": "BIOL 2001 or BIOL 2600 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3804",
       "name": "Social Evolution",
-      "credit": "0.5",
+      "credit": "",
       "description": "Diversity in social behaviour from evolutionary and ecological perspectives. Topics include ecological determinants of social living, social networks, social foraging, inclusive fitness, kin selection, altruism, cooperation, and mating systems and strategies.",
       "prerequisites": "BIOL 2600 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3901",
       "name": "Research Proposal",
-      "credit": "0.5",
+      "credit": "",
       "description": "The development of a competitive research proposal in consultation with an advisor.",
       "prerequisites": "third year standing in an Honours Biology program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 3902",
       "name": "Special Topics in Biology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Specific topics of current interest. Topics may vary from year to year.",
       "prerequisites": "third-year standing in a Biology program or permission of the Department.",
       "offerings": [],
@@ -465,7 +546,7 @@
     {
       "code": "BIOL 3999",
       "name": "Co-operative Work Term Report",
-      "credit": "0.0",
+      "credit": "",
       "description": "Practical experience for students enrolled in the Co-operative Option. Students must receive satisfactory evaluations from their work term employer. Written reports describing the work term project will be required. Graded SAT or UNS.",
       "prerequisites": "registration in the Biology Co-operative Option and permission of the Department.",
       "offerings": [],
@@ -475,7 +556,7 @@
     {
       "code": "BIOL 4007",
       "name": "Evolutionary Developmental Paleobiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores the mechanistic basis of organismic evolution from genetic, morphogenetic and epigenetic perspectives, within a phylogenetic context of living and extinct vertebrates.",
       "prerequisites": "ERTH 2312 or BIOL 2001 , and BIOL 2104 .",
       "offerings": [],
@@ -485,7 +566,7 @@
     {
       "code": "BIOL 4008",
       "name": "Molecular Plant Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Recent advances in plant development including molecular, biochemical, genomics, and proteomics studies.",
       "prerequisites": "BIOL 2002 or permission of the Department.",
       "offerings": [],
@@ -495,7 +576,7 @@
     {
       "code": "BIOL 4102",
       "name": "Molecular Ecology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The interface of molecular biology, ecology and population biology. Topics include experimental design and a survey and critique of molecular genetic methods to study ecology.",
       "prerequisites": "BIOL 2600 and ( BIOL 2104 or BIOL 2107 ) or permission of the Department.",
       "offerings": [],
@@ -505,17 +586,19 @@
     {
       "code": "BIOL 4103",
       "name": "Population Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Evolution of gene frequencies, including selection, mutation, genetic drift, inbreeding, gene flow, and population structure.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the Department. A course in statistics is highly recommended.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4104",
       "name": "Evolutionary Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of the molecular evidence of evolution, speciation as well as the phylogenetic analysis of biological sequence data and biometrical traits.",
       "prerequisites": "( BIOL 2001 or BIOL 2002 ) and ( BIOL 2104 or BIOL 2107 ) or permission of the Department. A course in statistics is recommended.",
       "offerings": [],
@@ -525,27 +608,31 @@
     {
       "code": "BIOL 4106",
       "name": "Advances in Molecular Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Review of the application of high throughput approaches to research in molecular and cellular biology and biochemistry with an emphasis on gene function and human disease progression.",
       "prerequisites": "BIOL 2303 and ( BIOL 3104 or BIOL 3201 or BIOL 3303 ).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4109",
       "name": "Laboratory Techniques in Molecular Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "This laboratory course provides practical familiarity with commonly used techniques in molecular genetics. The laboratory is suitable for students with a developing interest in problems of molecular and cellular biology and biochemistry.",
       "prerequisites": "BIOL 2200 / BIOC 2200 and BIOL 2303 and BIOL 3104 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4200",
       "name": "Immunology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The organization and function of the immune system, including the anatomy of the immune system, the properties and behaviour of cells of the immune system, and the molecular and genetic bases of the immune response.",
       "prerequisites": "BIOL 3201 or permission of the Department.",
       "offerings": [],
@@ -555,17 +642,19 @@
     {
       "code": "BIOL 4201",
       "name": "Advanced Cell Culture and Tissue Engineering",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theory and application of current techniques and developments in cell culture as applied to research questions in the field of stem cells and tissue engineering.",
       "prerequisites": "BIOL 3201 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4202",
       "name": "Mutagenesis and DNA Repair",
-      "credit": "0.5",
+      "credit": "",
       "description": "A mechanistic study of mutagenesis and DNA repair. Topics  include DNA structure perturbations, spontaneous and induced mutagenesis, the genetics and biochemistry of DNA repair and recombination, and the role of mutations in the development of genetic disease and cancer.",
       "prerequisites": "BIOL 3104 and BIOL 2200 / BIOC 2200 or permission of the Department.",
       "offerings": [],
@@ -575,67 +664,79 @@
     {
       "code": "BIOL 4203",
       "name": "Evolution of Sex",
-      "credit": "0.5",
+      "credit": "",
       "description": "The evolution of sex, including meiosis, syngamy, sex determination, sex chromosomes, and gender from organismal, genetic, and developmental perspectives; the origin, maintenance, function, and ubiquity of sex.",
       "prerequisites": "BIOL 2104 or BIOL 2107 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4206",
       "name": "Human Genetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey of human genetic variation and mutation in a molecular genetics context. Topics may include molecular basis of diseases, chromosomal abnormalities, genomic imprinting, cancer genetics, genomics, gene mapping and gene therapy.",
       "prerequisites": "BIOL 3104 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4207",
-      "name": "Advanced Embryology & Developmental Biology",
-      "credit": "0.5",
+      "name": "Advanced Embryology &amp; Developmental Biology",
+      "credit": "",
       "description": "A laboratory-based exploration of techniques and recent developments in the use of model embryological systems as applied to questions of development and human health.",
       "prerequisites": "BIOL 3201 or BIOL 3202 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4209",
       "name": "Advanced Plant Physiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "An advanced course dealing with recent developments in selected topics of plant physiology.",
       "prerequisites": "BIOL 3205 and CHEM 2203 , CHEM 2204 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4300",
       "name": "Applied Microbiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Studies of the application of microorganisms. Topics may include: microbial communities, and agricultural, pharmaceutical, industrial and health sciences.",
-      "prerequisites": "( BIOL 2200 / BIOC 2200 or BIOL 2201 ), BIOL 2303 and ( BIOL 3104 or BIOL 3303 )  or permission of the Department.",
-      "offerings": [],
+      "prerequisites": "( BIOL 2200 / BIOC 2200 or BIOL 2201 ), BIOL 2303 and ( BIOL 3104 or BIOL 3303 ) or permission of the Department.",
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4301",
       "name": "Current Topics in Biotechnology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Explorations of developing biotechnologies in areas such as microbial products, protein engineering, plant genetic engineering, environmental remediation, pharmaceuticals production and medical diagnostics and therapy.",
       "prerequisites": "BIOL 3301 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4303",
       "name": "Advances in Microbiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Exploration of current microbiology including the molecular biology of infectious agents, use of model micro-organisms to study human cells and diseases, and functional genomics and proteomics. Special attention will be paid to the field\u2019s \"big questions\". Students will critically examine a number of research proposals.",
       "prerequisites": "BIOL 2303 and ( BIOL 3104 or BIOL 3303 or BIOC 3102 ) or permission of the Department.",
       "offerings": [],
@@ -645,17 +746,19 @@
     {
       "code": "BIOL 4304",
       "name": "Forensic Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to forensics that covers topics in molecular biology, biochemistry, genetics, population genetics and statistics as they relate to forensic biology. The course will describe the techniques used to identify body fluids and generate DNA profiles as well as the interpretation of forensic results.",
       "prerequisites": "( BIOL 2104 or BIOL 2107 ) and ( BIOL 2200 / BIOC 2200 or BIOL 2201 ) or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4306",
       "name": "Animal Neurophysiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A course dealing with recent advances made in particular areas of animal neurophysiology.",
       "prerequisites": "BIOL 3305 or BIOL 3306 , or permission of the Department.",
       "offerings": [],
@@ -665,17 +768,19 @@
     {
       "code": "BIOL 4309",
       "name": "Studies in Human Performance",
-      "credit": "0.5",
+      "credit": "",
       "description": "Biomechanical underpinnings of human performance including the quantitative analysis of human motion in normal activities and in athletic performance. Students will learn modern motion capture methods. This course will require students to design and execute an independent project.",
       "prerequisites": "BIOL 3307 and fourth-year standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4317",
       "name": "Neuroethology: The Neural Basis of Animal Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Proximate mechanisms underlying animal behaviour. Focus on evolution of nervous systems in response to environmental selection pressures. Topics include: genetic and hormonal influences on behaviour (e.g. maternal care); unique sensory worlds (e.g. magnetic); various levels of neural integration, from simple reflexes to complex social behaviour.",
       "prerequisites": "BIOL 3305 or BIOL 3306 , or permission of the Department.",
       "offerings": [],
@@ -685,7 +790,7 @@
     {
       "code": "BIOL 4318",
       "name": "Adaptations to Extreme Environments",
-      "credit": "0.5",
+      "credit": "",
       "description": "Lectures, discussions and student presentations will be used to examine adaptations of animals to extreme environments (e.g. desert) or lifestyles (e.g. diving), at the physiological, biochemical and molecular levels. Emphasis on becoming familiar with the current primary literature.",
       "prerequisites": "BIOL 3305 , or permission of the Department.",
       "offerings": [],
@@ -695,7 +800,7 @@
     {
       "code": "BIOL 4319",
       "name": "Studies in Exercise Physiology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Physiological mechanisms underlying human athletic performance. Exercise physiology and cardio-respiratory activity, metabolic regulation and musculoskeletal function. Practical experience will be gained in the workshop/laboratory based experimental sessions.",
       "prerequisites": "BIOL 3307 and fourth-year standing, or permission of the Department.",
       "offerings": [],
@@ -705,7 +810,7 @@
     {
       "code": "BIOL 4500",
       "name": "The Biology of Birds",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to ornithology, the study of birds; the evolution of birds, migration, geographic variation, adaptations for flight, feeding, reproduction; extinction and preservation.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
       "offerings": [],
@@ -715,7 +820,7 @@
     {
       "code": "BIOL 4501",
       "name": "The Taxonomy of Birds",
-      "credit": "0.5",
+      "credit": "",
       "description": "The taxonomy of birds and species identification are learned through the use of study skins in the lab. Field excursions allow first-hand study of various species. Participants must acquire a pair of binoculars and one of the recommended field guides.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
       "offerings": [],
@@ -725,27 +830,32 @@
     {
       "code": "BIOL 4502",
       "name": "Herpetology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Herpetology is the study of amphibians and reptiles.  The behaviours, physiological ecology, conservation and identification of amphibians and reptiles will be examined through lectures, seminars and hands-on activities.",
       "prerequisites": "BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4503",
       "name": "Fish Ecology, Conservation and Management",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the diversity and environmental biology of the world's fishes. Applied issues in fisheries management, conservation, and aquaculture. Workshops expose students to techniques in fisheries science through hands-on demonstrations and field excursions.",
       "prerequisites": "BIOL 2600 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4504",
       "name": "Ecology of Freshwater Invertebrates",
-      "credit": "0.5",
+      "credit": "",
       "description": "Overview of the diversity and ecology of freshwater invertebrates. Aquatic invertebrates from local bodies of water will be sampled and identified in the lab. Experiments on the ecology and behaviour of model species of freshwater invertebrates will also be conducted in the lab.",
       "prerequisites": "BIOL 2001 and BIOL 2600 .",
       "offerings": [],
@@ -755,7 +865,7 @@
     {
       "code": "BIOL 4505",
       "name": "Coral Reefs",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examining the diversity of life on coral reefs and their interactions across ecological scales, from the biochemistry of zooxanthellae symbiosis to landscape scale trophodynamics, reticulate evolution, and reef fisheries. Emphasis is on synthesis writing drawn from the current primary literature.",
       "prerequisites": "BIOL 2600 .",
       "offerings": [],
@@ -765,7 +875,7 @@
     {
       "code": "BIOL 4506",
       "name": "Cactus Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Covers the cactus family over its entire range, including most of the western hemisphere, with discussion on their anatomy, physiology, ecology, evolution, and classification. Topics include how cacti are both typical flowering plants in some regards, and atypical in others.",
       "prerequisites": "BIOL 2002 .",
       "offerings": [],
@@ -775,7 +885,7 @@
     {
       "code": "BIOL 4507",
       "name": "Ecological Parasitology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Key concepts in the ecological study of parasites and pathogens, underpinned by evolutionary thinking and relevant to fundamental and applied questions of co-evolution, disease ecology, epidemiology, emerging infectious diseases, environmental parasitology, evolutionary transitions, host species range, immunity, resistance, tolerance, transmission mode, and virulence.",
       "prerequisites": "BIOL 2600 and one of the following: BIOL 3601 , BIOL 3604 , BIOL 3609 , BIOL 3611 , BIOL 3612 , BIOL 3801 , BIOL 3802 , BIOL 3804 .",
       "offerings": [],
@@ -785,17 +895,19 @@
     {
       "code": "BIOL 4602",
       "name": "Evolutionary Applications across Disciplines: From Medicine to Conservation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Evolutionary principles contributing to advancements across fields including medicine, agriculture, conservation, climate change, and engineering. Topics include evolution of virulence, causes of variation in human health, evolution of resistance to pesticides, interventions for recovery of species at risk, and biomimetic modeling in engineering and architecture.",
       "prerequisites": "BIOL 1104 and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4603",
       "name": "Insect Evolution and Biology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major questions on the origin, evolution and adaptation of structures and physiology of terrestrial arthropods, especially insects.",
       "prerequisites": "BIOL 3004 , or permission of the Department.",
       "offerings": [],
@@ -805,17 +917,19 @@
     {
       "code": "BIOL 4604",
       "name": "Landscape Ecology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Landscape ecology is the study of how landscape structure affects ecological processes and biodiversity. The focus of this course is on research methods and results in landscape ecology, with special emphasis on applications in forestry, agriculture, and species conservation.",
       "prerequisites": "BIOL 2600 and ( BIOL 3601 or BIOL 3602 or BIOL 3608 ) or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4802",
       "name": "Advanced Animal Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "Contemporary issues in behavioural ecology. Topics may include the relevance of behavioural ecology to conservation biology, to new insights into human social behaviour, and will be selected through consultation between professor and students.",
       "prerequisites": "BIOL 3802 or BIOL 3804 , or permission of the Department.",
       "offerings": [],
@@ -825,7 +939,7 @@
     {
       "code": "BIOL 4810",
       "name": "Education Research in Undergraduate Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to learning and teaching university science. The science of learning, evidence of effective teaching, and teaching methodologies. Professional ethics, constructivist learning, equity and inclusion. Discipline-Based Education Research (DBER). Students will conduct their own DBER research project.",
       "prerequisites": "4th year standing, or permission of the Department This course can only be used by students in programs offered by, or in conjunction with, the Faculty of Science as a free elective.",
       "offerings": [],
@@ -835,50 +949,65 @@
     {
       "code": "BIOL 4901",
       "name": "Directed Special Studies",
-      "credit": "0.5",
+      "credit": "",
       "description": "Independent or group study, open to third- and fourth-year students to explore a particular topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "permission of the Department. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4902",
       "name": "Special Topics in Biology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Specific topics of current interest. Topics may vary from year to year.",
       "prerequisites": "fourth-year standing in a Biology program or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4905",
       "name": "Honours Workshop",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students engage in biological topics of their choosing, an evidence-based synthesis developed and presented through multiple scientific communication methods (e.g., narrative review papers, media releases, infographics, and oral and poster presentations).  Evaluation is based on written syntheses, course assignments, and a year-end presentation.",
       "prerequisites": "fourth-year standing in an Honours biology program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4907",
       "name": "Honours Essay and Research Proposal",
-      "credit": "1.0",
+      "credit": "",
       "description": "An independent critical review and research proposal, using library resources, under the direct supervision of a Faculty advisor. Evaluation is based on a written report and a poster presentation.",
       "prerequisites": "fourth-year standing in an Honours Biology program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
     {
       "code": "BIOL 4908",
       "name": "Honours Research Thesis",
-      "credit": "1.0",
+      "credit": "",
       "description": "An independent research project undertaken in the field and/or the laboratory, under the direct supervision of a faculty adviser. Evaluation is based on a written thesis and a poster presentation.",
       "prerequisites": "fourth-year standing in an Honours biology program with a minimum CGPA of 8.0 in the major or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }
@@ -886,129 +1015,129 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Bioinformatics B.Sc. Honours (20.0 credits)",
+      "degree": "Bioinformatics  B.Sc. Honours (20.0 credits)",
       "credits": "0.5",
-      "text": "11.  0.5 credit in free electives. 0.5"
+      "text": "11.  0.5 credit in  free electives. 0.5"
     },
     {
       "type": "requirement",
-      "degree": "Biology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "14.  1.0 credit in free electives. 1.0"
+      "text": "14.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology with Concentration in Biodiversity, Natural History, and Conservation Science B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Biodiversity, Natural History, and Conservation Science  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "14.  1.0 credit in free electives 1.0"
+      "text": "14.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology with Concentration in Ecology, Evolution and Behaviour B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Ecology, Evolution and Behaviour  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "15.  1.0 credit in free electives. 1.0"
+      "text": "15.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology with Concentration in Health Science B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Health Science  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "18.  1.0 credit in free electives. 1.0"
+      "text": "18.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology with Concentration in Molecular and Cellular Biology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Molecular and Cellular Biology  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "16.  1.0 credit in free electives. 1.0"
+      "text": "16.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology with Concentration in Physiology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Physiology  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "15.  1.0 credit in free electives 1.0"
+      "text": "15.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology B.Sc. Major (20.0 credits)",
+      "degree": "Biology  B.Sc. Major (20.0 credits)",
       "credits": "1.0",
-      "text": "13.  1.0 credit in free electives. 1.0"
+      "text": "13.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology B.Sc. (15.0 credits)",
+      "degree": "Biology  B.Sc. (15.0 credits)",
       "credits": "1.0",
-      "text": "11.  1.0 credit in free electives. 1.0"
+      "text": "11.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology and Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology and Biotechnology  B.Sc. Honours  (20.0 credits)",
       "credits": "1.0",
-      "text": "9.  1.0 credit in free electives. 1.0"
+      "text": "9.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology and Earth Sciences B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Biology and Earth Sciences  B.Sc. Combined Honours  (20.0 credits)",
       "credits": "1.0",
-      "text": "16.  1.0 credit in free electives 1.0"
+      "text": "16.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology and Earth Sciences B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Biology and Earth Sciences  B.Sc. Combined Honours  (20.0 credits)",
       "credits": "0.5",
-      "text": "13.  0.5 credit in free electives 0.5"
+      "text": "13.  0.5 credit in  free electives 0.5"
     },
     {
       "type": "requirement",
-      "degree": "Biology B.A. Honours (20.0 credits)",
+      "degree": "Biology  B.A. Honours (20.0 credits)",
       "credits": "2.0",
-      "text": "13.  2.0 credits in free electives. 2.0"
+      "text": "13.  2.0 credits in  free electives. 2.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology B.A. (15.0 credits)",
+      "degree": "Biology  B.A. (15.0 credits)",
       "credits": "2.0",
-      "text": "8.  2.0 credits in free electives. 2.0"
+      "text": "8.  2.0 credits in  free electives. 2.0"
     },
     {
       "type": "requirement",
-      "degree": "Biology B.A. Combined Honours (20.0 credits)",
+      "degree": "Biology  B.A. Combined Honours (20.0 credits)",
       "credits": "3.0",
-      "text": "10.  3.0 credits in free electives. 3.0"
+      "text": "10.  3.0 credits in  free electives. 3.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -1037,7 +1166,7 @@
   ],
   "programs": [
     {
-      "degree": "Bioinformatics B.Sc. Honours (20.0 credits)",
+      "degree": "Bioinformatics  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1165,79 +1294,19 @@
           "description": "Advances in Molecular Biology"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5  credit in BIOL or BIOC or COMP or MATH or STAT at the 3000-level or higher"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 3901",
-            "BIOL 4901"
-          ],
-          "credits": 0.5,
-          "description": "0.5 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or 4000-level BIOL"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1005"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 1006"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Computer Science II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2401"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Systems Programming"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2402"
-          ],
-          "credits": 0.5,
-          "description": "Abstract Data Types and Algorithms"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2404"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Software Engineering"
-        },
-        {
-          "type": "required",
-          "courses": [
+            "BIOL 4901",
+            "COMP 1005",
+            "COMP 1006",
+            "COMP 2401",
+            "COMP 2402",
+            "COMP 2404",
             "COMP 2406"
           ],
           "credits": 0.5,
-          "description": "Fundamentals of Web Applications"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1246,7 +1315,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -1255,7 +1324,7 @@
             "CHEM 2204"
           ],
           "credits": 0.5,
-          "description": "Organic Chemistry I Organic Chemistry II"
+          "description": "Organic Chemistry I  Organic Chemistry II"
         },
         {
           "type": "choose",
@@ -1299,25 +1368,11 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Statistical Modeling II"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1392,18 +1447,6 @@
           "description": "0.5 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BIOL at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.5,
-          "description": "3.5 credits in BIOL or BIOC at the 3000-level or higher"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 3901",
@@ -1413,31 +1456,13 @@
           "description": "0.5 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or 4000-level BIOL"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Advanced Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001",
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -1457,41 +1482,16 @@
             "PHYS 1003",
             "PHYS 1008",
             "PHYS 1004",
-            "STAT 2507"
+            "STAT 2507",
+            "ISAP 1000"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Science Continuation (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology with Concentration in Biodiversity, Natural History, and Conservation Science B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Biodiversity, Natural History, and Conservation Science  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1689,12 +1689,6 @@
           "description": "1.5 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or BIOL at 4000-level or above"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001"
@@ -1734,18 +1728,6 @@
           "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Science Continuation courses (not in BIOL)"
-        },
-        {
           "type": "required",
           "courses": [
             "ERTH 2312"
@@ -1760,14 +1742,6 @@
           ],
           "credits": 0.5,
           "description": "Aquatic Science and Management"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses outside the Faculties of Science and Engineering\t and Design (may include ISAP 1000 )"
         },
         {
           "type": "required",
@@ -1800,17 +1774,11 @@
           ],
           "credits": 0.5,
           "description": "Indigenous Relationalities, Kinships, and Knowledges"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives"
         }
       ]
     },
     {
-      "degree": "Biology with Concentration in Ecology, Evolution and Behaviour B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Ecology, Evolution and Behaviour  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1962,12 +1930,6 @@
           "description": "2.0 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BIOL at the 2000 level or higher"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 3901",
@@ -1977,19 +1939,13 @@
           "description": "0.5 credit from"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or 4000-level BIOL"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001",
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -2009,41 +1965,16 @@
             "PHYS 1003",
             "PHYS 1008",
             "PHYS 1004",
-            "STAT 2507"
+            "STAT 2507",
+            "ISAP 1000"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Science Continuation courses (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology with Concentration in Health Science B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Health Science  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2193,12 +2124,6 @@
           "description": "0.5 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or 4000-level BIOL"
-        },
-        {
           "type": "choose",
           "courses": [
             "NEUR 2201",
@@ -2272,37 +2197,11 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Psychology II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation courses (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology with Concentration in Molecular and Cellular Biology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Molecular and Cellular Biology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2445,18 +2344,6 @@
           "description": "2.0 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BIOL or BIOC at the 2000 level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BIOL or BIOC at the 3000 level or higher"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 3901",
@@ -2466,19 +2353,13 @@
           "description": "0.5 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or 4000-level BIOL"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001",
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -2487,7 +2368,7 @@
             "CHEM 2204"
           ],
           "credits": 0.5,
-          "description": "Organic Chemistry I Organic Chemistry II"
+          "description": "Organic Chemistry I  Organic Chemistry II"
         },
         {
           "type": "required",
@@ -2507,41 +2388,16 @@
             "PHYS 1003",
             "PHYS 1008",
             "PHYS 1004",
-            "STAT 2507"
+            "STAT 2507",
+            "ISAP 1000"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation courses (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology with Concentration in Physiology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology with Concentration in Physiology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2679,18 +2535,6 @@
           "description": "2.0 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit in BIOL at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in BIOL or BIOC at the 3000-level or higher"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 3901",
@@ -2698,12 +2542,6 @@
           ],
           "credits": 0.5,
           "description": "0.5 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "4000-level BIOL"
         },
         {
           "type": "choose",
@@ -2736,41 +2574,16 @@
             "COMP 1005",
             "COMP 1006",
             "MATH 1107",
-            "STAT 2507"
+            "STAT 2507",
+            "ISAP 1000"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation courses (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives"
         }
       ]
     },
     {
-      "degree": "Biology B.Sc. Major (20.0 credits)",
+      "degree": "Biology  B.Sc. Major (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2821,25 +2634,13 @@
           "description": "0.5 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in BIOL at the 3000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Advanced Science Faculty electives"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001",
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -2859,47 +2660,16 @@
             "PHYS 1003",
             "PHYS 1008",
             "PHYS 1004",
-            "STAT 2507"
+            "STAT 2507",
+            "ISAP 1000"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Advanced Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Science Continuation courses (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology B.Sc. (15.0 credits)",
+      "degree": "Biology  B.Sc. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2953,7 +2723,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -2973,41 +2743,16 @@
             "PHYS 1003",
             "PHYS 1008",
             "PHYS 1004",
-            "STAT 2507"
+            "STAT 2507",
+            "ISAP 1000"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in Science Continuation (not in BIOL)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology and Biotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Biology and Biotechnology  B.Sc. Honours  (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3199,7 +2944,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -3208,7 +2953,7 @@
             "CHEM 2204"
           ],
           "credits": 0.5,
-          "description": "Organic Chemistry I Organic Chemistry II (See Note, below)"
+          "description": "Organic Chemistry I  Organic Chemistry II  (See Note, below)"
         },
         {
           "type": "required",
@@ -3233,17 +2978,11 @@
           ],
           "credits": 1.5,
           "description": "1.5 credits from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives."
         }
       ]
     },
     {
-      "degree": "Biology and Earth Sciences B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Biology and Earth Sciences  B.Sc. Combined Honours  (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3351,12 +3090,6 @@
           "description": "Frozen Earth: Unveiling the Snowball Earth Catastrophe"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in ERTH at the 4000-level"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 4905",
@@ -3390,7 +3123,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -3399,7 +3132,7 @@
             "PHYS 1008"
           ],
           "credits": 0.5,
-          "description": "Elementary University Physics I Elementary University Physics II"
+          "description": "Elementary University Physics I  Elementary University Physics II"
         },
         {
           "type": "required",
@@ -3416,31 +3149,11 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Computer Science I"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Continuation courses"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in Approved Courses Outside the Faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in free electives"
         }
       ]
     },
     {
-      "degree": "Biology and Physics B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Biology and Physics  B.Sc. Combined Honours  (20.0 credits)",
       "requirements": [
         {
           "type": "choose",
@@ -3584,7 +3297,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -3649,25 +3362,11 @@
           ],
           "credits": 0.5,
           "description": "Introduction to Computer Science I"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses outside the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 0.5,
-          "description": "0.5 credit in free electives"
         }
       ]
     },
     {
-      "degree": "Neuroscience and Biology B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Neuroscience and Biology  B.Sc. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3806,12 +3505,6 @@
           "description": "Human and Comparative Physiology"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credits in BIOL or BIOC at the 3000 level or above"
-        },
-        {
           "type": "choose",
           "courses": [
             "NEUR 3301",
@@ -3898,7 +3591,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
+          "description": "General Chemistry I  General Chemistry II"
         },
         {
           "type": "required",
@@ -3915,20 +3608,12 @@
             "PHYS 1008"
           ],
           "credits": 0.5,
-          "description": "Elementary University Physics I Elementary University Physics II"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses outside of the faculties of Science and Engineering and Design (may include ISAP 1000 )"
+          "description": "Elementary University Physics I  Elementary University Physics II"
         }
       ]
     },
     {
-      "degree": "Biology B.A. Honours (20.0 credits)",
+      "degree": "Biology  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -3981,18 +3666,6 @@
           "description": "0.5 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit in BIOL at the 3000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credits in BIOL"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 4905",
@@ -4009,50 +3682,12 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives at the 2000-level or higher, not in BIOL"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives not in BIOL"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in approved courses at the 2000 level outside of the faculties of Science and Engineering and Design"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 4.0,
-          "description": "4.0 credits in approved courses outside of the faculties of Science and Engineering and Design (may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit at the 3000- or 4000-level"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in free electives."
+          "description": "General Chemistry I  General Chemistry II"
         }
       ]
     },
     {
-      "degree": "Biology B.A. (15.0 credits)",
+      "degree": "Biology  B.A. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4092,50 +3727,18 @@
           "description": "2.0 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.5,
-          "description": "2.5 credits in BIOL"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001",
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives, not in BIOL"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 4.0,
-          "description": "4.0 credits in approved courses outside of the faculties of Science and Engineering and Design (but may include ISAP 1000 )"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 2.0,
-          "description": "2.0 credits in free electives."
+          "description": "General Chemistry I  General Chemistry II"
         }
       ]
     },
     {
-      "degree": "Biology B.A. Combined Honours (20.0 credits)",
+      "degree": "Biology  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4177,12 +3780,6 @@
           "description": "2.5 credits from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BIOL at the 3000-level or higher"
-        },
-        {
           "type": "choose",
           "courses": [
             "BIOL 4905",
@@ -4193,50 +3790,18 @@
           "description": "1.0 credit from:"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "or equivalent from the other Honours department"
-        },
-        {
           "type": "required",
           "courses": [
             "CHEM 1001",
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives, not in BIOL, at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in Science Faculty Electives, not in BIOL"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 7.0,
-          "description": "7.0 credits in approved courses outside of the faculties of Science and Engineering and Design (may include ISAP 1000 ), to include the requirements for the other discipline"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in free electives."
+          "description": "General Chemistry I  General Chemistry II"
         }
       ]
     },
     {
-      "degree": "Biology and Humanities B.Hum. Combined Honours (20.0 credits)",
+      "degree": "Biology and Humanities  B.Hum. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -4319,12 +3884,6 @@
           "description": "Modern European Art 1527-2000"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "OR"
-        },
-        {
           "type": "required",
           "courses": [
             "HUMS 3102"
@@ -4339,12 +3898,6 @@
           ],
           "credits": 0.5,
           "description": "Western Music 1850-2000"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "(See Note, below)"
         },
         {
           "type": "required",
@@ -4364,12 +3917,6 @@
           ],
           "credits": 0.5,
           "description": "0.5 credit from:"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits at the 2000-level or above"
         },
         {
           "type": "required",
@@ -4417,13 +3964,7 @@
             "CHEM 1002"
           ],
           "credits": 0.5,
-          "description": "General Chemistry I General Chemistry II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 3.0,
-          "description": "3.0 credits in BIOL or BIOC at the 3000-level or above"
+          "description": "General Chemistry I  General Chemistry II"
         }
       ]
     },
@@ -4445,18 +3986,6 @@
           ],
           "credits": 0.5,
           "description": "Foundations of Biology II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.5,
-          "description": "1.5 credit in BIOL at the 2000-level or higher"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": 1.0,
-          "description": "1.0 credit in BIOL at the 3000-level or higher"
         }
       ]
     },
@@ -5069,277 +4598,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "BIOC (Biochemistry)"
-        },
-        {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "CHEM (Chemistry)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering. Students wishing to register in Engineering courses must obtain the permission of the Faculty of Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Sciences)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology Courses (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",
@@ -5484,12 +4780,6 @@
           ],
           "credits": 0.5,
           "description": "Elementary Mathematics for Economics II"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "all 0000-level courses"
         }
       ]
     },

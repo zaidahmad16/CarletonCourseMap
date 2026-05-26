@@ -5,7 +5,7 @@
     {
       "code": "PHIL 1000",
       "name": "Introductory Philosophy: Fields, Figures and Problems",
-      "credit": "0.5",
+      "credit": "",
       "description": "What is metaphysics? Who was Socrates? What is Freedom? This  introduction sketches many branches of philosophy and the important problems associated with each. It introduces great philosophers, present and past, and traces enduring philosophical themes.",
       "prerequisites": "",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "PHIL 1100",
       "name": "Looking at Philosophy",
-      "credit": "1.0",
+      "credit": "",
       "description": "Introduction to philosophy: the nature of logical thinking; the existence of God; the objectivity of values; the meaning of life; free will, determinism and responsibility; the relation between mind and body; immortality; the possibility of knowledge.  This course is not intended for Majors.",
       "prerequisites": "",
       "offerings": [],
@@ -27,7 +27,7 @@
     {
       "code": "PHIL 1200",
       "name": "The Meaning of Life",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to concerns expressed by the perennial philosophical question, \"What is the meaning of life?\"  Students will be familiarized with the major philosophical approaches to life's meaning through a consideration of various contemporary and late modern works in the philosophy of life.",
       "prerequisites": "",
       "offerings": [
@@ -40,7 +40,7 @@
     {
       "code": "PHIL 1301",
       "name": "Mind, World, and Knowledge",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to a variety of philosophical works, including contemporary, on such topics as: the nature of being, the mental, the external, consciousness, perception, experience, meaning, truth, the nature of knowledge, scientific understanding, and how language and thought represent the world.",
       "prerequisites": "",
       "offerings": [
@@ -53,7 +53,7 @@
     {
       "code": "PHIL 1500",
       "name": "Contemporary Moral, Social and Religious Issues",
-      "credit": "1.0",
+      "credit": "",
       "description": "Moral theories, atheism or theism, feminism, and free will. Moral arguments concerning abortion, affirmative action, racism, human rights, children's rights, world hunger, capital punishment, euthanasia, censorship, pornography, legal paternalism, animal rights and environmental protection.",
       "prerequisites": "",
       "offerings": [],
@@ -63,7 +63,7 @@
     {
       "code": "PHIL 1550",
       "name": "Introduction to Ethics and Social Issues",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to understanding, assessing, and formulating ethical arguments concerning controversial issues. Particular issues studied may include, world hunger, capital punishment, terrorism, euthanasia, abortion, pornography and hate speech, animal rights, the environment, and topics in theories of race, gender and disability.",
       "prerequisites": "",
       "offerings": [
@@ -76,7 +76,7 @@
     {
       "code": "PHIL 1610",
       "name": "Great Philosophical Ideas, Part 1",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major figures and developments in philosophy from the early Greeks to the year 1400.  Descriptive and comparative approach, providing an understanding of the place of philosophers in the history of thought.  Appreciation of critical reasoning is included for comprehending philosophical developments.",
       "prerequisites": "",
       "offerings": [
@@ -88,7 +88,7 @@
     {
       "code": "PHIL 1620",
       "name": "Great Philosophical Ideas, Part 2",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major figures and developments in philosophy after the year 1400.  Descriptive and comparative approach, providing an understanding of the place of philosophers in the history of thought.  Appreciation of critical reasoning is included for comprehending philosophical developments.",
       "prerequisites": "",
       "offerings": [],
@@ -98,7 +98,7 @@
     {
       "code": "PHIL 1700",
       "name": "Philosophy of Love and Sex",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey of philosophical classics, on themes of romantic love, self-love, altruistic love, sexuality, eroticism and the passion/reason dichotomy, from Plato's Symposium to Foucault's History of Sexuality; and an examination of related contemporary issues in light of these perspectives.",
       "prerequisites": "",
       "offerings": [
@@ -110,7 +110,7 @@
     {
       "code": "PHIL 2001",
       "name": "Introduction to Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the techniques and philosophical implications of formal logic with emphasis on translation of expressions into symbolic form, testing for logical correctness, the formulation and application of rules of inference, and the relation between logic and language.  Open to first-year students.",
       "prerequisites": "",
       "offerings": [
@@ -123,7 +123,7 @@
     {
       "code": "PHIL 2003",
       "name": "Critical Thinking",
-      "credit": "0.5",
+      "credit": "",
       "description": "Assessment of reasoning and the development of cogent patterns of thinking. Reference to formal logic is minimal. Practice in criticizing examples of reasoning and in formulating one's own reasons correctly and clearly.  Open to first-year students.",
       "prerequisites": "",
       "offerings": [
@@ -136,7 +136,7 @@
     {
       "code": "PHIL 2005",
       "name": "Ancient Philosophy:  The Search for Wisdom",
-      "credit": "1.0",
+      "credit": "",
       "description": "An exploration of ancient philosophy as a search for wisdom and happiness from its Presocratic beginnings in Greece to its development in the Hellenistic world and Imperial Rome. Emphasis on philosophy as a contemplative activity and as a way of life.",
       "prerequisites": "0.5 credit in PHIL, or second-year standing.",
       "offerings": [
@@ -149,7 +149,7 @@
     {
       "code": "PHIL 2010",
       "name": "Issues in Theoretical Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Issues drawn from epistemology, metaphysics, philosophy of mind, philosophy of language, and related fields will be examined through careful study of significant philosophical texts after 1900, along with some ensuing debates.",
       "prerequisites": "enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.",
       "offerings": [
@@ -161,7 +161,7 @@
     {
       "code": "PHIL 2020",
       "name": "Issues in Practical Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Issues drawn from ethics, social and political philosophy, and related fields will be examined through careful study of significant philosophical texts , along with some ensuing debates.",
       "prerequisites": "enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.",
       "offerings": [
@@ -173,7 +173,7 @@
     {
       "code": "PHIL 2101",
       "name": "History of Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to ethical theories through a study of some of the major figures in moral philosophy, such as Aristotle, Hume, Kant and Mill.",
       "prerequisites": "0.5 credit in philosophy or second-year standing.",
       "offerings": [],
@@ -183,7 +183,7 @@
     {
       "code": "PHIL 2103",
       "name": "Philosophy of Human Rights",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical introduction to human rights sources, concepts, justifications, consequences, and challenges to them. Evolution of selected human rights as a) demands made in political struggles; b) declarations supported by moral or political principles and arguments; c) codes ratified and implemented by governments and international organizations.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [],
@@ -193,7 +193,7 @@
     {
       "code": "PHIL 2106",
       "name": "Information Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "An exploration of ethical issues that arise in the Age of Information. Topics to be discussed may include technology, surveillance and privacy, social media and privacy, social media and cognitive bias, bias in algorithms, AI ethics, intellectual property, and freedom of expression and assembly.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -205,7 +205,7 @@
     {
       "code": "PHIL 2120",
       "name": "Philosophy of Technology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical investigations of the nature of technology and the influence it has on our relationships with others, the natural world, and ourselves. Key themes may include the relation between technology and science and the role of technology in personal identity, social justice, and well-being.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [],
@@ -215,7 +215,7 @@
     {
       "code": "PHIL 2201",
       "name": "Introduction to Marxist Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The evolution of Marx's social and political views in the setting of 18 th - and 19 th - century anarchism, liberalism and conservatism. Themes of humanism, freedom, rights, the state, democracy, alienation, and inequality, primarily as they develop into the theory of historical materialism.",
       "prerequisites": "0.5 credit in philosophy or permission of the Department.",
       "offerings": [],
@@ -225,7 +225,7 @@
     {
       "code": "PHIL 2202",
       "name": "Topics in Marxist Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The dialectical materialism of Marx, Engels, and Lenin is compared with traditional materialist, idealist, and mechanist philosophy. Marxist views on issues such as equality, ethical objectivity, human well-being, matter and mind, the existence of God, knowledge versus skepticism, freedom of the will, and justice.",
       "prerequisites": "PHIL 2201 or 0.5 credit in the history of philosophy at the 2000-level or above.",
       "offerings": [],
@@ -235,7 +235,7 @@
     {
       "code": "PHIL 2301",
       "name": "Introduction to the Philosophy of Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical issues arising out of the attempt to understand the world scientifically. Topics may include: scientific methodology, revolution, observation, explanation, causation, induction, reduction, the difference between natural and social scientific understanding, realism, instrumentalism, constructivism.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -247,7 +247,7 @@
     {
       "code": "PHIL 2306",
       "name": "Philosophy and Feminism",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of philosophical issues arising from feminism. The course includes discussions of the historical roots of feminism, the role of reason and emotion, key concepts such as oppression, sexism, equality and difference, feminism and philosophies of race and of disability, and selected moral/political issues.",
       "prerequisites": "0.5 credit in philosophy or second-year standing.",
       "offerings": [],
@@ -257,7 +257,7 @@
     {
       "code": "PHIL 2307",
       "name": "Gender and Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics may include gender and sex in the history of philosophy, intersections between the politics and theories of gender, sexuality, and race, the place of the body in philosophical theory, the influence of gender and sex on science/social science, and queer/trans issues and politics.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -269,7 +269,7 @@
     {
       "code": "PHIL 2320",
       "name": "Children, Literature, and Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "An exploration of issues at the nexus of philosophy, children\u2019s literature, and childhood studies.  Topics may include an examination of children\u2019s books and young adult literature through a philosophical lens, as well as a critical examination of the \u201cphilosophy with children\u201d movement.",
       "prerequisites": "0.5 credit in philosophy or second-year standing in a philosophy program, or permission of the department.",
       "offerings": [],
@@ -279,7 +279,7 @@
     {
       "code": "PHIL 2330",
       "name": "Happiness, Well-being, and the Good Life",
-      "credit": "0.5",
+      "credit": "",
       "description": "A philosophical exploration of what makes a good human life. Topics may include the role of happiness, well-being, and flourishing in a good life, the relations between these aspects, and the extent to which they depend on luck and social considerations.",
       "prerequisites": "",
       "offerings": [
@@ -291,7 +291,7 @@
     {
       "code": "PHIL 2340",
       "name": "Philosophy and Popular Culture",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophy is all around us, it permeates culture. This course explores philosophical questions through the lens of popular culture. The material used may include films, shows, music, novels, video games, advertising, comic books, and so on.",
       "prerequisites": "",
       "offerings": [
@@ -303,7 +303,7 @@
     {
       "code": "PHIL 2380",
       "name": "Introduction to Environmental Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Major questions in environmental ethics: How should human beings view their relationship to the rest of nature? Is responsible stewardship of the environment compatible with current technology? Must future generations be protected? Do animals, other life forms, endangered species, ecosystems and/or the biosphere have value/rights?.",
       "prerequisites": "",
       "offerings": [
@@ -315,7 +315,7 @@
     {
       "code": "PHIL 2401",
       "name": "Ethics of Artificial Intelligence",
-      "credit": "0.5",
+      "credit": "",
       "description": "AI and robotic technologies raise pressing ethical issues. Topics discussed may include big data and privacy, the \u2018black box\u2019 problem and bias, human-AI interaction, automation and responsibility, AI codes of ethics, the moral status of AI, and potential risks to humanity posed by superintelligence.",
       "prerequisites": "0.5 credit in PHIL, or second year standing.",
       "offerings": [
@@ -327,7 +327,7 @@
     {
       "code": "PHIL 2405",
       "name": "Philosophy of the Paranormal",
-      "credit": "0.5",
+      "credit": "",
       "description": "Examination of claims, concepts, theories and methods in parapsychology. Their scientific character and the relation of paranormal phenomena to philosophical issues such as survival of death, human nature, time, space, causality and perception.",
       "prerequisites": "0.5 credit in philosophy or permission of the Department.",
       "offerings": [],
@@ -337,7 +337,7 @@
     {
       "code": "PHIL 2408",
       "name": "Bioethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Ethical and political issues in medicine, public health, biotechnology, and the life sciences. Topics may include reproductive ethics, research on human subjects, animal research and treatment, justice and health care, physician-patient relationships, death and the end of life, and genetic engineering.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -349,7 +349,7 @@
     {
       "code": "PHIL 2501",
       "name": "Introduction to Philosophy of Mind",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to major philosophical issues concerning human cognition. Topics may include: the relation of mind to body, knowledge of other minds, the relation of mental states to personhood and personal identity, mental illness, consciousness, intentionality, action, mental realism.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -361,7 +361,7 @@
     {
       "code": "PHIL 2504",
       "name": "Language and Communication",
-      "credit": "0.5",
+      "credit": "",
       "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. The nature of meaning; the connections between language, communication and cognition; language as a social activity.",
       "prerequisites": "second-year standing.",
       "offerings": [
@@ -373,7 +373,7 @@
     {
       "code": "PHIL 2520",
       "name": "Introduction to Philosophical Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to features of rational thinking activity, its expression, and its relation to the world, focusing on such topics as predication, truth, negation, necessity, entailment, logical form, or quantification.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [],
@@ -383,7 +383,7 @@
     {
       "code": "PHIL 2540",
       "name": "Personal Identity and the Self",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical perspectives on personal identity, the self, and the underlying issue of the relationship of the mind to the body. Both philosophical and psychological concepts of identity are discussed, as are related issues such as memory, introspection, and self-knowledge.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [],
@@ -393,7 +393,7 @@
     {
       "code": "PHIL 2550",
       "name": "Moral Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of psychological underpinnings of morality, focusing on studies at the intersection of philosophy, psychiatry, and psychology.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -405,7 +405,7 @@
     {
       "code": "PHIL 2601",
       "name": "Philosophy of Religion",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of philosophical issues arising from religion. Topics may include: arguments for and against the existence of God, religious experience, death and the afterlife, miracles, God and evil, the relationship between religion and science, and the relationship between religion and ethics.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [],
@@ -415,7 +415,7 @@
     {
       "code": "PHIL 2700",
       "name": "Asian Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of South Asian and East Asian philosophical texts, from the period of the Upanishads and early Buddhism in India to modern philosophical movements. Historical sources may include Hindu, Buddhist, Jain, Confucian or Taoist texts, with a focus on metaphysical, epistemological or ethical themes.",
       "prerequisites": "second-year standing.",
       "offerings": [],
@@ -425,7 +425,7 @@
     {
       "code": "PHIL 2807",
       "name": "Philosophy of Art",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical approaches to the study of art. Topics such as: the nature of art and artistic value; representation and symbolism in art; art and artifice; art and the emotions; art, culture and ideology; post-structuralism and art; theories of creativity; relationship between artworks and audiences.",
       "prerequisites": "",
       "offerings": [],
@@ -435,7 +435,7 @@
     {
       "code": "PHIL 2901",
       "name": "Truth and Propaganda",
-      "credit": "0.5",
+      "credit": "",
       "description": "Ancient and modern techniques of persuasion from analytical, ethical and jurisprudential perspectives.  Objectivity and bias, advertising and public relations ethics, the viability of democracy in the light of pressures on and within the modern mass media.",
       "prerequisites": "0.5 credit in PHIL or second-year standing.",
       "offerings": [
@@ -447,7 +447,7 @@
     {
       "code": "PHIL 3000",
       "name": "Topics in Ancient Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of philosophers, texts, problems and issues in ancient philosophy, generally with a focus on Plato and Aristotle.",
       "prerequisites": "0.5 credit in philosophy and second-year standing, or permission of the department.",
       "offerings": [],
@@ -457,7 +457,7 @@
     {
       "code": "PHIL 3001",
       "name": "Early Greek Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of the pre-Socratic Greek philosophers and of the Sophists and Socrates.",
       "prerequisites": "CLCV 2105 or PHIL 2005 or permission of the Department.",
       "offerings": [],
@@ -467,7 +467,7 @@
     {
       "code": "PHIL 3002",
       "name": "17th Century Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "European philosophy of the 17 th  century. Representative works of writers such as Francis Bacon, Descartes, Spinoza, Leibniz, and Locke.",
       "prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
       "offerings": [
@@ -479,7 +479,7 @@
     {
       "code": "PHIL 3003",
       "name": "18th Century Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "European philosophy of the 18 th  century. Representative works of writers such as Berkeley, Hume, and Kant.",
       "prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
       "offerings": [],
@@ -489,7 +489,7 @@
     {
       "code": "PHIL 3005",
       "name": "19th Century Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "European philosophy in the 19 th  century. May include Hegel, Marx, Schopenhauer, Kierkegaard, Nietzsche, Mill.",
       "prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the Department.",
       "offerings": [],
@@ -499,7 +499,7 @@
     {
       "code": "PHIL 3009",
       "name": "Topics in European Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of philosophers, texts, problems and issues in any period of European philosophy.",
       "prerequisites": "0.5 credit in philosophy or second-year standing.",
       "offerings": [
@@ -511,7 +511,7 @@
     {
       "code": "PHIL 3010",
       "name": "Special Topics in Global Philosophical Traditions",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of philosophers, texts, and doctrines beyond the Western tradition. Traditions covered will vary but may include Asian, African, Muslim or Indigenous philosophy, possibly with critical comparison to Western counterparts.",
       "prerequisites": "0.5 credit in philosophy or second-year standing.",
       "offerings": [
@@ -523,7 +523,7 @@
     {
       "code": "PHIL 3102",
       "name": "Philosophy of Law: The Logic of Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Legal reasoning and analysis of concepts of particular significance to the law, including justice, rights and duties, liability, punishment, ownership and possession.",
       "prerequisites": "0.5 credit in philosophy or permission of the Department.",
       "offerings": [],
@@ -533,7 +533,7 @@
     {
       "code": "PHIL 3104",
       "name": "The Roots of Analytic Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "In the context of the work of such writers as Frege and Bradley, a discussion of early philosophical works of Russell, Moore and Wittgenstein. In addition some early representatives of positivism and pragmatism may be examined.",
       "prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
       "offerings": [],
@@ -543,7 +543,7 @@
     {
       "code": "PHIL 3140",
       "name": "Epistemology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Fundamental issues concerning the relation between evidence, rationality, and knowledge. Topics may include: skepticism, the nature of belief, the structure of justification, the relative contributions of reason and sense experience to knowledge, innate knowledge, the problem of induction, and the knowledge of other minds.",
       "prerequisites": "0.5 credit in philosophy and third-year standing in a philosophy program or permission of the department.",
       "offerings": [
@@ -555,7 +555,7 @@
     {
       "code": "PHIL 3150",
       "name": "Metaphysics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical issues concerning the fundamental nature of being. Topics may include: time and temporality, space, substance, universals/particulars, identity, causation, freedom/determinism, the nature of norms.",
       "prerequisites": "0.5 credit in philosophy and third-year standing in a philosophy program, or permission of the department.",
       "offerings": [],
@@ -565,7 +565,7 @@
     {
       "code": "PHIL 3301",
       "name": "Issues in the Philosophy of Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Selected topic(s) in the philosophy of science, such as its relationship to values, or in the philosophy of a particular science (such as philosophy of mathematics, philosophy of physics, philosophy of biology, and philosophy of the social sciences).",
       "prerequisites": "PHIL 2301 or permission of the department.",
       "offerings": [],
@@ -575,7 +575,7 @@
     {
       "code": "PHIL 3306",
       "name": "Symbolic Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "A review of the basic techniques of propositional and predicate logic. Natural deduction and consistency trees. Soundness and completeness. Alternative semantics. Extensions to basic logic: identity, modal logic with possible world semantics, three valued systems, deontic logic.",
       "prerequisites": "PHIL 2001 or permission of the Department.",
       "offerings": [],
@@ -585,7 +585,7 @@
     {
       "code": "PHIL 3320",
       "name": "Contemporary Ethical Theory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical study of modern ethical theories, their views on the nature of morality and the justification of moral claims. Topics may include utilitarianism, libertarianism, communitarianism, egoism, neo-Kantianism, virtue ethics, social contract ethics, feminist ethics, and moral rights.",
       "prerequisites": "PHIL 2020 or PHIL 2101 or permission of the department.",
       "offerings": [],
@@ -595,7 +595,7 @@
     {
       "code": "PHIL 3330",
       "name": "Topics in History of Social and Political Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "A critical examination of selected topics and perspectives in the history of social and political philosophy.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -607,7 +607,7 @@
     {
       "code": "PHIL 3340",
       "name": "Topics in Contemporary Social and Political Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "A critical examination of some contemporary approaches to topics in social and political philosophy, such as liberalism, feminism, contractarianism, Marxism, libertarianism, and communitarianism.",
       "prerequisites": "a course in philosophy or second-year standing.",
       "offerings": [
@@ -619,7 +619,7 @@
     {
       "code": "PHIL 3350",
       "name": "Philosophy, Ethics, and Public Affairs",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced study of a set of public policy issues, a particular theory or group of theories, or a particular philosopher, concerning philosophical and ethical aspects of public affairs.",
       "prerequisites": "third-year standing or permission of the department.",
       "offerings": [
@@ -631,7 +631,7 @@
     {
       "code": "PHIL 3360",
       "name": "Philosophy, Economics, and Public Policy",
-      "credit": "0.5",
+      "credit": "",
       "description": "The course explores issues at the intersection of philosophy and economics, with a special focus on socially and politically relevant issues. Topics may include: efficiency, cooperation, equity and distributive justice, commodification and the moral limits of markets.",
       "prerequisites": "third-year standing or permission of the department.",
       "offerings": [],
@@ -641,7 +641,7 @@
     {
       "code": "PHIL 3380",
       "name": "Environments, Technology and Values",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced treatment of ethical issues concerning technologies and environments, including: sustainable development, women and the environment, biological diversity, intrinsic or natural value or rights of non-humans, humans' relation to the rest of the natural world, obligations to future generations, liberty versus equality.",
       "prerequisites": "PHIL 1804 or PHIL 2380 and third-year standing, or permission of the Department.",
       "offerings": [],
@@ -651,7 +651,7 @@
     {
       "code": "PHIL 3450",
       "name": "Topics in Aesthetics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics may include theories of aesthetic norms and valuation from ancient Greece onward, or applications of aesthetic theory to various genres of art.",
       "prerequisites": "At least 0.5 credit in philosophy, or HUMS 1000 , or ARTH 2807 , or permission of the Department.",
       "offerings": [],
@@ -661,7 +661,7 @@
     {
       "code": "PHIL 3501",
       "name": "Philosophy of Cognitive Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical issues arising from cognitive science. Topics may include: the proper methodology for studying the mind, the very possibility of a \u201cscience of mind\u201d, the computer model of the mind and reactions to it.",
       "prerequisites": "PHIL 2501 or PHIL 2502 or second-year standing in Cognitive Science, or permission of the department.",
       "offerings": [
@@ -674,7 +674,7 @@
     {
       "code": "PHIL 3502",
       "name": "Mind and Action",
-      "credit": "0.5",
+      "credit": "",
       "description": "Philosophical thought concerning the relation between mentality and agency. Topics may include: the relation between belief, desire, and behaviour; rationality and normativity; representing and doing; subjectivity and intersubjectivity; physical and psychological laws; mental causation. Authors may include: Wittgenstein, Heidegger, Ryle, Sellars, Anscombe, Davidson, Taylor, McDowell.",
       "prerequisites": "PHIL 2501 or PHIL 2502, or permission of the Department.",
       "offerings": [],
@@ -684,7 +684,7 @@
     {
       "code": "PHIL 3503",
       "name": "Artificial Intelligence: Philosophical and Ethical Issues",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics examined through the lens of philosophy and cognitive science may include humans\u2019 obligations towards AI, sentient AI, implications of AI for models of cognition, designing ethical AI systems, implications of using AI in healthcare, and social inequality and job displacement related to AI.",
       "prerequisites": "CGSC 2001 or PHIL 2501 and third-year standing in Cognitive Science or Philosophy.",
       "offerings": [
@@ -697,9 +697,9 @@
     {
       "code": "PHIL 3504",
       "name": "Pragmatics",
-      "credit": "0.5",
+      "credit": "",
       "description": "The study of language use in its conversational and cultural contexts. Topics include: conversational implicature; deixis; the semantics-pragmatics boundary; speaker's reference; speech acts. May include cross-cultural pragmatics.",
-      "prerequisites": "third-year standing, and one of FYSM  1206, LALS 1000, LALS 1001, LING 1001 , PHIL 2001 , PHIL/LALS/LING/COMM/MCOM 2504 or LALS/ LING 3505 / PHIL 3506 ; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.",
+      "prerequisites": "third-year standing, and one of FYSM 1206, LALS 1000, LALS 1001, LING 1001 , PHIL 2001 , PHIL/LALS/LING/COMM/MCOM 2504 or LALS/ LING 3505 / PHIL 3506 ; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.",
       "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -707,7 +707,7 @@
     {
       "code": "PHIL 3506",
       "name": "Semantics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of language meaning. Lexical meaning and meanings of larger linguistic expressions, including nominal units, verbal units, and sentences. Meaning relationships between utterances. Relationship between linguistic meaning (semantics) and contextual meaning (pragmatics). Basic formal treatments of semantics.",
       "prerequisites": "third-year standing, and one of LALS 1000, LALS 1001, LING 1001 , PHIL 2001 , PHIL/LALS/LING/COMM/MCOM 2504 or PHIL/LALS/ LING 3504 ; or permission of the Department of Philosophy or School of Linguistics and Applied Language Studies.",
       "offerings": [],
@@ -717,9 +717,9 @@
     {
       "code": "PHIL 3530",
       "name": "Philosophy of Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "An intensive introduction to philosophy of language. Topics may include meaning, reference and truth, speech acts, the nature of concepts, language learning, metaphor, compositionality, context-sensitivity.",
-      "prerequisites": "third-year standing, and one of FYSM  1206, LALS 1000, LALS 1001, LING 1001 , PHIL 2001 , PHIL/LALS/LING/COMM/MCOM 2504 or LALS/ LING 3504 or LALS/ LING 3505 / PHIL 3506 ; or permission of the department.",
+      "prerequisites": "third-year standing, and one of FYSM 1206, LALS 1000, LALS 1001, LING 1001 , PHIL 2001 , PHIL/LALS/LING/COMM/MCOM 2504 or LALS/ LING 3504 or LALS/ LING 3505 / PHIL 3506 ; or permission of the department.",
       "offerings": [],
       "year_standing": 3,
       "concurrent_prerequisites": []
@@ -727,7 +727,7 @@
     {
       "code": "PHIL 3540",
       "name": "Philosophy of Emotions",
-      "credit": "0.5",
+      "credit": "",
       "description": "Emotions are central to human experience and widely studied in philosophy and science. In order to better understand them and their role in our lives, this course explores philosophical questions about emotions as they arise in philosophy of mind and cognitive science, ethics, and aesthetics.",
       "prerequisites": "PHIL 2501 , or permission of the department.",
       "offerings": [
@@ -739,7 +739,7 @@
     {
       "code": "PHIL 3901",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Essays and/or examinations based on a list of readings provided by the instructor.",
       "prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
       "offerings": [],
@@ -749,7 +749,7 @@
     {
       "code": "PHIL 3902",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Essays and/or examinations based on a list of readings provided by the instructor.",
       "prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
       "offerings": [],
@@ -759,7 +759,7 @@
     {
       "code": "PHIL 3903",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Essays and/or examinations based on a list of readings provided by the instructor.",
       "prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
       "offerings": [],
@@ -769,7 +769,7 @@
     {
       "code": "PHIL 3906",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Essays and/or examinations based on a bibliography constructed by the student in consultation with the instructor.",
       "prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
       "offerings": [],
@@ -779,7 +779,7 @@
     {
       "code": "PHIL 3907",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Essays and/or examinations based on a bibliography constructed by the student in consultation with the instructor.",
       "prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
       "offerings": [],
@@ -789,7 +789,7 @@
     {
       "code": "PHIL 3908",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "Essays and/or examinations based on a bibliography constructed by the student in consultation with the instructor.",
       "prerequisites": "normally restricted to students with at least 3.0 credits in philosophy and with high standing in philosophy courses and permission of the Department.",
       "offerings": [],
@@ -799,7 +799,7 @@
     {
       "code": "PHIL 4003",
       "name": "Seminar in philosophy Before the Modern Period",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected philosophers or issues in philosophy before the modern period.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [
@@ -811,7 +811,7 @@
     {
       "code": "PHIL 4004",
       "name": "Seminar in philosophy Before the Modern Period",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected philosophers or issues in philosophy before the modern period.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -821,7 +821,7 @@
     {
       "code": "PHIL 4005",
       "name": "Seminar in Modern Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected philosophers or issues in modern philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -831,7 +831,7 @@
     {
       "code": "PHIL 4006",
       "name": "Seminar in Modern Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected philosophers or issues in modern philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -841,7 +841,7 @@
     {
       "code": "PHIL 4007",
       "name": "Seminar in Contemporary Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected philosophers or issues in contemporary philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [
@@ -853,7 +853,7 @@
     {
       "code": "PHIL 4008",
       "name": "Seminar in Contemporary Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected philosophers or issues in contemporary philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -863,7 +863,7 @@
     {
       "code": "PHIL 4055",
       "name": "Lexical Semantics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Study of the meaning of words. Topics may include lexical decomposition, meaning variation, lexical relations, and lexical aspect.",
       "prerequisites": "LING 3505 or PHIL 3506 .",
       "offerings": [],
@@ -873,7 +873,7 @@
     {
       "code": "PHIL 4100",
       "name": "Special Topic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [
@@ -885,7 +885,7 @@
     {
       "code": "PHIL 4210",
       "name": "Seminar in Philosophy of Language or Linguistics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected issues or the work of selected philosophers in philosophy of language or on philosophical topics in linguistics.",
       "prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
       "offerings": [],
@@ -895,7 +895,7 @@
     {
       "code": "PHIL 4220",
       "name": "Seminar in philosophy of Mind or Cognition",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected issues or the work of selected philosophers in philosophy of mind or philosophical aspects of cognition.",
       "prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
       "offerings": [
@@ -907,7 +907,7 @@
     {
       "code": "PHIL 4230",
       "name": "Seminar in Metaphysics, Epistemology, or Philosophy of Science",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected issues or the work of selected philosophers in metaphysics, epistemology, or philosophy of science.",
       "prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
       "offerings": [
@@ -919,7 +919,7 @@
     {
       "code": "PHIL 4300",
       "name": "Seminar in Ethical Theory or Meta-Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected issues pertaining to ethical theory or issues of meta-ethics such as realism, relativism, moral knowledge.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -929,7 +929,7 @@
     {
       "code": "PHIL 4320",
       "name": "Seminar in Ethics or Moral Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected issues in ethics or moral philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -939,7 +939,7 @@
     {
       "code": "PHIL 4330",
       "name": "Seminar in Social or Political Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of selected issues in social or political philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [
@@ -951,7 +951,7 @@
     {
       "code": "PHIL 4403",
       "name": "Special Topic in Applied Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in applied ethics.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -961,7 +961,7 @@
     {
       "code": "PHIL 4404",
       "name": "Special Topic in Applied Ethics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in applied ethics.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -971,7 +971,7 @@
     {
       "code": "PHIL 4405",
       "name": "Special Topic in Aesthetics or Philosophy of Art",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special issue or a single author in aesthetics and/or philosophy of art.",
       "prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -981,7 +981,7 @@
     {
       "code": "PHIL 4406",
       "name": "Special Topic in Aesthetics or Philosophy of Art",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special issue or a single author in aesthetics and/or philosophy of art.",
       "prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -991,7 +991,7 @@
     {
       "code": "PHIL 4407",
       "name": "Special Topic in Philosophy of Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in philosophy of law.",
       "prerequisites": "eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.",
       "offerings": [
@@ -1003,7 +1003,7 @@
     {
       "code": "PHIL 4408",
       "name": "Special Topic in Philosophy of Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in philosophy of law.",
       "prerequisites": "eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.",
       "offerings": [],
@@ -1013,7 +1013,7 @@
     {
       "code": "PHIL 4503",
       "name": "Special Topic in Philosophy of Computing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in philosophy of computing.",
       "prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1023,7 +1023,7 @@
     {
       "code": "PHIL 4504",
       "name": "Special Topic in Philosophy of Computing",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in philosophy of computing.",
       "prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1033,7 +1033,7 @@
     {
       "code": "PHIL 4505",
       "name": "Formal Semantics",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced topics in compositional semantics and its interfaces. Topics may include: logic, semantic types, lambda calculus, intentional contexts, possible world semantics, interfaces with syntax and pragmatics quantification, anaphora, presupposition, implicatures, scope and binding, and model theory.",
       "prerequisites": "LALS 3505 or LING 3505 or PHIL 3506 or permission of the Department of Philosophy or School of Linguistics and Language Studies.",
       "offerings": [],
@@ -1043,7 +1043,7 @@
     {
       "code": "PHIL 4603",
       "name": "Special Topic in Feminist Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in feminist philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1053,7 +1053,7 @@
     {
       "code": "PHIL 4604",
       "name": "Special Topic in Feminist Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in feminist philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1063,7 +1063,7 @@
     {
       "code": "PHIL 4606",
       "name": "Special Topic in Continental Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1073,7 +1073,7 @@
     {
       "code": "PHIL 4607",
       "name": "Special Topic in Continental Philosophy",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "eligibility for fourth-year standing in philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1083,7 +1083,7 @@
     {
       "code": "PHIL 4701",
       "name": "Special Topic in Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in Logic.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1093,7 +1093,7 @@
     {
       "code": "PHIL 4702",
       "name": "Special Topic in Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in Logic.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1103,7 +1103,7 @@
     {
       "code": "PHIL 4703",
       "name": "Special Topic in Philosophical Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in Philosophical Logic.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1113,7 +1113,7 @@
     {
       "code": "PHIL 4704",
       "name": "Special Topic in Philosophical Logic",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed study of a special topic in Philosophical Logic.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
       "offerings": [],
@@ -1123,7 +1123,7 @@
     {
       "code": "PHIL 4900",
       "name": "Tutorial",
-      "credit": "1.0",
+      "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "offerings": [],
@@ -1133,7 +1133,7 @@
     {
       "code": "PHIL 4901",
       "name": "Tutorial",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "offerings": [],
@@ -1143,7 +1143,7 @@
     {
       "code": "PHIL 4902",
       "name": "Tutorial",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "offerings": [
@@ -1155,7 +1155,7 @@
     {
       "code": "PHIL 4903",
       "name": "Tutorial",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "offerings": [],
@@ -1165,7 +1165,7 @@
     {
       "code": "PHIL 4904",
       "name": "Tutorial",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "offerings": [],
@@ -1175,7 +1175,7 @@
     {
       "code": "PHIL 4906",
       "name": "Tutorial",
-      "credit": "0.5",
+      "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "offerings": [],
@@ -1186,27 +1186,27 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Philosophy B.A. Honours (20.0 credits)",
+      "degree": "Philosophy  B.A. Honours (20.0 credits)",
       "credits": "2.0",
-      "text": "9.  2.0 credits in free electives 2.0"
+      "text": "9.  2.0 credits in  free electives 2.0"
     },
     {
       "type": "requirement",
-      "degree": "Philosophy with Concentration in Philosophy, Ethics and Public Affairs B.A. Honours (20.0 credits)",
+      "degree": "Philosophy with Concentration in Philosophy, Ethics and Public Affairs  B.A. Honours  (20.0 credits)",
       "credits": "3.0",
-      "text": "10.  3.0 credits in free electives 3.0"
+      "text": "10.  3.0 credits in  free electives 3.0"
     },
     {
       "type": "requirement",
-      "degree": "Philosophy B.A. Combined Honours (20.0 credits)",
+      "degree": "Philosophy  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "9. Sufficient free electives to make 20.0 credits in total for the program"
     },
     {
       "type": "requirement",
-      "degree": "Philosophy B.A. (15.0 credits)",
+      "degree": "Philosophy  B.A. (15.0 credits)",
       "credits": "3.0",
-      "text": "7.  3.0 credits in free electives 3.0"
+      "text": "7.  3.0 credits in  free electives 3.0"
     }
   ],
   "programs": [
@@ -1756,115 +1756,11 @@
           ],
           "credits": 0.5,
           "description": "Philosophy of Emotions"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1000"
-          ],
-          "credits": 0.5,
-          "description": "Introductory Philosophy: Fields, Figures and Problems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1100"
-          ],
-          "credits": 1.0,
-          "description": "Looking at Philosophy"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1200"
-          ],
-          "credits": 0.5,
-          "description": "The Meaning of Life"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1301"
-          ],
-          "credits": 0.5,
-          "description": "Mind, World, and Knowledge"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1500"
-          ],
-          "credits": 1.0,
-          "description": "Contemporary Moral, Social and Religious Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1550"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Ethics and Social Issues"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1610"
-          ],
-          "credits": 0.5,
-          "description": "Great Philosophical Ideas, Part 1"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1620"
-          ],
-          "credits": 0.5,
-          "description": "Great Philosophical Ideas, Part 2"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 1700"
-          ],
-          "credits": 0.5,
-          "description": "Philosophy of Love and Sex"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 2001"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Logic"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 2003"
-          ],
-          "credits": 0.5,
-          "description": "Critical Thinking"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 2330"
-          ],
-          "credits": 0.5,
-          "description": "Happiness, Well-being, and the Good Life"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PHIL 2340"
-          ],
-          "credits": 0.5,
-          "description": "Philosophy and Popular Culture"
         }
       ]
     },
     {
-      "degree": "Philosophy B.A. Honours (20.0 credits)",
+      "degree": "Philosophy  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1924,12 +1820,12 @@
             "FYSM 1300"
           ],
           "credits": 1.5,
-          "description": "1.5 credits in PHIL, which may include 1.0 credit from:"
+          "description": "1.5 credits in  PHIL, which may include 1.0 credit from:"
         }
       ]
     },
     {
-      "degree": "Philosophy with Concentration in Philosophy, Ethics and Public Affairs B.A. Honours (20.0 credits)",
+      "degree": "Philosophy with Concentration in Philosophy, Ethics and Public Affairs  B.A. Honours  (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2092,7 +1988,7 @@
             "FYSM 1300"
           ],
           "credits": 2.5,
-          "description": "2.5 credits in PHIL, which may include 1.0 credit from:"
+          "description": "2.5 credits in  PHIL, which may include 1.0 credit from:"
         },
         {
           "type": "required",
@@ -2131,7 +2027,7 @@
       ]
     },
     {
-      "degree": "Philosophy B.A. Combined Honours (20.0 credits)",
+      "degree": "Philosophy  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2175,12 +2071,12 @@
             "FYSM 1300"
           ],
           "credits": 1.0,
-          "description": "1.0 credit in PHIL or 1.0 credit from:"
+          "description": "1.0 credit in  PHIL or 1.0 credit from:"
         }
       ]
     },
     {
-      "degree": "Philosophy B.A. (15.0 credits)",
+      "degree": "Philosophy  B.A. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -2246,38 +2142,7 @@
             "FYSM 1300"
           ],
           "credits": 1.0,
-          "description": "1.0 credit in PHIL or 1.0 credit from:"
-        }
-      ]
-    },
-    {
-      "degree": "Mention : Fran\u00e7ais (4.0 credits)",
-      "requirements": [
-        {
-          "type": "choose",
-          "courses": [
-            "PHIL 3901",
-            "PHIL 3902",
-            "PHIL 3903",
-            "PHIL 3906",
-            "PHIL 3907",
-            "PHIL 3908"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "PHIL 4900",
-            "PHIL 4901",
-            "PHIL 4902",
-            "PHIL 4903",
-            "PHIL 4904",
-            "PHIL 4906"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from special projects:"
+          "description": "1.0 credit in  PHIL or 1.0 credit from:"
         }
       ]
     }

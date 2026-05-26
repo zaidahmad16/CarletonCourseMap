@@ -5,7 +5,7 @@
     {
       "code": "CHEM 0999",
       "name": "CHEM4U",
-      "credit": "0.0",
+      "credit": "",
       "description": "",
       "prerequisites": "",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "CHEM 1001",
       "name": "General Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics include atomic structure, periodic trends, structure and bonding, gas laws, intermolecular forces, equilibrium, acids and bases, and buffers. Examples relate to health, energy, materials, and the environment.",
       "prerequisites": "Ontario 4U/M in Chemistry (or equivalent) strongly recommended.",
       "offerings": [
@@ -29,7 +29,7 @@
     {
       "code": "CHEM 1002",
       "name": "General Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics include thermodynamics and spontaneity, kinetics, electrochemistry, organic chemistry, transition metal complexes, and green chemistry. Examples relate to health, energy, materials, and the environment.",
       "prerequisites": "CHEM 1001 .",
       "offerings": [
@@ -41,7 +41,7 @@
     {
       "code": "CHEM 1003",
       "name": "The Chemistry of Food, Health and Drugs",
-      "credit": "0.5",
+      "credit": "",
       "description": "Aspects of chemistry relating to food, food additives, drugs (illicit and beneficial) and their relation to metabolism and health. Topics may include: proteins, carbohydrates, fats, vitamins,  cofactors, enzymes, steroids, electrolyte and pH balance, trace elements. Available only as a free option for Science students.",
       "prerequisites": "a course in Chemistry (e.g. Ontario Grade 11).",
       "offerings": [
@@ -53,7 +53,7 @@
     {
       "code": "CHEM 1004",
       "name": "Drugs and the Human Body",
-      "credit": "0.5",
+      "credit": "",
       "description": "No science background required. Topics include drug origins, laws, metabolism and dependence, pharmaceutical industry, over the counter medications, placebo effect, antibiotics, pain killers, stimulants, alcohol, marijuana, hallucinogens, birth control and steroids. Students in Science programs may use this course only as a free elective.",
       "prerequisites": "",
       "offerings": [
@@ -65,7 +65,7 @@
     {
       "code": "CHEM 1007",
       "name": "Chemistry of Art and Artifacts",
-      "credit": "0.5",
+      "credit": "",
       "description": "The chemistry of arts and artifacts created throughout the ages (Paleolithic, Neolithic, Bronze, Iron, Middle and Modern) will be examined. Basic chemical principles will be explored and reviewed when required. Students in Science programs may use this course only as a free elective.",
       "prerequisites": "",
       "offerings": [],
@@ -75,7 +75,7 @@
     {
       "code": "CHEM 1011",
       "name": "Enriched General Chemistry 1",
-      "credit": "0.5",
+      "credit": "",
       "description": "This is a maths-intensive specialist course intended for chemistry majors or students planning to pursue courses in chemistry at the 3000-level and above. Topics include atomic structure, periodic trends, structure and bonding, gas laws, intermolecular forces, equilibrium, acids and bases, and buffers.",
       "prerequisites": "",
       "offerings": [
@@ -87,7 +87,7 @@
     {
       "code": "CHEM 1012",
       "name": "Enriched General Chemistry 2",
-      "credit": "0.5",
+      "credit": "",
       "description": "This is a maths-intensive specialist course intended for chemistry majors or students planning to pursue courses in chemistry at the 3000-level and above. Topics include thermodynamics and spontaneity, kinetics, electrochemistry, organic chemistry, transition metal complexes, and green chemistry.",
       "prerequisites": "CHEM 1011 .",
       "offerings": [
@@ -99,7 +99,7 @@
     {
       "code": "CHEM 1101",
       "name": "Chemistry for Engineering Students",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics include stoichiometry, atomic and molecular structure, thermodynamics and chemical equilibrium, acid-base chemistry, carbon dioxide in water, alkalinity, precipitation, electrochemistry, kinetics and basic organic chemistry. Laboratory component emphasizes techniques and methods of basic experimental chemistry.",
       "prerequisites": "Ontario 4U/M in Chemistry or equivalent.",
       "offerings": [
@@ -112,9 +112,9 @@
     {
       "code": "CHEM 2103",
       "name": "Physical Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Basic principles of thermodynamics. Development of the laws of thermodynamics, enthalpy, entropy and free energy, and their applications to phase equilibria, electrochemistry, and kinetics. Brief introduction to quantum mechanics.",
-      "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- ,  or CHEM 1002 or CHEM 1012 , MATH 1004 , MATH 1104 or MATH 1107 , ( PHYS 1001 and PHYS 1002 ) or ( PHYS 1007 and PHYS 1008 ) or ( PHYS 1003 and PHYS 1004 ).",
+      "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- , or CHEM 1002 or CHEM 1012 , MATH 1004 , MATH 1104 or MATH 1107 , ( PHYS 1001 and PHYS 1002 ) or ( PHYS 1007 and PHYS 1008 ) or ( PHYS 1003 and PHYS 1004 ).",
       "offerings": [
         "fall"
       ],
@@ -124,7 +124,7 @@
     {
       "code": "CHEM 2104",
       "name": "Physical Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Further development of thermodynamic equations and their applications to mass changes, chemical potential, chemical equilibria, transport properties and advanced phase equilibria. Use of partial differentials and development of Maxwell's relations will also be covered.",
       "prerequisites": "CHEM 2103 or BIOC 2300 , and MATH 1005 or MATH 2007 .",
       "offerings": [
@@ -136,7 +136,7 @@
     {
       "code": "CHEM 2203",
       "name": "Organic Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to stereochemistry, spectroscopy and chemical reactions of alkanes, alkenes, alkynes, and alkyl halides. Reaction mechanisms and the interpretation of IR, NMR and mass spectra is explored. Training in the handling and purification of organic compounds, organic chemical reactions,and the use of infrared spectroscopy.",
       "prerequisites": "CHEM 1006(no longer offered) with a minimum grade of B- , or CHEM 1002 or CHEM 1012 .",
       "offerings": [
@@ -148,7 +148,7 @@
     {
       "code": "CHEM 2204",
       "name": "Organic Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to stereochemistry, spectroscopy, mechanisms, and chemical reactions of alcohols, ethers, epoxides, conjugated pi-systems, aromatic compounds, aldehydes, ketones, amines and carboxylic acids and their derivatives. Further training in the handling and purification of organic compounds, organic chemical reactions, and the use of infrared spectroscopy.",
       "prerequisites": "CHEM 2203 .",
       "offerings": [
@@ -160,7 +160,7 @@
     {
       "code": "CHEM 2207",
       "name": "Introduction to Organic Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to stereochemistry, spectroscopy and chemical reactions of alkanes, alkenes, alkynes, and alkyl halides. Reaction mechanisms and the interpretation of IR, NMR and mass spectra is explored.",
       "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- , or CHEM 1002 or CHEM 1012 .",
       "offerings": [
@@ -172,7 +172,7 @@
     {
       "code": "CHEM 2208",
       "name": "Introduction to Organic Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to stereochemistry, spectroscopy, mechanisms, and chemical reactions of alcohols, ethers, epoxides, conjugated pi-systems, aromatic compounds, aldehydes, ketones, amines and carboxylic acids and their derivatives.",
       "prerequisites": "CHEM 2207 or CHEM 2203 .",
       "offerings": [
@@ -184,7 +184,7 @@
     {
       "code": "CHEM 2302",
       "name": "Analytical Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to quality assurance measures, calibration strategies and the fundamentals of solution-based analytical measurement processes. Qualitative and quantitative analysis using potentiometric and electrolysis techniques including ion selective electrodes, coulometry, amperometry and voltammetry. Redox, acid/base and EDTA titrations in the context of various buffer systems.",
       "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- , or CHEM 1002 or CHEM 1012 or CHEM 1101 and ( MATH 1007 or MATH 1004 ).",
       "offerings": [
@@ -196,9 +196,9 @@
     {
       "code": "CHEM 2303",
       "name": "Analytical Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Spectrophotometric analysis using UV-Vis, fluorescence and FTIR instrumentation. Modern separation methods including CE, GC and LC. Recent techniques and applications using mass spectrometry. Applications of all of the above to real-world analysis including the advancement of environmental, biochemistry and health-related research.",
-      "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- , or CHEM 1002 , or CHEM 1012 , or CHEM 1101 , and  ( MATH 1007 or MATH 1004 ).",
+      "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- , or CHEM 1002 , or CHEM 1012 , or CHEM 1101 , and ( MATH 1007 or MATH 1004 ).",
       "offerings": [
         "winter"
       ],
@@ -208,7 +208,7 @@
     {
       "code": "CHEM 2400",
       "name": "Independent Research I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students carry out a laboratory research project under the supervision of a faculty member from the Department of Chemistry. A research report must be submitted by the last day of classes for evaluation by the Chair and Faculty supervisor.",
       "prerequisites": "restricted to Honours students having second-year standing in a Chemistry program with an overall CGPA of 10.0 or higher, and approval of the Chair and a Faculty supervisor.",
       "offerings": [
@@ -221,7 +221,7 @@
     {
       "code": "CHEM 2501",
       "name": "Introduction to Inorganic and Bioinorganic Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "The basic concepts of inorganic chemistry, including the origins of elemental properties, simple theories of bonding, intermolecular forces, main group and transition metal chemistry, coordination chemistry. Inorganic ions in biochemistry, including ion transport and storage, oxygen carriers and hydrolases, redox proteins.",
       "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- , or CHEM 1002 or CHEM 1012 .",
       "offerings": [
@@ -233,7 +233,7 @@
     {
       "code": "CHEM 2800",
       "name": "Foundations for Environmental Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "A basis of chemistry needed to understand the environment: composition of the atmosphere and natural waters; equilibrium; surface properties; kinetics and spectroscopy; physical and chemical properties of chemicals in the environment. Limited enrolment course. Priority is given to students in Environmental Science/Engineering.",
       "prerequisites": "CHEM 1006 (no longer offered) with a minimum grade of B- or CHEM 1002 , or CHEM 1012 , or CHEM 1101 , ( MATH 1007 or MATH 1004 ).",
       "offerings": [
@@ -245,7 +245,7 @@
     {
       "code": "CHEM 3101",
       "name": "Quantum Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Classical equations of motion, harmonic oscillator, diatomic and polyatomic molecules, molecular mechanics, quantum mechanics, Schr\u00f6dinger equation and wave functions, vibrational spectra, hydrogen atom, quantum numbers, electronic spectra, bonding in small molecules.",
       "prerequisites": "CHEM 2103 and MATH 2008 .",
       "offerings": [
@@ -257,7 +257,7 @@
     {
       "code": "CHEM 3102",
       "name": "Methods in Computational Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Use of computers in the modeling and simulation of chemistry. Introduction to computer programming for analysis and visualization of chemical data. Calculation of chemical properties and modeling of chemical reactions using quantum chemistry.",
       "prerequisites": "CHEM 3101 or PHYS 3701 .",
       "offerings": [
@@ -269,7 +269,7 @@
     {
       "code": "CHEM 3107",
       "name": "Experimental Methods in Nanoscience",
-      "credit": "0.5",
+      "credit": "",
       "description": "Thin film production and characterization, scanning electron microscopy, synthesis of metal nanoparticles and particle size determination, computational modeling of nanostructures.",
       "prerequisites": "CHEM 2104 or CHEM 3100.",
       "offerings": [
@@ -281,7 +281,7 @@
     {
       "code": "CHEM 3201",
       "name": "Structure Elucidation",
-      "credit": "0.5",
+      "credit": "",
       "description": "Instrumental methods for determining organic structures. Selected organic reactions with emphasis on mechanisms and reactive intermediates.",
       "prerequisites": "CHEM 2204 or CHEM 2208 .",
       "offerings": [
@@ -293,7 +293,7 @@
     {
       "code": "CHEM 3202",
       "name": "Organic Chemistry III",
-      "credit": "0.5",
+      "credit": "",
       "description": "Continued mechanistic survey of additional organic reactions with emphasis on synthetic usefulness and stereochemistry. Interspersed with selected topics such as instrumental methods, photochemistry, literature of organic chemistry, natural and synthetic polymers, heterocycles, terpenes and alkaloids.",
       "prerequisites": "CHEM 2204 .",
       "offerings": [],
@@ -303,7 +303,7 @@
     {
       "code": "CHEM 3205",
       "name": "Experimental Organic Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "A laboratory-based course including advanced concepts and techniques in organic synthesis, structure determination, and the rates and mechanisms of reactions. Students are responsible for literature surveys, acquisition of theoretical background, and design of experimental procedures.",
       "prerequisites": "CHEM 2204 and CHEM 3201 .",
       "offerings": [
@@ -315,7 +315,7 @@
     {
       "code": "CHEM 3305",
       "name": "Advanced Analytical Chemistry Laboratory",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced instrumentally based techniques of analysis. Emphasis on identification and quantitation of low-level contaminants in environmental matrices using chromatographic and spectroscopic methods, including sampling, cleanup, measurement and reporting of results.",
       "prerequisites": "CHEM 2302 or CHEM 2303 .",
       "offerings": [
@@ -328,8 +328,8 @@
     {
       "code": "CHEM 3400",
       "name": "Independent Research II",
-      "credit": "0.5",
-      "description": "Students carry out a laboratory research project supervised by a Chemistry faculty member. A research report must be submitted by the last day of classes for evaluation by the Chair and Faculty supervisor; expectations of student performance and evaluation exceed that of .",
+      "credit": "",
+      "description": "Students carry out a laboratory research project supervised by a Chemistry faculty member. A research report must be submitted by the last day of classes for evaluation by the Chair and Faculty supervisor; expectations of student performance and evaluation exceed that of  CHEM 2400 .",
       "prerequisites": "restricted to Honours students having third-year standing in a Chemistry program with an overall CGPA of 10.0 or higher, and approval of the Chair and a Faculty supervisor.",
       "offerings": [
         "fall",
@@ -341,7 +341,7 @@
     {
       "code": "CHEM 3503",
       "name": "Inorganic Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Symmetry, identification of Raman and infrared active vibrations, symmetry-adapted molecular orbital theory of polyatomic molecules, electron deficient bonding, bonding in coordination complexes, solid state bonding, ionic lattices. Laboratory will introduce the student to a range of synthetic techniques and physical methods of characterization.",
       "prerequisites": "CHEM 2501 .",
       "offerings": [
@@ -353,7 +353,7 @@
     {
       "code": "CHEM 3504",
       "name": "Inorganic Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Physical properties of coordination complexes, ligand substitutions and electron transfer reaction mechanisms, organometallic chemistry: bonding, nomenclature and catalysis. Laboratory will introduce the student to a range of synthetic techniques and physical methods of characterization.",
       "prerequisites": "CHEM 3503 .",
       "offerings": [],
@@ -363,7 +363,7 @@
     {
       "code": "CHEM 3507",
       "name": "General Inorganic Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Symmetry, identification of Raman and infrared active vibrations, symmetry-adapted molecular orbital theory of polyatomic molecules, electron deficient bonding, bonding in coordination complexes, solid state bonding, ionic lattices.",
       "prerequisites": "CHEM 2501 .",
       "offerings": [
@@ -375,7 +375,7 @@
     {
       "code": "CHEM 3508",
       "name": "General Inorganic Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Physical properties of coordination complexes, ligand substitutions and electron transfer reaction mechanisms, organometallic chemistry: bonding, nomenclature and catalysis.",
       "prerequisites": "CHEM 3503 or CHEM 3507 .",
       "offerings": [],
@@ -385,7 +385,7 @@
     {
       "code": "CHEM 3600",
       "name": "Introduction to Nanotechnology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Nanoscale units, bulk vs. nanoproperties, electrons, atoms and ions, metals, band structure, electrical conduction, biosystems, molecular devices, quantum mechanics and optics, tools for measuring nanostructures. Production of nanostructures: self assembly, nanoscale crystal growth, polymerization. Applications to sensors, magnets, electronics, drug delivery. Toxicology of  nanostructures.",
       "prerequisites": "CHEM 2104 or CHEM 3100.",
       "offerings": [],
@@ -395,7 +395,7 @@
     {
       "code": "CHEM 3700",
       "name": "Industrial Applications of Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Uses of chemistry in a number of industries: fertilizers, electrochemical, metallurgical, petrochemical, pulp and paper, plastics, pharmaceutical. Interaction of chemistry with economic, political, engineering, environmental, health, legal considerations. Guest lecturers.",
       "prerequisites": "( BIOC 2300 or CHEM 2103 ) and one of CHEM 2207 or CHEM 2203 .",
       "offerings": [],
@@ -405,7 +405,7 @@
     {
       "code": "CHEM 3701",
       "name": "Chemistry in Practice for the 21st Century",
-      "credit": "0.5",
+      "credit": "",
       "description": "Students explore different sectors of chemical industry; developments in sustainability; principles, analytical frameworks, and applications of green chemistry; environmental protections; and Canadian regulatory frameworks. Students investigate novel issues in industrial chemistry, build scientific literacy skills, and practice communicating scientific information to diverse audiences.",
       "prerequisites": "third-year standing in a BSc or BHSc program.",
       "offerings": [
@@ -417,7 +417,7 @@
     {
       "code": "CHEM 3800",
       "name": "The Chemistry of Environmental Pollutants",
-      "credit": "0.5",
+      "credit": "",
       "description": "Inorganic and organic environmental pollutants: their toxicology, production, use pattern and known effects on the environment. Aspects of risk and regulation. Chemistry involved in water and sewage treatment.",
       "prerequisites": "CHEM 2207 or CHEM 2203 or CHEM 2800 .",
       "offerings": [
@@ -429,7 +429,7 @@
     {
       "code": "CHEM 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "",
       "prerequisites": "",
       "offerings": [],
@@ -439,7 +439,7 @@
     {
       "code": "CHEM 4100",
       "name": "Advanced Topics in Physical Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Principles of Group Theory as applied to Chemistry. Point groups, character tables, symmetry orbitals, molecular orbitals, aromaticity, allowed and forbidden reactions, sandwich complexes. Selection rules in spectroscopy, molecular vibrations.",
       "prerequisites": "CHEM 3102 .",
       "offerings": [],
@@ -449,7 +449,7 @@
     {
       "code": "CHEM 4101",
       "name": "Advanced Topics in Computational Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Computer simulation of materials, liquids, and biomolecules in the framework of intermolecular forces and statistical thermodynamics. Introduction to chemoinformatics and machine learning methods in chemistry.",
       "prerequisites": "CHEM 3102 .",
       "offerings": [],
@@ -459,7 +459,7 @@
     {
       "code": "CHEM 4103",
       "name": "Surface Chemistry and Nanostructures",
-      "credit": "0.5",
+      "credit": "",
       "description": "Surface structure, thermodynamics and kinetics, specifically regarding  adsorption/desorption and  high vacuum models. Nanoscale structures and their formation, reactivity and characterization. Thin films, carbon nanotubes, self-assembled monolayers and supramolecular aggregates.",
       "prerequisites": "CHEM 3600 and CHEM 3107 .",
       "offerings": [
@@ -471,7 +471,7 @@
     {
       "code": "CHEM 4104",
       "name": "Physical Methods of Nanotechnology",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of methods used in nanotechnology. Principles of scanning probe techniques ranging from surface physics to biology. State of the art methods to create nanostructures for future applications in areas such as nanolithography, nanoelectronics, nano-optics, data storage and bio-analytical nanosystems.",
       "prerequisites": "CHEM 3600 and CHEM 3107 .",
       "offerings": [],
@@ -481,7 +481,7 @@
     {
       "code": "CHEM 4201",
       "name": "Macromolecular Nanotechnology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Biological and synthetic macromolecules related to nanoscale phenomena.  Challenges and opportunities associated with natural and synthetic polymers on the nanoscale. Molecular recognition, self-assembled nanostructures, scaffolds and templates, functional nanomaterials, amphiphilic architectures, nanocomposites, and nanomachines. Applications to sensing, biomaterials, drug delivery, and polymer based devices.",
       "prerequisites": "CHEM 3600 or permission of the department.",
       "offerings": [],
@@ -491,7 +491,7 @@
     {
       "code": "CHEM 4202",
       "name": "Advanced Topics in Organic Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Topics include 2-dimensional 1H and 13CNMR spectroscopy and structure determination of complex organic molecules.",
       "prerequisites": "CHEM 3201 .",
       "offerings": [],
@@ -501,7 +501,7 @@
     {
       "code": "CHEM 4203",
       "name": "Synthetic Organic Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "The application of reactions to the synthesis or organic molecules. Emphasis on design of synthetic sequences, new reagents, and stereoselectivity. Topics include advanced methods for synthesis and reactions of alkenes, carbonyls, and enolates, functional group interconversion, oxidation and reduction, protecting groups, rearrangements, and metal-catalyzed cross-coupling.",
       "prerequisites": "CHEM 3201 and CHEM 3202 .",
       "offerings": [],
@@ -511,7 +511,7 @@
     {
       "code": "CHEM 4204",
       "name": "Organic Polymer Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to basic principles of polymer chemistry, industrial and synthetic polymers, different types of polymerization and polymer characterization. Study of commodity plastics, engineering thermoplastics, and specialty polymers, with emphasis on their synthesis.",
       "prerequisites": "CHEM 3201 or equivalent.",
       "offerings": [],
@@ -521,7 +521,7 @@
     {
       "code": "CHEM 4205",
       "name": "Reactivity and Mechanism in Organic Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "The application of frontier molecular orbital theory (HOMO-LUMO interactions) to organic reactions, including thermal and photochemical cycloadditions of pi-systems (including 1,3-dipoles) and rearrangements. Reactions of radicals and carbenes; conformational analysis, stereochemical effects, and methods for the determination of reaction mechanisms.",
       "prerequisites": "CHEM 3202 and CHEM 3503 (may be taken concurrently).",
       "offerings": [],
@@ -531,7 +531,7 @@
     {
       "code": "CHEM 4206",
       "name": "Natural Products Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey of the major classes of natural products with respect to their structural elucidation, synthesis, biosynthesis and bioactivity, with emphasis on compounds that have medicinal importance.",
       "prerequisites": "CHEM 3201 and CHEM 3202 ,.",
       "offerings": [],
@@ -541,7 +541,7 @@
     {
       "code": "CHEM 4207",
       "name": "Bio-Organic Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "The course covers chemical and biosynthetic methods applied to the major classes of biomolecules and their derivatives, including: carbohydrates, amino acids, peptides, proteins, nucleic acids, lipids, terpenes, heterocycles and natural products. Content will focus on reactions and mechanisms that contribute to their biological activities.",
       "prerequisites": "CHEM 3201 or permission of the department.",
       "offerings": [
@@ -553,7 +553,7 @@
     {
       "code": "CHEM 4301",
       "name": "Advanced Topics in Analytical Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Analytical chemistry of trace and ultratrace elements/compounds.  Special requirements for quantitative determination by various instrumental methods. Control of contamination and blanks. Analytical method development to improve selectivity, sensitivity and detection limit. Strength and limitations of each instrument. Optimization of all operating parameters.",
       "prerequisites": "CHEM 2103 and one of CHEM 2302 or CHEM 2303 .",
       "offerings": [],
@@ -563,7 +563,7 @@
     {
       "code": "CHEM 4302",
       "name": "Advanced Topics in Analytical Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Solutions and separations in analytical chemistry. Stability of aqueous solutions of standards and samples. Complex formation, multi-step and competing equilibria and their application to the design of selective methods of separation and determination. Electroanalytical techniques. Electroanalytical chemistry of aqueous solutions. Phase equilibria and solvent extraction.",
       "prerequisites": "CHEM 2103 and one of CHEM 2302 or CHEM 2303 .",
       "offerings": [],
@@ -573,7 +573,7 @@
     {
       "code": "CHEM 4304",
       "name": "Advanced Applications In Mass Spectrometry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Detailed breakdown of the physical, electrical and chemical operation of mass spectrometers. Applications in MS ranging from the analysis of small molecules to large biological macromolecules. Descriptions of the use of mass spectrometry in industry as well as commercial opportunities in the field.",
       "prerequisites": "CHEM 2103 or BIOC 2300 , and one of CHEM 2302 or CHEM 2303 .",
       "offerings": [
@@ -585,7 +585,7 @@
     {
       "code": "CHEM 4305",
       "name": "Environmental Chemistry and Toxicology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Overview of environmental chemistry and toxicology principles including chemical sources, fate, and effects in the environment. Examining organic reactions occurring in abiotic environments and biological systems, and studying aspects of toxicant disposition and biotransformation. Emphasis on contemporary problems in human health and the environment.",
       "prerequisites": "CHEM 2203 or CHEM 2207 , and CHEM 2800 or CHEM 2103 , or BIOC 3101 or permission of the department.",
       "offerings": [
@@ -597,7 +597,7 @@
     {
       "code": "CHEM 4401",
       "name": "Physical Aspects of Biochemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Chemistry, structure and function of nucleic acids, proteins, carbohydrates, and lipids. Thermodynamics of biological systems, chemical mechanisms and organic transformations. Intended for Chemistry Majors.",
       "prerequisites": "CHEM 2103 and CHEM 2204 .",
       "offerings": [
@@ -609,9 +609,9 @@
     {
       "code": "CHEM 4406",
       "name": "Pharmaceutical Drug Design",
-      "credit": "0.5",
+      "credit": "",
       "description": "Important elements of rational drug design. Ligand-receptor interactions, structure-activity relationships, molecular modeling of pharmacophores, structure and mechanism-based approaches to drug design. Enzyme inhibition in chemotherapy and design of anti-viral drugs.",
-      "prerequisites": "CHEM 2103 and ( CHEM 2203 or CHEM 2207 ), BIOC 3101 and ( BIOC 3102 or BIOC  3008).",
+      "prerequisites": "CHEM 2103 and ( CHEM 2203 or CHEM 2207 ), BIOC 3101 and ( BIOC 3102 or BIOC 3008).",
       "offerings": [],
       "year_standing": null,
       "concurrent_prerequisites": []
@@ -619,7 +619,7 @@
     {
       "code": "CHEM 4407",
       "name": "Polymer Modeling",
-      "credit": "0.5",
+      "credit": "",
       "description": "Polymer architectures; Flexible and rigid rod polymers; Rotational isomeric states (RIS); Molecular mechanics, Ramachandran Map, Helix parameters; internal and external parameters; regular and random coil structures; molecular dynamics; calculation of end-to-end distance, NMR chemical shifts; conformational entropy and properties.",
       "prerequisites": "MATH 1107 and CHEM 2204 or permission of the department.",
       "offerings": [],
@@ -629,7 +629,7 @@
     {
       "code": "CHEM 4502",
       "name": "Radiochemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "A study of nuclear stability and decay; chemical studies of nuclear phenomena. Applications of radioactivity.",
       "prerequisites": "CHEM 2302 , CHEM 2303 , and CHEM 3100, or permission of the Department.",
       "offerings": [
@@ -641,7 +641,7 @@
     {
       "code": "CHEM 4503",
       "name": "Advanced Topics in Inorganic Chemistry I",
-      "credit": "0.5",
+      "credit": "",
       "description": "A quantitave basis for ligand field theory; unreal and real wavefunctions of d-orbitals; derivation of the energies of d-orbitals using variational principle, secular determinants, and ligned field operators; the effect of ligand field on free ion term symbols, wavefunction descriptions of terms symbols; applications.",
       "prerequisites": "CHEM 3504 and CHEM 3101 .",
       "offerings": [],
@@ -651,7 +651,7 @@
     {
       "code": "CHEM 4504",
       "name": "Advanced Topics in Inorganic Chemistry II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Reactivity of inorganic coordination compounds. Thermodynamic and kinetic factors affecting reactivity. Industrial and biochemical processes catalyzed by metal coordination compounds. Experimental methodologies, data analysis and rate law evaluation used to obtain reaction mechanisms leading to improved methods of catalysis.",
       "prerequisites": "CHEM 3504 or equivalent.",
       "offerings": [],
@@ -661,7 +661,7 @@
     {
       "code": "CHEM 4505",
       "name": "Application of Physical Methods to Electron Transfer Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Spectroscopic techniques (i.e. UV-visible NIR, IR, EPR) and electrochemistry methods that are used to study photochemical and thermal intermolecular and intramolecular electron transfer in transition metal complexes are presented.  Electron transfer theory and redox-active (non-innocent) ligands are discussed.",
       "prerequisites": "CHEM 3504 .",
       "offerings": [],
@@ -671,7 +671,7 @@
     {
       "code": "CHEM 4700",
       "name": "Special Topics in Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "A topic of current interest in any branch of chemistry. Only one special topics course may be presented for credit.",
       "prerequisites": "permission of the Department.",
       "offerings": [],
@@ -681,7 +681,7 @@
     {
       "code": "CHEM 4800",
       "name": "Atmospheric Chemistry",
-      "credit": "0.5",
+      "credit": "",
       "description": "Properties of natural atmospheric constituents; biogeochemical cycles involving gases; chemical reactions in the atmosphere; anthropogenic atmospheric pollutants (e.g., chlorofluorocarbons, sulphur and nitrogen oxides, photochemical smog sources and effects on the biosphere. Relation between the structure of molecules and their spectral and reactive properties.",
       "prerequisites": "CHEM 2103 or CHEM 2800 .",
       "offerings": [],
@@ -691,7 +691,7 @@
     {
       "code": "CHEM 4907",
       "name": "Honours Essay and Research Proposal",
-      "credit": "1.0",
+      "credit": "",
       "description": "Students conduct an independent research study using library resources, and prepare a critical review and study proposal on a topic approved by a faculty supervisor. A written report and oral poster presentation of the work are required before a grade can be assigned.",
       "prerequisites": "fourth year standing in an Honours Chemistry program and permission of the department.",
       "offerings": [
@@ -704,7 +704,7 @@
     {
       "code": "CHEM 4908",
       "name": "Research Project and Seminar",
-      "credit": "1.0",
+      "credit": "",
       "description": "Senior students in Honours Chemistry carry out a research project under the direction of one of the members of the Department. A written report and an oral presentation of the work are required before a grade can be assigned.",
       "prerequisites": "any two of CHEM 3107 , CHEM 3205 , CHEM 3305 and CHEM 3504 , or permission of the department.",
       "offerings": [
@@ -718,69 +718,69 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Chemistry B.Sc. Honours (20.0 credits)",
+      "degree": "Chemistry  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "10.  1.0 credit in free electives 1.0"
+      "text": "10.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Chemistry with Concentration in Chemical Toxicology B.Sc. Honours (20.0 credits)",
+      "degree": "Chemistry  with Concentration in Chemical Toxicology  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "11.  1.0 credit in free electives 1.0"
+      "text": "11.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Chemistry with Concentration in Nanotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Chemistry  with Concentration in Nanotechnology  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "9.  1.0 credit in free electives. 1.0"
+      "text": "9.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Chemistry B.Sc. (15.0 credits)",
+      "degree": "Chemistry  B.Sc. (15.0 credits)",
       "credits": "1.0",
-      "text": "10.  1.0 credit in free electives. 1.0"
+      "text": "10.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
-      "degree": "Chemistry and Earth Sciences B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Chemistry and Earth Sciences  B.Sc. Combined Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "13.  1.0 credit in free electives. 1.0"
+      "text": "13.  1.0 credit in  free electives. 1.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -809,7 +809,7 @@
   ],
   "programs": [
     {
-      "degree": "Chemistry B.Sc. Honours (20.0 credits)",
+      "degree": "Chemistry  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -997,7 +997,7 @@
             "MATH 2007"
           ],
           "credits": 1.0,
-          "description": "1.0 credit in CHEM at the 4000-level"
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1029,7 +1029,7 @@
       ]
     },
     {
-      "degree": "Chemistry with Concentration in Chemical Toxicology B.Sc. Honours (20.0 credits)",
+      "degree": "Chemistry  with Concentration in Chemical Toxicology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1232,8 +1232,8 @@
           "courses": [
             "MATH 2007"
           ],
-          "credits": 1.0,
-          "description": "1.0 credit in CHEM or BIOC at the 3000- or 4000-level"
+          "credits": 0.5,
+          "description": "0.5 credit from:"
         },
         {
           "type": "choose",
@@ -1281,7 +1281,7 @@
       ]
     },
     {
-      "degree": "Chemistry with Concentration in Nanotechnology B.Sc. Honours (20.0 credits)",
+      "degree": "Chemistry  with Concentration in Nanotechnology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1483,8 +1483,8 @@
           "courses": [
             "MATH 2007"
           ],
-          "credits": 9.0,
-          "description": "Credits Not Included in the Major CGPA (9.0 credits)"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         },
         {
           "type": "required",
@@ -1516,7 +1516,7 @@
       ]
     },
     {
-      "degree": "Chemistry B.Sc. (15.0 credits)",
+      "degree": "Chemistry  B.Sc. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1639,7 +1639,7 @@
             "MATH 2007"
           ],
           "credits": 0.5,
-          "description": "0.5 credit in CHEM at the 3000-level"
+          "description": "0.5 credit from:"
         },
         {
           "type": "required",
@@ -1671,7 +1671,7 @@
       ]
     },
     {
-      "degree": "Chemistry and Earth Sciences B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Chemistry and Earth Sciences  B.Sc. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1924,7 +1924,7 @@
       ]
     },
     {
-      "degree": "Chemistry and Physics B.Sc. Combined Honours (20.0 credits)",
+      "degree": "Chemistry and Physics  B.Sc. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "choose",
@@ -2179,19 +2179,12 @@
           "type": "choose",
           "courses": [
             "CHEM 1001",
-            "CHEM 1002"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "CHEM 1002",
             "CHEM 1011",
             "CHEM 1012"
           ],
-          "credits": null,
-          "description": "or"
+          "credits": 1.0,
+          "description": "1.0 credit from:"
         }
       ]
     },
@@ -2804,199 +2797,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",

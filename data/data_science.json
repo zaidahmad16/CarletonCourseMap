@@ -5,7 +5,7 @@
     {
       "code": "DATA 1517",
       "name": "Data Modelling I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to formulating statistical problems and analyzing data using open-source software. Graphical and numerical descriptives. combinatorial formulae, Bayes' Theorem, probability, Discrete and continuous distributions, means and variances. Point and interval estimates, and hypothesis tests for one- and two-samples using Central Limit Theorem, and permutation tests.",
       "prerequisites": "An Ontario Grade 12 university-preparation Mathematics or equivalent, or permission of the Institute for Data Science.",
       "offerings": [
@@ -17,7 +17,7 @@
     {
       "code": "DATA 1519",
       "name": "Data Modelling II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to modelling real phenomena from planning data collection or gathering observational data to analyzing and providing insights. Topics include experimental design from first principles and simulating the data generating process, linear regression and correlation, one- and two-way Analysis of Variance using open-source statistical software.",
       "prerequisites": "DATA 1517 or ( STAT 1500 and STAT 2507 ) or ( STAT 1500 and STAT 2655 ) or ( STAT 1500 and STAT 3502 ); or permission of the Institute for Data Science.",
       "offerings": [
@@ -29,7 +29,7 @@
     {
       "code": "DATA 2500",
       "name": "Data Wrangling in R",
-      "credit": "0.5",
+      "credit": "",
       "description": "Reproducible workflows from acquisition, to cleaning, manipulation, and visualization. Data are acquired from databases, APIs, and web scraping. Cleaning and manipulating Numeric, categorical, date, and text data are introduced including regular expressions. Data visualization and report generation using dynamic tools are emphasized.",
       "prerequisites": "( COMP 1005 or COMP 1405 ), STAT 1500 , and one of ( DATA 1517 , STAT 2507 , or STAT 2655 ).",
       "offerings": [
@@ -41,7 +41,7 @@
     {
       "code": "DATA 3200",
       "name": "Communication Skills for Data Scientists",
-      "credit": "0.5",
+      "credit": "",
       "description": "Technical communication and data visualization skills for data science majors, concentrating on writing and orally presenting scientific papers and technical reports. Principles of clarity and precision in writing and oral communication. Practical exercises and readings from recent technical publications will be used.",
       "prerequisites": "DATA 1517 or STAT 2507 or STAT 2559 .",
       "offerings": [
@@ -53,7 +53,7 @@
     {
       "code": "DATA 3500",
       "name": "Statistical Programming in R",
-      "credit": "0.5",
+      "credit": "",
       "description": "Modern coding practices in R including running simulations, workflows for common statistical models, retrieving diagnostics and model estimates, and presenting and visualizing results. Emphasis on modern, reproducible workflows and version control.",
       "prerequisites": "DATA 2500 .",
       "offerings": [],
@@ -63,7 +63,7 @@
     {
       "code": "DATA 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "On completion of each work term, the student must submit to the Institute for Data Science a written report on the work performed. Graded SAT or UNS.",
       "prerequisites": "registration in the Co-operative Education Option, and permission of the Institute for Data Science.",
       "offerings": [],
@@ -73,7 +73,7 @@
     {
       "code": "DATA 4848",
       "name": "Consulting Project",
-      "credit": "1.0",
+      "credit": "",
       "description": "This course is designed to give students some practical experience as a data science consultant through classroom discussion of issues in consulting and participation in real consulting projects.",
       "prerequisites": "fourth-year standing in the Bachelor of Data Science program.",
       "offerings": [],
@@ -88,9 +88,9 @@
     },
     {
       "type": "requirement",
-      "degree": "Data Science B.D.S. Honours (20.0 credits)",
+      "degree": "Data Science  B.D.S. Honours (20.0 credits)",
       "credits": "6.5",
-      "text": "8.  6.5 credits in free electives 6.5"
+      "text": "8.  6.5 credits in  free electives 6.5"
     }
   ],
   "programs": [
@@ -394,39 +394,11 @@
           ],
           "credits": 0.5,
           "description": "Probability, Statistics and Random Processes for Engineers"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "BIT 1000",
-            "BIT 1001",
-            "BIT 1100",
-            "BIT 1101",
-            "BIT 1200",
-            "BIT 1201",
-            "BIT 2000",
-            "BIT 2004",
-            "BIT 2005",
-            "BIT 2007",
-            "BIT 2100",
-            "BIT 2300",
-            "MPAD 2400",
-            "MPAD 2501",
-            "MPAD 3300",
-            "MPAD 3501",
-            "MPAD 4001",
-            "MPAD 4501",
-            "MPAD 4502",
-            "MPAD 4503",
-            "MPAD 4504"
-          ],
-          "credits": null,
-          "description": "and all courses in BIT, IMD, IRM, MPAD, NET, OSS, PLT and ITEC except for the following: BIT 1000 , BIT 1001 , BIT 1100 , BIT 1101 , BIT 1200 , BIT 1201 , BIT 2000 , BIT 2004 (no longer offered), BIT 2005 (no longer offered), BIT 2007 (no longer offered), BIT 2100 (no longer offered), BIT 2300 (no longer offered), MPAD 2400 , MPAD 2501 (no longer offered), MPAD 3300 , MPAD 3501 , MPAD 4001 , MPAD 4501 , MPAD 4502 , MPAD 4503 , MPAD 4504 ."
         }
       ]
     },
     {
-      "degree": "Data Science B.D.S. Honours (20.0 credits)",
+      "degree": "Data Science  B.D.S. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -634,116 +606,6 @@
             "STAT 4504",
             "STAT 4604",
             "STAT 4607"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Artificial Intelligence (3.5 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "COMP 2804"
-          ],
-          "credits": 0.5,
-          "description": "Discrete Structures II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3005"
-          ],
-          "credits": 0.5,
-          "description": "Database Management Systems"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3106"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Artificial Intelligence"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "COMP 3804"
-          ],
-          "credits": 0.5,
-          "description": "Design and Analysis of Algorithms I"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "COMP 4010",
-            "COMP 4102",
-            "COMP 4115",
-            "COMP 4116",
-            "COMP 4801",
-            "COMP 4804",
-            "COMP 4905",
-            "COMP 4906"
-          ],
-          "credits": 1.5,
-          "description": "1.5 credits from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Statistics (4.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "STAT 2210"
-          ],
-          "credits": 0.5,
-          "description": "Inferential Data Science Foundations I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3553"
-          ],
-          "credits": 0.5,
-          "description": "Regression Modeling (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4321"
-          ],
-          "credits": 0.5,
-          "description": "Inferential Data Science Foundations II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4322"
-          ],
-          "credits": 0.5,
-          "description": "Learning from Big Data"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "STAT 3504",
-            "STAT 4502",
-            "STAT 4503",
-            "STAT 4504",
-            "STAT 4607"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from:"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "DATA 4848",
-            "STAT 4905"
           ],
           "credits": 1.0,
           "description": "1.0 credit from:"

@@ -5,45 +5,45 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Nanoscience B.Sc. Honours (20.0 credits)",
+      "degree": "Nanoscience  B.Sc. Honours (20.0 credits)",
       "credits": "1.0",
-      "text": "12.  1.0 credit in free electives 1.0"
+      "text": "12.  1.0 credit in  free electives 1.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -72,7 +72,7 @@
   ],
   "programs": [
     {
-      "degree": "Nanoscience B.Sc. Honours (20.0 credits)",
+      "degree": "Nanoscience  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -915,199 +915,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",

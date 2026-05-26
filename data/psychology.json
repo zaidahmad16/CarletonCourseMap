@@ -5,7 +5,7 @@
     {
       "code": "PSYC 1001",
       "name": "Introduction to Psychology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey of topics associated with psychology's role as a natural science, including neuroscience, cognition, and learning.",
       "prerequisites": "",
       "offerings": [
@@ -18,7 +18,7 @@
     {
       "code": "PSYC 1002",
       "name": "Introduction to Psychology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "A survey of topics associated with psychology's role as a social science, including social psychology, personality, clinical psychology, and mental health.",
       "prerequisites": "PSYC 1001 .",
       "offerings": [
@@ -31,7 +31,7 @@
     {
       "code": "PSYC 2001",
       "name": "Introduction to Research Methods in Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A general introduction to research methodologies employed within contemporary psychology. Topics covered include research designs (experimental, quasi-experimental) and techniques (observations, surveys), basic descriptive statistics, and how to interpret and report research findings.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -44,7 +44,7 @@
     {
       "code": "PSYC 2002",
       "name": "Introduction to Statistics in Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A general introduction to statistical techniques employed within contemporary psychology. Topics include basic data analysis using descriptive and inferential statistics (t-tests, ANOVA, correlation, chi-square).",
       "prerequisites": "PSYC 2001 .",
       "offerings": [
@@ -57,7 +57,7 @@
     {
       "code": "PSYC 2100",
       "name": "Introduction to Social Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to social psychology, including a survey of theories, issues, methods, and findings. This course will explore how social situations may influence people's thoughts, feelings, and behaviours. Topics may include social cognition, self-knowledge, persuasion, interpersonal attraction, aggression, and prosocial behaviour.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -70,7 +70,7 @@
     {
       "code": "PSYC 2301",
       "name": "Introduction to Health Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to health psychology, including a survey of theories, issues, methods, and findings. Using a multidisciplinary approach, topics may include the reciprocal interactions among physical health and illness, and psychological factors, including emotional well-being, coping and appraisal processes.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -83,7 +83,7 @@
     {
       "code": "PSYC 2307",
       "name": "Human Neuropsychology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to study of brain-behaviour relationships, including a survey of theories, issues, methods, and findings. Topics may include basic anatomy and physiology of the human nervous system, including sensory and motor functions. Neural basis of language, perception, emotion, learning, memory, decision making and social cognition.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -96,7 +96,7 @@
     {
       "code": "PSYC 2400",
       "name": "Introduction to Forensic Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to forensic psychology, including a survey of theories, issues, methods, and findings. Topics covered may include development of offending, eyewitness testimony, victim studies, risk assessment, offender rehabilitation, offender classification, and police studies.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -109,7 +109,7 @@
     {
       "code": "PSYC 2500",
       "name": "Foundations of Developmental Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to developmental psychology, including a survey of theories, issues, methods, and findings. Topics may include biological underpinnings and genetics, as well as selected aspects of language, cognitive, moral, emotional, and social development.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -122,7 +122,7 @@
     {
       "code": "PSYC 2600",
       "name": "Introduction to the Study of Personality",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the study of personality, including a survey of theories, issues, methods, and findings. Explores the factors that contribute to people\u2019s personality and influence how they interact with others. Topics may include traits, motives, the self, physiology, the unconscious, relationships, stress and coping.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -135,7 +135,7 @@
     {
       "code": "PSYC 2700",
       "name": "Introduction to Cognitive Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to cognitive processes, including a survey of theories, issues, methods and findings. Topics covered may include pattern recognition, attention, imagery, learning (animal and human), memory, language, and thinking.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -148,7 +148,7 @@
     {
       "code": "PSYC 2801",
       "name": "Organizational Psychology I",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to the study of organizational psychology, including a survey of theories, issues, methods, and findings. Examines individual and group behaviour in organizational settings. Topics may include understanding work-related attitudes, behaviour, motivation, and stress, personnel selection, personality in the workplace, organizational justice, and leadership.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -161,7 +161,7 @@
     {
       "code": "PSYC 3000",
       "name": "Design and Analysis in Psychological Research",
-      "credit": "1.0",
+      "credit": "",
       "description": "Techniques in data analysis, probability, sampling distributions, and procedures of estimation. Topics include classical, Bayesian, and distribution free approaches to hypothesis testing, linear regression and curve fitting, and analysis of variance methods in experimental design. Techniques are applied with appropriate statistical software (e.g., SPSS, Excel).",
       "prerequisites": "third-year standing, PSYC 2001 , and PSYC 2002 .",
       "offerings": [
@@ -174,7 +174,7 @@
     {
       "code": "PSYC 3001",
       "name": "Psychological Testing",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to theory and issues pertaining to psychological tests. Topics include the creation, assessment, scoring, and interpretation of results across different testing formats (questionnaires, surveys, structured interviews, performance-based measurements). Classical and modern techniques will be incorporated. Students will apply psychological testing theory through assignments.",
       "prerequisites": "PSYC 2001 and PSYC 2002 .",
       "offerings": [],
@@ -184,7 +184,7 @@
     {
       "code": "PSYC 3100",
       "name": "Social Psychology (Honours Seminar)",
-      "credit": "1.0",
+      "credit": "",
       "description": "An introduction to theory and research in social psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
       "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2100 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -197,7 +197,7 @@
     {
       "code": "PSYC 3104",
       "name": "Intergroup Relations: The Psychology of Conflict and Violence",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth coverage of the social psychology of relations within and between large societal groups. Topics may include social identity, stereotyping, prejudice, and intergroup emotions, with emphasis on their role in promoting conflict and paths to pro-social intergroup relations.",
       "prerequisites": "PSYC 2100 .",
       "offerings": [],
@@ -207,7 +207,7 @@
     {
       "code": "PSYC 3106",
       "name": "Close Relationships",
-      "credit": "0.5",
+      "credit": "",
       "description": "A consideration of relationship science, with a focus on social psychological theory and empirical approaches to the study of close relationships such as dating and marital relationships, and friendships. Topics may include relationship initiation, relationship maintenance, and coping with the dissolution of relationships.",
       "prerequisites": "PSYC 2100 .",
       "offerings": [
@@ -219,7 +219,7 @@
     {
       "code": "PSYC 3300",
       "name": "Health (Honours Seminar)",
-      "credit": "1.0",
+      "credit": "",
       "description": "An applied introduction to theory and research in health psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
       "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2301 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -232,7 +232,7 @@
     {
       "code": "PSYC 3301",
       "name": "Sport and Performance Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "How psychological processes influence outcomes across sport and performance environments. Topics may include self-confidence, goal-setting, arousal regulation, imagery, group dynamics, burnout, injury recovery, and how person and situational factors affect the pursuit of excellence.",
       "prerequisites": "one of PSYC 2100 , PSYC 2301 , PSYC 2500 , PSYC 2600 .",
       "offerings": [
@@ -245,7 +245,7 @@
     {
       "code": "PSYC 3302",
       "name": "Positive Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "A review of theoretical, historical, and empirical scholarship in positive psychology. Drawing widely across traditional sub-disciplines, content focuses on human strengths, well-being, resilience, and virtue to understand internal, external, and developmental contributors to health and happiness.",
       "prerequisites": "one of PSYC 2100 , PSYC 2301 , PSYC 2500 , PSYC 2600 .",
       "offerings": [
@@ -258,7 +258,7 @@
     {
       "code": "PSYC 3305",
       "name": "Psychology of Climate Change",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of the role that psychological research plays in understanding people\u2019s feelings, thoughts, and behaviour in relation to climate change and its associated problems. Strategies and interventions that help people cope with climate change and promote eco-friendly behaviour will also be discussed.",
       "prerequisites": "one of PSYC 2100 , PSYC 2301 , PSYC 2307 , PSYC 2400 , PSYC 2500 , PSYC 2600 , PSYC 2700 , PSYC 2801 .",
       "offerings": [
@@ -270,7 +270,7 @@
     {
       "code": "PSYC 3307",
       "name": "Human Neuropsychology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Cortical metabolism and research methods for assessment of cortical function, neuropsychological testing in the context of neurological, psychiatric and cognitive disorders caused by nervous system damage or genetic anomaly.",
       "prerequisites": "PSYC 2307 .",
       "offerings": [
@@ -282,7 +282,7 @@
     {
       "code": "PSYC 3400",
       "name": "Forensic Psychology (Honours Seminar)",
-      "credit": "1.0",
+      "credit": "",
       "description": "An applied introduction to theory and research in forensic psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
       "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2400 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -295,7 +295,7 @@
     {
       "code": "PSYC 3402",
       "name": "Criminal Behaviour",
-      "credit": "0.5",
+      "credit": "",
       "description": "A review of theoretical and empirical research in the study of criminal behaviour. Examination of offender assessment and classification, prevalence and types of offenders, and effectiveness of offender treatment including understanding specific populations of offenders such as Indigenous offenders, women offenders and violent offenders.",
       "prerequisites": "PSYC 2400 .",
       "offerings": [
@@ -308,7 +308,7 @@
     {
       "code": "PSYC 3403",
       "name": "Addiction",
-      "credit": "0.5",
+      "credit": "",
       "description": "Neurobiological and social bases of drug and behavioural addictions. Contemporary theoretical approaches to addiction; approaches to current prevention and treatment.",
       "prerequisites": "one of PSYC 2301 , PSYC 2307 , PSYC 2400 .",
       "offerings": [
@@ -321,7 +321,7 @@
     {
       "code": "PSYC 3404",
       "name": "Police Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Critical examination of theory and empirical research in the area of police psychology. Topics covered may include police culture, police selection, police suicide, police personality, stress debriefing, fitness evaluations, police training, crisis negotiations, and investigative techniques.",
       "prerequisites": "PSYC 2400 .",
       "offerings": [
@@ -334,7 +334,7 @@
     {
       "code": "PSYC 3405",
       "name": "Psychology of Motivation and Emotion",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course will explore motivational and emotional factors involved in human behaviour emphasizing various perspectives, theories, and research pertaining to physiological, cognitive, and social needs. Topics may include what factors motivates people, how motivation changes over time, and how one person can motivate another individual.",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -346,7 +346,7 @@
     {
       "code": "PSYC 3500",
       "name": "Developmental Psychology (Honours Seminar)",
-      "credit": "1.0",
+      "credit": "",
       "description": "An introduction to theory and research in developmental psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
       "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2500 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -359,7 +359,7 @@
     {
       "code": "PSYC 3505",
       "name": "Exceptional Children",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of childhood exceptionalities including intellectual differences, communication disorders, sensory and physical impairments, developmental and behavioural problems.",
       "prerequisites": "PSYC 2500 .",
       "offerings": [
@@ -371,7 +371,7 @@
     {
       "code": "PSYC 3506",
       "name": "Cognitive Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Human cognitive development is examined with a focus on memory, thinking and language through the life span. Topics may include perceptual and language development, emergent literacy, development of strategies and development of reading and arithmetic skills.",
       "prerequisites": "PSYC 2500 or PSYC 2700 .",
       "offerings": [
@@ -384,7 +384,7 @@
     {
       "code": "PSYC 3507",
       "name": "Social Development",
-      "credit": "0.5",
+      "credit": "",
       "description": "Development of the individual with a focus on social cognition and social behaviour. Topics may include the role of temperament in development, parental roles, siblings and peers in social/emotional development, development of prosocial and aggressive behaviour, moral development and development of self and other understanding.",
       "prerequisites": "PSYC 2500 .",
       "offerings": [
@@ -396,7 +396,7 @@
     {
       "code": "PSYC 3508",
       "name": "Child Language",
-      "credit": "0.5",
+      "credit": "",
       "description": "Milestones associated with the development of grammatical,pragmatic and metalinguistic competence from birth to about age ten, and the relative contributions of the environment, cognitive development and inborn knowledge to this development.",
       "prerequisites": "LING 1001 and second-year standing, or permission of the instructor.",
       "offerings": [
@@ -408,7 +408,7 @@
     {
       "code": "PSYC 3509",
       "name": "Adolescence and Emerging Adulthood",
-      "credit": "0.5",
+      "credit": "",
       "description": "The physical, cognitive, social and moral development of adolescents and emerging adults in multiple contexts including family, peers, media and culture.  Major theories and contemporary issues and concerns.",
       "prerequisites": "PSYC 2500 .",
       "offerings": [
@@ -420,7 +420,7 @@
     {
       "code": "PSYC 3511",
       "name": "Psychology of Aging",
-      "credit": "0.5",
+      "credit": "",
       "description": "An introduction to the psychology of aging, including applying the lifespan approach to theories, issues, and methods used to study the aging process. Behavioral and neurobiological aspects of healthy aging and dementia. Other topics may include sensory processes, personality, interpersonal relationships, bereavement, and mental health.",
       "prerequisites": "One of PSYC 2500 , PSYC 2307 , or PSYC 2700 .",
       "offerings": [
@@ -432,7 +432,7 @@
     {
       "code": "PSYC 3600",
       "name": "Personality (Honours Seminar)",
-      "credit": "1.0",
+      "credit": "",
       "description": "An introduction to theory and research in personality psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
       "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2600 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -445,7 +445,7 @@
     {
       "code": "PSYC 3603",
       "name": "Psychology of Women",
-      "credit": "0.5",
+      "credit": "",
       "description": "An examination of theories and research regarding the similarities and differences in women's and men's psychological processes. Psychological issues relevant to women (e.g., women's health concerns, women's sexuality, violence toward women and children) will be examined as well as feminist and traditional research methods.",
       "prerequisites": "one of PSYC 2100 , PSYC 2500 , PSYC 2600 .",
       "offerings": [
@@ -457,7 +457,7 @@
     {
       "code": "PSYC 3604",
       "name": "Clinical Psychology and Mental Illness",
-      "credit": "0.5",
+      "credit": "",
       "description": "History of the concept of mental illness. Theory and selected research dealing with the nature and etiology of mental illness.",
       "prerequisites": "PSYC 2301 , PSYC 2500 or PSYC 2600 .",
       "offerings": [
@@ -470,7 +470,7 @@
     {
       "code": "PSYC 3700",
       "name": "Cognition (Honours Seminar)",
-      "credit": "1.0",
+      "credit": "",
       "description": "An introduction to theory and research in cognitive psychology. Activities include reading and assessing the appropriate literature, designing studies and experiments, conducting data analyses, and producing APA style reports. Research ethics and graduate studies are also addressed. Taught in preparation of fourth year thesis.",
       "prerequisites": "PSYC 2001 , PSYC 2002 , PSYC 2700 , third-year Honours standing in Psychology with a CGPA of 9.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -483,7 +483,7 @@
     {
       "code": "PSYC 3702",
       "name": "Perception",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to theory, research methods and principles associated with the study of perceptual processes. Examples of how perceptual principles can be applied to solve problems in communications, transportation, medicine, industrial design, manufacturing, marketing, food and beverage industries (flavoring, blending, and scenting, etc.).",
       "prerequisites": "PSYC 1001 and PSYC 1002 .",
       "offerings": [
@@ -495,7 +495,7 @@
     {
       "code": "PSYC 3709",
       "name": "Language Processing and the Brain",
-      "credit": "0.5",
+      "credit": "",
       "description": "Introduction to adult language processing and neurolinguistics. Psychological processes underlying speech production and perception, word recognition and sentence processing. Biological foundation and neuro-cognitive mechanisms of language. Experimental techniques and methodologies of current psycholinguistic studies.",
       "prerequisites": "LALS 1000 or LALS 1001 or LING 1001 or PSYC 2700 and second-year standing, or permission of the instructor.",
       "offerings": [
@@ -507,7 +507,7 @@
     {
       "code": "PSYC 3710",
       "name": "Introduction to Human Factors",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theoretical foundation, philosophy and practical application of techniques for analyzing from a psychological perspective how people interact with designed environments. A major goal is to determine how these environments should be designed to suit human capabilities.",
       "prerequisites": "PSYC 2001 and PSYC 2002 .",
       "offerings": [],
@@ -517,7 +517,7 @@
     {
       "code": "PSYC 3801",
       "name": "Organizational Psychology II",
-      "credit": "0.5",
+      "credit": "",
       "description": "Advanced coverage of the current theory and practices in Organizational Psychology. Selected topics may include workplace socialization, job attitudes, deviant work behaviours, leadership, teams and group dynamics, work-related stress and health, and organizational change and development.",
       "prerequisites": "PSYC 2801 .",
       "offerings": [
@@ -529,7 +529,7 @@
     {
       "code": "PSYC 3802",
       "name": "Transition to Career",
-      "credit": "0.5",
+      "credit": "",
       "description": "Within the context of an active learning environment, examines traditional and current models in career psychology. Topics may include the concepts of change and transitions, self-assessments, vocational psychology, and workplace onboarding. Students will examine their personal and professional transition from university to the work world.",
       "prerequisites": "third or fourth year standing in Psychology.",
       "offerings": [],
@@ -539,7 +539,7 @@
     {
       "code": "PSYC 3901",
       "name": "Practicum in Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
       "prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -551,7 +551,7 @@
     {
       "code": "PSYC 3902",
       "name": "Practicum in Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
       "prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.",
       "offerings": [
@@ -563,7 +563,7 @@
     {
       "code": "PSYC 3905",
       "name": "Practicum in Psychology",
-      "credit": "1.0",
+      "credit": "",
       "description": "Experiential learning in psychology via field placement. Students pursue personal learning outcomes focused on the application of psychology within the community. Assignments promote ongoing reflection and the sharing of what has been learned with colleagues.",
       "prerequisites": "Third- or fourth-year standing in Psychology with a CGPA of 7.0 or higher in the major and permission of the Department.",
       "offerings": [],
@@ -573,7 +573,7 @@
     {
       "code": "PSYC 3999",
       "name": "Co-operative Work Term",
-      "credit": "0.0",
+      "credit": "",
       "description": "Co-operative Work Term.",
       "prerequisites": "",
       "offerings": [],
@@ -583,8 +583,8 @@
     {
       "code": "PSYC 4001",
       "name": "Special Topics in Psychology",
-      "credit": "0.5",
-      "description": "Each section of deals with a different topic. Topics change yearly. Students may register in more than one section of but can register in each section only once.",
+      "credit": "",
+      "description": "Each section of  PSYC 4001  deals with a different topic. Topics change yearly. Students may register in more than one section of  PSYC 4001  but can register in each section only once.",
       "prerequisites": "each section will have its own.",
       "offerings": [
         "fall"
@@ -595,7 +595,7 @@
     {
       "code": "PSYC 4003",
       "name": "Origins of Modern Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "An overview of the evolution of psychology, with an emphasis on psychology as a specialized area of knowledge and practice in the late-nineteenth and twentieth centuries. Topics covered may include the history of a particular period, content area, or cultural context.",
       "prerequisites": "third or fourth-year standing in a Psychology Honours program.",
       "offerings": [
@@ -607,7 +607,7 @@
     {
       "code": "PSYC 4100",
       "name": "Advanced Topics in Social Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Social psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2100 .",
       "offerings": [
@@ -619,7 +619,7 @@
     {
       "code": "PSYC 4301",
       "name": "Advanced Topics in Health Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in health psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2301 .",
       "offerings": [
@@ -632,7 +632,7 @@
     {
       "code": "PSYC 4330",
       "name": "Community Mental Health and Well-Being",
-      "credit": "1.0",
+      "credit": "",
       "description": "An examination of theory, research, and the practice of approaches to support peers and their well-being. Students will apply the concepts learned during the seminars in field placements.",
       "prerequisites": "fourth-year Honours standing in Psychology, Mental Health and Well-Being Stream.",
       "offerings": [
@@ -645,7 +645,7 @@
     {
       "code": "PSYC 4333",
       "name": "Clinical Psychology: Assessment and Intervention",
-      "credit": "0.5",
+      "credit": "",
       "description": "An advanced seminar on clinical psychology and mental health. Students will learn about frequently used treatment modalities and common factors across treatments. Research methodology and recent advances dealing with a variety of common mental disorders will also be reviewed and discussed.",
       "prerequisites": "fourth-year Honours standing in Psychology and PSYC 3604 .",
       "offerings": [
@@ -657,7 +657,7 @@
     {
       "code": "PSYC 4400",
       "name": "Advanced Topics in Forensic Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in Forensic psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2400 .",
       "offerings": [
@@ -670,7 +670,7 @@
     {
       "code": "PSYC 4403",
       "name": "Gender and Crime",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course explores the role of gender in understanding, preventing, and treating adult and youthful criminal conduct. The course operates from a psychological and developmental perspective seeking to examine individual differences in female perpetrated criminal conduct across the life span.",
       "prerequisites": "fourth-year standing and PSYC 3402 .",
       "offerings": [],
@@ -680,7 +680,7 @@
     {
       "code": "PSYC 4404",
       "name": "Sex Offenders",
-      "credit": "0.5",
+      "credit": "",
       "description": "Theory and research concerning the etiology and maintenance of sexual offending; assessment, treatment, and management of sex offenders. Introduction to fundamental issues and controversies in the area.",
       "prerequisites": "third- or fourth-year standing, PSYC 2400 , and PSYC 3402 .",
       "offerings": [],
@@ -690,7 +690,7 @@
     {
       "code": "PSYC 4410",
       "name": "Children and the Law",
-      "credit": "0.5",
+      "credit": "",
       "description": "This course will explore psychological factors affecting child witnesses and victims as they interact within the criminal justice system. The course will survey the intersection of psychology and law within the areas of eyewitness memory, police procedures, and the criminal justice system.",
       "prerequisites": "fourth-year standing, and PSYC 2400 or PSYC 2500 .",
       "offerings": [],
@@ -700,7 +700,7 @@
     {
       "code": "PSYC 4411",
       "name": "Cold Case Investigations",
-      "credit": "1.0",
+      "credit": "",
       "description": "Forensic science, criminal justice, psychology, and investigative techniques equip students with knowledge and practical skills required to tackle unsolved crimes. Expert academics and practitioners will present in the first semester, and in the second semester students actively participate in solving an unsolved cold case.",
       "prerequisites": "Major CGPA of 10.0 ( A- ) in Psychology; Fourth-Year Standing; and PSYC 3404 (formerly PSYC 4402, no longer offered).",
       "offerings": [],
@@ -710,7 +710,7 @@
     {
       "code": "PSYC 4500",
       "name": "Advanced Topics in Developmental Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in developmental psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2500 .",
       "offerings": [
@@ -722,7 +722,7 @@
     {
       "code": "PSYC 4600",
       "name": "Advanced Topics in Personality Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in personality psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2600 .",
       "offerings": [
@@ -734,7 +734,7 @@
     {
       "code": "PSYC 4700",
       "name": "Advanced Topics in Cognitive Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in cognitive psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing, and PSYC 2700 .",
       "offerings": [
@@ -746,7 +746,7 @@
     {
       "code": "PSYC 4801",
       "name": "Occupational Health Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "The application of psychological knowledge to enhance employee physical and mental health, safety and well-being, and more broadly, to enrich organizational life. Students will be able to learn and analyze critically the relevant methodological, theoretical, and empirical Occupational Health Psychology literature.",
       "prerequisites": "third or fourth-year standing and one of PSYC 2100 , PSYC 2301 , PSYC 2801 .",
       "offerings": [],
@@ -756,7 +756,7 @@
     {
       "code": "PSYC 4802",
       "name": "Advanced Topics in Organizational Psychology",
-      "credit": "0.5",
+      "credit": "",
       "description": "In-depth exploration of theoretical and empirical issues related to selected topics in organizational psychology. The specific content for this course will vary from year to year.",
       "prerequisites": "fourth-year standing and PSYC 2801 .",
       "offerings": [],
@@ -766,7 +766,7 @@
     {
       "code": "PSYC 4900",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program.",
       "prerequisites": "third- or fourth-year standing in Psychology and permission of the Department.",
       "offerings": [
@@ -779,7 +779,7 @@
     {
       "code": "PSYC 4902",
       "name": "Independent Study",
-      "credit": "0.5",
+      "credit": "",
       "description": "A reading or research course for selected students who wish to investigate a particular topic of interest. Normally, students may not include more than one credit of independent study in their total program.",
       "prerequisites": "third- or fourth-year standing in Psychology and permission of the Department.",
       "offerings": [
@@ -792,7 +792,7 @@
     {
       "code": "PSYC 4907",
       "name": "Thesis for B.Sc. with Honours in Psychology",
-      "credit": "1.0",
+      "credit": "",
       "description": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event.",
       "prerequisites": "fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC 3000 ; one of PSYC 3100 , PSYC 3300 , PSYC 3400 , PSYC 3500 , PSYC 3600 , PSYC 3700 or PSYC 3805; and permission of the Department.",
       "offerings": [
@@ -805,7 +805,7 @@
     {
       "code": "PSYC 4908",
       "name": "Thesis for B.A. with Honours in Psychology",
-      "credit": "1.0",
+      "credit": "",
       "description": "A thesis supervised by a Faculty Adviser. Students review the appropriate literature, contribute to the design of a study or experiment, conduct data analyses, and produce an APA style written report. Students may also present a research poster at the Psychology Undergraduate Research Event.",
       "prerequisites": "fourth-year Honours standing in Psychology with a major CGPA of 10.0, PSYC 3000 ; one of PSYC 3100 , PSYC 3300 , PSYC 3400 , PSYC 3500 , PSYC 3600 , PSYC 3700 , PSYC 3805; and permission of the Department.",
       "offerings": [
@@ -818,7 +818,7 @@
     {
       "code": "PSYC 4909",
       "name": "Project for B.Sc. with Honours in Psychology",
-      "credit": "1.0",
+      "credit": "",
       "description": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them.",
       "prerequisites": "fourth-year standing in B.Sc. (Honours) in Psychology, and PSYC 3000 .",
       "offerings": [
@@ -831,7 +831,7 @@
     {
       "code": "PSYC 4910",
       "name": "Project for B.A. with Honours in Psychology",
-      "credit": "1.0",
+      "credit": "",
       "description": "Within an active learning environment, students develop oral presentations and written documents that may include annotated bibliographies, essays, and presentation slides. They must also present a research poster at the Psychology Undergraduate Research Event. Students select an area of psychological research of interest to them.",
       "prerequisites": "fourth-year standing in B.A (Honours) in Psychology, and PSYC 3000 .",
       "offerings": [
@@ -845,63 +845,63 @@
   "free_electives": [
     {
       "type": "requirement",
-      "degree": "Psychology B.A. Honours (20.0 credits)",
+      "degree": "Psychology  B.A. Honours (20.0 credits)",
       "credits": "3.0",
-      "text": "11.  3.0 credits in free electives 3.0"
+      "text": "11.  3.0 credits in  free electives 3.0"
     },
     {
       "type": "requirement",
-      "degree": "Psychology B.A. Combined Honours (20.0 credits)",
+      "degree": "Psychology  B.A. Combined Honours (20.0 credits)",
       "credits": "",
       "text": "10. Sufficient free electives to make 20.0 credits total for the program"
     },
     {
       "type": "requirement",
-      "degree": "Psychology B.A. (15.0 credits)",
+      "degree": "Psychology  B.A. (15.0 credits)",
       "credits": "3.0",
-      "text": "9.  3.0 credits in free electives 3.0"
+      "text": "9.  3.0 credits in  free electives 3.0"
     },
     {
       "type": "requirement",
-      "degree": "Psychology B.Sc. Honours (20.0 credits)",
+      "degree": "Psychology  B.Sc. Honours (20.0 credits)",
       "credits": "3.0",
-      "text": "15.  3.0 credits in free electives 3.0"
+      "text": "15.  3.0 credits in  free electives 3.0"
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biochemistry students may use  BIOL 2005  only as a free elective."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences), except  ERTH 2415  which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use  ERTH 2401 ,  ERTH 2402 , and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+      "text": "TSES (Technology, Society, Environment) except  TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
+      "text": "BIOC (Biochemistry) except  BIOC 1900  which may be used only as a free elective for any B.Sc. program."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
+      "text": "BIOL (Biology) except  BIOL 4810  which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use  BIOL 1010  and  BIOL 2005  only as free electives."
     },
     {
       "type": "requirement",
       "degree": "Course Categories for B.Sc. Programs",
       "credits": "",
-      "text": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
+      "text": "ERTH (Earth Sciences) except  ERTH 1004  and  ERTH 2415 . Earth Sciences students may use  ERTH 2401 ,  ERTH 2402  and  ERTH 2403  only as free electives."
     },
     {
       "type": "requirement",
@@ -930,7 +930,7 @@
   ],
   "programs": [
     {
-      "degree": "Psychology B.A. Honours (20.0 credits)",
+      "degree": "Psychology  B.A. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1026,7 +1026,7 @@
       ]
     },
     {
-      "degree": "Psychology B.A. Combined Honours (20.0 credits)",
+      "degree": "Psychology  B.A. Combined Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1118,221 +1118,6 @@
           ],
           "credits": 1.0,
           "description": "Project for B.A. with Honours in Psychology"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Cognitive Psychology (3.5 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2700"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Cognitive Psychology"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "CGSC 3201",
-            "PSYC 2307",
-            "PSYC 3307",
-            "PSYC 3001",
-            "PSYC 3506",
-            "PSYC 3508",
-            "PSYC 3700",
-            "PSYC 3702",
-            "PSYC 3709",
-            "PSYC 3710",
-            "PSYC 3901",
-            "PSYC 3902",
-            "PSYC 3905",
-            "PSYC 4001",
-            "PSYC 4003",
-            "PSYC 4700",
-            "PSYC 4900",
-            "PSYC 4902",
-            "PSYC 4907",
-            "PSYC 4908",
-            "PSYC 4909",
-            "PSYC 4910"
-          ],
-          "credits": 3.0,
-          "description": "3.0 credits from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Developmental Psychology (3.5 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2500"
-          ],
-          "credits": 0.5,
-          "description": "Foundations of Developmental Psychology"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "PSYC 3001",
-            "PSYC 3500",
-            "PSYC 3505",
-            "PSYC 3506",
-            "PSYC 3507",
-            "PSYC 3508",
-            "PSYC 3509",
-            "PSYC 3901",
-            "PSYC 3902",
-            "PSYC 3905",
-            "PSYC 4001",
-            "PSYC 4003",
-            "PSYC 4500",
-            "PSYC 4900",
-            "PSYC 4902",
-            "PSYC 4907",
-            "PSYC 4908",
-            "PSYC 4909",
-            "PSYC 4910"
-          ],
-          "credits": 3.0,
-          "description": "3.0 credits from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Forensic Psychology (3.5 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2400"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Forensic Psychology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 3402"
-          ],
-          "credits": 0.5,
-          "description": "Criminal Behaviour"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "PSYC 3001",
-            "PSYC 3400",
-            "PSYC 3403",
-            "PSYC 3404",
-            "PSYC 3901",
-            "PSYC 3902",
-            "PSYC 3905",
-            "PSYC 4001",
-            "PSYC 4003",
-            "PSYC 4400",
-            "PSYC 4403",
-            "PSYC 4404",
-            "PSYC 4900",
-            "PSYC 4902",
-            "PSYC 4907",
-            "PSYC 4908",
-            "PSYC 4909",
-            "PSYC 4910"
-          ],
-          "credits": 2.5,
-          "description": "2.5 credits from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Health Psychology (3.5 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2301"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Health Psychology"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "PSYC 3001",
-            "PSYC 3300",
-            "PSYC 3301",
-            "PSYC 3302",
-            "PSYC 3305",
-            "PSYC 3403",
-            "PSYC 3604",
-            "PSYC 3901",
-            "PSYC 3902",
-            "PSYC 3905",
-            "PSYC 4001",
-            "PSYC 4003",
-            "PSYC 4301",
-            "PSYC 4900",
-            "PSYC 4902",
-            "PSYC 4907",
-            "PSYC 4908",
-            "PSYC 4909",
-            "PSYC 4910"
-          ],
-          "credits": 3.0,
-          "description": "3.0 credits from:"
-        }
-      ]
-    },
-    {
-      "degree": "Concentration in Social/Personality Psychology (3.5 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2100"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Social Psychology"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "PSYC 2600"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to the Study of Personality"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "PSYC 3001",
-            "PSYC 3100",
-            "PSYC 3104",
-            "PSYC 3106",
-            "PSYC 3302",
-            "PSYC 3405",
-            "PSYC 3600",
-            "PSYC 3603",
-            "PSYC 3901",
-            "PSYC 3902",
-            "PSYC 3905",
-            "PSYC 4001",
-            "PSYC 4003",
-            "PSYC 4100",
-            "PSYC 4600",
-            "PSYC 4900",
-            "PSYC 4902",
-            "PSYC 4907",
-            "PSYC 4908",
-            "PSYC 4909",
-            "PSYC 4910"
-          ],
-          "credits": 2.5,
-          "description": "2.5 credits from:"
         }
       ]
     },
@@ -1374,7 +1159,7 @@
       ]
     },
     {
-      "degree": "Psychology B.A. (15.0 credits)",
+      "degree": "Psychology  B.A. (15.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1433,7 +1218,7 @@
       ]
     },
     {
-      "degree": "Psychology B.Sc. Honours (20.0 credits)",
+      "degree": "Psychology  B.Sc. Honours (20.0 credits)",
       "requirements": [
         {
           "type": "required",
@@ -1553,18 +1338,11 @@
             "PHYS 1007",
             "PHYS 1008",
             "PHYS 1003",
-            "PHYS 1004"
+            "PHYS 1004",
+            "ISAP 1000"
           ],
           "credits": 2.0,
           "description": "2.0 credits from:"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": 1.0,
-          "description": "1.0 credit from Science Faculty Electives or from a discipline other than Psychology outside the faculties of Science and Engineering and Design ( ISAP 1000 recommended)"
         }
       ]
     },
@@ -2064,117 +1842,26 @@
             "ANTH 3040",
             "ANTH 3310",
             "ANTH 4005",
-            "ANTH 4780"
-          ],
-          "credits": null,
-          "description": "Anthropology"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "ANTH 4780",
             "BUSI 3104",
-            "BUSI 4105"
-          ],
-          "credits": null,
-          "description": "Business"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "DBST 1001"
-          ],
-          "credits": null,
-          "description": "Disability Studies"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "ECON 3460"
-          ],
-          "credits": null,
-          "description": "Economics"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "GEOG 3206"
-          ],
-          "credits": null,
-          "description": "Geography"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "BUSI 4105",
+            "DBST 1001",
+            "ECON 3460",
+            "GEOG 3206",
             "HLTH 1001",
             "HLTH 2003",
-            "HLTH 3403"
-          ],
-          "credits": null,
-          "description": "Health Sciences"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "HLTH 3403",
             "HIST 3106",
-            "HIST 3120"
-          ],
-          "credits": null,
-          "description": "History"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "HIST 3120",
             "HRSJ 1101",
-            "HRSJ 1102"
-          ],
-          "credits": null,
-          "description": "Human Rights"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "IDES 2600"
-          ],
-          "credits": null,
-          "description": "Industrial Design"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "LAWS 2105"
-          ],
-          "credits": null,
-          "description": "Law"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "HRSJ 1102",
+            "IDES 2600",
+            "LAWS 2105",
             "LING 2604",
-            "LING 3604"
-          ],
-          "credits": null,
-          "description": "Linguistics"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "MUSI 3303"
-          ],
-          "credits": null,
-          "description": "Music"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "LING 3604",
+            "MUSI 3303",
             "NEUR 1202",
-            "NEUR 1203"
-          ],
-          "credits": null,
-          "description": "Neuroscience"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "NEUR 1203",
             "PHIL 1200",
             "PHIL 1700",
             "PHIL 2307",
@@ -2184,23 +1871,9 @@
             "PHIL 2540",
             "PHIL 2550",
             "PHIL 2700",
-            "PHIL 3540"
-          ],
-          "credits": null,
-          "description": "Philosophy"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "PHIL 3540",
             "RELI 1731",
-            "RELI 2732"
-          ],
-          "credits": null,
-          "description": "Religion"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "RELI 2732",
             "SOCI 2020",
             "SOCI 2040",
             "SOCI 2043",
@@ -2213,28 +1886,14 @@
             "SOCI 3050",
             "SOCI 3055",
             "SOCI 3056",
-            "SOCI 4043"
-          ],
-          "credits": null,
-          "description": "Sociology"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "SOCI 4043",
             "SOWK 1001",
-            "SOWK 1002"
-          ],
-          "credits": null,
-          "description": "Social Work"
-        },
-        {
-          "type": "choose",
-          "courses": [
+            "SOWK 1002",
             "TSES 3001",
             "TSES 4001"
           ],
-          "credits": null,
-          "description": "Technology, Society, Environmental Studies"
+          "credits": 2.0,
+          "description": "2.0 credits from  two or more units:"
         }
       ]
     },
@@ -2847,199 +2506,44 @@
           "description": "Human Neuropsychology II"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
             "BIOL 4810",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biochemistry students may use BIOL 2005 only as a free elective."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) A maximum of two half-credits at the 1000-level in COMP, excluding COMP 1001 may be used as Science Continuation credits."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
+            "COMP 1001",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences), except ERTH 2415 which may be used only as a free elective for any B.Sc. program. Students in Earth Sciences programs may use ERTH 2401 , ERTH 2402 , and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "PHYS 2903"
-          ],
-          "credits": null,
-          "description": "PHYS (Physics), except PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
+            "PHYS 2903",
             "TSES 2305"
           ],
           "credits": null,
-          "description": "TSES (Technology, Society, Environment) except TSES 2305 . Biology students may use these courses only as free electives. Integrated Science and Environmental Science students may include these courses in their programs but may not count them as part of the Science Sequence."
+          "description": "A course at the 2000 level or above may be used as a Science Continuation credit in a B.Sc. program if it is not in the student's major discipline, and is chosen from the following:"
         },
         {
-          "type": "elective",
+          "type": "choose",
           "courses": [
-            "BIOC 1900"
-          ],
-          "credits": null,
-          "description": "BIOC (Biochemistry) except BIOC 1900 which may be used only as a free elective for any B.Sc. program."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOC 1900",
             "BIOL 4810",
             "BIOL 1010",
-            "BIOL 2005"
-          ],
-          "credits": null,
-          "description": "BIOL (Biology) except BIOL 4810 which may be used only as a free elective for any B.Sc. program. Biology & Biochemistry students may use BIOL 1010 and BIOL 2005 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "BIOL 2005",
             "CHEM 1003",
             "CHEM 1004",
-            "CHEM 1007"
-          ],
-          "credits": null,
-          "description": "CHEM (Chemistry) except CHEM 1003 , CHEM 1004 and CHEM 1007"
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "COMP 1001"
-          ],
-          "credits": null,
-          "description": "COMP (Computer Science) except COMP 1001"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "CHEM 1007",
+            "COMP 1001",
             "ERTH 1004",
             "ERTH 2415",
             "ERTH 2401",
             "ERTH 2402",
-            "ERTH 2403"
-          ],
-          "credits": null,
-          "description": "ERTH (Earth Sciences) except ERTH 1004 and ERTH 2415 . Earth Sciences students may use ERTH 2401 , ERTH 2402 and ERTH 2403 only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Engineering"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ENSC (Environmental Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "FOOD (Food Science and Nutrition)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "GEOM (Geomatics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "HLTH (Health Science)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "ISAP (Interdisciplinary Science Practice)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "MATH (Mathematics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "NEUR (Neuroscience)"
-        },
-        {
-          "type": "elective",
-          "courses": [
+            "ERTH 2403",
             "PHYS 1901",
             "PHYS 1902",
             "PHYS 1905",
             "PHYS 2903"
           ],
           "credits": null,
-          "description": "PHYS (Physics) except PHYS 1901 , PHYS 1902 , PHYS 1905 , and PHYS 2903"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Geography (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Science Psychology (see list above)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "STAT (Statistics)"
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "TSES (Technology, Society, Environment)  Biology students may use these courses only as free electives."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Advanced Science Faculty Electives are courses at the 2000-4000 level chosen from the Science Faculty Electives list above."
-        },
-        {
-          "type": "elective",
-          "courses": [
-            "ISAP 1000"
-          ],
-          "credits": null,
-          "description": "All courses offered by the Faculty of Arts and Social Sciences, the Faculty of Public and Global Affairs, and the Sprott School of Business are approved as Arts or Social Sciences courses EXCEPT FOR: All Science Geography courses (see list above), all Geomatics (GEOM) courses, all Science Psychology courses (see list above). ISAP 1000 may be used as an Approved Course Outside the Faculties of Science and Engineering and Design."
-        },
-        {
-          "type": "elective",
-          "courses": [],
-          "credits": null,
-          "description": "Any course is allowable as a Free Elective providing it is not prohibited (see below). Students are expected to comply with prerequisite requirements and enrolment restrictions for all courses as published in this Calendar."
+          "description": ""
         },
         {
           "type": "elective",

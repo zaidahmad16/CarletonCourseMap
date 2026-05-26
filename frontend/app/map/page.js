@@ -32,6 +32,13 @@ const edgeTypes = { clean: CleanEdge }
 // ─── Program name shortener ───────────────────────────────────────────────────
 
 const shortenProgram = (degree = '') => {
+  // Merged programs ("Parent — Concentration in X") — show just the concentration name
+  const mergedM = degree.match(/—\s*concentration\s+in\s+(.+?)(?:\s*\(|$)/i)
+  if (mergedM) {
+    const c = mergedM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+
   const specifics = [
     [/artificial intelligence|machine learning/i, 'AI & Machine Learning'],
     [/cybersecurity|cyber security/i,             'Cybersecurity'],

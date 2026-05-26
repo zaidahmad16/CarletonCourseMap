@@ -364,9 +364,9 @@ def scrape_program_requirements(sel):
         if not degree:
             continue
 
-        # skip pure note tables (courselistcomment first row, no areaheader anywhere)
+        # skip pure note tables (courselistcomment first row, no areaheader, no course rows)
         first_row = table.css("tr:first-child")
-        if first_row.css(".courselistcomment") and not table.css("tr.areaheader"):
+        if first_row.css(".courselistcomment") and not table.css("tr.areaheader") and not table.css("td.codecol"):
             continue
 
         requirements = _parse_sc_courselist(table)

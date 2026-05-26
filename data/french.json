@@ -88,7 +88,10 @@
       "credit": "",
       "description": "Students may take a third-year course offered in the Department of French while submitting course work in English. This course does not count towards any degree program in French.",
       "prerequisites": "third-year standing and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -98,7 +101,9 @@
       "credit": "",
       "description": "Students may take a fourth- or fifth-year special topic seminar offered in the Department of French while submitting written work in English. This course does not count towards credit in any degree program in French.",
       "prerequisites": "fourth-year standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -108,7 +113,9 @@
       "credit": "",
       "description": "Students may take a fourth- or fifth-year special topic seminar offered in the Department of French while submitting written work in English. This course does not count towards credit in any degree program in French.",
       "prerequisites": "fourth-year standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -118,7 +125,10 @@
       "credit": "",
       "description": "This course is designed for absolute beginners in the language. Classes use audio-visual methods, and emphasis is given to the spoken language. Introduction to reading and writing. Compulsory attendance. Limited enrolment. No auditors. Oral interaction required.",
       "prerequisites": "placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,7 +138,10 @@
       "credit": "",
       "description": "Taught in French for students who had exposure to French but have difficulty using it in day-to-day communication. Emphasis on oral expression and comprehension; development of reading and writing skills. Presentations, interviews, cultural activities, grammar. Compulsory attendance, participation. Limited enrolment. No auditors. Oral interaction required.",
       "prerequisites": "Grade of C or higher in FREN 1001 or placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -138,7 +151,9 @@
       "credit": "",
       "description": "The development of written and oral communication skills, as well as research and study skills, through an introduction to the diversity of the French language and francophone literatures and cultures. Conducted in French with some workshops in English.",
       "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering. Restricted to students in first and second year.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -148,7 +163,10 @@
       "credit": "",
       "description": "Taught in French. Emphasis on speaking, listening, reading and writing skills. Oral presentations, discussions, interviews, reading of novels and magazine articles, listening activities, grammar exercises, compositions. Attendance and participation are compulsory. Limited enrolment. No auditors. Oral interaction required.",
       "prerequisites": "Grade of C or higher in FREN 1002 or placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -168,7 +186,10 @@
       "credit": "",
       "description": "Taught in French. For non-francophone students. Advanced speaking, listening, reading and writing skills. Advanced level reading from various sources, including literary texts. Grammar exercises, essays, oral presentations. Attendance and participation are compulsory. Limited enrolment. No auditors. Oral interaction required.",
       "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -178,7 +199,10 @@
       "credit": "",
       "description": "Taught in French. For students with intermediate French writing skills. Refinement of spelling, grammar, sentence-structure and vocabulary; accuracy and textual organization. Essay-writing. Use and referencing of various sources. Self-correction. Attendance and participation compulsory. Limited enrolment. No auditors. Oral interaction required.",
       "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -188,7 +212,9 @@
       "credit": "",
       "description": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise: principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
       "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "FREN 2100",
@@ -201,7 +227,9 @@
       "credit": "",
       "description": "Survol historique des litt\u00e9ratures d'expression fran\u00e7aise au Qu\u00e9bec et au Canada: principaux auteurs, grands mouvements, \u00e9volution des genres. Initiation aux m\u00e9thodes et notions d'analyse litt\u00e9raire.",
       "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "FREN 2100",
@@ -214,7 +242,10 @@
       "credit": "",
       "description": "\u00c9tude de la structure et du fonctionnement du syst\u00e8me linguistique \u00e0 travers l'analyse de donn\u00e9es du fran\u00e7ais (de France et du Canada). La construction du sens, des sons au discours; code oral et \u00e9crit.",
       "prerequisites": "FREN 1100 or FREN 1110 with a grade of C or higher or permission of the Department. This course may be taken concurrently with FREN 2100 or FREN 2110 .",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "FREN 2100",
@@ -227,7 +258,9 @@
       "credit": "",
       "description": "Travaux pratiques pour d\u00e9velopper l\u2019aisance et la fluidit\u00e9 dans l\u2019expression orale. This course is not suitable for francophones or students returning from exchange. No auditors.",
       "prerequisites": "Grade of C or higher in FREN 1100 or FREN 1110 or placement test on Carleton Central before registering.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -237,7 +270,9 @@
       "credit": "",
       "description": "Initiation aux techniques et pratiques de la r\u00e9flexion universitaire : documentation (biblioth\u00e8que, bases de donn\u00e9es, bibliographies critiques), lecture (analyse, synth\u00e8se  et \u00e9valuation critique de textes de savoir) et r\u00e9flexion (cadre th\u00e9orique, m\u00e9thode d'analyse, pratique du discours raisonn\u00e9).",
       "prerequisites": "FREN 2202 , FREN 2203 and FREN 2401 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -247,7 +282,9 @@
       "credit": "",
       "description": "Analyse et pratique r\u00e9fl\u00e9chie des formes de la grammaire dans le discours: Structures des phrases, marques d\u2019accord, concordance des temps, pr\u00e9positions et compl\u00e9ments, homonymie et homographie, faux amis et anglicismes. D\u00e9veloppement des techniques efficaces d\u2019autocorrection et ma\u00eetrise d\u2019outils informatis\u00e9s.",
       "prerequisites": "FREN 2202 and FREN 2203 or FREN 2401 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -307,7 +344,9 @@
       "credit": "",
       "description": "\u00c9tude approfondie d\u2019un(e) auteur(e) ou groupe d\u2019auteur(e)s et de leur \u0153uvre. Lectures critiques, th\u00e9oriques et litt\u00e9raires. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 and FREN 2203 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -367,7 +406,9 @@
       "credit": "",
       "description": "\u00c9tude de la forme des unit\u00e9s lexicales et grammaticales du fran\u00e7ais et de leur port\u00e9e signifiante. Analyse du syst\u00e8me flexionnel du fran\u00e7ais et des m\u00e9canismes de formation des mots.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -407,7 +448,9 @@
       "credit": "",
       "description": "Pr\u00e9sentation des vari\u00e9t\u00e9s de fran\u00e7ais parl\u00e9 dans le monde, principalement \u00e0 l\u2019ext\u00e9rieur du Canada. \u00c9tude des aspects historiques et sociopolitiques de la diffusion du fran\u00e7ais. Analyse des traits linguistiques propres aux vari\u00e9t\u00e9s. Colonisation, cr\u00e9olisation, emprunt linguistique, variation r\u00e9gionale, am\u00e9nagement linguistique.",
       "prerequisites": "FREN 2401 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -437,7 +480,9 @@
       "credit": "",
       "description": "Perfectionnement de l'expression \u00e9crite au moyen d'un apprentissage appliqu\u00e9 de la traduction. Analyses des principales interf\u00e9rences syntaxiques, s\u00e9mantiques et discursives entre le fran\u00e7ais et l'anglais. Approfondissement des pratiques de textualisation: coh\u00e9rence et coh\u00e9sion, idiomatisation, registres, paraphrase, consid\u00e9rations stylistiques, etc. Approche privil\u00e9giant le texte pragmatique.",
       "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -457,7 +502,9 @@
       "credit": "",
       "description": "Techniques avanc\u00e9es d'expression \u00e9crite. No auditors.",
       "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -467,7 +514,9 @@
       "credit": "",
       "description": "Initiation aux \u00e9tudes des programmes au Canada et ailleurs. Processus d'acquisition des habilet\u00e9s d'expression et de compr\u00e9hension. Survol des th\u00e9ories pass\u00e9es et actuelles. Appr\u00e9ciation et critique de pratiques p\u00e9dagogiques.",
       "prerequisites": "one FREN course at the 2000-level, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -487,7 +536,9 @@
       "credit": "",
       "description": "D\u00e9veloppement d\u2019un projet individuel supervis\u00e9 en litt\u00e9rature ou en linguistique, amorc\u00e9 dans un cours ant\u00e9rieur de 4e ann\u00e9e. Raffinement de l\u2019expression et des id\u00e9es. Pr\u00e9sentation publique des r\u00e9sultats.",
       "prerequisites": "fourth-year standing in the BA Honours in French, FREN 3050 and one FREN course at the 4th year level.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -497,7 +548,9 @@
       "credit": "",
       "description": "Analyse de probl\u00e9matiques li\u00e9es \u00e0 la francophonie litt\u00e9raire. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2202 , FREN 2203 and FREN 3050 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -557,7 +610,9 @@
       "credit": "",
       "description": "\u00c9tudes des vari\u00e9t\u00e9s du fran\u00e7ais, dans ses dimensions spatiales. Contenu variable selon les ann\u00e9es : consulter le site web du d\u00e9partement de fran\u00e7ais. Repeatable for credit when the topic changes.",
       "prerequisites": "FREN 2401 and FREN 3050 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -607,7 +662,10 @@
       "credit": "",
       "description": "Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "prerequisites": "fourth-year standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -617,7 +675,10 @@
       "credit": "",
       "description": "Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
       "prerequisites": "fourth-year standing or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },

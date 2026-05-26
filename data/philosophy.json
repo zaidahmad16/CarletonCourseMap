@@ -8,7 +8,9 @@
       "credit": "",
       "description": "What is metaphysics? Who was Socrates? What is Freedom? This  introduction sketches many branches of philosophy and the important problems associated with each. It introduces great philosophers, present and past, and traces enduring philosophical themes.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +30,10 @@
       "credit": "",
       "description": "An introduction to concerns expressed by the perennial philosophical question, \"What is the meaning of life?\"  Students will be familiarized with the major philosophical approaches to life's meaning through a consideration of various contemporary and late modern works in the philosophy of life.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +43,10 @@
       "credit": "",
       "description": "Introduction to a variety of philosophical works, including contemporary, on such topics as: the nature of being, the mental, the external, consciousness, perception, experience, meaning, truth, the nature of knowledge, scientific understanding, and how language and thought represent the world.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +66,10 @@
       "credit": "",
       "description": "An introduction to understanding, assessing, and formulating ethical arguments concerning controversial issues. Particular issues studied may include, world hunger, capital punishment, terrorism, euthanasia, abortion, pornography and hate speech, animal rights, the environment, and topics in theories of race, gender and disability.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +79,9 @@
       "credit": "",
       "description": "Major figures and developments in philosophy from the early Greeks to the year 1400.  Descriptive and comparative approach, providing an understanding of the place of philosophers in the history of thought.  Appreciation of critical reasoning is included for comprehending philosophical developments.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +101,9 @@
       "credit": "",
       "description": "A survey of philosophical classics, on themes of romantic love, self-love, altruistic love, sexuality, eroticism and the passion/reason dichotomy, from Plato's Symposium to Foucault's History of Sexuality; and an examination of related contemporary issues in light of these perspectives.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +113,10 @@
       "credit": "",
       "description": "An introduction to the techniques and philosophical implications of formal logic with emphasis on translation of expressions into symbolic form, testing for logical correctness, the formulation and application of rules of inference, and the relation between logic and language.  Open to first-year students.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -108,7 +126,10 @@
       "credit": "",
       "description": "Assessment of reasoning and the development of cogent patterns of thinking. Reference to formal logic is minimal. Practice in criticizing examples of reasoning and in formulating one's own reasons correctly and clearly.  Open to first-year students.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -118,7 +139,10 @@
       "credit": "",
       "description": "An exploration of ancient philosophy as a search for wisdom and happiness from its Presocratic beginnings in Greece to its development in the Hellenistic world and Imperial Rome. Emphasis on philosophy as a contemplative activity and as a way of life.",
       "prerequisites": "0.5 credit in PHIL, or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -128,7 +152,9 @@
       "credit": "",
       "description": "Issues drawn from epistemology, metaphysics, philosophy of mind, philosophy of language, and related fields will be examined through careful study of significant philosophical texts after 1900, along with some ensuing debates.",
       "prerequisites": "enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -138,7 +164,9 @@
       "credit": "",
       "description": "Issues drawn from ethics, social and political philosophy, and related fields will be examined through careful study of significant philosophical texts , along with some ensuing debates.",
       "prerequisites": "enrolment in Honours or Combined Honours Philosophy programs, or in philosophy, Ethics, and Public Affairs, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -168,7 +196,9 @@
       "credit": "",
       "description": "An exploration of ethical issues that arise in the Age of Information. Topics to be discussed may include technology, surveillance and privacy, social media and privacy, social media and cognitive bias, bias in algorithms, AI ethics, intellectual property, and freedom of expression and assembly.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -208,7 +238,9 @@
       "credit": "",
       "description": "Philosophical issues arising out of the attempt to understand the world scientifically. Topics may include: scientific methodology, revolution, observation, explanation, causation, induction, reduction, the difference between natural and social scientific understanding, realism, instrumentalism, constructivism.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -228,7 +260,9 @@
       "credit": "",
       "description": "Topics may include gender and sex in the history of philosophy, intersections between the politics and theories of gender, sexuality, and race, the place of the body in philosophical theory, the influence of gender and sex on science/social science, and queer/trans issues and politics.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -248,7 +282,9 @@
       "credit": "",
       "description": "A philosophical exploration of what makes a good human life. Topics may include the role of happiness, well-being, and flourishing in a good life, the relations between these aspects, and the extent to which they depend on luck and social considerations.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -258,7 +294,9 @@
       "credit": "",
       "description": "Philosophy is all around us, it permeates culture. This course explores philosophical questions through the lens of popular culture. The material used may include films, shows, music, novels, video games, advertising, comic books, and so on.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -268,7 +306,9 @@
       "credit": "",
       "description": "Major questions in environmental ethics: How should human beings view their relationship to the rest of nature? Is responsible stewardship of the environment compatible with current technology? Must future generations be protected? Do animals, other life forms, endangered species, ecosystems and/or the biosphere have value/rights?.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -278,7 +318,9 @@
       "credit": "",
       "description": "AI and robotic technologies raise pressing ethical issues. Topics discussed may include big data and privacy, the \u2018black box\u2019 problem and bias, human-AI interaction, automation and responsibility, AI codes of ethics, the moral status of AI, and potential risks to humanity posed by superintelligence.",
       "prerequisites": "0.5 credit in PHIL, or second year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -298,7 +340,9 @@
       "credit": "",
       "description": "Ethical and political issues in medicine, public health, biotechnology, and the life sciences. Topics may include reproductive ethics, research on human subjects, animal research and treatment, justice and health care, physician-patient relationships, death and the end of life, and genetic engineering.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -308,7 +352,9 @@
       "credit": "",
       "description": "An introduction to major philosophical issues concerning human cognition. Topics may include: the relation of mind to body, knowledge of other minds, the relation of mental states to personhood and personal identity, mental illness, consciousness, intentionality, action, mental realism.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -318,7 +364,9 @@
       "credit": "",
       "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers. The nature of meaning; the connections between language, communication and cognition; language as a social activity.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -348,7 +396,9 @@
       "credit": "",
       "description": "An examination of psychological underpinnings of morality, focusing on studies at the intersection of philosophy, psychiatry, and psychology.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -388,7 +438,9 @@
       "credit": "",
       "description": "Ancient and modern techniques of persuasion from analytical, ethical and jurisprudential perspectives.  Objectivity and bias, advertising and public relations ethics, the viability of democracy in the light of pressures on and within the modern mass media.",
       "prerequisites": "0.5 credit in PHIL or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -418,7 +470,9 @@
       "credit": "",
       "description": "European philosophy of the 17 th  century. Representative works of writers such as Francis Bacon, Descartes, Spinoza, Leibniz, and Locke.",
       "prerequisites": "0.5 credit in philosophy and second-year standing in a philosophy program, or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -448,7 +502,9 @@
       "credit": "",
       "description": "A study of philosophers, texts, problems and issues in any period of European philosophy.",
       "prerequisites": "0.5 credit in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -458,7 +514,9 @@
       "credit": "",
       "description": "A study of philosophers, texts, and doctrines beyond the Western tradition. Traditions covered will vary but may include Asian, African, Muslim or Indigenous philosophy, possibly with critical comparison to Western counterparts.",
       "prerequisites": "0.5 credit in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -488,7 +546,9 @@
       "credit": "",
       "description": "Fundamental issues concerning the relation between evidence, rationality, and knowledge. Topics may include: skepticism, the nature of belief, the structure of justification, the relative contributions of reason and sense experience to knowledge, innate knowledge, the problem of induction, and the knowledge of other minds.",
       "prerequisites": "0.5 credit in philosophy and third-year standing in a philosophy program or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -538,7 +598,9 @@
       "credit": "",
       "description": "A critical examination of selected topics and perspectives in the history of social and political philosophy.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -548,7 +610,9 @@
       "credit": "",
       "description": "A critical examination of some contemporary approaches to topics in social and political philosophy, such as liberalism, feminism, contractarianism, Marxism, libertarianism, and communitarianism.",
       "prerequisites": "a course in philosophy or second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -558,7 +622,9 @@
       "credit": "",
       "description": "Advanced study of a set of public policy issues, a particular theory or group of theories, or a particular philosopher, concerning philosophical and ethical aspects of public affairs.",
       "prerequisites": "third-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -598,7 +664,10 @@
       "credit": "",
       "description": "Philosophical issues arising from cognitive science. Topics may include: the proper methodology for studying the mind, the very possibility of a \u201cscience of mind\u201d, the computer model of the mind and reactions to it.",
       "prerequisites": "PHIL 2501 or PHIL 2502 or second-year standing in Cognitive Science, or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -618,7 +687,10 @@
       "credit": "",
       "description": "Topics examined through the lens of philosophy and cognitive science may include humans\u2019 obligations towards AI, sentient AI, implications of AI for models of cognition, designing ethical AI systems, implications of using AI in healthcare, and social inequality and job displacement related to AI.",
       "prerequisites": "CGSC 2001 or PHIL 2501 and third-year standing in Cognitive Science or Philosophy.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -658,7 +730,9 @@
       "credit": "",
       "description": "Emotions are central to human experience and widely studied in philosophy and science. In order to better understand them and their role in our lives, this course explores philosophical questions about emotions as they arise in philosophy of mind and cognitive science, ethics, and aesthetics.",
       "prerequisites": "PHIL 2501 , or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -728,7 +802,9 @@
       "credit": "",
       "description": "Detailed study of selected philosophers or issues in philosophy before the modern period.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -768,7 +844,9 @@
       "credit": "",
       "description": "Detailed study of selected philosophers or issues in contemporary philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -798,7 +876,9 @@
       "credit": "",
       "description": "Detailed study of a special topic in philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -818,7 +898,9 @@
       "credit": "",
       "description": "Detailed study of selected issues or the work of selected philosophers in philosophy of mind or philosophical aspects of cognition.",
       "prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -828,7 +910,9 @@
       "credit": "",
       "description": "Detailed study of selected issues or the work of selected philosophers in metaphysics, epistemology, or philosophy of science.",
       "prerequisites": "eligibility for fourth year standing in a Philosophy Honours programme or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -858,7 +942,9 @@
       "credit": "",
       "description": "Detailed study of selected issues in social or political philosophy.",
       "prerequisites": "eligibility for fourth-year standing in a Philosophy Honours program or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -908,7 +994,9 @@
       "credit": "",
       "description": "Detailed study of a special topic in philosophy of law.",
       "prerequisites": "eligibility for fourth-year standing in a Law or Philosophy Honours program or permission of either Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1058,7 +1146,9 @@
       "credit": "",
       "description": "",
       "prerequisites": "permission of the Department. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1666,6 +1756,110 @@
           ],
           "credits": 0.5,
           "description": "Philosophy of Emotions"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1000"
+          ],
+          "credits": 0.5,
+          "description": "Introductory Philosophy: Fields, Figures and Problems"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1100"
+          ],
+          "credits": 1.0,
+          "description": "Looking at Philosophy"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1200"
+          ],
+          "credits": 0.5,
+          "description": "The Meaning of Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1301"
+          ],
+          "credits": 0.5,
+          "description": "Mind, World, and Knowledge"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1500"
+          ],
+          "credits": 1.0,
+          "description": "Contemporary Moral, Social and Religious Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1550"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Ethics and Social Issues"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1610"
+          ],
+          "credits": 0.5,
+          "description": "Great Philosophical Ideas, Part 1"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1620"
+          ],
+          "credits": 0.5,
+          "description": "Great Philosophical Ideas, Part 2"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 1700"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy of Love and Sex"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2001"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Logic"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2003"
+          ],
+          "credits": 0.5,
+          "description": "Critical Thinking"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2330"
+          ],
+          "credits": 0.5,
+          "description": "Happiness, Well-being, and the Good Life"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "PHIL 2340"
+          ],
+          "credits": 0.5,
+          "description": "Philosophy and Popular Culture"
         }
       ]
     },
@@ -2053,6 +2247,37 @@
           ],
           "credits": 1.0,
           "description": "1.0 credit in  PHIL or 1.0 credit from:"
+        }
+      ]
+    },
+    {
+      "degree": "Mention : Fran\u00e7ais (4.0 credits)",
+      "requirements": [
+        {
+          "type": "choose",
+          "courses": [
+            "PHIL 3901",
+            "PHIL 3902",
+            "PHIL 3903",
+            "PHIL 3906",
+            "PHIL 3907",
+            "PHIL 3908"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from:"
+        },
+        {
+          "type": "choose",
+          "courses": [
+            "PHIL 4900",
+            "PHIL 4901",
+            "PHIL 4902",
+            "PHIL 4903",
+            "PHIL 4904",
+            "PHIL 4906"
+          ],
+          "credits": 1.0,
+          "description": "1.0 credit from  special projects:"
         }
       ]
     }

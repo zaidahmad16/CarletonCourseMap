@@ -8,7 +8,9 @@
       "credit": "",
       "description": "This calculus-based course on classical mechanics covers  kinematics, dynamics, gravitation, and oscillatory motion. This is a specialist course for students intending to take further courses in physics.",
       "prerequisites": "Grade 12 Mathematics: Advanced Functions and Grade 12 Mathematics: Calculus and Vectors or equivalent, plus one of MATH 1004 or MATH 1052 (the MATH course may be taken concurrently); or permission of the Physics Department. Grade 12 Physics is strongly recommended.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "",
       "description": "An introduction to electricity, magnetism, electromagnetic fields, and wave motion. This is a specialist course for students intending to take further courses in physics.",
       "prerequisites": "PHYS 1001 , or PHYS 1003 , or PHYS 1007 with a grade of B- ; MATH 1004 or MATH 2052 (may be taken concurrently); or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "",
       "description": "Mechanics, gravitation, oscillations, and thermodynamics. The application of calculus to solve problems in these areas of physics is introduced. This course is intended for students in the physical sciences and engineering.",
       "prerequisites": "Grade 12 Physics or equivalent, plus Grade 12 Mathematics: Advanced Functions or equivalent, plus one of MATH 1004 or MATH 1052 (the MATH course may be taken concurrently). Note that Grade 12 Mathematics: Calculus and Vectors is strongly recommended.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +44,10 @@
       "credit": "",
       "description": "This calculus-based course introduces potential energy, work, electricity, magnetism, oscillations and waves.",
       "prerequisites": "MATH 1004 , ( ECOR 1033 and ECOR 1034 )(the ECOR courses may be taken concurrently) or PHYS 1001 or PHYS 1003 or PHYS 1007 (a grade of at least B- is required for PHYS 1007 ), or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +57,9 @@
       "credit": "",
       "description": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences. For students who lack the prerequisites for  PHYS 1001  or  PHYS 1003 , or who do not intend to take upper-year courses in physics.",
       "prerequisites": "(i) Grade 12 Mathematics: Advanced Functions or equivalent, or MATH 0107 (may be taken concurrently); or (ii) Grade 12 Mathematics: Calculus and Vectors or equivalent, or MATH 1007 (may be taken concurrently; or (iii) permission of the Physics Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +69,9 @@
       "credit": "",
       "description": "Electricity and magnetism, DC and AC circuits, wave motion and light. Elements of modern physics. Applications chosen in part from the life sciences.",
       "prerequisites": "PHYS 1001 or PHYS 1003 or PHYS 1007 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +81,9 @@
       "credit": "",
       "description": "Mechanics, properties of matter, thermodynamics. Applications chosen in part from the life sciences. For students who lack the prerequisites for  PHYS 1001  or  PHYS 1003 , or who do not intend to take upper-year courses in physics.",
       "prerequisites": "(i) Grade 12 Mathematics: Advanced Functions or equivalent, or MATH 0107 (may be taken concurrently); or (ii) Grade 12 Mathematics: Calculus and Vectors or equivalent, or MATH 1007 (may be taken concurrently; or (iii) permission of the Physics Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -78,7 +93,9 @@
       "credit": "",
       "description": "Electricity and magnetism, DC and AC circuits, wave motion and light. Elements of modern physics. Applications chosen in part from the life sciences.",
       "prerequisites": "PHYS 1001 or PHYS 1003 or PHYS 1007 or PHYS 1107 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +105,9 @@
       "credit": "",
       "description": "Description of the known stellar, galactic and extra-galactic systems together with the instruments used to study them. Modern ideas concerning the structure, origin and evolution of our own planet. Formation of the Moon - Earth system. Study of the planets in our solar system.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +117,9 @@
       "credit": "",
       "description": "Starting with the Sun, the course studies its composition and source of power, then compares our Sun with the other stars in the galaxy and beyond. Modern ideas concerning the structure, origin and evolution of the universe, pulsars and supernovae are examined.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -108,7 +129,9 @@
       "credit": "",
       "description": "Examination of the physics behind everyday life. Topics may include transportation, sports, weather and climate, electricity, and sustainable energy. No science background is required.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -118,7 +141,9 @@
       "credit": "",
       "description": "Introduction to aspects of modern physics relevant to engineering. Thermal radiation. Concepts of relativistic kinematics. Wave-particle duality. Photoelectric effect, Compton scattering. Bohr theory of the hydrogen atom.   Optical and x-ray spectra, lasers. Nuclear physics and applications.",
       "prerequisites": "PHYS 1002 or PHYS 1004 or PHYS 1008 with a grade of B- or better, plus MATH 1004 and MATH 1104 or equivalent. Restricted to B.Eng. students not in the Engineering Physics program. Students in programs other than B.Eng. must obtain permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,7 +153,9 @@
       "credit": "",
       "description": "Students complete a number of experiments selected from classical physics and geometric optics, modern physics, etc. Seminars on relevant experimental topics will be included. Includes: Experiential Learning Activity.",
       "prerequisites": "PHYS 1002 , or PHYS 1004 ( PHYS 1008 is also acceptable provided a minimum average grade of B- is presented).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -160,7 +187,9 @@
       "credit": "",
       "description": "The observational basis of astronomy. The history of astronomy, properties of light, solar system observations and stellar astronomy.",
       "prerequisites": "PHYS 1002 or PHYS 1004 or permission of the department. PHYS 1008 with a grade of B- or better may also be used if MATH 1004 or MATH 1007 or MATH 2052 have been successfully completed.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -170,7 +199,9 @@
       "credit": "",
       "description": "Types of waves and the classical wave equation, wave functions in 2 and 3 dimensions, reflection and refraction, superposition of waves, polarization, interference, diffraction, coherence, wave packets. Temperature and thermodynamic equilibrium, heat, work and first law of thermodynamics, entropy and second law of thermodynamics.",
       "prerequisites": "PHYS 1001 and PHYS 1002 , or PHYS 1003 and PHYS 1004 ( PHYS 1007 and PHYS 1008 are also acceptable provided a minimum average grade of B- is presented); plus MATH 1004 and MATH 1104 or MATH 2152 , and MATH 2004 or MATH 2001 ( MATH 2001 or MATH 2004 may be taken concurrently).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "MATH 2004"
@@ -182,7 +213,9 @@
       "credit": "",
       "description": "Electrostatic field and potential, Gauss\u2019 law. Properties of conductors. Magnetic effects from currents. Motion of charges in electric and magnetic fields. Energy in electric and magnetic fields. Electromagnetic induction. Maxwell\u2019s equations in vacuum using vector differential and integral calculus.",
       "prerequisites": "PHYS 1001 , PHYS 1002 , or PHYS 1003 and PHYS 1004 , alternatively PHYS 1007 and PHYS 1008 with an overall grade of B- or higher; MATH 2004 , or MATH 2001 and MATH 2002 ( MATH 2002 may be taken concurrently).",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "MATH 2002"
@@ -224,7 +257,9 @@
       "credit": "",
       "description": "The course is designed to provide a logical transition from classical to modern physics. Special relativity. Rutherford scattering, atomic models. Thermal radiation. Photoelectric effect, Compton scattering. Bohr theory of the hydrogen atom. Atomic energy states, optical spectra, lasers. X-rays. Radioactivity.",
       "prerequisites": "PHYS 1001 and PHYS 1002 , or PHYS 1003 and PHYS 1004 ( PHYS 1007 and PHYS 1008 are also acceptable provided a minimum average grade of B- is presented); plus MATH 1004 and MATH 1104 , or MATH 2052 and MATH 2152 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -234,7 +269,9 @@
       "credit": "",
       "description": "Introduction to computational methods in physics. Software platforms and programming languages. Data formats and structures, histograms, and data visualization.  Probability distributions, fitting/parameter estimation, function minimization.  Interpretation and treatment of uncertainties.  Introduction to machine learning and classification.",
       "prerequisites": "PHYS 1001 or PHYS 1003 or PHYS 1007 , and COMP 1005 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -244,7 +281,9 @@
       "credit": "",
       "description": "From classical phenomena to aspects of modern physics and recent advances. Topics may include light and colour, music and sound, cell phones, the galaxy and beyond. No science background is required.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -254,7 +293,9 @@
       "credit": "",
       "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. An exercise on literature searches and student seminars on experimental and numerical methods are included.",
       "prerequisites": "PHYS 2007 or ( PHYS 2202 and PHYS 2604 ) or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -274,7 +315,9 @@
       "credit": "",
       "description": "Students complete a small number of experiments selected from astronomy, astrophysics, modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. At least one astronomy/astrophysics related experiment is required. An exercise on literature searches and student seminars on experimental and numerical methods are included.",
       "prerequisites": "PHYS 2007 or ( PHYS 2202 and PHYS 2604 ), and PHYS 2203 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -294,7 +337,9 @@
       "credit": "",
       "description": "Electrostatics feld and magnetostatics in the presence of matter. Solving Laplace's and Poisson's equations. Multipole expansions. Vector potential. Faraday's laws of induction; Maxwell's equations in matter. Waves in vacuum and dielectric media, guided waves.",
       "prerequisites": "PHYS 2305 and MATH 3705 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -314,7 +359,9 @@
       "credit": "",
       "description": "Elements of condensed matter physics, semiconductors, superconductivity. Elements of nuclear physics, fission, fusion, power generation. Introduction to particle physics. Ionizing radiation: production, interactions, detection. Medical physics: radiation biophysics, cancer therapy, imaging.",
       "prerequisites": "PHYS 2007 and PHYS 2605 , or PHYS 2604 , and PHYS 3701 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -324,7 +371,9 @@
       "credit": "",
       "description": "Elements of condensed matter physics, semiconductors, superconductivity. Modern optics. Elements of nuclear physics, fission, fusion, power generation. Ionizing radiation: production, interactions, detection. Medical physics: radiation biophysics, cancer therapy, imaging.",
       "prerequisites": "PHYS 2007 and PHYS 2605 , or PHYS 2604 , and PHYS 3701 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -334,7 +383,9 @@
       "credit": "",
       "description": "Analysis of interference experiments with waves and particles; fundamental concepts of quantum mechanics, Schr\u00f6dinger equation; angular momentum, atomic beams; hydrogen atom; atomic and molecular spectroscopy; Pauli principle; simple applications in the physics of elementary particles.",
       "prerequisites": "PHYS 2605 or PHYS 2604 , MATH 2002 or MATH 2004 and MATH 3705 (may be taken concurrently), or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -364,7 +415,9 @@
       "credit": "",
       "description": "Equations of motion for a single particle. Oscillatory Motion. Lagrangian and Hamiltonian formulations of mechanics. Central force motion. Motion of systems of particles and of rigid bodies.",
       "prerequisites": "PHYS 2305 , ( MATH 2001 and MATH 2002 ) or MATH 2004 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -374,7 +427,9 @@
       "credit": "",
       "description": "Boundary Value problems involving curvilinear coordinates; spherical harmonics, Bessel functions, Green's functions. Functions of a complex variable: analytic functions, contour integration, residue calculus.",
       "prerequisites": "ELEC 2501 or PHYS 2305 , MATH 2004 , MATH 3705 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -404,7 +459,9 @@
       "credit": "",
       "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. An exercise on literature searches and student seminars on experimental and numerical methods are included.",
       "prerequisites": "PHYS 3606 (or PHYS 3608 ) and registration in the Engineering Physics program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -414,7 +471,9 @@
       "credit": "",
       "description": "Students complete a small number of experiments selected from modern optics, holography, atomic physics, nuclear spectroscopy, radiation, etc. Instruction on instrumentation building techniques will be given.",
       "prerequisites": "PHYS 3007 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -424,7 +483,9 @@
       "credit": "",
       "description": "Stellar evolution, including stellar modeling, main sequence stars, red giants and the end states of stars such as neutron stars and black holes. Galactic structure and dynamics. Neutrino astrophysics.",
       "prerequisites": "PHYS 3701 , PHYS 3606 or PHYS 3608 , and PHYS 2401 or PHYS 4409 , or permission of the Department. ( PHYS 3606 or PHYS 3608 and PHYS 4409 may be taken concurrently).",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": [
         "PHYS 4409"
@@ -448,7 +509,9 @@
       "credit": "",
       "description": "Fourier transform, convolution. Sampling theorem. Applications to imaging: descriptors of spatial resolution, filtering. Correlation, noise power. Discrete Fourier transform, FFT. Filtering of noisy signals. Image reconstruction in computed tomography and magnetic resonance. Laplace transform. Integral transforms, application to boundary value problems.",
       "prerequisites": "MATH 3705 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -488,7 +551,9 @@
       "credit": "",
       "description": "The three Laws of Thermodynamics, enthalpy, Helmholtz and Gibbs functions. Equilibrium statistical mechanics and its relation to thermodynamics. Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics.",
       "prerequisites": "PHYS 3701 (may be taken concurrently), ( MATH 2001 and MATH 2002 ) or MATH 2004 , and MATH 3705 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -508,7 +573,9 @@
       "credit": "",
       "description": "Standard Model. Properties of leptons, quarks, hadrons. Fundamental interactions: photon, gluons, W/Z bosons. Higgs boson. Conservation laws, invariance principles, quantum numbers. Decay rates and scattering cross-sections. Quantum electrodynamics and chromodynamics. Resonances. Weak interactions, CKM matrix, parity and CP violation. Neutrino masses and oscillations. Future directions.",
       "prerequisites": "PHYS 4707 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -528,7 +595,9 @@
       "credit": "",
       "description": "Postulates of Quantum Mechanics, Quantum communication and cryptography, Entanglement, EPR paradox and Bell inequalities, Introduction to wave mechanics: Energy quantization and tunneling, Survey of quantum material: superconductor, topological insulators, semimetals. Survey of quantum sensing: NMR, trapped ions, superconducting qubit, atomic clocks.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -538,7 +607,9 @@
       "credit": "",
       "description": "The basic interpretative postulates of quantum mechanics; applications of wave mechanics and operator methods to various quantum mechanical systems; quantum mechanical treatment of angular momentum.",
       "prerequisites": "PHYS 3701 and PHYS 3807 or equivalent, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -548,7 +619,9 @@
       "credit": "",
       "description": "Scattering theory and application; bound state problems; approximation methods.",
       "prerequisites": "PHYS 4707 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -568,7 +641,9 @@
       "credit": "",
       "description": "Computational methods used in analysis of experimental data. Introduction to probability and random variables. Monte Carlo methods for simulation of random processes. Statistical methods for parameter estimation and hypothesis tests. Confidence intervals. Multivariate data classification. Unfolding methods. Examples primarily from particle and medical physics.",
       "prerequisites": "third year standing in a physics program and an ability to program in Python, Java, C or C+ +, and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -588,7 +663,9 @@
       "credit": "",
       "description": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project.",
       "prerequisites": "fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -598,7 +675,9 @@
       "credit": "",
       "description": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project.",
       "prerequisites": "fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -608,7 +687,10 @@
       "credit": "",
       "description": "Advanced projects of an experimental or theoretical nature with an orientation towards research. A written mid-term progress report is required and also a written and oral report at the conclusion of the project.",
       "prerequisites": "fourth-year standing in an Honours Physics program or equivalent, and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }
@@ -2060,6 +2142,46 @@
     {
       "degree": "Mathematics and Physics  B.Sc. Double Honours (21.5 credits)",
       "requirements": [
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2001"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis I"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2002"
+          ],
+          "credits": 0.5,
+          "description": "Multivariable Calculus and Fundamentals of Analysis II"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2100"
+          ],
+          "credits": 1.0,
+          "description": "Algebra"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "MATH 2454"
+          ],
+          "credits": 0.5,
+          "description": "Ordinary Differential Equations (Honours)"
+        },
+        {
+          "type": "required",
+          "courses": [
+            "STAT 2655"
+          ],
+          "credits": 0.5,
+          "description": "Introduction to Probability with Applications (Honours)"
+        },
         {
           "type": "required",
           "courses": [

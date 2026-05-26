@@ -8,7 +8,10 @@
       "credit": "",
       "description": "Introduction to the creation and use of maps using a variety of geospatial tools to better understand and resolve physical, social and environmental problems. Overview of geomatics (cartography and map design, geographic information systems, GPS, remote sensing).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +21,9 @@
       "credit": "",
       "description": "Computer programming for geomatics students focusing on storage, manipulation, management, visualization and analysis of geospatial data; Essential coding concepts and best practices including variables, loops, and conditional statements; programmatic handling of raster and vector data structures; batch geoprocessing and map production; GIS tool customization.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +33,9 @@
       "credit": "",
       "description": "Storage, visualization, manipulation and analysis of vector geospatial data. Vector geoprocessing including buffering, overlays and topological analysis; feature classification and cartographic representation; managing coordinate reference systems for vector layers; selected applications of vector GIS such as urban planning, environmental and resource management and socio-economic mapping.",
       "prerequisites": "GEOM 1004 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +45,9 @@
       "credit": "",
       "description": "Storage, visualization, manipulation, and analysis of gridded geospatial data; 3D visualization; digital terrain analysis; interpolation and filtering; raster geoprocessing and projections; selected topics and applications in raster GIS such as least-cost path analysis, natural hazard assessment, pollution mapping and hotspot analysis for population geography.",
       "prerequisites": "GEOM 1004 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +57,9 @@
       "credit": "",
       "description": "Principles and methods of remote sensing; visual interpretation of air photos and satellite imagery; digital image processing, analysis and classification for thematic mapping; introduction to various active and passive remote sensing imagery types such as optical, hyperspectral, RADAR and LiDAR.",
       "prerequisites": "GEOM 2008 and third-year standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -58,7 +69,9 @@
       "credit": "",
       "description": "An advanced course in geospatial analysis theory and practice; geoprocessing; geo-visualization; geostatistics; spatial modelling; working with spatio-temporal data structures; advanced site-suitability and network analysis; intermediate GIS tool customization.",
       "prerequisites": "GEOM 2007 and GEOM 2008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +81,9 @@
       "credit": "",
       "description": "Principles of and issues in cartography, cartographic communication and map design; practical aspects of cartographic representation using multimedia and online/interactive mapping.",
       "prerequisites": "GEOM 1004 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +113,9 @@
       "credit": "",
       "description": "Advanced image enhancement; land cover classification for thematic mapping; biophysical modeling; applications in resources, environment, and urban mapping.",
       "prerequisites": "GEOM 3002 and Honours standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -108,7 +125,10 @@
       "credit": "",
       "description": "Students pursue their interest in a selected theme in Geomatics on a tutorial basis with a member of the Department.",
       "prerequisites": "permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -118,7 +138,9 @@
       "credit": "",
       "description": "Advanced methods and techniques in GIS applications including: positional and attribute error analysis, multiple criteria decision making, interpolation, elevation modeling and ortho-imaging, and spatial pattern measurement.",
       "prerequisites": "GEOM 3005 and Honours standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,7 +150,9 @@
       "credit": "",
       "description": "Development and implementation of custom geomatics applications and workflows using programming and various geoprocessing tools. Project design, application development, GIS automation and documentation.",
       "prerequisites": "GEOM 2005 and ( GEOM 3002 or GEOM 3005 or GEOM 3007 ), or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -138,7 +162,10 @@
       "credit": "",
       "description": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field.",
       "prerequisites": "fourth-year Honours standing in Geomatics or Geography and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -148,7 +175,10 @@
       "credit": "",
       "description": "Students apply their knowledge and research skills and gain experience through field placements in government, the private sector, non-government organisations and with community organisations in the environmental field.",
       "prerequisites": "fourth-year Honours standing in Geomatics or Geography and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -158,7 +188,10 @@
       "credit": "",
       "description": "Candidates for B.Sc. with Concentration in Geomatics undertake a research project within their area of specialization. The project is supervised by a member of the department and a written report must be submitted. The candidate may be examined orally on the report.",
       "prerequisites": "fourth-year Honours standing in BSc Geomatics, and an approved research topic and adviser.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -168,7 +201,10 @@
       "credit": "",
       "description": "Independent design and implementation of a research project leading to the submission of a research thesis. Students work with an individual faculty adviser. The subject for research is decided upon in consultation with the supervisor.",
       "prerequisites": "fourth-year Honours standing in B.A. Geomatics, a minimum CGPA of 9.00 in the major or permission of the Department, and an approved research topic and adviser.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     }

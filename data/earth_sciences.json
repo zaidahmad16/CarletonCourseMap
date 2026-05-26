@@ -8,7 +8,9 @@
       "credit": "",
       "description": "Embark on a thrilling journey through Earth's epic history! Discover the groundbreaking events and powerful forces that shaped our planet, revealing the dramatic story behind the world we live in today.",
       "prerequisites": "a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended. This course is for students who are enrolled in the Faculty of Science.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "",
       "description": "Embark on a thrilling journey through Earth's epic history! Discover the groundbreaking events and powerful forces that shaped our planet, revealing the dramatic story behind the world we live in today.",
       "prerequisites": "a 4U/M level in Advanced Functions and at least one of Biology, Chemistry, Earth and Space Sciences or Physics are recommended. This course is for students who are not enrolled in the Faculty of Science except the Bachelor of Computer Science.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "",
       "description": "Introduction to the creation and use of maps using a variety of geospatial tools to better understand and resolve physical, social and environmental problems. Overview of geomatics (cartography and map design, geographic information systems, GPS, remote sensing).",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +54,9 @@
       "credit": "",
       "description": "Chemical, optical and crystallographic properties of common rock-forming minerals, with introduction to common mineral assemblages of igneous, sedimentary, and metamorphic rocks.",
       "prerequisites": "ERTH 1002 , CHEM 1001 , and CHEM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +66,9 @@
       "credit": "",
       "description": "The structure, composition, and rheological properties of the Earth: lithosphere, mantle and core. Plate tectonics and its relation to geophysical fields, driving mechanisms, and processes at plate boundaries and in plate interiors.",
       "prerequisites": "ERTH 1002 or GEOG 2013 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +78,9 @@
       "credit": "",
       "description": "This course looks at geochemical processes from deep Earth to surface environments, and the use of geochemical pathways in order to better understand the Earth\u2019s history.",
       "prerequisites": "ERTH 1002 , CHEM 1001 and CHEM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -78,7 +90,9 @@
       "credit": "",
       "description": "Introduction to macrofossil and microfossil groups, their paleoenvironmental significance, and principles of evolutionary paleoecology.",
       "prerequisites": "ERTH 1002 or GEOG 2013 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +102,9 @@
       "credit": "",
       "description": "Origin of sediments and their transport, distribution, and primary structures; processes of sediment-to-rock transformation; spatial patterns; controls of stratigraphy; methods of correlation.",
       "prerequisites": "ERTH 1002 or GEOG 2013 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +114,9 @@
       "credit": "",
       "description": "Introduction to macrofossil and microfossil groups, their paleoenvironmental significance, and principles of evolutionary paleoecology.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -138,7 +156,9 @@
       "credit": "",
       "description": "Applications of the basic concepts of geology, earth materials and earth processes to practical engineering and environmental science. Topics include rock and soil mechanics, slope stability, hydrogeology, geological hazards, and site investigations. Overview of related geophysical methods.",
       "prerequisites": "This course is restricted to students in the B.Eng program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -148,7 +168,9 @@
       "credit": "",
       "description": "Structures and deformation of earth materials.  Topics include stress, strain, folding and faulting.",
       "prerequisites": "ERTH 1002 and ERTH 2102 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -158,7 +180,9 @@
       "credit": "",
       "description": "Physical characteristics and causes of natural disasters of geological origin such as volcanic eruptions, earthquakes, tsunami, landslides, hurricanes and meteor impacts. Discussion on historical perspective, societal impact and mitigation strategies. Emphasis on Canadian case histories.",
       "prerequisites": "second-year standing in any degree program. With the exception of the Minor in Earth Sciences, available as a free elective only in any B.Sc. program, including Earth Sciences.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -168,7 +192,9 @@
       "credit": "",
       "description": "Origin and evolution of all planetary objects in the solar system. Topics include the geology of comets, asteroids, the terrestrial planets and rocky moons, Earth's formation and early evolution, ocean worlds, the search for exoplanets and detection of extraterrestrial life.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -188,7 +214,9 @@
       "credit": "",
       "description": "An introduction to the geology of North America's National parks, the ultimate awe-inspiring educational experience, and how these parks collectively tell the story of the processes that have shaped the continent.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -208,7 +236,9 @@
       "credit": "",
       "description": "Field analysis using geological, geophysical and computational methods leading to the interpretation of the origins of geological features and processes.",
       "prerequisites": "ERTH 2314 and ERTH 2407 and permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -218,7 +248,9 @@
       "credit": "",
       "description": "Origins and evolution of igneous rocks through partial melting, crystallization, degassing, and assimilation of host rocks.  Phase diagrams and classification schemes will be used to provide systematic tools for the description and interpretation of igneous rocks.",
       "prerequisites": "ERTH 2102 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -228,7 +260,9 @@
       "credit": "",
       "description": "Evolution of mammals, reptiles and birds.  Emphasis on surveying amniote diversity, and the origin of key amniote transformations, as evidenced by the fossil record.",
       "prerequisites": "ERTH 1002 or BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -238,7 +272,9 @@
       "credit": "",
       "description": "Evolution of fish and amphibians.  Emphasis on surveying fish and amphibian diversity, and the origin of key transformations of these groups, as evidenced by the fossil record.",
       "prerequisites": "ERTH 1002 or BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -248,7 +284,9 @@
       "credit": "",
       "description": "The origin and evolution of our species from geological, biological and cultural perspectives. The course traces human ancestry from our primate roots through time and changing environments, and explores controversies, frauds, and misperceptions.",
       "prerequisites": "any 1000 or 2000 level Earth Sciences or Biology course.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -258,7 +296,9 @@
       "credit": "",
       "description": "Evolution of mammals, reptiles and birds. Emphasis on surveying amniote diversity, and the origin of key amniote transformations, as evidences by the fossil record.",
       "prerequisites": "any 1000- or 2000-level Earth Sciences or Biology course.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -268,7 +308,9 @@
       "credit": "",
       "description": "Evolution of fish and amphibians. Emphasis on surveying fish and amphibian diversity and the origin of key transformations of these groups, as evidenced by the fossil record.",
       "prerequisites": "any 1000- or 2000-level Earth Sciences or Biology course.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -278,7 +320,9 @@
       "credit": "",
       "description": "Analysis and interpretation of the geological and geochemical processes responsible for mineral deposit genesis in a global context.",
       "prerequisites": "ERTH 2102 and ERTH 2106 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -288,7 +332,9 @@
       "credit": "",
       "description": "Principles of deep- to shallow fluid flow within the Earth's crust, and introduction to the exploration, development and management of groundwater as a global resource.",
       "prerequisites": "ERTH 1002 or GEOG 2013 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -298,7 +344,9 @@
       "credit": "",
       "description": "Genesis of metamorphic rocks as determined from field, petrographic and geochemical data.",
       "prerequisites": "ERTH 2102 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -308,7 +356,9 @@
       "credit": "",
       "description": "An introduction to the tools of applied geophysics including seismology, electrical, magnetic, and gravitational surveying methods.",
       "prerequisites": "ERTH 2105 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -318,7 +368,9 @@
       "credit": "",
       "description": "This course looks at stable and radiogenic isotope systematics applied to different Earth environments. Students will delve into geochronological techniques and their applications, and apply the principles of elemental and isotopic fractionation to investigate several geological processes.",
       "prerequisites": "ERTH 2106 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -338,7 +390,10 @@
       "credit": "",
       "description": "One or more projects involving at least 15 days field and/or laboratory research, not related to thesis research. Assessment based on written reports and an oral presentation. Expenses for long-distance travel are borne by the student.",
       "prerequisites": "fourth-year standing in any B.Sc. Hons. or Combined Hons. program in Earth Sciences.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -358,7 +413,9 @@
       "credit": "",
       "description": "Exploration of the relationship between micro- and macro-ecological and evolutionary processes and the Earth's physical and chemical environment. Paleobiology and evolutionary ecology in the context of paleoceanography, paleolimnology and/or paleoclimatology. Will include one or two weeks of field based instruction with costs borne by student.",
       "prerequisites": "2nd year standing in a Faculty of Science program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -388,7 +445,9 @@
       "credit": "",
       "description": "Soil composition and soil classification. Soil properties, compaction, seepage and permeability. Concepts of pore water pressure, capillary pressure and hydraulic head. Principle of effective stress, stress-deformation and strength characteristics of soils, consolidation, stress distribution with soils, and settlement. Laboratory testing.",
       "prerequisites": "ERTH 3405 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -398,7 +457,9 @@
       "credit": "",
       "description": "Geochemical and physical processes controlling contaminant release, migration, and fate in groundwater along with the processes and techniques used for contaminant mitigation and remediation. Examples will include organic and inorganic contaminants in a variety of settings.",
       "prerequisites": "ERTH 2106 and ERTH 3205 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -408,7 +469,9 @@
       "credit": "",
       "description": "Isotope applications in environmental and Earth sciences. Emphasis is placed current and novel environmental applications including contaminant tracing, hydrogeological studies, and (bio)geochemical cycling of elements. Mechanisms of stable isotope fractionation and analysis are presented. Student-led projects will explore the broad realm of isotope studies.",
       "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -428,7 +491,9 @@
       "credit": "",
       "description": "Discover how icy cataclysms shaped our planet through Earth\u2019s most extreme climate event: Snowball Earth! We will explore this theory's origins, examine compelling geologic and geochemical evidence, and dive into topics such as glacial sedimentology, the carbon cycle, evolution, and more on this thrilling adventure.",
       "prerequisites": "ERTH 2314 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -468,7 +533,9 @@
       "credit": "",
       "description": "Field camp integrating advanced field, theory and experimental data. Assessment is based on reports, seminars, and oral examinations. Part of the cost is borne by the student. Departmental funding assistance is available for only one 4000-level field course per student.",
       "prerequisites": "completion of the third-year Earth Sciences course requirements and permission of the Department. A supplementary fee will apply.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -488,7 +555,9 @@
       "credit": "",
       "description": "Overview of the main natural hazards (such as floods, landslides, forest fires, earthquakes) and severe weather phenomena (such as ice storms, hail, tornadoes) in the Canadian environment. Risk of catastrophic events and their impact on society and infrastructure.",
       "prerequisites": "third-year standing in earth science programs or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -498,7 +567,10 @@
       "credit": "",
       "description": "Independent studies. Requires prior written approval of a topic from a supervisor and the course co-ordinator. Oral and written proposal, progress and defence reports are required.",
       "prerequisites": "restricted to B.Sc. Honours and Combined Honours ERTH programs. Major CGPA 8.5 or higher at time of registration for the course.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

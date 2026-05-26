@@ -8,7 +8,9 @@
       "credit": "",
       "description": "A course for students interested in the science behind recent advances in biotechnology. The different ways in which biotechnology is being applied in agriculture, health care,  and the environment will be examined.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "",
       "description": "A research-oriented course focusing on the scientific process of biological exploration at the cellular level. Topics include cell organization, metabolism, genetics, and reproduction.",
       "prerequisites": "Ontario 4U/M in Biology (or equivalent), or Ontario 4U/M in Chemistry (or equivalent).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "",
       "description": "A research-oriented course focusing on the scientific process of biological exploration at the macroscale. Topics include evolution, diversity of life, and ecological relationships.",
       "prerequisites": "Ontario 4U/M in Biology (or equivalent) or BIOL 1103 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +44,9 @@
       "credit": "",
       "description": "Formulation of biological research questions, development of hypotheses and predictions, design of experiments, collection and analysis of data, interpretation and presentation of results.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +56,10 @@
       "credit": "",
       "description": "A course designed primarily for students in non-biology programs to investigate the natural history of plants and animals, and the communities in which they occur. Particular attention is paid to the Ottawa region, but appropriate examples from other locales are also included.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +69,9 @@
       "credit": "",
       "description": "An introduction to the diverse structures of animals (both invertebrates and vertebrates) in relationship to their functions, discussed within an evolutionary framework.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +81,9 @@
       "credit": "",
       "description": "An introduction to the structure and development of higher plants (at cellular, morphological and organism levels) discussed in relation to their function.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -78,7 +93,9 @@
       "credit": "",
       "description": "A course for non-specialists interested in how the human body works. Topics will include biological molecules, cells, genetics, and various organ systems. Examples will be used to connect concepts taught in the course with general knowledge of human health and disease.",
       "prerequisites": "BIOL 1103 , CHEM 1001 , and CHEM 1002 . Students in Biology and Biochemistry programs may only take this course as a free elective.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +105,9 @@
       "credit": "",
       "description": "Lecture/laboratory course on the mechanisms of inheritance and the nature of gene structure, composition and function, introducing both classical Mendelian genetics and modern molecular genetics.  It is strongly recommended that this course be taken by Biology majors in their second year of study.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +117,9 @@
       "credit": "",
       "description": "Mechanisms of inheritance and the nature of gene structure, composition and function, introducing both classical Mendelian genetics and modern molecular genetics.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -108,7 +129,10 @@
       "credit": "",
       "description": "Cellular functions and their interrelationships. Introduction to thermodynamics, membrane structure and function, transport mechanisms, basic metabolic pathways, energy production and utilization, communications between cells. It is strongly recommended that Biology Majors and Honours students take this course in their second year of study.",
       "prerequisites": "BIOL 1103 , BIOL 1104 , CHEM 1001 , and CHEM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -118,7 +142,9 @@
       "credit": "",
       "description": "A study of the molecular, metabolic and structural organization of cells in relation to function. This course is recommended for students not taking upper year Biology laboratory courses for which BIOL/BIOC laboratories are prerequisites.",
       "prerequisites": "BIOL 1103 and CHEM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,7 +154,9 @@
       "credit": "",
       "description": "An introductory course on the science, technology, entrepreneurial skills and business considerations related to biotechnology. The course will survey broadly across the disciplines of Biology, including applications in agriculture, health, environment and industry.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -138,7 +166,9 @@
       "credit": "",
       "description": "The biology of the bacteria, Archaea, Viruses and Protozoans, from the fundamentals of cell chemistry, molecular biology, structure and function, to their involvement in ecological and industrial processes and human disease.",
       "prerequisites": "BIOL 1103 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -148,7 +178,9 @@
       "credit": "",
       "description": "The scientific study of interactions of living organisms and their environment, and how these affect the distribution and abundance of life. Topics include energy transformation and flow, nutrient cycling, population and community dynamics, human impacts on ecosystems, conservation issues. Laboratory includes field and computer exercises.",
       "prerequisites": "BIOL 1103 and BIOL 1104 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -168,7 +200,9 @@
       "credit": "",
       "description": "Introductory course dealing with the taxonomic diversity, anatomy, behavior and physiology of insects, as well as their impacts on ecosystems, agriculture and animal and human health.",
       "prerequisites": "BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -178,7 +212,9 @@
       "credit": "",
       "description": "A practical exploration in the application of information technology to biochemistry and molecular biology. Insight into biological knowledge discovery via molecular structure and function prediction, comparative genomics and biological information management.",
       "prerequisites": "BIOC 2200 or BIOL 2200 , or BIOL 2201 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -188,7 +224,9 @@
       "credit": "",
       "description": "This introductory course will cover the morphology, physiology, life cycles, evolution, ecology and biotechnology of the fungi.",
       "prerequisites": "BIOL 2104 or BIOL 2107 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -198,7 +236,9 @@
       "credit": "",
       "description": "A lecture course dealing with modern advances in molecular genetics.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -208,7 +248,9 @@
       "credit": "",
       "description": "An exploration of the main hypotheses, lines of evidence, and open questions to the origin of life.  Topics include thermodynamics of life, the Oparin-Haldane hypothesis, the Miller-Urey experiment, the RNA world hypothesis, panspermia hypotheses, and a special focus on the alkaline hydrothermal vent hypothesis.",
       "prerequisites": "BIOL 2200 or BIOL 2201 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -218,7 +260,9 @@
       "credit": "",
       "description": "Evolution of mammals, reptiles and birds. Emphasis on surveying amniote diversity, and the origin of key amniote transformations, as evidenced by the fossil record.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -228,7 +272,9 @@
       "credit": "",
       "description": "Evolution of fish and amphibians. Emphasis on surveying fish and amphibian diversity, and the origin of key transformations of these groups, as evidenced by the fossil record.",
       "prerequisites": "BIOL 2001 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -238,7 +284,9 @@
       "credit": "",
       "description": "A lecture and laboratory course on the structure, composition, and function of eukaryotic cells.",
       "prerequisites": "BIOL 2104 and BIOL 2200 / BIOC 2200 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -248,7 +296,9 @@
       "credit": "",
       "description": "Introduction to the underlying principles and mechanisms governing development in multicellular animals and plants. Differentiation, growth, morphogenesis, and patterning will be examined at the organismal, cellular, and molecular levels to provide a balanced view of developmental phenomena in key model organisms.",
       "prerequisites": "BIOL 2104 or BIOL 2107 and one of BIOL 2001 or BIOL 2002 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -258,7 +308,9 @@
       "credit": "",
       "description": "A lecture and laboratory course consisting of selected topics in metabolism and physiology of plants, including photosynthesis, nutrient uptake and transport, intermediary and secondary metabolism, germination, growth and development.",
       "prerequisites": "BIOL 2002 and BIOL 2200 / BIOC 2200 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -268,7 +320,9 @@
       "credit": "",
       "description": "An interdisciplinary course on interactions between science, invention and innovation in biotechnology. Case studies related to regional biotechnology opportunities; social and ethical issues impacting biotechnology.",
       "prerequisites": "BIOL 2301 , BIOL 2104 or BIOL 2107 , and BIOL 2200 / BIOC 2200 or BIOL 2201 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -278,7 +332,9 @@
       "credit": "",
       "description": "Intensive training in laboratory techniques in microbiology, using bacteria and other microorganisms to demonstrate processes of cell growth, metabolism, gene expression, rapid evolution, gene transfer, microbial community dynamics and interactions with other organisms.",
       "prerequisites": "BIOL 2104 , BIOL 2200 / BIOC 2200 and BIOL 2303 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -288,7 +344,9 @@
       "credit": "",
       "description": "The properties of physiological systems and components of humans and other animals with an emphasis on physical and chemical bases.",
       "prerequisites": "BIOL 2200 / BIOC 2200 and BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -298,7 +356,9 @@
       "credit": "",
       "description": "The anatomy and physiology of the neuromuscular, cardiovascular, respiratory, and excretory systems of humans with comparison to other animals.",
       "prerequisites": "BIOL 1103 , BIOL 1104 , CHEM 1001 , CHEM 1002 , and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -308,7 +368,9 @@
       "credit": "",
       "description": "The anatomy and physiology of the endocrine, skeletal, digestive, immunological, and reproductive systems, with additional emphasis on the embryological origins of the major physiological systems.",
       "prerequisites": "BIOL 3305 or BIOL 3306 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -348,7 +410,9 @@
       "credit": "",
       "description": "Introduction to the analysis of biological data. Students analyze real biological data sets in weekly laboratory sessions. Methods introduced include simple linear, polynomial, and multiple regression analysis, analysis of variance, nonparametric tests, tests of independence and logistic regression analysis.",
       "prerequisites": "BIOL 1105 or STAT 2507 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -358,7 +422,10 @@
       "credit": "",
       "description": "An intensive study of living organisms under natural conditions. Credit is based on two weeks of full-time fieldwork with attendant assignments. Transportation and room and board costs are borne by the student. Ontario Universities Program in Field Biology; see offered modules for specific prerequisites.",
       "prerequisites": "at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL 3605 and BIOL 3606 for credit, but neither may be used to repeat a particular module.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -368,7 +435,10 @@
       "credit": "",
       "description": "An intensive study of living organisms under natural conditions. Credit is based on two weeks of full-time fieldwork with attendant assignments. Transportation and room and board costs are borne by the student. Ontario Universities Program in Field Biology; see offered modules for specific prerequisites.",
       "prerequisites": "at least one course in BIOL beyond the 1000-level and written permission of the Department. Students may take both BIOL 3605 and BIOL 3606 for credit, but neither can be used to repeat a particular module.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -398,7 +468,9 @@
       "credit": "",
       "description": "The term \u201cadaptation\u201d is meaningful only with respect to an ecological context. Ecological contexts lead to evolutionary outcomes such as diverse mating systems, ageing, sexual reproduction, sexual dimorphism, geographic variation, phenotypic plasticity, and diverse life histories.",
       "prerequisites": "BIOL 2600 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -418,7 +490,9 @@
       "credit": "",
       "description": "Exploration of the chemical, physiological, ecological and evolutionary interactions that underlie the relationship between plants and their insect herbivores.",
       "prerequisites": "BIOL 2001 and BIOL 2002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -428,7 +502,9 @@
       "credit": "",
       "description": "Advanced study of animal behaviour including the environmental, genetic, and neural influences on behaviour. Topics such as predator-prey interactions, mating behaviour, migration, parental care and social interactions are interpreted in an evolutionary context.",
       "prerequisites": "BIOL 2001 or BIOL 2600 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -438,7 +514,9 @@
       "credit": "",
       "description": "Diversity in social behaviour from evolutionary and ecological perspectives. Topics include ecological determinants of social living, social networks, social foraging, inclusive fitness, kin selection, altruism, cooperation, and mating systems and strategies.",
       "prerequisites": "BIOL 2600 , or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -448,7 +526,10 @@
       "credit": "",
       "description": "The development of a competitive research proposal in consultation with an advisor.",
       "prerequisites": "third year standing in an Honours Biology program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -508,7 +589,9 @@
       "credit": "",
       "description": "Evolution of gene frequencies, including selection, mutation, genetic drift, inbreeding, gene flow, and population structure.",
       "prerequisites": "BIOL 2104 or BIOL 2107 or permission of the Department. A course in statistics is highly recommended.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -528,7 +611,9 @@
       "credit": "",
       "description": "Review of the application of high throughput approaches to research in molecular and cellular biology and biochemistry with an emphasis on gene function and human disease progression.",
       "prerequisites": "BIOL 2303 and ( BIOL 3104 or BIOL 3201 or BIOL 3303 ).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -538,7 +623,9 @@
       "credit": "",
       "description": "This laboratory course provides practical familiarity with commonly used techniques in molecular genetics. The laboratory is suitable for students with a developing interest in problems of molecular and cellular biology and biochemistry.",
       "prerequisites": "BIOL 2200 / BIOC 2200 and BIOL 2303 and BIOL 3104 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -558,7 +645,9 @@
       "credit": "",
       "description": "Theory and application of current techniques and developments in cell culture as applied to research questions in the field of stem cells and tissue engineering.",
       "prerequisites": "BIOL 3201 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -578,7 +667,9 @@
       "credit": "",
       "description": "The evolution of sex, including meiosis, syngamy, sex determination, sex chromosomes, and gender from organismal, genetic, and developmental perspectives; the origin, maintenance, function, and ubiquity of sex.",
       "prerequisites": "BIOL 2104 or BIOL 2107 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -588,7 +679,9 @@
       "credit": "",
       "description": "A survey of human genetic variation and mutation in a molecular genetics context. Topics may include molecular basis of diseases, chromosomal abnormalities, genomic imprinting, cancer genetics, genomics, gene mapping and gene therapy.",
       "prerequisites": "BIOL 3104 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -598,7 +691,9 @@
       "credit": "",
       "description": "A laboratory-based exploration of techniques and recent developments in the use of model embryological systems as applied to questions of development and human health.",
       "prerequisites": "BIOL 3201 or BIOL 3202 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -608,7 +703,9 @@
       "credit": "",
       "description": "An advanced course dealing with recent developments in selected topics of plant physiology.",
       "prerequisites": "BIOL 3205 and CHEM 2203 , CHEM 2204 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -618,7 +715,9 @@
       "credit": "",
       "description": "Studies of the application of microorganisms. Topics may include: microbial communities, and agricultural, pharmaceutical, industrial and health sciences.",
       "prerequisites": "( BIOL 2200 / BIOC 2200 or BIOL 2201 ), BIOL 2303 and ( BIOL 3104 or BIOL 3303 ) or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -628,7 +727,9 @@
       "credit": "",
       "description": "Explorations of developing biotechnologies in areas such as microbial products, protein engineering, plant genetic engineering, environmental remediation, pharmaceuticals production and medical diagnostics and therapy.",
       "prerequisites": "BIOL 3301 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -648,7 +749,9 @@
       "credit": "",
       "description": "An introduction to forensics that covers topics in molecular biology, biochemistry, genetics, population genetics and statistics as they relate to forensic biology. The course will describe the techniques used to identify body fluids and generate DNA profiles as well as the interpretation of forensic results.",
       "prerequisites": "( BIOL 2104 or BIOL 2107 ) and ( BIOL 2200 / BIOC 2200 or BIOL 2201 ) or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -668,7 +771,9 @@
       "credit": "",
       "description": "Biomechanical underpinnings of human performance including the quantitative analysis of human motion in normal activities and in athletic performance. Students will learn modern motion capture methods. This course will require students to design and execute an independent project.",
       "prerequisites": "BIOL 3307 and fourth-year standing, or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -728,7 +833,9 @@
       "credit": "",
       "description": "Herpetology is the study of amphibians and reptiles.  The behaviours, physiological ecology, conservation and identification of amphibians and reptiles will be examined through lectures, seminars and hands-on activities.",
       "prerequisites": "BIOL 2001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -738,7 +845,10 @@
       "credit": "",
       "description": "Introduction to the diversity and environmental biology of the world's fishes. Applied issues in fisheries management, conservation, and aquaculture. Workshops expose students to techniques in fisheries science through hands-on demonstrations and field excursions.",
       "prerequisites": "BIOL 2600 or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -788,7 +898,9 @@
       "credit": "",
       "description": "Evolutionary principles contributing to advancements across fields including medicine, agriculture, conservation, climate change, and engineering. Topics include evolution of virulence, causes of variation in human health, evolution of resistance to pesticides, interventions for recovery of species at risk, and biomimetic modeling in engineering and architecture.",
       "prerequisites": "BIOL 1104 and third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -808,7 +920,9 @@
       "credit": "",
       "description": "Landscape ecology is the study of how landscape structure affects ecological processes and biodiversity. The focus of this course is on research methods and results in landscape ecology, with special emphasis on applications in forestry, agriculture, and species conservation.",
       "prerequisites": "BIOL 2600 and ( BIOL 3601 or BIOL 3602 or BIOL 3608 ) or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -838,7 +952,10 @@
       "credit": "",
       "description": "Independent or group study, open to third- and fourth-year students to explore a particular topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "permission of the Department. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -848,7 +965,10 @@
       "credit": "",
       "description": "Specific topics of current interest. Topics may vary from year to year.",
       "prerequisites": "fourth-year standing in a Biology program or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -858,7 +978,10 @@
       "credit": "",
       "description": "Students engage in biological topics of their choosing, an evidence-based synthesis developed and presented through multiple scientific communication methods (e.g., narrative review papers, media releases, infographics, and oral and poster presentations).  Evaluation is based on written syntheses, course assignments, and a year-end presentation.",
       "prerequisites": "fourth-year standing in an Honours biology program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -868,7 +991,10 @@
       "credit": "",
       "description": "An independent critical review and research proposal, using library resources, under the direct supervision of a Faculty advisor. Evaluation is based on a written report and a poster presentation.",
       "prerequisites": "fourth-year standing in an Honours Biology program and permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -878,7 +1004,10 @@
       "credit": "",
       "description": "An independent research project undertaken in the field and/or the laboratory, under the direct supervision of a faculty adviser. Evaluation is based on a written thesis and a poster presentation.",
       "prerequisites": "fourth-year standing in an Honours biology program with a minimum CGPA of 8.0 in the major or permission of the Department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }

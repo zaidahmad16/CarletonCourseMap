@@ -352,7 +352,8 @@ def _parse_sc_courselist(table):
                 row_type = "elective"
             elif is_choose_sub_header:
                 row_type = "choose"
-            elif current_type != "required":
+            elif current_type != "required" and COURSE_RE.search(text):
+                # inherit context type only when row embeds course codes (e.g. choose alternatives)
                 row_type = current_type
             else:
                 row_type = "elective"
@@ -377,10 +378,6 @@ def _parse_sc_courselist(table):
                 current_type = "choose"
                 choose_credits = credits
                 choose_desc = clean_text
-            elif row_type == "elective" and not courses and section_type != "elective":
-                # numbered sub-label for a required section (e.g. "3.0 credits in:")
-                # flush any open choose block and revert to required; skip this label
-                flush_choose()
             else:
                 flush_choose()
                 requirements.append({

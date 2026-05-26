@@ -1,4 +1,4 @@
-/* course node card — clickable for non-electives, shows an info badge on hover */
+/* course node card, electives are non-interactive */
 
 import { useState } from 'react'
 import { Handle, Position } from 'reactflow'

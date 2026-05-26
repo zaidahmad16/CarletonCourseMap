@@ -1,6 +1,4 @@
-/* Hallmark · macrostructure: Narrative Workflow · genre: modern-minimal · theme: custom (Carleton)
- * design-system: design.md · pre-emit critique: P5 H5 E4 S4 R5 V4
- */
+/* landing page, modern minimal Carleton theme */
 
 'use client'
 
@@ -92,7 +90,7 @@ export default function Home() {
         }
       `}</style>
 
-      {/* ── Nav ─────────────────────────────────────────────────────────── */}
+      {/* nav */}
       <nav style={{
         borderBottom: '1px solid var(--color-rule)',
         padding: '0 var(--space-lg)',
@@ -130,7 +128,7 @@ export default function Home() {
         </Link>
       </nav>
 
-      {/* ── Hero ────────────────────────────────────────────────────────── */}
+      {/* hero */}
       <section style={{
         padding: 'var(--space-3xl) var(--space-lg) var(--space-xl)',
         maxWidth: 720,
@@ -173,7 +171,7 @@ export default function Home() {
           An interactive course map for every Carleton program — prerequisites, elective slots, and course details at a click.
         </p>
 
-        {/* ── Search ────────────────────────────────────────────────────── */}
+        {/*  Search  */}
         <div style={{ position: 'relative', maxWidth: 520, margin: '0 auto var(--space-sm)', width: '100%' }}>
           <div style={{ position: 'relative' }}>
             <svg
@@ -283,36 +281,7 @@ export default function Home() {
         </p>
       </section>
 
-      {/* ── Popular programs ─────────────────────────────────────────────── */}
-      {featured.length > 0 && (
-        <section style={{
-          padding: '0 var(--space-lg) var(--space-2xl)',
-          maxWidth: 960,
-          margin: '0 auto',
-          width: '100%',
-          boxSizing: 'border-box',
-        }}>
-          <h2 style={{
-            fontFamily: 'var(--font-display)',
-            fontSize: 'var(--text-lg)',
-            fontWeight: 700,
-            letterSpacing: '-0.01em',
-            color: 'var(--color-ink)',
-            margin: '0 0 var(--space-md) 0',
-          }}>
-            Popular programs
-          </h2>
-          <div className="featured-grid" style={{
-            display: 'grid',
-            gridTemplateColumns: 'repeat(3, minmax(0, 1fr))',
-            gap: 'var(--space-md)',
-          }}>
-            {featured.map(p => <ProgramCard key={p.program_id} program={p} />)}
-          </div>
-        </section>
-      )}
-
-      {/* ── Stats strip ─────────────────────────────────────────────────── */}
+      {/* stats strip */}
       <div style={{
         borderTop: '1px solid var(--color-rule)',
         borderBottom: '1px solid var(--color-rule)',
@@ -332,7 +301,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ── How it works ────────────────────────────────────────────────── */}
+      {/* how it works */}
       <section style={{
         padding: 'var(--space-2xl) var(--space-lg)',
         maxWidth: 960,
@@ -374,7 +343,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── CTA band ────────────────────────────────────────────────────── */}
+      {/* CTA band */}
       <section style={{
         background: 'var(--color-accent)',
         padding: 'var(--space-2xl) var(--space-lg)',
@@ -422,7 +391,7 @@ export default function Home() {
 
       <div style={{ flex: 1 }} />
 
-      {/* ── Footer ──────────────────────────────────────────────────────── */}
+      {/* footer */}
       <footer style={{
         borderTop: '1px solid var(--color-rule)',
         padding: 'var(--space-lg)',
@@ -497,7 +466,7 @@ export default function Home() {
   )
 }
 
-// ─── Stat ─────────────────────────────────────────────────────────────────────
+// Stat
 
 const Stat = ({ value, label }) => (
   <div style={{ textAlign: 'center', padding: 'var(--space-sm) 0' }}>
@@ -524,7 +493,7 @@ const Stat = ({ value, label }) => (
   </div>
 )
 
-// ─── Step ─────────────────────────────────────────────────────────────────────
+// Step
 
 const Step = ({ num, title, body }) => (
   <div style={{
@@ -561,7 +530,7 @@ const Step = ({ num, title, body }) => (
   </div>
 )
 
-// ─── ProgramCard ──────────────────────────────────────────────────────────────
+//  ProgramCard 
 
 const ProgramCard = ({ program }) => (
   <a

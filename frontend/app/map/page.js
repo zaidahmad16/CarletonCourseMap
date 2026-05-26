@@ -1,6 +1,4 @@
-/* Hallmark · genre: modern-minimal · macrostructure: Workbench
- * theme: custom (Carleton) · design-system: design.md · designed-as-app
- */
+/* course map page, modern minimal Carleton theme */
 
 'use client'
 
@@ -20,7 +18,7 @@ import { buildGraph }                                 from './utils/buildGraph'
 import { buildHeaders }                               from './utils/buildHeaders'
 import { API }                                        from './utils/constants'
 
-// ─── ReactFlow type registries ────────────────────────────────────────────────
+// ReactFlow type registries
 
 const nodeTypes = {
   course:     CourseNode,
@@ -29,7 +27,7 @@ const nodeTypes = {
 }
 const edgeTypes = { clean: CleanEdge }
 
-// ─── Program name shortener ───────────────────────────────────────────────────
+// shortens program names to fit the pill strip
 
 const shortenProgram = (degree = '') => {
   // Merged programs ("Parent — Concentration in X") — show just the concentration name
@@ -76,7 +74,7 @@ const shortenProgram = (degree = '') => {
   return s.length > 30 ? s.slice(0, 28) + '…' : s
 }
 
-// ─── Page ─────────────────────────────────────────────────────────────────────
+// Page
 
 export default function MapPage() {
   const [departments,     setDepartments]     = useState([])
@@ -97,34 +95,12 @@ export default function MapPage() {
   const rfRef             = useRef(null)
   const initialProgram    = useRef(null)
 
-  // ── Load departments on mount ───────────────────────────────────────────────
+  // load departments on mount
   useEffect(() => {
     fetch(`${API}/departments`).then(r => r.json()).then(setDepartments)
   }, [])
 
-  // ── Restore dept + program from URL on mount ────────────────────────────────
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search)
-    const dept   = params.get('dept')
-    const prog   = params.get('p')
-    if (prog) initialProgram.current = prog
-    if (dept) setSelectedDept(dept)
-  }, [])
-
-  // ── Sync URL when selection changes ─────────────────────────────────────────
-  useEffect(() => {
-    const url = new URL(window.location.href)
-    if (selectedDept && selectedProgram) {
-      url.searchParams.set('dept', selectedDept)
-      url.searchParams.set('p', String(selectedProgram))
-    } else {
-      url.searchParams.delete('dept')
-      url.searchParams.delete('p')
-    }
-    history.replaceState({}, '', url)
-  }, [selectedDept, selectedProgram])
-
-  // ── Load programs when department changes ───────────────────────────────────
+  // reload programs when the selected department changes
   useEffect(() => {
     if (!selectedDept) return
     setPrograms([])
@@ -144,7 +120,7 @@ export default function MapPage() {
       })
   }, [selectedDept])
 
-  // ── Load course map when program changes ────────────────────────────────────
+  // fetch the course map when the selected program changes
   useEffect(() => {
     if (!selectedProgram) return
     setCourseMap(null)
@@ -156,7 +132,7 @@ export default function MapPage() {
       .then(setCourseMap)
   }, [selectedProgram])
 
-  // ── Build graph when course map arrives ─────────────────────────────────────
+  // build the graph once course map data arrives
   useEffect(() => {
     if (!courseMap) return
     const codes = [...new Set(
@@ -179,7 +155,7 @@ export default function MapPage() {
       })
   }, [courseMap])
 
-  // ── Search: find match, highlight, pan ─────────────────────────────────────
+  // find a matching node when the search query changes, highlight it, and pan to it
   useEffect(() => {
     if (!searchQuery || nodes.length === 0) { setHighlightedId(null); return }
     const q = searchQuery.toLowerCase()
@@ -195,7 +171,6 @@ export default function MapPage() {
     }
   }, [searchQuery, nodes])
 
-  // ── Inject display flags (highlighted by search, dimmed by chain) ───────────
   const displayNodes = useMemo(
     () => nodes.map(n => {
       const dimmed      = chainIds !== null && !chainIds.has(n.id)
@@ -215,7 +190,7 @@ export default function MapPage() {
     [edges, chainIds]
   )
 
-  // ── Click handler: select node + compute ancestor/descendant chain ──────────
+  // open the course panel when a non-elective node is clicked
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return
     setSelectedNode(node)
@@ -244,13 +219,11 @@ export default function MapPage() {
     setChainIds(chain)
   }, [edges])
 
-  // ── Copy link ──────────────────────────────────────────────────────────────
+  //Copy link
   const onCopyLink = useCallback(() => {
     navigator.clipboard.writeText(window.location.href).catch(() => {})
   }, [])
 
-
-  // ─── Render ─────────────────────────────────────────────────────────────────
 
   return (
     <div className="map-print-root" style={{
@@ -261,11 +234,10 @@ export default function MapPage() {
       background: 'var(--color-paper)',
     }}>
 
-      {/* Scrollbar-hiding utility for pill row */}
       <style>{`.pill-scroll::-webkit-scrollbar { display: none; }`}</style>
 
-      {/* ── Nav bar ──────────────────────────────────────────────── */}
-      <div className="no-print" style={{
+      {/* nav bar */}
+      <div style={{
         background: 'var(--color-paper)',
         padding: '0 var(--space-lg)',
         display: 'flex',
@@ -357,15 +329,15 @@ export default function MapPage() {
         />
       </div>
 
-      {/* ── Selection strip ──────────────────────────────────────── */}
-      <div className="no-print" style={{
+      {/* selection strip */}
+      <div style={{
         flexShrink: 0,
         background: 'var(--color-paper)',
         borderBottom: '1px solid var(--color-rule)',
         boxShadow: '0 1px 4px rgba(0,0,0,0.04)',
       }}>
 
-        {/* Row 1 — Department dropdown */}
+        {/* department dropdown */}
         <div style={{
           display: 'flex',
           alignItems: 'center',
@@ -413,7 +385,7 @@ export default function MapPage() {
               ))}
             </select>
 
-            {/* Custom chevron (sits over the select's right edge) */}
+            {/* custom chevron overlaid on the right edge of the select */}
             <svg
               width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"
               style={{
@@ -429,7 +401,7 @@ export default function MapPage() {
           </div>
         </div>
 
-        {/* Row 2 — Program pills (only once a dept is selected) */}
+        {/* program pills, shown after a department is selected */}
         {selectedDept && (
           <div style={{
             display: 'flex',
@@ -461,10 +433,10 @@ export default function MapPage() {
         )}
       </div>
 
-      {/* ── Legend ───────────────────────────────────────────────── */}
-      {courseMap && <div className="no-print"><Legend degree={courseMap.degree} /></div>}
+      {/* legend */}
+      {courseMap && <Legend degree={courseMap.degree} />}
 
-      {/* ── Notes sidebar ────────────────────────────────────────── */}
+      {/* notes sidebar */}
       {courseMap && (
         <div className="no-print">
           <Notes
@@ -476,7 +448,7 @@ export default function MapPage() {
         </div>
       )}
 
-      {/* ── Flow canvas ──────────────────────────────────────────── */}
+      {/* flow canvas */}
       {nodes.length > 0 ? (
         <div className="print-canvas" style={{ flex: 1 }}>
           <ReactFlow
@@ -495,7 +467,7 @@ export default function MapPage() {
             maxZoom={1.5}
             translateExtent={[[-200, -200], [2000, 1000]]}
           >
-            {/* ReactFlow Background.color is a prop, not a CSS property — can't use var() */}
+            {/* Background.color is a prop, not a CSS property, so CSS vars don't work here */}
             <Background color="#e5e2dc" gap={22} size={1} />
           </ReactFlow>
         </div>
@@ -518,7 +490,7 @@ export default function MapPage() {
         </div>
       )}
 
-      {/* ── Program picker modal (via menubar) ──────────────────── */}
+      {/* program picker modal */}
       <ProgramPicker
         open={showPicker}
         onClose={() => setShowPicker(false)}
@@ -530,19 +502,13 @@ export default function MapPage() {
         onProgramSelect={setSelectedProgram}
       />
 
-      {/* ── Course detail panel ─────────────────────────────────── */}
-      <CoursePanel node={selectedNode} onClose={() => { setSelectedNode(null); setChainIds(null) }} />
-
-      <CompareModal
-        open={showCompare}
-        onClose={() => setShowCompare(false)}
-        departments={departments}
-      />
+      {/* course detail panel */}
+      <CoursePanel node={selectedNode} onClose={() => setSelectedNode(null)} />
     </div>
   )
 }
 
-// ─── Pill ─────────────────────────────────────────────────────────────────────
+// Pill
 
 const Pill = ({ label, active, onClick, title }) => (
   <button
@@ -570,7 +536,7 @@ const Pill = ({ label, active, onClick, title }) => (
   </button>
 )
 
-// ─── Style constants ──────────────────────────────────────────────────────────
+// style constants
 
 const rowLabelStyle = {
   flexShrink: 0,

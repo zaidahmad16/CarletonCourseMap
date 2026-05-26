@@ -1,11 +1,8 @@
-/* Hallmark · component: ProgramPicker · genre: modern-minimal · theme: custom (Carleton)
- * states: closed (unmounted) · open (backdrop + dialog animate in)
- * centering: flex overlay — most reliable across zoom levels, avoids inset/margin-auto height-fit-content bug
- */
+/* program picker modal, unmounted when closed, centered with a flex overlay to stay reliable at all zoom levels */
 
 import { useState, useEffect, useRef } from 'react'
 
-// ── Degree abbreviation helper ─────────────────────────────────────────────────
+// degree abbreviation helper
 
 const abbrev = (degree = '') => {
   const d = degree.toLowerCase()
@@ -40,7 +37,7 @@ const abbrevColor = (ab = '') => {
   return                               { bg: 'var(--color-paper-2)', fg: 'var(--color-ink-2)' }
 }
 
-// ── Component ──────────────────────────────────────────────────────────────────
+// ProgramPicker
 
 export const ProgramPicker = ({
   open,
@@ -100,7 +97,7 @@ export const ProgramPicker = ({
 
   return (
     <>
-      {/* ── Backdrop ──────────────────────────────────────────────────────── */}
+      {/* backdrop */}
       <div
         aria-hidden="true"
         onClick={onClose}
@@ -115,7 +112,7 @@ export const ProgramPicker = ({
         }}
       />
 
-      {/* ── Flex overlay for reliable centering at any zoom ───────────────── */}
+      {/* flex overlay for centering at any zoom level */}
       <div
         aria-hidden="true"
         style={{
@@ -129,7 +126,7 @@ export const ProgramPicker = ({
           pointerEvents: 'none',
         }}
       >
-        {/* ── Dialog ──────────────────────────────────────────────────────── */}
+        {/* dialog */}
         <div
           role="dialog"
           aria-modal="true"
@@ -152,7 +149,7 @@ export const ProgramPicker = ({
           {/* Red accent bar */}
           <div style={{ height: 3, background: 'var(--color-accent)', flexShrink: 0 }} />
 
-          {/* ── Header ────────────────────────────────────────────────────── */}
+          {/* header */}
           <div style={{
             padding: 'var(--space-sm) var(--space-md)',
             borderBottom: '1px solid var(--color-rule)',
@@ -224,7 +221,7 @@ export const ProgramPicker = ({
             </div>
           </div>
 
-          {/* ── List / Grid ───────────────────────────────────────────────── */}
+          {/* list or grid */}
           <div style={{ overflowY: 'auto', flex: 1 }}>
 
             {/* Loading */}
@@ -239,7 +236,7 @@ export const ProgramPicker = ({
               </div>
             )}
 
-            {/* ── Department rows (compact list) ──────────────────────────── */}
+            {/* department rows */}
             {view === 'depts' && !isEmpty && filteredDepts.map(dept => {
               const isActive = String(dept.dept_id) === String(selectedDept)
               return (
@@ -253,7 +250,7 @@ export const ProgramPicker = ({
               )
             })}
 
-            {/* ── Program cards (2-col grid) ───────────────────────────────── */}
+            {/* program cards */}
             {view === 'programs' && !isEmpty && (
               <div style={{
                 display: 'grid',
@@ -280,7 +277,7 @@ export const ProgramPicker = ({
             )}
           </div>
 
-          {/* ── Footer ────────────────────────────────────────────────────── */}
+          {/* footer */}
           <div style={{
             borderTop: '1px solid var(--color-rule)',
             padding: 'var(--space-xs) var(--space-md)',
@@ -304,7 +301,7 @@ export const ProgramPicker = ({
   )
 }
 
-// ── Department row ─────────────────────────────────────────────────────────────
+// department row
 
 const PickerRow = ({ label, isActive, trailingIcon, onClick }) => (
   <button
@@ -346,7 +343,7 @@ const PickerRow = ({ label, isActive, trailingIcon, onClick }) => (
   </button>
 )
 
-// ── Program card ───────────────────────────────────────────────────────────────
+// program card
 
 const ProgramCard = ({ degree, abbrev: ab, colors, isActive, onClick }) => (
   <button
@@ -383,7 +380,7 @@ const ProgramCard = ({ degree, abbrev: ab, colors, isActive, onClick }) => (
       }
     }}
   >
-    {/* Degree type badge */}
+    {/* degree type badge */}
     <span style={{
       display: 'inline-block',
       background: colors.bg,
@@ -399,7 +396,7 @@ const ProgramCard = ({ degree, abbrev: ab, colors, isActive, onClick }) => (
       {ab}
     </span>
 
-    {/* Degree name */}
+    {/* degree name */}
     <span style={{
       fontSize: 'var(--text-xs)',
       lineHeight: 1.45,
@@ -409,7 +406,7 @@ const ProgramCard = ({ degree, abbrev: ab, colors, isActive, onClick }) => (
       {degree}
     </span>
 
-    {/* Active checkmark */}
+    {/* active checkmark */}
     {isActive && (
       <span style={{
         alignSelf: 'flex-end',

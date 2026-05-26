@@ -1,6 +1,4 @@
-/* Hallmark · component: Notes · genre: modern-minimal · theme: custom (Carleton)
- * states: closed (tab visible) · open (panel slides in) · toggle button hover/focus
- */
+/* notes panel with a tab toggle, slides in from the right */
 
 import { useState } from 'react'
 
@@ -11,7 +9,7 @@ export const Notes = ({ notes = [], degree, open: controlledOpen, onOpenChange }
 
   return (
     <>
-      {/* ── Toggle tab ────────────────────────────────────── */}
+      {/* toggle tab */}
       <button
         onClick={() => setOpen(!open)}
         aria-expanded={open}
@@ -39,7 +37,7 @@ export const Notes = ({ notes = [], degree, open: controlledOpen, onOpenChange }
         {open ? '✕ Close' : 'Notes'}
       </button>
 
-      {/* ── Notes panel ───────────────────────────────────── */}
+      {/* notes panel */}
       <div
         role="complementary"
         aria-label="Program notes"

@@ -163,6 +163,10 @@ def scrape_program(name, url):
                 word = ys.group(1).lower()
                 year_standing = {"second": 2, "2nd": 2, "third": 3, "3rd": 3, "fourth": 4, "4th": 4}[word]
 
+        # concurrent prerequisites are course codes that appear in a concurrent clause
+        if prerequisites:
+            COURSE_RE = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
+            # find all "concurrently" clauses: "X may be taken concurrently" or "concurrent with X"
             concurrent_raw = re.findall(
                 r'([A-Z]{3,4}\s+\d{4}[A-Z]?)\s+(?:may\s+be\s+taken\s+concurrently|concurrently)',
                 prerequisites,
@@ -224,7 +228,7 @@ def _parse_sc_courselist(table_sel):
         if not row.css("td"):
             continue
 
-        # ── Section header ────────────────────────────────────────────────────
+        # section header, updates the type context for subsequent rows
         if "areaheader" in classes:
             flush_choose()
             text  = _clean(" ".join(row.css("::text").getall()))
@@ -291,7 +295,8 @@ def _parse_sc_courselist(table_sel):
             desc_td = row.xpath('td[not(contains(@class,"hourscol"))][1]')
             text = _clean(" ".join(desc_td.css("::text").getall())) if desc_td else ""
 
-            if not text:
+            # group header rows like "1.  6.5 credits in:" just label a block, skip them
+            if re.search(r":\s*$", text.strip()):
                 continue
 
             lower = text.lower()

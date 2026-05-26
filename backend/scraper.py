@@ -165,7 +165,6 @@ def scrape_program(name, url):
 
         # concurrent prerequisites are course codes that appear in a concurrent clause
         if prerequisites:
-            COURSE_RE = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
             # find all "concurrently" clauses: "X may be taken concurrently" or "concurrent with X"
             concurrent_raw = re.findall(
                 r'([A-Z]{3,4}\s+\d{4}[A-Z]?)\s+(?:may\s+be\s+taken\s+concurrently|concurrently)',
@@ -334,7 +333,7 @@ def _parse_sc_courselist(table_sel):
                 choose_buffer.extend(courses)
             else:
                 flush_choose()
-                row_type = "elective" if "elective" in lower else "elective"
+                row_type = "elective" if "elective" in lower else "required"
                 requirements.append({
                     "type": row_type,
                     "courses": courses,

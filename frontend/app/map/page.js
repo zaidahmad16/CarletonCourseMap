@@ -37,6 +37,20 @@ const shortenProgram = (degree = '') => {
     return c.length > 30 ? c.slice(0, 28) + '…' : c
   }
 
+  // Standalone "Concentration in X (N credits)" — show just the topic
+  const concM = degree.match(/^Concentration\s+in\s+(.+?)(?:\s*\(|$)/i)
+  if (concM) {
+    const c = concM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+
+  // Standalone "Stream in X (N credits)" — show just the topic
+  const streamM = degree.match(/^Stream\s+in\s+(.+?)(?:\s*\(|$)/i)
+  if (streamM) {
+    const c = streamM[1].trim()
+    return c.length > 30 ? c.slice(0, 28) + '…' : c
+  }
+
   const specifics = [
     [/artificial intelligence|machine learning/i, 'AI & Machine Learning'],
     [/cybersecurity|cyber security/i,             'Cybersecurity'],
@@ -51,8 +65,8 @@ const shortenProgram = (degree = '') => {
   ]
   for (const [re, label] of specifics) if (re.test(degree)) return label
 
-  // Cognitive Science concentrations — extract the concentration name
-  const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s{2,}|$)/i)
+  // Any remaining "Concentration in X" embedded in a longer degree name
+  const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s*\(|\s{2,}|$)/i)
   if (cogM) {
     const c = cogM[1].trim()
     return c.length > 30 ? c.slice(0, 28) + '…' : c
@@ -85,6 +99,10 @@ export default function MapPage() {
   const [nodes,           setNodes]           = useState([])
   const [edges,           setEdges]           = useState([])
   const [selectedNode,    setSelectedNode]    = useState(null)
+  const pillScrollRef = useRef(null)
+  const scrollPills = (dir) => {
+    if (pillScrollRef.current) pillScrollRef.current.scrollBy({ left: dir * 200, behavior: 'smooth' })
+  }
   const [showPicker,      setShowPicker]      = useState(false)
   const [showNotes,       setShowNotes]       = useState(false)
   const [showCompare,     setShowCompare]     = useState(false)
@@ -234,7 +252,12 @@ export default function MapPage() {
       background: 'var(--color-paper)',
     }}>
 
-      <style>{`.pill-scroll::-webkit-scrollbar { display: none; }`}</style>
+      <style>{`
+        .pill-scroll::-webkit-scrollbar { display: none; }
+        .scroll-arrow { background: none; border: none; cursor: pointer; padding: 0 4px; color: var(--color-ink-3); font-size: 16px; line-height: 1; flex-shrink: 0; user-select: none; }
+        .scroll-arrow:hover { color: var(--color-ink-1); }
+        .scroll-arrow:disabled { opacity: 0.2; cursor: default; }
+      `}</style>
 
       {/* nav bar */}
       <div style={{
@@ -412,7 +435,8 @@ export default function MapPage() {
           }}>
             <span style={rowLabelStyle}>Program</span>
 
-            <div className="pill-scroll" style={scrollRowStyle}>
+            <button className="scroll-arrow" onClick={() => scrollPills(-1)} aria-label="Scroll left">&#8249;</button>
+            <div className="pill-scroll" ref={pillScrollRef} style={scrollRowStyle}>
               {programs.length === 0 ? (
                 <span style={{ fontSize: 12, color: 'var(--color-ink-3)', fontStyle: 'italic' }}>
                   Loading programs…
@@ -429,6 +453,7 @@ export default function MapPage() {
                 ))
               )}
             </div>
+            <button className="scroll-arrow" onClick={() => scrollPills(1)} aria-label="Scroll right">&#8250;</button>
           </div>
         )}
       </div>

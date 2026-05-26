@@ -80,7 +80,7 @@ export const Notes = ({ notes = [], degree, open: controlledOpen, onOpenChange }
 
           <NotesSection title="Disclaimer">
             <p style={prose}>
-              Course data reflects the <strong>2025–2026</strong> Undergraduate Calendar. Always verify with the official Carleton University calendar before enrolling.
+              Course data reflects the <strong>2026–2027</strong> Undergraduate Calendar. Always verify with the official Carleton University calendar before enrolling.
             </p>
             <p style={{ ...prose, color: 'var(--color-ink-3)', marginTop: 8 }}>
               Not affiliated with or endorsed by Carleton University.

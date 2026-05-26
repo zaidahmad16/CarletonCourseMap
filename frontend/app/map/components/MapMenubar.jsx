@@ -1,7 +1,4 @@
-/* Hallmark · component: MapMenubar · genre: modern-minimal · theme: custom (Carleton)
- * states: default · hover · focus · active · disabled · open (submenu)
- * Base UI Menubar — View / Program / Help
- */
+/* menubar with View, Program, and Help menus using Base UI */
 
 'use client'
 
@@ -9,7 +6,7 @@ import * as React from 'react'
 import { Menubar } from '@base-ui-components/react/menubar'
 import { Menu } from '@base-ui-components/react/menu'
 
-// ── Shared style tokens (inline, references CSS vars from globals.css) ─────────
+// shared style tokens, all values reference CSS vars from globals.css
 
 const triggerBase = {
   display: 'inline-flex',
@@ -67,7 +64,7 @@ const separatorStyle = {
   margin: '4px 0',
 }
 
-// ── Sub-components ─────────────────────────────────────────────────────────────
+// sub-components
 
 const MenuTrigger = React.forwardRef(({ children, open, ...props }, ref) => (
   <Menu.Trigger
@@ -127,7 +124,7 @@ const MenuItem = ({ children, shortcut, disabled, onClick, ...props }) => (
   </Menu.Item>
 )
 
-// ── MapMenubar ─────────────────────────────────────────────────────────────────
+// MapMenubar
 
 export const MapMenubar = ({
   onFitView,
@@ -151,7 +148,7 @@ export const MapMenubar = ({
         gap: 2,
       }}
     >
-      {/* ── View ──────────────────────────────────────────── */}
+      {/* View menu */}
       <Menu.Root onOpenChange={setViewOpen}>
         <MenuTrigger open={viewOpen}>View</MenuTrigger>
         <Menu.Portal>
@@ -167,7 +164,7 @@ export const MapMenubar = ({
         </Menu.Portal>
       </Menu.Root>
 
-      {/* ── Program ───────────────────────────────────────── */}
+      {/* Program menu */}
       <Menu.Root onOpenChange={setProgramOpen}>
         <MenuTrigger open={programOpen}>Program</MenuTrigger>
         <Menu.Portal>
@@ -182,7 +179,7 @@ export const MapMenubar = ({
         </Menu.Portal>
       </Menu.Root>
 
-      {/* ── Help ──────────────────────────────────────────── */}
+      {/* Help menu */}
       <Menu.Root onOpenChange={setHelpOpen}>
         <MenuTrigger open={helpOpen}>Help</MenuTrigger>
         <Menu.Portal>

@@ -1,7 +1,7 @@
-/* Hallmark · genre: modern-minimal · macrostructure-family: Narrative Workflow (marketing) / Workbench (app)
- * theme: custom · vibe: "institutional Carleton red white charcoal"
- * paper: oklch(99% 0.003 85) · accent: oklch(49.5% 0.222 26) warm-red
- * display: Roboto Slab · body: Geist · designed-as-app
+/* CarletonCourseMap design system
+ * modern minimal, Carleton brand colors
+ * paper: oklch(99% 0.003 85), accent: oklch(49.5% 0.222 26) warm red
+ * display font: Roboto Slab, body font: Geist
  */
 
 @tailwind base;
@@ -9,7 +9,7 @@
 @tailwind utilities;
 
 :root {
-  /* ── Colours ─────────────────────────────────────────────── */
+  /* colors */
   --color-paper:            oklch(99% 0.003 85);
   --color-paper-2:          oklch(96.5% 0.004 85);
   --color-paper-3:          oklch(93.5% 0.004 85);
@@ -23,7 +23,7 @@
   --color-accent-ink:       oklch(99% 0 0);
   --color-focus:            oklch(55% 0.222 26);
 
-  /* ── Course-type colours ─────────────────────────────────── */
+  /* course type colors */
   --color-required:         oklch(11% 0 0);
   --color-science:          oklch(43% 0.14 144);
   --color-science-bg:       oklch(97% 0.012 144);
@@ -32,12 +32,12 @@
   --color-complementary:    oklch(49.5% 0.222 26);
   --color-complementary-bg: oklch(97.5% 0.015 26);
 
-  /* ── Typography ──────────────────────────────────────────── */
+  /* typography */
   --font-display: var(--font-roboto-slab), "Roboto Slab", Georgia, serif;
   --font-body:    var(--font-geist-sans), -apple-system, "Segoe UI", sans-serif;
   --font-mono:    var(--font-geist-mono), monospace;
 
-  /* ── Type scale ──────────────────────────────────────────── */
+  /* type scale */
   --text-xs:      0.75rem;
   --text-sm:      0.875rem;
   --text-md:      1rem;
@@ -47,7 +47,7 @@
   --text-3xl:     2.25rem;
   --text-display: clamp(2.5rem, 5vw, 4rem);
 
-  /* ── Spacing — 4pt scale ─────────────────────────────────── */
+  /* spacing on a 4pt scale */
   --space-3xs:    0.25rem;
   --space-2xs:    0.5rem;
   --space-xs:     0.75rem;
@@ -58,13 +58,13 @@
   --space-2xl:    4.5rem;
   --space-3xl:    7rem;
 
-  /* ── Motion ──────────────────────────────────────────────── */
+  /* motion */
   --ease-out:     cubic-bezier(0.16, 1, 0.3, 1);
   --ease-in-out:  cubic-bezier(0.65, 0, 0.35, 1);
   --dur-short:    180ms;
   --dur-medium:   280ms;
 
-  /* ── Radii ───────────────────────────────────────────────── */
+  /* radii */
   --radius-card:  6px;
   --radius-pill:  999px;
   --radius-input: 4px;
@@ -76,7 +76,7 @@ body {
   overflow-x: clip;
 }
 
-/* ── Keyframe animations ─────────────────────────────────── */
+/* keyframe animations */
 
 @keyframes backdrop-in {
   from { opacity: 0; }

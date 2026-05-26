@@ -1,6 +1,4 @@
-/* Hallmark · component: CourseNode · genre: modern-minimal · theme: custom (Carleton)
- * states: default · hover (card lift) · pointer-none on electives
- */
+/* course node card, electives are non-interactive */
 
 import { Handle, Position } from 'reactflow'
 import { NODE_WIDTH, NODE_HEIGHT, COL_WIDTH } from '../utils/constants'

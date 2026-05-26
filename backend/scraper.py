@@ -62,8 +62,6 @@ PROGRAMS = {
     "Physics": "https://calendar.carleton.ca/undergrad/undergradprograms/physics/",
     "Political Science": "https://calendar.carleton.ca/undergrad/undergradprograms/politicalscience/",
     "Psychology": "https://calendar.carleton.ca/undergrad/undergradprograms/psychology/",
-    "Public Affairs and Policy Management": "https://calendar.carleton.ca/undergrad/undergradprograms/publicaffairsandpolicymanagement/",
-    "Religion": "https://calendar.carleton.ca/undergrad/undergradprograms/religion/",
     "Social Work": "https://calendar.carleton.ca/undergrad/undergradprograms/socialwork/",
     "Sociology": "https://calendar.carleton.ca/undergrad/undergradprograms/sociology/",
 }

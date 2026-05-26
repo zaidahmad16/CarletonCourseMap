@@ -8,7 +8,10 @@
       "credit": "0.5",
       "description": "Introduction to political, social, cultural, economic and military developments in global and international history.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +21,10 @@
       "credit": "0.5",
       "description": "Introduction to the evolution of the international system, including the rise of the state, sovereignty, and the challenge of international cooperation. The role of international law in addressing global issues such as human rights, security and trade.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +34,10 @@
       "credit": "0.5",
       "description": "Introduction to the intersection of globalization processes with social and cultural diversity as examined through ethnography and ethnographic methods. Topics may include cultural survival, growing economic inequality, ecological vulnerabilities, health practices, human rights, and shifting racialized, gendered, religious, ethnic, and national identities.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +47,9 @@
       "credit": "0.5",
       "description": "Introduction to key questions and issues in development studies, taught from an inter-disciplinary perspective.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +59,10 @@
       "credit": "0.0",
       "description": "This mandatory course introduces BGInS students to the International Experience Requirement (IER) and to the various policies and procedures associated with it.  Graded SAT/UNS.",
       "prerequisites": "first-year standing in BGInS.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +72,10 @@
       "credit": "0.5",
       "description": "Introduction to global ethical issues, focusing on alternative lines of ethical argument. Topics may include poverty and unequal development, climate change, war and terrorism, reparations for colonialism and slavery, international relief services, ill effects of globalization, trafficking and forced labour, democracy and global governance.",
       "prerequisites": "Second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -68,7 +85,10 @@
       "credit": "0.5",
       "description": "An introduction to the world economy, international trade and finance, and economic development. Social and economic implications for both rich and poor countries of lowered barriers to the international flows of goods, services, capital, labour, and information in the age of globalization.",
       "prerequisites": "Second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -78,7 +98,10 @@
       "credit": "0.5",
       "description": "A study of the global dynamics of the contemporary literary imagination and literary production; literature as cultural practice; the politics of literary circulation; the politics of language and translation.",
       "prerequisites": "Second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -88,7 +111,10 @@
       "credit": "0.5",
       "description": "Advanced analysis of global and international theories from a variety of perspectives, including realism, liberalism, postmodernism, constructivism, post-structuralism, literary and critical approaches.",
       "prerequisites": "third-year standing in B.G.In.S.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -98,7 +124,9 @@
       "credit": "0.5",
       "description": "Examination of the relationship between individual places and global social and environmental processes. The changing nature of regions, states and political boundaries in the context of political and economic globalization and international migration. Social science perspectives on climate change vulnerability, adaptation and mitigation.",
       "prerequisites": "third-year standing in B.G.In.S.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -108,7 +136,9 @@
       "credit": "0.5",
       "description": "Students work on a project related to Global and International Experiential learning. Sessions are devoted to discussing project- related issues and student presentations. Course design may vary according to the professor's instructions.    Includes: Experiential Learning Activity.",
       "prerequisites": "third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -178,7 +208,10 @@
       "credit": "0.5",
       "description": "Examination of key debates in global and international studies from a variety of disciplinary and interdisciplinary perspectives. Integration of knowledge from different areas of emphasis in global studies. A major research paper is required that undertakes to focus theoretical insight on practical concerns.",
       "prerequisites": "fourth-year Honours standing in B.G.In.S.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

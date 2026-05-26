@@ -2082,46 +2082,6 @@
         {
           "type": "required",
           "courses": [
-            "MATH 2001"
-          ],
-          "credits": 0.5,
-          "description": "Multivariable Calculus and Fundamentals of Analysis I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2002"
-          ],
-          "credits": 0.5,
-          "description": "Multivariable Calculus and Fundamentals of Analysis II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2100"
-          ],
-          "credits": 1.0,
-          "description": "Algebra"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2454"
-          ],
-          "credits": 0.5,
-          "description": "Ordinary Differential Equations (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 2655"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Probability with Applications (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
             "MATH 1052"
           ],
           "credits": 0.5,

@@ -8,7 +8,9 @@
       "credit": "0.5",
       "description": "The purpose and nature of the program; society's view on the natural and human-modified environment; major environmental issues and their scientific aspects.",
       "prerequisites": "enrolment in the Environmental Science program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "0.5",
       "description": "A field-based course introducing students to practical methods in environmental science. Topics will include earth sciences, geography, biology, and chemistry related aspects of environmental sciences and will focus on quantitative techniques to assess environmental impacts and management. A supplementary fee will apply.",
       "prerequisites": "ERTH 1002 , BIOL 1104 , CHEM 1001 , CHEM 1002 , and permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "0.5",
       "description": "Environmental impact of mineral, energy and water resource exploitation and impact of hazardous Earth processes such as volcanic eruptions, earthquakes and others: their prediction and mitigation.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +44,9 @@
       "credit": "0.5",
       "description": "Study and application of qualitative and quantitative techniques in environmental science, including study design, data collection and assembly, database manipulation, data analysis, and critically evaluating scientific information.",
       "prerequisites": "STAT 2507 or permission from the Institute.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +56,9 @@
       "credit": "0.5",
       "description": "Theoretical and practical perspectives related to environmental science and management; Emphasis on real-world problems associated with human activities and development of solutions in natural and built environments; Hands-on experience with environmental monitoring and restoration. A supplementary fee will apply.",
       "prerequisites": "third-year standing in Environmental Science or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -58,7 +68,9 @@
       "credit": "0.5",
       "description": "Data analysis strategies to tackle real-world, wicked problems. Includes a hands-on applied environmental data science project with a variety of partners. Topics include: obtaining and working with data, exploring causal relationships, data ethics, communicating data, and moving from data to information to action.",
       "prerequisites": "third year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -78,7 +90,9 @@
       "credit": "0.5",
       "description": "Major project relating to an issue involving environmental science; effective methods of team research and presentation of group work. May include field work during class time or on weekends.",
       "prerequisites": "third-year standing in the Honours Environmental Science program or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -128,7 +142,9 @@
       "credit": "0.5",
       "description": "The regulatory and scientific aspects of environmental management decisions, including risk analysis and mitigation, managing chronic and acute environmental impacts, and conservation of species and landscapes. Students will use real-world case studies to learn traditional and cutting-edge decision-making tools.",
       "prerequisites": "third-year standing in any B.Sc. program or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -138,7 +154,9 @@
       "credit": "0.5",
       "description": "This course explores issues of food systems and their sustainability. We will discuss aspects of food systems, including production, distribution, consumption, waste management, and their impact on communities and the environment.",
       "prerequisites": "third year standing in B.Sc. or B.HSc. program or permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -158,7 +176,9 @@
       "credit": "0.5",
       "description": "Isotope applications in environmental and Earth sciences. Emphasis is placed current and novel environmental applications including contaminant tracing, hydrogeological studies, and (bio)geochemical cycling of elements. Mechanisms of stable isotope fractionation and analysis are presented. Student-led projects will explore the broad realm of isotope studies.",
       "prerequisites": "CHEM 1001 and CHEM 1002 , and fourth-year standing or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -178,7 +198,10 @@
       "credit": "0.5",
       "description": "Independent or group study, for fourth-year students to explore a particular project, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "permission of the Institute. Students normally may not offer more than 1.0 credit of Directed Special Studies in their program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -188,7 +211,10 @@
       "credit": "1.0",
       "description": "An independent investigation into an aspect of environmental science supervised by a member of the faculty. Approval of the topic and the research schedule must be obtained from the project supervisor and the course coordinator before the last date for registration.",
       "prerequisites": "fourth-year standing in the Honours Environmental Science program, a major CGPA 8.0 and permission of the Institute.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },

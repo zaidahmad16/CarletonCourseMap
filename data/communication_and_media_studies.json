@@ -8,7 +8,9 @@
       "credit": "0.5",
       "description": "An exploration of media history, patterns of change, and key approaches to their study.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "0.5",
       "description": "An exploration of communication and media in relation to contemporary political, technological and cultural issues, with a focus on Canada.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "0.5",
       "description": "This course is intended to build on and reinforce digital skills and strengthen students' capacity to navigate and adapt to different digital skills requirements in courses across our B.CoMS program.",
       "prerequisites": "First-year standing and enrollment in Communication and Media Studies (including BGInS related specializations and streams), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +44,9 @@
       "credit": "0.5",
       "description": "Workshop to strengthen writing skills in communication and media studies and prepare students for coursework across the B.CoMS program.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +56,9 @@
       "credit": "0.5",
       "description": "The development of communication theory in the context of major social, economic and cultural periods and events. Emphasis on the central debates and traditions that have shaped and defined the field.",
       "prerequisites": "COMS 1001 and COMS 1002 , and second-year standing in Communication and Media Studies (including BGInS related specializations and streams), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -58,7 +68,9 @@
       "credit": "0.5",
       "description": "Introduction to the scientific method as interpreted through major traditions in Communication and Media Studies. The course addresses the relationship between theory and evidence, research design, ethics and data management.",
       "prerequisites": "COMS 1001 and COMS 1002 , and second year standing in Communication and Media Studies (including BGInS related specializations and streams), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -68,7 +80,10 @@
       "credit": "0.5",
       "description": "Learn to communicate ideas and arguments using different media forms and platforms. Topics may include photography, graphic design, audio, video, information design, and generative artifical intelligence tools.",
       "prerequisites": "second-year standing and enrolment in Communication and Media Studies, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -78,7 +93,9 @@
       "credit": "0.5",
       "description": "How big data and small data shape society. Databases as a form of media. Topics may include: data policy and regulation, the politics and ethics of big data, data and decision-making, and data as discourse.",
       "prerequisites": "Second-year standing or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -108,7 +125,9 @@
       "credit": "0.5",
       "description": "Survey of Canadian laws and ethical issues that affect production and dissemination of digital media, including Charter of Rights and Freedoms, limitations on freedom of the press, including publication bans, libel and contempt of court. Different approaches to ethical decision-making and their applications.",
       "prerequisites": "JOUR 1001 , JOUR 1002 , COMS 1001 , COMS 1002 , or enrollment in the Minor in News Media and Information, or enrollment in the Communications and Policy Studies specialization of the Bachelor of Public Affairs and Policy Management, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -118,7 +137,9 @@
       "credit": "0.5",
       "description": "How expert knowledge (particularly scientific, medical, and technical) is communicated in the public realm. Topics may include scientific advances and new technologies, health risks, environmental/ climate change, and cultural/ideological positioning of science.",
       "prerequisites": "second-year standing or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -128,7 +149,9 @@
       "credit": "0.5",
       "description": "Some of the central topics in the study of language and communication as pursued by linguists and philosophers, including the nature of meaning, the connections between language, communication and cognition, and language as a social activity.",
       "prerequisites": "second-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -138,7 +161,9 @@
       "credit": "0.5",
       "description": "An introduction to the major industries, institutions, regulatory frameworks and key organizations responsible for cultural production in Canada.",
       "prerequisites": "Second-year standing or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -148,7 +173,9 @@
       "credit": "0.5",
       "description": "An introduction to global media and communication, with an emphasis on debates about media power and expansion, digitalization, technology transfer, and societal implications/changes. Students will investigate historical and contemporary contexts of global and transnational communication through a variety of approaches and perspectives.",
       "prerequisites": "Second-year standing or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -158,7 +185,9 @@
       "credit": "0.5",
       "description": "An introduction to basic statistical methods in media and communication studies.",
       "prerequisites": "COMS 2004 and third-year standing in Communication and Media Studies, or third-year standing in BPAPM- or BGInS-related specializations and streams, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -168,7 +197,9 @@
       "credit": "0.5",
       "description": "An introduction to interpretive methods in media and communication studies.",
       "prerequisites": "COMS 2004 and third-year standing in Communication and Media Studies, or third-year standing in BPAPM- or BGInS-related specializations and streams, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -178,7 +209,10 @@
       "credit": "0.5",
       "description": "A critical exploration of the mediation of crime and violence in historical and contemporary contexts.  Topics may include celebrity criminals, true crime media, news, photography, courtroom TV, victimhood, and vigilante justice.",
       "prerequisites": "Third-year standing and enrollment in Communication and Media Studies (including BGInS related specializations and streams) or third-year standing in Criminology and Criminal Justice (BA / Honours streams), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -188,7 +222,9 @@
       "credit": "0.5",
       "description": "Introduction to the field of political management. The institutional, legislative and ethical context in which party strategists, campaign managers, pollsters, lobbyists and civil society operate. Related administrative and communications skills.",
       "prerequisites": "third-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -218,7 +254,9 @@
       "credit": "0.5",
       "description": "The history, political economy, and culture of comics as a distinct medium of communication, and the relationship between comic book publishing and other cultural industries.",
       "prerequisites": "Third year standing and enrollment in Communication and Media Studies or permission from the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -228,7 +266,9 @@
       "credit": "0.5",
       "description": "Explores the historical, social, and systemic underpinnings of racism in relation to digital media. The course considers the emergence of digital media and its impact on racism. Students will learn about several relations, from World War II computers, to Web 2.0, to activism, and more.",
       "prerequisites": "Third year standing in Communication and Media Studies or permission from the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -238,7 +278,9 @@
       "credit": "0.5",
       "description": "Examines the relationship between various kinds of communication and political activity in a variety of contexts. Case studies will be drawn from speeches, political campaigns, and debates, using a variety of media forms, from photographs to web sites.",
       "prerequisites": "third year standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -248,7 +290,9 @@
       "credit": "0.5",
       "description": "A critical analysis of major constructs and basic mechanisms of advertising, social marketing and other aspects of consumer culture. The course examines the social, political-economic and cultural implications of consumer culture.",
       "prerequisites": "third-year standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -258,7 +302,9 @@
       "credit": "0.5",
       "description": "A critical examination of key aspects of public relations, including histories of PR, media representations of PR, gender and public relations, and the role of PR in business, politics and civil society.",
       "prerequisites": "third-year standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -278,7 +324,9 @@
       "credit": "0.5",
       "description": "Explores ethical problems and controversies relating to research in media and communication. Focuses on rights and responsibilities of researchers and practitioners as  relates to media consumers, producers, and professional communicators in an age when communication circulates quickly within and across borders and other boundaries.",
       "prerequisites": "third year standing in Communication and Media Studies (including BPAPM and BGInS related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -298,7 +346,9 @@
       "credit": "0.5",
       "description": "Examines the relationship between communication technology and society, including factors that contribute to changes in the collection, storage and distribution of information and their cultural implications.",
       "prerequisites": "third year standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -328,7 +378,9 @@
       "credit": "0.5",
       "description": "Examines the central importance of visual imagery in contemporary media, culture and everyday life. Draws connections between historical/contemporary explanations of \u2018the visual,\u2019 and how texts and technologies reflect the context and cultural values of the environments that produce them, and the challenges for regulation.",
       "prerequisites": "third year standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -358,7 +410,9 @@
       "credit": "0.5",
       "description": "Examines theoretical debates and issues facing the field of Communication and Media Studies today.",
       "prerequisites": "COMS 2003 and third-year standing in Communication and Media Studies (including BGInS related specializations and streams), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -368,7 +422,9 @@
       "credit": "0.5",
       "description": "An experiential learning course that provides students with opportunities to engage in communication strategies and community service learning. Focuses on how methodological approaches drawn from communication and media studies scholarship can be applied to the work of community organizations.",
       "prerequisites": "Third year standing and enrollment in Communication and Media Studies (including BGInS related specializations and streams) or permission of the School of Journalism and Communication. Open to students in the Combined Honours program for whom COMS is their primary degree.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -408,7 +464,9 @@
       "credit": "0.5",
       "description": "A critical exploration of the culture and political economy of sport including cultural norms and questions of representation in and around sports across an array of media.",
       "prerequisites": "Fourth year Honours standing in Communication and Media Studies or permission from the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -448,7 +506,9 @@
       "credit": "0.5",
       "description": "Critical examination of the ways religion mediates communicative practices, engages with media technologies, and is mediated in mainstream or popular culture. Topics may include: secularization and post-secularization; the politics of representation; religious organizations as communicative actors; fundamentalism.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -468,7 +528,9 @@
       "credit": "0.5",
       "description": "Examines environmental, animal, and earth observing media and pays special attention to the production of visual materials. The course explores the influence of media systems on the production, dissemination, and meaning of environmental observations and looks at sites of contemporary environmental contention.",
       "prerequisites": "fourth-year Honours standing and enrollment in Communication and Media Studies or in the Minor in Environmental and Climate Humanities, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -488,7 +550,9 @@
       "credit": "0.5",
       "description": "Issues in the past, present and future of film, television and related media. Screens are examined as media that represent and shape values and culture, as technologies that are produced and purchased, and as objects that are regulated through policy.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -498,7 +562,9 @@
       "credit": "0.5",
       "description": "How communication occurs in conjunction with the built environment, with special attention to cultural artefacts such as houses, schools, factories, prisons, office buildings, roads, parks, and the urban (and suburban) environment. Various models, theories, and philosophies of the built environment are considered.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -508,7 +574,9 @@
       "credit": "0.5",
       "description": "Overview of Indigenous global media exploring film and film festivals, television networks, media arts, and the Internet. We will discuss struggles over mediated self-representation as well as debates over what constitutes Indigenous media relating to aesthetics, community affiliation, and identity.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies (including BGInS related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -528,7 +596,9 @@
       "credit": "0.5",
       "description": "Public interest and policy battles over critical internet resources and implications for development of the internet, citizens\u2019 rights and freedoms, the economy, and democratic culture; common carriage, privacy, security and surveillance, access, speech rights, and diversity of information sources.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies (including BPAPM and BGInS related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -538,7 +608,9 @@
       "credit": "0.5",
       "description": "Key approaches to the study of media as industries and how economics, markets and technologies intersect with social choices, politics and power to shape how decisions are made about the design, ownership, organization and control of media.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -548,7 +620,9 @@
       "credit": "0.5",
       "description": "How notions of identity are changing as we conduct our lives through networked media and communication such as social media, online search, the Internet of Things, and wearable devices. Subjectivity, personhood, posthumanism, algorithmic control, and privacy.",
       "prerequisites": "Fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -558,7 +632,9 @@
       "credit": "0.5",
       "description": "The contemporary open government movement; how communication can be used to improve governance and to foster a more collaborative relationship between governments and citizens. Access to information, the challenges of open data, expectations of transparency, and models of citizen engagement/consultation.",
       "prerequisites": "Fourth-year Honours standing in Communication and Media Studies (including BPAPM and BGInS related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -568,7 +644,9 @@
       "credit": "0.5",
       "description": "Theoretical perspectives, ethical problems, and contemporary issues relevant to communication and data studies. Students will critically examine the rise of \u2018big data\u2019 and \u2018datafication\u2019 as socio-technical phenomena that have become a crucial part of our communication landscape.",
       "prerequisites": "Fourth-year Honours standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -588,7 +666,9 @@
       "credit": "0.5",
       "description": "Critical examination of the history, development, and expansion of mobile media and its impact on culture, connectivity, and practice; locative media practices, geo-coding, wireless communication, mobile technologies, and user experience in everyday life.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -598,7 +678,9 @@
       "credit": "0.5",
       "description": "How do AI and algorithms mediate the traditional work of culture?  What new habits of thought, conduct and expression are produced by their modes of sorting, classifying and ranking people, things and ideas?.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -608,7 +690,9 @@
       "credit": "0.5",
       "description": "Games as media. The history of gaming and mediated play in terms of technology and form, industry, labour, gender and subcultural practice.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies (including BPAPM related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -618,7 +702,10 @@
       "credit": "0.5",
       "description": "This workshop introduces practice-based tools and techniques relevant in contemporary professional communication, such as basic web development, podcasting, and digital photography.",
       "prerequisites": "fourth-year standing in B.Co.M.S. Honours and permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -658,7 +745,9 @@
       "credit": "0.5",
       "description": "In this workshop students develop skills in professional written communication, such as press releases, blogs, op-eds, policy briefs, and speeches. Students will also hone their public speaking skills presenting their written work in different formats.",
       "prerequisites": "fourth-year standing in B.Co.M.S. Honours and permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -668,7 +757,9 @@
       "credit": "0.5",
       "description": "This workshop introduces the stages of event management for potential community partners. This includes conceptualization, marketing and sponsorships, production and financing, to risk management.",
       "prerequisites": "fourth-year standing in B.Co.M.S. Honours and permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -678,7 +769,9 @@
       "credit": "0.5",
       "description": "Students will work in a team-based environment to carry out empirical research in support of current faculty-led projects. In addition to learning advanced research techniques, students will develop project management and collaborative research skills.",
       "prerequisites": "COMS 3001 or COMS 3002 , and  fourth-year Honours standing in Communication and Media Studies (including BPAPM related specializations),  and permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -688,7 +781,9 @@
       "credit": "0.5",
       "description": "Historical and contemporary ways in which children and youth relate to the media and popular culture.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -708,7 +803,9 @@
       "credit": "0.5",
       "description": "Critical examination of the intersection of media and gender, including constructions of femininity, masculinity, and other issues of sexuality.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -728,7 +825,9 @@
       "credit": "0.5",
       "description": "Key theories and concepts that have shaped the study of global media and its impact on popular cultures around the world.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies (including BGInS related specializations), or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -738,7 +837,9 @@
       "credit": "0.5",
       "description": "Food in and as communication. Food and identity, food and culture, food environments, food systems, food politics, and food and community development.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -748,7 +849,9 @@
       "credit": "0.5",
       "description": "How hearing and listening practices have changed over time, and the role of sound technology in shaping our understanding of each other, our world, and ourselves.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies, or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -758,7 +861,10 @@
       "credit": "0.5",
       "description": "A selected topic not ordinarily treated in the regular course program.  The choice of topic varies from year to year.  Check with the Communication and Media Studies program regarding the topic offered.",
       "prerequisites": "fourth year Honours standing in Communication and Media Studies or permission of the School of Journalism and Communication.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -768,7 +874,10 @@
       "credit": "1.0",
       "description": "The Honours Research Essay (HRE) provides eligible students with an opportunity to complete an independent research essay under the supervision of a faculty member. The HRE must be completed over two consecutive academic terms, beginning in the fall term.",
       "prerequisites": "fourth year honours standing in Communication and Media Studies (including BGInS related specializations), with a CGPA of 10.0 or higher, or permission of the Undergraduate Supervisor.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     }

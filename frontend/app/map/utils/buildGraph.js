@@ -152,6 +152,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   // ── Edges from API ────────────────────────────────────────────────────────
   const nodeIds = new Set(courseNodes.map(n => n.id))
 
+  const seenEdgeIds = new Set()
   const edgeList = (edges || [])
     .filter(e => nodeIds.has(e.source) && nodeIds.has(e.target))
     .map(e => ({
@@ -166,6 +167,11 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
         ...(e.type === 'concurrent' ? { strokeDasharray: '6,4' } : {}),
       },
     }))
+    .filter(e => {
+      if (seenEdgeIds.has(e.id)) return false
+      seenEdgeIds.add(e.id)
+      return true
+    })
 
   return {
     nodes: [...courseNodes, ...electiveNodes, ...paddingNodes],

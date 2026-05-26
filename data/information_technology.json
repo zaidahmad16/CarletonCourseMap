@@ -8,7 +8,9 @@
       "credit": "0.5",
       "description": "Introduction to the theory and techniques needed to conduct reference interviews and interpret reference queries. Students learn to select and use general reference sources such as dictionaries, encyclopedias, directories, bibliographies, periodical indexes, almanacs, and handbooks in print, and electronic formats.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "0.5",
       "description": "Introduction to the principals of collections management including techniques and procedures for selecting, ordering and receiving library materials, accounting, collection development and automated acquisitions. Students also learn policies and procedures required for circulation, document delivery and interlibrary loans.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "0.5",
       "description": "Students become familiar with fiction and non-fiction materials available to various categories of clients and learn how to market them. In addition, students further develop through various assignments their researching, writing, speaking, listening and communication skills.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +44,9 @@
       "credit": "0.5",
       "description": "Combining graphics, text, audio and video to develop websites on an individual basis and in groups, using latest versions of HyperText Markup Language(HTML), Cascading Style Sheets (CSS), JavaScript and data interchange formats such as Extensible Markup Language(XML) and JavaScript Object Notation(JSON).",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +56,9 @@
       "credit": "0.5",
       "description": "Students learn the basic theory of subject analysis and indexing methods used to provide access to library materials and literature. Practical instruction makes use of thesauri, as well as standard subject heading lists, such as Sears and Library of Congress.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +68,9 @@
       "credit": "0.5",
       "description": "The catalogue is the main finding aid to the collection of the library. Students learn the basic principles and concepts of international standards used to describe library materials. In-class exercises, lectures and practical experience help students apply these cataloguing standards.",
       "prerequisites": "restricted to students in the B.I.T. program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +80,9 @@
       "credit": "0.5",
       "description": "Students develop understanding of the concepts of information retrieval, creation, evaluation,organization and client service. Knowledge of legal and ethical implications of information and current trends in the field is studied. Through in-class lectures and hands-on activities, students gain an overview of the field.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -78,7 +92,9 @@
       "credit": "0.5",
       "description": "Students develop skills in planning and executing information searches and evaluating print and electronic resources. Students learn to locate information on selected topics, compile subject-specific annotated bibliographies and instruct library clients in the use of specialized materials and databases.",
       "prerequisites": "IRM 1002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +104,9 @@
       "credit": "0.5",
       "description": "How to interpret and apply Dewey Decimal and Library of Congress Classification systems. Also includes analysis of the subject content of materials, building notation, using tables, shelf-listing techniques and creating unique book numbers.",
       "prerequisites": "IRM 1006 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +116,9 @@
       "credit": "0.5",
       "description": "Essentials of information management in an organization including the life cycle management of files in paper and the electronic environment. This course will also cover contemporary issues in information management and digital preservation.",
       "prerequisites": "IRM 1008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -108,7 +128,9 @@
       "credit": "0.5",
       "description": "Libraries purchase and provide access to a wide variety of print and electronic resources. Building on work done in , students learn to interpret international cataloguing standards to describe more complex materials. In-class exercises, lectures and practical experience help students apply these cataloguing standards.",
       "prerequisites": "IRM 1007 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -118,7 +140,9 @@
       "credit": "0.5",
       "description": "Web-based data visualization techniques and systems. Good design practices for visualization, tools for visualization of data from a variety of fields, and programming of interactive web-based visualizations focusing on JavaScript, CSS, and related libraries.",
       "prerequisites": "IRM 1005 and BIT 1400 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -128,7 +152,9 @@
       "credit": "0.5",
       "description": "Students enhance their knowledge of print and electronic reference sources in science and technology. Students learn to compile specialized subject-specific bibliographies and assignments provide training in the use of science and technology reference sources.",
       "prerequisites": "IRM 2002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -138,7 +164,9 @@
       "credit": "0.5",
       "description": "In-depth analysis and assessment of copyright and other forms of intellectual property. Legal issues related to information technology. Topics may include privacy, surveillance and monitoring, access to information, freedom of expression, Charter and human rights issues, and security.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -148,7 +176,9 @@
       "credit": "0.5",
       "description": "Identification, selection, initiation, and organization of projects. Risk assessment, budget issues, communication, project scheduling, performance monitoring and control. Emphasis on practical techniques related to the field of information management using case studies.",
       "prerequisites": "third year standing in the Information resource management program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -158,7 +188,9 @@
       "credit": "0.5",
       "description": "Introduction to the logic and design of research. Qualitative and quantitative research methodology with emphasis on the application and interpretation of statistical techniques for data analysis. May include, but are not limited to, bivariate and multivariate analysis, distribution analysis, visual data analysis, market basket analysis.",
       "prerequisites": "BIT 2009 or equivalent.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -168,7 +200,9 @@
       "credit": "0.5",
       "description": "Students develop an understanding of key metadata schema and apply standards to describe range of digital resources. The metadata schemes include focus on Dublin Core (DC) and MODS with select coverage of specialist schema. Through in-class lectures and hands-on activities, students apply metadata schemes.",
       "prerequisites": "IRM 2005 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -178,7 +212,9 @@
       "credit": "0.5",
       "description": "Essential knowledge and skills for managing data backups in information resource management, including recovery mechanisms such as crash and failure recovery, undo and redo operations, checkpoints, and rollback or roll forward techniques. Also covers transactions for concurrency control.",
       "prerequisites": "IRM 1008 and BIT 2008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -188,7 +224,9 @@
       "credit": "0.5",
       "description": "Using skills and knowledge of automated systems already developed in introductory courses, students learn the theory and receive the hands-on practice needed to use library databases. A component on choosing and comparing library software is included.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -198,7 +236,9 @@
       "credit": "0.5",
       "description": "Principles and methods used by archivists and record managers in organizing their collections for better access and retrieval. Students also learn aspects of physical bibliography, the book trade, preservation and conservation of books and how to exhibit such material.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -218,7 +258,9 @@
       "credit": "0.5",
       "description": "Introduction to Machine Learning and Big Data Analytics. Topics include: Association Rule Mining, Classification, Clustering, Linear and Logistic Regression, Distributed File System, Batch and Stream Data Processing, and other related. Applications on other domains such as multimedia, networks, finance, and/or business.",
       "prerequisites": "IRM 3006 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -228,7 +270,9 @@
       "credit": "0.5",
       "description": "Introduction to classification and regression. Optimization, vectorization, gradient descent, cost, loss and activation functions. Introduction and basics to AI, Artificial Neural Networks, forward and backward propagation, Multi Layer Perceptron, and other types of Deep Neural Network models, their applications in multimedia, networks, finance, etc.",
       "prerequisites": "BIT 2009 and BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -238,7 +282,10 @@
       "credit": "1.0",
       "description": "Student-initiated project developed in association with a project supervisor and external information resource management advisor. Project is supported by a written report, seminar discussions and final presentation. All proposals must be approved by the IRM Program Project Committee.",
       "prerequisites": "IRM 3004 and fourth year standing in the IRM program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -248,7 +295,9 @@
       "credit": "0.5",
       "description": "Tailored for students in the Network Technology program, this course covers basic concepts in functions (polynomials, exponential, logarithmic) and introduces concepts of limits, derivatives and rules of differentiation, applications of differentiation (max-min problems, curve sketching) and integration.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -258,7 +307,9 @@
       "credit": "0.5",
       "description": "Tailored for students in the Network Technology program, this course covers systems of linear equations, vector space of n-tuples, subspaces and bases, matrix transformations, kernel, range, matrix algebra and determinants, inner products and orthogonality, eigenvalues, diagonalization and applications.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -268,7 +319,9 @@
       "credit": "0.5",
       "description": "An introductory course on energy, thermodynamics, sound and electromagnetic waves, optics, and modern physics. Practical skills are learned in the laboratory, which is a required part of the course.",
       "prerequisites": "BIT 1100 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -278,7 +331,9 @@
       "credit": "0.5",
       "description": "Students explore the possibilities ahead, assess their own aptitudes and strengths, and apply critical thinking and decision-making tools to help resolve some of the important issues in our complex society with its competing interests.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -288,7 +343,9 @@
       "credit": "0.5",
       "description": "An introductory course on energy, electrical networks (AC and DC circuits, resistance, impedance, capacitance), electrostatics (electric fields, static electricity), electromagnetism, electromagnetic waves, optics, and other topics in modern physics. Practical skills are learned in the laboratory, which is a required part of the course.",
       "prerequisites": "BIT 1000 ,Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -298,7 +355,9 @@
       "credit": "0.5",
       "description": "Tailored for students in the Interactive Multimedia Design program, this course covers basic concepts in functions (polynomials, exponential, logarithmic) and introduces concepts of limits, derivatives and rules of differentiation, applications of differentiation (max-min problems, curve sketching) and integration.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -308,7 +367,9 @@
       "credit": "0.5",
       "description": "Tailored for students in the Interactive MultiMedia Design program, this course covers systems of linear equations, vector space of n-tuples, subspaces and bases, matrix transformations, kernel, range, matrix algebra and determinants, inner products and orthogonality, eigenvalues, diagonalization and applications.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -358,7 +419,9 @@
       "credit": "0.5",
       "description": "Introduction to basic concepts of procedural programming and algorithm design in C. Topics include: basic variables, functions, operators, program control with iteration and conditionals, I/O operations, text and file processing, structures, arrays, pointers, debugging, algorithmic thinking and pseudocode, computer architecture, operating systems, and libraries.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -368,7 +431,9 @@
       "credit": "0.5",
       "description": "This course covers data analysis, introduction to probability theory, some standard discrete and continuous distributions and their application to interval estimation and significance testing, computational aspects of statistics.",
       "prerequisites": "restricted to students in the BIT degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -378,7 +443,10 @@
       "credit": "0.5",
       "description": "An overview of the most fundamental business functions. The management of people, human resources, marketing, accounting and finances, business law and operations.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -388,7 +456,9 @@
       "credit": "0.5",
       "description": "Basic problems and practices in marketing. Marketing strategies, planning, packaging, branding and promotion at the level of the individual firm; distribution channels.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -398,7 +468,9 @@
       "credit": "0.5",
       "description": "Students must choose from among a list of approved Electives at Algonquin College.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -408,7 +480,9 @@
       "credit": "0.5",
       "description": "Concepts and fundamentals of database systems. Design of relational databases, normalisation, referential integrity, structured query language (SQL), server-side scripting, organisation of multimedia content, dynamic page loading, storage and compression of media, media network considerations, digital watermarking and rights management.",
       "prerequisites": "BIT 1400 and IMD 1005 or IRM 1005 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -418,7 +492,9 @@
       "credit": "0.5",
       "description": "This course covers statistical data analysis with an emphasis on hypothesis testing including parametric tests (e.g., t-tests, ANOVA) and non-parametric tests (e.g., Kruskal-Wallis, Friedman, chi-square), correlation and linear regression. Provides an introduction to probability theory and distributions (e.g. binomial, normal).",
       "prerequisites": "Restricted to students in the BIT degree program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -438,7 +514,9 @@
       "credit": "0.5",
       "description": "Introduction to object-oriented programming and algorithm design in C++. Topics include code and data encapsulation using classes and objects, inheritance, polymorphism, object-oriented design, data and code abstraction, program efficiency, user interface objects, event-driven systems, and an introduction to linked-lists and searching.",
       "prerequisites": "BIT 1400 . Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -458,7 +536,10 @@
       "credit": "0.5",
       "description": "Independent study under the supervision of a member of the School of Information Technology, open only to students in the B.I.T. program. Students are required to obtain their supervisor's written approval prior to registration and are limited to one such course in their program.",
       "prerequisites": "permission of the School of Information Technology.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -478,7 +559,9 @@
       "credit": "0.5",
       "description": "Introduction to interactive multimedia and design, focused on the production and processes of animation, visual fx, game design and development, web design and development, and user experience/interfaces. Topics include: mark-up languages, design process/problem-solving tools, human-centered design, product development, ethics, and copyright and intellectual property.",
       "prerequisites": "Restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -488,7 +571,9 @@
       "credit": "0.5",
       "description": "Visual communication techniques commonly used to draft concepts and ideas to support scripts for film, animation, HCI, and/or game development. Topics include: storyboarding, composition, vanishing point, line quality, visual timing, perspective, depth of field, body language and life drawing. A digital drawing tablet is required.",
       "prerequisites": "IMD 1000 and IMD 1002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -498,7 +583,9 @@
       "credit": "0.5",
       "description": "Fundamentals of composition with emphasis on realistic rendering. Students learn how to execute thumbnails and design comprehensives. Topics include illustration, type, colour, texture, proximity and unity, alignment, repetition and continuity, contrast, size relationships, balance, rhythm, negative space, cropping and view selection.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -508,7 +595,9 @@
       "credit": "0.5",
       "description": "Design fundamentals using industry standard software techniques and workflow are explored. Topics include: gestalt principles, grids systems, colour, texture, raster and vector image production, and typography.  Students design for publication to output such as Web, print, and electronic book formats. Required digital drawing tablet.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -518,7 +607,9 @@
       "credit": "0.5",
       "description": "Introduction to Web development. Combining graphics, text, audio, and video to create Web sites; developing different, major working Web sites on an individual basis and in groups, using valid xHTML, cascading style sheets (CSS), JavaScript and XML structures.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -528,7 +619,9 @@
       "credit": "0.5",
       "description": "The creation, production and editing of audio and video for multimedia applications. Topics include single camera recording and capture techniques through to post-production editing. Emphasis is placed on production and operation skills while adhering to industry standard costs and deadlines.",
       "prerequisites": "IMD 1000 and IMD 1002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -538,7 +631,9 @@
       "credit": "0.5",
       "description": "Basic concepts in the design and development of computer games, including: fundamentals of production cycle, genres, gameplay and game mechanics, story and character development, level design, artificial intelligence for games, game user interface, and common development tools.",
       "prerequisites": "BIT 2400 and second-year standing in the IMD program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -548,7 +643,9 @@
       "credit": "0.5",
       "description": "Introduction to the basics of 3D computer animation. Topics include: introduction of 3D animation packages, 12 Principles of Animation, character design, character animation (walking/locomotion, motion, and poses), soft-body animation (shape interpolation and facial animation), and acting for animators.",
       "prerequisites": "BIT 1002 and second-year standing in the IMD program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -558,7 +655,9 @@
       "credit": "1.0",
       "description": "Advanced practical studio-based sessions focused on project management. Topics include: project management styles, team collaboration techniques, prototyping, project and content management, marketing, and testing/validation. The studio emphasizes the management of web design and development projects.",
       "prerequisites": "second-year standing in the IMD  program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -568,7 +667,9 @@
       "credit": "0.5",
       "description": "Technical aspects of 3D computer graphics. Homogeneous transformations, viewing pipeline, cinematography, modeling techniques (explicit and implicit), scene composition, level of detail methods, advanced lighting techniques (BRDF, IBL, subsurface-scattering), 2D/3D texturing, local/global illumination, rendering methods, and shaders.",
       "prerequisites": "BIT 1101 , BIT 2400 and IMD 3900 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -578,7 +679,9 @@
       "credit": "0.5",
       "description": "Introduction to  concepts centered on Human-Computer Interaction from hardware and software perspectives. Topics include design principles, usability principles and engineering, solving user-centred problems, device interaction, and graphical user interface design (2D and 3D interfaces).",
       "prerequisites": "BIT 2009 and third-year standing in the IMD program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -588,7 +691,9 @@
       "credit": "0.5",
       "description": "Development of interactive applications that connect the physical and virtual space. Topics include using external devices and sensor hardware, sensing objects and people, gestural input, computer vision, processing of live audio input, and networked software and devices.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -598,7 +703,9 @@
       "credit": "0.5",
       "description": "Provides students with knowledge and expertise to design and develop complex software systems and programs for common multimedia applications. Topics include: data structures, system and requirement analysis, component identification, common design patterns, and working with reusable components.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -608,7 +715,9 @@
       "credit": "1.0",
       "description": "Intermediate practical studio sessions covering the creative aspects of 3D graphics and animation. Topics include: environment and character modeling, texturing, using bump/displacement maps, advanced materials, 3D cameras, various lighting, keyframe animation, and rendering methods.",
       "prerequisites": "IMD 2007 and third-year standing in the IMD program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -618,7 +727,9 @@
       "credit": "1.0",
       "description": "Studio-based course focuses on interdisciplinary group work, and the use of reality-based/ natural-based interfaces for multiuser interaction, understanding social and environmental context in physical design, basic networking, advanced sound design, and haptic feedback.",
       "prerequisites": "third-year standing in the IMD program, IMD 2900 and IMD 3005 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -628,7 +739,9 @@
       "credit": "0.5",
       "description": "An examination of the relationship between communication technology and society. The course examines the factors that contribute to changes in the collection, storage and distribution of information and the cultural implications of these changes.",
       "prerequisites": "third-year standing in the IMD program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -648,7 +761,9 @@
       "credit": "0.5",
       "description": "Provides students with knowledge and expertise to design and develop professional computer games with advanced and novel features. Topics include: game feel, game analysis techniques, prototyping & playtesting, inclusive/accessible design, interaction design, simulations in games, procedural content generation, and game research.",
       "prerequisites": "BIT 1100 , IMD 2006 and IMD 3002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -658,7 +773,9 @@
       "credit": "0.5",
       "description": "Design, development, and evaluation of user interfaces for mobile applications. Topics include: user-centered design methods and develop mobile applications employing the various input and output capabilities available on mobiles, e.g., multi-touch, device motion/rotation, video/audio capture, vibration.",
       "prerequisites": "IMD 3004 and IMD 3006 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -668,7 +785,10 @@
       "credit": "1.5",
       "description": "Student-initiated digital media project, under the supervision of a project advisor, consisting of complete end-to-end production, from design to final product. Development will be assessed via design documents, project plans, progress presentations, culminating in a final exposition in front of a panel of industry experts.",
       "prerequisites": "IMD 2900 , IMD 3004 , IMD 3900 , IMD 3901 and fourth-year standing in the IMD program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -678,7 +798,9 @@
       "credit": "0.5",
       "description": "Construction and function of PCs. Introduces technical concepts and terminology relating to system boards, system busses, input/output devices, memory, microprocessors and peripherals. Interaction of software and hardware; data storage; performance issues.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -688,7 +810,9 @@
       "credit": "0.5",
       "description": "Foundation knowledge for computer networks and communications. Topics include basic network design, layered communications models, IP addressing and subnets, and industry standards for networking media and protocols, with an emphasis on TCP/IP protocol suite and Ethernet environments.",
       "prerequisites": "restricted to students in the B.I.T. degree program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -698,7 +822,9 @@
       "credit": "0.5",
       "description": "Introduction to routing and switching concepts including, static and dynamic routing, trunking and VLANs. Topics include configuring routers and switches and resolving common configuration and reachability issues.",
       "prerequisites": "NET 1002 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -708,7 +834,9 @@
       "credit": "0.5",
       "description": "Architecture, components and operations of routers and switches in Enterprise networks. Topics include configuration and troubleshooting of OSPF, including Multi-area, redundancy, NAT and troubleshooting techniques.",
       "prerequisites": "NET 1006 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -718,7 +846,9 @@
       "credit": "0.5",
       "description": "Introduction to the fundamentals of information transmissions systems used in physical layer of the Internet. Covers time- and frequency-domain concepts, digital and analog transmission, signal encoding, sampling, modulation, demodulation, error detection and correction. Examples: DSL, Cable modem, and wireless LAN. Includes: Experiential Learning Activity.",
       "prerequisites": "BIT 1001 and BIT 1007 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -728,7 +858,9 @@
       "credit": "0.5",
       "description": "Exposure to unifying software development (Dev) and software operation (Ops). Use of Python to monitor and automate network management tasks.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -738,7 +870,9 @@
       "credit": "0.5",
       "description": "Using Linux and Windows Server, study of the basic features such as file system, system utilities, memory management, boot process troubleshooting and UI customizations. Client-Server architecture is examined with a focus on basic Server configuration and administration. Includes: Experiential Learning Activity.",
       "prerequisites": "NET 1001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -748,7 +882,9 @@
       "credit": "0.5",
       "description": "Using Unix and Linux Operating systems, study of the command line and network Server operating environments.  Configuring Services and Protocols such as DNS, NTP, SSH, SMB, SMTP, POP3, IMAP, HTTP, and DHCP. Basic Server security using firewalls is also introduced. Includes: Experiential Learning Activity.",
       "prerequisites": "NET 2010 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -758,7 +894,9 @@
       "credit": "0.5",
       "description": "Enterprise technologies and QoS mechanisms used for networks access. Topics include virtualization, and automation concepts. Software-defined networking, controller-based architectures and how application programming interfaces (APIs) enable network automation.",
       "prerequisites": "NET 2000 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -768,7 +906,9 @@
       "credit": "0.5",
       "description": "Introduction to the design and implementation of digital circuits and microprocessors. Topics include: binary numbers and arithmetic, fundamentals of boolean algebra, combinational circuits, sequential circuits, computer architecture and organization: CPU, cache, memory, input/output, bus structures, interrupts, computer arithmetic, CPU assembly instruction sets.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -778,7 +918,9 @@
       "credit": "0.5",
       "description": "Concepts and fundamentals of relational database systems. Students learn how to design relational databases starting from a conceptual data model, following accepted logical and physical design principles. Topics include normalisation, referential integrity, SQL, DDL and SQL DML &amp; ODBC and data extraction/filtering techniques.",
       "prerequisites": "second-year standing in the Networking program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -788,7 +930,9 @@
       "credit": "0.5",
       "description": "Principles of event-driven systems, review of computer organization; parallel and serial interfaces; programmable timer; I/O methods; polling and interrupts. Real-time kernels. Critical design consideration: concurrency, dead lock, synchronization. Maintaining and improving system performance. Programming exercises in low and high level languages.",
       "prerequisites": "NET 2013 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -798,7 +942,9 @@
       "credit": "0.5",
       "description": "Specification and design of abstract data types and their implementation as stacks, queues, trees, tables and graphs. Common and useful examples. Parsing and finite state machines. Analysis of algorithms, recursion, re-entrance. Special focus: abstraction, interface specification and hierarchical design using object-oriented programming.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -808,7 +954,9 @@
       "credit": "0.5",
       "description": "Key network management models, protocols, and standards (such as SNMP, NETCONF, NetFlow). Introduction to machine learning (topics may include decision trees, numerical computations for learning, deep feedforward networks, etc.) and its application in network management. Security issues in networking management.",
       "prerequisites": "BIT 2000 , NET 3000 and NET 3004 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -818,7 +966,9 @@
       "credit": "0.5",
       "description": "Basics of network security. Students are introduced to the goals of IT security, common threats and countermeasures including firewalls, intrusion detection and prevention systems (IDPS) and virtual private networks. Several operating environments will be studied as examples. Also includes a section on computer ethics.",
       "prerequisites": "NET 2012 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -828,7 +978,9 @@
       "credit": "0.5",
       "description": "Routing IP at the enterprise level, within and between, autonomous systems. Advanced control and optimization of routing protocols and manipulation of traffic paths with multiple routing protocols. Working knowledge of Internet reachability via BGP.",
       "prerequisites": "NET 2012 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -838,7 +990,9 @@
       "credit": "0.5",
       "description": "Architectures, protocols, and languages used to develop dynamic Web content, including Hypertext Markup and Hypertext Formatting Languages (HTML, XML, CSS), Universal Resource Identifiers (URI), and the Hypertext Transport Protocol (HTTP). JavaScript and PHP are used to model cross-platform web programming.",
       "prerequisites": "BIT 2400 , NET 3000 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -848,7 +1002,9 @@
       "credit": "0.5",
       "description": "VLANs and inter-VLAN routing in a multilayer switched environment. Variants of STP and the use of related enhancements. Techniques for network redundancy and load balancing. Securing a switched infrastructure. Architectures and techniques for delivering converged traffic in an enterprise environment.",
       "prerequisites": "NET 2012 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -858,7 +1014,9 @@
       "credit": "0.5",
       "description": "An exploration of various deployment options that can be implemented atop an IP network core. The focus is on technologies including MPLS and Segment Routing that serve to enhance IP service delivery and connectivity leveraging the IP infrastructure. Includes Layer 2 and 3 tunneling techniques.",
       "prerequisites": "NET 3008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -868,7 +1026,9 @@
       "credit": "0.5",
       "description": "Design and configuration of Wi-Fi networks as used in commercial and enterprise venues. Topics include 802.11 family of protocols, wireless transmission, RF design, security methods and protocols, and system design. Topologies include campus, bridge and remote access.",
       "prerequisites": "NET 2007 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -878,7 +1038,9 @@
       "credit": "0.5",
       "description": "Overview of technologies, protocols and techniques related to Information Technology networking that are either in their early stage of adoption or are not yet mainstream (i.e. beta or prototype stage). Focus will vary from year to year to reflect the evolutionary nature of this domain.",
       "prerequisites": "fourth-year standing in the Networking  program or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -888,7 +1050,9 @@
       "credit": "0.5",
       "description": "Introduction to discrete event simulation and network modeling; fundamental stochastic models for networking; introduction to queueing theory; random numbers; analysis of simulation data; confidence intervals. Use of different software tools to plan and perform simulations.",
       "prerequisites": "BIT 2000 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -898,7 +1062,9 @@
       "credit": "0.5",
       "description": "Architectures for computing in modern data networks that adopt the Internet architecture. Topics covered include socket programming, RPC and RMI. Client-server and peer-to-peer models. Emerging application architectures.",
       "prerequisites": "NET 3004 and NET 3010 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -908,7 +1074,9 @@
       "credit": "0.5",
       "description": "Audio and video compression. H.261, JPEG, MPEG and DVI. Accessing audio and video from a web server. Real Time Streaming Protocol (RTSP). Multimedia operating systems. Multimedia database. Network support for multimedia applications. Multimedia synchronization.",
       "prerequisites": "fourth-year standing in Networking program or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -918,7 +1086,9 @@
       "credit": "0.5",
       "description": "Integrates planned maintenance and troubleshooting techniques, including, tools, applications and formalized methodologies. Study of issues in focused areas (such as routed vs. switched environments, addressing services, performance, security, VPN), culminating in problem resolution throughout a complex enterprise network.",
       "prerequisites": "NET 3011 , NET 3008 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -928,7 +1098,9 @@
       "credit": "0.5",
       "description": "The concept, principle and rationale of mobile networking. Mobile network architecture, protocols, mobility management, routing and mobile TCP/IP; Security challenges, vulnerabilities and threats in mobile networks; Security defense techniques and countermeasures in mobile networks.",
       "prerequisites": "fourth-year standing in Networking program or permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -938,7 +1110,9 @@
       "credit": "0.5",
       "description": "Understanding classes of advanced attacks. Building secure networks. Adversarial Machine Learning. Security in clouds, virtualized networks, and IoT. Understanding impact of OS and software security issues. Security in next generation networks such as 5G.",
       "prerequisites": "NET 3007 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -948,7 +1122,9 @@
       "credit": "0.5",
       "description": "The basics of cloud computing and its driving technology behind: virtualization. Topics include how virtual machines and containers are deployed and orchestrated; how various resources and networks are virtualized and managed; hypervisor technology; virtual network management and micro-segmentation; cloud service provisioning; cloud security.",
       "prerequisites": "NET 2013 , NET 3006 , and NET 3008 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -958,7 +1134,10 @@
       "credit": "1.0",
       "description": "This course provides the opportunity to apply knowledge gained in previous courses towards the design and implementation of a major Networking related project. Working in teams or as individuals under the direction of faculty members, students undertake projects internally or in collaboration with industry.",
       "prerequisites": "fourth-year standing in the Networking program.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -1088,7 +1267,9 @@
       "credit": "0.5",
       "description": "Operation, management and maintenance of metro/long-haul optical network elements and systems. Hands-on skills using GUI, Transaction Language One (TL1), optical network management to perform: alarm provisioning, line and path protection switching, security, data communications management, optical network backup and restore, load upgrade and installation management.",
       "prerequisites": "OSS 2002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1098,7 +1279,9 @@
       "credit": "0.5",
       "description": "Principles of event-driven systems, review of computer organization; parallel and serial interfaces; programmable timer; I/O methods; polling and interrupts. Real-time kernels. Critical design consideration: concurrency, dead lock, synchronization. Maintaining and improving system performance. Programming exercises in low and high level languages.",
       "prerequisites": "OSS 2009 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1108,7 +1291,9 @@
       "credit": "0.5",
       "description": "Optical ray-tracing for analysing systems of sources, lenses, mirrors, prisms, fibers, diffractive elements, MEMS. Zemax\u00ae fundamentals, pupils, aspherics, non-sequential tracing, aberrations, image metrics, optimization/merit functions. Applications: imaging, illumination, lasers. Trade-offs, mechanical constraints, tolerances and cost. Physical optics modeling of bean propagation. Near-field diffraction and waveguides.",
       "prerequisites": "OSS 1003 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1118,7 +1303,9 @@
       "credit": "0.5",
       "description": "Review of basic vector calculus followed by an introduction to electrostatics and magnetostatics. Maxwell's equations and EM wave solutions. EM waves in dielectrics media, reflection, refraction, Fresnel relations and Brewster angle. Introduction to guided waves emphasizing slab waveguides.",
       "prerequisites": "BIT 1204 and BIT 2010 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1128,7 +1315,9 @@
       "credit": "0.5",
       "description": "Specification and design of abstract data types and their implementation as stacks, queues, trees, tables and graphs. Common and useful examples. Parsing and finite state machines. Analysis of algorithms, recursion, re-entrance. Special focus: abstraction, interface specification and hierarchical design using object-oriented programming.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1138,7 +1327,9 @@
       "credit": "0.5",
       "description": "Identification, selection, initiation, and organization of projects. Risk assessment, budget issues, communication, project scheduling, performance monitoring and control. Emphasis on practical techniques related to the field of photonics using case studies.",
       "prerequisites": "third year standing in the Optical Systems and Sensors program.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -1148,7 +1339,9 @@
       "credit": "0.5",
       "description": "Operations-related topics including: sampling/reconstruction of continuous time signals, Fourier and Z-transforms, Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT). Examination of other time and frequency domain techniques for designing and applying infinite impulse response (IIR) and finite impulse response (FIR) digital filters.",
       "prerequisites": "OSS 2010 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1158,7 +1351,9 @@
       "credit": "0.5",
       "description": "Provides students with knowledge and expertise to design and develop complex software systems and programs for common optical systems and sensors using Python. Topics include: system and requirement analysis, algorithms, component identification, common design patterns, and working with reusable components.",
       "prerequisites": "BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1168,7 +1363,9 @@
       "credit": "0.5",
       "description": "Analysis of guided-wave propagation and sensors. Topics include Maxwell\u2019s time-dependent wave equations, dielectric waveguides (slab, planar, segmented, rib, strip), optical fibres (modes, dispersion relations, propagation in dispersive media, nonlinear fibres), beam propagation methods, free space beam propagation, waveguide devices, and study of sensors technology.",
       "prerequisites": "OSS 3003 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1178,7 +1375,9 @@
       "credit": "0.5",
       "description": "This course delves deep into advanced opto-electronics devices, sensing systems, emphasizing emerging technologies. Topics: semiconductors, semiconductor lasers, detectors, photovoltaics, fiber sensors, amplifiers, and modulation. It integrates smart sensor systems and optical sensors with algorithms for analysis in various applications. Students participate in hands-on laboratory experiences.",
       "prerequisites": "OSS 2009 and OSS3013.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1188,7 +1387,9 @@
       "credit": "0.5",
       "description": "Biological and medical photonics. Effect of light on biological systems, medical imaging, medical treatments, biological research and bio/medical applications. Laser manipulation of cells, laser surgery, and photo-therapy. Biophotonic lab experiments with scanning confocal microscopes, endoscopes , DNA scanners.",
       "prerequisites": "OSS 3003 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1198,7 +1399,9 @@
       "credit": "0.5",
       "description": "Introduction to classification and regression. Optimization, vectorization, gradient descent, cost, loss and activation functions. Introduction and basics to AI, Artificial Neural Networks, forward and backward propagation, Multi Layer Perceptron, and other types of Deep Neural Network models, their applications in multimedia, networks, finance, etc.",
       "prerequisites": "BIT 2000 and BIT 2400 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1208,7 +1411,9 @@
       "credit": "0.5",
       "description": "Developing and evaluating algorithms for extracting the necessary information signals. Topics include filter design, fast transforms, adaptive filters, spectrum estimation and modeling, sensor array processing, image processing, motion estimation from images, applications in biomed, computer-aided tomography, image restoration, robotic vision, and pattern recognition.",
       "prerequisites": "BIT 2400 and OSS 3012 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1218,7 +1423,9 @@
       "credit": "0.5",
       "description": "Introduction to the basics of remote sensing, characteristics of remote sensors, and applications. Topics include: image acquisition and data collection, LIDAR sensors and platforms and derived digital products, imagery analysis, topographic mapping, and 3D modeling of urban infrastructure for autonomous vehicles.",
       "prerequisites": "OSS 3014 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1228,7 +1435,9 @@
       "credit": "0.5",
       "description": "Introduction to topics in computer vision, including: fundamentals of image formation, camera imaging geometry, f camera models, camera calibration, structure from motion, feature detection and matching, depth and stereo, image stabilization, image classification, automated alignment, scene understanding, recognition, and image searching.",
       "prerequisites": "OSS 4006 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -1238,7 +1447,10 @@
       "credit": "1.0",
       "description": "Research project develops students' ability to direct own learning and pursue advanced study in variety of subjects. Select topic, perform literature search, theoretical background, preliminary measurements, calculations, and design. Present findings in a preliminary thesis. Encourage writing technical papers. Research opportunities with industry and academia.",
       "prerequisites": "fourth-year standing.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }

@@ -8,7 +8,9 @@
       "credit": "0.5",
       "description": "Overview of the food industry. Production, processing, product development, packaging, chemistry, analysis, microbiology. Elements risk assessment, policy making and regulation.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "0.5",
       "description": "Roles of nutrients, lipids, proteins, carbohydrates, fluids and electrolytes. Digestion, absorption, transport, energy metabolism. Disorders including diabetes, cardiovascular disease and osteoporosis. Nutrition through the life cycle.",
       "prerequisites": "CHEM 1002 , BIOL 1103 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +62,9 @@
       "credit": "0.5",
       "description": "Chemistry of the major components of foods such as proteins, lipids, carbohydrates and of the minor components such as enzymes, vitamins and various additives and their relationships to food stability and degradation.",
       "prerequisites": "FOOD 1001 , FOOD 2001 , CHEM 2204 , BIOC 2200 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +74,9 @@
       "credit": "0.5",
       "description": "In-depth principles and practices of food proximate analysis. Introductory concepts of food adulteration and detection. Major techniques such as chromatography, colorimetry, spectroscopy, rheology.",
       "prerequisites": "FOOD 3001 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +96,9 @@
       "credit": "0.5",
       "description": "Foodborne diseases, microbial growth and survival, food spoilage, food fermentation. Techniques for detecting and quantifying microorganisms in foods.",
       "prerequisites": "FOOD 1001 , FOOD 2001 , BIOL 2303 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +108,9 @@
       "credit": "0.5",
       "description": "Food processing and upcycling in the context of sustainable food systems. Case studies to assess social, economic, and environmental impacts of food processing and upcycling on communities and the food industry. Transdisciplinary perspectives to propose a food rescue product.",
       "prerequisites": "third year standing in a BSc or BHSc program.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -118,7 +130,9 @@
       "credit": "0.5",
       "description": "Factors affecting quality in manufacturing and processing of foods and principles of quality control and quality assurance. Sampling plans and statistical methods. Applications of physical, chemical, biological and microbiological tests in quality control. Quality systems and standards.",
       "prerequisites": "FOOD 2002 , FOOD 2003 , and third or fourth year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -148,7 +162,9 @@
       "credit": "0.5",
       "description": "The role of risk management in providing science-based approaches to solving food safety problems. Risk management models and practical applications in critical risk management. An examination of actual risk assessments. Risk communication is addressed.",
       "prerequisites": "BIOC 3101 , and third or fourth-year standing.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -198,7 +214,10 @@
       "credit": "1.0",
       "description": "Students conduct an independent research study using library resources, and prepare a critical review and study proposal on a topic approved by a faculty supervisor. A written report and an oral poster presentation of the work are required before a grade can be assigned.",
       "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -208,7 +227,10 @@
       "credit": "1.0",
       "description": "Students in Food Science carry out a research project under the direction of a faculty member. A written report and an oral presentation of the work are required before a grade can be assigned.",
       "prerequisites": "Fourth-year standing in the Food Science program, a minimum of 1.5 credits in FOOD at the 3000 level, minimum Major CGPA of 8.0, and permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }

@@ -42,16 +42,13 @@ PROGRAMS = {
     "Greek and Roman Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/greekandromanstudies/",
     "Health Sciences": "https://calendar.carleton.ca/undergrad/undergradprograms/healthsciences/",
     "History": "https://calendar.carleton.ca/undergrad/undergradprograms/history/",
-    "Human Rights and Social Justice": "https://calendar.carleton.ca/undergrad/undergradprograms/humanrights/",
     "Humanities": "https://calendar.carleton.ca/undergrad/undergradprograms/humanities/",
     "Indigenous Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/indigenousstudies/",
     "Industrial Design": "https://calendar.carleton.ca/undergrad/undergradprograms/industrialdesign/",
     "Information Technology": "https://calendar.carleton.ca/undergrad/undergradprograms/informationtechnology/",
-    "Integrated Science": "https://calendar.carleton.ca/undergrad/undergradprograms/integratedscience/",
     "International Business": "https://calendar.carleton.ca/undergrad/undergradprograms/business/#Bachelor_of_International_Business__Honours",
     "Journalism": "https://calendar.carleton.ca/undergrad/undergradprograms/journalism/",
     "Journalism and Humanities": "https://calendar.carleton.ca/undergrad/undergradprograms/journalismandhumanities/",
-    "Latin American and Caribbean Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/latinamericanandcaribbeanstudies/",
     "Law": "https://calendar.carleton.ca/undergrad/undergradprograms/law/",
     "Linguistics (B.A.)": "https://calendar.carleton.ca/undergrad/undergradprograms/linguistics-ba/",
     "Linguistics (B.Sc.)": "https://calendar.carleton.ca/undergrad/undergradprograms/linguistics-bsc/",
@@ -69,7 +66,6 @@ PROGRAMS = {
     "Religion": "https://calendar.carleton.ca/undergrad/undergradprograms/religion/",
     "Social Work": "https://calendar.carleton.ca/undergrad/undergradprograms/socialwork/",
     "Sociology": "https://calendar.carleton.ca/undergrad/undergradprograms/sociology/",
-    "Women's and Gender Studies": "https://calendar.carleton.ca/undergrad/undergradprograms/womensandgenderstudies/",
 }
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CarletonCourseMapBot/1.0)"}
@@ -416,6 +412,11 @@ def scrape_program_requirements(soup):
 
         if not degree:
             continue  # category or ancillary table — skip
+
+        # skip pure note/annotation tables — first row is a comment with no areaheader anywhere
+        if (table.find("tr") and table.find("tr").select_one(".courselistcomment")
+                and not table.select_one("tr.areaheader")):
+            continue
 
         requirements = _parse_sc_courselist(table)
         if not requirements:

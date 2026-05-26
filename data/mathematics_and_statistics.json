@@ -1724,68 +1724,6 @@
       ]
     },
     {
-      "degree": "Mathematics with Concentration in Stochastics B. Math. Honours (20.0 credits)",
-      "requirements": [
-        {
-          "type": "required",
-          "courses": [
-            "MATH 3001"
-          ],
-          "credits": 0.5,
-          "description": "Real Analysis I (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 3008"
-          ],
-          "credits": 0.5,
-          "description": "Ordinary Differential Equations (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3506"
-          ],
-          "credits": 0.5,
-          "description": "Stochastic Processes and Applications (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3558"
-          ],
-          "credits": 0.5,
-          "description": "Elements of Probability Theory (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3559"
-          ],
-          "credits": 0.5,
-          "description": "Mathematical Statistics (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 4501"
-          ],
-          "credits": 0.5,
-          "description": "Probability Theory (Honours)"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "STAT 3553",
-            "MATH 3801"
-          ],
-          "credits": 0.5,
-          "description": "0.5 credit from:"
-        }
-      ]
-    },
-    {
       "degree": "Computational and Applied Mathematics and Statistics with Concentration B.Math. Honours (20.0 credits)",
       "requirements": [
         {
@@ -3687,46 +3625,6 @@
         {
           "type": "required",
           "courses": [
-            "MATH 2001"
-          ],
-          "credits": 0.5,
-          "description": "Multivariable Calculus and Fundamentals of Analysis I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2002"
-          ],
-          "credits": 0.5,
-          "description": "Multivariable Calculus and Fundamentals of Analysis II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2100"
-          ],
-          "credits": 1.0,
-          "description": "Algebra"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2454"
-          ],
-          "credits": 0.5,
-          "description": "Ordinary Differential Equations (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 2655"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Probability with Applications (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
             "MATH 1052"
           ],
           "credits": 0.5,
@@ -4559,137 +4457,6 @@
           ],
           "credits": 0.5,
           "description": "0.5 credit from:"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 1052"
-          ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 1152"
-          ],
-          "credits": 0.5,
-          "description": "Introductory Algebra I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 1800"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Mathematical Reasoning"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2001"
-          ],
-          "credits": 0.5,
-          "description": "Multivariable Calculus and Fundamentals of Analysis I"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2002"
-          ],
-          "credits": 0.5,
-          "description": "Multivariable Calculus and Fundamentals of Analysis II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2052"
-          ],
-          "credits": 0.5,
-          "description": "Calculus and Introductory Analysis II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2100"
-          ],
-          "credits": 1.0,
-          "description": "Algebra"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2152"
-          ],
-          "credits": 0.5,
-          "description": "Introductory Algebra II"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 2454"
-          ],
-          "credits": 0.5,
-          "description": "Ordinary Differential Equations (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 2559"
-          ],
-          "credits": 0.5,
-          "description": "Basics of Statistical Modeling (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 2655"
-          ],
-          "credits": 0.5,
-          "description": "Introduction to Probability with Applications (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "MATH 3001"
-          ],
-          "credits": 0.5,
-          "description": "Real Analysis I (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3506"
-          ],
-          "credits": 0.5,
-          "description": "Stochastic Processes and Applications (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3558"
-          ],
-          "credits": 0.5,
-          "description": "Elements of Probability Theory (Honours)"
-        },
-        {
-          "type": "required",
-          "courses": [
-            "STAT 3559"
-          ],
-          "credits": 0.5,
-          "description": "Mathematical Statistics (Honours)"
-        },
-        {
-          "type": "choose",
-          "courses": [
-            "MATH 3002",
-            "MATH 3003",
-            "MATH 3057",
-            "MATH 3008"
-          ],
-          "credits": 0.5,
-          "description": "0.5 credit from:"
         }
       ]
     },
@@ -4823,20 +4590,6 @@
           ],
           "credits": 0.5,
           "description": "Mathematical Statistics (Honours)"
-        }
-      ]
-    },
-    {
-      "degree": "Graduate Portion - M.Sc.",
-      "requirements": [
-        {
-          "type": "elective",
-          "courses": [
-            "MATH 4905",
-            "STAT 4905"
-          ],
-          "credits": 1.5,
-          "description": "MATH 4905 or STAT 4905 and 1.5 credits in MATH or STAT at the 5000-level or higher"
         }
       ]
     },

@@ -8,7 +8,9 @@
       "credit": "0.5",
       "description": "Introduction to what comprises a healthy body and mind, and what leads to illness and disease. Biomedical, psychosocial, and epidemiological approaches to current issues in the field of health. Policy and cultural/environmental contexts.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +30,9 @@
       "credit": "0.5",
       "description": "Introduction to using library, database and/or bioinformatics resources to develop informed verbal, non-verbal and written communication within the context of healthcare, public health and health research. Concepts in ethical scholarship, proper use of sources and plagiarism will be introduced.",
       "prerequisites": "",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +42,9 @@
       "credit": "0.5",
       "description": "An introduction to quantitative and qualitative methods and designs in health sciences research. Basic research skills will also be provided, including regulatory aspects of conducting research, information literacy skills, evaluating published research and other sources of evidence in the digital age.",
       "prerequisites": "HLTH 1000 or HLTH 1001 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -48,7 +54,9 @@
       "credit": "0.5",
       "description": "Introduction to the causes, natural history, and pathophysiology of common human diseases of various organ systems. Diseases related to structural and functional changes at the molecular, cellular and organ level.",
       "prerequisites": "HLTH 1000 and BIOL 1103 or HLTH 2020 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -58,7 +66,9 @@
       "credit": "0.5",
       "description": "Overview of the social determinants of health, ranging from early life experiences, poverty, social status, migration, and the physical environment. The relation between social determinants and environmental vulnerabilities, health behaviours, illness prevalence, treatment outcomes, and access to health care.",
       "prerequisites": "HLTH 1000 or HLTH 1001 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -68,7 +78,9 @@
       "credit": "0.5",
       "description": "Introduction to the pathogenic microorganisms, including fungal, bacterial, viral and prion. Biochemical, genetic, pathological and epidemiological aspects in the human context; their interaction with host defense systems and strategies for antibiotic and vaccine development.",
       "prerequisites": "HLTH 1000 and BIOL 1103 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -88,7 +100,9 @@
       "credit": "0.5",
       "description": "Introduction to pathogenic microorganisms, including fugal, bacterial, viral and prion.  Biochemical, genetic, pathological and epidemiological aspects in the human context; their interaction with host defense systems and strategies for antibiotic and vaccine development.",
       "prerequisites": "HLTH 1000 or HLTH 1001 or permission of the department - Not for Health Sciences major students.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -98,7 +112,9 @@
       "credit": "0.5",
       "description": "Statistics concepts and procedures used in the analysis of health data; techniques commonly used to analyze data collected from different types of epidemiological and experimental study designs; how to use statistical software, and how to interpret and present statistical findings.",
       "prerequisites": "HLTH 1000 and STAT 2507 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -108,7 +124,10 @@
       "credit": "0.5",
       "description": "Independent study, open to second year and above. Students can explore a particular health-related topic in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "Second year standing and above.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 2,
       "concurrent_prerequisites": []
     },
@@ -118,7 +137,9 @@
       "credit": "0.5",
       "description": "Overview of issues in global health with focus on low- and middle-income countries. Key indicators and determinants of global health, implementation and evaluation of global programs, challenges of research and interventions in under served areas, and key players in addressing global health issues.",
       "prerequisites": "HLTH 2001 and HLTH 2003 , or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -148,7 +169,9 @@
       "credit": "0.5",
       "description": "The general principles of health regulatory policies in Canada. The role of scientific evidence in developing legislation and regulations at different levels, including probable levels of risk, standards of evidence, cost-benefit analysis, ethical considerations, psychosocial factors influencing risk management and compliance, and evolving technologies.",
       "prerequisites": "HLTH 1000 or HLTH 1001 , or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -158,7 +181,9 @@
       "credit": "0.5",
       "description": "Basic concepts of epidemiologic study designs and measures; inferences that are fundamental to the identification of causes and prevalence of diseases. Specialized issues within epidemiology including gene-environment interactions and the clustering of specific disease phenotypes.",
       "prerequisites": "STAT 2507 and HLTH 2001 , or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -168,7 +193,9 @@
       "credit": "0.5",
       "description": "Basic processes relevant to the immune system; the relationship between immune activity and functioning as related to the development of particular pathologies, such as virally-related illness, autoimmune disorders, inflammatory illnesses, and interactions with social and economic factors that promote immune-related disturbances.",
       "prerequisites": "HLTH 2002 and BIOL 2200 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -178,7 +205,9 @@
       "credit": "0.5",
       "description": "Advanced concepts in cell signaling and function, cell injury and death, tissue structure and wound healing and repair. This course will integrate genetic, biochemical and physiological mechanisms that contribute to health and disease.",
       "prerequisites": "HLTH 2002 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -188,7 +217,9 @@
       "credit": "0.5",
       "description": "Basic processes relevant to the immune system; the relationship between immune activity and functioning as related to the development of particular pathologies, such as virally-related illness, autoimmune disorders, inflammatory illnesses and interactions with social and economic factors that promote immune-related disturbances. Non-Health Science Majors only.",
       "prerequisites": "HLTH 2002 and BIOL 2200 , or permission of the department. Not open to Health Science students.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -198,7 +229,9 @@
       "credit": "0.5",
       "description": "Epidemiological, psychological and physiological basis for disease in childhood and adolescence. Topics will be discussed from a global and Canadian perspective and include the medicalization of these diseases.",
       "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -228,7 +261,9 @@
       "credit": "0.5",
       "description": "The psychosocial and biological mechanisms that interact to influence health outcomes. Cultural, political, socioeconomic, and psychological factors that can impact the biological mechanisms underlying both mental and physical health; epigenetic and genetic alterations; implications for psychosocial interventions.",
       "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -238,7 +273,9 @@
       "credit": "0.5",
       "description": "An interdisciplinary view of disability and chronic health conditions, including risk factors, prevalence, and the trajectory of such conditions. Functional impact based on life stage. Strategies for health promotion, prevention, accommodations, treatment, and rehabilitation.",
       "prerequisites": "HLTH 2002 and HLTH 2003 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -248,7 +285,9 @@
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences. They provide the opportunity to bring together knowledge from other courses, and for skills development including teamwork, communication and critical thinking.",
       "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -258,7 +297,9 @@
       "credit": "0.5",
       "description": "These courses enable students to develop an understanding of the current state of research and practice in Health Sciences.  They provide the opportunity to bring together knowledge from other courses and for skills development, including teamwork, communication and critical thinking.",
       "prerequisites": "third-year standing and above in the BHSc program, an overall CGPA of at least 8.5 and permission of the Department of Health Sciences.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": 3,
       "concurrent_prerequisites": []
     },
@@ -318,7 +359,9 @@
       "credit": "0.5",
       "description": "Introduction to concepts, principles and processes of evaluating health care programs and interventions. Methodological tools including needs assessment, project management skills, use of health information management databases. Issues in communication with stakeholders, including change management and decision making.",
       "prerequisites": "HLTH 2001 and STAT 2507 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -338,7 +381,9 @@
       "credit": "0.5",
       "description": "Factors that influence disease processes, including viruses, bacteria, protozoa, fungi and infectious agents, how these agents come to have the effects that they do in a given individual, how they spread within and how to limit their spread.",
       "prerequisites": "HLTH 2004 and HLTH 3302 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -378,7 +423,9 @@
       "credit": "0.5",
       "description": "The integrated genetic, physiologic and environmental events occurring in early life that impact pregnancy, fetal/infant development and disease risk throughout the lifecourse, with a focus on the mechanisms driving these events.",
       "prerequisites": "HLTH 2003 and HLTH 3302 or permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -388,7 +435,9 @@
       "credit": "0.5",
       "description": "The role of gender on psychosocial and biological mechanisms that alter the course of disease and treatment; health issues unique to women (e.g., reproductive and maternal health); the role of gender across cultures.",
       "prerequisites": "HLTH 3101 .",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -398,7 +447,9 @@
       "credit": "0.5",
       "description": "Congenital and acquired disabilities related to sensory organs and processes, including visual and hearing impairments, vestibular and balance disorders, reflex problems, and others. Interdisciplinary approach to causes, mechanisms, accessibility, accommodations and interventions.",
       "prerequisites": "Either 1) HLTH 3503 and ( BIOL 2005 or BIOL 3305 or BIOL 3306 ), or 2) NEUR 3206 , or 3) permission of the department.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -428,7 +479,9 @@
       "credit": "0.5",
       "description": "The application of knowledge translation in the formulation of policy and the development of skills required to maximize the impact of scientific findings through real world programs and policies and communication skills for diverse audiences.",
       "prerequisites": "fourth-year standing and permission of the Department of Health Science and permission of the instructor.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -438,7 +491,10 @@
       "credit": "0.5",
       "description": "Independent study, open to third- and fourth-year students to explore a particular health related topic, in consultation with a Faculty supervisor. May include directed reading, written assignments, tutorials, laboratory or field work.",
       "prerequisites": "third- or fourth-year standing in the B.H.Sc. program, in addition to permission of the Faculty supervisor and the Department of Health Sciences.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -448,7 +504,10 @@
       "credit": "1.0",
       "description": "Independent critical review and research proposal on a health- related topic, using library, database and/or bioinformatics resources, under the supervision of the course instructor. Seminar topics include identification and critical review of resources, development of scientific writing skills, and formulation of health science-related research.",
       "prerequisites": "fourth-year standing in the B.H.Sc. Honours and permission of the Department of Health Sciences.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -468,7 +527,10 @@
       "credit": "1.0",
       "description": "Field placement providing practical experience in a health-related field. Placements may be in institutional or community settings, governmental or non-governmental organizations. Sites may vary each year. Evaluation based on a written report and an oral presentation.",
       "prerequisites": "fourth-year standing in B.H.Sc. Honours; and one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 ; and a minimum Overall and Major CGPA of 9.0; and permission of the Department of Health Sciences.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     },
@@ -478,7 +540,10 @@
       "credit": "1.0",
       "description": "An independent health related research project under the direct supervision of a faculty member. Evaluation will be based on a written thesis and oral poster presentation (oral or poster).",
       "prerequisites": "fourth-year standing in B.Sc. Honours Health Sciences, one of HLTH 3901 , HLTH 3902 , HLTH 3903 , HLTH 3904 or HLTH 3905 , a major CGPA of at least 10.0, and permission of the Faculty advisor and the Department of Health Sciences. Permission will depend, in part, on capacity, such that meeting the minimum requirements does not guarantee enrollment in this research thesis course.",
-      "offerings": [],
+      "offerings": [
+        "fall",
+        "winter"
+      ],
       "year_standing": 4,
       "concurrent_prerequisites": []
     }

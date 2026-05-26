@@ -8,7 +8,9 @@
       "credit": "0.5",
       "description": "Introduction to formulating statistical problems and analyzing data using open-source software. Graphical and numerical descriptives. combinatorial formulae, Bayes' Theorem, probability, Discrete and continuous distributions, means and variances. Point and interval estimates, and hypothesis tests for one- and two-samples using Central Limit Theorem, and permutation tests.",
       "prerequisites": "An Ontario Grade 12 university-preparation Mathematics or equivalent, or permission of the Institute for Data Science.",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -18,7 +20,9 @@
       "credit": "0.5",
       "description": "Introduction to modelling real phenomena from planning data collection or gathering observational data to analyzing and providing insights. Topics include experimental design from first principles and simulating the data generating process, linear regression and correlation, one- and two-way Analysis of Variance using open-source statistical software.",
       "prerequisites": "DATA 1517 or ( STAT 1500 and STAT 2507 ) or ( STAT 1500 and STAT 2655 ) or ( STAT 1500 and STAT 3502 ); or permission of the Institute for Data Science.",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -28,7 +32,9 @@
       "credit": "0.5",
       "description": "Reproducible workflows from acquisition, to cleaning, manipulation, and visualization. Data are acquired from databases, APIs, and web scraping. Cleaning and manipulating Numeric, categorical, date, and text data are introduced including regular expressions. Data visualization and report generation using dynamic tools are emphasized.",
       "prerequisites": "( COMP 1005 or COMP 1405 ), STAT 1500 , and one of ( DATA 1517 , STAT 2507 , or STAT 2655 ).",
-      "offerings": [],
+      "offerings": [
+        "fall"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },
@@ -38,7 +44,9 @@
       "credit": "0.5",
       "description": "Technical communication and data visualization skills for data science majors, concentrating on writing and orally presenting scientific papers and technical reports. Principles of clarity and precision in writing and oral communication. Practical exercises and readings from recent technical publications will be used.",
       "prerequisites": "DATA 1517 or STAT 2507 or STAT 2559 .",
-      "offerings": [],
+      "offerings": [
+        "winter"
+      ],
       "year_standing": null,
       "concurrent_prerequisites": []
     },

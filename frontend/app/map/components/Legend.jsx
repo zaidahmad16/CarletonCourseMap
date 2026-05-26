@@ -1,4 +1,4 @@
-/* Hallmark · component: Legend · genre: modern-minimal · theme: custom (Carleton) */
+/* legend strip showing edge and node color meanings */
 
 export const Legend = ({ degree }) => (
   <div style={{

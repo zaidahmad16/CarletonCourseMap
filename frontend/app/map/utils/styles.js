@@ -1,4 +1,4 @@
-/* Hallmark · custom (Carleton) · course-type border + background tokens */
+/* returns border and background styles based on course type */
 
 export const getNodeStyle = (code = '', credit) => {
   if (['MATH', 'STAT', 'PHYS', 'CHEM'].some(p => code.startsWith(p)))

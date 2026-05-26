@@ -1,7 +1,4 @@
-/* Hallmark · component: CoursePanel · genre: modern-minimal · theme: custom (Carleton)
- * states: closed (off-screen right) · open (slides in) · close button hover/focus/active
- * animation: transform translateX — panel always in DOM, slides on/off screen
- */
+/* course detail panel, always in the DOM and slides in from the right */
 
 export const CoursePanel = ({ node, onClose }) => {
   const isOpen = node != null && !node.data?.isElective
@@ -9,8 +6,7 @@ export const CoursePanel = ({ node, onClose }) => {
   const { code, name, description, credit, prerequisites, offerings } =
     isOpen ? node.data : {}
 
-  // Slide in from right. When closing: visibility waits for transform to finish
-  // so the element doesn't remain tabbable while off-screen.
+  // visibility is delayed on close so the element leaves the tab order only after the slide animation finishes
   const panelStyle = isOpen
     ? {
         transform: 'translateX(0)',
@@ -45,7 +41,7 @@ export const CoursePanel = ({ node, onClose }) => {
       }}
     >
 
-      {/* ── Header ──────────────────────────────────────────── */}
+      {/* header */}
       <div style={{
         background: 'var(--color-paper-2)',
         borderBottom: '1px solid var(--color-rule)',
@@ -95,10 +91,10 @@ export const CoursePanel = ({ node, onClose }) => {
         </button>
       </div>
 
-      {/* ── Body ────────────────────────────────────────────── */}
+      {/* body */}
       <div style={{ padding: 'var(--space-md)' }}>
 
-        {/* Credits & Offerings */}
+        {/* credits and offerings */}
         <div style={{
           display: 'flex',
           gap: 'var(--space-2xs)',

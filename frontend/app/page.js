@@ -1,6 +1,4 @@
-/* Hallmark · macrostructure: Narrative Workflow · genre: modern-minimal · theme: custom (Carleton)
- * design-system: design.md · pre-emit critique: P5 H5 E5 S5 R5 V5
- */
+/* landing page, modern minimal Carleton theme */
 
 'use client'
 
@@ -44,7 +42,7 @@ export default function Home() {
         }
       `}</style>
 
-      {/* ── Nav ─────────────────────────────────────────────────────────── */}
+      {/* nav */}
       <nav style={{
         borderBottom: '1px solid var(--color-rule)',
         padding: '0 var(--space-lg)',
@@ -82,7 +80,7 @@ export default function Home() {
         </Link>
       </nav>
 
-      {/* ── Hero ────────────────────────────────────────────────────────── */}
+      {/* hero */}
       <section style={{
         padding: 'var(--space-3xl) var(--space-lg) var(--space-2xl)',
         maxWidth: 720,
@@ -143,7 +141,7 @@ export default function Home() {
         </Link>
       </section>
 
-      {/* ── Stats strip ─────────────────────────────────────────────────── */}
+      {/* stats strip */}
       <div style={{
         borderTop: '1px solid var(--color-rule)',
         borderBottom: '1px solid var(--color-rule)',
@@ -163,7 +161,7 @@ export default function Home() {
         </div>
       </div>
 
-      {/* ── How it works ────────────────────────────────────────────────── */}
+      {/* how it works */}
       <section style={{
         padding: 'var(--space-2xl) var(--space-lg)',
         maxWidth: 960,
@@ -205,7 +203,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── CTA band ────────────────────────────────────────────────────── */}
+      {/* CTA band */}
       <section style={{
         background: 'var(--color-accent)',
         padding: 'var(--space-2xl) var(--space-lg)',
@@ -253,7 +251,7 @@ export default function Home() {
 
       <div style={{ flex: 1 }} />
 
-      {/* ── Footer ──────────────────────────────────────────────────────── */}
+      {/* footer */}
       <footer style={{
         borderTop: '1px solid var(--color-rule)',
         padding: 'var(--space-lg)',
@@ -328,7 +326,7 @@ export default function Home() {
   )
 }
 
-// ─── Stat ─────────────────────────────────────────────────────────────────────
+// Stat
 
 const Stat = ({ value, label }) => (
   <div style={{ textAlign: 'center', padding: 'var(--space-sm) 0' }}>
@@ -355,7 +353,7 @@ const Stat = ({ value, label }) => (
   </div>
 )
 
-// ─── Step ─────────────────────────────────────────────────────────────────────
+// Step
 
 const Step = ({ num, title, body }) => (
   <div style={{

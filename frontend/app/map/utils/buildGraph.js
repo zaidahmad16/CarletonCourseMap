@@ -4,22 +4,22 @@ import { getNodeStyle, getElectiveStyle } from './styles'
 
 const MIN_ROWS = 5
 
-// SVG presentation attributes (markerEnd.color) can't use CSS vars — mirror the token value here
-const REQUIRED_COLOR = 'oklch(11% 0 0)' // --color-required
+// SVG presentation attributes like markerEnd.color can't use CSS vars, so we mirror the token value directly
+const REQUIRED_COLOR = 'oklch(11% 0 0)' // matches --color-required
 
 export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   const detailMap   = new Map(courseDetails.filter(Boolean).map(d => [d.code, d]))
   const positionMap = {}
 
-  // Track which (col, row) positions are occupied
+  // track which (col, row) positions are occupied
   const occupied = new Set()
   const occupy = (col, row) => occupied.add(`${col}-${row}`)
   const isOccupied = (col, row) => occupied.has(`${col}-${row}`)
 
-  // Track which columns have at least one node
+  // track which columns have at least one node
   const colUsed = Array(numCols).fill(false)
 
-  // ── Course nodes ──────────────────────────────────────────────────────────
+  // course nodes
   const courseNodes = requirements
     .filter(req => req.courses?.length > 0 && req.layout_col != null)
     .map(req => {
@@ -57,7 +57,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     })
     .filter(Boolean)
 
-  // ── Elective nodes from DB ────────────────────────────────────────────────
+  // elective nodes from the DB
   const simplifyDesc = (desc) => {
     if (!desc) return ''
     const d = desc.toLowerCase()
@@ -92,12 +92,12 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
       }
     })
 
-  // ── Padding: fill every column to MIN_ROWS ─────────────────────────────────
+  // fill every column up to MIN_ROWS with padding nodes
   const paddingNodes = []
   for (let col = 0; col < numCols; col++) {
     for (let row = 0; row < MIN_ROWS; row++) {
       if (isOccupied(col, row)) continue
-      // Match reference: row 4 = Free Elective, others = Breadth Elective
+      // row 4 and above get Free Elective, everything earlier gets Breadth Elective
       const label = row >= 4 ? 'Free Elective' : 'Breadth Elective'
       paddingNodes.push({
         id: `pad-${col}-${row}`,
@@ -116,7 +116,7 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     }
   }
 
-  // ── Edges from API ────────────────────────────────────────────────────────
+  // edges from the API
   const nodeIds = new Set(courseNodes.map(n => n.id))
 
   const edgeList = (edges || [])

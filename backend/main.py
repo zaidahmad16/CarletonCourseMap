@@ -3,6 +3,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from dotenv import load_dotenv
 load_dotenv()
 from fastapi.middleware.cors import CORSMiddleware
+
 from fastapi import FastAPI, Request, HTTPException, Header, Depends
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
@@ -16,7 +17,8 @@ from slowapi.errors import RateLimitExceeded
 logging.basicConfig(level=logging.ERROR)
 logger = logging.getLogger(__name__)
 
-ADMIN_API_KEY = os.getenv("ADMIN_API_KEY")
+ADMIN_API_KEY    = os.getenv("ADMIN_API_KEY")
+COURSE_CODE_RE   = re.compile(r'^[A-Z]{2,4} \d{4}$')
 
 def require_admin(x_api_key: str = Header(default=None)):
     if not ADMIN_API_KEY:
@@ -44,8 +46,8 @@ app.add_middleware(
 @app.get("/health")
 @limiter.limit("60/minute")
 def health(request: Request):
-    conn = get_connection()
     try:
+        conn = get_connection()
         conn.close()
     except Exception as e:
         logger.error("Health check failed: %s", e, exc_info=True)
@@ -87,8 +89,6 @@ def get_departments(request: Request):
         raise HTTPException(status_code=500, detail="Internal server error")
     finally:
         conn.close()
-
-
 
 @app.get("/courses")
 @limiter.limit("60/minute")
@@ -271,8 +271,6 @@ def update_program_edges(request: Request, program_id: int, edges: List[Edge], _
     finally:
         conn.close()
 
-
-COURSE_CODE_RE = re.compile(r'^[A-Z]{2,4} \d{4}$')
 
 @app.post("/courses/batch")
 @limiter.limit("60/minute")

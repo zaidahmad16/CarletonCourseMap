@@ -1,10 +1,9 @@
 import { BaseEdge } from 'reactflow'
-
-const COL_W = 220
+import { COL_WIDTH } from '../utils/constants'
 
 export const CleanEdge = ({ id, sourceX, sourceY, targetX, targetY, style, markerEnd }) => {
   const span = targetX - sourceX
-  const multiCol = span > COL_W + 20  // anything more than 1 column apart
+  const multiCol = span > COL_WIDTH + 20
 
   let path
   if (multiCol) {

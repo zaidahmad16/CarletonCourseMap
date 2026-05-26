@@ -187,7 +187,7 @@ def scrape_program(name, url):
                 word = ys_match.group(1).lower()
                 year_standing = {"second": 2, "2nd": 2, "third": 3, "3rd": 3, "fourth": 4, "4th": 4}[word]
 
-        # concurrent prerequisites — course codes that appear in a concurrent clause
+        # concurrent prerequisites are course codes that appear in a concurrent clause
         if prerequisites:
             COURSE_RE = re.compile(r'\b([A-Z]{3,4}\s+\d{4}[A-Z]?)\b')
             # find all "concurrently" clauses: "X may be taken concurrently" or "concurrent with X"
@@ -239,7 +239,7 @@ def _parse_sc_courselist(table):
         if not tds:
             continue
 
-        # Section header — update type context for subsequent rows
+        # section header, updates the type context for subsequent rows
         if "areaheader" in classes:
             text = row.get_text(" ", strip=True).replace("\xa0", " ").lower()
             if re.search(r"choose|select|one of", text):
@@ -291,7 +291,7 @@ def _parse_sc_courselist(table):
                 "description": description,
             })
         else:
-            # Sub-requirement row — no specific course code
+            # sub-requirement row with no specific course code
             desc_td = next(
                 (td for td in tds if "hourscol" not in (td.get("class") or [])),
                 tds[0],
@@ -301,7 +301,7 @@ def _parse_sc_courselist(table):
             if not text.strip():
                 continue
 
-            # Group-header rows like "1.  6.5 credits in:" — skip, they just label a block
+            # group header rows like "1.  6.5 credits in:" just label a block, skip them
             if re.search(r":\s*$", text.strip()):
                 continue
 
@@ -354,7 +354,7 @@ def scrape_program_requirements(soup):
                 break
 
         if not degree:
-            continue  # category or ancillary table — skip
+            continue  # category or ancillary table, skip
 
         requirements = _parse_sc_courselist(table)
         if not requirements:
@@ -372,7 +372,7 @@ def scrape_program_requirements(soup):
 def scrape_free_electives(soup):
     entries = []
 
-    # 1. h3.toggle sections labelled "Free Electives" — describes what qualifies
+    # h3.toggle sections labelled "Free Electives", these describe what qualifies
     for h3 in soup.find_all("h3", class_="toggle"):
         if "free elective" not in h3.get_text(strip=True).lower():
             continue

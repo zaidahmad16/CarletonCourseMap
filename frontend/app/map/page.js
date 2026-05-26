@@ -2,7 +2,7 @@
 
 'use client'
 
-import { useState, useEffect, useCallback, useRef } from 'react'
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react'
 import ReactFlow, { Background }                    from 'reactflow'
 import 'reactflow/dist/style.css'
 
@@ -12,6 +12,7 @@ import { Legend }                                     from './components/Legend'
 import { Notes }                                      from './components/Notes'
 import { CoursePanel }                                from './components/CoursePanel'
 import { ProgramPicker }                              from './components/ProgramPicker'
+import { CompareModal }                               from './components/CompareModal'
 import { MapMenubar }                                 from './components/MapMenubar'
 import { buildGraph }                                 from './utils/buildGraph'
 import { buildHeaders }                               from './utils/buildHeaders'
@@ -72,7 +73,13 @@ export default function MapPage() {
   const [selectedNode,    setSelectedNode]    = useState(null)
   const [showPicker,      setShowPicker]      = useState(false)
   const [showNotes,       setShowNotes]       = useState(false)
-  const rfRef = useRef(null)
+  const [showCompare,     setShowCompare]     = useState(false)
+  const [searchQuery,     setSearchQuery]     = useState('')
+  const [highlightedId,   setHighlightedId]   = useState(null)
+
+  const [chainIds,        setChainIds]        = useState(null)
+  const rfRef             = useRef(null)
+  const initialProgram    = useRef(null)
 
   // load departments on mount
   useEffect(() => {
@@ -90,7 +97,13 @@ export default function MapPage() {
     setSelectedNode(null)
     fetch(`${API}/programs?dept=${selectedDept}`)
       .then(r => r.json())
-      .then(setPrograms)
+      .then(progs => {
+        setPrograms(progs)
+        if (initialProgram.current) {
+          setSelectedProgram(initialProgram.current)
+          initialProgram.current = null
+        }
+      })
   }, [selectedDept])
 
   // fetch the course map when the selected program changes
@@ -132,11 +145,39 @@ export default function MapPage() {
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return
     setSelectedNode(node)
+
+    const outMap = new Map()
+    const inMap  = new Map()
+    for (const e of edges) {
+      if (!outMap.has(e.source)) outMap.set(e.source, [])
+      outMap.get(e.source).push(e.target)
+      if (!inMap.has(e.target)) inMap.set(e.target, [])
+      inMap.get(e.target).push(e.source)
+    }
+
+    const chain = new Set([node.id])
+    const bfs = (map, startId) => {
+      const q = [startId]
+      while (q.length) {
+        const id = q.shift()
+        for (const neighbour of (map.get(id) || [])) {
+          if (!chain.has(neighbour)) { chain.add(neighbour); q.push(neighbour) }
+        }
+      }
+    }
+    bfs(inMap, node.id)
+    bfs(outMap, node.id)
+    setChainIds(chain)
+  }, [edges])
+
+  //Copy link
+  const onCopyLink = useCallback(() => {
+    navigator.clipboard.writeText(window.location.href).catch(() => {})
   }, [])
 
 
   return (
-    <div style={{
+    <div className="map-print-root" style={{
       fontFamily: 'var(--font-body)',
       height: '100vh',
       display: 'flex',
@@ -186,12 +227,56 @@ export default function MapPage() {
 
         <div style={{ flex: 1 }} />
 
+        {nodes.length > 0 && (
+          <div style={{ position: 'relative', display: 'inline-flex', alignItems: 'center', flexShrink: 0 }}>
+            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true"
+              style={{ position: 'absolute', left: 9, pointerEvents: 'none', color: 'var(--color-ink-3)' }}>
+              <circle cx="5.5" cy="5.5" r="4" stroke="currentColor" strokeWidth="1.5" />
+              <path d="M9 9l2.5 2.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+            </svg>
+            <input
+              type="search"
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+              placeholder="Find a course…"
+              style={{
+                border: '1px solid var(--color-rule)',
+                borderRadius: 'var(--radius-input)',
+                padding: '5px 28px 5px 28px',
+                fontSize: 'var(--text-sm)',
+                fontFamily: 'var(--font-body)',
+                color: 'var(--color-ink)',
+                background: 'var(--color-paper-2)',
+                outline: 'none',
+                width: 160,
+                transition: 'border-color var(--dur-short) var(--ease-out), width var(--dur-short) var(--ease-out)',
+              }}
+              onFocus={e => { e.target.style.borderColor = 'var(--color-accent)'; e.target.style.width = '200px' }}
+              onBlur={e => { e.target.style.borderColor = 'var(--color-rule)'; e.target.style.width = '160px' }}
+            />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                aria-label="Clear search"
+                style={{
+                  position: 'absolute', right: 8, background: 'none', border: 'none',
+                  cursor: 'pointer', color: 'var(--color-ink-3)', padding: 0, lineHeight: 1,
+                  fontSize: 14,
+                }}
+              >×</button>
+            )}
+          </div>
+        )}
+
         <MapMenubar
           onFitView={() => rfRef.current?.fitView({ padding: 0.07 })}
           onZoomIn={() => rfRef.current?.zoomIn()}
           onZoomOut={() => rfRef.current?.zoomOut()}
           onSelectProgram={() => setShowPicker(true)}
           onShowNotes={() => setShowNotes(v => !v)}
+          onCopyLink={onCopyLink}
+          hasProgram={!!selectedProgram}
+          onCompare={() => setShowCompare(true)}
         />
       </div>
 
@@ -304,22 +389,24 @@ export default function MapPage() {
 
       {/* notes sidebar */}
       {courseMap && (
-        <Notes
-          notes={courseMap.notes}
-          degree={courseMap.degree}
-          open={showNotes}
-          onOpenChange={setShowNotes}
-        />
+        <div className="no-print">
+          <Notes
+            notes={courseMap.notes}
+            degree={courseMap.degree}
+            open={showNotes}
+            onOpenChange={setShowNotes}
+          />
+        </div>
       )}
 
       {/* flow canvas */}
       {nodes.length > 0 ? (
-        <div style={{ flex: 1 }}>
+        <div className="print-canvas" style={{ flex: 1 }}>
           <ReactFlow
             nodeTypes={nodeTypes}
             edgeTypes={edgeTypes}
-            nodes={nodes}
-            edges={edges}
+            nodes={displayNodes}
+            edges={displayEdges}
             fitView
             fitViewOptions={{ padding: 0.07 }}
             edgesUpdatable={false}

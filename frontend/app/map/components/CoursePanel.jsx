@@ -1,11 +1,61 @@
+'use client'
+
 /* course detail panel — right sidebar on desktop, bottom drawer on mobile */
+
+import { useState, useEffect } from 'react'
+
+const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
 
 export const CoursePanel = ({ node, onClose, isMobile }) => {
   const isOpen = node != null && !node.data?.isElective
 
-
   const { code, name, description, credit, prerequisites, offerings } =
     isOpen ? node.data : {}
+
+  const [instructorData, setInstructorData] = useState(null) // [{term, instructors: [{name, rmp}]}]
+  const [loadingInstructors, setLoadingInstructors] = useState(false)
+
+  useEffect(() => {
+    if (!isOpen || !code) {
+      setInstructorData(null)
+      return
+    }
+    setInstructorData(null)
+    setLoadingInstructors(true)
+
+    const encodedCode = code.replace(' ', '-')
+
+    fetch(`${API}/courses/${encodedCode}/instructors`)
+      .then(r => r.json())
+      .then(async termGroups => {
+        if (!termGroups.length) {
+          setInstructorData([])
+          setLoadingInstructors(false)
+          return
+        }
+        // For each unique instructor, fetch RMP data
+        const allNames = [...new Set(termGroups.flatMap(g => g.instructors))]
+        const rmpMap = {}
+        await Promise.all(allNames.map(async name => {
+          try {
+            const res = await fetch(`/api/rmp?name=${encodeURIComponent(name)}`)
+            rmpMap[name] = await res.json()
+          } catch {
+            rmpMap[name] = { found: false }
+          }
+        }))
+        const enriched = termGroups.map(g => ({
+          term: g.term,
+          instructors: g.instructors.map(n => ({ name: n, rmp: rmpMap[n] ?? { found: false } })),
+        }))
+        setInstructorData(enriched)
+        setLoadingInstructors(false)
+      })
+      .catch(() => {
+        setInstructorData([])
+        setLoadingInstructors(false)
+      })
+  }, [code, isOpen])
 
   const panelStyle = isMobile
     ? isOpen
@@ -43,7 +93,7 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
     ? {
         bottom: 0, left: 0, right: 0,
         width: '100%',
-        height: '65vh',
+        height: '75vh',
         borderRadius: '12px 12px 0 0',
         borderTop: '1px solid var(--color-rule)',
       }
@@ -181,10 +231,136 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
               <div style={bodyText}>{prerequisites}</div>
             </div>
           )}
+
+          {/* Instructors */}
+          <div style={{ marginBottom: 'var(--space-md)' }}>
+            <SectionLabel>Instructors (2026–2027)</SectionLabel>
+            {loadingInstructors && (
+              <div style={{ ...bodyText, color: 'var(--color-ink-3)' }}>Loading…</div>
+            )}
+            {!loadingInstructors && instructorData && instructorData.length === 0 && (
+              <div style={{ ...bodyText, color: 'var(--color-ink-3)' }}>No timetable data yet</div>
+            )}
+            {!loadingInstructors && instructorData && instructorData.map(group => (
+              <div key={group.term} style={{ marginBottom: 'var(--space-sm)' }}>
+                <div style={{
+                  fontSize: 'var(--text-xs)',
+                  fontWeight: 600,
+                  color: 'var(--color-ink-3)',
+                  marginBottom: 6,
+                }}>
+                  {group.term}
+                </div>
+                {group.instructors.map(({ name: profName, rmp }) => (
+                  <ProfCard key={profName} name={profName} rmp={rmp} />
+                ))}
+              </div>
+            ))}
+          </div>
+
         </div>
       </div>
     </>
   )
+}
+
+const ProfCard = ({ name, rmp }) => (
+  <div style={{
+    background: 'var(--color-paper-2)',
+    border: '1px solid var(--color-rule)',
+    borderRadius: 8,
+    padding: '10px 12px',
+    marginBottom: 8,
+  }}>
+    <div style={{
+      display: 'flex',
+      justifyContent: 'space-between',
+      alignItems: 'flex-start',
+      gap: 8,
+    }}>
+      <span style={{
+        fontSize: 'var(--text-sm)',
+        fontWeight: 600,
+        color: 'var(--color-ink)',
+        lineHeight: 1.3,
+      }}>
+        {name}
+      </span>
+      {rmp?.found && (
+        <a
+          href={rmp.rmp_url}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            fontSize: 'var(--text-xs)',
+            color: 'var(--color-accent)',
+            textDecoration: 'none',
+            whiteSpace: 'nowrap',
+            flexShrink: 0,
+          }}
+        >
+          RMP ↗
+        </a>
+      )}
+    </div>
+
+    {rmp?.found ? (
+      <div style={{
+        display: 'flex',
+        gap: 'var(--space-sm)',
+        marginTop: 6,
+        flexWrap: 'wrap',
+      }}>
+        <RmpStat label="Rating" value={rmp.overall_rating?.toFixed(1)} outOf={5} color={ratingColor(rmp.overall_rating)} />
+        <RmpStat label="Difficulty" value={rmp.difficulty?.toFixed(1)} outOf={5} color={difficultyColor(rmp.difficulty)} />
+        {rmp.would_take_again != null && (
+          <RmpStat label="Take again" value={`${rmp.would_take_again}%`} />
+        )}
+        <span style={{
+          fontSize: 'var(--text-xs)',
+          color: 'var(--color-ink-3)',
+          alignSelf: 'flex-end',
+        }}>
+          {rmp.num_ratings} rating{rmp.num_ratings !== 1 ? 's' : ''}
+        </span>
+      </div>
+    ) : (
+      <div style={{
+        fontSize: 'var(--text-xs)',
+        color: 'var(--color-ink-3)',
+        marginTop: 4,
+      }}>
+        Not on RateMyProfessors
+      </div>
+    )}
+  </div>
+)
+
+const RmpStat = ({ label, value, color }) => (
+  <div style={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
+    <span style={{ fontSize: 'var(--text-xs)', color: 'var(--color-ink-3)' }}>{label}</span>
+    <span style={{
+      fontSize: 'var(--text-sm)',
+      fontWeight: 700,
+      color: color ?? 'var(--color-ink)',
+    }}>
+      {value ?? '—'}
+    </span>
+  </div>
+)
+
+function ratingColor(r) {
+  if (r == null) return 'var(--color-ink)'
+  if (r >= 4) return '#2d9e5f'
+  if (r >= 3) return '#d97706'
+  return '#dc2626'
+}
+
+function difficultyColor(d) {
+  if (d == null) return 'var(--color-ink)'
+  if (d <= 2.5) return '#2d9e5f'
+  if (d <= 3.5) return '#d97706'
+  return '#dc2626'
 }
 
 const chipStyle = {

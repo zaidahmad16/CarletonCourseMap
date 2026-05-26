@@ -385,9 +385,9 @@ def scrape_program_requirements(soup):
     degree_index = {}  # degree text -> index in programs list
 
     for table in soup.select("table.sc_courselist"):
-        # Walk backward to find the nearest plain h3 (no toggle/red class) = degree heading
+        # Walk backward to find the nearest plain h3 or h4 (no toggle/red class) = degree heading
         degree = ""
-        for prev in table.find_all_previous("h3"):
+        for prev in table.find_all_previous(["h3", "h4"]):
             prev_classes = set(prev.get("class") or [])
             if not prev_classes & {"toggle", "red"}:
                 degree = prev.get_text(" ", strip=True).replace("\xa0", " ").strip()

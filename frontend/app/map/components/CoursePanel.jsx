@@ -1,10 +1,7 @@
 'use client'
 
-/* course detail panel — right sidebar on desktop, bottom drawer on mobile */
-
 import { useState, useEffect } from 'react'
-
-const API = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
+import { API } from '../utils/constants'
 
 export const CoursePanel = ({ node, onClose, isMobile }) => {
   const isOpen = node != null && !node.data?.isElective
@@ -12,7 +9,7 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
   const { code, name, description, credit, prerequisites, offerings } =
     isOpen ? node.data : {}
 
-  const [instructorData, setInstructorData] = useState(null) // [{term, instructors: [{name, rmp}]}]
+  const [instructorData, setInstructorData] = useState(null)
   const [loadingInstructors, setLoadingInstructors] = useState(false)
 
   useEffect(() => {
@@ -20,12 +17,15 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
       setInstructorData(null)
       return
     }
+    const controller = new AbortController()
+    const { signal } = controller
+
     setInstructorData(null)
     setLoadingInstructors(true)
 
     const encodedCode = code.replace(' ', '-')
 
-    fetch(`${API}/courses/${encodedCode}/instructors`)
+    fetch(`${API}/courses/${encodedCode}/instructors`, { signal })
       .then(r => r.json())
       .then(async termGroups => {
         if (!termGroups.length) {
@@ -33,17 +33,17 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
           setLoadingInstructors(false)
           return
         }
-        // For each unique instructor, fetch RMP data
         const allNames = [...new Set(termGroups.flatMap(g => g.instructors))]
         const rmpMap = {}
-        await Promise.all(allNames.map(async name => {
+        await Promise.all(allNames.map(async profName => {
           try {
-            const res = await fetch(`/api/rmp?name=${encodeURIComponent(name)}`)
-            rmpMap[name] = await res.json()
+            const res = await fetch(`/api/rmp?name=${encodeURIComponent(profName)}`, { signal })
+            rmpMap[profName] = await res.json()
           } catch {
-            rmpMap[name] = { found: false }
+            rmpMap[profName] = { found: false }
           }
         }))
+        if (signal.aborted) return
         const enriched = termGroups.map(g => ({
           term: g.term,
           instructors: g.instructors.map(n => ({ name: n, rmp: rmpMap[n] ?? { found: false } })),
@@ -51,10 +51,13 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
         setInstructorData(enriched)
         setLoadingInstructors(false)
       })
-      .catch(() => {
+      .catch(err => {
+        if (err.name === 'AbortError') return
         setInstructorData([])
         setLoadingInstructors(false)
       })
+
+    return () => controller.abort()
   }, [code, isOpen])
 
   const panelStyle = isMobile
@@ -130,7 +133,7 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
           ...panelStyle,
         }}
       >
-        {/* drag handle — mobile only */}
+        {/* drag handle, mobile only */}
         {isMobile && (
           <div style={{
             display: 'flex',
@@ -344,7 +347,7 @@ const RmpStat = ({ label, value, color }) => (
       fontWeight: 700,
       color: color ?? 'var(--color-ink)',
     }}>
-      {value ?? '—'}
+      {value ?? 'N/A'}
     </span>
   </div>
 )

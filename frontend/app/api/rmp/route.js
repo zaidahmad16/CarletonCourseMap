@@ -2,10 +2,20 @@ import { RMPClient } from 'ratemyprofessors-client'
 import { NextResponse } from 'next/server'
 
 const CARLETON_SCHOOL_ID = '1420'
+const CACHE_TTL_MS = 7 * 24 * 60 * 60 * 1000 // 1 week; ratings don't change that fast
 const client = new RMPClient()
 
-// Cache results in memory for the lifetime of the server process
-const cache = new Map()
+const cache = new Map() // name to { data, expiresAt }
+
+function getCached(name) {
+  const entry = cache.get(name)
+  if (!entry) return null
+  if (Date.now() > entry.expiresAt) {
+    cache.delete(name)
+    return null
+  }
+  return entry.data
+}
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url)
@@ -15,13 +25,11 @@ export async function GET(request) {
     return NextResponse.json({ error: 'name is required' }, { status: 400 })
   }
 
-  if (cache.has(name)) {
-    return NextResponse.json(cache.get(name))
-  }
+  const cached = getCached(name)
+  if (cached) return NextResponse.json(cached)
 
   try {
     const result = await client.searchProfessors(name, CARLETON_SCHOOL_ID)
-    // Pick the first result that belongs to Carleton
     const prof = result.professors?.find(p => p.school?.id === CARLETON_SCHOOL_ID) ?? null
 
     const data = prof
@@ -37,7 +45,7 @@ export async function GET(request) {
         }
       : { found: false }
 
-    cache.set(name, data)
+    cache.set(name, { data, expiresAt: Date.now() + CACHE_TTL_MS })
     return NextResponse.json(data)
   } catch (err) {
     console.error('RMP lookup failed for', name, err)

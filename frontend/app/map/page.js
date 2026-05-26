@@ -1,4 +1,4 @@
-/* course map page, modern minimal Carleton theme */
+/* course map page */
 
 'use client'
 
@@ -18,7 +18,7 @@ import { buildGraph }                                 from './utils/buildGraph'
 import { buildHeaders }                               from './utils/buildHeaders'
 import { API }                                        from './utils/constants'
 
-// ReactFlow type registries
+// ReactFlow node and edge type maps
 
 const nodeTypes = {
   course:     CourseNode,
@@ -27,24 +27,24 @@ const nodeTypes = {
 }
 const edgeTypes = { clean: CleanEdge }
 
-// shortens program names to fit the pill strip
+// trim long degree names down to fit the pill strip
 
 const shortenProgram = (degree = '') => {
-  // Merged programs ("Parent — Concentration in X") — show just the concentration name
+  // merged programs like "Parent, Concentration in X" -- pull out just the concentration name
   const mergedM = degree.match(/—\s*concentration\s+in\s+(.+?)(?:\s*\(|$)/i)
   if (mergedM) {
     const c = mergedM[1].trim()
     return c.length > 30 ? c.slice(0, 28) + '…' : c
   }
 
-  // Standalone "Concentration in X (N credits)" — show just the topic
+  // standalone "Concentration in X (N credits)" -- just show the topic
   const concM = degree.match(/^Concentration\s+in\s+(.+?)(?:\s*\(|$)/i)
   if (concM) {
     const c = concM[1].trim()
     return c.length > 30 ? c.slice(0, 28) + '…' : c
   }
 
-  // Standalone "Stream in X (N credits)" — show just the topic
+  // standalone "Stream in X (N credits)" -- same deal
   const streamM = degree.match(/^Stream\s+in\s+(.+?)(?:\s*\(|$)/i)
   if (streamM) {
     const c = streamM[1].trim()
@@ -65,7 +65,7 @@ const shortenProgram = (degree = '') => {
   ]
   for (const [re, label] of specifics) if (re.test(degree)) return label
 
-  // Any remaining "Concentration in X" embedded in a longer degree name
+  // catch "Concentration in X" buried inside a longer degree name
   const cogM = degree.match(/concentration\s+in\s+(.+?)(?:\s*\(|\s{2,}|$)/i)
   if (cogM) {
     const c = cogM[1].trim()
@@ -88,7 +88,7 @@ const shortenProgram = (degree = '') => {
   return s.length > 30 ? s.slice(0, 28) + '…' : s
 }
 
-// Page
+// page component
 
 export default function MapPage() {
   const [departments,     setDepartments]     = useState([])
@@ -121,7 +121,7 @@ export default function MapPage() {
     return () => window.removeEventListener('resize', check)
   }, [])
 
-  // Escape clears the selected node and chain highlight
+  // Escape closes the panel and clears the chain highlight
   useEffect(() => {
     const handler = (e) => {
       if (e.key !== 'Escape') return
@@ -135,12 +135,12 @@ export default function MapPage() {
     return () => window.removeEventListener('keydown', handler, true)
   }, [selectedNode, chainIds])
 
-  // load departments on mount
+  // fetch departments once on mount
   useEffect(() => {
     fetch(`${API}/departments`).then(r => r.json()).then(setDepartments)
   }, [])
 
-  // reload programs when the selected department changes
+  // reload programs whenever the department changes
   useEffect(() => {
     if (!selectedDept) return
     setPrograms([])
@@ -160,7 +160,7 @@ export default function MapPage() {
       })
   }, [selectedDept])
 
-  // fetch the course map when the selected program changes
+  // fetch the course map whenever the selected program changes
   useEffect(() => {
     if (!selectedProgram) return
     setCourseMap(null)
@@ -173,7 +173,7 @@ export default function MapPage() {
       .then(setCourseMap)
   }, [selectedProgram])
 
-  // build the graph once course map data arrives
+  // build nodes and edges once course map data arrives
   useEffect(() => {
     if (!courseMap) return
     const codes = [...new Set(
@@ -196,7 +196,7 @@ export default function MapPage() {
       })
   }, [courseMap])
 
-  // find a matching node when the search query changes, highlight it, and pan to it
+  // find a matching node when the search query changes, highlight it and pan to it
   useEffect(() => {
     if (!searchQuery || nodes.length === 0) { setHighlightedId(null); return }
     const q = searchQuery.toLowerCase()
@@ -231,7 +231,7 @@ export default function MapPage() {
     [edges, chainIds]
   )
 
-  // open the course panel when a non-elective node is clicked
+  // clicking a non-elective node opens the course panel
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return
     setSelectedNode(node)
@@ -553,7 +553,7 @@ export default function MapPage() {
             maxZoom={1.5}
             translateExtent={[[-200, -200], [2000, 1000]]}
           >
-            {/* Background.color is a prop, not a CSS property, so CSS vars don't work here */}
+            {/* Background.color is a ReactFlow prop, CSS vars won't work here */}
             <Background color="#e5e2dc" gap={22} size={1} />
           </ReactFlow>
         </div>
@@ -601,7 +601,7 @@ export default function MapPage() {
   )
 }
 
-// Pill
+// program pill button
 
 const Pill = ({ label, active, onClick, title }) => (
   <button
@@ -629,7 +629,7 @@ const Pill = ({ label, active, onClick, title }) => (
   </button>
 )
 
-// style constants
+// shared styles
 
 const rowLabelStyle = {
   flexShrink: 0,

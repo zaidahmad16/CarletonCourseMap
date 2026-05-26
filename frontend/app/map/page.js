@@ -167,6 +167,7 @@ export default function MapPage() {
     setNodes([])
     setEdges([])
     setSelectedNode(null)
+    setChainIds(null)
     fetch(`${API}/programs/${selectedProgram}`)
       .then(r => r.json())
       .then(setCourseMap)

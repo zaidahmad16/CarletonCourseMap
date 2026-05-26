@@ -3,13 +3,19 @@ DATABASE_URL = os.getenv("DATABASE_URL")
 from fastapi.middleware.cors import CORSMiddleware
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from typing import List
 from psycopg2.extras import execute_values
 from db import get_connection
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
 
+limiter = Limiter(key_func=get_remote_address)
 app = FastAPI(title="CarletonCourseMap API")
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 app.add_middleware(
     CORSMiddleware,
@@ -19,14 +25,15 @@ app.add_middleware(
 )
 
 @app.get("/health")
-
-def health():
+@limiter.limit("60/minute")
+def health(request: Request):
     conn=get_connection()
     conn.close()
     return {"status":"200"}
 
 @app.get("/stats")
-def get_stats():
+@limiter.limit("60/minute")
+def get_stats(request: Request):
     conn = get_connection()
     cur = conn.cursor()
     cur.execute("SELECT COUNT(*) FROM departments")
@@ -40,7 +47,8 @@ def get_stats():
     return {"departments": dept_count, "programs": prog_count, "courses": course_count}
 
 @app.get("/departments")
-def get_departments():
+@limiter.limit("60/minute")
+def get_departments(request: Request):
     conn = get_connection()
     cur = conn.cursor()
     cur.execute("SELECT dept_id, name, url FROM departments ORDER BY name")
@@ -52,8 +60,8 @@ def get_departments():
 
 
 @app.get("/courses")
-
-def get_courses(search:str=None,dept:int=None):
+@limiter.limit("60/minute")
+def get_courses(request: Request, search:str=None, dept:int=None):
     
     conn=get_connection()
     cur=conn.cursor()
@@ -92,8 +100,8 @@ def get_courses(search:str=None,dept:int=None):
     ]
 
 @app.get("/courses/{code}")
-
-def get_course(code: str):
+@limiter.limit("60/minute")
+def get_course(request: Request, code: str):
     conn=get_connection()
     cur=conn.cursor()
     cur.execute("""
@@ -122,8 +130,8 @@ def get_course(code: str):
     }
     
 @app.get("/programs")
-
-def get_programs(dept:int=None):
+@limiter.limit("60/minute")
+def get_programs(request: Request, dept:int=None):
     conn=get_connection()
     cur=conn.cursor()
     
@@ -143,8 +151,8 @@ def get_programs(dept:int=None):
     return [{"program_id": r[0], "dept_id": r[1], "degree": r[2]} for r in rows]
 
 @app.get("/programs/{program_id}")
-
-def get_programs(program_id: int):
+@limiter.limit("60/minute")
+def get_program(request: Request, program_id: int):
     
     conn=get_connection()
     cur=conn.cursor()
@@ -204,7 +212,8 @@ class Edge(BaseModel):
     type: str = "required"
 
 @app.put("/programs/{program_id}/edges")
-def update_program_edges(program_id: int, edges: List[Edge]):
+@limiter.limit("10/minute")
+def update_program_edges(request: Request, program_id: int, edges: List[Edge]):
     conn = get_connection()
     cur = conn.cursor()
     cur.execute("DELETE FROM program_edges WHERE program_id = %s", (program_id,))
@@ -220,7 +229,8 @@ def update_program_edges(program_id: int, edges: List[Edge]):
 
 
 @app.post("/courses/batch")
-def get_courses_batch(codes: List[str]):
+@limiter.limit("60/minute")
+def get_courses_batch(request: Request, codes: List[str]):
     conn = get_connection()
     cur = conn.cursor()
     cur.execute("""

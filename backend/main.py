@@ -405,6 +405,35 @@ def get_courses_batch(request: Request, codes: List[str]):
     finally:
         conn.close()
 
+@app.get("/courses/{course_code}/instructors")
+@limiter.limit("60/minute")
+def get_course_instructors(request: Request, course_code: str):
+    code = course_code.upper().replace("-", " ")
+    if not COURSE_CODE_RE.match(code):
+        raise HTTPException(status_code=400, detail="Invalid course code")
+    conn = get_connection()
+    try:
+        cur = conn.cursor()
+        cur.execute("""
+            SELECT DISTINCT term, instructor_name
+            FROM course_instructors
+            WHERE course_code = %s
+            ORDER BY term, instructor_name
+        """, (code,))
+        rows = cur.fetchall()
+        cur.close()
+        # Group by term
+        terms: dict = {}
+        for term, name in rows:
+            terms.setdefault(term, []).append(name)
+        return [{"term": t, "instructors": names} for t, names in terms.items()]
+    except Exception as e:
+        logger.error("GET /courses/%s/instructors failed: %s", course_code, e, exc_info=True)
+        raise HTTPException(status_code=500, detail="Internal server error")
+    finally:
+        conn.close()
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)

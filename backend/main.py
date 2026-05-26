@@ -1,9 +1,9 @@
-import sys, os
+import sys, os, re
 DATABASE_URL = os.getenv("DATABASE_URL")
 from fastapi.middleware.cors import CORSMiddleware
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, HTTPException
 from pydantic import BaseModel
 from typing import List
 from psycopg2.extras import execute_values
@@ -115,7 +115,6 @@ def get_course(request: Request, code: str):
     cur.close()
     conn.close()
     if not row:
-        from fastapi import HTTPException
         raise HTTPException(status_code=404, detail="course not found")
     return {
         "code": row[0],
@@ -161,7 +160,6 @@ def get_program(request: Request, program_id: int):
     row = cur.fetchone()
 
     if not row:
-        from fastapi import HTTPException
         raise HTTPException(status_code=404,detail="Program not found")
 
     cur.execute("""
@@ -228,16 +226,29 @@ def update_program_edges(request: Request, program_id: int, edges: List[Edge]):
     return {"inserted": len(edges)}
 
 
+COURSE_CODE_RE = re.compile(r'^[A-Z]{2,4} \d{4}$')
+
 @app.post("/courses/batch")
 @limiter.limit("60/minute")
 def get_courses_batch(request: Request, codes: List[str]):
+    if len(codes) > 100:
+        raise HTTPException(status_code=400, detail="Too many course codes — maximum 100 per request")
+
+    cleaned = [c.strip() for c in codes]
+    invalid = [c for c in cleaned if not COURSE_CODE_RE.match(c)]
+    if invalid:
+        raise HTTPException(
+            status_code=400,
+            detail=f"Invalid course code(s): {', '.join(invalid[:10])}",
+        )
+
     conn = get_connection()
     cur = conn.cursor()
     cur.execute("""
         SELECT course_code, name, credit, description, prerequisites,
                year_standing, offerings, concurrent_prerequisites
         FROM courses WHERE course_code = ANY(%s)
-    """, (codes,))
+    """, (cleaned,))
     rows = cur.fetchall()
     cur.close()
     conn.close()

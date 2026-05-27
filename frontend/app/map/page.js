@@ -234,6 +234,11 @@ export default function MapPage() {
   // clicking a non-elective node opens the course panel
   const onNodeClick = useCallback((event, node) => {
     if (node.data.isElective || node.type !== 'course') return
+    if (chainIds?.has(node.id)) {
+      setSelectedNode(null)
+      setChainIds(null)
+      return
+    }
     setSelectedNode(node)
 
     const outMap = new Map()
@@ -258,7 +263,7 @@ export default function MapPage() {
     bfs(inMap, node.id)
     bfs(outMap, node.id)
     setChainIds(chain)
-  }, [edges])
+  }, [edges, chainIds])
 
   //Copy link
   const onCopyLink = useCallback(() => {
@@ -549,6 +554,9 @@ export default function MapPage() {
             elementsSelectable={false}
             onInit={inst => { rfRef.current = inst }}
             onNodeClick={onNodeClick}
+            onNodeDoubleClick={e => e.stopPropagation()}
+            onPaneClick={() => { setSelectedNode(null); setChainIds(null) }}
+            zoomOnDoubleClick={false}
             minZoom={0.4}
             maxZoom={1.5}
             translateExtent={[[-200, -200], [2000, 1000]]}

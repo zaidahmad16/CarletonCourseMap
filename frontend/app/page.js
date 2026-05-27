@@ -4,21 +4,14 @@
 
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 import { API } from './map/utils/constants'
 
-const trimDegree = (deg = '') => {
-  const s = deg
-    .replace(/^(Honours\s+)?Bachelor\s+of\s+\S+\s+/i, '')
-    .replace(/,?\s*(Honours|Major|Minor|Concentration|Stream)\s*$/i, '')
-    .trim()
-  if (!s) return deg.split(' ').slice(0, 4).join(' ')
-  return s.length > 38 ? s.slice(0, 36) + '…' : s
-}
 
 export default function Home() {
-  const [stats,         setStats]         = useState({ departments: null, programs: null, courses: null })
-  const [featured,      setFeatured]      = useState([])
-  const [depts,         setDepts]         = useState({})
+  const router = useRouter()
+  const [stats,       setStats]       = useState({ departments: null, programs: null, courses: null })
+  const [depts,       setDepts]       = useState({})
   const [allPrograms,   setAllPrograms]   = useState(null)
   const [searchQ,       setSearchQ]       = useState('')
   const [searchOpen,    setSearchOpen]    = useState(false)
@@ -30,15 +23,13 @@ export default function Home() {
       .then(d => { if (d) setStats(d) })
       .catch(() => {})
 
-    Promise.all([
-      fetch(`${API}/departments`).then(r => r.json()),
-      fetch(`${API}/programs/featured`).then(r => r.json()),
-    ]).then(([deps, feat]) => {
-      const deptMap = {}
-      for (const d of deps) deptMap[d.dept_id] = d.name
-      setDepts(deptMap)
-      setFeatured(feat)
-    }).catch(() => {})
+    fetch(`${API}/departments`)
+      .then(r => r.json())
+      .then(deps => {
+        const deptMap = {}
+        for (const d of deps) deptMap[d.dept_id] = d.name
+        setDepts(deptMap)
+      }).catch(() => {})
   }, [])
 
   const loadAllPrograms = useCallback(() => {
@@ -73,20 +64,17 @@ export default function Home() {
     }}>
 
       <style>{`
-        :root { --color-cta-sub: oklch(90% 0 0); }
-        .cta-red:hover     { background: var(--color-accent-hover) !important; }
-        .cta-white:hover   { background: var(--color-paper-2) !important; }
-        .footer-link:hover { color: var(--color-accent) !important; }
+        .cta-red:hover       { background: var(--color-accent-hover) !important; }
+        .cta-white:hover     { background: var(--color-paper-2) !important; }
+        .footer-link:hover   { color: var(--color-accent) !important; }
         .search-result:hover { background: var(--color-paper-2) !important; }
-        .prog-card:hover { border-color: var(--color-accent) !important; background: var(--color-accent-soft) !important; }
         @media (max-width: 720px) {
-          .steps-grid    { grid-template-columns: 1fr !important; }
-          .stat-grid     { grid-template-columns: repeat(2, 1fr) !important; }
-          .featured-grid { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+          .steps-grid   { grid-template-columns: 1fr !important; }
+          .stat-grid    { grid-template-columns: repeat(2, 1fr) !important; }
+          .feature-list { columns: 1 !important; }
         }
         @media (max-width: 480px) {
-          .stat-grid     { grid-template-columns: 1fr !important; }
-          .featured-grid { grid-template-columns: 1fr !important; }
+          .stat-grid { grid-template-columns: 1fr !important; }
         }
       `}</style>
 
@@ -111,21 +99,47 @@ export default function Home() {
           <span style={{ color: 'var(--color-accent)' }}>Carleton</span>CourseMap
         </div>
 
-        <Link href="/map" className="cta-red" style={{
-          display: 'inline-flex',
-          alignItems: 'center',
-          background: 'var(--color-accent)',
-          color: 'var(--color-accent-ink)',
-          padding: '7px var(--space-md)',
-          borderRadius: 'var(--radius-input)',
-          textDecoration: 'none',
-          fontSize: 'var(--text-sm)',
-          fontWeight: 600,
-          transition: 'background var(--dur-short) var(--ease-out)',
-          whiteSpace: 'nowrap',
-        }}>
-          Open Map
-        </Link>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 'var(--space-sm)' }}>
+          <a
+            href="https://github.com/zaidahmad16/CarletonCourseMap"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: 6,
+              padding: '7px var(--space-md)',
+              borderRadius: 'var(--radius-input)',
+              border: '1px solid var(--color-rule)',
+              background: 'var(--color-paper-2)',
+              color: 'var(--color-ink)',
+              fontSize: 'var(--text-sm)',
+              fontWeight: 500,
+              textDecoration: 'none',
+              whiteSpace: 'nowrap',
+            }}
+          >
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+              <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.2 11.38.6.11.82-.26.82-.58v-2.03c-3.34.72-4.04-1.61-4.04-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.09-.74.08-.73.08-.73 1.2.08 1.84 1.24 1.84 1.24 1.07 1.83 2.8 1.3 3.49 1 .11-.78.42-1.3.76-1.6-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.14-.3-.54-1.52.1-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 3-.4c1.02 0 2.04.13 3 .4 2.28-1.55 3.29-1.23 3.29-1.23.64 1.66.24 2.88.12 3.18.77.84 1.23 1.91 1.23 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.21.7.82.58C20.56 21.8 24 17.3 24 12c0-6.63-5.37-12-12-12z"/>
+            </svg>
+            GitHub
+          </a>
+          <Link href="/map" className="cta-red" style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            background: 'var(--color-accent)',
+            color: 'var(--color-accent-ink)',
+            padding: '7px var(--space-md)',
+            borderRadius: 'var(--radius-input)',
+            textDecoration: 'none',
+            fontSize: 'var(--text-sm)',
+            fontWeight: 600,
+            transition: 'background var(--dur-short) var(--ease-out)',
+            whiteSpace: 'nowrap',
+          }}>
+            Open Map
+          </Link>
+        </div>
       </nav>
 
       {/* hero */}
@@ -200,7 +214,7 @@ export default function Home() {
               }}
               onKeyDown={e => {
                 if (e.key === 'Enter' && searchResults.length > 0) {
-                  window.location.href = `/map?dept=${searchResults[0].dept_id}&p=${searchResults[0].program_id}`
+                  router.push(`/map?dept=${searchResults[0].dept_id}&p=${searchResults[0].program_id}`)
                 }
               }}
               placeholder="Search for a program or department…"
@@ -270,13 +284,12 @@ export default function Home() {
         </div>
 
         <p style={{ margin: 0, fontSize: 'var(--text-sm)', color: 'var(--color-ink-3)' }}>
-          or{' '}
           <Link href="/map" style={{
             color: 'var(--color-ink-2)',
             textDecoration: 'underline',
             textUnderlineOffset: 3,
           }}>
-            browse all programs →
+            Browse all programs →
           </Link>
         </p>
       </section>
@@ -295,9 +308,9 @@ export default function Home() {
           gridTemplateColumns: 'repeat(3, 1fr)',
           gap: 'var(--space-lg)',
         }}>
-          <Stat value={stats.departments} label="Departments" />
-          <Stat value={stats.programs}    label="Programs" />
-          <Stat value={stats.courses}     label="Courses indexed" />
+          <Stat value="500+" label="Students helped" fixed />
+          <Stat value={stats.programs}   label="Programs" />
+          <Stat value={stats.courses}    label="Courses indexed" />
         </div>
       </div>
 
@@ -341,6 +354,62 @@ export default function Home() {
             body="Tap any course for the full calendar description, credit weight, term offerings, and formal prerequisites."
           />
         </div>
+      </section>
+
+      {/* what's on the map */}
+      <section style={{
+        borderTop: '1px solid var(--color-rule)',
+        padding: 'var(--space-2xl) var(--space-lg)',
+        maxWidth: 960,
+        margin: '0 auto',
+        width: '100%',
+        boxSizing: 'border-box',
+      }}>
+        <h2 style={{
+          fontFamily: 'var(--font-display)',
+          fontSize: 'var(--text-2xl)',
+          fontWeight: 700,
+          letterSpacing: '-0.01em',
+          color: 'var(--color-ink)',
+          margin: '0 0 var(--space-lg) 0',
+        }}>
+          What's on the map
+        </h2>
+        <ul
+          className="feature-list"
+          style={{
+            listStyle: 'none',
+            margin: 0,
+            padding: 0,
+            columns: 2,
+            columnGap: 'var(--space-xl)',
+          }}
+        >
+          {[
+            'Prerequisite chain visualization',
+            'Four-year semester grid',
+            'Elective and breadth slot markers',
+            'Course details, credits, and term offerings',
+            'Professor info and RateMyProfessors ratings',
+            'Recent student reviews per professor',
+            'All programs from the 2026-2027 calendar',
+            'Works on mobile',
+          ].map(f => (
+            <li key={f} style={{
+              fontSize: 'var(--text-sm)',
+              color: 'var(--color-ink-2)',
+              padding: 'var(--space-xs) 0',
+              borderBottom: '1px solid var(--color-rule)',
+              breakInside: 'avoid',
+              display: 'flex',
+              alignItems: 'center',
+              gap: 'var(--space-xs)',
+            }}>
+              <span style={{ color: 'var(--color-accent)', fontWeight: 700, flexShrink: 0 }}>—</span>
+              {f}
+            </li>
+          ))}
+        </ul>
       </section>
 
       {/* CTA band */}
@@ -468,7 +537,7 @@ export default function Home() {
 
 // Stat
 
-const Stat = ({ value, label }) => (
+const Stat = ({ value, label, fixed }) => (
   <div style={{ textAlign: 'center', padding: 'var(--space-sm) 0' }}>
     <div style={{
       fontFamily: 'var(--font-display)',
@@ -479,7 +548,7 @@ const Stat = ({ value, label }) => (
       marginBottom: 6,
       letterSpacing: '-0.02em',
     }}>
-      {value != null ? `${value.toLocaleString()}+` : '—'}
+      {fixed ? value : (value != null ? `${value.toLocaleString()}+` : '—')}
     </div>
     <div style={{
       fontSize: 'var(--text-xs)',
@@ -530,45 +599,3 @@ const Step = ({ num, title, body }) => (
   </div>
 )
 
-//  ProgramCard 
-
-const ProgramCard = ({ program }) => (
-  <a
-    href={`/map?dept=${program.dept_id}&p=${program.program_id}`}
-    className="prog-card"
-    style={{
-      display: 'block',
-      padding: 'var(--space-md)',
-      border: '1px solid var(--color-rule)',
-      borderRadius: 'var(--radius-card)',
-      background: 'var(--color-paper)',
-      textDecoration: 'none',
-      transition: 'border-color var(--dur-short) var(--ease-out), background var(--dur-short) var(--ease-out)',
-    }}
-  >
-    <div style={{
-      fontSize: 'var(--text-sm)',
-      fontWeight: 600,
-      color: 'var(--color-ink)',
-      lineHeight: 1.35,
-      marginBottom: 4,
-    }}>
-      {trimDegree(program.degree)}
-    </div>
-    <div style={{
-      fontSize: 11,
-      color: 'var(--color-ink-3)',
-      marginBottom: 'var(--space-md)',
-      lineHeight: 1.4,
-    }}>
-      {program.dept_name}
-    </div>
-    <div style={{
-      fontSize: 'var(--text-xs)',
-      fontWeight: 600,
-      color: 'var(--color-accent)',
-    }}>
-      View map →
-    </div>
-  </a>
-)

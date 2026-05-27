@@ -18,7 +18,7 @@ TERMS = [
     ("202710", "Winter 2027"),
 ]
 
-# All undergrad subject codes we care about (pulled from the search page)
+# pulls all undergrad subject codes from the timetable search page
 def get_subject_codes(session: requests.Session, term_code: str, session_id: str) -> list[str]:
     resp = session.post(f"{BASE_URL}/bwysched.p_search_fields", data={
         "wsea_code": "EXT",
@@ -33,7 +33,6 @@ def get_session_id(session: requests.Session, term_code: str) -> str:
     sid = re.search(r'session_id" value="(\d+)"', resp.text)
     if not sid:
         raise RuntimeError("Could not get session_id")
-    # Now post the term selection to advance the session
     session.post(f"{BASE_URL}/bwysched.p_search_fields", data={
         "wsea_code": "EXT",
         "term_code": term_code,
@@ -42,30 +41,12 @@ def get_session_id(session: requests.Session, term_code: str) -> str:
     return sid.group(1)
 
 
-DUMMY_FIELDS = {
-    "sel_aud": "dummy", "sel_subj": "dummy", "sel_camp": "dummy",
-    "sel_sess": "dummy", "sel_attr": "dummy", "sel_levl": "dummy",
-    "sel_schd": "dummy", "sel_insm": "dummy", "sel_link": "dummy",
-    "sel_wait": "dummy", "sel_day": "dummy", "sel_begin_hh": "dummy",
-    "sel_begin_mi": "dummy", "sel_begin_am_pm": "dummy",
-    "sel_end_hh": "dummy", "sel_end_mi": "dummy",
-    "sel_end_am_pm": "dummy", "sel_instruct": "dummy",
-    "sel_special": "dummy", "sel_resd": "dummy", "sel_breadth": "dummy",
-}
-
-DAY_FIELDS = {
-    "sel_day": ["m", "t", "w", "r", "f", "s"],
-    "sel_begin_hh": "0", "sel_begin_mi": "0", "sel_begin_am_pm": "a",
-    "sel_end_hh": "23", "sel_end_mi": "59", "sel_end_am_pm": "p",
-    "sel_levl": "UG",
-}
+INVALID_INSTRUCTOR_NAMES = frozenset({
+    'tba', 'staff', 'lecture', 'tutorial', 'lab', 'seminar', 'yes', 'no', 'open', 'closed'
+})
 
 
 def parse_instructors(html: str, subj: str, term_label: str) -> list[tuple]:
-    """
-    Returns list of (course_code, term, instructor_name) tuples.
-    Only includes Lecture/Seminar rows to avoid duplicating per tutorial section.
-    """
     results = []
     seen = set()
     for row in re.split(r'<tr\b', html):
@@ -73,14 +54,12 @@ def parse_instructors(html: str, subj: str, term_label: str) -> list[tuple]:
         type_m = re.search(r'<td[^>]*>(Lecture|Seminar)</td>', row)
         if not code_m or not type_m:
             continue
-        # Instructor is the last plain-text td (no href inside)
+        # instructor name sits in the last plain-text td with no link inside it
         plain_tds = re.findall(r'<td[^>]*>\s*([A-Za-z][^<\n]{2,50}?)\s*</td>', row)
         if not plain_tds:
             continue
         instructor = plain_tds[-1].strip()
-        if not instructor or '&nbsp;' in instructor or instructor.lower() in (
-            'tba', 'staff', 'lecture', 'tutorial', 'lab', 'seminar', 'yes', 'no', 'open', 'closed'
-        ):
+        if not instructor or '&nbsp;' in instructor or instructor.lower() in INVALID_INSTRUCTOR_NAMES:
             continue
         code = f"{subj} {code_m.group(1)}"
         key = (code, term_label, instructor)
@@ -92,25 +71,7 @@ def parse_instructors(html: str, subj: str, term_label: str) -> list[tuple]:
 
 def scrape_subject(session: requests.Session, term_code: str, term_label: str,
                    session_id: str, subj: str) -> list[tuple]:
-    data = {
-        "wsea_code": "EXT",
-        "term_code": term_code,
-        "session_id": session_id,
-        "ws_numb": "",
-        **DUMMY_FIELDS,
-        "sel_subj": subj,
-        "sel_number": "",
-        **DAY_FIELDS,
-    }
-    # requests doesn't handle repeated keys well with dict; use list of tuples
-    payload = []
-    for k, v in data.items():
-        if isinstance(v, list):
-            for item in v:
-                payload.append((k, item))
-        else:
-            payload.append((k, v))
-    # Add the multi-value day fields correctly
+    # requests drops duplicate keys in dicts, so we use a list of tuples instead
     payload = [
         ("wsea_code", "EXT"), ("term_code", term_code), ("session_id", session_id),
         ("ws_numb", ""), ("sel_aud", "dummy"), ("sel_subj", "dummy"),
@@ -180,7 +141,7 @@ def main():
                     upsert_rows(conn, rows)
                     print(f"  {subj}: {len(rows)} sections")
                     total += len(rows)
-                time.sleep(0.4)  # be polite
+                time.sleep(0.4)  # don't hammer Carleton Central
             except Exception as e:
                 print(f"  {subj}: ERROR {e}")
 

@@ -60,12 +60,13 @@ def get_stats(request: Request):
     conn = get_connection()
     try:
         cur = conn.cursor()
-        cur.execute("SELECT COUNT(*) FROM departments")
-        dept_count = cur.fetchone()[0]
-        cur.execute("SELECT COUNT(*) FROM programs")
-        prog_count = cur.fetchone()[0]
-        cur.execute("SELECT COUNT(*) FROM courses")
-        course_count = cur.fetchone()[0]
+        cur.execute("""
+            SELECT
+                (SELECT COUNT(*) FROM departments),
+                (SELECT COUNT(*) FROM programs),
+                (SELECT COUNT(*) FROM courses)
+        """)
+        dept_count, prog_count, course_count = cur.fetchone()
         cur.close()
         return {"departments": dept_count, "programs": prog_count, "courses": course_count}
     except Exception as e:
@@ -202,28 +203,24 @@ def get_featured_programs(request: Request):
     ]
     conn = get_connection()
     try:
-        cur      = conn.cursor()
-        results  = []
-        seen_ids = set()
-        for kw in keywords:
-            cur.execute("""
-                SELECT p.program_id, p.dept_id, p.degree, d.name AS dept_name
-                FROM programs p
-                JOIN departments d USING(dept_id)
-                WHERE p.degree ILIKE %s
-                ORDER BY length(p.degree)
-                LIMIT 1
-            """, (f'%{kw}%',))
-            row = cur.fetchone()
-            if row and row[0] not in seen_ids:
-                seen_ids.add(row[0])
-                results.append({
-                    "program_id": row[0],
-                    "dept_id":    row[1],
-                    "degree":     row[2],
-                    "dept_name":  row[3],
-                })
+        cur = conn.cursor()
+        # one query: per keyword, pick the shortest matching degree name
+        cur.execute("""
+            SELECT DISTINCT ON (kw) kw, p.program_id, p.dept_id, p.degree, d.name
+            FROM unnest(%s::text[]) AS kw
+            JOIN programs p ON p.degree ILIKE '%%' || kw || '%%'
+            JOIN departments d USING(dept_id)
+            ORDER BY kw, length(p.degree)
+        """, (keywords,))
+        rows = cur.fetchall()
         cur.close()
+        seen_ids = set()
+        results  = []
+        for _, prog_id, dept_id, degree, dept_name in rows:
+            if prog_id not in seen_ids:
+                seen_ids.add(prog_id)
+                results.append({"program_id": prog_id, "dept_id": dept_id,
+                                 "degree": degree, "dept_name": dept_name})
         return results[:6]
     except Exception as e:
         logger.error("GET /programs/featured failed: %s", e, exc_info=True)
@@ -261,8 +258,8 @@ def get_program(request: Request, program_id: int):
         """, (program_id,))
         edges = cur.fetchall()
 
-        # for concentrations and streams, merge the full base degree so the
-        # complete program path is visible alongside the specific courses
+        # concentrations and streams get the full base degree merged in so the
+        # complete prereq path shows up alongside the concentration-specific courses
         base_reqs  = []
         base_edges = []
         deg_lower = degree.lower()
@@ -270,7 +267,7 @@ def get_program(request: Request, program_id: int):
         is_stream        = deg_lower.startswith("stream in")
         if is_concentration or is_stream:
             if is_stream:
-                # streams belong to the International Business Honours degree
+                # streams are under International Business Honours, not the generic B.Com
                 base_query = """
                     SELECT program_id, degree FROM programs
                     WHERE dept_id = %s

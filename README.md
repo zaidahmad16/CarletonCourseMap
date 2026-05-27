@@ -28,7 +28,7 @@ No account needed. Just open it.
 | Frontend | Next.js 15 (App Router), ReactFlow, deployed on Vercel |
 | Backend | FastAPI, deployed on Fly.io |
 | Database | PostgreSQL on Neon |
-| Scraper | Python -- Carleton undergraduate calendar + Carleton Central timetable |
+| Scraper | `parsel` (Python) -- Carleton undergraduate calendar + Carleton Central timetable |
 | Professor ratings | `ratemyprofessors-client` via a Next.js API route |
 
 ---

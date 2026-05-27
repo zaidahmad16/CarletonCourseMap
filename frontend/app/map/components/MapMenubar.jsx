@@ -1,12 +1,10 @@
-/* menubar with View, Program, and Help menus using Base UI */
-
 'use client'
 
 import * as React from 'react'
 import { Menubar } from '@base-ui-components/react/menubar'
 import { Menu } from '@base-ui-components/react/menu'
 
-// shared style tokens, all values reference CSS vars from globals.css
+// style tokens, all values come from CSS vars in globals.css
 
 const triggerBase = {
   display: 'inline-flex',
@@ -64,7 +62,7 @@ const separatorStyle = {
   margin: '4px 0',
 }
 
-// sub-components
+// sub-components below
 
 const MenuTrigger = React.forwardRef(({ children, open, ...props }, ref) => (
   <Menu.Trigger
@@ -131,7 +129,7 @@ const MenuItem = ({ children, shortcut, disabled, onClick, ...props }) => (
   </Menu.Item>
 )
 
-// MapMenubar
+// main export
 
 export const MapMenubar = ({
   onFitView,
@@ -200,7 +198,7 @@ export const MapMenubar = ({
               <div style={separatorStyle} />
               <MenuItem disabled>
                 <span style={{ color: 'var(--color-ink-3)', fontSize: 'var(--text-xs)' }}>
-                  CarletonCourseMap — not official
+                  CarletonCourseMap, not official
                 </span>
               </MenuItem>
             </Menu.Popup>

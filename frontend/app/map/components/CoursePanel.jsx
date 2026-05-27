@@ -255,7 +255,7 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
                   {group.term}
                 </div>
                 {group.instructors.map(({ name: profName, rmp }) => (
-                  <ProfCard key={profName} name={profName} rmp={rmp} />
+                  <ProfCard key={profName} name={profName} rmp={rmp} courseCode={code} />
                 ))}
               </div>
             ))}
@@ -267,9 +267,15 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
   )
 }
 
-const ProfCard = ({ name, rmp }) => {
+const ProfCard = ({ name, rmp, courseCode }) => {
   const [showReviews, setShowReviews] = useState(false)
-  const reviews = rmp?.ratings ?? []
+  const allReviews = rmp?.ratings ?? []
+  const normalise = s => s?.toLowerCase().replace(/\s+/g, '') ?? ''
+  const courseKey = normalise(courseCode)
+  const courseReviews = courseKey
+    ? allReviews.filter(r => normalise(r.course).includes(courseKey) || courseKey.includes(normalise(r.course).slice(0, 6)))
+    : []
+  const reviews = courseReviews.slice(0, 5)
 
   return (
     <div style={{
@@ -348,7 +354,7 @@ const ProfCard = ({ name, rmp }) => {
                   fontFamily: 'var(--font-body)',
                 }}
               >
-                {showReviews ? 'Hide reviews' : `Show ${reviews.length} recent review${reviews.length !== 1 ? 's' : ''}`}
+                {showReviews ? 'Hide reviews' : `Show ${reviews.length} review${reviews.length !== 1 ? 's' : ''}`}
               </button>
 
               {showReviews && (

@@ -43,6 +43,10 @@ One JSON file per department, built by hand from the undergraduate calendar. Eac
 
 Elective recommendations. When your program has a free or breadth elective slot, the site will suggest courses that actually fit, like "any MATH 2000-level or above" resolved into a real list with ratings and prereqs attached.
 
+Minor maps. Same prerequisite graph view, but for Carleton minors — so you can see what a minor adds on top of your degree at a glance.
+
+PDF export. Save your program's course map as a PDF you can keep or print.
+
 ---
 
 ## Not affiliated with Carleton University

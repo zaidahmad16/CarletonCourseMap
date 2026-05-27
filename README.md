@@ -2,7 +2,7 @@
 
 Prerequisite maps for every Carleton undergrad program. Pick a degree, see four years of courses laid out as a graph — what you need, when, and what unlocks what.
 
-**Live:** https://carletoncoursemap.ca/ | **GitHub:** https://github.com/zaidahmad16/CarletonCourseMap
+**Live:** https://carletoncoursemap.ca/ 
 
 Used by 500+ Carleton students.
 

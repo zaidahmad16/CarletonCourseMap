@@ -1,56 +1,52 @@
 # CarletonCourseMap
 
-An interactive course map that helps Carleton University students visualize their program requirements and course prerequisites. See your entire four-year program at a glance—understand which courses block what, which semesters are heavy, and how your choices cascade.
+Prerequisite maps for every Carleton undergrad program. Pick a degree, see four years of courses laid out as a graph — what you need, when, and what unlocks what.
 
-**Live site:** https://www.carletoncoursemap.ca
+**Live:** https://carletoncoursemap.ca/ | **GitHub:** https://github.com/zaidahmad16/CarletonCourseMap
 
----
-
-## Why This Exists
-
-Planning a degree is harder than it should be. Carleton's calendar lists requirements, but doesn't show the structure. This tool does.
-
-Students shouldn't have to manually trace prerequisites across departments. Advisors shouldn't repeat the same explanations. Course dependencies should be visual, not mental math.
-
-CarletonCourseMap puts the actual course structure in front of you—50+ programs, all visualized the same way.
+Used by 500+ Carleton students.
 
 ---
 
-## What You Get
+## What it does
 
-- **See your entire program** - All four years, all requirements, in one interactive map
-- **Understand prerequisites** - Click a course to see what you need before taking it
-- **Plan ahead** - Know which semesters will be heavy and which courses unlock what
-- **Compare programs** - Switch between majors to see how requirements differ
-- **Browse 50+ programs** - Computer Science, Biology, Law, Engineering, and more
+- Prerequisite chains drawn from the actual 2026-2027 calendar
+- Courses arranged by year and term, not just listed
+- Elective and breadth slots marked so you can see where you have flexibility
+- Click any course for the description, credit weight, term offerings, and prerequisites
+- Professor info for Fall 2026 / Winter 2027, with RMP ratings, difficulty scores, and recent student reviews
+- 240+ programs, including streams and concentrations
 
----
-
-## How It Works
-
-Pick a program. The map shows every course requirement, organized by year and semester. Gray lines connect courses to their prerequisites. That's it—no login, no tracking, no setup. Just open and explore.
+No account needed. Just open it.
 
 ---
 
-## Technical Stack
+## Stack
 
-- **Frontend:** React 19 with Next.js, deployed on Railway
-- **Backend:** FastAPI with rate limiting, input validation, and API key protection
-- **Data:** PostgreSQL on Neon, handling 50+ program structures and 10,000+ courses
-- **Visualization:** ReactFlow + Dagre for interactive course dependency diagrams
-- **Scraper:** Python with parsel (XPath + CSS) — scrapes the Carleton undergraduate calendar and the Registrar's class schedule for Fall 2026 / Winter 2027 offerings
-
-The backend includes production-grade security: rate limiting, SQL injection protection, CORS restrictions, API authentication, and comprehensive error handling.
-
----
-
-
-## Status
-
-Live and in active use. Security and performance are continuously monitored.
+| Layer | Tech |
+|---|---|
+| Frontend | Next.js 15 (App Router), ReactFlow, deployed on Vercel |
+| Backend | FastAPI, deployed on Fly.io |
+| Database | PostgreSQL on Neon |
+| Scraper | Python -- Carleton undergraduate calendar + Carleton Central timetable |
+| Professor ratings | `ratemyprofessors-client` via a Next.js API route |
 
 ---
 
-## License
+## How the data gets in
 
-MIT
+One JSON file per department, built by hand from the undergraduate calendar. Each one lists programs, requirements, credit weights, and layout positions for the graph. A scraper pulls Fall 2026 / Winter 2027 instructor assignments from Carleton Central and writes them to the database. Seeding scripts push everything into Neon.
+
+---
+
+## Coming soon
+
+Elective recommendations. When your program has a free or breadth elective slot, the site will suggest courses that actually fit, like "any MATH 2000-level or above" resolved into a real list with ratings and prereqs attached.
+
+---
+
+## Not affiliated with Carleton University
+
+Student project. Data is from the public 2026-2027 undergraduate calendar. Verify your actual requirements with an advisor and the official calendar at https://calendar.carleton.ca.
+
+---

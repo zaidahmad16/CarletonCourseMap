@@ -267,77 +267,181 @@ export const CoursePanel = ({ node, onClose, isMobile }) => {
   )
 }
 
-const ProfCard = ({ name, rmp }) => (
-  <div style={{
-    background: 'var(--color-paper-2)',
-    border: '1px solid var(--color-rule)',
-    borderRadius: 8,
-    padding: '10px 12px',
-    marginBottom: 8,
-  }}>
-    <div style={{
-      display: 'flex',
-      justifyContent: 'space-between',
-      alignItems: 'flex-start',
-      gap: 8,
-    }}>
-      <span style={{
-        fontSize: 'var(--text-sm)',
-        fontWeight: 600,
-        color: 'var(--color-ink)',
-        lineHeight: 1.3,
-      }}>
-        {name}
-      </span>
-      {rmp?.found && (
-        <a
-          href={rmp.rmp_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            fontSize: 'var(--text-xs)',
-            color: 'var(--color-accent)',
-            textDecoration: 'none',
-            whiteSpace: 'nowrap',
-            flexShrink: 0,
-          }}
-        >
-          RMP ↗
-        </a>
-      )}
-    </div>
+const ProfCard = ({ name, rmp }) => {
+  const [showReviews, setShowReviews] = useState(false)
+  const reviews = rmp?.ratings ?? []
 
-    {rmp?.found ? (
+  return (
+    <div style={{
+      background: 'var(--color-paper-2)',
+      border: '1px solid var(--color-rule)',
+      borderRadius: 8,
+      padding: '10px 12px',
+      marginBottom: 8,
+    }}>
       <div style={{
         display: 'flex',
-        gap: 'var(--space-sm)',
-        marginTop: 6,
-        flexWrap: 'wrap',
+        justifyContent: 'space-between',
+        alignItems: 'flex-start',
+        gap: 8,
       }}>
-        <RmpStat label="Rating" value={rmp.overall_rating?.toFixed(1)} outOf={5} color={ratingColor(rmp.overall_rating)} />
-        <RmpStat label="Difficulty" value={rmp.difficulty?.toFixed(1)} outOf={5} color={difficultyColor(rmp.difficulty)} />
-        {rmp.would_take_again != null && (
-          <RmpStat label="Take again" value={`${rmp.would_take_again}%`} />
-        )}
         <span style={{
+          fontSize: 'var(--text-sm)',
+          fontWeight: 600,
+          color: 'var(--color-ink)',
+          lineHeight: 1.3,
+        }}>
+          {name}
+        </span>
+        {rmp?.found && (
+          <a
+            href={rmp.rmp_url}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              fontSize: 'var(--text-xs)',
+              color: 'var(--color-accent)',
+              textDecoration: 'none',
+              whiteSpace: 'nowrap',
+              flexShrink: 0,
+            }}
+          >
+            RMP ↗
+          </a>
+        )}
+      </div>
+
+      {rmp?.found ? (
+        <>
+          <div style={{
+            display: 'flex',
+            gap: 'var(--space-sm)',
+            marginTop: 6,
+            flexWrap: 'wrap',
+          }}>
+            <RmpStat label="Rating" value={rmp.overall_rating?.toFixed(1)} color={ratingColor(rmp.overall_rating)} />
+            <RmpStat label="Difficulty" value={rmp.difficulty?.toFixed(1)} color={difficultyColor(rmp.difficulty)} />
+            {rmp.would_take_again != null && (
+              <RmpStat label="Take again" value={`${rmp.would_take_again}%`} />
+            )}
+            <span style={{
+              fontSize: 'var(--text-xs)',
+              color: 'var(--color-ink-3)',
+              alignSelf: 'flex-end',
+            }}>
+              {rmp.num_ratings} rating{rmp.num_ratings !== 1 ? 's' : ''}
+            </span>
+          </div>
+
+          {reviews.length > 0 && (
+            <>
+              <button
+                onClick={() => setShowReviews(v => !v)}
+                style={{
+                  marginTop: 8,
+                  background: 'none',
+                  border: 'none',
+                  padding: 0,
+                  cursor: 'pointer',
+                  fontSize: 'var(--text-xs)',
+                  color: 'var(--color-accent)',
+                  fontFamily: 'var(--font-body)',
+                }}
+              >
+                {showReviews ? 'Hide reviews' : `Show ${reviews.length} recent review${reviews.length !== 1 ? 's' : ''}`}
+              </button>
+
+              {showReviews && (
+                <div style={{ marginTop: 8, display: 'flex', flexDirection: 'column', gap: 8 }}>
+                  {reviews.map((r, i) => (
+                    <ReviewCard key={i} review={r} />
+                  ))}
+                </div>
+              )}
+            </>
+          )}
+        </>
+      ) : (
+        <div style={{
           fontSize: 'var(--text-xs)',
           color: 'var(--color-ink-3)',
-          alignSelf: 'flex-end',
+          marginTop: 4,
         }}>
-          {rmp.num_ratings} rating{rmp.num_ratings !== 1 ? 's' : ''}
+          Not on RateMyProfessors
+        </div>
+      )}
+    </div>
+  )
+}
+
+const ReviewCard = ({ review }) => {
+  const year = review.date ? new Date(review.date).getFullYear() : null
+  return (
+    <div style={{
+      background: 'var(--color-paper)',
+      border: '1px solid var(--color-rule)',
+      borderRadius: 6,
+      padding: '8px 10px',
+    }}>
+      <div style={{
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        marginBottom: 4,
+        gap: 8,
+      }}>
+        <div style={{ display: 'flex', gap: 8 }}>
+          {review.quality != null && (
+            <span style={{
+              fontSize: 'var(--text-xs)',
+              fontWeight: 700,
+              color: ratingColor(review.quality),
+            }}>
+              {review.quality}/5
+            </span>
+          )}
+          {review.difficulty != null && (
+            <span style={{
+              fontSize: 'var(--text-xs)',
+              color: 'var(--color-ink-3)',
+            }}>
+              Difficulty {review.difficulty}/5
+            </span>
+          )}
+        </div>
+        <span style={{ fontSize: 'var(--text-xs)', color: 'var(--color-ink-3)', flexShrink: 0 }}>
+          {review.course ? `${review.course}${year ? ` · ${year}` : ''}` : year}
         </span>
       </div>
-    ) : (
-      <div style={{
-        fontSize: 'var(--text-xs)',
-        color: 'var(--color-ink-3)',
-        marginTop: 4,
-      }}>
-        Not on RateMyProfessors
-      </div>
-    )}
-  </div>
-)
+      {review.comment && (
+        <p style={{
+          margin: 0,
+          fontSize: 'var(--text-xs)',
+          color: 'var(--color-ink-2)',
+          lineHeight: 1.6,
+        }}>
+          {review.comment}
+        </p>
+      )}
+      {review.tags?.length > 0 && (
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 4, marginTop: 6 }}>
+          {review.tags.map(tag => (
+            <span key={tag} style={{
+              fontSize: 10,
+              background: 'var(--color-paper-2)',
+              border: '1px solid var(--color-rule)',
+              borderRadius: 4,
+              padding: '1px 6px',
+              color: 'var(--color-ink-3)',
+            }}>
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
 
 const RmpStat = ({ label, value, color }) => (
   <div style={{ display: 'flex', flexDirection: 'column', gap: 1 }}>

@@ -4,7 +4,7 @@ Prerequisite maps for every Carleton undergrad program. Pick a degree, see four 
 
 **Live:** https://carletoncoursemap.ca
 
-Used by 500+ Carleton students.
+Used by 700+ Carleton students.
 
 ---
 

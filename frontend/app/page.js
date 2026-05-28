@@ -308,7 +308,7 @@ export default function Home() {
           gridTemplateColumns: 'repeat(3, 1fr)',
           gap: 'var(--space-lg)',
         }}>
-          <Stat value="500+" label="Students helped" fixed />
+          <Stat value="700+" label="Students helped" fixed />
           <Stat value={stats.programs}   label="Programs" />
           <Stat value={stats.courses}    label="Courses indexed" />
         </div>

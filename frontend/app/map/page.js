@@ -112,7 +112,6 @@ export default function MapPage() {
   const [chainIds,        setChainIds]        = useState(null)
   const [isMobile,        setIsMobile]        = useState(false)
   const rfRef             = useRef(null)
-  const initialProgram    = useRef(null)
 
   useEffect(() => {
     const check = () => setIsMobile(window.innerWidth < 640)
@@ -151,13 +150,7 @@ export default function MapPage() {
     setSelectedNode(null)
     fetch(`${API}/programs?dept=${selectedDept}`)
       .then(r => r.json())
-      .then(progs => {
-        setPrograms(progs)
-        if (initialProgram.current) {
-          setSelectedProgram(initialProgram.current)
-          initialProgram.current = null
-        }
-      })
+      .then(setPrograms)
   }, [selectedDept])
 
   // fetch the course map whenever the selected program changes

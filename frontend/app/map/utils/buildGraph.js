@@ -16,9 +16,6 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
   const occupy = (col, row) => occupied.add(`${col}-${row}`)
   const isOccupied = (col, row) => occupied.has(`${col}-${row}`)
 
-  // track which columns have at least one node
-  const colUsed = Array(numCols).fill(false)
-
   // course nodes
   const courseNodes = requirements
     .filter(req => req.courses?.length > 0 && req.layout_col != null)
@@ -28,7 +25,6 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
 
       positionMap[code] = { col: req.layout_col, row: req.layout_row }
       occupy(req.layout_col, req.layout_row)
-      colUsed[req.layout_col] = true
 
       if (!course) {
         return {
@@ -98,7 +94,6 @@ export const buildGraph = (requirements, edges, courseDetails, numCols = 8) => {
     .filter(req => (!req.courses?.length) && req.layout_col != null)
     .map((req, i) => {
       occupy(req.layout_col, req.layout_row)
-      colUsed[req.layout_col] = true
       return {
         id: `elective-${i}`,
         type: 'course',

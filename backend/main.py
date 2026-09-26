@@ -48,7 +48,12 @@ app.add_middleware(
 def health(request: Request):
     try:
         conn = get_connection()
-        conn.close()
+        try:
+            cur = conn.cursor()
+            cur.execute("SELECT 1")
+            cur.close()
+        finally:
+            conn.close()
     except Exception as e:
         logger.error("Health check failed: %s", e, exc_info=True)
         raise HTTPException(status_code=500, detail="Internal server error")
